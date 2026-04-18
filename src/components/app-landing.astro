@@ -1,0 +1,1259 @@
+---
+import { Icon } from "astro-icon/components";
+import type { LandingCopy } from "~/data/landing";
+import IPhoneDevice from "~/components/iphone-device.astro";
+import WatchDevice from "~/components/watch-device.astro";
+
+interface Props {
+  copy: LandingCopy;
+}
+
+const { copy } = Astro.props as Props;
+
+const uiTextByLang = {
+  "zh-CN": {
+    headerTagline: "Apple Watch 优先小游戏合集",
+    downloadShort: "下载",
+    galleryLabel: "游戏画面",
+    galleryTitle: "所有游戏，一次看全",
+    galleryMore: "查看更多",
+    experienceTitle: "Apple Watch 快玩，iPhone 补全",
+    watchTitle: "抬腕就玩",
+    phoneTitle: "完整浏览与排行",
+    faqHeading: "把最常问的几件事先说清楚",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Games for Watch 标志",
+    heroAltOne: "Apple Watch 上的合成西红柿",
+    heroAltTwo: "Apple Watch 上的俄罗斯方块",
+    heroAltThree: "Apple Watch 上的 2048",
+    experienceWatchAlt: "Apple Watch 上的泡泡消除",
+    experiencePhoneAlt: "iPhone 上的排行榜界面",
+    footerStore: "App Store",
+  },
+  en: {
+    headerTagline: "Apple Watch-first mini game collection",
+    downloadShort: "Download",
+    galleryLabel: "Gallery",
+    galleryTitle: "See the full game collection",
+    galleryMore: "See more",
+    experienceTitle: "Apple Watch for quick play, iPhone for more",
+    watchTitle: "Play instantly",
+    phoneTitle: "Browse and rank on iPhone",
+    faqHeading: "A few questions worth answering first",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Games for Watch logo",
+    heroAltOne: "Merge Tomato on Apple Watch",
+    heroAltTwo: "Tetris on Apple Watch",
+    heroAltThree: "2048 on Apple Watch",
+    experienceWatchAlt: "Bubble Shooter on Apple Watch",
+    experiencePhoneAlt: "Ranking screen on iPhone",
+    footerStore: "App Store",
+  },
+  ja: {
+    headerTagline: "Apple Watch向けミニゲーム集",
+    downloadShort: "入手",
+    galleryLabel: "ギャラリー",
+    galleryTitle: "収録ゲームをまとめて見る",
+    galleryMore: "もっと見る",
+    experienceTitle: "Apple Watchで素早く遊び、iPhoneで詳しく見る",
+    watchTitle: "手首ですぐ遊べる",
+    phoneTitle: "一覧とランキングを見やすく",
+    faqHeading: "気になる点を先にまとめて確認",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Games for Watchのロゴ",
+    heroAltOne: "Apple Watchで遊ぶ合成トマト",
+    heroAltTwo: "Apple Watchで遊ぶテトリス",
+    heroAltThree: "Apple Watchで遊ぶ2048",
+    experienceWatchAlt: "Apple Watchで遊ぶバブルシューター",
+    experiencePhoneAlt: "iPhoneのランキング画面",
+    footerStore: "App Store",
+  },
+  ko: {
+    headerTagline: "Apple Watch 우선 미니게임 모음",
+    downloadShort: "다운로드",
+    galleryLabel: "갤러리",
+    galleryTitle: "지원 게임을 한눈에 보기",
+    galleryMore: "더 보기",
+    experienceTitle: "Apple Watch는 빠른 플레이, iPhone은 더 넓은 보기",
+    watchTitle: "손목에서 바로 플레이",
+    phoneTitle: "목록과 랭킹을 더 편하게",
+    faqHeading: "자주 궁금한 점을 먼저 정리했습니다",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Games for Watch 로고",
+    heroAltOne: "Apple Watch에서 플레이하는 토마토 합치기",
+    heroAltTwo: "Apple Watch에서 플레이하는 테트리스",
+    heroAltThree: "Apple Watch에서 플레이하는 2048",
+    experienceWatchAlt: "Apple Watch에서 플레이하는 버블 슈터",
+    experiencePhoneAlt: "iPhone 랭킹 화면",
+    footerStore: "App Store",
+  },
+  fr: {
+    headerTagline: "Mini-jeux d’abord pour Apple Watch",
+    downloadShort: "Telecharger",
+    galleryLabel: "Galerie",
+    galleryTitle: "Voir toute la collection",
+    galleryMore: "Voir plus",
+    experienceTitle: "Apple Watch pour jouer vite, iPhone pour aller plus loin",
+    watchTitle: "Jouer tout de suite",
+    phoneTitle: "Mieux voir la liste et les classements",
+    faqHeading: "Les questions les plus importantes d’abord",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Logo Games for Watch",
+    heroAltOne: "Merge Tomato sur Apple Watch",
+    heroAltTwo: "Tetris sur Apple Watch",
+    heroAltThree: "2048 sur Apple Watch",
+    experienceWatchAlt: "Bubble Shooter sur Apple Watch",
+    experiencePhoneAlt: "Ecran de classement sur iPhone",
+    footerStore: "App Store",
+  },
+  de: {
+    headerTagline: "Minispiele zuerst fur Apple Watch",
+    downloadShort: "Laden",
+    galleryLabel: "Galerie",
+    galleryTitle: "Die ganze Sammlung auf einen Blick",
+    galleryMore: "Mehr sehen",
+    experienceTitle: "Apple Watch fur schnelle Runden, iPhone fur mehr Uberblick",
+    watchTitle: "Sofort am Handgelenk spielen",
+    phoneTitle: "Listen und Rankings besser sehen",
+    faqHeading: "Die wichtigsten Fragen zuerst geklart",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Games for Watch Logo",
+    heroAltOne: "Merge Tomato auf Apple Watch",
+    heroAltTwo: "Tetris auf Apple Watch",
+    heroAltThree: "2048 auf Apple Watch",
+    experienceWatchAlt: "Bubble Shooter auf Apple Watch",
+    experiencePhoneAlt: "Ranking-Ansicht auf dem iPhone",
+    footerStore: "App Store",
+  },
+  es: {
+    headerTagline: "Minijuegos primero para Apple Watch",
+    downloadShort: "Descargar",
+    galleryLabel: "Galeria",
+    galleryTitle: "Ver toda la coleccion",
+    galleryMore: "Ver mas",
+    experienceTitle: "Apple Watch para jugar rapido, iPhone para ver mas",
+    watchTitle: "Jugar al instante",
+    phoneTitle: "Ver lista y ranking mejor",
+    faqHeading: "Las preguntas mas importantes primero",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Logo de Games for Watch",
+    heroAltOne: "Merge Tomato en Apple Watch",
+    heroAltTwo: "Tetris en Apple Watch",
+    heroAltThree: "2048 en Apple Watch",
+    experienceWatchAlt: "Bubble Shooter en Apple Watch",
+    experiencePhoneAlt: "Pantalla de ranking en iPhone",
+    footerStore: "App Store",
+  },
+  pt: {
+    headerTagline: "Minijogos primeiro no Apple Watch",
+    downloadShort: "Baixar",
+    galleryLabel: "Galeria",
+    galleryTitle: "Ver toda a colecao",
+    galleryMore: "Ver mais",
+    experienceTitle: "Apple Watch para jogar rapido, iPhone para explorar mais",
+    watchTitle: "Jogar na hora",
+    phoneTitle: "Ver lista e ranking melhor",
+    faqHeading: "As perguntas mais importantes primeiro",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Logo do Games for Watch",
+    heroAltOne: "Merge Tomato no Apple Watch",
+    heroAltTwo: "Tetris no Apple Watch",
+    heroAltThree: "2048 no Apple Watch",
+    experienceWatchAlt: "Bubble Shooter no Apple Watch",
+    experiencePhoneAlt: "Tela de ranking no iPhone",
+    footerStore: "App Store",
+  },
+  ru: {
+    headerTagline: "Мини-игры прежде всего для Apple Watch",
+    downloadShort: "Скачать",
+    galleryLabel: "Галерея",
+    galleryTitle: "Посмотреть всю коллекцию",
+    galleryMore: "Смотреть еще",
+    experienceTitle: "Apple Watch для быстрой игры, iPhone для большего обзора",
+    watchTitle: "Играть сразу",
+    phoneTitle: "Список и рейтинги удобнее на iPhone",
+    faqHeading: "Сначала разберем самые важные вопросы",
+    watchPlatformLabel: "watchOS",
+    phonePlatformLabel: "iPhone",
+    logoAlt: "Логотип Games for Watch",
+    heroAltOne: "Merge Tomato на Apple Watch",
+    heroAltTwo: "Tetris на Apple Watch",
+    heroAltThree: "2048 на Apple Watch",
+    experienceWatchAlt: "Bubble Shooter на Apple Watch",
+    experiencePhoneAlt: "Экран рейтинга на iPhone",
+    footerStore: "App Store",
+  },
+} as const;
+
+const uiText = uiTextByLang[copy.lang] ?? uiTextByLang.en;
+
+const heroWatchShots = [
+  "/screenshots/watchos/合成西红柿.png",
+  "/screenshots/watchos/俄罗斯方块.png",
+  "/screenshots/watchos/2048.png",
+];
+const heroEyebrow = uiText.headerTagline;
+const heroTitle = copy.heroTitle;
+const galleryLabelMap = {
+  "zh-CN": {
+    gameList: "游戏列表",
+    gomoku: "五子棋",
+    tetris: "俄罗斯方块",
+    bubbleShooter: "泡泡龙",
+    goldMiner: "黄金矿工",
+    soccerStar: "足球之星",
+    racing: "都市赛车",
+    knifeChallenge: "飞刀挑战",
+    brickBreaker: "打砖块",
+    mergeTomato: "合成西红柿",
+    welcome: "欢迎页",
+    iphoneList: "iPhone 游戏列表",
+    moreGames: "更多游戏",
+    ranking: "排行榜",
+    sokoban: "推箱子",
+  },
+  en: {
+    gameList: "Game list",
+    gomoku: "Gomoku",
+    tetris: "Tetris",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Racing",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Welcome",
+    iphoneList: "iPhone game list",
+    moreGames: "More games",
+    ranking: "Ranking",
+    sokoban: "Sokoban",
+  },
+  ja: {
+    gameList: "ゲーム一覧",
+    gomoku: "五目並べ",
+    tetris: "テトリス",
+    bubbleShooter: "バブルシューター",
+    goldMiner: "ゴールドマイナー",
+    soccerStar: "サッカースター",
+    racing: "レーシング",
+    knifeChallenge: "ナイフチャレンジ",
+    brickBreaker: "ブロック崩し",
+    mergeTomato: "合成トマト",
+    welcome: "ウェルカム画面",
+    iphoneList: "iPhoneゲーム一覧",
+    moreGames: "その他のゲーム",
+    ranking: "ランキング",
+    sokoban: "倉庫番",
+  },
+  ko: {
+    gameList: "게임 목록",
+    gomoku: "오목",
+    tetris: "테트리스",
+    bubbleShooter: "버블 슈터",
+    goldMiner: "골드 마이너",
+    soccerStar: "축구 스타",
+    racing: "레이싱",
+    knifeChallenge: "나이프 챌린지",
+    brickBreaker: "벽돌깨기",
+    mergeTomato: "토마토 합치기",
+    welcome: "환영 화면",
+    iphoneList: "iPhone 게임 목록",
+    moreGames: "더 많은 게임",
+    ranking: "랭킹",
+    sokoban: "소코반",
+  },
+  fr: {
+    gameList: "Liste des jeux",
+    gomoku: "Gomoku",
+    tetris: "Tetris",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Course",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Ecran d’accueil",
+    iphoneList: "Liste iPhone",
+    moreGames: "Plus de jeux",
+    ranking: "Classement",
+    sokoban: "Sokoban",
+  },
+  de: {
+    gameList: "Spieleliste",
+    gomoku: "Gomoku",
+    tetris: "Tetris",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Rennspiel",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Willkommensbildschirm",
+    iphoneList: "iPhone-Spieleliste",
+    moreGames: "Mehr Spiele",
+    ranking: "Ranking",
+    sokoban: "Sokoban",
+  },
+  es: {
+    gameList: "Lista de juegos",
+    gomoku: "Gomoku",
+    tetris: "Tetris",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Carreras",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Pantalla de bienvenida",
+    iphoneList: "Lista de juegos en iPhone",
+    moreGames: "Mas juegos",
+    ranking: "Ranking",
+    sokoban: "Sokoban",
+  },
+  pt: {
+    gameList: "Lista de jogos",
+    gomoku: "Gomoku",
+    tetris: "Tetris",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Corrida",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Tela de boas-vindas",
+    iphoneList: "Lista de jogos no iPhone",
+    moreGames: "Mais jogos",
+    ranking: "Ranking",
+    sokoban: "Sokoban",
+  },
+  ru: {
+    gameList: "Список игр",
+    gomoku: "Гомоку",
+    tetris: "Тетрис",
+    bubbleShooter: "Bubble Shooter",
+    goldMiner: "Gold Miner",
+    soccerStar: "Soccer Star",
+    racing: "Гонки",
+    knifeChallenge: "Knife Challenge",
+    brickBreaker: "Brick Breaker",
+    mergeTomato: "Merge Tomato",
+    welcome: "Экран приветствия",
+    iphoneList: "Список игр на iPhone",
+    moreGames: "Больше игр",
+    ranking: "Рейтинг",
+    sokoban: "Сокобан",
+  },
+} as const;
+
+const galleryLabels = galleryLabelMap[copy.lang] ?? galleryLabelMap.en;
+const galleryItems = [
+  { type: "watch", src: "/screenshots/watchos/游戏列表 1.png", label: galleryLabels.gameList, size: "lg" },
+  { type: "watch", src: "/screenshots/watchos/2048.png", label: "2048", size: "md" },
+  { type: "watch", src: "/screenshots/watchos/五子棋.png", label: galleryLabels.gomoku, size: "md" },
+  { type: "watch", src: "/screenshots/watchos/俄罗斯方块.png", label: galleryLabels.tetris, size: "sm" },
+  { type: "watch", src: "/screenshots/watchos/泡泡龙.png", label: galleryLabels.bubbleShooter, size: "md" },
+  { type: "watch", src: "/screenshots/watchos/黄金矿工.png", label: galleryLabels.goldMiner, size: "md" },
+  { type: "watch", src: "/screenshots/watchos/足球之星.png", label: galleryLabels.soccerStar, size: "sm" },
+  { type: "watch", src: "/screenshots/watchos/都市赛车.png", label: galleryLabels.racing, size: "md" },
+  { type: "watch", src: "/screenshots/watchos/飞刀挑战.png", label: galleryLabels.knifeChallenge, size: "sm" },
+  { type: "watch", src: "/screenshots/watchos/打砖块.png", label: galleryLabels.brickBreaker, size: "sm" },
+  { type: "watch", src: "/screenshots/watchos/合成西红柿.png", label: galleryLabels.mergeTomato, size: "sm" },
+  { type: "ios", src: "/screenshots/ios/欢迎页.png", label: galleryLabels.welcome, size: "lg" },
+  { type: "ios", src: "/screenshots/ios/游戏列表 1.png", label: galleryLabels.iphoneList, size: "md" },
+  { type: "ios", src: "/screenshots/ios/游戏列表 2.png", label: galleryLabels.moreGames, size: "md" },
+  { type: "ios", src: "/screenshots/ios/排行榜.png", label: galleryLabels.ranking, size: "sm" },
+  { type: "ios", src: "/screenshots/ios/推箱子.png", label: galleryLabels.sokoban, size: "sm" },
+  { type: "ios", src: "/screenshots/ios/2048.png", label: "2048", size: "md" },
+  { type: "ios", src: "/screenshots/ios/俄罗斯方块.png", label: galleryLabels.tetris, size: "sm" },
+  { type: "ios", src: "/screenshots/ios/黄金矿工.png", label: galleryLabels.goldMiner, size: "md" },
+  { type: "ios", src: "/screenshots/ios/合成西红柿.png", label: galleryLabels.mergeTomato, size: "sm" },
+];
+const proofIcons = [
+  "mdi:controller-classic-outline",
+  "mdi:close-octagon-outline",
+  "mdi:party-popper",
+  "mdi:watch-variant",
+  "mdi:trophy-outline",
+];
+---
+
+<div class="min-h-screen bg-[#f5f5f7] text-[#1d1d1f]">
+  <header class="sticky top-0 z-50 border-b border-black/6 bg-[rgba(245,245,247,0.72)] backdrop-blur-2xl">
+    <div class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-6 py-4 lg:px-8">
+      <a href="#" class="flex items-center gap-3 text-sm tracking-tight text-black">
+        <img
+          src="/brand/app-logo.png"
+          alt={uiText.logoAlt}
+          class="size-10 rounded-[0.9rem] border border-black/8 bg-white object-cover shadow-[0_8px_24px_rgba(15,23,42,0.08)]"
+          loading="eager"
+          decoding="async"
+        />
+        <span class="hidden sm:block">
+          <span class="block text-[0.98rem] font-semibold">Games for Watch</span>
+          <span class="block text-xs text-black/48">{uiText.headerTagline}</span>
+        </span>
+      </a>
+
+      <nav class="hidden items-center gap-7 text-sm text-black/56 lg:flex">
+        {copy.nav.map((item) => (
+          <a href={item.url} class="transition hover:text-black">
+            {item.title}
+          </a>
+        ))}
+      </nav>
+
+      <div class="flex items-center gap-2.5">
+        <details class="language-switcher">
+          <summary class="language-switcher__summary">
+            <span>Language</span>
+            <span class="language-switcher__current">{copy.languages.find((item) => item.active)?.title ?? "EN"}</span>
+            <Icon name="mdi:chevron-down" class="size-4 text-black/52" />
+          </summary>
+          <div class="language-switcher__menu">
+            {copy.languages.map((item) => (
+              <a
+                href={item.url}
+                class:list={[
+                  "language-switcher__item",
+                  item.active && "language-switcher__item--active",
+                ]}
+              >
+                <span>{item.title}</span>
+                {item.active && <Icon name="mdi:check" class="size-4 shrink-0" />}
+              </a>
+            ))}
+          </div>
+        </details>
+        <a
+          href={copy.appStoreUrl}
+          target="_blank"
+          rel="noreferrer"
+          class="inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
+        >
+          {uiText.downloadShort}
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero-stage overflow-hidden">
+      <div class="mx-auto max-w-7xl px-6 pb-1 pt-8 lg:px-8 lg:pb-3 lg:pt-10">
+        <p class="whitespace-nowrap font-semibold tracking-[-0.02em] text-black/96" style="font-size: clamp(1.8rem, 3.1vw, 4rem);">
+          {heroEyebrow}
+        </p>
+        <div class="mt-4 grid items-start gap-16 lg:grid-cols-[5fr_4fr]">
+          <div class="hero-copy min-w-0 max-w-none">
+            <h1 class:list={[
+              "max-w-full font-semibold tracking-[-0.07em] text-black leading-[0.92] sm:leading-[0.94]",
+              copy.lang === "zh-CN"
+                ? "max-w-none text-balance"
+                : "max-w-none text-balance",
+            ]}
+            style={copy.lang === "zh-CN" ? "font-size: clamp(2.35rem, 4.6vw, 6.4rem);" : "font-size: clamp(3rem, 4.3vw, 5.4rem);"}>
+              {heroTitle}
+            </h1>
+            <p class="mt-6 max-w-[24rem] text-[1rem] leading-[1.7] text-black/60 lg:text-[1.04rem]">
+              {copy.heroLead}
+            </p>
+            <div class="mt-9 flex flex-wrap items-center gap-4">
+              <a
+                href={copy.appStoreUrl}
+                target="_blank"
+                rel="noreferrer"
+                class="inline-flex items-center gap-2.5 rounded-full bg-black px-7 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+              >
+                <Icon name="mdi:apple" class="size-5 shrink-0" />
+                {copy.ctaPrimary}
+              </a>
+              <a
+                href="#gallery"
+                class="inline-flex rounded-full border border-black/10 bg-white/82 px-7 py-4 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white"
+              >
+                {copy.ctaSecondary}
+              </a>
+            </div>
+          </div>
+
+          <div class="hero-visual min-w-0 lg:pr-8" aria-hidden="true">
+            <div class="hero-visual__scene">
+              <div class="hero-visual__halo hero-visual__halo--a"></div>
+              <div class="hero-visual__halo hero-visual__halo--b"></div>
+              <div class="hero-visual__ring"></div>
+              <div class="hero-visual__watch hero-visual__watch--left">
+                <WatchDevice
+                  src={heroWatchShots[0]}
+                  alt={uiText.heroAltOne}
+                  showBands={false}
+                  className="[--device-width:100%] [--device-transform:rotate(-15deg)]"
+                />
+              </div>
+              <div class="hero-visual__watch hero-visual__watch--center">
+                <WatchDevice
+                  src={heroWatchShots[1]}
+                  alt={uiText.heroAltTwo}
+                  showBands={false}
+                  className="[--device-width:100%] [--device-transform:translateY(-0.6rem)]"
+                />
+              </div>
+              <div class="hero-visual__watch hero-visual__watch--right">
+                <WatchDevice
+                  src={heroWatchShots[2]}
+                  alt={uiText.heroAltThree}
+                  showBands={false}
+                  className="[--device-width:100%] [--device-transform:rotate(15deg)]"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="proof" class="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3 lg:mt-12">
+          {copy.proofItems.map((item, index) => (
+            <article class="editorial-card">
+              <div class="proof-card__title-row">
+                <span class="proof-card__icon">
+                  <Icon name={proofIcons[index] ?? "mdi:gamepad-round-outline"} class="size-8" />
+                </span>
+                <h3 class="text-2xl font-semibold tracking-tight text-black">{item.title}</h3>
+              </div>
+              <p class="mt-3 text-sm leading-6 text-black/56">{item.description}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section id="gallery" class="bg-white">
+      <div class="mx-auto max-w-7xl px-4 py-24 lg:px-6 lg:py-28">
+        <div class="max-w-3xl">
+          <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{uiText.galleryLabel}</p>
+          <h2 class="mt-5 text-balance text-4xl font-semibold tracking-[-0.055em] sm:text-5xl">
+            {uiText.galleryTitle}
+          </h2>
+          <p class="mt-5 max-w-2xl text-base leading-7 text-black/58">
+            {copy.galleryLead}
+          </p>
+        </div>
+
+        <div class="gallery-waterfall mt-10">
+          {galleryItems.map((item) => (
+            item.type === "watch" ? (
+              <WatchDevice
+                src={item.src}
+                alt={item.label}
+                showBands={false}
+                className={`gallery-device gallery-device--watch gallery-device--${item.size}`}
+              />
+            ) : (
+              <IPhoneDevice
+                src={item.src}
+                alt={item.label}
+                className={`gallery-device gallery-device--ios gallery-device--${item.size}`}
+              />
+            )
+          ))}
+        </div>
+
+        <div class="mt-12 flex justify-center">
+          <a
+            href={copy.appStoreUrl}
+            target="_blank"
+            rel="noreferrer"
+            class="inline-flex items-center rounded-full border border-black/10 bg-white px-7 py-3.5 text-sm font-semibold uppercase tracking-[0.18em] text-black transition hover:border-black/20 hover:bg-black hover:text-white"
+          >
+            {uiText.galleryMore}
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="section-muted">
+      <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8 lg:py-22">
+        <div class="mb-10 max-w-3xl">
+          <h2 class="text-balance text-3xl font-semibold tracking-[-0.05em] sm:text-4xl">
+            {uiText.experienceTitle}
+          </h2>
+        </div>
+        <div class="grid gap-6 lg:grid-cols-[0.88fr_1.12fr]">
+          <article class="device-story device-story--watch">
+            <div class="device-story__visual">
+              <WatchDevice
+                src="/screenshots/watchos/泡泡龙.png"
+                alt={uiText.experienceWatchAlt}
+                showBands={false}
+                className="[--device-width:min(15rem,62vw)]"
+              />
+            </div>
+            <div class="device-story__body">
+              <p class="device-story__label">{uiText.watchPlatformLabel}</p>
+              <h3 class="mt-4 text-2xl font-semibold tracking-tight">{uiText.watchTitle}</h3>
+            </div>
+          </article>
+
+          <article class="device-story device-story--iphone">
+            <div class="device-story__body">
+              <p class="device-story__label device-story__label--dark">{uiText.phonePlatformLabel}</p>
+              <h3 class="mt-4 text-2xl font-semibold tracking-tight text-black">{uiText.phoneTitle}</h3>
+            </div>
+            <div class="device-story__visual device-story__visual--right">
+              <IPhoneDevice
+                src="/screenshots/ios/排行榜.png"
+                alt={uiText.experiencePhoneAlt}
+                className="[--device-width:min(12.4rem,46vw)]"
+              />
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq" class="bg-white">
+      <div class="mx-auto max-w-5xl px-6 py-22 lg:px-8 lg:py-24">
+        <div class="max-w-3xl">
+          <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{copy.faqTitle}</p>
+          <h2 class:list={[
+            "mt-5 text-5xl font-semibold tracking-[-0.065em] sm:text-6xl lg:text-[5.2rem]",
+            copy.lang === "zh-CN" ? "whitespace-nowrap" : "text-balance",
+          ]}>
+            {uiText.faqHeading}
+          </h2>
+        </div>
+
+        <div class="mt-10 space-y-4">
+          {copy.faqs.map((item, index) => (
+            <details class="faq-item" name="faq" open={index === 0}>
+              <summary class="faq-item__summary">
+                <span>{item.question}</span>
+                <span class="faq-item__icon" aria-hidden="true"></span>
+              </summary>
+              <p class="faq-item__answer">{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="closing-stage">
+      <div class="mx-auto max-w-6xl px-6 py-24 text-center lg:px-8 lg:py-30">
+        <h2 class="mx-auto mt-5 max-w-[15ch] text-balance text-4xl font-semibold tracking-[-0.055em] sm:text-5xl lg:max-w-[18ch] lg:text-[4.2rem]">
+          {copy.closingTitle}
+        </h2>
+        <p class="mx-auto mt-6 max-w-3xl text-base leading-8 text-black/58 lg:max-w-4xl">
+          {copy.closingLead}
+        </p>
+        <div class="mt-10 flex justify-center">
+          <a
+            href={copy.appStoreUrl}
+            target="_blank"
+            rel="noreferrer"
+            class="inline-flex items-center gap-2.5 rounded-full bg-black px-8 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+          >
+            <Icon name="mdi:apple" class="size-5 shrink-0" />
+            {copy.ctaPrimary}
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="border-t border-black/6 bg-[#f5f5f7]">
+    <div class="mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm text-black/52 sm:flex-row sm:items-center sm:justify-between lg:px-8">
+      <p>{copy.footer}</p>
+      <div class="flex items-center gap-4">
+        <a href={copy.appStoreUrl} target="_blank" rel="noreferrer" class="transition hover:text-black">
+          {uiText.footerStore}
+        </a>
+        <a href="https://gamesforwatch.com" class="transition hover:text-black">
+          gamesforwatch.com
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<style is:global>
+  body {
+    font-family:
+      "SF Pro Display",
+      "SF Pro Text",
+      "PingFang SC",
+      -apple-system,
+      BlinkMacSystemFont,
+      "Helvetica Neue",
+      sans-serif;
+    background: #f5f5f7;
+    color: #1d1d1f;
+  }
+
+  .language-switcher {
+    position: relative;
+  }
+
+  .language-switcher[open] .language-switcher__summary {
+    border-color: rgba(0, 0, 0, 0.12);
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.08);
+  }
+
+  .language-switcher__summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    min-width: 8.6rem;
+    cursor: pointer;
+    list-style: none;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.84);
+    padding: 0.7rem 0.95rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgba(29, 29, 31, 0.92);
+    transition:
+      border-color 180ms ease,
+      background 180ms ease,
+      box-shadow 180ms ease;
+  }
+
+  .language-switcher__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .language-switcher__current {
+    margin-left: auto;
+    color: rgba(29, 29, 31, 0.58);
+  }
+
+  .language-switcher__menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.6rem);
+    z-index: 60;
+    display: grid;
+    min-width: 13rem;
+    gap: 0.2rem;
+    border-radius: 1.25rem;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.97);
+    padding: 0.45rem;
+    box-shadow:
+      0 28px 60px rgba(15, 23, 42, 0.12),
+      inset 0 1px 0 rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(18px);
+  }
+
+  .language-switcher__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.8rem;
+    border-radius: 0.95rem;
+    padding: 0.72rem 0.82rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: rgba(29, 29, 31, 0.78);
+    transition:
+      background 180ms ease,
+      color 180ms ease;
+  }
+
+  .language-switcher__item:hover {
+    background: rgba(0, 0, 0, 0.045);
+    color: rgba(29, 29, 31, 0.96);
+  }
+
+  .language-switcher__item--active {
+    background: rgba(0, 0, 0, 0.06);
+    color: rgba(29, 29, 31, 0.98);
+  }
+
+  .hero-stage {
+    position: relative;
+    background:
+      radial-gradient(circle at 16% 16%, rgba(255, 255, 255, 0.94), transparent 24%),
+      radial-gradient(circle at 82% 22%, rgba(196, 214, 255, 0.62), transparent 22%),
+      radial-gradient(circle at 78% 62%, rgba(235, 240, 255, 0.95), transparent 24%),
+      linear-gradient(180deg, #f5f5f7 0%, #eef3fb 52%, #f7f8fa 100%);
+  }
+
+  .hero-stage::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 0;
+    height: 12rem;
+    background: linear-gradient(180deg, rgba(245, 245, 247, 0), rgba(245, 245, 247, 1));
+    pointer-events: none;
+  }
+
+  .hero-visual {
+    position: relative;
+    display: grid;
+    place-items: center;
+    min-height: 24rem;
+  }
+
+  .hero-visual__scene {
+    position: relative;
+    width: min(100%, 38rem);
+    aspect-ratio: 1;
+  }
+
+  .hero-visual__halo,
+  .hero-visual__ring {
+    position: absolute;
+    border-radius: 999px;
+    pointer-events: none;
+  }
+
+  .hero-visual__halo--a {
+    inset: 14% 7% 18% 18%;
+    background: radial-gradient(circle at center, rgba(255, 255, 255, 0.95), rgba(230, 235, 244, 0.7) 52%, rgba(230, 235, 244, 0) 76%);
+    filter: blur(10px);
+  }
+
+  .hero-visual__halo--b {
+    inset: 24% 11% 10% 24%;
+    background: radial-gradient(circle at center, rgba(137, 178, 255, 0.18), rgba(186, 193, 255, 0.07) 48%, rgba(255, 255, 255, 0) 70%);
+    filter: blur(16px);
+  }
+
+  .hero-visual__ring {
+    left: 14%;
+    right: 8%;
+    top: 10%;
+    bottom: 10%;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    background: radial-gradient(circle at center, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 62%);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.8),
+      0 38px 110px rgba(15, 23, 42, 0.08);
+  }
+
+  .hero-visual__watch {
+    position: absolute;
+    z-index: 2;
+    animation: drift-main 8s ease-in-out infinite;
+  }
+
+  .hero-visual__watch--left {
+    left: -1%;
+    top: 34%;
+    width: 34.7%;
+    z-index: 2;
+  }
+
+  .hero-visual__watch--center {
+    left: 35.8%;
+    top: -1%;
+    width: 41.6%;
+    z-index: 5;
+  }
+
+  .hero-visual__watch--right {
+    right: -6%;
+    top: 35%;
+    width: 34.7%;
+    z-index: 3;
+  }
+
+  .stat-card,
+  .editorial-card,
+  .reason-row,
+  .compact-strip__card {
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    box-shadow:
+      0 24px 60px rgba(15, 23, 42, 0.05),
+      inset 0 1px 0 rgba(255, 255, 255, 0.72);
+  }
+
+  .stat-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .stat-card {
+    border-radius: 1.7rem;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(245, 248, 252, 0.92));
+    padding: 1.35rem 1.4rem;
+  }
+
+  .stat-card__value {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    color: #101114;
+  }
+
+  .stat-card__label {
+    margin-top: 0.35rem;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .reason-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .reason-grid {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .reason-row__icon {
+    display: inline-flex;
+    height: 3rem;
+    width: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+    background: #101114;
+    color: #fff;
+    box-shadow: 0 14px 24px rgba(15, 23, 42, 0.14);
+  }
+
+  .section-muted {
+    background:
+      linear-gradient(180deg, #f7f8fb 0%, #eef2f8 100%);
+  }
+
+  .compact-strip {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .scenario-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .compact-strip__card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 1.6rem;
+    background: linear-gradient(180deg, rgba(250, 251, 253, 0.96), rgba(245, 247, 250, 0.92));
+    padding: 1.1rem 1.15rem;
+  }
+
+  .scenario-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .scenario-card__label {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    background: rgba(16, 17, 20, 0.08);
+    padding: 0.28rem 0.7rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(16, 17, 20, 0.62);
+  }
+
+  .editorial-card {
+    border-radius: 2rem;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(244, 247, 252, 0.9));
+    padding: 2rem;
+  }
+
+  .proof-card__icon {
+    display: inline-flex;
+    flex: 0 0 auto;
+    height: 2.3rem;
+    width: 2.3rem;
+    align-items: center;
+    justify-content: center;
+    color: #1f2937;
+  }
+
+  .proof-card__title-row {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+  }
+
+  .device-story {
+    display: grid;
+    gap: 2rem;
+    border-radius: 2.35rem;
+    padding: 2.2rem;
+  }
+
+  .device-story--watch {
+    align-items: center;
+    background:
+      radial-gradient(circle at top, rgba(95, 115, 164, 0.26), transparent 34%),
+      linear-gradient(180deg, #15171d 0%, #090a0d 100%);
+    color: #fff;
+    box-shadow: 0 34px 90px rgba(15, 23, 42, 0.22);
+  }
+
+  .device-story--iphone {
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    background:
+      radial-gradient(circle at top right, rgba(188, 205, 247, 0.3), transparent 26%),
+      linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(243, 246, 250, 0.94));
+    box-shadow:
+      0 28px 70px rgba(15, 23, 42, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.82);
+  }
+
+  .device-story__visual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .device-story__visual--right {
+    padding-right: 0.5rem;
+  }
+
+  .device-story__label {
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.44);
+  }
+
+  .device-story__label--dark {
+    color: rgba(0, 0, 0, 0.4);
+  }
+
+  .faq-item {
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    border-radius: 1.7rem;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(246, 248, 252, 0.94));
+    box-shadow:
+      0 20px 48px rgba(15, 23, 42, 0.05),
+      inset 0 1px 0 rgba(255, 255, 255, 0.76);
+  }
+
+  .faq-item__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    cursor: pointer;
+    list-style: none;
+    padding: 1.35rem 1.5rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #101114;
+  }
+
+  .faq-item__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-item__icon {
+    position: relative;
+    flex: 0 0 auto;
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .faq-item__icon::before,
+  .faq-item__icon::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 2px;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.52);
+    transform: translate(-50%, -50%);
+    transition: transform 180ms ease;
+  }
+
+  .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+
+  .faq-item[open] .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  .faq-item__answer {
+    padding: 0 1.5rem 1.45rem;
+    max-width: 58rem;
+    font-size: 0.98rem;
+    line-height: 1.75;
+    color: rgba(0, 0, 0, 0.62);
+  }
+
+  .gallery-waterfall {
+    column-count: 4;
+    column-gap: 0.45rem;
+  }
+
+  .gallery-waterfall :global(.gallery-device) {
+    break-inside: avoid;
+    display: block;
+    width: 100%;
+    margin-inline: auto;
+    margin-bottom: 0.35rem;
+  }
+
+  .gallery-waterfall :global(.gallery-device--watch) {
+    --device-width: min(12.6rem, 96%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--ios) {
+    --device-width: min(11.8rem, 94%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--watch.gallery-device--lg) {
+    --device-width: min(13.4rem, 100%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--watch.gallery-device--md) {
+    --device-width: min(12.5rem, 95%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--watch.gallery-device--sm) {
+    --device-width: min(11.5rem, 90%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--ios.gallery-device--lg) {
+    --device-width: min(12.4rem, 100%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--ios.gallery-device--md) {
+    --device-width: min(11.6rem, 93%);
+  }
+
+  .gallery-waterfall :global(.gallery-device--ios.gallery-device--sm) {
+    --device-width: min(10.7rem, 87%);
+  }
+
+  .closing-stage {
+    background:
+      radial-gradient(circle at top, rgba(206, 221, 255, 0.42), transparent 22%),
+      linear-gradient(180deg, #f5f6f8 0%, #eef2f8 100%);
+  }
+
+  @keyframes drift-main {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+
+    50% {
+      transform: translate3d(0, -12px, 0);
+    }
+  }
+
+  @media (max-width: 1199px) {
+    .hero-visual {
+      min-height: 22rem;
+    }
+
+    .stat-grid,
+    .compact-strip {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .reason-grid,
+    .scenario-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .gallery-waterfall {
+      column-count: 3;
+    }
+
+  }
+
+  @media (max-width: 1023px) {
+    .hero-copy {
+      max-width: none;
+    }
+
+    .hero-visual {
+      min-height: 20rem;
+      margin-top: 0;
+    }
+
+    .device-story--iphone {
+      grid-template-columns: 1fr;
+    }
+
+    .reason-grid,
+    .scenario-grid,
+    .stat-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .gallery-waterfall {
+      column-count: 2;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .hero-stage {
+      background:
+        radial-gradient(circle at 50% 6%, rgba(255, 255, 255, 0.94), transparent 18%),
+        linear-gradient(180deg, #f5f5f7 0%, #eef3fb 48%, #f7f8fa 100%);
+    }
+
+    .hero-visual {
+      min-height: 18rem;
+    }
+
+    .hero-visual__ring {
+      left: 4%;
+      right: 4%;
+      top: 9%;
+      bottom: 8%;
+    }
+
+    .device-story,
+    .editorial-card {
+      padding: 1.5rem;
+    }
+
+    .compact-strip {
+      grid-template-columns: 1fr;
+    }
+
+    .gallery-waterfall {
+      column-count: 1;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-visual__watch {
+      animation: none;
+      transition: none;
+    }
+  }
+</style>

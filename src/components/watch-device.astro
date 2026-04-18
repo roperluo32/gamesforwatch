@@ -1,0 +1,190 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  className?: string;
+  showBands?: boolean;
+}
+
+const { src, alt, className = "", showBands = true } = Astro.props as Props;
+---
+
+<div class={`watch-hardware ${className}`}>
+  <div class="watch-hardware__shadow"></div>
+  {showBands && <div class="watch-hardware__band watch-hardware__band--top"></div>}
+  {showBands && <div class="watch-hardware__band watch-hardware__band--bottom"></div>}
+  <div class:list={["watch-hardware__body", !showBands && "watch-hardware__body--face"]}>
+    <span class="watch-hardware__speaker"></span>
+    <span class="watch-hardware__button"></span>
+    <span class="watch-hardware__crown">
+      <span></span>
+    </span>
+    <div class="watch-hardware__shell">
+      <div class="watch-hardware__screen">
+        <img src={src} alt={alt} loading="eager" />
+        <span class="watch-hardware__reflection"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .watch-hardware {
+    position: relative;
+    display: block;
+    width: min(100%, var(--device-width, 21rem));
+    margin: 0 auto;
+    transform: var(--device-transform, none);
+  }
+
+  .watch-hardware__shadow {
+    position: absolute;
+    inset: 17% 11% 9%;
+    border-radius: 38%;
+    background: radial-gradient(circle at 50% 50%, rgba(12, 18, 32, 0.34), transparent 66%);
+    filter: blur(22px);
+  }
+
+  .watch-hardware__band {
+    position: absolute;
+    left: 50%;
+    width: 41%;
+    transform: translateX(-50%);
+    border-radius: 999px;
+    background:
+      linear-gradient(180deg, rgba(45, 47, 55, 0.96), rgba(16, 18, 23, 0.98)),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0));
+    box-shadow:
+      inset 0 1px 1px rgba(255, 255, 255, 0.12),
+      inset 0 -1px 1px rgba(0, 0, 0, 0.35),
+      0 14px 30px rgba(15, 23, 42, 0.12);
+  }
+
+  .watch-hardware__band--top {
+    top: 0;
+    height: 31%;
+    clip-path: polygon(12% 0, 88% 0, 79% 100%, 21% 100%);
+  }
+
+  .watch-hardware__band--bottom {
+    bottom: 0;
+    height: 31%;
+    clip-path: polygon(21% 0, 79% 0, 88% 100%, 12% 100%);
+  }
+
+  .watch-hardware__body {
+    position: relative;
+    z-index: 1;
+    margin: 23% auto 24%;
+    width: 76%;
+    aspect-ratio: 0.88;
+  }
+
+  .watch-hardware__body--face {
+    margin: 6% auto 8%;
+    width: 92%;
+  }
+
+  .watch-hardware__shell {
+    position: relative;
+    height: 100%;
+    padding: 4.6%;
+    border-radius: 22%;
+    background:
+      linear-gradient(145deg, rgba(255, 255, 255, 0.94) 0%, rgba(190, 195, 204, 0.96) 18%, rgba(105, 111, 121, 0.98) 52%, rgba(22, 26, 33, 1) 100%);
+    box-shadow:
+      inset 0 1px 1px rgba(255, 255, 255, 0.46),
+      inset 0 -1px 1px rgba(0, 0, 0, 0.42),
+      0 34px 86px rgba(15, 23, 42, 0.28);
+  }
+
+  .watch-hardware__shell::before {
+    content: "";
+    position: absolute;
+    inset: 1.35%;
+    border-radius: 20%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0));
+    pointer-events: none;
+  }
+
+  .watch-hardware__screen {
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 17%;
+    background:
+      radial-gradient(circle at top left, rgba(255, 255, 255, 0.08), transparent 30%),
+      #000;
+    box-shadow:
+      inset 0 0 0 1px rgba(255, 255, 255, 0.06),
+      inset 0 16px 22px rgba(255, 255, 255, 0.03),
+      inset 0 -18px 34px rgba(0, 0, 0, 0.18);
+  }
+
+  .watch-hardware__screen img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .watch-hardware__reflection {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(140deg, rgba(255, 255, 255, 0.24), transparent 24%, transparent 56%, rgba(255, 255, 255, 0.1) 72%, transparent 80%),
+      linear-gradient(180deg, rgba(255, 255, 255, 0.08), transparent 18%),
+      radial-gradient(circle at top right, rgba(255, 255, 255, 0.08), transparent 34%);
+    mix-blend-mode: screen;
+    pointer-events: none;
+  }
+
+  .watch-hardware__speaker,
+  .watch-hardware__button,
+  .watch-hardware__crown {
+    position: absolute;
+    right: -4.8%;
+  }
+
+  .watch-hardware__speaker {
+    top: 33.5%;
+    width: 4.8%;
+    height: 11%;
+    border-radius: 0.7rem;
+    background: linear-gradient(180deg, rgba(124, 129, 138, 0.96), rgba(56, 60, 68, 0.98));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18);
+  }
+
+  .watch-hardware__button {
+    top: 47%;
+    width: 5.6%;
+    height: 15%;
+    border-radius: 0.75rem;
+    background: linear-gradient(180deg, rgba(111, 116, 126, 0.98), rgba(36, 40, 49, 1));
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.2),
+      0 4px 8px rgba(0, 0, 0, 0.18);
+  }
+
+  .watch-hardware__crown {
+    top: 36.5%;
+    width: 10.4%;
+    height: 20%;
+    border-radius: 1rem;
+    padding: 0.08rem;
+    background: linear-gradient(180deg, rgba(243, 245, 248, 0.9), rgba(111, 116, 125, 0.98) 35%, rgba(43, 46, 54, 1) 100%);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.28),
+      0 8px 18px rgba(15, 23, 42, 0.2);
+  }
+
+  .watch-hardware__crown span {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.9rem;
+    background:
+      repeating-linear-gradient(180deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.16) 2px, rgba(0, 0, 0, 0.08) 2px, rgba(0, 0, 0, 0.08) 4px),
+      linear-gradient(180deg, rgba(134, 139, 149, 0.96), rgba(62, 67, 76, 1));
+  }
+</style>

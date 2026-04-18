@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamesforwatch.com/sitemap.xml

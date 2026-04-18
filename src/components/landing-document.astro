@@ -1,0 +1,100 @@
+---
+import AppLanding from "~/components/app-landing.astro";
+import type { LandingCopy } from "~/data/landing";
+import { localeAlternates } from "~/data/landing";
+import "~/styles/index.css";
+
+interface Props {
+  copy: LandingCopy;
+  langAttr: string;
+  ogLocale: string;
+  softwareName: string;
+}
+
+const { copy, langAttr, ogLocale, softwareName } = Astro.props as Props;
+const { generator, site } = Astro;
+const image = new URL("social.jpg", site);
+const pageUrl = new URL(copy.url, site);
+const alternateLinks = localeAlternates.map((item) => ({
+  hreflang: item.hreflang,
+  href: new URL(item.path, site).href,
+}));
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Games for Watch",
+  url: pageUrl.href,
+  inLanguage: langAttr,
+};
+
+const softwareSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  name: softwareName,
+  applicationCategory: "GameApplication",
+  operatingSystem: "iOS, watchOS",
+  url: pageUrl.href,
+  downloadUrl: copy.appStoreUrl,
+  inLanguage: langAttr,
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "4.5",
+    ratingCount: "704",
+  },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: copy.faqs.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: item.answer,
+    },
+  })),
+};
+---
+
+<!doctype html>
+<html lang={langAttr} class="h-full motion-safe:scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="/brand/app-logo.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/brand/app-logo.png" />
+    <meta name="generator" content={generator} />
+
+    <title>{copy.title}</title>
+    <meta name="description" content={copy.description} />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href={pageUrl.href} />
+    {alternateLinks.map((item) => (
+      <link rel="alternate" hreflang={item.hreflang} href={item.href} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={new URL("/", site).href} />
+    <meta name="apple-itunes-app" content="app-id=6752821820" />
+
+    <meta property="og:title" content={copy.title} />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content={copy.description} />
+    <meta property="og:image" content={image.href} />
+    <meta property="og:url" content={pageUrl.href} />
+    <meta property="og:site_name" content="Games for Watch" />
+    <meta property="og:locale" content={ogLocale} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={copy.title} />
+    <meta name="twitter:description" content={copy.description} />
+    <meta name="twitter:image" content={image.href} />
+    <meta name="twitter:url" content={pageUrl.href} />
+
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(softwareSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </head>
+  <body class="h-full overflow-x-hidden bg-default text-default text-base">
+    <AppLanding copy={copy} />
+  </body>
+</html>
