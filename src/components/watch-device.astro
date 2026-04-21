@@ -4,9 +4,20 @@ interface Props {
   alt: string;
   className?: string;
   showBands?: boolean;
+  loading?: "eager" | "lazy";
+  decoding?: "sync" | "async" | "auto";
+  fetchpriority?: "high" | "low" | "auto";
 }
 
-const { src, alt, className = "", showBands = true } = Astro.props as Props;
+const {
+  src,
+  alt,
+  className = "",
+  showBands = true,
+  loading = "lazy",
+  decoding = "async",
+  fetchpriority = "auto",
+} = Astro.props as Props;
 ---
 
 <div class={`watch-hardware ${className}`}>
@@ -21,7 +32,13 @@ const { src, alt, className = "", showBands = true } = Astro.props as Props;
     </span>
     <div class="watch-hardware__shell">
       <div class="watch-hardware__screen">
-        <img src={src} alt={alt} loading="eager" />
+        <img
+          src={src}
+          alt={alt}
+          loading={loading}
+          decoding={decoding}
+          fetchpriority={fetchpriority}
+        />
         <span class="watch-hardware__reflection"></span>
       </div>
     </div>

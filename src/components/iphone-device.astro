@@ -3,9 +3,19 @@ interface Props {
   src: string;
   alt: string;
   className?: string;
+  loading?: "eager" | "lazy";
+  decoding?: "sync" | "async" | "auto";
+  fetchpriority?: "high" | "low" | "auto";
 }
 
-const { src, alt, className = "" } = Astro.props as Props;
+const {
+  src,
+  alt,
+  className = "",
+  loading = "lazy",
+  decoding = "async",
+  fetchpriority = "auto",
+} = Astro.props as Props;
 ---
 
 <div class={`iphone-hardware ${className}`}>
@@ -18,7 +28,13 @@ const { src, alt, className = "" } = Astro.props as Props;
     <div class="iphone-hardware__frame">
       <div class="iphone-hardware__island"></div>
       <div class="iphone-hardware__screen">
-        <img src={src} alt={alt} loading="eager" />
+        <img
+          src={src}
+          alt={alt}
+          loading={loading}
+          decoding={decoding}
+          fetchpriority={fetchpriority}
+        />
         <span class="iphone-hardware__glow"></span>
       </div>
     </div>
