@@ -409,7 +409,13 @@ const proofIcons = [
 
       <nav class="hidden items-center gap-7 text-sm text-black/56 lg:flex">
         {copy.nav.map((item) => (
-          <a href={item.url} class="transition hover:text-black">
+          <a
+            href={item.url}
+            class="transition hover:text-black"
+            data-analytics-event="nav_click"
+            data-analytics-id={`nav:${item.url.replace("#", "")}`}
+            data-analytics-section={item.url.replace("#", "")}
+          >
             {item.title}
           </a>
         ))}
@@ -430,6 +436,9 @@ const proofIcons = [
                   "language-switcher__item",
                   item.active && "language-switcher__item--active",
                 ]}
+                data-analytics-event="language_switch"
+                data-analytics-id={`language:${item.locale}`}
+                data-locale-target={item.locale}
               >
                 <span>{item.title}</span>
                 {item.active && <Icon name="mdi:check" class="size-4 shrink-0" />}
@@ -442,6 +451,9 @@ const proofIcons = [
           target="_blank"
           rel="noreferrer"
           class="inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
+          data-analytics-event="cta_click"
+          data-analytics-id="header_download"
+          data-analytics-section="header"
         >
           {uiText.downloadShort}
         </a>
@@ -450,7 +462,7 @@ const proofIcons = [
   </header>
 
   <main>
-    <section class="hero-stage overflow-hidden">
+    <section class="hero-stage overflow-hidden" data-section-id="hero">
       <div class="mx-auto max-w-7xl px-6 pb-1 pt-8 lg:px-8 lg:pb-3 lg:pt-10">
         <p class="whitespace-nowrap font-semibold tracking-[-0.02em] text-black/96" style="font-size: clamp(1.8rem, 3.1vw, 4rem);">
           {heroEyebrow}
@@ -475,6 +487,9 @@ const proofIcons = [
                 target="_blank"
                 rel="noreferrer"
                 class="inline-flex items-center gap-2.5 rounded-full bg-black px-7 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+                data-analytics-event="cta_click"
+                data-analytics-id="hero_primary_download"
+                data-analytics-section="hero"
               >
                 <Icon name="mdi:apple" class="size-5 shrink-0" />
                 {copy.ctaPrimary}
@@ -482,6 +497,9 @@ const proofIcons = [
               <a
                 href="#gallery"
                 class="inline-flex rounded-full border border-black/10 bg-white/82 px-7 py-4 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white"
+                data-analytics-event="cta_click"
+                data-analytics-id="hero_secondary_gallery"
+                data-analytics-section="hero"
               >
                 {copy.ctaSecondary}
               </a>
@@ -520,7 +538,7 @@ const proofIcons = [
             </div>
           </div>
         </div>
-        <div id="proof" class="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3 lg:mt-12">
+        <div id="proof" data-section-id="proof" class="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3 lg:mt-12">
           {copy.proofItems.map((item, index) => (
             <article class="editorial-card">
               <div class="proof-card__title-row">
@@ -536,7 +554,7 @@ const proofIcons = [
       </div>
     </section>
 
-    <section id="gallery" class="bg-white">
+    <section id="gallery" class="bg-white" data-section-id="gallery">
       <div class="mx-auto max-w-7xl px-4 py-24 lg:px-6 lg:py-28">
         <div class="max-w-3xl">
           <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{uiText.galleryLabel}</p>
@@ -573,6 +591,9 @@ const proofIcons = [
             target="_blank"
             rel="noreferrer"
             class="inline-flex items-center rounded-full border border-black/10 bg-white px-7 py-3.5 text-sm font-semibold uppercase tracking-[0.18em] text-black transition hover:border-black/20 hover:bg-black hover:text-white"
+            data-analytics-event="cta_click"
+            data-analytics-id="gallery_download"
+            data-analytics-section="gallery"
           >
             {uiText.galleryMore}
           </a>
@@ -580,7 +601,7 @@ const proofIcons = [
       </div>
     </section>
 
-    <section id="experience" class="section-muted">
+    <section id="experience" class="section-muted" data-section-id="experience">
       <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8 lg:py-22">
         <div class="mb-10 max-w-3xl">
           <h2 class="text-balance text-3xl font-semibold tracking-[-0.05em] sm:text-4xl">
@@ -620,7 +641,7 @@ const proofIcons = [
       </div>
     </section>
 
-    <section id="faq" class="bg-white">
+    <section id="faq" class="bg-white" data-section-id="faq">
       <div class="mx-auto max-w-5xl px-6 py-22 lg:px-8 lg:py-24">
         <div class="max-w-3xl">
           <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{copy.faqTitle}</p>
@@ -646,7 +667,7 @@ const proofIcons = [
       </div>
     </section>
 
-    <section class="closing-stage">
+    <section class="closing-stage" data-section-id="closing">
       <div class="mx-auto max-w-6xl px-6 py-24 text-center lg:px-8 lg:py-30">
         <h2 class="mx-auto mt-5 max-w-[15ch] text-balance text-4xl font-semibold tracking-[-0.055em] sm:text-5xl lg:max-w-[18ch] lg:text-[4.2rem]">
           {copy.closingTitle}
@@ -660,6 +681,9 @@ const proofIcons = [
             target="_blank"
             rel="noreferrer"
             class="inline-flex items-center gap-2.5 rounded-full bg-black px-8 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+            data-analytics-event="cta_click"
+            data-analytics-id="closing_download"
+            data-analytics-section="closing"
           >
             <Icon name="mdi:apple" class="size-5 shrink-0" />
             {copy.ctaPrimary}
@@ -673,7 +697,15 @@ const proofIcons = [
     <div class="mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm text-black/52 sm:flex-row sm:items-center sm:justify-between lg:px-8">
       <p>{copy.footer}</p>
       <div class="flex items-center gap-4">
-        <a href={copy.appStoreUrl} target="_blank" rel="noreferrer" class="transition hover:text-black">
+        <a
+          href={copy.appStoreUrl}
+          target="_blank"
+          rel="noreferrer"
+          class="transition hover:text-black"
+          data-analytics-event="cta_click"
+          data-analytics-id="footer_download"
+          data-analytics-section="footer"
+        >
           {uiText.footerStore}
         </a>
         <a href="https://gamesforwatch.com" class="transition hover:text-black">

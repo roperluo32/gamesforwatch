@@ -1,0 +1,51 @@
+<script is:inline>
+  (() => {
+    if (typeof window === "undefined" || window.location.pathname !== "/") {
+      return;
+    }
+
+    const localePathMap = {
+      en: "/",
+      "zh-CN": "/zh/",
+      ja: "/ja/",
+      ko: "/ko/",
+      fr: "/fr/",
+      de: "/de/",
+      es: "/es/",
+      pt: "/pt/",
+      ru: "/ru/",
+    };
+
+    const normalizeLocale = (input) => {
+      if (!input) {
+        return null;
+      }
+
+      const value = String(input).toLowerCase();
+
+      if (value.startsWith("zh")) return "zh-CN";
+      if (value.startsWith("ja")) return "ja";
+      if (value.startsWith("ko")) return "ko";
+      if (value.startsWith("fr")) return "fr";
+      if (value.startsWith("de")) return "de";
+      if (value.startsWith("es")) return "es";
+      if (value.startsWith("pt")) return "pt";
+      if (value.startsWith("ru")) return "ru";
+      if (value.startsWith("en")) return "en";
+
+      return null;
+    };
+
+    const preferredLocale = normalizeLocale(window.localStorage.getItem("preferred_locale"));
+    const browserLocales = Array.isArray(window.navigator.languages) && window.navigator.languages.length > 0
+      ? window.navigator.languages
+      : [window.navigator.language];
+    const detectedLocale = browserLocales.map(normalizeLocale).find(Boolean);
+    const targetLocale = preferredLocale ?? detectedLocale ?? "en";
+    const targetPath = localePathMap[targetLocale] ?? "/";
+
+    if (targetPath !== "/" && targetPath !== window.location.pathname) {
+      window.location.replace(targetPath);
+    }
+  })();
+</script>

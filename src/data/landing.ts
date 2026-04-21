@@ -6,7 +6,7 @@ export interface LandingCopy {
   description: string;
   url: string;
   nav: Array<{ title: string; url: string }>;
-  languages: Array<{ title: string; url: string; active?: boolean }>;
+  languages: Array<{ title: string; url: string; locale: LandingLocale; active?: boolean }>;
   eyebrow: string;
   heroTitle: string;
   heroLead: string;
@@ -49,8 +49,8 @@ export const appStoreUrl =
   "https://geo.itunes.apple.com/app/id6752821820";
 
 export const localeAlternates = [
-  { hreflang: "zh-CN", path: "/" },
-  { hreflang: "en", path: "/en/" },
+  { hreflang: "en", path: "/" },
+  { hreflang: "zh-CN", path: "/zh/" },
   { hreflang: "ja", path: "/ja/" },
   { hreflang: "ko", path: "/ko/" },
   { hreflang: "fr", path: "/fr/" },
@@ -61,15 +61,15 @@ export const localeAlternates = [
 ] as const;
 
 const localeLanguages = (active: LandingLocale) => [
-  { title: "中文", url: "/", active: active === "zh-CN" },
-  { title: "EN", url: "/en/", active: active === "en" },
-  { title: "日本語", url: "/ja/", active: active === "ja" },
-  { title: "한국어", url: "/ko/", active: active === "ko" },
-  { title: "Fr", url: "/fr/", active: active === "fr" },
-  { title: "DE", url: "/de/", active: active === "de" },
-  { title: "ES", url: "/es/", active: active === "es" },
-  { title: "PT", url: "/pt/", active: active === "pt" },
-  { title: "RU", url: "/ru/", active: active === "ru" },
+  { title: "EN", url: "/", locale: "en", active: active === "en" },
+  { title: "中文", url: "/zh/", locale: "zh-CN", active: active === "zh-CN" },
+  { title: "日本語", url: "/ja/", locale: "ja", active: active === "ja" },
+  { title: "한국어", url: "/ko/", locale: "ko", active: active === "ko" },
+  { title: "Fr", url: "/fr/", locale: "fr", active: active === "fr" },
+  { title: "DE", url: "/de/", locale: "de", active: active === "de" },
+  { title: "ES", url: "/es/", locale: "es", active: active === "es" },
+  { title: "PT", url: "/pt/", locale: "pt", active: active === "pt" },
+  { title: "RU", url: "/ru/", locale: "ru", active: active === "ru" },
 ];
 
 export const zhCopy: LandingCopy = {
@@ -77,7 +77,7 @@ export const zhCopy: LandingCopy = {
   title: "单机游戏大全 - Apple Watch 游戏 App | watchOS 小游戏合集",
   description:
     "单机游戏大全是一款适合 Apple Watch 的 watchOS 小游戏 App，支持 iPhone + Apple Watch 双端。包含 2048、俄罗斯方块、五子棋、泡泡龙、黄金矿工等经典玩法，支持离线游玩、排行榜共享与持续更新。",
-  url: "/",
+  url: "/zh/",
   nav: [
     { title: "真实证明", url: "#proof" },
     { title: "游戏展示", url: "#gallery" },
@@ -250,7 +250,7 @@ export const enCopy: LandingCopy = {
   title: "Games for Watch - Apple Watch Games App | watchOS Mini Games",
   description:
     "Games for Watch is an Apple Watch games app for watchOS with iPhone support. Play quick classics like 2048, Tetris, Gomoku, and Bubble Shooter with offline play, shared leaderboards, and frequent updates.",
-  url: "/en/",
+  url: "/",
   nav: [
     { title: "Proof", url: "#proof" },
     { title: "Screenshots", url: "#gallery" },

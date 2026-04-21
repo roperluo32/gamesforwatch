@@ -1,0 +1,263 @@
+---
+const posthogKey =
+  import.meta.env.PUBLIC_POSTHOG_KEY ??
+  "phc_hts9RHJKhHUgcr0iZTWbPjbVI1dkZq4TI9DvRY9wa6V";
+const posthogHost =
+  import.meta.env.PUBLIC_POSTHOG_HOST ?? "https://us.i.posthog.com";
+---
+
+<script>
+  import posthog from "posthog-js";
+
+  const body = document.body;
+  const locale = body.dataset.locale ?? "en";
+  const posthogKey = body.dataset.posthogKey;
+  const posthogHost = body.dataset.posthogHost ?? "https://us.i.posthog.com";
+  const eventPrefix = "web_gamewatch_";
+  const withPrefix = (eventName) => `${eventPrefix}${eventName}`;
+  const appName = "GamesForWatch";
+
+  if (!posthogKey) {
+    console.warn("PostHog key is missing; analytics disabled.");
+  } else {
+    posthog.init(posthogKey, {
+      api_host: posthogHost,
+      defaults: "2026-01-30",
+      person_profiles: "identified_only",
+      capture_pageview: false,
+      capture_pageleave: false,
+    });
+
+    const pagePath = window.location.pathname;
+    const pageMeta = {
+      "App name": appName,
+      locale,
+      path: pagePath,
+      title: document.title,
+      referrer: document.referrer || undefined,
+    };
+
+    posthog.capture(withPrefix("landing_view"), pageMeta);
+
+    const storePreferredLocale = (nextLocale) => {
+      if (!nextLocale) {
+        return;
+      }
+
+      window.localStorage.setItem("preferred_locale", nextLocale);
+    };
+
+    document.addEventListener("click", (event) => {
+      const target = (event.target instanceof Element
+        ? event.target.closest("[data-analytics-event]")
+        : null);
+
+      if (!(target instanceof HTMLElement)) {
+        return;
+      }
+
+      const eventName = target.dataset.analyticsEvent;
+      const eventId = target.dataset.analyticsId;
+      const sectionId = target.dataset.analyticsSection;
+      const label = target.dataset.analyticsLabel?.trim() || target.textContent?.trim() || undefined;
+      const href = target instanceof HTMLAnchorElement ? target.href : undefined;
+      const nextLocale = target.dataset.localeTarget;
+
+      if (eventName === "language_switch") {
+        storePreferredLocale(nextLocale);
+      }
+
+      posthog.capture(withPrefix(eventName), {
+        ...pageMeta,
+        event_id: eventId,
+        section_id: sectionId,
+        label,
+        href,
+        target_locale: nextLocale,
+      });
+    });
+
+    const sectionElements = Array.from(
+      document.querySelectorAll("[data-section-id]"),
+    );
+    const sectionState = new Map();
+    const sectionBuckets = [
+      { label: "5s", ms: 5000 },
+      { label: "15s", ms: 15000 },
+      { label: "30s", ms: 30000 },
+      { label: "60s", ms: 60000 },
+    ];
+
+    const ensureSectionState = (sectionId) => {
+      if (!sectionState.has(sectionId)) {
+        sectionState.set(sectionId, {
+          firstViewed: false,
+          visibleSince: null,
+          totalVisibleMs: 0,
+          sentBuckets: new Set(),
+        });
+      }
+
+      return sectionState.get(sectionId);
+    };
+
+    const sendSectionBuckets = (sectionId, state) => {
+      for (const bucket of sectionBuckets) {
+        if (state.totalVisibleMs >= bucket.ms && !state.sentBuckets.has(bucket.label)) {
+          state.sentBuckets.add(bucket.label);
+          posthog.capture(withPrefix("section_engaged"), {
+            ...pageMeta,
+            section_id: sectionId,
+            engaged_ms: Math.round(state.totalVisibleMs),
+            engaged_bucket: bucket.label,
+          });
+        }
+      }
+    };
+
+    const flushSectionTime = (sectionId) => {
+      const state = ensureSectionState(sectionId);
+
+      if (state.visibleSince === null) {
+        return;
+      }
+
+      state.totalVisibleMs += performance.now() - state.visibleSince;
+      state.visibleSince = null;
+      sendSectionBuckets(sectionId, state);
+    };
+
+    if (sectionElements.length > 0) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          for (const entry of entries) {
+            const element = entry.target;
+            const sectionId = element.getAttribute("data-section-id");
+
+            if (!sectionId) {
+              continue;
+            }
+
+            const state = ensureSectionState(sectionId);
+
+            if (entry.isIntersecting && entry.intersectionRatio >= 0.35) {
+              if (!state.firstViewed) {
+                state.firstViewed = true;
+                posthog.capture(withPrefix("section_view"), {
+                  ...pageMeta,
+                  section_id: sectionId,
+                });
+              }
+
+              if (state.visibleSince === null) {
+                state.visibleSince = performance.now();
+              }
+            } else {
+              flushSectionTime(sectionId);
+            }
+          }
+        },
+        {
+          threshold: [0.35, 0.6],
+        },
+      );
+
+      for (const sectionElement of sectionElements) {
+        observer.observe(sectionElement);
+      }
+    }
+
+    let visibleSince = document.visibilityState === "visible" ? performance.now() : null;
+    let totalVisibleMs = 0;
+    let pageEngagementSent = false;
+
+    const flushPageVisibleTime = () => {
+      if (visibleSince === null) {
+        return;
+      }
+
+      totalVisibleMs += performance.now() - visibleSince;
+      visibleSince = null;
+    };
+
+    const sendPageEngagement = () => {
+      if (pageEngagementSent) {
+        return;
+      }
+
+      flushPageVisibleTime();
+      pageEngagementSent = true;
+
+      posthog.capture(withPrefix("page_engaged"), {
+        ...pageMeta,
+        engaged_ms: Math.round(totalVisibleMs),
+        engaged_seconds: Math.round(totalVisibleMs / 1000),
+      });
+    };
+
+    const flushAllSections = () => {
+      for (const sectionElement of sectionElements) {
+        const sectionId = sectionElement.getAttribute("data-section-id");
+
+        if (sectionId) {
+          flushSectionTime(sectionId);
+        }
+      }
+    };
+
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "hidden") {
+        flushPageVisibleTime();
+        flushAllSections();
+        return;
+      }
+
+      visibleSince = performance.now();
+    });
+
+    window.addEventListener("pagehide", () => {
+      flushAllSections();
+      sendPageEngagement();
+    });
+
+    const scrollMilestones = [25, 50, 75, 90];
+    const reachedScrollMilestones = new Set();
+    let scrollTicking = false;
+
+    const trackScrollDepth = () => {
+      const maxScrollable = document.documentElement.scrollHeight - window.innerHeight;
+
+      if (maxScrollable <= 0) {
+        return;
+      }
+
+      const percent = Math.round((window.scrollY / maxScrollable) * 100);
+
+      for (const milestone of scrollMilestones) {
+        if (percent >= milestone && !reachedScrollMilestones.has(milestone)) {
+          reachedScrollMilestones.add(milestone);
+          posthog.capture(withPrefix("scroll_depth"), {
+            ...pageMeta,
+            percent: milestone,
+          });
+        }
+      }
+    };
+
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (scrollTicking) {
+          return;
+        }
+
+        scrollTicking = true;
+        window.requestAnimationFrame(() => {
+          trackScrollDepth();
+          scrollTicking = false;
+        });
+      },
+      { passive: true },
+    );
+  }
+</script>

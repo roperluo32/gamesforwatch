@@ -1,4 +1,6 @@
 ---
+import AutoLocaleRedirect from "~/components/auto-locale-redirect.astro";
+import PostHogAnalytics from "~/components/posthog-analytics.astro";
 import AppLanding from "~/components/app-landing.astro";
 import type { LandingCopy } from "~/data/landing";
 import { localeAlternates } from "~/data/landing";
@@ -15,6 +17,11 @@ const { copy, langAttr, ogLocale, softwareName } = Astro.props as Props;
 const { generator, site } = Astro;
 const image = new URL("social.jpg", site);
 const pageUrl = new URL(copy.url, site);
+const posthogKey =
+  import.meta.env.PUBLIC_POSTHOG_KEY ??
+  "phc_hts9RHJKhHUgcr0iZTWbPjbVI1dkZq4TI9DvRY9wa6V";
+const posthogHost =
+  import.meta.env.PUBLIC_POSTHOG_HOST ?? "https://us.i.posthog.com";
 const alternateLinks = localeAlternates.map((item) => ({
   hreflang: item.hreflang,
   href: new URL(item.path, site).href,
@@ -89,12 +96,19 @@ const faqSchema = {
     <meta name="twitter:description" content={copy.description} />
     <meta name="twitter:image" content={image.href} />
     <meta name="twitter:url" content={pageUrl.href} />
+    {copy.lang === "en" && copy.url === "/" && <AutoLocaleRedirect />}
 
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(softwareSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   </head>
-  <body class="h-full overflow-x-hidden bg-default text-default text-base">
+  <body
+    class="h-full overflow-x-hidden bg-default text-default text-base"
+    data-locale={copy.lang}
+    data-posthog-key={posthogKey}
+    data-posthog-host={posthogHost}
+  >
     <AppLanding copy={copy} />
+    <PostHogAnalytics />
   </body>
 </html>

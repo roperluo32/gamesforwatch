@@ -1,6 +1,20 @@
 ---
-import LandingDocument from "~/components/landing-document.astro";
-import { enCopy } from "~/data/landing";
+const target = "/";
 ---
 
-<LandingDocument copy={enCopy} langAttr="en" ogLocale="en_US" softwareName="Games for Watch" />
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex,follow" />
+    <link rel="canonical" href="https://gamesforwatch.com/" />
+    <title>Redirecting to Games for Watch</title>
+    <script is:inline>
+      window.location.replace("/");
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to the English homepage...</p>
+  </body>
+</html>
