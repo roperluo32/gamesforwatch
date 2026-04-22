@@ -1,0 +1,13 @@
+---
+import GuideDocument from "~/components/guide-document.astro";
+import type { GuidePage } from "~/data/guides";
+import { getLocalizedGuideStaticPaths } from "~/data/guides";
+
+export function getStaticPaths() {
+  return getLocalizedGuideStaticPaths();
+}
+
+const { page } = Astro.props as { page: GuidePage };
+---
+
+<GuideDocument page={page} />

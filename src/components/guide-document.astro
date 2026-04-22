@@ -1,0 +1,841 @@
+---
+import { Icon } from "astro-icon/components";
+import IPhoneDevice from "~/components/iphone-device.astro";
+import PostHogAnalytics from "~/components/posthog-analytics.astro";
+import WatchDevice from "~/components/watch-device.astro";
+import type { GuidePage } from "~/data/guides";
+import { appStoreListingName } from "~/data/guides";
+import "~/styles/index.css";
+
+interface Props {
+  page: GuidePage;
+}
+
+const { page } = Astro.props as Props;
+const { generator, site } = Astro;
+const image = new URL("social.jpg", site);
+const pageUrl = new URL(page.path, site);
+const alternateLinks = page.alternatePaths.map((item) => ({
+  hreflang: item.hreflang,
+  href: new URL(item.path, site).href,
+}));
+const posthogKey =
+  import.meta.env.PUBLIC_POSTHOG_KEY ??
+  "phc_hts9RHJKhHUgcr0iZTWbPjbVI1dkZq4TI9DvRY9wa6V";
+const posthogHost =
+  import.meta.env.PUBLIC_POSTHOG_HOST ?? "https://us.i.posthog.com";
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: page.title,
+  description: page.description,
+  url: pageUrl.href,
+  inLanguage: page.langAttr,
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: page.ui.homeLabel,
+      item: new URL(page.homePath, site).href,
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: page.linkTitle,
+      item: pageUrl.href,
+    },
+  ],
+};
+
+const softwareSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  name: appStoreListingName,
+  applicationCategory: "GameApplication",
+  operatingSystem: "iOS, watchOS",
+  url: pageUrl.href,
+  downloadUrl: page.appStoreUrl,
+  inLanguage: page.langAttr,
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: page.faqs.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: item.answer,
+    },
+  })),
+};
+---
+
+<!doctype html>
+<html lang={page.langAttr} class="h-full motion-safe:scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="/brand/app-logo.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/brand/app-logo.png" />
+    <meta name="generator" content={generator} />
+
+    <title>{page.title}</title>
+    <meta name="description" content={page.description} />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href={pageUrl.href} />
+    {
+      alternateLinks.map((item) => (
+        <link rel="alternate" hreflang={item.hreflang} href={item.href} />
+      ))
+    }
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href={new URL(page.defaultPath, site).href}
+    />
+    <meta name="apple-itunes-app" content="app-id=6752821820" />
+
+    <meta property="og:title" content={page.title} />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content={page.description} />
+    <meta property="og:image" content={image.href} />
+    <meta property="og:url" content={pageUrl.href} />
+    <meta property="og:site_name" content="Games for Watch" />
+    <meta property="og:locale" content={page.ogLocale} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={page.title} />
+    <meta name="twitter:description" content={page.description} />
+    <meta name="twitter:image" content={image.href} />
+    <meta name="twitter:url" content={pageUrl.href} />
+
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(webPageSchema)}
+    />
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(breadcrumbSchema)}
+    />
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(softwareSchema)}
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </head>
+  <body
+    class="h-full overflow-x-hidden bg-[#f5f5f7] text-[#1d1d1f] text-base"
+    data-locale={page.locale}
+    data-posthog-key={posthogKey}
+    data-posthog-host={posthogHost}
+  >
+    <div
+      class="min-h-screen bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.92),rgba(245,245,247,1)_46%,rgba(241,244,250,0.96)_100%)]"
+    >
+      <header
+        class="border-black/6 sticky top-0 z-50 border-b bg-[rgba(245,245,247,0.76)] backdrop-blur-2xl"
+      >
+        <div
+          class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-4 lg:px-8"
+        >
+          <a
+            href={page.homePath}
+            class="flex min-w-0 items-center gap-3 text-black"
+          >
+            <img
+              src="/brand/app-logo.png"
+              alt="Games for Watch logo"
+              class="border-black/8 size-10 rounded-[0.9rem] border bg-white object-cover shadow-[0_8px_24px_rgba(15,23,42,0.08)]"
+              loading="eager"
+              decoding="async"
+            />
+            <span class="hidden min-w-0 sm:block">
+              <span class="block truncate font-semibold text-[0.98rem]"
+                >Games for Watch</span
+              >
+              <span class="text-black/48 block truncate text-xs"
+                >{page.ui.headerTagline}</span
+              >
+            </span>
+          </a>
+
+          <nav class="text-black/56 hidden items-center gap-7 text-sm lg:flex">
+            <a href={page.homePath} class="transition hover:text-black"
+              >{page.ui.homeLabel}</a
+            >
+            <a href="#faq" class="transition hover:text-black"
+              >{page.ui.faqLabel}</a
+            >
+            <a href="#related" class="transition hover:text-black"
+              >{page.ui.relatedNavLabel}</a
+            >
+          </nav>
+
+          <div class="flex items-center gap-2.5">
+            <details class="language-switcher">
+              <summary class="language-switcher__summary">
+                <span>{page.ui.languageLabel}</span>
+                <span class="language-switcher__current">
+                  {page.languages.find((item) => item.active)?.title ?? "EN"}
+                </span>
+                <Icon name="mdi:chevron-down" class="text-black/52 size-4" />
+              </summary>
+              <div class="language-switcher__menu">
+                {
+                  page.languages.map((item) => (
+                    <a
+                      href={item.url}
+                      class:list={[
+                        "language-switcher__item",
+                        item.active && "language-switcher__item--active",
+                      ]}
+                    >
+                      <span>{item.title}</span>
+                      {item.active && (
+                        <Icon name="mdi:check" class="size-4 shrink-0" />
+                      )}
+                    </a>
+                  ))
+                }
+              </div>
+            </details>
+            <a
+              href={page.appStoreUrl}
+              target="_blank"
+              rel="noreferrer"
+              class="hover:bg-white/82 inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 font-semibold text-black transition text-sm hover:border-black/20"
+            >
+              {page.ui.storeLabel}
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <section class="overflow-hidden">
+          <div
+            class="mx-auto grid max-w-7xl items-center gap-16 px-6 py-12 lg:grid-cols-[1.02fr_0.98fr] lg:px-8 lg:py-16"
+          >
+            <div class="min-w-0">
+              <p
+                class="border-black/8 bg-white/78 text-black/54 inline-flex rounded-full border px-4 py-2 font-semibold uppercase tracking-[0.22em] text-[0.74rem]"
+              >
+                {page.eyebrow}
+              </p>
+              <h1
+                class="mt-6 max-w-[13ch] text-balance font-semibold leading-[0.92] tracking-[-0.065em] text-[clamp(2.8rem,5vw,5.4rem)] text-black"
+              >
+                {page.headline}
+              </h1>
+              <p class="mt-6 max-w-2xl leading-8 text-black/60 text-base">
+                {page.lead}
+              </p>
+              <div class="guide-note mt-6 max-w-2xl">
+                <Icon
+                  name="mdi:storefront-outline"
+                  class="text-black/56 size-5 shrink-0"
+                />
+                <p>{page.bridgeNote}</p>
+              </div>
+              <div class="mt-7 flex flex-wrap gap-3">
+                {
+                  page.searchIntents.map((item) => (
+                    <span class="border-black/8 bg-white/78 text-black/68 inline-flex rounded-full border px-4 py-2 text-sm">
+                      {item}
+                    </span>
+                  ))
+                }
+              </div>
+              <div class="mt-9 flex flex-wrap items-center gap-4">
+                <a
+                  href={page.appStoreUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  class="hover:bg-black/86 inline-flex items-center gap-2.5 rounded-full bg-black px-7 py-4 font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition text-sm"
+                >
+                  <Icon name="mdi:apple" class="size-5 shrink-0" />
+                  {page.ui.storeLabel}
+                </a>
+                <a
+                  href={page.homePath}
+                  class="hover:bg-white/82 inline-flex rounded-full border border-black/10 bg-white px-7 py-4 font-semibold text-black transition text-sm hover:border-black/20"
+                >
+                  {page.ui.backHomeLabel}
+                </a>
+              </div>
+            </div>
+
+            <div class="relative min-w-0">
+              <div class="guide-orb guide-orb--pink"></div>
+              <div class="guide-orb guide-orb--blue"></div>
+              <div class="grid items-end gap-5 sm:grid-cols-[1fr_0.8fr]">
+                <div class="glass-panel rounded-[2rem] p-5 sm:p-6">
+                  <WatchDevice
+                    src={page.watchImage.src}
+                    alt={page.watchImage.alt}
+                    showBands={false}
+                    className="[--device-transform:rotate(-8deg)] [--device-width:min(100%,18rem)]"
+                    loading="eager"
+                    decoding="sync"
+                    fetchpriority="high"
+                  />
+                </div>
+                <div class="glass-panel rounded-[2rem] p-4 sm:p-5">
+                  <IPhoneDevice
+                    src={page.phoneImage.src}
+                    alt={page.phoneImage.alt}
+                    className="[--device-transform:translateY(0.6rem)] [--device-width:min(100%,12rem)]"
+                    loading="eager"
+                    decoding="sync"
+                    fetchpriority="high"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-white/86">
+          <div
+            class="mx-auto grid max-w-7xl gap-10 px-6 py-20 lg:grid-cols-[0.8fr_1.2fr] lg:px-8"
+          >
+            <div>
+              <p class="section-label">{page.ui.quickAnswerLabel}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.quickAnswerTitle}
+              </h2>
+            </div>
+            <div class="space-y-5">
+              {
+                page.quickAnswerBody.map((item) => (
+                  <p class="text-black/62 leading-8 text-base">{item}</p>
+                ))
+              }
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8">
+            <div class="max-w-3xl">
+              <p class="section-label">{page.ui.searchIntentLabel}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.reasonsTitle}
+              </h2>
+              <p class="text-black/58 mt-5 max-w-2xl leading-8 text-base">
+                {page.reasonsLead}
+              </p>
+            </div>
+            <div class="mt-10 grid gap-5 md:grid-cols-3">
+              {
+                page.reasons.map((item) => (
+                  <article class="guide-card">
+                    <span class="guide-card__icon">
+                      <Icon name={item.icon} class="size-6" />
+                    </span>
+                    <h3 class="mt-5 font-semibold tracking-tight text-black text-2xl">
+                      {item.title}
+                    </h3>
+                    <p class="text-black/56 mt-3 leading-7 text-sm">
+                      {item.description}
+                    </p>
+                  </article>
+                ))
+              }
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-white">
+          <div
+            class="mx-auto grid max-w-7xl gap-12 px-6 py-20 lg:grid-cols-[0.95fr_1.05fr] lg:px-8"
+          >
+            <div>
+              <p class="section-label">{page.examplesTitle}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.examplesTitle}
+              </h2>
+              <p class="text-black/58 mt-5 max-w-2xl leading-8 text-base">
+                {page.examplesLead}
+              </p>
+            </div>
+            <div class="flex flex-wrap gap-3 self-center">
+              {
+                page.exampleGames.map((item) => (
+                  <span class="text-black/72 inline-flex rounded-full border border-black/10 bg-[#f7f8fb] px-4 py-3 font-medium text-sm">
+                    {item}
+                  </span>
+                ))
+              }
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8">
+            <div class="max-w-3xl">
+              <p class="section-label">{page.experienceTitle}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.experienceTitle}
+              </h2>
+            </div>
+            <div class="mt-10 grid gap-5 lg:grid-cols-2">
+              <article class="guide-card">
+                <p
+                  class="text-black/42 font-semibold uppercase tracking-[0.24em] text-sm"
+                >
+                  {page.watchColumn.title}
+                </p>
+                <ul class="mt-6 space-y-4">
+                  {
+                    page.watchColumn.points.map((item) => (
+                      <li class="text-black/64 flex items-start gap-3 leading-7 text-base">
+                        <Icon
+                          name="mdi:check-circle-outline"
+                          class="text-black/54 mt-1 size-5 shrink-0"
+                        />
+                        <span>{item}</span>
+                      </li>
+                    ))
+                  }
+                </ul>
+              </article>
+              <article class="guide-card">
+                <p
+                  class="text-black/42 font-semibold uppercase tracking-[0.24em] text-sm"
+                >
+                  {page.phoneColumn.title}
+                </p>
+                <ul class="mt-6 space-y-4">
+                  {
+                    page.phoneColumn.points.map((item) => (
+                      <li class="text-black/64 flex items-start gap-3 leading-7 text-base">
+                        <Icon
+                          name="mdi:check-circle-outline"
+                          class="text-black/54 mt-1 size-5 shrink-0"
+                        />
+                        <span>{item}</span>
+                      </li>
+                    ))
+                  }
+                </ul>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section id="faq" class="bg-white/92">
+          <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8">
+            <div class="max-w-3xl">
+              <p class="section-label">{page.ui.faqLabel}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.faqTitle}
+              </h2>
+            </div>
+            <div class="mt-10 grid gap-4">
+              {
+                page.faqs.map((item, index) => (
+                  <details class="faq-item" open={index === 0}>
+                    <summary class="faq-item__summary">
+                      <span>{item.question}</span>
+                      <span class="faq-item__icon" aria-hidden="true" />
+                    </summary>
+                    <p class="faq-item__answer">{item.answer}</p>
+                  </details>
+                ))
+              }
+            </div>
+          </div>
+        </section>
+
+        <section id="related" class="bg-[#f5f5f7]">
+          <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8">
+            <div class="max-w-3xl">
+              <p class="section-label">{page.ui.relatedNavLabel}</p>
+              <h2
+                class="mt-5 text-balance font-semibold tracking-[-0.055em] text-black text-4xl sm:text-5xl"
+              >
+                {page.ui.relatedTitle}
+              </h2>
+              <p class="text-black/58 mt-5 max-w-2xl leading-8 text-base">
+                {page.ui.relatedLead}
+              </p>
+            </div>
+            <div class="mt-10 grid gap-5 md:grid-cols-3">
+              {
+                page.relatedGuides.map((item) => (
+                  <a href={item.url} class="guide-link-card">
+                    <div class="flex items-start justify-between gap-4">
+                      <div>
+                        <h3 class="font-semibold tracking-tight text-black text-2xl">
+                          {item.title}
+                        </h3>
+                        <p class="text-black/56 mt-3 leading-7 text-sm">
+                          {item.description}
+                        </p>
+                      </div>
+                      <Icon
+                        name="mdi:arrow-top-right"
+                        class="text-black/44 mt-1 size-5 shrink-0"
+                      />
+                    </div>
+                    <span class="text-black/64 mt-6 inline-flex font-semibold text-sm">
+                      {page.ui.readGuideLabel}
+                    </span>
+                  </a>
+                ))
+              }
+              <a href={page.homePath} class="guide-link-card">
+                <div class="flex items-start justify-between gap-4">
+                  <div>
+                    <h3
+                      class="font-semibold tracking-tight text-black text-2xl"
+                    >
+                      {page.ui.homeLabel}
+                    </h3>
+                    <p class="text-black/56 mt-3 leading-7 text-sm">
+                      {page.ui.footerNote}
+                    </p>
+                  </div>
+                  <Icon
+                    name="mdi:home-outline"
+                    class="text-black/44 mt-1 size-5 shrink-0"
+                  />
+                </div>
+                <span
+                  class="text-black/64 mt-6 inline-flex font-semibold text-sm"
+                >
+                  {page.ui.backHomeLabel}
+                </span>
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-[#101215] text-white">
+          <div class="mx-auto max-w-7xl px-6 py-20 text-center lg:px-8">
+            <p class="section-label section-label--dark">Games for Watch</p>
+            <h2
+              class="mx-auto mt-5 max-w-[15ch] text-balance font-semibold tracking-[-0.055em] text-4xl sm:text-5xl lg:text-[4.2rem]"
+            >
+              {page.ctaTitle}
+            </h2>
+            <p class="text-white/68 mx-auto mt-6 max-w-3xl leading-8 text-base">
+              {page.ctaLead}
+            </p>
+            <div class="mt-10 flex flex-wrap justify-center gap-4">
+              <a
+                href={page.appStoreUrl}
+                target="_blank"
+                rel="noreferrer"
+                class="hover:bg-white/88 inline-flex items-center gap-2.5 rounded-full bg-white px-8 py-4 font-semibold text-black transition text-sm"
+              >
+                <Icon name="mdi:apple" class="size-5 shrink-0" />
+                {page.ui.storeLabel}
+              </a>
+              <a
+                href={page.homePath}
+                class="border-white/12 hover:bg-white/8 inline-flex items-center gap-2.5 rounded-full border px-8 py-4 font-semibold text-white transition text-sm"
+              >
+                <Icon name="mdi:arrow-left" class="size-5 shrink-0" />
+                {page.ui.backHomeLabel}
+              </a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="border-black/6 border-t bg-[#f5f5f7]">
+        <div
+          class="text-black/52 mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm sm:flex-row sm:items-center sm:justify-between lg:px-8"
+        >
+          <p>{page.ui.footerNote}</p>
+          <div class="flex items-center gap-4">
+            <a href={page.homePath} class="transition hover:text-black">
+              {page.ui.homeLabel}
+            </a>
+            <a
+              href={page.appStoreUrl}
+              target="_blank"
+              rel="noreferrer"
+              class="transition hover:text-black"
+            >
+              {page.ui.storeLabel}
+            </a>
+            <a
+              href="https://gamesforwatch.com"
+              class="transition hover:text-black"
+            >
+              gamesforwatch.com
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <PostHogAnalytics />
+  </body>
+</html>
+
+<style is:global>
+  html,
+  body {
+    font-family: "SF Pro Display", "SF Pro Text", "Segoe UI", "Helvetica Neue",
+      Arial, sans-serif;
+  }
+
+  .section-label {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(29, 29, 31, 0.42);
+  }
+
+  .section-label--dark {
+    color: rgba(255, 255, 255, 0.56);
+  }
+
+  .glass-panel {
+    position: relative;
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.82),
+        rgba(255, 255, 255, 0.58)
+      ),
+      rgba(255, 255, 255, 0.72);
+    box-shadow:
+      0 22px 70px rgba(15, 23, 42, 0.11),
+      inset 0 1px 0 rgba(255, 255, 255, 0.66);
+    backdrop-filter: blur(22px);
+  }
+
+  .guide-note {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 1.5rem;
+    background: rgba(255, 255, 255, 0.72);
+    padding: 1rem 1.1rem;
+    color: rgba(29, 29, 31, 0.7);
+    line-height: 1.7;
+  }
+
+  .guide-card,
+  .guide-link-card {
+    border-radius: 1.75rem;
+    border: 1px solid rgba(15, 23, 42, 0.07);
+    background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.92),
+        rgba(255, 255, 255, 0.76)
+      ),
+      rgba(255, 255, 255, 0.82);
+    padding: 1.6rem;
+    box-shadow: 0 18px 50px rgba(15, 23, 42, 0.08);
+  }
+
+  .guide-link-card {
+    display: block;
+    transition:
+      transform 200ms ease,
+      box-shadow 200ms ease,
+      border-color 200ms ease;
+  }
+
+  .guide-link-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(15, 23, 42, 0.13);
+    box-shadow: 0 24px 60px rgba(15, 23, 42, 0.11);
+  }
+
+  .guide-card__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 999px;
+    background: rgba(17, 24, 39, 0.06);
+    color: rgba(17, 24, 39, 0.72);
+  }
+
+  .faq-item {
+    overflow: hidden;
+    border-radius: 1.5rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 18px 50px rgba(15, 23, 42, 0.06);
+  }
+
+  .faq-item__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    cursor: pointer;
+    list-style: none;
+    padding: 1.25rem 1.35rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.6;
+    color: rgba(17, 24, 39, 0.92);
+  }
+
+  .faq-item__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-item__icon {
+    position: relative;
+    flex: 0 0 auto;
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+
+  .faq-item__icon::before,
+  .faq-item__icon::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 2px;
+    border-radius: 999px;
+    background: rgba(17, 24, 39, 0.44);
+    transform: translate(-50%, -50%);
+    transition: transform 180ms ease;
+  }
+
+  .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+
+  .faq-item[open] .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  .faq-item__answer {
+    padding: 0 1.35rem 1.35rem;
+    font-size: 0.98rem;
+    line-height: 1.8;
+    color: rgba(17, 24, 39, 0.68);
+  }
+
+  .language-switcher {
+    position: relative;
+  }
+
+  .language-switcher__summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
+    cursor: pointer;
+    list-style: none;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.86);
+    padding: 0.72rem 0.95rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: rgba(17, 24, 39, 0.8);
+  }
+
+  .language-switcher__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .language-switcher__current {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.6rem;
+    border-radius: 999px;
+    background: rgba(17, 24, 39, 0.06);
+    padding: 0.18rem 0.55rem;
+  }
+
+  .language-switcher__menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.55rem);
+    min-width: 11.5rem;
+    border-radius: 1.1rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: rgba(255, 255, 255, 0.96);
+    padding: 0.4rem;
+    box-shadow: 0 20px 50px rgba(15, 23, 42, 0.12);
+  }
+
+  .language-switcher__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    border-radius: 0.85rem;
+    padding: 0.7rem 0.85rem;
+    font-size: 0.9rem;
+    color: rgba(17, 24, 39, 0.8);
+  }
+
+  .language-switcher__item:hover {
+    background: rgba(17, 24, 39, 0.05);
+  }
+
+  .language-switcher__item--active {
+    background: rgba(17, 24, 39, 0.06);
+    font-weight: 600;
+  }
+
+  .guide-orb {
+    position: absolute;
+    z-index: 0;
+    filter: blur(16px);
+    opacity: 0.6;
+  }
+
+  .guide-orb--pink {
+    width: 11rem;
+    height: 11rem;
+    top: -1.5rem;
+    left: 1rem;
+    border-radius: 999px;
+    background: radial-gradient(
+      circle,
+      rgba(236, 72, 153, 0.22),
+      transparent 72%
+    );
+  }
+
+  .guide-orb--blue {
+    width: 13rem;
+    height: 13rem;
+    right: -1rem;
+    bottom: 0;
+    border-radius: 999px;
+    background: radial-gradient(
+      circle,
+      rgba(79, 70, 229, 0.18),
+      transparent 72%
+    );
+  }
+</style>

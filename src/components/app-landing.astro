@@ -1,5 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
+import { getGuideHubCopy, getGuideResourceCards } from "~/data/guides";
 import type { LandingCopy } from "~/data/landing";
 import IPhoneDevice from "~/components/iphone-device.astro";
 import WatchDevice from "~/components/watch-device.astro";
@@ -133,7 +134,8 @@ const uiTextByLang = {
     galleryLabel: "Galerie",
     galleryTitle: "Die ganze Sammlung auf einen Blick",
     galleryMore: "Mehr sehen",
-    experienceTitle: "Apple Watch fur schnelle Runden, iPhone fur mehr Uberblick",
+    experienceTitle:
+      "Apple Watch fur schnelle Runden, iPhone fur mehr Uberblick",
     watchTitle: "Sofort am Handgelenk spielen",
     phoneTitle: "Listen und Rankings besser sehen",
     faqHeading: "Die wichtigsten Fragen zuerst geklart",
@@ -221,6 +223,8 @@ const uiTextByLang = {
 } as const;
 
 const uiText = uiTextByLang[copy.lang] ?? uiTextByLang.en;
+const guideHub = getGuideHubCopy(copy.lang);
+const guideCards = getGuideResourceCards(copy.lang);
 const contactEmail = "monkey20001@126.com";
 const contactSubject = "GameHub Feedback";
 const contactMailto = `mailto:${contactEmail}?subject=${encodeURIComponent(contactSubject)}`;
@@ -390,26 +394,121 @@ const galleryLabelMap = {
 
 const galleryLabels = galleryLabelMap[copy.lang] ?? galleryLabelMap.en;
 const galleryItems = [
-  { type: "watch", src: "/screenshots/watchos/游戏列表 1.webp", label: galleryLabels.gameList, size: "lg" },
-  { type: "watch", src: "/screenshots/watchos/2048.webp", label: "2048", size: "md" },
-  { type: "watch", src: "/screenshots/watchos/五子棋.webp", label: galleryLabels.gomoku, size: "md" },
-  { type: "watch", src: "/screenshots/watchos/俄罗斯方块.webp", label: galleryLabels.tetris, size: "sm" },
-  { type: "watch", src: "/screenshots/watchos/泡泡龙.webp", label: galleryLabels.bubbleShooter, size: "md" },
-  { type: "watch", src: "/screenshots/watchos/黄金矿工.webp", label: galleryLabels.goldMiner, size: "md" },
-  { type: "watch", src: "/screenshots/watchos/足球之星.webp", label: galleryLabels.soccerStar, size: "sm" },
-  { type: "watch", src: "/screenshots/watchos/都市赛车.webp", label: galleryLabels.racing, size: "md" },
-  { type: "watch", src: "/screenshots/watchos/飞刀挑战.webp", label: galleryLabels.knifeChallenge, size: "sm" },
-  { type: "watch", src: "/screenshots/watchos/打砖块.webp", label: galleryLabels.brickBreaker, size: "sm" },
-  { type: "watch", src: "/screenshots/watchos/合成西红柿.webp", label: galleryLabels.mergeTomato, size: "sm" },
-  { type: "ios", src: "/screenshots/ios/欢迎页.webp", label: galleryLabels.welcome, size: "lg" },
-  { type: "ios", src: "/screenshots/ios/游戏列表 1.webp", label: galleryLabels.iphoneList, size: "md" },
-  { type: "ios", src: "/screenshots/ios/游戏列表 2.webp", label: galleryLabels.moreGames, size: "md" },
-  { type: "ios", src: "/screenshots/ios/排行榜.webp", label: galleryLabels.ranking, size: "sm" },
-  { type: "ios", src: "/screenshots/ios/推箱子.webp", label: galleryLabels.sokoban, size: "sm" },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/游戏列表 1.webp",
+    label: galleryLabels.gameList,
+    size: "lg",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/2048.webp",
+    label: "2048",
+    size: "md",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/五子棋.webp",
+    label: galleryLabels.gomoku,
+    size: "md",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/俄罗斯方块.webp",
+    label: galleryLabels.tetris,
+    size: "sm",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/泡泡龙.webp",
+    label: galleryLabels.bubbleShooter,
+    size: "md",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/黄金矿工.webp",
+    label: galleryLabels.goldMiner,
+    size: "md",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/足球之星.webp",
+    label: galleryLabels.soccerStar,
+    size: "sm",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/都市赛车.webp",
+    label: galleryLabels.racing,
+    size: "md",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/飞刀挑战.webp",
+    label: galleryLabels.knifeChallenge,
+    size: "sm",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/打砖块.webp",
+    label: galleryLabels.brickBreaker,
+    size: "sm",
+  },
+  {
+    type: "watch",
+    src: "/screenshots/watchos/合成西红柿.webp",
+    label: galleryLabels.mergeTomato,
+    size: "sm",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/欢迎页.webp",
+    label: galleryLabels.welcome,
+    size: "lg",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/游戏列表 1.webp",
+    label: galleryLabels.iphoneList,
+    size: "md",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/游戏列表 2.webp",
+    label: galleryLabels.moreGames,
+    size: "md",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/排行榜.webp",
+    label: galleryLabels.ranking,
+    size: "sm",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/推箱子.webp",
+    label: galleryLabels.sokoban,
+    size: "sm",
+  },
   { type: "ios", src: "/screenshots/ios/2048.webp", label: "2048", size: "md" },
-  { type: "ios", src: "/screenshots/ios/俄罗斯方块.webp", label: galleryLabels.tetris, size: "sm" },
-  { type: "ios", src: "/screenshots/ios/黄金矿工.webp", label: galleryLabels.goldMiner, size: "md" },
-  { type: "ios", src: "/screenshots/ios/合成西红柿.webp", label: galleryLabels.mergeTomato, size: "sm" },
+  {
+    type: "ios",
+    src: "/screenshots/ios/俄罗斯方块.webp",
+    label: galleryLabels.tetris,
+    size: "sm",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/黄金矿工.webp",
+    label: galleryLabels.goldMiner,
+    size: "md",
+  },
+  {
+    type: "ios",
+    src: "/screenshots/ios/合成西红柿.webp",
+    label: galleryLabels.mergeTomato,
+    size: "sm",
+  },
 ];
 const proofIcons = [
   "mdi:controller-classic-outline",
@@ -421,64 +520,81 @@ const proofIcons = [
 ---
 
 <div class="min-h-screen bg-[#f5f5f7] text-[#1d1d1f]">
-  <header class="sticky top-0 z-50 border-b border-black/6 bg-[rgba(245,245,247,0.72)] backdrop-blur-2xl">
-    <div class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-6 py-4 lg:px-8">
-      <a href="#" class="flex items-center gap-3 text-sm tracking-tight text-black">
+  <header
+    class="border-black/6 sticky top-0 z-50 border-b bg-[rgba(245,245,247,0.72)] backdrop-blur-2xl"
+  >
+    <div
+      class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-6 py-4 lg:px-8"
+    >
+      <a
+        href="#"
+        class="flex items-center gap-3 tracking-tight text-black text-sm"
+      >
         <img
           src="/brand/app-logo.png"
           alt={uiText.logoAlt}
-          class="size-10 rounded-[0.9rem] border border-black/8 bg-white object-cover shadow-[0_8px_24px_rgba(15,23,42,0.08)]"
+          class="border-black/8 size-10 rounded-[0.9rem] border bg-white object-cover shadow-[0_8px_24px_rgba(15,23,42,0.08)]"
           loading="eager"
           decoding="async"
         />
         <span class="hidden sm:block">
-          <span class="block text-[0.98rem] font-semibold">Games for Watch</span>
-          <span class="block text-xs text-black/48">{uiText.headerTagline}</span>
+          <span class="block font-semibold text-[0.98rem]">Games for Watch</span
+          >
+          <span class="text-black/48 block text-xs">{uiText.headerTagline}</span
+          >
         </span>
       </a>
 
-      <nav class="hidden items-center gap-7 text-sm text-black/56 lg:flex">
-        {copy.nav.map((item) => (
-          <a
-            href={item.url}
-            class="transition hover:text-black"
-            data-analytics-event="nav_click"
-            data-analytics-id={`nav:${item.url.replace("#", "")}`}
-            data-analytics-section={item.url.replace("#", "")}
-          >
-            {item.title}
-          </a>
-        ))}
+      <nav class="text-black/56 hidden items-center gap-7 text-sm lg:flex">
+        {
+          copy.nav.map((item) => (
+            <a
+              href={item.url}
+              class="transition hover:text-black"
+              data-analytics-event="nav_click"
+              data-analytics-id={`nav:${item.url.replace("#", "")}`}
+              data-analytics-section={item.url.replace("#", "")}
+            >
+              {item.title}
+            </a>
+          ))
+        }
       </nav>
 
       <div class="flex items-center gap-2.5">
         <details class="language-switcher">
           <summary class="language-switcher__summary">
             <span>Language</span>
-            <span class="language-switcher__current">{copy.languages.find((item) => item.active)?.title ?? "EN"}</span>
-            <Icon name="mdi:chevron-down" class="size-4 text-black/52" />
+            <span class="language-switcher__current"
+              >{copy.languages.find((item) => item.active)?.title ?? "EN"}</span
+            >
+            <Icon name="mdi:chevron-down" class="text-black/52 size-4" />
           </summary>
           <div class="language-switcher__menu">
-            {copy.languages.map((item) => (
-              <a
-                href={item.url}
-                class:list={[
-                  "language-switcher__item",
-                  item.active && "language-switcher__item--active",
-                ]}
-                data-analytics-event="language_switch"
-                data-analytics-id={`language:${item.locale}`}
-                data-locale-target={item.locale}
-              >
-                <span>{item.title}</span>
-                {item.active && <Icon name="mdi:check" class="size-4 shrink-0" />}
-              </a>
-            ))}
+            {
+              copy.languages.map((item) => (
+                <a
+                  href={item.url}
+                  class:list={[
+                    "language-switcher__item",
+                    item.active && "language-switcher__item--active",
+                  ]}
+                  data-analytics-event="language_switch"
+                  data-analytics-id={`language:${item.locale}`}
+                  data-locale-target={item.locale}
+                >
+                  <span>{item.title}</span>
+                  {item.active && (
+                    <Icon name="mdi:check" class="size-4 shrink-0" />
+                  )}
+                </a>
+              ))
+            }
           </div>
         </details>
         <a
           href={contactMailto}
-          class="hidden rounded-full border border-black/10 bg-white px-4 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80 sm:inline-flex"
+          class="hidden rounded-full border border-black/10 bg-white px-4 py-2.5 font-semibold text-black transition text-sm hover:border-black/20 hover:bg-white/80 sm:inline-flex"
           data-analytics-event="cta_click"
           data-analytics-id="header_contact"
           data-analytics-section="header"
@@ -489,7 +605,7 @@ const proofIcons = [
           href={copy.appStoreUrl}
           target="_blank"
           rel="noreferrer"
-          class="inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
+          class="inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 font-semibold text-black transition text-sm hover:border-black/20 hover:bg-white/80"
           data-analytics-event="cta_click"
           data-analytics-id="header_download"
           data-analytics-section="header"
@@ -503,21 +619,30 @@ const proofIcons = [
   <main>
     <section class="hero-stage overflow-hidden" data-section-id="hero">
       <div class="mx-auto max-w-7xl px-6 pb-1 pt-8 lg:px-8 lg:pb-3 lg:pt-10">
-        <p class="text-balance font-semibold tracking-[-0.02em] text-black/96 sm:whitespace-nowrap" style="font-size: clamp(1.8rem, 3.1vw, 4rem);">
+        <p
+          class="text-black/96 text-balance font-semibold tracking-[-0.02em] sm:whitespace-nowrap"
+          style="font-size: clamp(1.8rem, 3.1vw, 4rem);"
+        >
           {heroEyebrow}
         </p>
         <div class="mt-4 grid items-start gap-16 lg:grid-cols-[5fr_4fr]">
           <div class="hero-copy min-w-0 max-w-none">
-            <h1 class:list={[
-              "max-w-full font-semibold tracking-[-0.07em] text-black leading-[0.92] sm:leading-[0.94]",
-              copy.lang === "zh-CN"
-                ? "max-w-none text-balance"
-                : "max-w-none text-balance",
-            ]}
-            style={copy.lang === "zh-CN" ? "font-size: clamp(2.35rem, 4.6vw, 6.4rem);" : "font-size: clamp(3rem, 4.3vw, 5.4rem);"}>
+            <h1
+              class:list={[
+                "max-w-full font-semibold leading-[0.92] tracking-[-0.07em] text-black sm:leading-[0.94]",
+                copy.lang === "zh-CN"
+                  ? "max-w-none text-balance"
+                  : "max-w-none text-balance",
+              ]}
+              style={copy.lang === "zh-CN"
+                ? "font-size: clamp(2.35rem, 4.6vw, 6.4rem);"
+                : "font-size: clamp(3rem, 4.3vw, 5.4rem);"}
+            >
               {heroTitle}
             </h1>
-            <p class="mt-6 max-w-[24rem] text-[1rem] leading-[1.7] text-black/60 lg:text-[1.04rem]">
+            <p
+              class="mt-6 max-w-[24rem] leading-[1.7] text-[1rem] text-black/60 lg:text-[1.04rem]"
+            >
               {copy.heroLead}
             </p>
             <div class="mt-9 flex flex-wrap items-center gap-4">
@@ -525,7 +650,7 @@ const proofIcons = [
                 href={copy.appStoreUrl}
                 target="_blank"
                 rel="noreferrer"
-                class="inline-flex items-center gap-2.5 rounded-full bg-black px-7 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+                class="hover:bg-black/86 inline-flex items-center gap-2.5 rounded-full bg-black px-7 py-4 font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition text-sm"
                 data-analytics-event="cta_click"
                 data-analytics-id="hero_primary_download"
                 data-analytics-section="hero"
@@ -535,7 +660,7 @@ const proofIcons = [
               </a>
               <a
                 href="#gallery"
-                class="inline-flex rounded-full border border-black/10 bg-white/82 px-7 py-4 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white"
+                class="bg-white/82 inline-flex rounded-full border border-black/10 px-7 py-4 font-semibold text-black transition text-sm hover:border-black/20 hover:bg-white"
                 data-analytics-event="cta_click"
                 data-analytics-id="hero_secondary_gallery"
                 data-analytics-section="hero"
@@ -555,7 +680,7 @@ const proofIcons = [
                   src={heroWatchShots[0]}
                   alt={uiText.heroAltOne}
                   showBands={false}
-                  className="[--device-width:100%] [--device-transform:rotate(-15deg)]"
+                  className="[--device-transform:rotate(-15deg)] [--device-width:100%]"
                   loading="eager"
                   decoding="sync"
                   fetchpriority="high"
@@ -566,7 +691,7 @@ const proofIcons = [
                   src={heroWatchShots[1]}
                   alt={uiText.heroAltTwo}
                   showBands={false}
-                  className="[--device-width:100%] [--device-transform:translateY(-0.6rem)]"
+                  className="[--device-transform:translateY(-0.6rem)] [--device-width:100%]"
                   loading="eager"
                   decoding="sync"
                   fetchpriority="high"
@@ -577,7 +702,7 @@ const proofIcons = [
                   src={heroWatchShots[2]}
                   alt={uiText.heroAltThree}
                   showBands={false}
-                  className="[--device-width:100%] [--device-transform:rotate(15deg)]"
+                  className="[--device-transform:rotate(15deg)] [--device-width:100%]"
                   loading="eager"
                   decoding="sync"
                   fetchpriority="high"
@@ -586,18 +711,31 @@ const proofIcons = [
             </div>
           </div>
         </div>
-        <div id="proof" data-section-id="proof" class="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3 lg:mt-12">
-          {copy.proofItems.map((item, index) => (
-            <article class="editorial-card">
-              <div class="proof-card__title-row">
-                <span class="proof-card__icon">
-                  <Icon name={proofIcons[index] ?? "mdi:gamepad-round-outline"} class="size-8" />
-                </span>
-                <h3 class="text-2xl font-semibold tracking-tight text-black">{item.title}</h3>
-              </div>
-              <p class="mt-3 text-sm leading-6 text-black/56">{item.description}</p>
-            </article>
-          ))}
+        <div
+          id="proof"
+          data-section-id="proof"
+          class="mt-10 grid gap-5 md:grid-cols-2 lg:mt-12 xl:grid-cols-3"
+        >
+          {
+            copy.proofItems.map((item, index) => (
+              <article class="editorial-card">
+                <div class="proof-card__title-row">
+                  <span class="proof-card__icon">
+                    <Icon
+                      name={proofIcons[index] ?? "mdi:gamepad-round-outline"}
+                      class="size-8"
+                    />
+                  </span>
+                  <h3 class="font-semibold tracking-tight text-black text-2xl">
+                    {item.title}
+                  </h3>
+                </div>
+                <p class="text-black/56 mt-3 leading-6 text-sm">
+                  {item.description}
+                </p>
+              </article>
+            ))
+          }
         </div>
       </div>
     </section>
@@ -605,32 +743,40 @@ const proofIcons = [
     <section id="gallery" class="bg-white" data-section-id="gallery">
       <div class="mx-auto max-w-7xl px-4 py-24 lg:px-6 lg:py-28">
         <div class="max-w-3xl">
-          <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{uiText.galleryLabel}</p>
-          <h2 class="mt-5 text-balance text-4xl font-semibold tracking-[-0.055em] sm:text-5xl">
+          <p
+            class="font-semibold uppercase tracking-[0.28em] text-[0.8rem] text-black/40"
+          >
+            {uiText.galleryLabel}
+          </p>
+          <h2
+            class="mt-5 text-balance font-semibold tracking-[-0.055em] text-4xl sm:text-5xl"
+          >
             {uiText.galleryTitle}
           </h2>
-          <p class="mt-5 max-w-2xl text-base leading-7 text-black/58">
+          <p class="text-black/58 mt-5 max-w-2xl leading-7 text-base">
             {copy.galleryLead}
           </p>
         </div>
 
         <div class="gallery-waterfall mt-10">
-          {galleryItems.map((item) => (
-            item.type === "watch" ? (
-              <WatchDevice
-                src={item.src}
-                alt={item.label}
-                showBands={false}
-                className={`gallery-device gallery-device--watch gallery-device--${item.size}`}
-              />
-            ) : (
-              <IPhoneDevice
-                src={item.src}
-                alt={item.label}
-                className={`gallery-device gallery-device--ios gallery-device--${item.size}`}
-              />
+          {
+            galleryItems.map((item) =>
+              item.type === "watch" ? (
+                <WatchDevice
+                  src={item.src}
+                  alt={item.label}
+                  showBands={false}
+                  className={`gallery-device gallery-device--watch gallery-device--${item.size}`}
+                />
+              ) : (
+                <IPhoneDevice
+                  src={item.src}
+                  alt={item.label}
+                  className={`gallery-device gallery-device--ios gallery-device--${item.size}`}
+                />
+              ),
             )
-          ))}
+          }
         </div>
 
         <div class="mt-12 flex justify-center">
@@ -638,7 +784,7 @@ const proofIcons = [
             href={copy.appStoreUrl}
             target="_blank"
             rel="noreferrer"
-            class="inline-flex items-center rounded-full border border-black/10 bg-white px-7 py-3.5 text-sm font-semibold uppercase tracking-[0.18em] text-black transition hover:border-black/20 hover:bg-black hover:text-white"
+            class="inline-flex items-center rounded-full border border-black/10 bg-white px-7 py-3.5 font-semibold uppercase tracking-[0.18em] text-black transition text-sm hover:border-black/20 hover:bg-black hover:text-white"
             data-analytics-event="cta_click"
             data-analytics-id="gallery_download"
             data-analytics-section="gallery"
@@ -650,9 +796,11 @@ const proofIcons = [
     </section>
 
     <section id="experience" class="section-muted" data-section-id="experience">
-      <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8 lg:py-22">
+      <div class="lg:py-22 mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div class="mb-10 max-w-3xl">
-          <h2 class="text-balance text-3xl font-semibold tracking-[-0.05em] sm:text-4xl">
+          <h2
+            class="text-balance font-semibold tracking-[-0.05em] text-3xl sm:text-4xl"
+          >
             {uiText.experienceTitle}
           </h2>
         </div>
@@ -668,14 +816,20 @@ const proofIcons = [
             </div>
             <div class="device-story__body">
               <p class="device-story__label">{uiText.watchPlatformLabel}</p>
-              <h3 class="mt-4 text-2xl font-semibold tracking-tight">{uiText.watchTitle}</h3>
+              <h3 class="mt-4 font-semibold tracking-tight text-2xl">
+                {uiText.watchTitle}
+              </h3>
             </div>
           </article>
 
           <article class="device-story device-story--iphone">
             <div class="device-story__body">
-              <p class="device-story__label device-story__label--dark">{uiText.phonePlatformLabel}</p>
-              <h3 class="mt-4 text-2xl font-semibold tracking-tight text-black">{uiText.phoneTitle}</h3>
+              <p class="device-story__label device-story__label--dark">
+                {uiText.phonePlatformLabel}
+              </p>
+              <h3 class="mt-4 font-semibold tracking-tight text-black text-2xl">
+                {uiText.phoneTitle}
+              </h3>
             </div>
             <div class="device-story__visual device-story__visual--right">
               <IPhoneDevice
@@ -690,37 +844,49 @@ const proofIcons = [
     </section>
 
     <section id="faq" class="bg-white" data-section-id="faq">
-      <div class="mx-auto max-w-5xl px-6 py-22 lg:px-8 lg:py-24">
+      <div class="py-22 mx-auto max-w-5xl px-6 lg:px-8 lg:py-24">
         <div class="max-w-3xl">
-          <p class="text-[0.8rem] font-semibold uppercase tracking-[0.28em] text-black/40">{copy.faqTitle}</p>
-          <h2 class:list={[
-            "mt-5 text-5xl font-semibold tracking-[-0.065em] sm:text-6xl lg:text-[5.2rem]",
-            copy.lang === "zh-CN" ? "whitespace-nowrap" : "text-balance",
-          ]}>
+          <p
+            class="font-semibold uppercase tracking-[0.28em] text-[0.8rem] text-black/40"
+          >
+            {copy.faqTitle}
+          </p>
+          <h2
+            class:list={[
+              "mt-5 font-semibold tracking-[-0.065em] text-5xl sm:text-6xl lg:text-[5.2rem]",
+              copy.lang === "zh-CN" ? "whitespace-nowrap" : "text-balance",
+            ]}
+          >
             {uiText.faqHeading}
           </h2>
         </div>
 
         <div class="mt-10 space-y-4">
-          {copy.faqs.map((item, index) => (
-            <details class="faq-item" name="faq" open={index === 0}>
-              <summary class="faq-item__summary">
-                <span>{item.question}</span>
-                <span class="faq-item__icon" aria-hidden="true"></span>
-              </summary>
-              <p class="faq-item__answer">{item.answer}</p>
-            </details>
-          ))}
+          {
+            copy.faqs.map((item, index) => (
+              <details class="faq-item" name="faq" open={index === 0}>
+                <summary class="faq-item__summary">
+                  <span>{item.question}</span>
+                  <span class="faq-item__icon" aria-hidden="true" />
+                </summary>
+                <p class="faq-item__answer">{item.answer}</p>
+              </details>
+            ))
+          }
         </div>
       </div>
     </section>
 
     <section class="closing-stage" data-section-id="closing">
-      <div class="mx-auto max-w-6xl px-6 py-24 text-center lg:px-8 lg:py-30">
-        <h2 class="mx-auto mt-5 max-w-[15ch] text-balance text-4xl font-semibold tracking-[-0.055em] sm:text-5xl lg:max-w-[18ch] lg:text-[4.2rem]">
+      <div class="lg:py-30 mx-auto max-w-6xl px-6 py-24 text-center lg:px-8">
+        <h2
+          class="mx-auto mt-5 max-w-[15ch] text-balance font-semibold tracking-[-0.055em] text-4xl sm:text-5xl lg:max-w-[18ch] lg:text-[4.2rem]"
+        >
           {copy.closingTitle}
         </h2>
-        <p class="mx-auto mt-6 max-w-3xl text-base leading-8 text-black/58 lg:max-w-4xl">
+        <p
+          class="text-black/58 mx-auto mt-6 max-w-3xl leading-8 text-base lg:max-w-4xl"
+        >
           {copy.closingLead}
         </p>
         <div class="mt-10 flex flex-wrap justify-center gap-4">
@@ -728,7 +894,7 @@ const proofIcons = [
             href={copy.appStoreUrl}
             target="_blank"
             rel="noreferrer"
-            class="inline-flex items-center gap-2.5 rounded-full bg-black px-8 py-4 text-sm font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition hover:bg-black/86"
+            class="hover:bg-black/86 inline-flex items-center gap-2.5 rounded-full bg-black px-8 py-4 font-semibold text-white shadow-[0_18px_50px_rgba(15,23,42,0.22)] transition text-sm"
             data-analytics-event="cta_click"
             data-analytics-id="closing_download"
             data-analytics-section="closing"
@@ -738,7 +904,7 @@ const proofIcons = [
           </a>
           <a
             href={contactMailto}
-            class="inline-flex items-center gap-2.5 rounded-full border border-black/10 bg-white px-8 py-4 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/82"
+            class="hover:bg-white/82 inline-flex items-center gap-2.5 rounded-full border border-black/10 bg-white px-8 py-4 font-semibold text-black transition text-sm hover:border-black/20"
             data-analytics-event="cta_click"
             data-analytics-id="closing_contact"
             data-analytics-section="closing"
@@ -749,10 +915,53 @@ const proofIcons = [
         </div>
       </div>
     </section>
+
+    {
+      guideHub && guideCards.length > 0 && (
+        <section class="bg-white" data-section-id="guides">
+          <div class="mx-auto max-w-7xl px-6 py-24 lg:px-8 lg:py-28">
+            <div class="max-w-3xl">
+              <p class="font-semibold uppercase tracking-[0.28em] text-[0.8rem] text-black/40">
+                {guideHub.eyebrow}
+              </p>
+              <h2 class="mt-5 text-balance font-semibold tracking-[-0.055em] text-4xl sm:text-5xl">
+                {guideHub.title}
+              </h2>
+              <p class="text-black/58 mt-5 max-w-2xl leading-7 text-base">
+                {guideHub.lead}
+              </p>
+            </div>
+
+            <div class="mt-10 grid gap-5 md:grid-cols-3">
+              {guideCards.map((item) => (
+                <a href={item.url} class="editorial-card group block">
+                  <div class="flex items-start justify-between gap-4">
+                    <div>
+                      <h3 class="font-semibold tracking-tight text-black text-2xl">
+                        {item.title}
+                      </h3>
+                      <p class="text-black/56 mt-3 leading-6 text-sm">
+                        {item.description}
+                      </p>
+                    </div>
+                    <Icon
+                      name="mdi:arrow-top-right"
+                      class="text-black/38 mt-1 size-5 shrink-0 transition group-hover:text-black/60"
+                    />
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      )
+    }
   </main>
 
-  <footer class="border-t border-black/6 bg-[#f5f5f7]">
-    <div class="mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm text-black/52 sm:flex-row sm:items-center sm:justify-between lg:px-8">
+  <footer class="border-black/6 border-t bg-[#f5f5f7]">
+    <div
+      class="text-black/52 mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm sm:flex-row sm:items-center sm:justify-between lg:px-8"
+    >
       <p>{copy.footer}</p>
       <div class="flex items-center gap-4">
         <a
@@ -885,10 +1094,21 @@ const proofIcons = [
   .hero-stage {
     position: relative;
     overflow-x: clip;
-    background:
-      radial-gradient(circle at 16% 16%, rgba(255, 255, 255, 0.94), transparent 24%),
-      radial-gradient(circle at 82% 22%, rgba(196, 214, 255, 0.62), transparent 22%),
-      radial-gradient(circle at 78% 62%, rgba(235, 240, 255, 0.95), transparent 24%),
+    background: radial-gradient(
+        circle at 16% 16%,
+        rgba(255, 255, 255, 0.94),
+        transparent 24%
+      ),
+      radial-gradient(
+        circle at 82% 22%,
+        rgba(196, 214, 255, 0.62),
+        transparent 22%
+      ),
+      radial-gradient(
+        circle at 78% 62%,
+        rgba(235, 240, 255, 0.95),
+        transparent 24%
+      ),
       linear-gradient(180deg, #f5f5f7 0%, #eef3fb 52%, #f7f8fa 100%);
   }
 
@@ -897,7 +1117,11 @@ const proofIcons = [
     position: absolute;
     inset: auto 0 0;
     height: 12rem;
-    background: linear-gradient(180deg, rgba(245, 245, 247, 0), rgba(245, 245, 247, 1));
+    background: linear-gradient(
+      180deg,
+      rgba(245, 245, 247, 0),
+      rgba(245, 245, 247, 1)
+    );
     pointer-events: none;
   }
 
@@ -924,13 +1148,23 @@ const proofIcons = [
 
   .hero-visual__halo--a {
     inset: 14% 7% 18% 18%;
-    background: radial-gradient(circle at center, rgba(255, 255, 255, 0.95), rgba(230, 235, 244, 0.7) 52%, rgba(230, 235, 244, 0) 76%);
+    background: radial-gradient(
+      circle at center,
+      rgba(255, 255, 255, 0.95),
+      rgba(230, 235, 244, 0.7) 52%,
+      rgba(230, 235, 244, 0) 76%
+    );
     filter: blur(10px);
   }
 
   .hero-visual__halo--b {
     inset: 24% 11% 10% 24%;
-    background: radial-gradient(circle at center, rgba(137, 178, 255, 0.18), rgba(186, 193, 255, 0.07) 48%, rgba(255, 255, 255, 0) 70%);
+    background: radial-gradient(
+      circle at center,
+      rgba(137, 178, 255, 0.18),
+      rgba(186, 193, 255, 0.07) 48%,
+      rgba(255, 255, 255, 0) 70%
+    );
     filter: blur(16px);
   }
 
@@ -940,7 +1174,11 @@ const proofIcons = [
     top: 10%;
     bottom: 10%;
     border: 1px solid rgba(255, 255, 255, 0.7);
-    background: radial-gradient(circle at center, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 62%);
+    background: radial-gradient(
+      circle at center,
+      rgba(255, 255, 255, 0.22),
+      rgba(255, 255, 255, 0) 62%
+    );
     box-shadow:
       inset 0 1px 0 rgba(255, 255, 255, 0.8),
       0 38px 110px rgba(15, 23, 42, 0.08);
@@ -991,7 +1229,11 @@ const proofIcons = [
 
   .stat-card {
     border-radius: 1.7rem;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(245, 248, 252, 0.92));
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.96),
+      rgba(245, 248, 252, 0.92)
+    );
     padding: 1.35rem 1.4rem;
   }
 
@@ -1034,8 +1276,7 @@ const proofIcons = [
   }
 
   .section-muted {
-    background:
-      linear-gradient(180deg, #f7f8fb 0%, #eef2f8 100%);
+    background: linear-gradient(180deg, #f7f8fb 0%, #eef2f8 100%);
   }
 
   .compact-strip {
@@ -1055,7 +1296,11 @@ const proofIcons = [
     align-items: center;
     gap: 1rem;
     border-radius: 1.6rem;
-    background: linear-gradient(180deg, rgba(250, 251, 253, 0.96), rgba(245, 247, 250, 0.92));
+    background: linear-gradient(
+      180deg,
+      rgba(250, 251, 253, 0.96),
+      rgba(245, 247, 250, 0.92)
+    );
     padding: 1.1rem 1.15rem;
   }
 
@@ -1080,7 +1325,11 @@ const proofIcons = [
 
   .editorial-card {
     border-radius: 2rem;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(244, 247, 252, 0.9));
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(244, 247, 252, 0.9)
+    );
     padding: 2rem;
   }
 
@@ -1109,8 +1358,11 @@ const proofIcons = [
 
   .device-story--watch {
     align-items: center;
-    background:
-      radial-gradient(circle at top, rgba(95, 115, 164, 0.26), transparent 34%),
+    background: radial-gradient(
+        circle at top,
+        rgba(95, 115, 164, 0.26),
+        transparent 34%
+      ),
       linear-gradient(180deg, #15171d 0%, #090a0d 100%);
     color: #fff;
     box-shadow: 0 34px 90px rgba(15, 23, 42, 0.22);
@@ -1120,9 +1372,16 @@ const proofIcons = [
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
     border: 1px solid rgba(15, 23, 42, 0.06);
-    background:
-      radial-gradient(circle at top right, rgba(188, 205, 247, 0.3), transparent 26%),
-      linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(243, 246, 250, 0.94));
+    background: radial-gradient(
+        circle at top right,
+        rgba(188, 205, 247, 0.3),
+        transparent 26%
+      ),
+      linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.96),
+        rgba(243, 246, 250, 0.94)
+      );
     box-shadow:
       0 28px 70px rgba(15, 23, 42, 0.08),
       inset 0 1px 0 rgba(255, 255, 255, 0.82);
@@ -1153,7 +1412,11 @@ const proofIcons = [
   .faq-item {
     border: 1px solid rgba(15, 23, 42, 0.06);
     border-radius: 1.7rem;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(246, 248, 252, 0.94));
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.98),
+      rgba(246, 248, 252, 0.94)
+    );
     box-shadow:
       0 20px 48px rgba(15, 23, 42, 0.05),
       inset 0 1px 0 rgba(255, 255, 255, 0.76);
@@ -1260,8 +1523,11 @@ const proofIcons = [
   }
 
   .closing-stage {
-    background:
-      radial-gradient(circle at top, rgba(206, 221, 255, 0.42), transparent 22%),
+    background: radial-gradient(
+        circle at top,
+        rgba(206, 221, 255, 0.42),
+        transparent 22%
+      ),
       linear-gradient(180deg, #f5f6f8 0%, #eef2f8 100%);
   }
 
@@ -1294,7 +1560,6 @@ const proofIcons = [
     .gallery-waterfall {
       column-count: 3;
     }
-
   }
 
   @media (max-width: 1023px) {
@@ -1346,8 +1611,11 @@ const proofIcons = [
     }
 
     .hero-stage {
-      background:
-        radial-gradient(circle at 50% 6%, rgba(255, 255, 255, 0.94), transparent 18%),
+      background: radial-gradient(
+          circle at 50% 6%,
+          rgba(255, 255, 255, 0.94),
+          transparent 18%
+        ),
         linear-gradient(180deg, #f5f5f7 0%, #eef3fb 48%, #f7f8fa 100%);
     }
 
