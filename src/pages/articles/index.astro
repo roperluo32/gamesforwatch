@@ -1,0 +1,8 @@
+---
+import ArticleListDocument from "~/components/article-list-document.astro";
+import { getArticleListPage } from "~/data/articles";
+
+const page = await getArticleListPage("en");
+---
+
+<ArticleListDocument page={page} />

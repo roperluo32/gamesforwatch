@@ -1,0 +1,13 @@
+---
+import ArticleDocument from "~/components/article-document.astro";
+import type { ArticleDetailPage } from "~/data/articles";
+import { getLocalizedArticleStaticPaths } from "~/data/articles";
+
+export async function getStaticPaths() {
+  return getLocalizedArticleStaticPaths();
+}
+
+const { page } = Astro.props as { page: ArticleDetailPage };
+---
+
+<ArticleDocument page={page} />

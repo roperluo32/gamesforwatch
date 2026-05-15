@@ -1,5 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
+import { getArticleIndexPathForLanding } from "~/data/articles";
 import { getGuideHubCopy, getGuideResourceCards } from "~/data/guides";
 import type { LandingCopy } from "~/data/landing";
 import IPhoneDevice from "~/components/iphone-device.astro";
@@ -16,6 +17,7 @@ const uiTextByLang = {
     headerTagline: "Apple Watch 优先小游戏合集",
     downloadShort: "下载",
     contactShort: "联系我",
+    blogShort: "博客",
     galleryLabel: "游戏画面",
     galleryTitle: "所有游戏，一次看全",
     galleryMore: "查看更多",
@@ -39,6 +41,7 @@ const uiTextByLang = {
     headerTagline: "Apple Watch-first mini game collection",
     downloadShort: "Download",
     contactShort: "Contact",
+    blogShort: "Blog",
     galleryLabel: "Gallery",
     galleryTitle: "See the full game collection",
     galleryMore: "See more",
@@ -62,6 +65,7 @@ const uiTextByLang = {
     headerTagline: "Apple Watch向けミニゲーム集",
     downloadShort: "入手",
     contactShort: "お問い合わせ",
+    blogShort: "ブログ",
     galleryLabel: "ギャラリー",
     galleryTitle: "収録ゲームをまとめて見る",
     galleryMore: "もっと見る",
@@ -85,6 +89,7 @@ const uiTextByLang = {
     headerTagline: "Apple Watch 우선 미니게임 모음",
     downloadShort: "다운로드",
     contactShort: "문의",
+    blogShort: "Blog",
     galleryLabel: "갤러리",
     galleryTitle: "지원 게임을 한눈에 보기",
     galleryMore: "더 보기",
@@ -108,6 +113,7 @@ const uiTextByLang = {
     headerTagline: "Mini-jeux d’abord pour Apple Watch",
     downloadShort: "Telecharger",
     contactShort: "Contact",
+    blogShort: "Blog",
     galleryLabel: "Galerie",
     galleryTitle: "Voir toute la collection",
     galleryMore: "Voir plus",
@@ -131,6 +137,7 @@ const uiTextByLang = {
     headerTagline: "Minispiele zuerst fur Apple Watch",
     downloadShort: "Laden",
     contactShort: "Kontakt",
+    blogShort: "Blog",
     galleryLabel: "Galerie",
     galleryTitle: "Die ganze Sammlung auf einen Blick",
     galleryMore: "Mehr sehen",
@@ -155,6 +162,7 @@ const uiTextByLang = {
     headerTagline: "Minijuegos primero para Apple Watch",
     downloadShort: "Descargar",
     contactShort: "Contacto",
+    blogShort: "Blog",
     galleryLabel: "Galeria",
     galleryTitle: "Ver toda la coleccion",
     galleryMore: "Ver mas",
@@ -178,6 +186,7 @@ const uiTextByLang = {
     headerTagline: "Minijogos primeiro no Apple Watch",
     downloadShort: "Baixar",
     contactShort: "Contato",
+    blogShort: "Blog",
     galleryLabel: "Galeria",
     galleryTitle: "Ver toda a colecao",
     galleryMore: "Ver mais",
@@ -201,6 +210,7 @@ const uiTextByLang = {
     headerTagline: "Мини-игры прежде всего для Apple Watch",
     downloadShort: "Скачать",
     contactShort: "Контакт",
+    blogShort: "Blog",
     galleryLabel: "Галерея",
     galleryTitle: "Посмотреть всю коллекцию",
     galleryMore: "Смотреть еще",
@@ -225,6 +235,7 @@ const uiTextByLang = {
 const uiText = uiTextByLang[copy.lang] ?? uiTextByLang.en;
 const guideHub = getGuideHubCopy(copy.lang);
 const guideCards = getGuideResourceCards(copy.lang);
+const articleIndexPath = getArticleIndexPathForLanding(copy.lang);
 const contactEmail = "monkey20001@126.com";
 const contactSubject = "GameHub Feedback";
 const contactMailto = `mailto:${contactEmail}?subject=${encodeURIComponent(contactSubject)}`;
@@ -559,6 +570,15 @@ const proofIcons = [
             </a>
           ))
         }
+        <a
+          href={articleIndexPath}
+          class="transition hover:text-black"
+          data-analytics-event="nav_click"
+          data-analytics-id="nav:blog"
+          data-analytics-section="blog"
+        >
+          {uiText.blogShort}
+        </a>
       </nav>
 
       <div class="flex items-center gap-2.5">
@@ -983,6 +1003,15 @@ const proofIcons = [
           data-analytics-section="footer"
         >
           {uiText.footerContact}
+        </a>
+        <a
+          href={articleIndexPath}
+          class="transition hover:text-black"
+          data-analytics-event="nav_click"
+          data-analytics-id="footer_blog"
+          data-analytics-section="blog"
+        >
+          {uiText.blogShort}
         </a>
         <a href="https://gamesforwatch.com" class="transition hover:text-black">
           gamesforwatch.com
