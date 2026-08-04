@@ -94,9 +94,7 @@ export const zhCopy: LandingCopy = {
     "单机游戏大全是一款适合 Apple Watch 的 watchOS 小游戏 App，支持 iPhone + Apple Watch 双端。包含 2048、俄罗斯方块、五子棋、泡泡龙、黄金矿工等经典玩法，支持离线游玩、排行榜共享与持续更新。",
   url: "/zh/",
   nav: [
-    { title: "真实证明", url: "#proof" },
     { title: "游戏展示", url: "#gallery" },
-    { title: "双端体验", url: "#experience" },
     { title: "常见问题", url: "#faq" },
   ],
   languages: localeLanguages("zh-CN"),
@@ -300,9 +298,7 @@ export const enCopy: LandingCopy = {
     "Games for Watch is an Apple Watch games app for watchOS with iPhone support. Play quick classics like 2048, Tetris, Gomoku, and Bubble Shooter with offline play, shared leaderboards, and frequent updates.",
   url: "/",
   nav: [
-    { title: "Proof", url: "#proof" },
     { title: "Screenshots", url: "#gallery" },
-    { title: "Experience", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("en"),
@@ -522,9 +518,7 @@ export const jaCopy: LandingCopy = {
     "Apple Watchゲームを探している人向けのwatchOSミニゲームアプリです。2048、テトリス、五目並べ、バブルシューター、ゴールドマイナーなどをApple WatchとiPhoneで遊べて、オフラインにも対応しています。",
   url: "/ja/",
   nav: [
-    { title: "特長", url: "#proof" },
     { title: "画面", url: "#gallery" },
-    { title: "体験", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("ja"),
@@ -630,9 +624,7 @@ export const koCopy: LandingCopy = {
     "Apple Watch 게임을 찾는 사람을 위한 watchOS 미니게임 앱입니다. 2048, 테트리스, 오목, 버블 슈터, 골드 마이너 등을 Apple Watch와 iPhone에서 즐길 수 있고 오프라인 플레이도 지원합니다.",
   url: "/ko/",
   nav: [
-    { title: "특징", url: "#proof" },
     { title: "화면", url: "#gallery" },
-    { title: "경험", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("ko"),
@@ -737,9 +729,7 @@ export const frCopy: LandingCopy = {
     "Une app de jeux Apple Watch pour watchOS avec support iPhone. Retrouvez 2048, Tetris, Gomoku, Bubble Shooter, Gold Miner et d’autres mini-jeux jouables sur Apple Watch, meme hors ligne.",
   url: "/fr/",
   nav: [
-    { title: "Atouts", url: "#proof" },
     { title: "Captures", url: "#gallery" },
-    { title: "Experience", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("fr"),
@@ -846,9 +836,7 @@ export const deCopy: LandingCopy = {
     "Eine Apple Watch Spiele-App fur watchOS mit iPhone-Unterstutzung. Spiele 2048, Tetris, Gomoku, Bubble Shooter, Gold Miner und weitere Minispiele auf Apple Watch, auch offline.",
   url: "/de/",
   nav: [
-    { title: "Vorteile", url: "#proof" },
     { title: "Screenshots", url: "#gallery" },
-    { title: "Erlebnis", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("de"),
@@ -954,9 +942,7 @@ export const esCopy: LandingCopy = {
     "Una app de juegos para Apple Watch en watchOS con soporte para iPhone. Juega a 2048, Tetris, Gomoku, Bubble Shooter, Gold Miner y otros minijuegos para Apple Watch incluso sin conexion.",
   url: "/es/",
   nav: [
-    { title: "Ventajas", url: "#proof" },
     { title: "Capturas", url: "#gallery" },
-    { title: "Experiencia", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("es"),
@@ -1062,9 +1048,7 @@ export const ptCopy: LandingCopy = {
     "Um app de jogos para Apple Watch no watchOS com suporte para iPhone. Jogue 2048, Tetris, Gomoku, Bubble Shooter, Gold Miner e outros minijogos para Apple Watch, ate offline.",
   url: "/pt/",
   nav: [
-    { title: "Vantagens", url: "#proof" },
     { title: "Capturas", url: "#gallery" },
-    { title: "Experiencia", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("pt"),
@@ -1168,9 +1152,7 @@ export const ruCopy: LandingCopy = {
     "Приложение с играми для Apple Watch на watchOS с поддержкой iPhone. Играйте в 2048, Tetris, Gomoku, Bubble Shooter, Gold Miner и другие мини-игры для Apple Watch даже офлайн.",
   url: "/ru/",
   nav: [
-    { title: "Преимущества", url: "#proof" },
     { title: "Скриншоты", url: "#gallery" },
-    { title: "Опыт", url: "#experience" },
     { title: "FAQ", url: "#faq" },
   ],
   languages: localeLanguages("ru"),
