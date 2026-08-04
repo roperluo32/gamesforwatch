@@ -48,3 +48,26 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Submit sitemap to IndexNow
+        if: success()
+        run: |
+          KEY="69fccaa852c5480ea81d39b6f4c8cb68q"
+          HOST="gamesforwatch.com"
+          KEY_LOCATION="https://${HOST}/${KEY}.txt"
+          SITEMAP_URL="https://${HOST}/sitemap.xml"
+
+          PAYLOAD=$(cat <<EOF
+          {
+            "host": "${HOST}",
+            "key": "${KEY}",
+            "keyLocation": "${KEY_LOCATION}",
+            "urlList": ["${SITEMAP_URL}"]
+          }
+          EOF
+          )
+
+          curl -sS -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data "${PAYLOAD}"
+          echo
