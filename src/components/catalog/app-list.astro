@@ -46,7 +46,8 @@ function previewImagesFor(app: CatalogIndexEntry): string[] {
                       src={src}
                       alt=""
                       class:list={[
-                        "absolute inset-0 h-full w-full object-cover transition-opacity duration-700",
+                        // Keep the 450x600 (3:4) container ratio; don't crop watch screenshots.
+                        "absolute inset-0 h-full w-full object-contain transition-opacity duration-700",
                         i === 0 ? "opacity-100" : "opacity-0",
                       ]}
                       loading={i === 0 ? "lazy" : "lazy"}
