@@ -1,8 +1,8 @@
 ---
 import CatalogShell from "~/components/catalog/catalog-shell.astro";
+import { GAMEHUB_TRACK_ID, getAppStoreUrl } from "~/lib/app-store";
 import {
   GAMEHUB_APP_STORE_URL,
-  GAMEHUB_TRACK_ID,
   appLocale,
   formatBytes,
   formatDate,
@@ -95,7 +95,7 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
           <span>v{app.version}</span>
         </div>
         <a
-          href={loc?.trackViewUrl || `https://apps.apple.com/app/id${app.trackId}`}
+          href={getAppStoreUrl(app.trackId)}
           target="_blank"
           rel="noopener noreferrer"
           class="mt-6 inline-flex rounded-full border border-black/10 bg-white px-6 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"

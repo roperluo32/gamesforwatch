@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import ownGamesData from "~/data/own-games.json";
 import catalogIndex from "~/data/catalog-index.json";
+import { GAMEHUB_TRACK_ID, getAppStoreUrl } from "~/lib/app-store";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 
@@ -108,5 +109,4 @@ export function formatDate(iso: string): string {
   }
 }
 
-export const GAMEHUB_APP_STORE_URL = "https://apps.apple.com/app/id6752821820";
-export const GAMEHUB_TRACK_ID = "6752821820";
+export const GAMEHUB_APP_STORE_URL = getAppStoreUrl(GAMEHUB_TRACK_ID);

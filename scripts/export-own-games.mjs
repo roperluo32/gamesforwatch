@@ -201,7 +201,7 @@ function main() {
         source: swiftPath,
         exportedAt: new Date().toISOString(),
         appStoreId: "6752821820",
-        appStoreUrl: "https://apps.apple.com/app/id6752821820",
+        appStoreUrl: "https://geo.itunes.apple.com/app/id6752821820",
         games,
       },
       null,

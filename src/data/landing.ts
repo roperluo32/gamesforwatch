@@ -1,3 +1,5 @@
+import { GAMEHUB_TRACK_ID, getAppStoreUrl } from "~/lib/app-store";
+
 export type LandingLocale =
   | "zh-CN"
   | "en"
@@ -59,7 +61,7 @@ export interface LandingCopy {
   footer: string;
 }
 
-export const appStoreUrl = "https://geo.itunes.apple.com/app/id6752821820";
+export const appStoreUrl = getAppStoreUrl(GAMEHUB_TRACK_ID);
 
 const currentAppVersion = "1.3.1";
 
