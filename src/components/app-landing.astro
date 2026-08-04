@@ -5,6 +5,7 @@ import { getGuideHubCopy, getGuideResourceCards } from "~/data/guides";
 import type { LandingCopy } from "~/data/landing";
 import IPhoneDevice from "~/components/iphone-device.astro";
 import WatchDevice from "~/components/watch-device.astro";
+import { getCatalogIndex, ownGames } from "~/lib/catalog";
 
 interface Props {
   copy: LandingCopy;
@@ -232,10 +233,133 @@ const uiTextByLang = {
   },
 } as const;
 
+const exploreCopyByLang = {
+  "zh-CN": {
+    gamesNav: "我们的游戏",
+    appsNav: "Watch 游戏目录",
+    exploreEyebrow: "继续探索",
+    exploreTitle: "发现更多 Apple Watch 游戏",
+    exploreLead: "浏览 GameHub 内置合集，或查看持续更新的手表游戏目录。",
+    exploreGamesTitle: "GameHub 内置游戏",
+    exploreGamesDesc: "30+ 专为手腕设计的经典小游戏，离线可玩。",
+    exploreGamesCta: "查看合集",
+    exploreAppsTitle: "Apple Watch 游戏目录",
+    exploreAppsDesc: "评分、截图、版本更新——发现更多手表游戏。",
+    exploreAppsCta: "浏览目录",
+  },
+  en: {
+    gamesNav: "Our Games",
+    appsNav: "Watch Apps",
+    exploreEyebrow: "Explore",
+    exploreTitle: "Discover more Watch games",
+    exploreLead: "Browse the GameHub collection, or explore the growing Apple Watch games directory.",
+    exploreGamesTitle: "GameHub mini games",
+    exploreGamesDesc: "30+ classic wrist games, offline and Watch-first.",
+    exploreGamesCta: "See collection",
+    exploreAppsTitle: "Apple Watch games directory",
+    exploreAppsDesc: "Ratings, screenshots, and version updates — find more Watch games.",
+    exploreAppsCta: "Browse directory",
+  },
+  ja: {
+    gamesNav: "収録ゲーム",
+    appsNav: "Watchアプリ",
+    exploreEyebrow: "もっと見る",
+    exploreTitle: "さらにWatchゲームを探す",
+    exploreLead: "GameHubの収録タイトル、または更新中のWatchゲームディレクトリへ。",
+    exploreGamesTitle: "GameHubのミニゲーム",
+    exploreGamesDesc: "手首向けのクラシックゲーム30本以上。オフライン対応。",
+    exploreGamesCta: "一覧を見る",
+    exploreAppsTitle: "Apple Watchゲーム一覧",
+    exploreAppsDesc: "評価・スクリーンショット・更新情報で探せます。",
+    exploreAppsCta: "ディレクトリへ",
+  },
+  ko: {
+    gamesNav: "우리 게임",
+    appsNav: "Watch 앱",
+    exploreEyebrow: "더 둘러보기",
+    exploreTitle: "더 많은 Watch 게임 발견",
+    exploreLead: "GameHub 컬렉션과 업데이트되는 Watch 게임 디렉터리를 확인하세요.",
+    exploreGamesTitle: "GameHub 미니게임",
+    exploreGamesDesc: "손목용 클래식 게임 30개 이상, 오프라인 플레이.",
+    exploreGamesCta: "컬렉션 보기",
+    exploreAppsTitle: "Apple Watch 게임 디렉터리",
+    exploreAppsDesc: "평점, 스크린샷, 업데이트로 더 많은 게임을 찾으세요.",
+    exploreAppsCta: "디렉터리 보기",
+  },
+  fr: {
+    gamesNav: "Nos jeux",
+    appsNav: "Apps Watch",
+    exploreEyebrow: "Explorer",
+    exploreTitle: "Decouvrir plus de jeux Watch",
+    exploreLead: "Parcourez la collection GameHub ou le repertoire de jeux Apple Watch.",
+    exploreGamesTitle: "Mini-jeux GameHub",
+    exploreGamesDesc: "Plus de 30 classiques pour le poignet, hors ligne.",
+    exploreGamesCta: "Voir la collection",
+    exploreAppsTitle: "Repertoire de jeux Apple Watch",
+    exploreAppsDesc: "Notes, captures et mises a jour pour trouver plus de jeux.",
+    exploreAppsCta: "Parcourir",
+  },
+  de: {
+    gamesNav: "Unsere Spiele",
+    appsNav: "Watch Apps",
+    exploreEyebrow: "Entdecken",
+    exploreTitle: "Mehr Watch-Spiele entdecken",
+    exploreLead: "GameHub-Sammlung oder das wachsende Apple-Watch-Spieleverzeichnis.",
+    exploreGamesTitle: "GameHub Minispiele",
+    exploreGamesDesc: "Uber 30 Klassiker furs Handgelenk, offline.",
+    exploreGamesCta: "Sammlung ansehen",
+    exploreAppsTitle: "Apple-Watch-Spieleverzeichnis",
+    exploreAppsDesc: "Bewertungen, Screenshots und Updates zum Entdecken.",
+    exploreAppsCta: "Verzeichnis offnen",
+  },
+  es: {
+    gamesNav: "Nuestros juegos",
+    appsNav: "Apps Watch",
+    exploreEyebrow: "Explorar",
+    exploreTitle: "Descubre mas juegos para Watch",
+    exploreLead: "Mira la coleccion de GameHub o el directorio de juegos para Apple Watch.",
+    exploreGamesTitle: "Minijuegos de GameHub",
+    exploreGamesDesc: "Mas de 30 clasicos para la muneca, sin conexion.",
+    exploreGamesCta: "Ver coleccion",
+    exploreAppsTitle: "Directorio de juegos Apple Watch",
+    exploreAppsDesc: "Valoraciones, capturas y actualizaciones para descubrir mas.",
+    exploreAppsCta: "Explorar directorio",
+  },
+  pt: {
+    gamesNav: "Nossos jogos",
+    appsNav: "Apps Watch",
+    exploreEyebrow: "Explorar",
+    exploreTitle: "Descubra mais jogos para Watch",
+    exploreLead: "Veja a colecao do GameHub ou o diretorio de jogos para Apple Watch.",
+    exploreGamesTitle: "Minijogos do GameHub",
+    exploreGamesDesc: "Mais de 30 classicos para o pulso, offline.",
+    exploreGamesCta: "Ver colecao",
+    exploreAppsTitle: "Diretorio de jogos Apple Watch",
+    exploreAppsDesc: "Avaliacoes, capturas e atualizacoes para descobrir mais.",
+    exploreAppsCta: "Abrir diretorio",
+  },
+  ru: {
+    gamesNav: "Наши игры",
+    appsNav: "Watch Apps",
+    exploreEyebrow: "Ещё",
+    exploreTitle: "Больше игр для Watch",
+    exploreLead: "Коллекция GameHub или каталог игр для Apple Watch.",
+    exploreGamesTitle: "Мини-игры GameHub",
+    exploreGamesDesc: "30+ классических игр для запястья, офлайн.",
+    exploreGamesCta: "Смотреть коллекцию",
+    exploreAppsTitle: "Каталог игр Apple Watch",
+    exploreAppsDesc: "Оценки, скриншоты и обновления — найдите больше игр.",
+    exploreAppsCta: "Открыть каталог",
+  },
+} as const;
+
 const uiText = uiTextByLang[copy.lang] ?? uiTextByLang.en;
+const exploreText = exploreCopyByLang[copy.lang] ?? exploreCopyByLang.en;
 const guideHub = getGuideHubCopy(copy.lang);
 const guideCards = getGuideResourceCards(copy.lang);
 const articleIndexPath = getArticleIndexPathForLanding(copy.lang);
+const exploreOwnGames = ownGames.filter((g) => g.preview).slice(0, 2);
+const exploreCatalogApps = getCatalogIndex().slice(0, 3);
 const contactEmail = "monkey20001@126.com";
 const contactSubject = "GameHub Feedback";
 const contactMailto = `mailto:${contactEmail}?subject=${encodeURIComponent(contactSubject)}`;
@@ -571,6 +695,24 @@ const proofIcons = [
           ))
         }
         <a
+          href="/games/"
+          class="transition hover:text-black"
+          data-analytics-event="nav_click"
+          data-analytics-id="nav:games"
+          data-analytics-section="games"
+        >
+          {exploreText.gamesNav}
+        </a>
+        <a
+          href="/apps/"
+          class="transition hover:text-black"
+          data-analytics-event="nav_click"
+          data-analytics-id="nav:apps"
+          data-analytics-section="apps"
+        >
+          {exploreText.appsNav}
+        </a>
+        <a
           href={articleIndexPath}
           class="transition hover:text-black"
           data-analytics-event="nav_click"
@@ -815,6 +957,80 @@ const proofIcons = [
       </div>
     </section>
 
+    <section class="bg-[#f5f5f7]" data-section-id="explore">
+      <div class="mx-auto max-w-7xl px-6 py-20 lg:px-8 lg:py-24">
+        <div class="max-w-3xl">
+          <p class="font-semibold uppercase tracking-[0.28em] text-[0.8rem] text-black/40">
+            {exploreText.exploreEyebrow}
+          </p>
+          <h2 class="mt-5 text-balance font-semibold tracking-[-0.055em] text-4xl sm:text-5xl">
+            {exploreText.exploreTitle}
+          </h2>
+          <p class="text-black/58 mt-5 max-w-2xl leading-7 text-base">
+            {exploreText.exploreLead}
+          </p>
+        </div>
+
+        <div class="mt-10 grid gap-5 lg:grid-cols-2">
+          <a
+            href="/games/"
+            class="border-black/8 group overflow-hidden rounded-[1.5rem] border bg-white shadow-[0_8px_24px_rgba(15,23,42,0.04)] transition hover:border-black/15 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
+            data-analytics-event="nav_click"
+            data-analytics-id="explore:games"
+            data-analytics-section="explore"
+          >
+            <div class="grid grid-cols-2 gap-1 bg-[#ececef] p-1 sm:h-48">
+              {
+                exploreOwnGames.map((game) => (
+                  <img
+                    src={game.preview!}
+                    alt=""
+                    class="h-full min-h-[7rem] w-full object-cover"
+                    loading="lazy"
+                  />
+                ))
+              }
+            </div>
+            <div class="p-6">
+              <h3 class="font-semibold tracking-tight text-2xl">{exploreText.exploreGamesTitle}</h3>
+              <p class="text-black/56 mt-3 text-sm leading-6">{exploreText.exploreGamesDesc}</p>
+              <span class="mt-5 inline-flex text-sm font-semibold text-black group-hover:underline">
+                {exploreText.exploreGamesCta} →
+              </span>
+            </div>
+          </a>
+
+          <a
+            href="/apps/"
+            class="border-black/8 group overflow-hidden rounded-[1.5rem] border bg-white shadow-[0_8px_24px_rgba(15,23,42,0.04)] transition hover:border-black/15 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
+            data-analytics-event="nav_click"
+            data-analytics-id="explore:apps"
+            data-analytics-section="explore"
+          >
+            <div class="flex items-center justify-center gap-3 bg-[#ececef] px-6 py-8 sm:h-48">
+              {
+                exploreCatalogApps.map((app) => (
+                  <img
+                    src={app.artworkUrl512}
+                    alt=""
+                    class="border-black/8 h-20 w-20 rounded-[1.25rem] border bg-white object-cover shadow-sm sm:h-24 sm:w-24"
+                    loading="lazy"
+                  />
+                ))
+              }
+            </div>
+            <div class="p-6">
+              <h3 class="font-semibold tracking-tight text-2xl">{exploreText.exploreAppsTitle}</h3>
+              <p class="text-black/56 mt-3 text-sm leading-6">{exploreText.exploreAppsDesc}</p>
+              <span class="mt-5 inline-flex text-sm font-semibold text-black group-hover:underline">
+                {exploreText.exploreAppsCta} →
+              </span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
     <section id="experience" class="section-muted" data-section-id="experience">
       <div class="lg:py-22 mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div class="mb-10 max-w-3xl">
@@ -972,15 +1188,6 @@ const proofIcons = [
                 </a>
               ))}
             </div>
-
-            <div class="mt-8 flex flex-wrap gap-4 text-sm font-semibold">
-              <a href="/games/" class="text-black/70 underline-offset-4 hover:text-black hover:underline">
-                Browse GameHub games →
-              </a>
-              <a href="/apps/" class="text-black/70 underline-offset-4 hover:text-black hover:underline">
-                Apple Watch games directory →
-              </a>
-            </div>
           </div>
         </section>
       )
@@ -993,8 +1200,8 @@ const proofIcons = [
     >
       <p>{copy.footer}</p>
       <div class="flex items-center gap-4">
-        <a href="/games/" class="transition hover:text-black">Our Games</a>
-        <a href="/apps/" class="transition hover:text-black">Watch Apps</a>
+        <a href="/games/" class="transition hover:text-black">{exploreText.gamesNav}</a>
+        <a href="/apps/" class="transition hover:text-black">{exploreText.appsNav}</a>
         <a
           href={copy.appStoreUrl}
           target="_blank"

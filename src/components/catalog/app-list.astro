@@ -1,6 +1,6 @@
 ---
 import CatalogShell from "~/components/catalog/catalog-shell.astro";
-import { getCatalogIndex, type CatalogIndexEntry } from "~/lib/catalog";
+import type { CatalogIndexEntry } from "~/lib/catalog";
 
 interface Props {
   title: string;
@@ -12,47 +12,79 @@ interface Props {
 }
 
 const { title, description, path, heading, lead, apps } = Astro.props as Props;
+
+function previewImagesFor(app: CatalogIndexEntry): string[] {
+  const fromIndex = (app as CatalogIndexEntry & { previewImages?: string[] }).previewImages;
+  if (Array.isArray(fromIndex) && fromIndex.length) return fromIndex;
+  return app.artworkUrl512 ? [app.artworkUrl512] : [];
+}
 ---
 
 <CatalogShell title={title} description={description} path={path}>
-  <section class="mx-auto max-w-6xl px-4 py-12">
+  <section class="mx-auto max-w-7xl px-6 py-12 lg:px-8">
     <h1 class="text-4xl font-semibold tracking-tight sm:text-5xl">{heading}</h1>
-    <p class="mt-4 max-w-2xl text-lg text-white/70">{lead}</p>
-    <p class="mt-2 text-sm text-white/40">{apps.length} apps</p>
+    <p class="text-black/60 mt-4 max-w-2xl text-lg">{lead}</p>
+    <p class="text-black/40 mt-2 text-sm">{apps.length} apps</p>
 
-    <ul class="mt-10 divide-y divide-white/10 overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
+    <ul class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {
-        apps.map((app) => (
-          <li>
-            <a href={app.path} class="flex items-center gap-4 px-4 py-4 transition hover:bg-white/[0.05]">
-              <img
-                src={app.artworkUrl512}
-                alt=""
-                class="h-14 w-14 rounded-[14px] border border-white/10 object-cover"
-                width="56"
-                height="56"
-                loading="lazy"
-              />
-              <div class="min-w-0 flex-1">
-                <div class="flex flex-wrap items-center gap-2">
-                  <span class="truncate font-medium text-white">{app.trackName}</span>
-                  {app.isOwnApp ? (
-                    <span class="rounded-full bg-pink-500/20 px-2 py-0.5 text-[10px] text-pink-200">Our app</span>
-                  ) : null}
-                  {app.hasWatch ? (
-                    <span class="rounded-full bg-sky-500/15 px-2 py-0.5 text-[10px] text-sky-200">Watch</span>
-                  ) : null}
+        apps.map((app) => {
+          const images = previewImagesFor(app);
+          return (
+            <li>
+              <a
+                href={app.path}
+                class="border-black/8 group block overflow-hidden rounded-2xl border bg-white shadow-[0_8px_24px_rgba(15,23,42,0.04)] transition hover:border-black/15 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
+              >
+                <div
+                  class="app-card-media relative aspect-[4/3] overflow-hidden bg-[#ececef]"
+                  data-images={JSON.stringify(images)}
+                  data-track-id={app.trackId}
+                >
+                  {images.map((src, i) => (
+                    <img
+                      src={src}
+                      alt=""
+                      class:list={[
+                        "absolute inset-0 h-full w-full object-cover transition-opacity duration-700",
+                        i === 0 ? "opacity-100" : "opacity-0",
+                      ]}
+                      loading={i === 0 ? "lazy" : "lazy"}
+                      data-rotate-index={i}
+                    />
+                  ))}
                 </div>
-                <div class="mt-1 text-sm text-white/50">
-                  ★ {(app.averageUserRating || 0).toFixed(1)} · {app.formattedPrice || (app.price === 0 ? "Free" : "")} · v
-                  {app.version}
+                <div class="flex items-start gap-3 p-4">
+                  <img
+                    src={app.artworkUrl512}
+                    alt=""
+                    class="border-black/8 h-12 w-12 shrink-0 rounded-[12px] border object-cover"
+                    width="48"
+                    height="48"
+                    loading="lazy"
+                  />
+                  <div class="min-w-0 flex-1">
+                    <div class="flex flex-wrap items-center gap-2">
+                      <span class="truncate font-semibold text-black">{app.trackName}</span>
+                      {app.isOwnApp ? (
+                        <span class="rounded-full bg-black px-2 py-0.5 text-[10px] font-medium text-white">
+                          Our app
+                        </span>
+                      ) : null}
+                    </div>
+                    <div class="text-black/50 mt-1 text-sm">
+                      ★ {(app.averageUserRating || 0).toFixed(1)} ·{" "}
+                      {app.formattedPrice || (app.price === 0 ? "Free" : "")}
+                    </div>
+                  </div>
                 </div>
-              </div>
-              <span class="hidden text-sm text-white/35 sm:inline">Get →</span>
-            </a>
-          </li>
-        ))
+              </a>
+            </li>
+          );
+        })
       }
     </ul>
   </section>
 </CatalogShell>
+
+<script is:inline src="/scripts/app-card-rotate.js"></script>

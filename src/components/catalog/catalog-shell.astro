@@ -1,6 +1,7 @@
 ---
 import CatalogHeader from "~/components/catalog/catalog-header.astro";
 import PostHogAnalytics from "~/components/posthog-analytics.astro";
+import { GAMEHUB_APP_STORE_URL } from "~/lib/catalog";
 import "~/styles/index.css";
 
 interface Props {
@@ -41,17 +42,30 @@ const posthogHost =
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="apple-itunes-app" content="app-id=6752821820" />
   </head>
-  <body class="min-h-full bg-[#070b16] text-white antialiased">
-    <CatalogHeader />
+  <body class="min-h-full bg-[#f5f5f7] text-[#1d1d1f] antialiased">
+    <CatalogHeader currentPath={path} />
     <main>
       <slot />
     </main>
-    <footer class="border-t border-white/10 py-10 text-center text-sm text-white/50">
-      <p>
-        <a class="hover:text-white" href="/">Games for Watch</a>
-        · Discover Apple Watch games ·
-        <a class="hover:text-white" href="mailto:monkey20001@126.com">Contact</a>
-      </p>
+    <footer class="border-black/6 border-t bg-[#f5f5f7]">
+      <div
+        class="text-black/52 mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm sm:flex-row sm:items-center sm:justify-between lg:px-8"
+      >
+        <p>Games for Watch · Discover Apple Watch games</p>
+        <div class="flex flex-wrap items-center gap-4">
+          <a href="/games/" class="transition hover:text-black">Our Games</a>
+          <a href="/apps/" class="transition hover:text-black">Watch Apps</a>
+          <a
+            href={GAMEHUB_APP_STORE_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="transition hover:text-black"
+          >
+            App Store
+          </a>
+          <a href="mailto:monkey20001@126.com" class="transition hover:text-black">Contact</a>
+        </div>
+      </div>
     </footer>
     <PostHogAnalytics apiKey={posthogKey} apiHost={posthogHost} />
   </body>

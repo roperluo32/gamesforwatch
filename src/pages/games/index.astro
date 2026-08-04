@@ -8,18 +8,18 @@ import { GAMEHUB_APP_STORE_URL, ownGames, ownGamesMeta } from "~/lib/catalog";
   description="Play 30+ classic mini games on Apple Watch with GameHub — offline, no ads, Watch-first."
   path="/games/"
 >
-  <section class="mx-auto max-w-6xl px-4 py-12">
+  <section class="mx-auto max-w-7xl px-6 py-12 lg:px-8">
     <div class="max-w-2xl">
-      <p class="text-sm font-medium uppercase tracking-[0.2em] text-pink-300">GameHub collection</p>
+      <p class="text-black/40 text-sm font-semibold uppercase tracking-[0.2em]">GameHub collection</p>
       <h1 class="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">Our Watch games</h1>
-      <p class="mt-4 text-lg text-white/70">
+      <p class="text-black/60 mt-4 text-lg">
         {ownGames.length} mini games built for Apple Watch. Play offline in GameHub — Mini Games for Watch.
       </p>
       <a
         href={GAMEHUB_APP_STORE_URL}
         target="_blank"
         rel="noopener noreferrer"
-        class="mt-6 inline-flex rounded-full bg-pink-500 px-5 py-2.5 text-sm font-semibold text-white hover:bg-pink-400"
+        class="mt-6 inline-flex rounded-full border border-black/10 bg-white px-5 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
       >
         Download on the App Store
       </a>
@@ -31,9 +31,9 @@ import { GAMEHUB_APP_STORE_URL, ownGames, ownGamesMeta } from "~/lib/catalog";
           <li>
             <a
               href={`/games/${game.slug}/`}
-              class="group block overflow-hidden rounded-2xl border border-white/10 bg-white/5 transition hover:border-pink-400/40 hover:bg-white/[0.07]"
+              class="border-black/8 group block overflow-hidden rounded-2xl border bg-white shadow-[0_8px_24px_rgba(15,23,42,0.04)] transition hover:border-black/15 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
             >
-              <div class="aspect-[4/3] overflow-hidden bg-[#12182a]">
+              <div class="aspect-[4/3] overflow-hidden bg-[#ececef]">
                 {game.preview ? (
                   <img
                     src={game.preview}
@@ -45,22 +45,26 @@ import { GAMEHUB_APP_STORE_URL, ownGames, ownGamesMeta } from "~/lib/catalog";
               </div>
               <div class="p-4">
                 <div class="flex flex-wrap items-center gap-2">
-                  <h2 class="text-lg font-semibold text-white">{game.nameEn}</h2>
+                  <h2 class="text-lg font-semibold text-black">{game.nameEn}</h2>
                   {game.isNew ? (
-                    <span class="rounded-full bg-emerald-500/20 px-2 py-0.5 text-xs text-emerald-300">New</span>
+                    <span class="rounded-full bg-black/[0.06] px-2 py-0.5 text-xs font-medium text-black/70">
+                      New
+                    </span>
                   ) : null}
                   {game.isVip ? (
-                    <span class="rounded-full bg-amber-500/20 px-2 py-0.5 text-xs text-amber-200">VIP</span>
+                    <span class="rounded-full bg-black/[0.06] px-2 py-0.5 text-xs font-medium text-black/70">
+                      VIP
+                    </span>
                   ) : null}
                 </div>
-                <p class="mt-1 text-sm text-white/50">{game.name}</p>
-                <p class="mt-2 line-clamp-2 text-sm text-white/65">{game.description}</p>
+                <p class="text-black/45 mt-1 text-sm">{game.name}</p>
+                <p class="text-black/60 mt-2 line-clamp-2 text-sm">{game.description}</p>
               </div>
             </a>
           </li>
         ))
       }
     </ul>
-    <p class="mt-8 text-xs text-white/40">Synced from GameHub · {ownGamesMeta.exportedAt}</p>
+    <p class="text-black/35 mt-8 text-xs">Synced from GameHub · {ownGamesMeta.exportedAt}</p>
   </section>
 </CatalogShell>

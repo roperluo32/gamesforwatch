@@ -199,6 +199,12 @@ async function enrichScreenshots(record) {
 
 function toIndexEntry(record) {
   const en = record.locales?.en || Object.values(record.locales || {})[0] || {};
+  const watch = record.watchScreenshots || [];
+  const phone = record.phoneScreenshots || [];
+  const previewImages = [...watch, ...phone].filter(Boolean).slice(0, 5);
+  if (!previewImages.length && record.artworkUrl512) {
+    previewImages.push(record.artworkUrl512);
+  }
   return {
     trackId: record.trackId,
     slug: record.slug,
@@ -213,8 +219,9 @@ function toIndexEntry(record) {
     currentVersionReleaseDate: record.currentVersionReleaseDate,
     hasWatch: record.hasWatch,
     isOwnApp: record.isOwnApp,
-    watchScreenshotCount: (record.watchScreenshots || []).length,
-    phoneScreenshotCount: (record.phoneScreenshots || []).length,
+    watchScreenshotCount: watch.length,
+    phoneScreenshotCount: phone.length,
+    previewImages,
     updatedAt: record.updatedAt,
   };
 }

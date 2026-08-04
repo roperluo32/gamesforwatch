@@ -3,30 +3,69 @@ import { GAMEHUB_APP_STORE_URL } from "~/lib/catalog";
 
 interface Props {
   title?: string;
-  compact?: boolean;
+  currentPath?: string;
 }
 
-const { title = "Games for Watch", compact = false } = Astro.props as Props;
+const { title = "Games for Watch", currentPath = "" } = Astro.props as Props;
+const path = currentPath || Astro.url.pathname;
 ---
 
-<header class:list={["border-b border-white/10 bg-[#0b1020]/", compact ? "py-3" : "py-4"]}>
-  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4">
-    <a href="/" class="text-sm font-semibold tracking-wide text-white hover:text-pink-300">
-      {title}
+<header
+  class="border-black/6 sticky top-0 z-50 border-b bg-[rgba(245,245,247,0.72)] backdrop-blur-2xl"
+>
+  <div class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-6 py-4 lg:px-8">
+    <a href="/" class="flex items-center gap-3 tracking-tight text-black text-sm">
+      <img
+        src="/brand/app-logo.png"
+        alt="Games for Watch logo"
+        class="border-black/8 size-10 rounded-[0.9rem] border bg-white object-cover shadow-[0_8px_24px_rgba(15,23,42,0.08)]"
+        loading="eager"
+        decoding="async"
+      />
+      <span class="hidden sm:block">
+        <span class="block font-semibold text-[0.98rem]">{title}</span>
+        <span class="text-black/48 block text-xs">Apple Watch games</span>
+      </span>
     </a>
-    <nav class="flex flex-wrap items-center gap-4 text-sm text-white/70">
-      <a class="hover:text-white" href="/games/">Our Games</a>
-      <a class="hover:text-white" href="/apps/">Watch Apps</a>
-      <a class="hover:text-white" href="/apps/updated/">Updated</a>
-      <a class="hover:text-white" href="/apps/free/">Free</a>
+
+    <nav class="text-black/56 hidden items-center gap-6 text-sm lg:flex">
       <a
-        class="rounded-full bg-pink-500 px-3 py-1.5 font-medium text-white hover:bg-pink-400"
-        href={GAMEHUB_APP_STORE_URL}
-        target="_blank"
-        rel="noopener noreferrer"
+        href="/games/"
+        class:list={["transition hover:text-black", path.startsWith("/games") && "font-semibold text-black"]}
       >
-        Get GameHub
+        Our Games
       </a>
+      <a
+        href="/apps/"
+        class:list={[
+          "transition hover:text-black",
+          path.startsWith("/apps") && !path.includes("/updated") && !path.includes("/free") && "font-semibold text-black",
+        ]}
+      >
+        Watch Apps
+      </a>
+      <a
+        href="/apps/updated/"
+        class:list={["transition hover:text-black", path.includes("/updated") && "font-semibold text-black"]}
+      >
+        Updated
+      </a>
+      <a
+        href="/apps/free/"
+        class:list={["transition hover:text-black", path.includes("/free") && "font-semibold text-black"]}
+      >
+        Free
+      </a>
+      <a href="/articles/" class="transition hover:text-black">Blog</a>
     </nav>
+
+    <a
+      href={GAMEHUB_APP_STORE_URL}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex rounded-full border border-black/10 bg-white px-4 py-2.5 font-semibold text-black transition text-sm hover:border-black/20 hover:bg-white/80"
+    >
+      Download
+    </a>
   </div>
 </header>

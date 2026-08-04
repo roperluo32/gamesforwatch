@@ -28,7 +28,8 @@ if (!app) throw new Error(`Missing catalog app ${trackId}`);
 
 const loc = appLocale(app, "en");
 const title = `${loc?.trackName || app.slug} for Apple Watch`;
-const description = (loc?.description || "").slice(0, 160) || `Apple Watch game: ${loc?.trackName}`;
+const description =
+  (loc?.description || "").slice(0, 160) || `Apple Watch game: ${loc?.trackName}`;
 const watchShots = app.watchScreenshots || [];
 const phoneShots = app.phoneScreenshots || [];
 const shots = watchShots.length ? watchShots : phoneShots;
@@ -36,20 +37,24 @@ const history = [...(app.versionHistory || [])].reverse();
 const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
 ---
 
-<CatalogShell title={`${title} | Games for Watch`} description={description} path={app.path} ogImage={app.artworkUrl512}>
-  <article class="mx-auto max-w-6xl px-4 py-12">
-    <nav class="text-sm text-white/50">
-      <a class="hover:text-white" href="/apps/">Watch Apps</a>
+<CatalogShell
+  title={`${title} | Games for Watch`}
+  description={description}
+  path={app.path}
+  ogImage={app.artworkUrl512}
+>
+  <article class="mx-auto max-w-7xl px-6 py-12 lg:px-8">
+    <nav class="text-black/45 text-sm">
+      <a class="hover:text-black" href="/apps/">Watch Apps</a>
       <span class="mx-2">/</span>
-      <span class="text-white/80">{loc?.trackName}</span>
+      <span class="text-black/70">{loc?.trackName}</span>
     </nav>
 
-    {/* Hero */}
     <header class="mt-8 flex flex-col gap-6 sm:flex-row sm:items-start">
       <img
         src={app.artworkUrl512}
         alt=""
-        class="h-28 w-28 shrink-0 rounded-[28px] border border-white/10 shadow-xl shadow-black/40"
+        class="border-black/8 h-28 w-28 shrink-0 rounded-[28px] border bg-white shadow-[0_12px_32px_rgba(15,23,42,0.1)]"
         width="112"
         height="112"
       />
@@ -57,22 +62,20 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
         <div class="flex flex-wrap items-center gap-2">
           {
             app.hasWatch ? (
-              <span class="rounded-full bg-sky-500/20 px-2.5 py-1 text-xs text-sky-200">Apple Watch</span>
+              <span class="rounded-full bg-black/[0.06] px-2.5 py-1 text-xs font-medium text-black/70">
+                Apple Watch
+              </span>
             ) : null
           }
           {
             isOwn ? (
-              <span class="rounded-full bg-pink-500/20 px-2.5 py-1 text-xs text-pink-200">Our app</span>
+              <span class="rounded-full bg-black px-2.5 py-1 text-xs font-medium text-white">Our app</span>
             ) : null
           }
         </div>
         <h1 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">{loc?.trackName}</h1>
-        {
-          loc?.subtitle ? (
-            <p class="mt-2 text-base text-white/60">{loc.subtitle}</p>
-          ) : null
-        }
-        <p class="mt-2 text-base text-pink-300/90">
+        {loc?.subtitle ? <p class="text-black/55 mt-2 text-base">{loc.subtitle}</p> : null}
+        <p class="mt-2 text-base text-black/70">
           {
             app.artistViewUrl ? (
               <a href={app.artistViewUrl} target="_blank" rel="noopener noreferrer" class="hover:underline">
@@ -83,10 +86,10 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
             )
           }
         </p>
-        <div class="mt-4 flex flex-wrap items-center gap-4 text-sm text-white/70">
+        <div class="text-black/60 mt-4 flex flex-wrap items-center gap-4 text-sm">
           <span>
             ★ {(app.averageUserRating || 0).toFixed(1)}
-            <span class="text-white/40">({app.userRatingCount || 0})</span>
+            <span class="text-black/35">({app.userRatingCount || 0})</span>
           </span>
           <span>{loc?.formattedPrice || (app.price === 0 ? "Free" : "")}</span>
           <span>v{app.version}</span>
@@ -95,18 +98,17 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
           href={loc?.trackViewUrl || `https://apps.apple.com/app/id${app.trackId}`}
           target="_blank"
           rel="noopener noreferrer"
-          class="mt-6 inline-flex rounded-full bg-blue-500 px-6 py-2.5 text-sm font-semibold text-white hover:bg-blue-400"
+          class="mt-6 inline-flex rounded-full border border-black/10 bg-white px-6 py-2.5 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
         >
-          Get
+          Get on App Store
         </a>
       </div>
     </header>
 
-    {/* Screenshots */}
     {
       shots.length ? (
         <section class="mt-12">
-          <h2 class="text-sm font-medium uppercase tracking-[0.18em] text-white/45">
+          <h2 class="text-black/40 text-sm font-semibold uppercase tracking-[0.18em]">
             {watchShots.length ? "Watch screenshots" : "Screenshots"}
           </h2>
           <div class="mt-4 flex gap-4 overflow-x-auto pb-2">
@@ -115,7 +117,7 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
                 src={url}
                 alt=""
                 class:list={[
-                  "shrink-0 rounded-2xl border border-white/10 bg-black/40 object-cover",
+                  "border-black/8 shrink-0 rounded-2xl border bg-white object-cover shadow-sm",
                   watchShots.length ? "h-64 w-auto" : "h-80 w-auto",
                 ]}
                 loading="lazy"
@@ -124,13 +126,15 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
           </div>
           {watchShots.length && phoneShots.length ? (
             <div class="mt-8">
-              <h3 class="text-sm font-medium uppercase tracking-[0.18em] text-white/45">iPhone screenshots</h3>
+              <h3 class="text-black/40 text-sm font-semibold uppercase tracking-[0.18em]">
+                iPhone screenshots
+              </h3>
               <div class="mt-4 flex gap-4 overflow-x-auto pb-2">
                 {phoneShots.slice(0, 8).map((url) => (
                   <img
                     src={url}
                     alt=""
-                    class="h-72 w-auto shrink-0 rounded-2xl border border-white/10 object-cover"
+                    class="border-black/8 h-72 w-auto shrink-0 rounded-2xl border bg-white object-cover shadow-sm"
                     loading="lazy"
                   />
                 ))}
@@ -139,48 +143,45 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
           ) : null}
         </section>
       ) : (
-        <section class="mt-12 rounded-2xl border border-dashed border-white/15 bg-white/[0.03] p-6 text-sm text-white/50">
+        <section class="border-black/10 text-black/50 mt-12 rounded-2xl border border-dashed bg-white/60 p-6 text-sm">
           Store screenshots are not available for this app yet.
         </section>
       )
     }
 
-    {/* Description */}
     <section class="mt-12 max-w-3xl">
-      <h2 class="text-2xl font-semibold">Description</h2>
-      <div class="mt-4 whitespace-pre-wrap text-[15px] leading-7 text-white/75">{loc?.description}</div>
+      <h2 class="text-2xl font-semibold tracking-tight">Description</h2>
+      <div class="text-black/70 mt-4 whitespace-pre-wrap text-[15px] leading-7">{loc?.description}</div>
     </section>
 
-    {/* What's New */}
     {
       loc?.releaseNotes ? (
         <section class="mt-12 max-w-3xl">
-          <h2 class="text-2xl font-semibold">What's New</h2>
-          <p class="mt-2 text-sm text-white/45">
+          <h2 class="text-2xl font-semibold tracking-tight">What's New</h2>
+          <p class="text-black/45 mt-2 text-sm">
             Version {app.version} · {formatDate(app.currentVersionReleaseDate)}
           </p>
-          <div class="mt-4 whitespace-pre-wrap text-[15px] leading-7 text-white/75">{loc.releaseNotes}</div>
+          <div class="text-black/70 mt-4 whitespace-pre-wrap text-[15px] leading-7">{loc.releaseNotes}</div>
         </section>
       ) : null
     }
 
-    {/* Version history */}
     {
       history.length ? (
         <section class="mt-12 max-w-3xl">
-          <h2 class="text-2xl font-semibold">Version History</h2>
-          <ol class="mt-6 space-y-6 border-l border-white/15 pl-6">
+          <h2 class="text-2xl font-semibold tracking-tight">Version History</h2>
+          <ol class="border-black/10 mt-6 space-y-6 border-l pl-6">
             {history.map((item) => (
               <li class="relative">
-                <span class="absolute -left-[1.55rem] top-1.5 h-2.5 w-2.5 rounded-full bg-pink-400" />
+                <span class="absolute -left-[1.55rem] top-1.5 h-2.5 w-2.5 rounded-full bg-black" />
                 <div class="flex flex-wrap items-baseline gap-3">
                   <span class="font-semibold">v{item.version}</span>
-                  <span class="text-sm text-white/45">{formatDate(item.seenAt)}</span>
+                  <span class="text-black/45 text-sm">{formatDate(item.seenAt)}</span>
                 </div>
                 {item.releaseNotes ? (
-                  <p class="mt-2 whitespace-pre-wrap text-sm leading-6 text-white/65">{item.releaseNotes}</p>
+                  <p class="text-black/65 mt-2 whitespace-pre-wrap text-sm leading-6">{item.releaseNotes}</p>
                 ) : (
-                  <p class="mt-2 text-sm text-white/40">No release notes captured.</p>
+                  <p class="text-black/40 mt-2 text-sm">No release notes captured.</p>
                 )}
               </li>
             ))}
@@ -189,74 +190,75 @@ const isOwn = app.trackId === GAMEHUB_TRACK_ID || app.isOwnApp;
       ) : null
     }
 
-    {/* Information */}
     <section class="mt-12 max-w-3xl">
-      <h2 class="text-2xl font-semibold">Information</h2>
-      <dl class="mt-4 divide-y divide-white/10 border-y border-white/10 text-sm">
+      <h2 class="text-2xl font-semibold tracking-tight">Information</h2>
+      <dl class="border-black/10 mt-4 divide-y divide-black/10 border-y text-sm">
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Seller</dt>
-          <dd class="text-right text-white/85">{loc?.sellerName || app.artistName}</dd>
+          <dt class="text-black/45">Seller</dt>
+          <dd class="text-right text-black/85">{loc?.sellerName || app.artistName}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Size</dt>
-          <dd class="text-right text-white/85">{formatBytes(app.fileSizeBytes)}</dd>
+          <dt class="text-black/45">Size</dt>
+          <dd class="text-right text-black/85">{formatBytes(app.fileSizeBytes)}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Category</dt>
-          <dd class="text-right text-white/85">{(loc?.genres || []).join(", ") || "—"}</dd>
+          <dt class="text-black/45">Category</dt>
+          <dd class="text-right text-black/85">{(loc?.genres || []).join(", ") || "—"}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Compatibility</dt>
-          <dd class="text-right text-white/85">
+          <dt class="text-black/45">Compatibility</dt>
+          <dd class="text-right text-black/85">
             {app.hasWatch ? "Apple Watch" : "iOS"}
             {app.minimumOsVersion ? ` · iOS ${app.minimumOsVersion}+` : ""}
           </dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Languages</dt>
-          <dd class="text-right text-white/85">{(loc?.languageCodesISO2A || []).slice(0, 12).join(", ") || "—"}</dd>
+          <dt class="text-black/45">Languages</dt>
+          <dd class="text-right text-black/85">
+            {(loc?.languageCodesISO2A || []).slice(0, 12).join(", ") || "—"}
+          </dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Age Rating</dt>
-          <dd class="text-right text-white/85">{app.contentAdvisoryRating || "—"}</dd>
+          <dt class="text-black/45">Age Rating</dt>
+          <dd class="text-right text-black/85">{app.contentAdvisoryRating || "—"}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Game Center</dt>
-          <dd class="text-right text-white/85">{app.isGameCenterEnabled ? "Yes" : "No"}</dd>
+          <dt class="text-black/45">Game Center</dt>
+          <dd class="text-right text-black/85">{app.isGameCenterEnabled ? "Yes" : "No"}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Price</dt>
-          <dd class="text-right text-white/85">{loc?.formattedPrice || "—"}</dd>
+          <dt class="text-black/45">Price</dt>
+          <dd class="text-right text-black/85">{loc?.formattedPrice || "—"}</dd>
         </div>
         <div class="flex justify-between gap-4 py-3">
-          <dt class="text-white/45">Updated</dt>
-          <dd class="text-right text-white/85">{formatDate(app.currentVersionReleaseDate)}</dd>
+          <dt class="text-black/45">Updated</dt>
+          <dd class="text-right text-black/85">{formatDate(app.currentVersionReleaseDate)}</dd>
         </div>
       </dl>
     </section>
 
     {
       isOwn ? (
-        <section class="mt-12 rounded-2xl border border-pink-400/30 bg-pink-500/10 p-6">
-          <h2 class="text-xl font-semibold">Play these games inside GameHub</h2>
-          <p class="mt-2 text-sm text-white/70">
+        <section class="border-black/8 mt-12 rounded-2xl border bg-white p-6 shadow-[0_8px_24px_rgba(15,23,42,0.04)]">
+          <h2 class="text-xl font-semibold tracking-tight">Play these games inside GameHub</h2>
+          <p class="text-black/60 mt-2 text-sm">
             GameHub includes {ownGames.length}+ Watch-first mini games. Browse the full collection on this site.
           </p>
-          <a href="/games/" class="mt-4 inline-flex text-sm font-semibold text-pink-300 hover:text-pink-200">
+          <a href="/games/" class="mt-4 inline-flex text-sm font-semibold text-black hover:underline">
             Browse our games →
           </a>
         </section>
       ) : (
-        <section class="mt-12 rounded-2xl border border-white/10 bg-white/5 p-6">
-          <h2 class="text-xl font-semibold">Looking for more Watch games?</h2>
-          <p class="mt-2 text-sm text-white/70">
+        <section class="border-black/8 mt-12 rounded-2xl border bg-white p-6 shadow-[0_8px_24px_rgba(15,23,42,0.04)]">
+          <h2 class="text-xl font-semibold tracking-tight">Looking for more Watch games?</h2>
+          <p class="text-black/60 mt-2 text-sm">
             Try GameHub — Mini Games for Watch: 30+ classics, offline, no ads, built for your wrist.
           </p>
           <a
             href={GAMEHUB_APP_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
-            class="mt-4 inline-flex rounded-full bg-pink-500 px-5 py-2 text-sm font-semibold text-white hover:bg-pink-400"
+            class="mt-4 inline-flex rounded-full border border-black/10 bg-white px-5 py-2 text-sm font-semibold text-black transition hover:border-black/20"
           >
             Get GameHub
           </a>
