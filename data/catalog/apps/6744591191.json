@@ -1,0 +1,366 @@
+{
+  "trackId": "6744591191",
+  "bundleId": "com.mw.gemJam",
+  "slug": "block-puzzle-color-gems-jam",
+  "path": "/apps/6744591191-block-puzzle-color-gems-jam/",
+  "locales": {
+    "en": {
+      "trackName": "Block Puzzle - Color Gems Jam",
+      "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Unblock Bricks, Match Doors"
+    },
+    "ja": {
+      "trackName": "Block Puzzle - Color Gems Jam",
+      "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Diem Le",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "パズル",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Block Puzzle - Color Gems Jam",
+      "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Puzzle",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a2/5f/61a25fd5-104b-04ce-8d9b-7d078948bc14/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.66667,
+  "userRatingCount": 21,
+  "price": 0,
+  "fileSizeBytes": "118476800",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "2.2.6",
+  "currentVersionReleaseDate": "2026-07-28T16:40:09Z",
+  "releaseDate": "2025-04-14T07:00:00Z",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
+  "sellerUrl": "https://mywatchgame.web.app",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/78/b4/1578b42d-4d03-9770-95c2-63569cf12d8c/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/21/9f/20219fcf-d062-338f-028a-1644ab642df3/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/ab/7b/15ab7bea-159a-1a3f-7e4d-09e1a72ab05f/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d3/10/bdd31055-0ddb-a646-c589-6069e0fcd173/ip1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/3f/e3/e03fe3ec-e9c7-76e8-aacd-89769c173fad/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.40.50.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/f7/b8/25f7b835-6efb-9683-060e-b142c88728dc/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.42.29.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/50/fc/bf50fc30-97fc-0d51-e680-639e5e94c2b7/ip3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/56/6c/22566c98-19b5-5aa1-35c2-2f09742a5df3/ip2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/9c/05/5e9c0578-2272-1e2e-8c28-2fada1963fd1/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.43.53.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/bd/18/10bd1883-6420-209c-a91e-20f32493ef45/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.37.06.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d3/10/bdd31055-0ddb-a646-c589-6069e0fcd173/ip1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/3f/e3/e03fe3ec-e9c7-76e8-aacd-89769c173fad/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.40.50.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/f7/b8/25f7b835-6efb-9683-060e-b142c88728dc/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.42.29.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/50/fc/bf50fc30-97fc-0d51-e680-639e5e94c2b7/ip3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/56/6c/22566c98-19b5-5aa1-35c2-2f09742a5df3/ip2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/9c/05/5e9c0578-2272-1e2e-8c28-2fada1963fd1/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.43.53.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/bd/18/10bd1883-6420-209c-a91e-20f32493ef45/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-09_at_10.37.06.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/78/b4/1578b42d-4d03-9770-95c2-63569cf12d8c/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/21/9f/20219fcf-d062-338f-028a-1644ab642df3/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/ab/7b/15ab7bea-159a-1a3f-7e4d-09e1a72ab05f/ipad3.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/14/85/9114853c-2818-9a5f-58e6-a0ab44c336ce/w1.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/8b/01/ce8b016c-07a4-e8fb-0d9f-cf405c6f200e/w4.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a0/4f/7ba04fd2-897d-e3a6-f517-5a3b0e9f7841/w3.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/b0/32/f2b03201-0ede-d70b-0cdb-d0ff872c5def/w5.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/0b/a7/800ba7b4-e97c-e47d-fbe6-3a6bf6cf9d56/w2.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.5.7",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-14T08:25:39Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-28T04:15:39Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-30T18:38:59Z"
+    },
+    {
+      "version": "1.6.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-03T22:28:49Z"
+    },
+    {
+      "version": "1.6.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-14T19:54:35Z"
+    },
+    {
+      "version": "1.6.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-20T17:51:50Z"
+    },
+    {
+      "version": "1.6.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-01T17:10:29Z"
+    },
+    {
+      "version": "1.6.6",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-18T07:26:06Z"
+    },
+    {
+      "version": "1.7.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-28T10:22:08Z"
+    },
+    {
+      "version": "1.8.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-07T13:53:31Z"
+    },
+    {
+      "version": "1.8.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-21T11:29:10Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-23T00:59:11Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-05T19:10:14Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-20T20:32:51Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-24T20:39:47Z"
+    },
+    {
+      "version": "2.0.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-03-24T21:38:27Z"
+    },
+    {
+      "version": "2.0.6",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-04-02T20:30:20Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-04-11T17:42:05Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-05-23T02:14:57Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-05-26T17:51:15Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-06-08T17:09:34Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-06-11T17:14:41Z"
+    },
+    {
+      "version": "2.2.2",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "seenAt": "2026-06-19T18:29:32Z"
+    },
+    {
+      "version": "2.2.4",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "seenAt": "2026-07-09T17:14:52Z"
+    },
+    {
+      "version": "2.2.6",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "seenAt": "2026-07-28T16:40:09Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:01:17.625Z",
+  "isOwnApp": false
+}

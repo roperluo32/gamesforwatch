@@ -1,0 +1,374 @@
+{
+  "trackId": "1549205320",
+  "bundleId": "com.virtualgs.Alien-Breakout",
+  "slug": "alien-breakout",
+  "path": "/apps/1549205320-alien-breakout/",
+  "locales": {
+    "en": {
+      "trackName": "Alien Breakout",
+      "description": "Alien Breakout - A familiar classic with a twist!\nBattle against aliens by sliding the shield. The aliens will fire back!\nAvailable on Apple Watch, iPhone and iPad.\n\nControl the shield with digital crown or touch screen. \n3 types of powerup and difficulty levels.\n\nINSTALLATION\n• Once downloaded to your iPhone, game icon will automatically appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for the game icon, make sure “Show App on Apple Watch” is toggled on.",
+      "releaseNotes": "Improved design.\nAdded difficulty levels.",
+      "trackViewUrl": "https://apps.apple.com/us/app/alien-breakout/id1549205320?uo=4",
+      "formattedPrice": "$0.99",
+      "sellerName": "Thye Chean Lim",
+      "genres": [
+        "Games",
+        "Action",
+        "Entertainment",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": "Arcade game for your watch!"
+    },
+    "ja": {
+      "trackName": "Alien Breakout",
+      "description": "エイリアンブレイクアウト ― お馴染みの名作に新たなひねりを加えた！\nシールドをスライドさせてエイリアンと戦おう。エイリアンも反撃してくるぞ！\nApple Watch、iPhone、iPadでプレイ可能。\n\nデジタルクラウンまたはタッチスクリーンでシールドを操作。\n3種類のパワーアップアイテムと難易度レベルを用意。",
+      "releaseNotes": "デザインを改善しました。\n難易度レベルを追加しました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/alien-breakout/id1549205320?uo=4",
+      "formattedPrice": "¥150",
+      "sellerName": "Thye Chean Lim",
+      "genres": [
+        "ゲーム",
+        "アクション",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Alien Breakout",
+      "description": "Alien Breakout - A familiar classic with a twist!\nBattle against aliens by sliding the shield. The aliens will fire back!\nAvailable on Apple Watch, iPhone and iPad.\n\nControl the shield with digital crown or touch screen. \n3 types of powerup and difficulty levels.\n\nINSTALLATION\n• Once downloaded to your iPhone, game icon will automatically appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for the game icon, make sure “Show App on Apple Watch” is toggled on.",
+      "releaseNotes": "Improved design.\nAdded difficulty levels.",
+      "trackViewUrl": "https://apps.apple.com/de/app/alien-breakout/id1549205320?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Thye Chean Lim",
+      "genres": [
+        "Spiele",
+        "Action",
+        "Unterhaltung",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/54/29/fb542999-3287-8fae-48a8-ab2f03cd5246/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0.99,
+  "fileSizeBytes": "20389888",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "17.0",
+  "version": "3.7",
+  "currentVersionReleaseDate": "2026-06-05T23:27:19Z",
+  "releaseDate": "2021-01-19T08:00:00Z",
+  "artistId": 302652687,
+  "artistName": "Virtual GS",
+  "artistViewUrl": "https://apps.apple.com/de/developer/virtual-gs/id302652687?uo=4",
+  "sellerUrl": "http://virtual-gs.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/17/fc/cc17fc13-2616-cba5-46d1-0ec9909371d8/2d26de3f-bb41-4a05-b56e-898a43fb9bee_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.40.49.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ce/ab/29ceabb7-55e7-657a-e412-7acf78954dd0/b85d0da5-2620-472a-b096-0c61f776aae1_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.41.25.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/91/3b/4f913bd6-99e8-ba2e-da2a-dd8c30c361bc/eb7f0ce9-3358-45f2-87b2-f3e4104cd862.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/31/91/c0319154-6410-20a5-507e-20e0ce6b1b8d/iPad.png/2266x1488bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/0d/60/450d608a-510d-eac0-f5f8-dd5f24e1a1d4/IMG_0960.PNG/2360x1640bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/12/31/221231fe-1114-0419-ea3d-d9c1f69c6277/IMG_0958.PNG/2360x1640bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/78/f2/4978f278-12a4-4e8e-6fd6-911b3996c096/tns.behaqtuf.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/43/61/9443612a-3280-8ed4-b488-857237f9f793/tns.mnwzydch.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/2f/3f/1c2f3fdb-ffcd-2de9-c81b-a4ec41e526ce/tns.jodwgfxg.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/46/c8/0046c885-0e54-2ac7-707f-89cd15445d76/9756fbda-4a17-4e79-8317-a10b79920291.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/b2/04/a3b20476-e264-ee4e-249c-9a93f917c3da/IMG_1543.PNG/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/95/04/4b9504fb-55dc-8642-ab79-f1da5d82f502/IMG_1575.PNG/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/78/f2/4978f278-12a4-4e8e-6fd6-911b3996c096/tns.behaqtuf.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/43/61/9443612a-3280-8ed4-b488-857237f9f793/tns.mnwzydch.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/2f/3f/1c2f3fdb-ffcd-2de9-c81b-a4ec41e526ce/tns.jodwgfxg.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/17/fc/cc17fc13-2616-cba5-46d1-0ec9909371d8/2d26de3f-bb41-4a05-b56e-898a43fb9bee_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.40.49.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ce/ab/29ceabb7-55e7-657a-e412-7acf78954dd0/b85d0da5-2620-472a-b096-0c61f776aae1_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.41.25.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/2a/e1/112ae10c-ba73-9f59-ae49-dd254f47843d/884141b3-3b4f-41be-8879-0e70a1fd383d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.27.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/fc/f5/acfcf5bc-00d6-03fd-8de9-ff63fc5045e8/6bcf96ca-0868-490b-8c70-d60e75340618_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.42.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/39/1f/5b391fa8-d43b-0388-2ba8-7ad49edbe221/f289de46-fe65-4c29-b5ef-23881cfe9943_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.57.40.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/58/0b/1f580b77-897d-87ea-07f9-76533b37c5e7/e971b7f2-bd5e-498d-8809-cdb6fb9e7c83_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.59.12.png/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.8",
+      "releaseNotes": "Improved iPhone/iPad control.",
+      "seenAt": "2021-01-31T21:46:40Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Added UFO!\nImproved performance.",
+      "seenAt": "2021-02-05T21:43:58Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Improved design.",
+      "seenAt": "2021-02-08T16:36:44Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Improved iPhone/iPad design.",
+      "seenAt": "2021-02-10T17:21:25Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Improved game design.",
+      "seenAt": "2021-02-16T20:43:56Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Improved game play.",
+      "seenAt": "2021-02-22T05:13:34Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Improved game play.",
+      "seenAt": "2021-02-22T20:33:47Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Apple Watch version now runs at 60fps! \nImproved game play.\n",
+      "seenAt": "2021-02-25T17:01:21Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Improved game play.",
+      "seenAt": "2021-02-26T15:18:19Z"
+    },
+    {
+      "version": "2.7.1",
+      "releaseNotes": "Improved performance.",
+      "seenAt": "2021-03-01T02:04:53Z"
+    },
+    {
+      "version": "2.7.2",
+      "releaseNotes": "Added watch complication support.",
+      "seenAt": "2021-04-12T18:32:45Z"
+    },
+    {
+      "version": "2.7.3",
+      "releaseNotes": "Improved watch complications.",
+      "seenAt": "2021-04-15T16:49:20Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Support Apple Watch Series 7 large display.",
+      "seenAt": "2021-10-06T17:52:50Z"
+    },
+    {
+      "version": "2.8.1",
+      "releaseNotes": "Improved design for Apple Watch Series 7.",
+      "seenAt": "2022-05-08T14:14:47Z"
+    },
+    {
+      "version": "2.8.2",
+      "releaseNotes": "Improved Apple Watch complications.",
+      "seenAt": "2022-05-17T12:47:43Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "Supports full screen on Apple Watch.",
+      "seenAt": "2022-06-09T04:09:07Z"
+    },
+    {
+      "version": "2.9.1",
+      "releaseNotes": "Updated for Ultra big display!",
+      "seenAt": "2022-09-12T13:36:48Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Upgrade to iOS 17.",
+      "seenAt": "2026-03-20T10:41:37Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "Improved design.\nAdded Japanese.",
+      "seenAt": "2026-03-22T20:22:47Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "Smoother game play.\nAdded Spanish.",
+      "seenAt": "2026-03-24T09:30:01Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "Added aliens lasers.",
+      "seenAt": "2026-03-29T12:45:29Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "New power-ups!",
+      "seenAt": "2026-04-08T16:06:28Z"
+    },
+    {
+      "version": "3.5",
+      "releaseNotes": "Added mute sound.",
+      "seenAt": "2026-04-13T20:59:34Z"
+    },
+    {
+      "version": "3.6",
+      "releaseNotes": "Improved design.",
+      "seenAt": "2026-05-24T18:41:47Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "Improved design.\nAdded difficulty levels.",
+      "seenAt": "2026-06-05T23:27:19Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:28:15.042Z",
+  "isOwnApp": false
+}

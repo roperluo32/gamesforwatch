@@ -1,0 +1,388 @@
+{
+  "trackId": "6473575512",
+  "bundleId": "com.mw.solitaire",
+  "slug": "klondike-solitaire-daily",
+  "path": "/apps/6473575512-klondike-solitaire-daily/",
+  "locales": {
+    "en": {
+      "trackName": "Klondike Solitaire - Daily",
+      "description": "Klondike Solitaire - Daily brings you a brand-new challenge every single day — same hand for all players worldwide, so you can compare scores with friends.\nPlay your way: classic 1-card draw or Vegas 3-card draw. On your Apple Watch or iPhone, anytime, anywhere.\n\nGAME MODES\n  - Daily Challenge — new hand every day, global leaderboard\n  - 1-card draw — relaxed, classic pace\n  - 3-card Vegas draw — faster, higher scoring\n  - Multiple difficulty levels for beginners and experts\n\nFEATURES\n - Apple Watch + iPhone — seamless on both devices\n - Unlimited undo & hints\n - Auto-complete when close to winning\n - Offline play — no Wi-Fi needed\n\nSimple to learn. Satisfying to master. Come back every day.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/us/app/klondike-solitaire-daily/id6473575512?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Card"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Classic Patience Watch & Phone"
+    },
+    "zh": {
+      "trackName": "Klondike Solitaire - Daily",
+      "description": "Klondike Solitaire - Daily brings you a brand-new challenge every single day — same hand for all players worldwide, so you can compare scores with friends.\nPlay your way: classic 1-card draw or Vegas 3-card draw. On your Apple Watch or iPhone, anytime, anywhere.\n\nGAME MODES\n  - Daily Challenge — new hand every day, global leaderboard\n  - 1-card draw — relaxed, classic pace\n  - 3-card Vegas draw — faster, higher scoring\n  - Multiple difficulty levels for beginners and experts\n\nFEATURES\n - Apple Watch + iPhone — seamless on both devices\n - Unlimited undo & hints\n - Auto-complete when close to winning\n - Offline play — no Wi-Fi needed\n\nSimple to learn. Satisfying to master. Come back every day.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/klondike-solitaire-daily/id6473575512?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
+      "genres": [
+        "游戏",
+        "娱乐",
+        "益智解谜",
+        "卡牌"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Klondike Solitaire - Daily",
+      "description": "Klondike Solitaire - Daily brings you a brand-new challenge every single day — same hand for all players worldwide, so you can compare scores with friends.\nPlay your way: classic 1-card draw or Vegas 3-card draw. On your Apple Watch or iPhone, anytime, anywhere.\n\nGAME MODES\n  - Daily Challenge — new hand every day, global leaderboard\n  - 1-card draw — relaxed, classic pace\n  - 3-card Vegas draw — faster, higher scoring\n  - Multiple difficulty levels for beginners and experts\n\nFEATURES\n - Apple Watch + iPhone — seamless on both devices\n - Unlimited undo & hints\n - Auto-complete when close to winning\n - Offline play — no Wi-Fi needed\n\nSimple to learn. Satisfying to master. Come back every day.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/klondike-solitaire-daily/id6473575512?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Diem Le",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "パズル",
+        "カード"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Klondike Solitaire - Daily",
+      "description": "Klondike Solitaire - Daily brings you a brand-new challenge every single day — same hand for all players worldwide, so you can compare scores with friends.\nPlay your way: classic 1-card draw or Vegas 3-card draw. On your Apple Watch or iPhone, anytime, anywhere.\n\nGAME MODES\n  - Daily Challenge — new hand every day, global leaderboard\n  - 1-card draw — relaxed, classic pace\n  - 3-card Vegas draw — faster, higher scoring\n  - Multiple difficulty levels for beginners and experts\n\nFEATURES\n - Apple Watch + iPhone — seamless on both devices\n - Unlimited undo & hints\n - Auto-complete when close to winning\n - Offline play — no Wi-Fi needed\n\nSimple to learn. Satisfying to master. Come back every day.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/de/app/klondike-solitaire-daily/id6473575512?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Puzzle",
+        "Karten"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1a/ae/c01aaea7-bc3c-d734-0c2e-49bb9c02fe46/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 3,
+  "userRatingCount": 2,
+  "price": 0,
+  "fileSizeBytes": "130934784",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "2.3.2",
+  "currentVersionReleaseDate": "2026-06-08T17:09:08Z",
+  "releaseDate": "2023-12-01T08:00:00Z",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
+  "sellerUrl": "https://mywatchgame.web.app",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/b5/b4/26b5b4e1-04e1-fd35-67ff-79e86e68bc31/0584eba7-6122-447d-a6a7-a85370344992_ipad_0.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/08/a9/d508a999-22b5-81bc-8ced-878509931792/eb8256d7-c9fc-402d-ab64-da2c35053d13_ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/33/6b/33336b85-0724-06a6-98ec-3f14eeb76485/309ac82e-7b20-4f65-8789-c3bfe138cefa_ipad_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d1/ec/d4d1ec5b-dd70-a898-cc66-8d50ec73677f/192f29f9-c4c7-4c86-9df5-1a34d552f3d7_ipad_4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/7e/07/cd7e07ee-e6f1-0b0c-f715-ad17e5805d38/f8db3c61-7ad6-4e70-8df1-38e402017630_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-12-03_at_14.03.27.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/6f/78/5b6f7879-caa3-e834-0144-9461168402c3/ipad_6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/51/79/f1517946-2283-afdb-3ce5-67158aedb14a/ipad_4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/5e/e0/fc5ee051-f8fe-40c2-a9df-829f746b34f9/a10ab185-dbb1-4f2c-8ddf-9f7a538876b7_ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/f8/16/d0f8169f-173b-8c9f-4d64-14cc9578f206/d5e36d70-520d-4187-98e8-d9c1c16e9e44_ip6_1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/24/79/f72479ad-bdfb-870b-6e36-cce12f44b4e5/5aa0cc72-b09b-4858-a50f-4a15da8e97ad_ip6_3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/d1/e7/15d1e72a-1073-56eb-0500-8e6a6d1efcf2/67a96714-6e99-433a-b11c-ce2298910761_ip6_2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/47/2c/22472c7d-1afe-146f-4c3e-6910782f5b62/ipxs_1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/64/82/2b6482ce-eafe-863c-9841-902274cff446/ipxs_3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/f9/63/d5f963a3-2747-43e2-0fc9-48888a1d1f45/ipxs_2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/51/c0/e051c0fb-f7cb-354d-cc3d-b95d16f3886a/ip_6.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/3c/4d/cd3c4d5e-a13c-a237-d161-20781c612a13/ip_4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/df/90/6ddf90e3-0eb5-e72a-f862-341da695328f/ip_5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/f8/16/d0f8169f-173b-8c9f-4d64-14cc9578f206/d5e36d70-520d-4187-98e8-d9c1c16e9e44_ip6_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/24/79/f72479ad-bdfb-870b-6e36-cce12f44b4e5/5aa0cc72-b09b-4858-a50f-4a15da8e97ad_ip6_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/d1/e7/15d1e72a-1073-56eb-0500-8e6a6d1efcf2/67a96714-6e99-433a-b11c-ce2298910761_ip6_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/b5/b4/26b5b4e1-04e1-fd35-67ff-79e86e68bc31/0584eba7-6122-447d-a6a7-a85370344992_ipad_0.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/08/a9/d508a999-22b5-81bc-8ced-878509931792/eb8256d7-c9fc-402d-ab64-da2c35053d13_ipad_2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/33/6b/33336b85-0724-06a6-98ec-3f14eeb76485/309ac82e-7b20-4f65-8789-c3bfe138cefa_ipad_3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d1/ec/d4d1ec5b-dd70-a898-cc66-8d50ec73677f/192f29f9-c4c7-4c86-9df5-1a34d552f3d7_ipad_4.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/df/14/f1df14cb-796b-c708-0272-8588575faacc/44b9a4a8-2ab3-4c25-a649-cc2e6d602002_w0.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/4c/08/b74c08aa-0db3-bd7e-3875-ca604f96ee95/w_6.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/bc/de/c0bcdef7-5878-d6eb-c5ed-ae01e6bd0c09/w_4.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/9c/e4/339ce4a5-1e7f-3fda-61a2-216159daa978/5013736f-9c7f-4a51-9ed2-e61d5192a98f_w_2.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/15/94/241594dd-32c1-d714-8af9-60ddb975b4ab/w_5.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.6.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-10-18T08:01:51Z"
+    },
+    {
+      "version": "1.6.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-01T18:41:33Z"
+    },
+    {
+      "version": "1.7.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-06T14:25:45Z"
+    },
+    {
+      "version": "1.7.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-11T08:55:15Z"
+    },
+    {
+      "version": "1.7.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-12T12:54:06Z"
+    },
+    {
+      "version": "1.8.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-16T16:40:10Z"
+    },
+    {
+      "version": "1.8.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-11-22T11:02:15Z"
+    },
+    {
+      "version": "1.8.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-12-10T17:23:45Z"
+    },
+    {
+      "version": "1.8.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-12-20T17:44:11Z"
+    },
+    {
+      "version": "1.8.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-12-24T05:27:52Z"
+    },
+    {
+      "version": "1.8.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-01-03T09:08:17Z"
+    },
+    {
+      "version": "1.8.6",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-02-06T09:07:42Z"
+    },
+    {
+      "version": "1.8.7",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-02-25T12:28:17Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-03-20T02:36:50Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-04-09T22:58:08Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-05-14T06:17:28Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-06-16T07:51:31Z"
+    },
+    {
+      "version": "2.0.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-08-07T18:53:26Z"
+    },
+    {
+      "version": "2.0.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-14T08:42:25Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-18T08:05:46Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-24T20:39:16Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-03-24T17:42:54Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-04-01T16:28:42Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-05-21T04:46:33Z"
+    },
+    {
+      "version": "2.3.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-06-08T17:09:08Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:04:55.004Z",
+  "isOwnApp": false
+}

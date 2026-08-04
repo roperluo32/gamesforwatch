@@ -1,0 +1,410 @@
+{
+  "trackId": "6447742368",
+  "bundleId": "com.mobivalley.LookAroundApp",
+  "slug": "place-guesser",
+  "path": "/apps/6447742368-place-guesser/",
+  "locales": {
+    "en": {
+      "trackName": "Place Guesser",
+      "description": "You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\n\nEmbark on a thrilling global adventure with our immersive travel game!\n\nExplore the world like never before with our two exciting game modes: Quick Play and Country Streak.\nIn Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360° panorama look around view images.\n\nWant to challenge your geographical knowledge even further?\nDive into Country Streak and guess the correct country based on stunning street view scenes. \nImmerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.\n\nReady to become a world-class explorer? Download our app now and embark on a thrilling journey of discovery!\n\n------------------------------------------------------------\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.mobivalley.com.br/privacypolicy",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/place-guesser/id6447742368?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
+      "genres": [
+        "Games",
+        "Casual",
+        "Travel",
+        "Trivia"
+      ],
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "RU",
+        "ES"
+      ],
+      "subtitle": "Guess the Location on the Map"
+    },
+    "ja": {
+      "trackName": "Place Guesser",
+      "description": "あなたは世界のどこかに突然降ろされ、手がかりを探して自分の現在地を世界地図上で当てなければなりません。\n\n没入感たっぷりのトラベルゲームで、スリリングな世界の冒険へ出かけましょう！\n\n「クイックプレイ」と「カントリーストリーク」の2つのエキサイティングなゲームモードで、これまでにない形で世界を探索できます。\nクイックプレイでは、観察力を試しながら制限時間内に360°パノラマ画像を手がかりに現在地を当ててみましょう。\n\nさらに地理の知識を試したいですか？\nカントリーストリークでは、美しいストリートビューの風景から正しい国を当てていきます。\n世界中の絶景や有名なランドマーク、活気ある街並みに没入しながら楽しめます。カジュアルな探検家も、経験豊富な旅人も、このアプリの中毒性のあるゲームプレイと魅力的なビジュアルに夢中になること間違いなしです。\n\n世界クラスの探検家になる準備はできましたか？今すぐアプリをダウンロードして、ワクワクする発見の旅に出かけましょう！\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー：https://www.mobivalley.com.br/privacypolicy",
+      "releaseNotes": "バグ修正とパフォーマンスの改善。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/place-guesser/id6447742368?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
+      "genres": [
+        "ゲーム",
+        "カジュアル",
+        "旅行",
+        "トリビア"
+      ],
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "RU",
+        "ES"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Place Guesser",
+      "description": "Du wirst irgendwo auf der Welt abgesetzt und musst Hinweise finden, um deinen Standort auf der Weltkarte zu erraten.\n\nBegib dich auf ein spannendes, weltweites Abenteuer mit unserem immersiven Reisespiel!\n\nEntdecke die Welt wie nie zuvor mit unseren zwei aufregenden Spielmodi: Schnellspiel und Länder-Serie.\nIm Schnellspiel stellst du deine Beobachtungsgabe unter Beweis und trittst gegen die Zeit an, um anhand faszinierender 360°-Panorama-Ansichten deinen Standort zu erraten.\n\nMöchtest du dein geografisches Wissen noch weiter herausfordern?\nTauche ein in die Länder-Serie und errate das richtige Land anhand beeindruckender Street-View-Szenen.\nLass dich von atemberaubenden Landschaften, ikonischen Wahrzeichen und lebendigen Stadtstraßen aus aller Welt mitreißen. Egal, ob du ein gelegentlicher Entdecker oder ein erfahrener Globetrotter bist – unsere App fesselt dich mit süchtig machendem Gameplay und faszinierenden Bildern.\n\nBereit, ein Weltklasse-Entdecker zu werden? Lade unsere App jetzt herunter und begib dich auf eine spannende Entdeckungsreise!\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nDatenschutzerklärung: https://www.mobivalley.com.br/privacypolicy",
+      "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/place-guesser/id6447742368?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Reisen",
+        "Quiz- und Denkspiele"
+      ],
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "RU",
+        "ES"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/43/37/ae43375f-7a4a-0e17-7dd2-bce6760a189c/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.69006,
+  "userRatingCount": 342,
+  "price": 0,
+  "fileSizeBytes": "85848064",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "17.6",
+  "version": "1.57.1",
+  "currentVersionReleaseDate": "2026-07-25T23:48:41Z",
+  "releaseDate": "2023-04-15T07:00:00Z",
+  "artistId": 1701006912,
+  "artistName": "Mobivalley",
+  "artistViewUrl": "https://apps.apple.com/de/developer/mobivalley/id1701006912?uo=4",
+  "sellerUrl": "http://www.mobivalley.com.br",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/89/ac/c589ac13-00cc-fbb1-c327-7cc8416996ec/1d6e9b73-d52c-4aca-86b9-70dd17c7f77b_ipad12.9inch-mockup2.001.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/f7/4b/81f74bc2-c48d-5050-62a0-bfb4cfa2bdbd/c7545633-a40e-44e9-a3bc-324b415873ac_ipad12.9inch-mockup.004.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/0e/f5/af0ef562-98e8-865e-5be8-424445ed9b9e/af3dec12-120b-477b-a468-11fb2f5ede27_ipad12.9inch-mockup.003.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/86/4d/6a864dc2-982b-d24f-5017-dc0ee07bd3c7/269462bb-5525-4f9b-a80b-30913588aa7b_ipad12.9inch-mockup.002.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/e6/46/3ce646bc-1fde-4660-d642-ae96cc11dc65/9154dbdd-c3aa-4f98-8761-1aaa8bf34f34_ipad12.9inch-mockup.005.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/ee/87/44ee871b-fa35-d8ab-3056-7c4a471494ad/2222.001.jpeg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/e5/49/20e54997-5e58-0a78-00c6-697674369539/24cf7ff1-9ca5-47e1-a96e-46abc9be70e9_ipad13inch-mockup.004.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/74/58/077458f5-60b0-2caf-f3f1-fa8a2f274f83/98d0d743-9f88-4896-8a6a-9e6604767eb1_ipad13inch-mockup.003.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/85/7a/92857ab1-e273-dd9f-f467-73c666bef693/333.001.jpeg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/c1/9e/6dc19ecd-f281-9530-ad6e-8cf0a583ce43/1b863c35-a0d3-4853-adb4-181a49910c01_ipad13inch-mockup.005.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/f4/16/60f4164b-f6f2-e00f-14a7-3abe5ab6fd19/4cae3889-088b-402e-891c-ca2e8b828f9a_ipad13inch-horizontal-mockup.001.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/cf/3b/b4cf3b6f-dd9b-5b5d-8f8a-af3eb1da6709/41c543a9-0ae6-4ed4-bbfb-3bbc8f05a3ea_ipad13inch-horizontal-mockup.002.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/a0/a2/aea0a265-076c-3a05-7729-0641d5cd6567/4beca481-d34e-42bf-9238-e6c20abf8b4e_ipad13inch-horizontal-mockup.004.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/98/1f/b8981f28-4f5c-9370-4b0f-0a892d3a2894/1ccb1808-eba0-40f0-b8b4-086679694b5d_ipad13inch-horizontal-mockup.003.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/8f/38/7b8f3810-f74f-530e-96f9-bdef44629980/c1bbff5b-10ab-4abd-8a67-b28a01a01ffd_iphoneSE3rdGeneration-mockup2.001.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/57/f1/c957f19b-8df0-c097-adf7-032b92da24d6/850d9138-244b-42b5-b96e-f99aaf22b12b_iphoneSE3rdGeneration-mockup.003.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/35/cc/df35ccce-c70c-7eca-4664-acb024270044/abe61517-49a4-4e64-8f05-bd924b412daa_iphoneSE3rdGeneration-mockup.005.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/6d/eb/416debf2-ed1e-74c9-b5cb-919efc628c3d/ac1c504f-6012-4fe6-9ace-f6d824263d54_iphoneSE3rdGeneration-mockup.004.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/ac/25/43ac25f7-5709-c2a8-6dd1-b1c2f52a10e4/0c82e8a9-5afd-40f8-8bb3-7677f9ddb95c_iphoneSE3rdGeneration-mockup.002.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/a4/a4/71a4a4e0-0cdc-a369-e1f6-aec5cd42c7f6/6ec1c092-ff95-429d-85ae-87b3cd9bf58b_iphoneSE3rdGeneration-mockup.007.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/81/8d/3c818d87-3185-35f7-094b-c25a2c0ba3f7/4415f208-491c-4165-9900-c637f7d31f25_iphoneSE3rdGeneration-mockup.006.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/7f/9f/017f9f5b-b81a-52cb-080f-e0181627bb8d/03-daily-challenge.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/fb/ee/fdfbee5a-16cb-8a66-d954-312e29294bc6/01-quick-play.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/e4/b7/13e4b715-393d-abd6-3c43-eac8ab40124b/02-country-streak.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/c0/75/dac0751d-7d7d-c2f6-a898-f15390b37429/05-the-reveal.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0b/7c/220b7cac-ee05-1137-b079-507e9f165828/04-multiplayer-1v1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/8f/38/7b8f3810-f74f-530e-96f9-bdef44629980/c1bbff5b-10ab-4abd-8a67-b28a01a01ffd_iphoneSE3rdGeneration-mockup2.001.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/57/f1/c957f19b-8df0-c097-adf7-032b92da24d6/850d9138-244b-42b5-b96e-f99aaf22b12b_iphoneSE3rdGeneration-mockup.003.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/35/cc/df35ccce-c70c-7eca-4664-acb024270044/abe61517-49a4-4e64-8f05-bd924b412daa_iphoneSE3rdGeneration-mockup.005.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/6d/eb/416debf2-ed1e-74c9-b5cb-919efc628c3d/ac1c504f-6012-4fe6-9ace-f6d824263d54_iphoneSE3rdGeneration-mockup.004.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/ac/25/43ac25f7-5709-c2a8-6dd1-b1c2f52a10e4/0c82e8a9-5afd-40f8-8bb3-7677f9ddb95c_iphoneSE3rdGeneration-mockup.002.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/a4/a4/71a4a4e0-0cdc-a369-e1f6-aec5cd42c7f6/6ec1c092-ff95-429d-85ae-87b3cd9bf58b_iphoneSE3rdGeneration-mockup.007.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/81/8d/3c818d87-3185-35f7-094b-c25a2c0ba3f7/4415f208-491c-4165-9900-c637f7d31f25_iphoneSE3rdGeneration-mockup.006.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/89/ac/c589ac13-00cc-fbb1-c327-7cc8416996ec/1d6e9b73-d52c-4aca-86b9-70dd17c7f77b_ipad12.9inch-mockup2.001.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/f7/4b/81f74bc2-c48d-5050-62a0-bfb4cfa2bdbd/c7545633-a40e-44e9-a3bc-324b415873ac_ipad12.9inch-mockup.004.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/0e/f5/af0ef562-98e8-865e-5be8-424445ed9b9e/af3dec12-120b-477b-a468-11fb2f5ede27_ipad12.9inch-mockup.003.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/86/4d/6a864dc2-982b-d24f-5017-dc0ee07bd3c7/269462bb-5525-4f9b-a80b-30913588aa7b_ipad12.9inch-mockup.002.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/e6/46/3ce646bc-1fde-4660-d642-ae96cc11dc65/9154dbdd-c3aa-4f98-8761-1aaa8bf34f34_ipad12.9inch-mockup.005.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/7a/85/927a852c-894a-5f21-d4c7-627656c1079e/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.18.16.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/44/a6/b944a61b-3f1a-8297-0c97-7b0cf5fd89f5/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.18.22.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/a7/63/64a763c4-c435-2d95-76f4-71e43fbffeea/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.18.40.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/49/ba/4249ba3d-ca0a-466d-2b46-4f5120a9eab3/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.18.43.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/2c/c9/fe2cc9c2-d354-cf0c-50c9-f0cbdb029af7/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.19.20.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/63/48/97634854-7eb2-5dbe-dfb4-4ab612da1750/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.19.24.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/26/ad/d726adec-d83f-5e3c-68f2-5218ac8649ba/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2025-12-04_at_00.19.35.png/422x514bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.41.0",
+      "releaseNotes": "We’re expanding and improving!\n– New countries added: Say hello to Bulgaria, Montenegro, Albania, Serbia, Slovakia, and Ukraine — now fully supported!\n– Fresh new look: Updated app icon for iOS 26 to match the latest style.\n– UI enhancements: Smoother navigation, cleaner layout, and overall improved user experience.\n\nUpdate now to explore more, faster, and better!",
+      "seenAt": "2025-10-22T14:29:09Z"
+    },
+    {
+      "version": "1.42.0",
+      "releaseNotes": "We’ve added support for:\n\nBotswana, Cayman Islands, Costa Rica, Cyprus, El Salvador, Estonia, Kazakhstan, Kyrgyzstan, Lebanon, Malta, Namibia, Oman, Romania\n\nUpdate now to access all the new locations and enjoy an expanded premium experience!",
+      "seenAt": "2025-11-01T20:36:14Z"
+    },
+    {
+      "version": "1.43.0",
+      "releaseNotes": "Fixed Place Generation: Discover curated locations without repeats!\nSmoother Gameplay: Bug fixes and performance improvements for seamless play.",
+      "seenAt": "2025-11-15T00:43:50Z"
+    },
+    {
+      "version": "1.44.0",
+      "releaseNotes": "We’ve expanded your adventure! Discover several brand-new places among the world’s best tourist attractions.\nPlus, we’ve added 4 exciting new leaderboards: Basic and Pro for both Quick Game and Country Streak, so you can compete weekly and see how you rank against players worldwide. Explore, play, and climb the global rankings!",
+      "seenAt": "2025-11-23T00:02:04Z"
+    },
+    {
+      "version": "1.45.0",
+      "releaseNotes": "This update brings an exciting new way to explore the world—right from your Apple Watch!\nWe’ve added a brand-new Street View game on watchOS, letting you jump into immersive panoramas and guess locations on the go. Whether you're traveling, taking a break, or just curious, it’s a fun and intuitive way to test your geography skills and discover new places.\n\nMore improvements and refinements are included to keep your experience smooth and enjoyable.\n\nEnjoy exploring!",
+      "seenAt": "2025-12-08T02:46:56Z"
+    },
+    {
+      "version": "1.45.1",
+      "releaseNotes": "This update brings an exciting new way to explore the world - right from your Apple Watch!\nWe’ve added a brand-new Street View game on watchOS, letting you jump into immersive panoramas and guess locations on the go. Whether you're traveling, taking a break, or just curious, it’s a fun and intuitive way to test your geography skills and discover new places.\n\nMore improvements and refinements are included to keep your experience smooth and enjoyable.\n\nEnjoy exploring!",
+      "seenAt": "2025-12-11T00:04:11Z"
+    },
+    {
+      "version": "1.46.0",
+      "releaseNotes": "Improved user interface for a cleaner, more intuitive experience",
+      "seenAt": "2025-12-16T19:57:57Z"
+    },
+    {
+      "version": "1.47.0",
+      "releaseNotes": "The app is now available in Arabic, Italian, and German \nBug fixes and performance improvements",
+      "seenAt": "2025-12-27T01:14:39Z"
+    },
+    {
+      "version": "1.48.0",
+      "releaseNotes": "Fixed an issue where some users were always getting the same location.",
+      "seenAt": "2026-01-07T21:40:45Z"
+    },
+    {
+      "version": "1.48.1",
+      "releaseNotes": "Fixed a bug affecting place selection in worldwide games.",
+      "seenAt": "2026-01-13T14:17:29Z"
+    },
+    {
+      "version": "1.49.0",
+      "releaseNotes": "- Fixed a bug preventing Pro users from accessing content after purchase\n- Updated libraries for improved performance and stability",
+      "seenAt": "2026-04-23T23:26:56Z"
+    },
+    {
+      "version": "1.50.0",
+      "releaseNotes": "- Multiplayer mode has been completely refactored for a smoother and more reliable experience\n- Fixed multiple bugs and improved overall stability\n- Invite friends easily using a room code\n- Play together in real time and compete live\nUpdate now and start guessing places with friends!",
+      "seenAt": "2026-05-09T18:10:36Z"
+    },
+    {
+      "version": "1.51.0",
+      "releaseNotes": "What’s New\n- New daily streaks\n- New daily challenges\n- More fun",
+      "seenAt": "2026-05-13T11:53:27Z"
+    },
+    {
+      "version": "1.51.1",
+      "releaseNotes": "What’s New:\n- New daily streaks\n- New daily challenges\n- More fun",
+      "seenAt": "2026-05-14T00:37:56Z"
+    },
+    {
+      "version": "1.52.0",
+      "releaseNotes": "What’s New:\n- Added new notification options in Settings\n- Fixed a bug affecting the daily challenge count",
+      "seenAt": "2026-05-16T12:10:04Z"
+    },
+    {
+      "version": "1.52.1",
+      "releaseNotes": "What’s New:\n- Added new notification options in Settings\n- Fixed a bug affecting the daily challenge count",
+      "seenAt": "2026-05-17T18:04:32Z"
+    },
+    {
+      "version": "1.53.0",
+      "releaseNotes": "- Added support for Puerto Rico\n- Fixed various bugs and improved overall stability\n- You can now rename your nickname for Daily Challenges and Multiplayer modes",
+      "seenAt": "2026-05-26T12:30:55Z"
+    },
+    {
+      "version": "1.53.1",
+      "releaseNotes": "Fix a crash in splash screen",
+      "seenAt": "2026-05-28T14:53:18Z"
+    },
+    {
+      "version": "1.54.0",
+      "releaseNotes": "Added more places in united states",
+      "seenAt": "2026-06-07T01:05:23Z"
+    },
+    {
+      "version": "1.54.1",
+      "releaseNotes": "New rematch feature in multiplayer",
+      "seenAt": "2026-06-18T21:23:46Z"
+    },
+    {
+      "version": "1.55.0",
+      "releaseNotes": "Fixed an issue where places were not loading.",
+      "seenAt": "2026-06-27T00:22:41Z"
+    },
+    {
+      "version": "1.55.1",
+      "releaseNotes": "General fixes and improvements",
+      "seenAt": "2026-07-01T19:21:32Z"
+    },
+    {
+      "version": "1.56.0",
+      "releaseNotes": "Bug fixes and improvements",
+      "seenAt": "2026-07-07T10:49:50Z"
+    },
+    {
+      "version": "1.57.0",
+      "releaseNotes": "Turn-based challenges are here! Play a round, share it with a friend, and compete anytime - no need to be online together.\nBrowse public challenges and climb the leaderboard.",
+      "seenAt": "2026-07-14T03:19:43Z"
+    },
+    {
+      "version": "1.57.1",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "seenAt": "2026-07-25T23:48:41Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:25:39.017Z",
+  "isOwnApp": false
+}

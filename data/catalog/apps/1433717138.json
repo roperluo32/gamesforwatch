@@ -1,0 +1,265 @@
+{
+  "trackId": "1433717138",
+  "bundleId": "com.flaskapp.hops",
+  "slug": "hops-journey-of-tree-spirit",
+  "path": "/apps/1433717138-hops-journey-of-tree-spirit/",
+  "locales": {
+    "en": {
+      "trackName": "Hops - Journey of Tree Spirit",
+      "description": "Hops is a gamified activity tracker. It motivates you to be more active every day.\n\nThe spirits of trees called Hops live in the forest. And your everyday activities in the real world help them grow!\n\nYour activities, such as walking, running, exercising or climbing stairs, will be used as energy for exploring new areas and crafting materials for items. And you can collect Hops Friends by achieving missions!\n\nBe more active every day with Hops!\n\n\n------------------------------\n◎ FEATURES\n\n- Explore the beautiful forests with cute Hops\n- Get traveling energy by achieving daily goals\n- Get crafting materials from your steps\n- Change outfits and get cool effects\n- Collect Friends by completing missions\n- Glanceable recent activities and stats\n- Measure Walking workouts\n\n\n------------------------------\n◎ APPLE WATCH APP FEATURES\n(Requires watchOS 6 or later)\n\n- Stats for Today and Yesterday\nYou can see your stats for Activity, Steps, Floors (Flights Climbed), Distance, Workouts(minutes) instantly.\n\n- Measure Walking Workouts\nWhile measuring walking, Steps and Floors (Flights Climbed) will also be displayed in real time.\n\n------------------------------\n◎ DAILY GOALS\n\nYou will earn Energy by achieving the Daily Goals. And if you accomplish every daily goal, you'll get an extra bonus Energy!\n\nYou can choose 3 activities from the following:\n\n- Activity Rings (Apple Watch required)\n- Steps\n- Floors (Flights Climbed)\n- Workouts (minutes)\n- Distance\n- Stand (based on Steps)\n\n------------------------------\n◎ 500 STEPS = 1 MATERIAL\n\nOne crafting material appears every 500 steps. The app will display a maximum of 20 materials simultaneously.\n\nLet's walk a lot and get more materials!\n\n\n------------------------------\n◎ MISSIONS\n\nMissions are the challenging activity goals with a limited time period from 1 hour to 24 hours. By succeeding it, you will get Hops Friends!\n\n\n------------------------------\n◎ ABOUT ACTIVITY DATA\n\nThis app integrates with Apple's Health app and reads/writes activity data from it.\nOn iPhone, the Walking workout is measured using Core Motion, and Hops app writes the result in the Health app.\n\nThe Health data is saved only in your devices. It will never be sent to anywhere by the app without your permission.",
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/hops-journey-of-tree-spirit/id1433717138?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "Health & Fitness",
+        "Simulation",
+        "Games"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": "Gamified activity tracker"
+    },
+    "ja": {
+      "trackName": "Hops - 木霊の旅",
+      "description": "Hopsは、ゲーム要素満載のアクティビティトラッカー。\n美しい森を旅しながら、小さな木霊（こだま）、Hopsを自分好みに育てよう！\n\n歩数だけではなく、階段を上ったり、エクササイズしたりというあなたの毎日の動きが、 Hopsの世界では、旅のエナジーや、クラフトの材料になります。\n\n着せ替えで能力アップしたり、旅の途中でフレンドHopsをゲットしたり、楽しみがいっぱい。\n\nHopsと一緒に、毎日をもっとアクティブに！\n\n\n------------------------------\n◎ 特徴\n------------------------------\n\n・デイリーゴールを達成でエナジーを手に入れ、美しい森を探検しよう！\n・あなたが現実世界での500歩が、クラフト材料に！\n・クラフトしたアイテムで着せ替え！ ホップ・スピード・エモートの効果あり\n・ミッションにチャレンジして、Hopsフレンドを集めよう\n・最近のアクティビティをわかりやすく表示\n・ウォーキングの計測\n\n\n------------------------------\n◎ Apple Watch App （watchOS 6以上）\n------------------------------\n\n・今日と昨日のスタッツ表示\nアクティビティリング、歩数、上った階数、距離、ワークアウト（分数）をすぐに確認できます。\n\n・ウォーキングの計測\nウォーキング中、気になる歩数や、上った階数も表示されます。\n\n------------------------------\n◎ デイリーゴール\n------------------------------\n\nデイリーゴールを達成すると、旅に必要なエナジーがもらえます。\nすべて達成した日は、パーフェクトボーナスも！\n\n以下の種類のアクティビティから、3つ選択できます。\n\n・アクティビティリング（Apple Watchご利用の方のみ）\n・歩数\n・上った階数\n・ワークアウト（分数）\n・距離\n・スタンド（歩数ベース）\n\n------------------------------\n◎ 500 歩 = 1 クラフト材料\n------------------------------\n\nあなたが現実世界で500歩あるくごとに、Hopsではひとつのクラフト材料が現れます。\n（同時に出現するのは20個まで）\n\nクラフト材料を使って、着せ替えアイテムを作ることができます。\n\n\n------------------------------\n◎ ミッション\n------------------------------\n\nミッションは1時間から24時間までの、短めのタイムリミットのあるチャレンジ！\nミッションを成功させて、Hopsフレンドを手に入れよう。\n\n\n------------------------------\n◎ データの読み込み・書き込みについて\n------------------------------\n\nHopsは、Appleのヘルスケアと連携し、各アクティビティデータを読み込んで利用します。\nワークアウトはコアモーションを使って計測し、結果はヘルスケアに書き込まれます。\n\n取得したデータは端末内のみに保存されます。勝手に弊社サーバ等へ送信されることはありません。",
+      "releaseNotes": "細かな修正や改善を行いました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/hops-%E6%9C%A8%E9%9C%8A%E3%81%AE%E6%97%85/id1433717138?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "ヘルスケア／フィットネス",
+        "シミュレーション",
+        "ゲーム"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Hops - Journey of Tree Spirit",
+      "description": "Hops is a gamified activity tracker. It motivates you to be more active every day.\n\nThe spirits of trees called Hops live in the forest. And your everyday activities in the real world help them grow!\n\nYour activities, such as walking, running, exercising or climbing stairs, will be used as energy for exploring new areas and crafting materials for items. And you can collect Hops Friends by achieving missions!\n\nBe more active every day with Hops!\n\n\n------------------------------\n◎ FEATURES\n\n- Explore the beautiful forests with cute Hops\n- Get traveling energy by achieving daily goals\n- Get crafting materials from your steps\n- Change outfits and get cool effects\n- Collect Friends by completing missions\n- Glanceable recent activities and stats\n- Measure Walking workouts\n\n\n------------------------------\n◎ APPLE WATCH APP FEATURES\n(Requires watchOS 6 or later)\n\n- Stats for Today and Yesterday\nYou can see your stats for Activity, Steps, Floors (Flights Climbed), Distance, Workouts(minutes) instantly.\n\n- Measure Walking Workouts\nWhile measuring walking, Steps and Floors (Flights Climbed) will also be displayed in real time.\n\n------------------------------\n◎ DAILY GOALS\n\nYou will earn Energy by achieving the Daily Goals. And if you accomplish every daily goal, you'll get an extra bonus Energy!\n\nYou can choose 3 activities from the following:\n\n- Activity Rings (Apple Watch required)\n- Steps\n- Floors (Flights Climbed)\n- Workouts (minutes)\n- Distance\n- Stand (based on Steps)\n\n------------------------------\n◎ 500 STEPS = 1 MATERIAL\n\nOne crafting material appears every 500 steps. The app will display a maximum of 20 materials simultaneously.\n\nLet's walk a lot and get more materials!\n\n\n------------------------------\n◎ MISSIONS\n\nMissions are the challenging activity goals with a limited time period from 1 hour to 24 hours. By succeeding it, you will get Hops Friends!\n\n\n------------------------------\n◎ ABOUT ACTIVITY DATA\n\nThis app integrates with Apple's Health app and reads/writes activity data from it.\nOn iPhone, the Walking workout is measured using Core Motion, and Hops app writes the result in the Health app.\n\nThe Health data is saved only in your devices. It will never be sent to anywhere by the app without your permission.",
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/de/app/hops-journey-of-tree-spirit/id1433717138?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "Gesundheit und Fitness",
+        "Simulation",
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a0/1a/3da01a61-4886-4600-3e44-35e9a7ce1ff5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.2,
+  "userRatingCount": 15,
+  "price": 0,
+  "fileSizeBytes": "106303488",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "3.1.2",
+  "currentVersionReleaseDate": "2025-09-17T05:38:44Z",
+  "releaseDate": "2019-01-23T18:08:10Z",
+  "artistId": 736602874,
+  "artistName": "Flask LLP",
+  "artistViewUrl": "https://apps.apple.com/de/developer/flask-llp/id736602874?uo=4",
+  "sellerUrl": "https://flaskapp.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "Watch4-Watch4",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPhone16e-iPhone16e",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPhone17e-iPhone17e"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/bb/45/27bb458a-2cad-7de6-7e7c-96b65046b8d4/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/c4/dc/95c4dc20-fed8-ca03-c0cf-3ac475f5a159/mzl.lesczdlt.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/fe/a8/d1fea8dd-c80e-eb50-a844-57c9658c907c/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/7a/32/6d7a3209-5ee5-545d-302f-4f93332fad38/mzl.uhbhrseo.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/1d/6a/be1d6a90-f0b9-df02-ab45-2c959b46f397/mzl.quaknujl.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/f1/e5/def1e59e-5c04-6405-2deb-0ba00f4321ee/mzl.iuupjsva.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/c6/16/88c61643-7e48-97e3-2b53-90129b0dc3a2/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c2/3c/60/c23c60d9-2acf-a21f-f6d4-9e7c225fc0ea/mzl.wzkugfsj.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/06/39/36063914-7d78-bc38-a438-a45961b57881/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/11/5b/51/115b5165-7c07-8422-814b-b618a24fef07/mzl.eodeveji.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/e7/a8/b6e7a880-9654-1147-0491-0b8e7290f6e5/mzl.gkwuadtd.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/b2/bd/57b2bd75-bbb9-9c85-90e7-0bcd7b04e826/mzl.uwqfmjlu.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/bb/45/27bb458a-2cad-7de6-7e7c-96b65046b8d4/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/c4/dc/95c4dc20-fed8-ca03-c0cf-3ac475f5a159/mzl.lesczdlt.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/fe/a8/d1fea8dd-c80e-eb50-a844-57c9658c907c/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/7a/32/6d7a3209-5ee5-545d-302f-4f93332fad38/mzl.uhbhrseo.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/1d/6a/be1d6a90-f0b9-df02-ab45-2c959b46f397/mzl.quaknujl.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/f1/e5/def1e59e-5c04-6405-2deb-0ba00f4321ee/mzl.iuupjsva.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/a7/fa/7da7fada-2f09-87e7-2247-7117c13716d9/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/5e/01/4d5e0194-ba33-1316-9b49-4add375bf8f2/mzl.rssddgvx.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/dd/f8/51ddf88d-05b5-7ac5-f240-f58eba847197/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/ed/08/aaed083e-52ae-afb1-590e-ca7d2fd4c29e/mzl.dxddouqo.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/0e/2f/a70e2fb0-4692-ae6a-d508-7af38d4eb069/mzl.gkczfphu.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/38/fd/ef38fd55-77d0-927b-716b-990a3544c408/mzl.vjqldttu.png/392x696bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b2/ac/e5/b2ace54d-72a0-7ce9-23ea-f66732bff31d/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/dc/d6/6ddcd64d-efba-d7b5-c48c-d4ad3f12c99f/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/62/17/6d621787-1797-d126-dc0c-8a8473061116/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/4a/43/d34a43f9-8d14-03a4-e111-99f2c6b8266e/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4d/b1/23/4db1234c-718e-6667-e5c2-75b217210bb0/pr_source.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "releaseNotes": "",
+      "seenAt": "2019-01-22T21:00:35Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "- Minor bug fixes and design tweaks",
+      "seenAt": "2019-01-24T20:50:38Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "- Fixed an issue related to mission progress\n- Minor improvements and fixes",
+      "seenAt": "2019-01-31T02:31:17Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "- Fixed a problem that occasionally energy generation from Workouts does not work well\n- Improved time calculation for Workouts Daily Goals.\n- Fixed UI issues on Recent Activity",
+      "seenAt": "2019-02-02T22:42:58Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "- Fixed a bug that would cause the crafting materials not to appear every 500 steps",
+      "seenAt": "2019-02-04T03:06:21Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "- Added new outfits!\n- Added Perfect Day to 30-day stats!\n- Minor bug fixes and improvements.",
+      "seenAt": "2019-02-25T20:46:04Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "- Added an Apple Watch app! (Requires watchOS 5.1 or later)\n- Added new outfits!\n- Other improvements and minor bug fixes",
+      "seenAt": "2019-03-26T00:00:19Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "-Improved the operability of the main screen",
+      "seenAt": "2019-04-03T01:48:12Z"
+    },
+    {
+      "version": "1.2.2",
+      "releaseNotes": "- Bug fixes: support for Japanese new era, Reiwa",
+      "seenAt": "2019-05-14T15:52:34Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "- Added Magic Leaf!\n- Added 3 new friends!\n- Added End Walking Reminder on the Apple Watch app\n- Minor improvements and fixes",
+      "seenAt": "2019-06-04T07:23:34Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "- Added new outfits!\n- Minor fixes and improvements",
+      "seenAt": "2019-06-28T13:09:59Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "・Winter has come to the Hops world! We hope you enjoy the snowy forest.\n・Added recipe sets: Red Santa & Black Santa! Get it with Magic Leaves. (Go to Bag > Use Magic Leaf)\n・Added new outfits!\n・Added support for iOS 13 and watchOS 6\n・Minor fixes and improvements",
+      "seenAt": "2019-12-15T01:11:36Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "- Winter is over\n- Minor bug fixes",
+      "seenAt": "2020-03-14T23:02:12Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "・Improved Daily Goals!\nNow you can change goals and activity types to track. And we added two activity types: Stand and Distance.\n(To manage your Daily Goals, go to settings in Hops.)\n\n・Improved Apple Watch app.\nNow you can see Distance and Workout (minutes).\n\n・Other minor bug fixes and improvements.",
+      "seenAt": "2020-05-02T15:42:08Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "・Fixed a crash that could occur when editing a daily goal\n・Other minor bug fixes",
+      "seenAt": "2020-06-06T02:25:36Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "- iOS 12 and watchOS 5 are no longer supported.\n- Added tracking request for ads.\n- Other small improvements.",
+      "seenAt": "2021-04-30T04:28:59Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "・Added a New Map, Mushroom Forest!\n・iOS 15 and watchOS 8 are now supported.\n・Various other improvements and bug fixes.",
+      "seenAt": "2021-12-24T15:10:25Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "・Added new items & recipe sets!\n・You can now wear all items from recipe sets at once.\n・Other improvements and bug fixes.\n・Hops has dropped support for iOS 14, and new updates will be available for iOS 15 and above.",
+      "seenAt": "2023-06-17T03:29:16Z"
+    },
+    {
+      "version": "3.1.1",
+      "releaseNotes": "Fixed an issue where the close button sometimes becomes untappable when displaying ads.",
+      "seenAt": "2023-08-18T09:11:18Z"
+    },
+    {
+      "version": "3.1.2",
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "seenAt": "2025-09-17T05:38:44Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:34.715Z",
+  "isOwnApp": false
+}

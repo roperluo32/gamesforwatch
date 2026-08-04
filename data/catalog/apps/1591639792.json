@@ -1,0 +1,383 @@
+{
+  "trackId": "1591639792",
+  "bundleId": "com.Vermilion-Apps.Spelling-Bee",
+  "slug": "spelling-queen-pangrams",
+  "path": "/apps/1591639792-spelling-queen-pangrams/",
+  "locales": {
+    "en": {
+      "trackName": "Spelling Queen Pangrams",
+      "description": "App version of the popular game, with many added features like the option to play together with friends & family on your Wi-Fi!\nEach 7-letter game is generated on the fly by algorithm. There are over 4000 unique 7 letter games to play!\n\nWork your way up from Novice, to Brilliant, to Mastermind, and on to win! There are only two rules to finding words and winning the game: words must be at least 4 letters long, and words must always use the center letter.\n\nSome games have only 10 words to find, to win the spelling game... other ones have over 50 words! Use Help to get a word count that will tell you how big the challenge is, see how many you've found, and get hints. There's now also a Game of the Day which is the same for everyone, everywhere. \n\nEach game has at least one pangram - a word that uses all 7 of the game's individual letters. Some games have more than one!\n\nThe game's word list is a partial English dictionary of the most frequently used words that have 7 or fewer unique letters. In your game, you can customize your own personal word list! Here's how it works: if you enter a word that *is* in the English dictionary but *is not* in the game's list, you can add that new word to your own list. That new word will be included in future games, no matter which of your iCloud devices you are playing on!",
+      "releaseNotes": "New feature, play from a widget!",
+      "trackViewUrl": "https://apps.apple.com/us/app/spelling-queen-pangrams/id1591639792?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Vermilion Apps LLC",
+      "genres": [
+        "Games",
+        "Word",
+        "Trivia",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "The 7-letter word puzzle game"
+    },
+    "ja": {
+      "trackName": "Spelling Queen Pangrams",
+      "description": "App version of the popular game, with many added features like the option to play together with friends & family on your Wi-Fi!\nEach 7-letter game is generated on the fly by algorithm. There are over 4000 unique 7 letter games to play!\n\nWork your way up from Novice, to Brilliant, to Mastermind, and on to win! There are only two rules to finding words and winning the game: words must be at least 4 letters long, and words must always use the center letter.\n\nSome games have only 10 words to find, to win the spelling game... other ones have over 50 words! Use Help to get a word count that will tell you how big the challenge is, see how many you've found, and get hints. There's now also a Game of the Day which is the same for everyone, everywhere. \n\nEach game has at least one pangram - a word that uses all 7 of the game's individual letters. Some games have more than one!\n\nThe game's word list is a partial English dictionary of the most frequently used words that have 7 or fewer unique letters. In your game, you can customize your own personal word list! Here's how it works: if you enter a word that *is* in the English dictionary but *is not* in the game's list, you can add that new word to your own list. That new word will be included in future games, no matter which of your iCloud devices you are playing on!",
+      "releaseNotes": "New feature, play from a widget!",
+      "trackViewUrl": "https://apps.apple.com/jp/app/spelling-queen-pangrams/id1591639792?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Vermilion Apps LLC",
+      "genres": [
+        "ゲーム",
+        "単語",
+        "トリビア",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Spelling Queen Pangrams",
+      "description": "App version of the popular game, with many added features like the option to play together with friends & family on your Wi-Fi!\nEach 7-letter game is generated on the fly by algorithm. There are over 4000 unique 7 letter games to play!\n\nWork your way up from Novice, to Brilliant, to Mastermind, and on to win! There are only two rules to finding words and winning the game: words must be at least 4 letters long, and words must always use the center letter.\n\nSome games have only 10 words to find, to win the spelling game... other ones have over 50 words! Use Help to get a word count that will tell you how big the challenge is, see how many you've found, and get hints. There's now also a Game of the Day which is the same for everyone, everywhere. \n\nEach game has at least one pangram - a word that uses all 7 of the game's individual letters. Some games have more than one!\n\nThe game's word list is a partial English dictionary of the most frequently used words that have 7 or fewer unique letters. In your game, you can customize your own personal word list! Here's how it works: if you enter a word that *is* in the English dictionary but *is not* in the game's list, you can add that new word to your own list. That new word will be included in future games, no matter which of your iCloud devices you are playing on!",
+      "releaseNotes": "New feature, play from a widget!",
+      "trackViewUrl": "https://apps.apple.com/de/app/spelling-queen-pangrams/id1591639792?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Vermilion Apps LLC",
+      "genres": [
+        "Spiele",
+        "Wortspiele",
+        "Quiz- und Denkspiele",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/29/28/d12928e2-a72a-7bd7-4caa-f9e06a9d8c8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.56863,
+  "userRatingCount": 51,
+  "price": 0,
+  "fileSizeBytes": "37967872",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "16.0",
+  "version": "4.4",
+  "currentVersionReleaseDate": "2026-03-31T16:22:24Z",
+  "releaseDate": "2021-11-10T08:00:00Z",
+  "artistId": 1482824795,
+  "artistName": "Frederic Bacro",
+  "artistViewUrl": "https://apps.apple.com/de/developer/frederic-bacro/id1482824795?uo=4",
+  "sellerUrl": "https://spellingqueen.vermilion-apps.com/",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/77/41/ce7741ce-8360-2f38-221c-72084af92275/9147d6ba-0b8c-474c-b109-b83eb0a4e6d2_iPad_Pro_1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/3c/bb/7b3cbb9c-9a85-a900-97e8-7a3c93691e73/271bd3e8-5f32-45f3-bd7d-eab3168fd00c_queen.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/ba/ae/6cbaae70-47e8-1461-63c6-321475b9ad7e/36fb9d1a-f89d-4069-a6dc-6ee77da00506_iPad_Pro_1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/07/d0/9807d0bb-c957-7fde-a0b1-fdc762497da4/e393600c-2873-46fd-bdeb-73dab9d2cc13_queen.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/e0/14/e9e014ba-601d-39ea-b802-fd913fc51c6d/fed6fcc3-e105-4f99-b524-7feef99986a1_unl.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/a7/21/9fa72102-3c8f-9aa5-b7b7-76805ae5d119/8aab14cc-4e47-4a90-82bf-adb30b60bfa1_queen.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/d8/d2/f7d8d274-27a9-76d8-e5fd-8261c16acef1/58d86727-d987-49c0-8685-4ad17feae34f_vocab.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/63/00/6b63008a-7caa-4897-b7b8-751fd8328be6/67e659e3-83d0-474b-b70b-25f674e1b15a_progress.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/db/5c/c8db5c86-efe8-eb89-ea33-640f05784768/9e4fea63-4c15-446a-a09c-637f957ca051_choices.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/1d/86/4f1d868d-3a55-1244-936f-8dc9fc731faf/5cd6afb6-4c1c-4d1c-88ce-6aeab476a3ee_wifi.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/7b/7d/b27b7dd8-91aa-d144-780b-d67293442652/c0f6c3f6-4610-4374-aae0-b2f32c2a4a82_now.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/27/e1/e227e1c1-2628-7ef1-4aa7-5a1669d56854/58e2d51b-e25e-4564-b535-361dd304120c_no_limit.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/53/88/c6538872-1684-dddf-a714-843df22278ad/ccfe2f04-170a-4b41-b91d-86e34d00e237_queen.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/18/5f/33185ff1-ba63-b8e9-131a-91aba20d550e/34196140-3c04-4096-98ea-268df9c7422e_vocab.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/93/e0/e693e0d5-1850-c922-bb29-87cc071f4ffc/rebus.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d3/0d/aed30d74-2ae4-85a0-6401-d2e3c55c6a8b/44bbd83a-5f59-42ec-a764-db7608cc0e6e_progress.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/0e/fd/0f0efdf8-e9d4-f5fa-bfe0-8d52e1a7d1a0/f48e939f-387b-44a5-9c3b-bad2c45df5b3_wifi.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/59/03/0059032e-74fb-055a-10ae-1d18fb4c0d34/785cf15a-1fac-4ede-80fc-7a56e16004ee_two_choices.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/12/e1/5b12e17f-0d2d-b850-73a0-e5298a2394e4/spellingimp.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/63/4f/9d634fd8-648c-467e-4bf1-e603b0ecc954/d9cee4e9-09b6-4b9a-9810-44a56f10cf72_now.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/c0/04/afc00431-9518-2f91-502e-9d9ec5d64734/6061c218-4cfd-4fbb-8109-3333f445a70e_unlimited.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/aa/7e/89aa7ea4-91c2-4006-a42d-64dac522d6f5/1e9ec0aa-bce0-4c68-a60b-e61ac1d10e9d_queen.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/54/68/70546859-ddf0-efcd-63f5-c8114ab16d98/f8a6bd41-ae39-4d20-ae18-239f280436b4_expand.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/81/6f/2e816f27-63ae-ea21-eb56-e7ae50836e33/d5068bcf-7352-40ba-a910-15ffe6c7a331_stats.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/a4/fc/5da4fc16-8d80-cca1-e2d6-078c54af266e/39c06e1c-3774-46e5-8b40-ce5bc687a5f4_two_choices.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/64/ad/5264adeb-70fd-0ba6-7697-883f5cd3747c/a33c13d2-1261-4757-8e17-d2175fa59dbe_wifi.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/cc/a6/c2cca635-7bd9-7ddd-a050-35d816a36787/25aa41c5-e40f-41ce-8e85-76d9e9950126_now.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/e0/14/e9e014ba-601d-39ea-b802-fd913fc51c6d/fed6fcc3-e105-4f99-b524-7feef99986a1_unl.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/a7/21/9fa72102-3c8f-9aa5-b7b7-76805ae5d119/8aab14cc-4e47-4a90-82bf-adb30b60bfa1_queen.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/d8/d2/f7d8d274-27a9-76d8-e5fd-8261c16acef1/58d86727-d987-49c0-8685-4ad17feae34f_vocab.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/63/00/6b63008a-7caa-4897-b7b8-751fd8328be6/67e659e3-83d0-474b-b70b-25f674e1b15a_progress.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/db/5c/c8db5c86-efe8-eb89-ea33-640f05784768/9e4fea63-4c15-446a-a09c-637f957ca051_choices.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/1d/86/4f1d868d-3a55-1244-936f-8dc9fc731faf/5cd6afb6-4c1c-4d1c-88ce-6aeab476a3ee_wifi.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/7b/7d/b27b7dd8-91aa-d144-780b-d67293442652/c0f6c3f6-4610-4374-aae0-b2f32c2a4a82_now.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/77/41/ce7741ce-8360-2f38-221c-72084af92275/9147d6ba-0b8c-474c-b109-b83eb0a4e6d2_iPad_Pro_1.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/3c/bb/7b3cbb9c-9a85-a900-97e8-7a3c93691e73/271bd3e8-5f32-45f3-bd7d-eab3168fd00c_queen.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/d6/51/9e/d6519ecd-c347-2b0b-1943-fb95a9c0d6d0/e0ae7b01-ccd5-4172-a6df-6cfd872c1443_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.31.54.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/97/42/8a/97428a3b-4532-c0b5-f3a2-335df81cf90c/9cf623da-cbf7-40c2-8a71-4065152d14f1_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.32.19.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e2/56/88/e25688c7-6f52-4d54-5725-9f66a082c840/f10921de-3f59-4e06-9f63-8dee8467aa89_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.33.55.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/5d/84/a8/5d84a8ac-8e2b-1f16-bc10-3bd119a77d27/621a29c3-b03e-4883-a353-ce1ba1761363_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.36.15.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/55/1c/1f/551c1fc0-9e85-7e9a-de75-9977a67ae1ac/22f837b7-ccca-41bf-8681-971d87f0bcd9_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.33.42.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6e/18/63/6e186360-58ec-3c5e-3e9a-6ad75631b743/557a27e1-c9fe-4d8f-9560-90ebb5ad2095_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2023-01-17_at_16.34.01.png/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.1",
+      "releaseNotes": "After the rushed mandatory legal update, we listened to your first feedback and already made these changes:\n- lighter change of orange, easier on the eye\n- bigger center letters\n\nLet's keep improving the App, we love to hear your suggestions in the reviews :)",
+      "seenAt": "2022-01-07T09:39:14Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "- Bug fix (Game of the Day)\n- Dictionary improvements",
+      "seenAt": "2022-01-13T22:42:56Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "- Alternate look with circles, try it and you might find words more easily\n- As always, dictionary improvements\n\nThank you for playing!",
+      "seenAt": "2022-01-16T22:38:40Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Dictionary improvements",
+      "seenAt": "2022-02-08T01:44:38Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "- Game progress is autosaved with an option to resume if the App is restarted. This feature was requested by several of you.\n- The game look with circles is now default, as it's the most popular option, but both interfaces remain available. \n- As always, some improvements to the dictionary.\n\nThank you for playing! ",
+      "seenAt": "2022-03-08T14:03:02Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "- New animations\n- Small dictionary improvements",
+      "seenAt": "2022-05-25T11:25:57Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "- New button to access progress & hints more easily\n- Feedback when the center letter is missing\n- Small improvements\n\nThank you for playing!",
+      "seenAt": "2022-09-03T13:29:50Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "- Introducing short games with 25 words or less (thank you for the suggestion!)\n- Minor improvements",
+      "seenAt": "2022-10-21T22:13:01Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "New! Play Spelling Queen Pangrams on your Apple Watch!",
+      "seenAt": "2023-01-18T18:35:20Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "New! Beat friends and other players on the global leaderboard!",
+      "seenAt": "2023-02-18T19:59:00Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "Small fixes",
+      "seenAt": "2023-05-27T10:44:44Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "Visual update",
+      "seenAt": "2023-06-30T00:27:38Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "- Layout fixes for watchOS 10\n- Bug fixes on iOS",
+      "seenAt": "2023-09-23T21:23:00Z"
+    },
+    {
+      "version": "3.5",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2024-01-01T23:26:21Z"
+    },
+    {
+      "version": "3.6",
+      "releaseNotes": "- Dictionary improvements\n- Small fixes",
+      "seenAt": "2024-02-12T23:07:38Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "- GDPR compliance update\n- More dictionary improvements",
+      "seenAt": "2024-02-19T12:52:22Z"
+    },
+    {
+      "version": "3.8",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2024-02-26T13:20:41Z"
+    },
+    {
+      "version": "3.9",
+      "releaseNotes": "Dictionary improvements",
+      "seenAt": "2024-03-07T10:04:15Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "- Improved experience when returning to paused games\n- Small dictionary improvements",
+      "seenAt": "2024-03-28T16:18:01Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "Bug fixes on watchOS",
+      "seenAt": "2024-04-09T18:45:35Z"
+    },
+    {
+      "version": "4.2",
+      "releaseNotes": "- Major dictionary improvements\n- Include/exclude both plurals and tenses: Players can now toggle on and off games that include either S or ED in Spelling Queen’s settings menu.\n- Words sorted vertically: expanding or revealing the word list now displays words sorted vertically (not horizontally) in alphabetical order.",
+      "seenAt": "2024-10-01T16:27:39Z"
+    },
+    {
+      "version": "4.21",
+      "releaseNotes": "- Major dictionary improvements\n- Include/exclude both plurals and tenses: Players can now toggle on and off games that include either S or ED in Spelling Queen’s settings menu.\n- Words sorted vertically: expanding or revealing the word list now displays words sorted vertically (not horizontally) in alphabetical order.\n- Bug fix for Game of The Day",
+      "seenAt": "2024-10-03T07:03:01Z"
+    },
+    {
+      "version": "4.22",
+      "releaseNotes": "A few bug fixes",
+      "seenAt": "2024-10-07T20:34:58Z"
+    },
+    {
+      "version": "4.3",
+      "releaseNotes": "Now Spelling Queen Pangrams has even more, and more challenging, games to play with Rebus Games! A rebus is a fixed two-letter combination, appearing around or inside the center letter space. When a rebus appears in a game, the possibilities for word creation change - the rebus letters must be used in order, so get ready for a challenge!",
+      "seenAt": "2026-03-10T01:56:06Z"
+    },
+    {
+      "version": "4.4",
+      "releaseNotes": "New feature, play from a widget! ",
+      "seenAt": "2026-03-31T16:22:24Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:14:59.790Z",
+  "isOwnApp": false
+}

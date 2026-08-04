@@ -1,0 +1,377 @@
+{
+  "trackId": "1465806015",
+  "bundleId": "com.denislavkochev.superpingpong",
+  "slug": "super-ping-pong-offline-game",
+  "path": "/apps/1465806015-super-ping-pong-offline-game/",
+  "locales": {
+    "en": {
+      "trackName": "Super Ping Pong : Offline Game",
+      "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
+      "releaseNotes": "Minor improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/super-ping-pong-offline-game/id1465806015?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "Games",
+        "Sports",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Includes a No Wifi Watch game"
+    },
+    "ja": {
+      "trackName": "Super Ping Pong : Offline Game",
+      "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
+      "releaseNotes": "Minor improvements.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/super-ping-pong-offline-game/id1465806015?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "ゲーム",
+        "スポーツ",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Super Ping Pong : Offline Game",
+      "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
+      "releaseNotes": "Minor improvements.",
+      "trackViewUrl": "https://apps.apple.com/de/app/super-ping-pong-offline-game/id1465806015?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "Spiele",
+        "Sport",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/6a/83/d16a83e6-9a58-6136-264a-362c24bbdd23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "averageUserRating": 4.41406,
+  "userRatingCount": 384,
+  "price": 0,
+  "fileSizeBytes": "53747712",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "11.0",
+  "version": "4.9.6",
+  "currentVersionReleaseDate": "2023-11-27T23:14:38Z",
+  "releaseDate": "2019-05-29T16:02:14Z",
+  "artistId": 856642892,
+  "artistName": "Deniz Kocoglu",
+  "artistViewUrl": "https://apps.apple.com/de/developer/deniz-kocoglu/id856642892?uo=4",
+  "sellerUrl": "http://denizkocoglu.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/82/4f/55824f36-1422-dd2c-0cfa-6dbdcbda91ae/ae5a19a8-865d-4b60-a57e-b7c95f525029_gameplay.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/7d/b2/e57db251-f766-d41d-05f1-77a1e25500d1/05e8e8e6-b7e9-4025-9c94-4d4edb066886_win.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/05/c8/1305c812-9179-5e86-7bcc-bda575df3f26/4d80c897-7887-4745-9df1-3ad055a3de72_main.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/97/4e/8d974ecc-a0bf-891e-f7f6-9f8e09ffc537/f1d81b11-fa70-429b-8c30-b7df8597c442_startup2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/89/c0/2789c0df-b848-d080-9406-9ecf1bf40772/b6d1a1f8-01b6-49fe-b3a8-52f2885fb20d_powerups.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/bf/2a/f9bf2a27-9e48-b012-5061-82bf85887c75/3689e26d-1dec-4afd-9776-15b1f3f751ef_gameplay.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/8e/42/e28e4234-9790-24f2-0376-30bff2c2765e/474733a0-53ca-48ac-bda3-d8927a085bc9_win.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/66/a9/b766a9ef-ab34-6b87-7ff0-85dd6cec4ba1/03399f23-4125-4f89-a435-fbf73b955dce_main.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/84/d6/8b84d6ac-27f0-5b20-590a-9f403922798d/e3e449e8-deb5-49d0-b825-28861846b34e_startup2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/40/e0/e640e0fa-be78-60e3-739e-7df518ab2d33/ecd61fd7-e193-4e0a-8874-8c7cc8456b94_powerups.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/72/e5/7372e55c-0664-43ff-ac21-71869b7e0f90/64571ec1-5908-4c20-8372-37edeb112bd2_gameplay.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/5c/f8/645cf832-6eac-1ade-ccb1-4bc13e33f340/ab9aaee8-38ca-4286-88f7-712bb35d6f1d_win.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/86/bd/0686bd71-19a6-82b0-587f-034b239a49ed/8d20d5cb-93ad-4372-93ad-a75d2a3393dc_main.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/07/03/1c070395-b802-5381-bfca-85c0dd303b13/df75c0c1-0be5-45cc-bb6e-6a49e86be394_startup2.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/aa/3a/efaa3ac0-48c3-f5d5-3415-39b6df7367b8/5fe2bbe6-4faf-4672-8738-93901ca680cd_powerups.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/a3/a3/c4a3a35f-df4e-994d-a6f8-6f9069e599ca/8707fa2e-8397-4833-96c1-3a86a7488f49_gameplay.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/84/1b/e6841b5a-aaf6-313e-207f-9973942f7260/4e3221fb-f936-4994-b8c6-62b33e6cd2fd_win.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/e7/06/27e7061f-7349-f1d5-384b-109a5f3c7bbc/9c5bcd1c-2db7-47f1-8b25-424d08deea76_main.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/ec/fe/ffecfe0b-5b49-33d6-96e4-61cf643e9acb/62ed4267-7385-4a8b-8b67-63b3da7eab59_startup2.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ed/bb/d0/edbbd072-acfc-3309-637f-eb7386c2756e/ececa1dc-eaa9-4b1b-81c5-aea863ff19bf_powerups.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/0f/63/d40f6355-106d-8e8f-c7e3-5f7604ea8ad3/b74510f9-bd1e-401b-a952-2c40dfde5d4b_gameplay2.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/5a/c7/a05ac76f-721f-1836-1b4e-3f7f17656123/611a26fa-551e-4af5-a1fe-3cc7310b3009_win.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/44/4b/82444b08-faee-48cd-3f17-edab3c2b5f5e/d315c5f6-03b4-455a-8731-36eeafac9dff_main2.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/c6/1b/ecc61b2f-b4bf-be8c-525d-e732dcc05c63/7ca78faa-1200-42fc-ab09-0100c9b5142e_startup.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/18/a6/fa18a605-d3d0-4086-2bcf-15292340e6bd/668d1566-8d39-4046-a21e-0e8158d0743d_powerups.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/72/e5/7372e55c-0664-43ff-ac21-71869b7e0f90/64571ec1-5908-4c20-8372-37edeb112bd2_gameplay.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/5c/f8/645cf832-6eac-1ade-ccb1-4bc13e33f340/ab9aaee8-38ca-4286-88f7-712bb35d6f1d_win.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/86/bd/0686bd71-19a6-82b0-587f-034b239a49ed/8d20d5cb-93ad-4372-93ad-a75d2a3393dc_main.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/07/03/1c070395-b802-5381-bfca-85c0dd303b13/df75c0c1-0be5-45cc-bb6e-6a49e86be394_startup2.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/aa/3a/efaa3ac0-48c3-f5d5-3415-39b6df7367b8/5fe2bbe6-4faf-4672-8738-93901ca680cd_powerups.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/82/4f/55824f36-1422-dd2c-0cfa-6dbdcbda91ae/ae5a19a8-865d-4b60-a57e-b7c95f525029_gameplay.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/7d/b2/e57db251-f766-d41d-05f1-77a1e25500d1/05e8e8e6-b7e9-4025-9c94-4d4edb066886_win.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/05/c8/1305c812-9179-5e86-7bcc-bda575df3f26/4d80c897-7887-4745-9df1-3ad055a3de72_main.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/97/4e/8d974ecc-a0bf-891e-f7f6-9f8e09ffc537/f1d81b11-fa70-429b-8c30-b7df8597c442_startup2.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/89/c0/2789c0df-b848-d080-9406-9ecf1bf40772/b6d1a1f8-01b6-49fe-b3a8-52f2885fb20d_powerups.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/7f/b9/a97fb9ed-ea91-9365-6b69-37894fab0a20/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/c8/f5/63c8f51a-8ed4-ccd9-386a-39d95d05f2ef/d2af699e-96e0-4f71-a015-31720bf1040c_368x448_startupscreen_copy.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/9b/b8/5a9bb8a5-6f6e-a973-e222-ee0d94861b8d/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/78/6a/55786ab5-6486-9425-e1b5-02be4089185d/pr_source.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.2",
+      "releaseNotes": "New retro mode and ability to play with 2 players is added.",
+      "seenAt": "2020-01-15T07:02:06Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Minor improvement and fixes.",
+      "seenAt": "2020-01-16T00:03:18Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Now you can play it on your Apple Watch.",
+      "seenAt": "2020-02-18T21:47:49Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "A critical bug was fixed where the app would crash for new users.",
+      "seenAt": "2020-02-19T15:25:06Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Overall improvements. Ability to disable the ads.",
+      "seenAt": "2020-02-29T22:24:40Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Ability to disable the ads with in-app purchase.",
+      "seenAt": "2020-11-10T17:31:35Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Ability to show in-app purchase promotions on the App Store.",
+      "seenAt": "2020-11-14T22:14:07Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2020-12-15T20:44:49Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2021-06-08T15:17:26Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "Redesigned modern graphics. Cool PowerUps.",
+      "seenAt": "2021-10-26T21:02:15Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "Paddles can move sideways. Improvements on graphics.",
+      "seenAt": "2021-11-02T15:58:39Z"
+    },
+    {
+      "version": "4.2",
+      "releaseNotes": "Minor improvements on the gameplay.",
+      "seenAt": "2021-11-12T00:46:04Z"
+    },
+    {
+      "version": "4.3",
+      "releaseNotes": "Visual improvements.",
+      "seenAt": "2021-12-01T22:02:56Z"
+    },
+    {
+      "version": "4.4",
+      "releaseNotes": "Overall improvements.",
+      "seenAt": "2021-12-14T04:10:56Z"
+    },
+    {
+      "version": "4.5",
+      "releaseNotes": "Bug fix where the game ends at score 1.",
+      "seenAt": "2021-12-15T20:51:21Z"
+    },
+    {
+      "version": "4.6",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2022-01-14T03:59:45Z"
+    },
+    {
+      "version": "4.7",
+      "releaseNotes": "Improvements.",
+      "seenAt": "2022-02-02T06:44:49Z"
+    },
+    {
+      "version": "4.8",
+      "releaseNotes": "Necessary adjustments for testing the new product page optimization feature.",
+      "seenAt": "2022-02-02T23:49:51Z"
+    },
+    {
+      "version": "4.9",
+      "releaseNotes": "Overall improvements.",
+      "seenAt": "2023-02-20T22:17:12Z"
+    },
+    {
+      "version": "4.9.1",
+      "releaseNotes": "Bug fix.",
+      "seenAt": "2023-06-21T16:08:00Z"
+    },
+    {
+      "version": "4.9.2",
+      "releaseNotes": "Minor improvement.",
+      "seenAt": "2023-06-21T23:51:21Z"
+    },
+    {
+      "version": "4.9.3",
+      "releaseNotes": "Bug fix.",
+      "seenAt": "2023-06-22T20:14:26Z"
+    },
+    {
+      "version": "4.9.4",
+      "releaseNotes": "Icon adjustment.",
+      "seenAt": "2023-06-25T16:15:56Z"
+    },
+    {
+      "version": "4.9.5",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2023-11-15T16:57:59Z"
+    },
+    {
+      "version": "4.9.6",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2023-11-27T23:14:38Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T08:58:48.493Z",
+  "isOwnApp": false
+}

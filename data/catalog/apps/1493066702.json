@@ -1,0 +1,411 @@
+{
+  "trackId": "1493066702",
+  "bundleId": "com.neufsters.pangram",
+  "slug": "pangram",
+  "path": "/apps/1493066702-pangram/",
+  "locales": {
+    "en": {
+      "trackName": "Pangram",
+      "description": "Pangram is a simple game - just make words!\n\nSee how many words you can make with the letters on the screen.  Each word must include the center letter(s). Use letters as many times as you want in each word. Can you guess the pangram? Pangrams are words that use all the letters on the board. Each game has at least one, and many have more. Bonus points for finding them!\n\nConfigure games how you like them:\n\n• Set the number of center (required) letters\n• Set the number of outer (optional) letters\n• Set the minimum word length\n\nThat's it! No lives to lose. No penalty for guessing wrong. No stress. Just play!\n\nFor some extra fun, send games to friends and family, publish them on the public games listing, or join other public games that fellow Pangrammers have posted.  Each shared or public game has a leader board where you can track everyone's progress.\n\nIn the free version you can create and play one game a day.  If you're having a blast, upgrade to the Unlimited Games in-app purchase.  Create game after game after game...\n\nRequirement: You must have iCloud Drive enabled to share games and play public games. The basic free tier is all that's needed.\n\nFinal note: My kids want you to know that Pangram looks even better in Dark Mode.  Embrace the dark side, they say.",
+      "releaseNotes": "Improvements including:\n• Choice of three dictionary options to use for definitions\n• Ability to filter out words you found on the Answers screen to quickly see what you missed\n• Updated content moderation system\n• Better styling for the latest iOS\n• New words in the word list",
+      "trackViewUrl": "https://apps.apple.com/us/app/pangram/id1493066702?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Russell Neufeld",
+      "genres": [
+        "Games",
+        "Word",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "How many words can you make?"
+    },
+    "ja": {
+      "trackName": "Pangram",
+      "description": "Pangram is a simple game - just make words!\n\nSee how many words you can make with the letters on the screen.  Each word must include the center letter(s). Use letters as many times as you want in each word. Can you guess the pangram? Pangrams are words that use all the letters on the board. Each game has at least one, and many have more. Bonus points for finding them!\n\nConfigure games how you like them:\n\n• Set the number of center (required) letters\n• Set the number of outer (optional) letters\n• Set the minimum word length\n\nThat's it! No lives to lose. No penalty for guessing wrong. No stress. Just play!\n\nFor some extra fun, send games to friends and family, publish them on the public games listing, or join other public games that fellow Pangrammers have posted.  Each shared or public game has a leader board where you can track everyone's progress.\n\nIn the free version you can create and play one game a day.  If you're having a blast, upgrade to the Unlimited Games in-app purchase.  Create game after game after game...\n\nRequirement: You must have iCloud Drive enabled to share games and play public games. The basic free tier is all that's needed.\n\nFinal note: My kids want you to know that Pangram looks even better in Dark Mode.  Embrace the dark side, they say.",
+      "releaseNotes": "Improvements including:\n• Choice of three dictionary options to use for definitions\n• Ability to filter out words you found on the Answers screen to quickly see what you missed\n• Updated content moderation system\n• Better styling for the latest iOS\n• New words in the word list",
+      "trackViewUrl": "https://apps.apple.com/jp/app/pangram/id1493066702?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Russell Neufeld",
+      "genres": [
+        "ゲーム",
+        "単語",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Pangram",
+      "description": "Pangram is a simple game - just make words!\n\nSee how many words you can make with the letters on the screen.  Each word must include the center letter(s). Use letters as many times as you want in each word. Can you guess the pangram? Pangrams are words that use all the letters on the board. Each game has at least one, and many have more. Bonus points for finding them!\n\nConfigure games how you like them:\n\n• Set the number of center (required) letters\n• Set the number of outer (optional) letters\n• Set the minimum word length\n\nThat's it! No lives to lose. No penalty for guessing wrong. No stress. Just play!\n\nFor some extra fun, send games to friends and family, publish them on the public games listing, or join other public games that fellow Pangrammers have posted.  Each shared or public game has a leader board where you can track everyone's progress.\n\nIn the free version you can create and play one game a day.  If you're having a blast, upgrade to the Unlimited Games in-app purchase.  Create game after game after game...\n\nRequirement: You must have iCloud Drive enabled to share games and play public games. The basic free tier is all that's needed.\n\nFinal note: My kids want you to know that Pangram looks even better in Dark Mode.  Embrace the dark side, they say.",
+      "releaseNotes": "Improvements including:\n• Choice of three dictionary options to use for definitions\n• Ability to filter out words you found on the Answers screen to quickly see what you missed\n• Updated content moderation system\n• Better styling for the latest iOS\n• New words in the word list",
+      "trackViewUrl": "https://apps.apple.com/de/app/pangram/id1493066702?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Russell Neufeld",
+      "genres": [
+        "Spiele",
+        "Wortspiele",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/55/fd/dc55fd83-b9c5-f59f-b6fa-368ec8e770a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.44444,
+  "userRatingCount": 9,
+  "price": 0,
+  "fileSizeBytes": "9710592",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "16.0",
+  "version": "3.3.0",
+  "currentVersionReleaseDate": "2026-02-09T12:56:31Z",
+  "releaseDate": "2020-01-02T08:00:00Z",
+  "artistId": 1493066701,
+  "artistName": "Russell Neufeld",
+  "artistViewUrl": "https://apps.apple.com/de/developer/russell-neufeld/id1493066701?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/fb/a3/fbfba3f3-46af-4098-dd82-769263a25c88/ef8243af-5694-4cce-8d67-b2a19c1a1fa3_PangramAppStoreiPad-1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ea/6e/73ea6e75-abbf-3784-a979-f2ec9c50d368/2b10d626-3972-4fe5-bd2d-afd9ff298653_PangramAppStoreiPad-2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/e9/f1/a4e9f1cc-c62b-4c13-2b02-a91b2fcd629a/a6d809e8-a02f-4744-8266-1e6bbbf3f676_PangramAppStoreiPad-4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/21/d3/9321d3a2-fc15-78ce-2ae3-c58af7cacb75/6e60b718-82c2-4b6a-83e9-34846e190f85_PangramAppStoreiPad-5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/c2/8c/d7c28c24-d090-b5a3-3565-3ee837835b7a/2141d798-2aba-474e-a122-4162e68fa8a3_PangramAppStoreiPad-6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/7d/ea/277dea25-22d2-ab34-7423-fed3c1cc79fe/014e49c3-1e02-4f8c-a89a-dd08bcf55180_PangramAppStoreiPad-8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/de/5b/92de5b9b-7281-d6cf-4d9b-bac9a623c4d7/586c1e53-308b-4d4b-835b-221bb087238a_PangramAppStoreiPad-8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fd/8e/a9fd8e92-d5a3-48a5-917a-49a98823a6db/9311502b-2660-4737-98e9-dd750afc9fe0_PangramAppStoreiPad-9.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/b0/0a/30b00a37-8b4b-4160-5d98-0a4b846c60c7/0848eeb0-c231-4368-9c07-1983bbbf90c1_PangramAppStoreiPad-10.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/c1/be/bec1be2a-7b07-21f1-da59-d9a219c133f3/b58722bc-0236-4a1e-ae5f-1d5fc9d6ebe9_PangramAppStoreiPad-1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/14/ad/8c14adb2-a62b-5304-ae2a-af7d4cde88d1/c39fb9f1-40bb-4a10-9246-a188903bd4b0_PangramAppStoreiPad-2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/d6/0d/1ed60d5b-f854-b5c1-3e04-6d61f02c742a/787a457b-e519-43a0-8493-a2e29e7a7e61_PangramAppStoreiPad-4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/ab/70/2dab70ea-b4b0-d023-c757-55c3790df08a/5767686f-0668-43ac-a300-df57ed34ded4_PangramAppStoreiPad-5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/e8/1f/9de81f83-eee8-1d42-1ed3-dfd8e921a1a6/36024616-0e35-475f-bc77-528ee3faac49_PangramAppStoreiPad-6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/ca/1a/f6ca1a09-29eb-8cbe-b8c0-f7bac0cf76c6/ac03c3fa-9b6a-4ac5-8921-3abee688f7f4_PangramAppStoreiPad-8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/30/84/a830843f-425b-dc16-db44-da00aabc9d59/428b66e9-37ad-4b20-b7f1-d96acab7fcd6_PangramAppStoreiPad-8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/da/8d/d0da8d88-003f-725e-f6f5-dcd1870f7291/32b16289-547f-4419-9364-cac449e9266d_PangramAppStoreiPad-9.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/9a/33/819a3330-8040-e0e0-a327-f6454fedf4ca/c4ac7fca-7150-4253-8009-d28ca683663b_PangramAppStoreiPad-10.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/27/92/b2279251-b91a-a9ed-6ed0-54adeccd738e/b2122618-9d34-4b5d-a2f9-fd429593e458_PangramAppStore-1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/97/8b/9d978bea-60d8-6c5e-9254-dd4c660aab1b/78dec860-3df3-4979-9496-825ef56a0641_PangramAppStore-6.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/46/09/30460938-7757-0148-dedc-52f3cbd4158f/f5d33a3f-d9f2-4cf5-8d77-0f9deb69acec_PangramAppStore-4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/3a/64/3c3a643b-5f6d-d985-4c5a-5e9aee3f320a/36a95eef-f558-4c59-8e58-c91023da9fde_PangramAppStore-2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/78/8e/2f788e66-30a6-1077-64b3-b31c37bcbe71/aeae3467-52c1-484f-952a-c1392d9c7648_PangramAppStore-3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/08/4e/3c084e82-a59d-83e5-db9c-e1123387e471/4f320d6e-f395-4e1b-bd74-2cc22a36c786_PangramAppStore-7.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/b2/f5/e1b2f5a4-928d-0235-25ea-97a8369ab109/433209e8-9d55-4c67-9a08-003f0a9d07e0_PangramAppStore-10.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/c3/8b/67c38b2d-955f-9195-21db-c32b66aa83f9/afca881a-7075-4037-8439-6487dc5350aa_PangramAppStore-9.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/96/bf/9b96bff3-70a1-1412-3a19-47eb2ca2733b/7407d250-f836-46bd-86a0-c24f4b8624a3_PangramAppStore-5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/96/8b/7b968b39-486d-fbb1-2f40-c24f01ea11cf/f82e20ac-524c-4029-a018-fa7940be83b8_PangramAppStore-1.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/01/59/430159f8-f74f-4ec8-4861-6085d50d6ce7/02a878e1-f7f6-4d0e-a5ba-9c844e2f3f90_PangramAppStore-6.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/ff/c4/75ffc43b-48b3-8320-70b3-88757594d084/f4bc87f9-fa6c-44d0-9ad3-fa55f3a40089_PangramAppStore-4.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/46/b2/ed46b21c-d027-7508-99d0-a4fe4e188a4f/b265616d-a6f6-49f7-8b09-08ba69b2f048_PangramAppStore-2.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/d2/6b/82d26bfb-518e-afa9-158a-f7380d161fab/f6c58bb0-69e6-49b9-b862-35a832714b74_PangramAppStore-3.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/35/7e/dc357e33-46d4-6b30-4488-3e02518ff088/d2f2bb7e-eea9-4f47-b121-3cad0b90479e_PangramAppStore-7.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/ea/a6/bbeaa6bb-d137-0b6b-fd8b-96fc8e6f0dbd/a31030da-5abd-44e6-9713-cb66217c2fae_PangramAppStore-10.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/24/63/30246383-b74a-287c-3a72-6e73c23f68a5/d5b39f17-89b8-46e1-8efa-573f29187d03_PangramAppStore-9.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/7c/d9/597cd937-208d-caa5-f45d-f98998d78e26/6e664235-4554-4e51-9fbe-4ecd8e922046_PangramAppStore-5.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/3f/10/6f3f10a3-0828-e0ac-6a57-4e5a845da44e/eb43dd07-b8ca-40bc-a7f1-591d155ba9c4_PangramAppStoreMax-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/41/13/a04113c8-51fd-e348-897a-a9116d13025a/9a1433d2-a0ad-448f-809c-3c4575ae4d0e_PangramAppStoreMax-6.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/07/ee/be07eed0-6ff9-ff7c-d4d4-ef6a2c1e3e31/b8024010-009b-4614-b0a9-ae544a623e3e_PangramAppStoreMax-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/ea/a9/93eaa9f7-2439-a035-72b8-af3a3fe80aeb/f45a2241-0f7f-4e91-bbfa-bd82135b0878_PangramAppStoreMax-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/98/2f/e0982f0f-f674-ac53-e1d9-1f09f816ca92/a566b005-a7ab-4332-b673-191c81c512eb_PangramAppStoreMax-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/5e/9c/165e9c4e-2346-08da-47a4-b323cc5f6526/b224ced9-6ff9-40ef-92b9-f2e790d3ab48_PangramAppStoreMax-7.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/d4/61/01d46155-5b29-7018-1591-518eef3bc00e/b070041b-0926-4cca-9eb1-ac92b07bfeec_PangramAppStoreMax-10.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/f9/f2/ecf9f2a4-c7b0-89c7-e567-a04a3476dbb4/1e7ccc80-653a-472c-8514-f1d07248d436_PangramAppStoreMax-9.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/cb/ca/15cbcaa9-151a-99f9-16fb-f6398646300c/6448a2dd-e6f8-4317-916e-d2fccb5df9a4_PangramAppStoreMax-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/27/92/b2279251-b91a-a9ed-6ed0-54adeccd738e/b2122618-9d34-4b5d-a2f9-fd429593e458_PangramAppStore-1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/97/8b/9d978bea-60d8-6c5e-9254-dd4c660aab1b/78dec860-3df3-4979-9496-825ef56a0641_PangramAppStore-6.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/46/09/30460938-7757-0148-dedc-52f3cbd4158f/f5d33a3f-d9f2-4cf5-8d77-0f9deb69acec_PangramAppStore-4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/3a/64/3c3a643b-5f6d-d985-4c5a-5e9aee3f320a/36a95eef-f558-4c59-8e58-c91023da9fde_PangramAppStore-2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/78/8e/2f788e66-30a6-1077-64b3-b31c37bcbe71/aeae3467-52c1-484f-952a-c1392d9c7648_PangramAppStore-3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/08/4e/3c084e82-a59d-83e5-db9c-e1123387e471/4f320d6e-f395-4e1b-bd74-2cc22a36c786_PangramAppStore-7.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/b2/f5/e1b2f5a4-928d-0235-25ea-97a8369ab109/433209e8-9d55-4c67-9a08-003f0a9d07e0_PangramAppStore-10.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/c3/8b/67c38b2d-955f-9195-21db-c32b66aa83f9/afca881a-7075-4037-8439-6487dc5350aa_PangramAppStore-9.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/96/bf/9b96bff3-70a1-1412-3a19-47eb2ca2733b/7407d250-f836-46bd-86a0-c24f4b8624a3_PangramAppStore-5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/fb/a3/fbfba3f3-46af-4098-dd82-769263a25c88/ef8243af-5694-4cce-8d67-b2a19c1a1fa3_PangramAppStoreiPad-1.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ea/6e/73ea6e75-abbf-3784-a979-f2ec9c50d368/2b10d626-3972-4fe5-bd2d-afd9ff298653_PangramAppStoreiPad-2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/e9/f1/a4e9f1cc-c62b-4c13-2b02-a91b2fcd629a/a6d809e8-a02f-4744-8266-1e6bbbf3f676_PangramAppStoreiPad-4.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/21/d3/9321d3a2-fc15-78ce-2ae3-c58af7cacb75/6e60b718-82c2-4b6a-83e9-34846e190f85_PangramAppStoreiPad-5.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/c2/8c/d7c28c24-d090-b5a3-3565-3ee837835b7a/2141d798-2aba-474e-a122-4162e68fa8a3_PangramAppStoreiPad-6.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/7d/ea/277dea25-22d2-ab34-7423-fed3c1cc79fe/014e49c3-1e02-4f8c-a89a-dd08bcf55180_PangramAppStoreiPad-8.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/de/5b/92de5b9b-7281-d6cf-4d9b-bac9a623c4d7/586c1e53-308b-4d4b-835b-221bb087238a_PangramAppStoreiPad-8.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fd/8e/a9fd8e92-d5a3-48a5-917a-49a98823a6db/9311502b-2660-4737-98e9-dd750afc9fe0_PangramAppStoreiPad-9.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/b0/0a/30b00a37-8b4b-4160-5d98-0a4b846c60c7/0848eeb0-c231-4368-9c07-1983bbbf90c1_PangramAppStoreiPad-10.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/a0/df/bda0dfd3-e849-21d5-1b39-16096bec3548/bdd81ebe-bc18-4fe8-be90-e462ab3fad62_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.58.04.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/40/98/074098df-ef2b-1acb-7027-e7b2efb20738/d8f068dd-6329-4711-b397-806adfa78814_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.47.52.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/11/93/1911938c-637b-c68d-2ac1-204d7560c3df/f4f7ceac-12d5-4a30-a6ad-9b318cb5aca5_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.50.43.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/7f/67/257f67b9-94fa-037a-ae45-4a28f4af73f4/a4bcf2e9-9351-4262-93ea-87f404b51728_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.51.48.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/c5/21/b4c521ab-edf3-4cfe-0279-0fa04ff1fd6c/c30dbf2e-f973-42fc-a262-5438f73d1384_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.54.10.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/df/78/7fdf787b-3fa0-1181-ea90-43eb19f42a6e/b4daa1d1-64c7-4aae-beb7-e3805a87d301_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.50.04.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/af/12/bcaf12a4-4867-c63c-0719-bb59e71b9d81/239532e7-e2cf-4e58-b31e-c4fe6da0841e_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.57.06.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/53/d1/9e53d185-96eb-5b52-ef71-6c1297dfe66f/0889c974-3fb0-4912-ac7e-07e79c3fe6c6_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.50.48.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/79/2d/57792ddd-d9e6-d4ff-5967-f34f34ea6d35/8c683ba8-a099-465d-8b72-b5eae3ad47d6_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.53.19.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/61/f9/e661f906-e5bb-2644-5cb3-0349a6928c80/d765382b-74f5-43dd-a7a2-bcc808247800_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-02-04_at_18.50.20.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.9.1",
+      "releaseNotes": "• Customizable colors!  Now you can personalize the game screen with your favorite hues, tins, and tones.\n• Bulk deletion of games",
+      "seenAt": "2022-03-04T22:05:06Z"
+    },
+    {
+      "version": "1.9.2",
+      "releaseNotes": "• Customizable colors!  Now you can personalize the game screen with your favorite hues, tins, and tones.\n• Bulk deletion of games",
+      "seenAt": "2022-04-03T14:56:24Z"
+    },
+    {
+      "version": "1.9.3",
+      "releaseNotes": "• Customizable colors!  Now you can personalize the game screen with your favorite hues, tins, and tones.\n• Bulk deletion of games",
+      "seenAt": "2022-04-07T21:27:46Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "Huge new update!\n• Single session games - level the playing field on timed games.  The clock does not stop!\n\nUI, Usability, & More\n• Better layouts for all screen sizes\n• Pull-to-refresh the public games list (iOS 15 only)\n• Public games filtering\n• Confetti!",
+      "seenAt": "2022-05-02T23:18:43Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Huge new update!\n• Single session games - level the playing field on timed games.  The clock does not stop!\n\nUI, Usability, & More\n• Better layouts for all screen sizes\n• Pull-to-refresh the public games list (iOS 15 only)\n• Public games filtering\n• Confetti!",
+      "seenAt": "2022-05-05T01:18:53Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "Huge new update!\n• Single session games - level the playing field on timed games.  The clock does not stop!\n\nUI, Usability, & More\n• Better layouts for all screen sizes\n• Customize your letter and letter wheel size\n• Pull-to-refresh the public games list (iOS 15 only)\n• Public games filtering\n• Confetti!",
+      "seenAt": "2022-05-06T21:29:41Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "Huge new update!\n• Single session games - level the playing field on timed games.  The clock does not stop!\n\nUI, Usability, & More\n• Better layouts for all screen sizes\n• Customize your letter and letter wheel size\n• Pull-to-refresh the public games list (iOS 15 only)\n• Public games filtering\n• Content moderation on screen names\n• Confetti!",
+      "seenAt": "2022-05-14T12:42:45Z"
+    },
+    {
+      "version": "2.0.4",
+      "releaseNotes": "Huge new update!\n• Single session games - level the playing field on timed games.  The clock does not stop!\n\nUI, Usability, & More\n• Better layouts for all screen sizes\n• Customize your letter and letter wheel size\n• Pull-to-refresh the public games list (iOS 15 only)\n• Public games filtering\n• Content moderation on screen names\n• Confetti!",
+      "seenAt": "2022-05-23T17:52:17Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "Pangram on the Apple Watch?!?  Seriously?\n\nYep that's right.  Pangram is now available for your wrist with tons of features you love:\n\n• Create and play new games right on your Apple Watch\n• Browse and join public games just like on the iOS version\n• View found words, answers, & leaderboards\n• Manage your screen name\n\nAll games are automatically synced across all Apple platforms - iPhone, iPad, and Apple Watch.  Start a game on a hand-held and finish it on your wrist.  Or vice versa!  The combinations are endless.  (Well actually they're 3 factorial.)",
+      "seenAt": "2022-10-12T11:50:14Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "• 100s of new words!\n• iOS 16 improvements!\n• Bug fixes!\n• Support for leaderboards with more than 100 players!",
+      "seenAt": "2022-12-19T01:48:05Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "• 100s of new words!\n• iOS 16 improvements!\n• Bug fixes!\n• Support for leaderboards with more than 100 players!",
+      "seenAt": "2022-12-20T11:15:24Z"
+    },
+    {
+      "version": "2.3.2",
+      "releaseNotes": "• Bunch of new words in the word list.\n• Tracking of incorrect guesses",
+      "seenAt": "2023-06-04T23:58:27Z"
+    },
+    {
+      "version": "2.3.3",
+      "releaseNotes": "• Better handling of error when joining a public game and your score isn't reflected in the leaderboard\n• Prevent a game with the same letters as one already on your device from being randomly generated.\n• Fix for rare issue on game deletion\n• More words in the word list!",
+      "seenAt": "2023-07-21T01:17:00Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "Hold on to your dictionaries because big improvements are afoot!  Now you can create games using not one but two different Merriam-Webster word lists!\n\n• Merriam-Webster Advanced Learner - for fans of a more abbreviated word list like that found in The NY Times's Spelling Bee there's now the Merriam-Webster Advanced Learner dictionary's word list.  If you like games free from rare and obscure words, or if you like trying to get to Queen Bee every day, this option is for you!\n• Merriam-Webster Collegiate Dictionary - for fans who enjoy more rare and obscure words, but don't want to memorize the minutia of the Scrabble dictionary.  The Merriam-Webster Collegiate Dictionary's word list offers better game play for those with extensive vocabularies.  Plus every word will link to a definition!\n• Pangram Original - for fans of the original Pangram word list you've been using for years.  Fear not!  This option isn't going anywhere.  If you love every nook and cranny of the English language as defined by the Scrabble overseers, keep on using this word list!",
+      "seenAt": "2023-11-16T23:49:17Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "New this release:\n• Official Daily Games: Match wits with your fellow Pangrammers in these official daily games - one for each word list.  Make these part of your daily routine!\n• Community-Wide Leaderboards: See how you're doing against the entire Pangram community in a variety of different categories - most points scored, most words found, most first place finishes, and most complete games.  Slice and dice the data with daily and weekly reports!",
+      "seenAt": "2024-01-10T21:38:51Z"
+    },
+    {
+      "version": "3.2.0",
+      "releaseNotes": "Lots of improvements:\n• Indication of how many \"perfect\" pangrams are in a game\n• Improved Apple Watch layout for watchOS 10\n• \"Shake to shuffle\" on Apple Watch version (and iOS too!)\n• Ability to sort found words and game answers by point value\n• New words in the word list",
+      "seenAt": "2024-02-06T23:38:31Z"
+    },
+    {
+      "version": "3.2.1",
+      "releaseNotes": "Lots of improvements, including:\n• Indication of how many \"perfect\" pangrams are in a game\n• Improved Apple Watch layout for watchOS 10\n• \"Shake to shuffle\" on Apple Watch version (and iOS too!)\n• Ability to sort found words and game answers by point value\n• New words in the word list",
+      "seenAt": "2024-02-09T22:50:42Z"
+    },
+    {
+      "version": "3.2.2",
+      "releaseNotes": "Lots of improvements, including:\n• Indication of how many \"perfect\" pangrams are in a game\n• Improved Apple Watch layout for watchOS 10\n• \"Shake to shuffle\" on Apple Watch version (and iOS too!)\n• Ability to sort found words and game answers by point value\n• New words in the word list",
+      "seenAt": "2024-02-25T21:57:01Z"
+    },
+    {
+      "version": "3.2.3",
+      "releaseNotes": "Lots of improvements, including:\n• Indication of how many \"perfect\" pangrams are in a game\n• Improved Apple Watch layout for watchOS 10\n• \"Shake to shuffle\" on Apple Watch version (and iOS too!)\n• Ability to sort found words and game answers by point value\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2024-03-10T14:18:51Z"
+    },
+    {
+      "version": "3.2.4",
+      "releaseNotes": "Lots of improvements, including:\n• Indication of how many \"perfect\" pangrams are in a game\n• Improved Apple Watch layout for watchOS 10\n• \"Shake to shuffle\" on Apple Watch version (and iOS too!)\n• Ability to sort found words and game answers by point value\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2024-03-12T11:05:06Z"
+    },
+    {
+      "version": "3.2.5",
+      "releaseNotes": "Improvements including:\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2025-12-31T14:47:38Z"
+    },
+    {
+      "version": "3.2.6",
+      "releaseNotes": "Improvements including:\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2026-01-03T02:29:59Z"
+    },
+    {
+      "version": "3.2.7",
+      "releaseNotes": "Improvements including:\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2026-01-05T12:26:06Z"
+    },
+    {
+      "version": "3.2.8",
+      "releaseNotes": "Improvements including:\n• New words in the word list\n• Accommodations for latest versions of iOS",
+      "seenAt": "2026-01-12T12:58:23Z"
+    },
+    {
+      "version": "3.3.0",
+      "releaseNotes": "Improvements including:\n• Choice of three dictionary options to use for definitions\n• Ability to filter out words you found on the Answers screen to quickly see what you missed\n• Updated content moderation system\n• Better styling for the latest iOS\n• New words in the word list\n",
+      "seenAt": "2026-02-09T12:56:31Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:15:04.067Z",
+  "isOwnApp": false
+}

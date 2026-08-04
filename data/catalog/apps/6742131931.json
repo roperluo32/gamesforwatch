@@ -253,7 +253,21 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/46/f1/6d46f19d-45c0-cc5c-1f61-a0168bd56292/3.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/6a/87/d16a87d2-40f5-6867-a547-dd95156a43b4/4.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/fd/15/36fd1504-21c4-a77e-2940-5c09d547785b/5.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/c7/2b/a2c72b9c-a38a-d192-2374-13a349ddb6bc/Simulator_Screenshot_-_iPhone_16_Plus_-_2026-01-27_at_14.39.29.png/1242x2688bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/c7/2b/a2c72b9c-a38a-d192-2374-13a349ddb6bc/Simulator_Screenshot_-_iPhone_16_Plus_-_2026-01-27_at_14.39.29.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/29/42/7f2942e4-1858-4de3-c482-81651b990a71/1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/37/e0/b837e0f6-5f42-02e7-bee4-3d9e268e9fab/2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/46/f1/6d46f19d-45c0-cc5c-1f61-a0168bd56292/3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/6a/87/d16a87d2-40f5-6867-a547-dd95156a43b4/4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/fd/15/36fd1504-21c4-a77e-2940-5c09d547785b/5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/c7/2b/a2c72b9c-a38a-d192-2374-13a349ddb6bc/Simulator_Screenshot_-_iPhone_16_Plus_-_2026-01-27_at_14.39.29.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a1/9e/aba19ea4-2c26-0c8d-f2ee-335aa219a97c/1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/25/fe/6d25fecd-0da9-071f-ad2b-8bc9c0a5a20d/2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/d9/89/7fd9891d-caff-0c44-a2e4-1e8c81b0926d/2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/d7/11/53d71134-96fe-4e42-9b6e-152799a120ab/1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/8b/4c/e08b4c3a-3057-2c42-8bd9-e7f592f795b0/7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/ef/54/1fef54d5-e1ce-e3b5-d3c7-87a34c5fc353/4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/bb/ba/e2bbba38-3a3d-af7f-9c02-2139339e1e3a/3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/39/d8/1339d8de-7066-a346-360a-68894298519f/5.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/a5/9e/eba59e47-2279-408c-b205-5ae14cdd299b/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-10-29_at_08.54.13.png/368x448bb.png",
@@ -394,6 +408,6 @@
       "seenAt": "2026-06-26T19:53:41Z"
     }
   ],
-  "updatedAt": "2026-08-04T03:44:58.476Z",
+  "updatedAt": "2026-08-04T08:57:37.537Z",
   "isOwnApp": false
 }

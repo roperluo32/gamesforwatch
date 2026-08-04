@@ -1,0 +1,409 @@
+{
+  "trackId": "6742598939",
+  "bundleId": "com.fc.colorBlock",
+  "slug": "brick-jam-color-block",
+  "path": "/apps/6742598939-brick-jam-color-block/",
+  "locales": {
+    "en": {
+      "trackName": "Brick Jam: color block",
+      "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
+      "releaseNotes": "Improve Electric Gate.",
+      "trackViewUrl": "https://apps.apple.com/us/app/brick-jam-color-block/id6742598939?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Entertainment",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Solve brain iq puzzle on watch"
+    },
+    "zh": {
+      "trackName": "Brick Jam: color block",
+      "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
+      "releaseNotes": "Improve Electric Gate.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/brick-jam-color-block/id6742598939?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "益智解谜",
+        "娱乐",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Brick Jam: color block",
+      "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
+      "releaseNotes": "Improve Electric Gate.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/brick-jam-color-block/id6742598939?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Brick Jam: color block",
+      "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
+      "releaseNotes": "Improve Electric Gate.",
+      "trackViewUrl": "https://apps.apple.com/de/app/brick-jam-color-block/id6742598939?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Unterhaltung",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/91/8f/27918fa1-0f59-15fa-6837-622a37a02fb8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.04167,
+  "userRatingCount": 24,
+  "price": 0,
+  "fileSizeBytes": "71524352",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "1.8.5",
+  "currentVersionReleaseDate": "2026-05-18T21:42:06Z",
+  "releaseDate": "2025-03-19T07:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/01/c9/ef01c9c9-edee-11a3-6a50-98be52986554/ipad1__U00281_U0029.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/b9/f5/73b9f53b-87f2-b452-71c9-315ed913ba48/ipad0.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/a5/e2/72a5e274-a8cb-ec3f-e973-8a332444b21a/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b3/cf/44b3cf6e-3a0a-3887-8e93-4862e639878e/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/41/11/834111df-e574-aa76-ce4e-7c1da60a6a08/ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/ac/bb/10acbbc0-e877-ea1a-6214-d281e77dd197/ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ee/bc/ceeebc85-419c-9d77-5650-d1d2fd8c4816/ipad6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/1f/a6/e31fa6bc-7c60-581d-8ebe-d9a6d4f47995/ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/2e/f3/c52ef30d-3f23-f2e1-79f9-c5475c568944/ipad8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/de/8c/27de8cda-f686-d77e-532e-42ef10b16b73/ipad9.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/32/d5/1632d5cb-a5bb-d2e7-9087-636906f1b819/6.9-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/a4/d4/30a4d4cd-596c-dbf3-728c-15c0f19393ba/6.9-0.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/98/e6/5998e614-1cfb-b8dd-93f5-1f853d77438b/6.9-3__U00281_U0029.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e9/e2/bde9e268-7a50-a9de-542c-86623d29d3d8/6.9-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/2e/02/fb2e02ee-f66c-7329-e04d-39340c552e67/6.9-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/ce/fb/e4cefb98-d0cb-a8fc-f146-912cec80f2c1/6.9-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/db/dc/6bdbdc83-3323-7914-7b63-23dc32f27ff0/6.9-6.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/ad/07/b6ad071f-c1ff-7183-7ba7-c8a1aee1649b/6.9-7.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/61/2c/1d612cdc-ada5-7391-1926-9bad29ce18a7/6.9-8.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/fb/9e/aefb9e1e-3d7c-cc28-0470-c16c19015012/6.9-9.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/32/d5/1632d5cb-a5bb-d2e7-9087-636906f1b819/6.9-1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/a4/d4/30a4d4cd-596c-dbf3-728c-15c0f19393ba/6.9-0.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/98/e6/5998e614-1cfb-b8dd-93f5-1f853d77438b/6.9-3__U00281_U0029.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e9/e2/bde9e268-7a50-a9de-542c-86623d29d3d8/6.9-3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/2e/02/fb2e02ee-f66c-7329-e04d-39340c552e67/6.9-4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/ce/fb/e4cefb98-d0cb-a8fc-f146-912cec80f2c1/6.9-5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/db/dc/6bdbdc83-3323-7914-7b63-23dc32f27ff0/6.9-6.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/ad/07/b6ad071f-c1ff-7183-7ba7-c8a1aee1649b/6.9-7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/61/2c/1d612cdc-ada5-7391-1926-9bad29ce18a7/6.9-8.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/fb/9e/aefb9e1e-3d7c-cc28-0470-c16c19015012/6.9-9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/01/c9/ef01c9c9-edee-11a3-6a50-98be52986554/ipad1__U00281_U0029.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/b9/f5/73b9f53b-87f2-b452-71c9-315ed913ba48/ipad0.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/a5/e2/72a5e274-a8cb-ec3f-e973-8a332444b21a/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b3/cf/44b3cf6e-3a0a-3887-8e93-4862e639878e/ipad3.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/41/11/834111df-e574-aa76-ce4e-7c1da60a6a08/ipad4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/ac/bb/10acbbc0-e877-ea1a-6214-d281e77dd197/ipad5.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ee/bc/ceeebc85-419c-9d77-5650-d1d2fd8c4816/ipad6.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/1f/a6/e31fa6bc-7c60-581d-8ebe-d9a6d4f47995/ipad7.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/2e/f3/c52ef30d-3f23-f2e1-79f9-c5475c568944/ipad8.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/de/8c/27de8cda-f686-d77e-532e-42ef10b16b73/ipad9.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/97/14/869714d0-6399-17a0-81b6-ecf143f36585/watch1__U00281_U0029.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ae/66/18ae66e8-ac30-c49c-c753-7a753c4b3fb0/watch0.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/2f/63/132f63da-bb23-7657-a9ce-52dfd1f13af1/watch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/4d/24/554d2406-ec1a-e3e6-2d0d-18d45fcbd557/watch6.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/fd/c0/d3fdc038-6521-5218-d281-e8f8b1990134/watch7.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/75/90/567590a8-7fb3-e6ef-bcd4-488fc44fe30f/IMG_3929.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d9/6a/c7d96ae9-8d80-d082-81fa-59b92b4b8014/watch8.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/54/80/ce5480ea-acaf-5ce2-6ba5-39036a050198/watch10.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/dd/16/c4dd16a3-d4c9-1c9d-bc39-c47d2c2165ea/watch11.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/be/b5/cdbeb57b-e56e-f317-fd63-9b6081ad4c2b/watch3.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.5.1",
+      "releaseNotes": "* Add five more levels.\n* Fix bug: current level number is not displayed.\n* Fix a stuck at level 267.",
+      "seenAt": "2025-05-28T07:29:38Z"
+    },
+    {
+      "version": "1.5.2",
+      "releaseNotes": "Add 16 more levels.",
+      "seenAt": "2025-05-30T07:01:21Z"
+    },
+    {
+      "version": "1.5.3",
+      "releaseNotes": "* Introduce new gameplay: Ice switching brick.\n* Add ten more levels.",
+      "seenAt": "2025-06-01T07:21:47Z"
+    },
+    {
+      "version": "1.5.4",
+      "releaseNotes": "Add ten new levels.",
+      "seenAt": "2025-06-01T20:52:42Z"
+    },
+    {
+      "version": "1.5.7",
+      "releaseNotes": "Update many new levels.",
+      "seenAt": "2025-06-03T23:42:50Z"
+    },
+    {
+      "version": "1.5.8",
+      "releaseNotes": "* Add many new levels.\n* Notify players when new levels downloaded.",
+      "seenAt": "2025-06-05T19:10:40Z"
+    },
+    {
+      "version": "1.5.9",
+      "releaseNotes": "* New gameplay added: introduce Locked Gates.\n* Just created levels are auto downloaded everyday.",
+      "seenAt": "2025-06-11T14:39:48Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "* Introduce new gameplay: Color Switching Bricks - a new kind of brick that change its color to whatever has just been crushed.\n* Download new level daily.",
+      "seenAt": "2025-06-18T16:04:55Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "Fix a minor bug that made level 472 easier than intended.",
+      "seenAt": "2025-06-25T12:20:56Z"
+    },
+    {
+      "version": "1.6.2",
+      "releaseNotes": "Fix a minor bug at loading.",
+      "seenAt": "2025-07-03T06:20:03Z"
+    },
+    {
+      "version": "1.6.3",
+      "releaseNotes": "New gameplay: New Tied Brick is tied with color ropes. Each rope will be cut if any brick with corresponding color is crushed.",
+      "seenAt": "2025-07-17T09:05:24Z"
+    },
+    {
+      "version": "1.6.4",
+      "releaseNotes": "Introduce new gameplay at level 813: Lava gate - the gate that crushes all bricks.",
+      "seenAt": "2025-08-19T16:36:19Z"
+    },
+    {
+      "version": "1.6.5",
+      "releaseNotes": "New setting menu:\n+ Option to turn off Vibration.\n+ Option to use static background to reduce phone heat and save battery.",
+      "seenAt": "2025-08-26T15:44:55Z"
+    },
+    {
+      "version": "1.6.6",
+      "releaseNotes": "Introduce new gameplay at Level 924: THE BOMB WALL. This wall will count down until it blows up your board... Well, unless you feed it a brick.",
+      "seenAt": "2025-09-11T02:57:10Z"
+    },
+    {
+      "version": "1.6.8",
+      "releaseNotes": "Include 1000+ levels and 05 more everyday.",
+      "seenAt": "2025-09-28T02:24:15Z"
+    },
+    {
+      "version": "1.7.0",
+      "releaseNotes": "Introduce new gameplay at level 1169: the Count down gates.",
+      "seenAt": "2025-11-02T09:56:59Z"
+    },
+    {
+      "version": "1.7.1",
+      "releaseNotes": "Fix a rarely seen bug with lightning power up.",
+      "seenAt": "2025-11-07T18:00:15Z"
+    },
+    {
+      "version": "1.7.5",
+      "releaseNotes": "Optimize for ipad.",
+      "seenAt": "2025-11-12T19:41:06Z"
+    },
+    {
+      "version": "1.7.7",
+      "releaseNotes": "Improve \"restart level\" button at level above 1500+",
+      "seenAt": "2026-01-21T03:53:17Z"
+    },
+    {
+      "version": "1.7.9",
+      "releaseNotes": "Improves many levels.",
+      "seenAt": "2026-01-26T17:08:32Z"
+    },
+    {
+      "version": "1.8.0",
+      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFix a bug at level 1107.",
+      "seenAt": "2026-03-26T23:00:52Z"
+    },
+    {
+      "version": "1.8.1",
+      "releaseNotes": "Optimize performance on iPhone and Apple Watch.",
+      "seenAt": "2026-03-30T20:16:09Z"
+    },
+    {
+      "version": "1.8.2",
+      "releaseNotes": "Improve stability.",
+      "seenAt": "2026-04-01T18:20:59Z"
+    },
+    {
+      "version": "1.8.3",
+      "releaseNotes": "Introduce New Gameplay: Electric Gates at level 1665 and add more levels.\n",
+      "seenAt": "2026-05-14T20:52:27Z"
+    },
+    {
+      "version": "1.8.5",
+      "releaseNotes": "Improve Electric Gate.",
+      "seenAt": "2026-05-18T21:42:06Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:01:51.038Z",
+  "isOwnApp": false
+}

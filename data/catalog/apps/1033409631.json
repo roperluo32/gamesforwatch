@@ -1,0 +1,285 @@
+{
+  "trackId": "1033409631",
+  "bundleId": "com.flaskapp.stand",
+  "slug": "standland",
+  "path": "/apps/1033409631-standland/",
+  "locales": {
+    "en": {
+      "trackName": "Standland",
+      "description": "Sitting too long has health risks, but building a habit of standing regularly isn’t easy.\nIn Standland, adorable creatures motivate you to stand up more. When you stand up and move around a little, they wake up. Otherwise, they fall asleep.\nYou can unlock new creatures by reaching your goals.\n\n------------------------\n◎ FEATURES:\n\n• Move around for more than 1 minute per hour. This counts as 1 stand. (You can get 1 stand per hour. The maximum number of stands per day is 24)\n• 15 adorable 3D companions that motivate you to stand regularly.\n• 15 achievements to unlock new companions.\n• 9 beautiful 3D worlds.\n• 10-day stats and weekly/monthly reports to see your progress in detail.\n• Your favorite companions on your Apple Watch!\n\n------------------------\n◎ COUNTING STANDS:\n\nThis app reads activity data from Apple's Health app (HealthKit) to count your stands.\nStand Hours data is used when available; otherwise, Steps data is used.\n\n------------------------\n◎ APPLE WATCH\nBring your favorite companions to your Apple Watch!\nYou can see whether you’ve already stood during the current hour at a glance. \n\n• Change companions and worlds.\n• Rotate the Digital Crown to look around the world.\n• Add a complication to your watch face to see your favorite tiny companion anytime.\n\n------------------------\n◎ PRIVACY\nThis app does not send your health data anywhere. All data remains safely on your device.",
+      "releaseNotes": "- You can now change Lands on Apple Watch.\n- Now supports iOS 26 and watchOS 26. Support for iOS 17 and watchOS 9 has been discontinued. (Apple Watch Series 3 and earlier are no longer supported.)\n- Data source settings have been removed, and Stand Hours and Steps have been unified. (Stand data is used when available; otherwise, Steps data is used.)\n- The AR Land feature has been discontinued.\n- Other minor improvements and bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/standland/id1033409631?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "Health & Fitness",
+        "Games",
+        "Simulation"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": "Stand Up and Collect Pets"
+    },
+    "ja": {
+      "trackName": "Standland",
+      "description": "****** メディア掲載！******\n• 日本テレビ「ZIP!」で紹介されました！\n• 箱庭のような小さな世界のかわいいスタンド仲間が出迎えてくれる ーー TechCrunch Japan\n• 座りっぱなし防止！HealthKit対応の異色アプリ ーー ASCII.jp\n• 1時間に1分歩けばOK。無理なく続けることができる難易度が嬉しい ーー Appliv\n• ポツンと座っている丸くて柔らかそうなやつ。この小動物が“スタンド仲間”、座りっぱなしの人類に警鐘を鳴らす相棒ってわけだ。 ーー ファミ通.com\n\n\n------------------------------------------------\n◎ 特徴\n------------------------------------------------\n• 1時間に1分以上歩くことで、1スタンド（1時間に1スタンド、1日で24スタンドが最大スタンド数）\n• スタンドゴールを達成することで、新キャラ（フレンド）をゲット\n• その日のスタンド数によって小さなジェムのモンスター「ジェミー」登場\n• 集めたジェムで、新しい世界やジェミーをゲット\n• 直近10日間の表や、週刊・月刊レポートで、あなたの座りっぱなし状況を確認\n\n------------------------------------------------\n\n仕事に勉強、ゲーム、テレビ、車の運転などなど、長時間座りっぱなしになることの多い現代。座りっぱなしの時間が長いと、健康にさまざまなリスクがあるという研究報告があります。\nとはいえ、定期的に机やソファを離れるのはなかなか難しいもの。\nStandlandで、小さなフレンドたちに応援してもらいましょう。\n\n小さなフレンドたちは、あなたがどのくらい立っているかを教えてくれたり、勇気づけたりしてくれます。あなたが立てば、彼らも立ち上がり、あなたがじっとしていれば彼らは寝てしまうでしょう。\n\n現実世界であなたがスタンドし、ゴールを達成することで、新しいフレンドをゲットできます。\nねこ、うさぎ、ふくろう、ひよこ、旅人などかわいい仲間が待っています。\n\n小さくて青いジェムモンスターのジェミーも、あなたがその日にスタンドした数だけ現れます。光ってるジェミーを見かけたらタップしてみてね。\n\nStandlandでは、1時間に約1分以上歩くことで「1スタンド」とカウントします。1日の最高は24スタンド。まずは1日に12回以上「スタンド」することを目標にがんばってみよう！\n\n------------------------------------------------\n◎ Standland for Apple Watch（watchOS 10以上）\n------------------------------------------------\nApple Watchでも、フレンドたちはあなたの座りすぎ解消を応援！\n\n• 今までゲットしたフレンドやランドの中から、自由に選択して表示できます\n• Digital Crownを回して、世界をまわすことができます\n• 文字盤のコンプリケーションにStandlandを登録すると、文字盤でいつでも大好きなキャラに会えます\n\n------------------------------------------------\n◎ スタンドの判定について\n------------------------------------------------\nAppleのヘルスケアアプリから、スタンド時間または歩数を読み込み、アクティビティの計測に利用します。\nスタンド時間のデータがある場合はそちらを使用し、データがない場合は歩数のデータを使用します。\n歩数では、1時間に80歩以上で「スタンド」と判定します。\nヘルスケアから取得したデータが、どこかへ勝手に送信されることはありません。",
+      "releaseNotes": "・Apple Watchでランドを変更できるようになりました。\n・iOS 26およびwatchOS 26に対応しました。それにともないiOS 17およびwatchOS 9以下のサポートを終了しました。※Apple Watch Series 3以前はサポート対象外となります。\n・データ元の設定を廃止しスタンド時間と歩数を統合しました（スタンド時間のデータがある場合はそれを使用し、ない場合は歩数データを使用します）。\n・ARランド機能を終了しました。\n・そのほか細かい改善や修正を行いました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/standland/id1033409631?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "ヘルスケア／フィットネス",
+        "ゲーム",
+        "シミュレーション"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Standland",
+      "description": "Sitting too long has health risks, but building a habit of standing regularly isn’t easy.\nIn Standland, adorable creatures motivate you to stand up more. When you stand up and move around a little, they wake up. Otherwise, they fall asleep.\nYou can unlock new creatures by reaching your goals.\n\n------------------------\n◎ FEATURES:\n\n• Move around for more than 1 minute per hour. This counts as 1 stand. (You can get 1 stand per hour. The maximum number of stands per day is 24)\n• 15 adorable 3D companions that motivate you to stand regularly.\n• 15 achievements to unlock new companions.\n• 9 beautiful 3D worlds.\n• 10-day stats and weekly/monthly reports to see your progress in detail.\n• Your favorite companions on your Apple Watch!\n\n------------------------\n◎ COUNTING STANDS:\n\nThis app reads activity data from Apple's Health app (HealthKit) to count your stands.\nStand Hours data is used when available; otherwise, Steps data is used.\n\n------------------------\n◎ APPLE WATCH\nBring your favorite companions to your Apple Watch!\nYou can see whether you’ve already stood during the current hour at a glance. \n\n• Change companions and worlds.\n• Rotate the Digital Crown to look around the world.\n• Add a complication to your watch face to see your favorite tiny companion anytime.\n\n------------------------\n◎ PRIVACY\nThis app does not send your health data anywhere. All data remains safely on your device.",
+      "releaseNotes": "- You can now change Lands on Apple Watch.\n- Now supports iOS 26 and watchOS 26. Support for iOS 17 and watchOS 9 has been discontinued. (Apple Watch Series 3 and earlier are no longer supported.)\n- Data source settings have been removed, and Stand Hours and Steps have been unified. (Stand data is used when available; otherwise, Steps data is used.)\n- The AR Land feature has been discontinued.\n- Other minor improvements and bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/de/app/standland/id1033409631?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Flask LLP",
+      "genres": [
+        "Gesundheit und Fitness",
+        "Spiele",
+        "Simulation"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/69/ce/5b69ce4b-d598-b18e-6b6d-ed10fd2ac353/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.77358,
+  "userRatingCount": 53,
+  "price": 0,
+  "fileSizeBytes": "98751488",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "18.0",
+  "version": "6.0.0",
+  "currentVersionReleaseDate": "2026-01-31T13:02:30Z",
+  "releaseDate": "2016-02-23T15:12:53Z",
+  "artistId": 736602874,
+  "artistName": "Flask LLP",
+  "artistViewUrl": "https://apps.apple.com/de/developer/flask-llp/id736602874?uo=4",
+  "sellerUrl": "https://flaskapp.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "Watch4-Watch4",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPhone16e-iPhone16e",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPhone17e-iPhone17e"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/71/6b/91716b52-2d8c-f43d-06a2-b1aae731533c/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4e/18/894e185d-4d0c-2b95-3ae3-0830f6fe6658/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c6/95/77c6957b-4024-4df8-d8da-3da9bb17b144/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/db/f274dbc0-6e32-b778-b29c-52f4db03950d/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/36/47/55364748-201b-801e-ff58-960105065ecf/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/35/f3/7f35f3dc-8f00-bf05-213b-e60dea4e3993/af1857ec-aca7-4488-8bbe-6ebf53d5fd15_65in-widgets.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/71/6b/91716b52-2d8c-f43d-06a2-b1aae731533c/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4e/18/894e185d-4d0c-2b95-3ae3-0830f6fe6658/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c6/95/77c6957b-4024-4df8-d8da-3da9bb17b144/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/db/f274dbc0-6e32-b778-b29c-52f4db03950d/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/36/47/55364748-201b-801e-ff58-960105065ecf/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/35/f3/7f35f3dc-8f00-bf05-213b-e60dea4e3993/af1857ec-aca7-4488-8bbe-6ebf53d5fd15_65in-widgets.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/65/4e/f9654e00-7feb-d9a0-515c-9dbd3974428c/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/7e/29/287e29c6-63ec-4da6-7459-0ae0cc315d39/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/d4/b3/6ed4b30a-daad-1677-6c1f-d4ecc90f43b8/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/88/8f/40888fda-dc41-04c6-c187-372ba847b6f8/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/0e/f8/220ef8e2-85a2-49c3-d1db-b4ef3d2243be/pr_source.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/0d/d6/390dd684-33a2-810f-56d0-679cb99b2b1d/0a11237e-50e4-42f5-9248-8b9cbb5c9f22_65in-widgets.png/320x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9f/17/719f173d-8e4c-f092-3445-72a799195411/watch01@2x.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/b6/e7/97b6e745-9261-17a0-e1fa-8f6d7c838500/watch02@2x.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/95/a7/4995a734-bba0-2eaf-3efa-3f2da4759a13/watch03@2x.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/cf/c1/fecfc1dd-80f9-835c-9909-1c1b0bfe62fa/watch05@2x.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/d1/a3/26d1a3be-59b1-009e-e5fb-1d282e016997/watch06@2x.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/a7/f7/4ca7f7d6-873e-60c2-6121-8b202783098e/watch04@2x.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.5.0",
+      "releaseNotes": "・Added a new Land!\n・Standland now requires iOS 10.0 or later\n・Other minor improvements\n\nThanks so much for your support & love. If you have a minute to leave a review in the App Store, we'd really appreciate it!",
+      "seenAt": "2017-04-06T05:04:34Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "New Features & Improvements\n・AR Land: Make a miniature garden and put Standland characters in a real world. (Requires iOS 11, iPhone 6s or later)\n・Missions: You can get small pets by completing missions.\n・UI improvements",
+      "seenAt": "2017-09-18T03:01:02Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Minor bug fixes.",
+      "seenAt": "2017-09-20T04:20:10Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "Minor bug fixes.",
+      "seenAt": "2017-09-23T05:09:28Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "- Fixed an issue that some Gemmys were not tappable.",
+      "seenAt": "2017-09-27T01:17:37Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "Happy Halloween!\nAdded Witch, Halloween Land and Gemmys!",
+      "seenAt": "2017-10-05T23:00:42Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "- Improved Mission loading\n- Fixed minor UI issues",
+      "seenAt": "2017-10-09T16:00:59Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "- Halloween ends\n- Support for iPhone X\n- Other improvements and fixes (include Mission start date and time zone issue)",
+      "seenAt": "2017-11-01T11:00:57Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "Christmas version is here!\n- Added two new Christmas Gemmys!\n  Christmas Gemmys are on a half-price sale during December!\n- Changed App Icon to Santa\n- Minor bug fixes & UI improvements\n\nIt’s December already. Time flies.\nYou can get Santa only during December. Good luck and have fun!",
+      "seenAt": "2017-12-01T08:01:03Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "- Winter Holiday Version ended\n- Minor tweaks and fixes",
+      "seenAt": "2018-01-04T12:06:39Z"
+    },
+    {
+      "version": "2.4.0",
+      "releaseNotes": "Easter is coming!\n- Added a new land for Easter\n- Added new missions to get Egg Animals",
+      "seenAt": "2018-03-09T15:01:52Z"
+    },
+    {
+      "version": "2.4.1",
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "seenAt": "2018-03-24T09:22:31Z"
+    },
+    {
+      "version": "2.4.2",
+      "releaseNotes": "Improved AR Land: supports auto-focus for a sharper view (Requires iOS 11.3)",
+      "seenAt": "2018-03-30T18:08:04Z"
+    },
+    {
+      "version": "2.5.0",
+      "releaseNotes": "- Added a new land: Night Camp\n- Added a new mission: Summer (6 new pets!)",
+      "seenAt": "2018-08-01T01:31:54Z"
+    },
+    {
+      "version": "2.5.1",
+      "releaseNotes": "- Performance improvements and design tweaks for Land\n- Minor UI improvements",
+      "seenAt": "2018-08-02T16:35:14Z"
+    },
+    {
+      "version": "2.6.0",
+      "releaseNotes": "・New iPhone & Apple Watch Support\nAdded support for the new iPhone and Apple Watch screen sizes.\nAdded support for iOS 12 and watchOS 5\n\n・New Watch Face Support\nYou can see the Standland character on the Infograph and Infograph Modular watch faces.",
+      "seenAt": "2018-09-21T03:06:54Z"
+    },
+    {
+      "version": "2.6.1",
+      "releaseNotes": "・Fixed an issue where the app crashes on Apple Watch Series 4",
+      "seenAt": "2018-09-22T02:56:19Z"
+    },
+    {
+      "version": "2.7.0",
+      "releaseNotes": "- Added new characters: Beagle & Lemon Beagle!\n- Minor bug fixes and improvements",
+      "seenAt": "2019-05-11T12:17:00Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "AR Land Improvements\n- AR People Occlusion support (iOS 13, iPhone XR/XS or later)\n- Improved guidance (iOS 13 or later)\n\nAdded iOS 13 support",
+      "seenAt": "2019-09-17T15:01:49Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "- Fixed an issue where the number of gems might not be displayed.",
+      "seenAt": "2019-09-25T19:09:33Z"
+    },
+    {
+      "version": "4.0.0",
+      "releaseNotes": "Added support for Widgets \nYou can add Widgets to your home screen! (Requires iOS 14)",
+      "seenAt": "2020-09-16T17:20:31Z"
+    },
+    {
+      "version": "4.0.1",
+      "releaseNotes": "Version 4.0.1\n- UI Bug fixes\n- Minor design tweaks for Widgets\n\n---\nVersion 4.0.0\n・Added support for iOS 14\n・Added Widgets (requires iOS 14)",
+      "seenAt": "2020-09-18T20:13:33Z"
+    },
+    {
+      "version": "5.0.0",
+      "releaseNotes": "・Added Lock Screen Widgets (requires iOS 16)\n・Added support for iOS 16 and watchOS 9",
+      "seenAt": "2022-09-11T04:07:14Z"
+    },
+    {
+      "version": "5.1.0",
+      "releaseNotes": "[New]\n・Added Winter Missions with six new pets!\n\n[Improved]\n・Improved lock screen widgets ( placeholder image now appears when locked)\n\n[Fixed]\n・Fixed unnecessary error dialogs\n・Fixed other minor issues",
+      "seenAt": "2022-11-30T02:49:48Z"
+    },
+    {
+      "version": "6.0.0",
+      "releaseNotes": "- You can now change Lands on Apple Watch.\n- Now supports iOS 26 and watchOS 26. Support for iOS 17 and watchOS 9 has been discontinued. (Apple Watch Series 3 and earlier are no longer supported.)\n- Data source settings have been removed, and Stand Hours and Steps have been unified. (Stand data is used when available; otherwise, Steps data is used.)\n- The AR Land feature has been discontinued.\n- Other minor improvements and bug fixes.",
+      "seenAt": "2026-01-31T13:02:30Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:38.807Z",
+  "isOwnApp": false
+}

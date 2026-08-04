@@ -1,0 +1,389 @@
+{
+  "trackId": "1490967906",
+  "bundleId": "com.thantoan.icehockey",
+  "slug": "ice-hockey-new-game-for-watch",
+  "path": "/apps/1490967906-ice-hockey-new-game-for-watch/",
+  "locales": {
+    "en": {
+      "trackName": "Ice Hockey: new game for watch",
+      "description": "Snow and ice are everywhere. It's Hockey time!!!\n\n* Don't skate out of the field...\n* Try to bump as many opponents as possible for more gold (=^.^=)\n* Beat the goal keeper to SCORE!!!\n\n*** Play ice Hockey, get the game now ***",
+      "releaseNotes": "Opponents now have more defense formations.",
+      "trackViewUrl": "https://apps.apple.com/us/app/ice-hockey-new-game-for-watch/id1490967906?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Sports",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "hit n bump in winter sport cup"
+    },
+    "zh": {
+      "trackName": "Ice Hockey: new game for watch",
+      "description": "Snow and ice are everywhere. It's Hockey time!!!\n\n* Don't skate out of the field...\n* Try to bump as many opponents as possible for more gold (=^.^=)\n* Beat the goal keeper to SCORE!!!\n\n*** Play ice Hockey, get the game now ***",
+      "releaseNotes": "Opponents now have more defense formations.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/ice-hockey-new-game-for-watch/id1490967906?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "娱乐",
+        "体育",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Ice Hockey: new game for watch",
+      "description": "Snow and ice are everywhere. It's Hockey time!!!\n\n* Don't skate out of the field...\n* Try to bump as many opponents as possible for more gold (=^.^=)\n* Beat the goal keeper to SCORE!!!\n\n*** Play ice Hockey, get the game now ***",
+      "releaseNotes": "Opponents now have more defense formations.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/ice-hockey-new-game-for-watch/id1490967906?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "スポーツ",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Ice Hockey: new game for watch",
+      "description": "Snow and ice are everywhere. It's Hockey time!!!\n\n* Don't skate out of the field...\n* Try to bump as many opponents as possible for more gold (=^.^=)\n* Beat the goal keeper to SCORE!!!\n\n*** Play ice Hockey, get the game now ***",
+      "releaseNotes": "Opponents now have more defense formations.",
+      "trackViewUrl": "https://apps.apple.com/de/app/ice-hockey-new-game-for-watch/id1490967906?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Sport",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/44/02/eb4402e6-5900-1fcf-a46f-3fad43104349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 2,
+  "price": 0,
+  "fileSizeBytes": "16950272",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "2.13",
+  "currentVersionReleaseDate": "2026-03-07T18:40:26Z",
+  "releaseDate": "2019-12-10T08:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com/",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/89/b8/dc89b8d8-ae3b-28ff-a760-8ac6e4088b80/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a9/50/bb/a950bba9-94cc-eda1-75b9-72a32db982f0/fd32d9e8-aec5-4c56-9722-966ffaf4c371_Ipad5.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/c7/6d/24c76dc6-6626-71a5-0f09-7e22416a87dd/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/8d/6b/ea8d6b0a-731b-b383-0598-0fdb4a49741d/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/49/ad/9a49ad0a-9508-a7f2-a124-95020dfba402/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/4d/f4/694df444-f0c7-b443-d678-3e3c39dbcf1f/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/23/1d/df231d73-faf5-67cc-8631-0c767285d13c/685d8dbb-a0a8-41e4-adb2-7a4bb4c50ca8_Ipad5.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/de/c7/e9dec7dc-e22e-098b-9236-9cc8ac7de0bf/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/f1/44/1ef14425-d547-0776-8773-7a3d9eb78d88/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/72/3a/bb723a8d-676c-92b7-e2b3-ed7874a4da3d/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/eb/04/d0eb043a-75c0-2859-c201-37e400b51584/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/58/5b/94585b54-20e6-ebdc-9407-8bc6fbe74c14/294496ea-0520-4504-b882-aff6e399b80a_5.5-5.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/f6/45/dcf64546-f76e-0d3a-2e6d-0dcb6d31647a/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/6a/ed/a26aedfd-63f2-ecd0-8b54-7f0780fa6f95/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/bb/38/3fbb385d-2c43-d1a0-e73a-cd77d611bc34/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/a0/96/ada0960b-6141-861e-1c3e-57818b14a3d3/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/67/d6/9067d6a6-0c02-8d92-6d17-1c5a9a32ac2b/ba77338c-a494-49b4-959e-739a6c04ccce_6.5-5.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/29/fc/0f29fcf2-c270-554e-a0fe-17699de6186b/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/e3/e7/6ae3e7f5-aae2-c225-75d6-1cda8a397cd8/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/64/d0/d264d03e-f371-f509-b973-de88addcce14/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b4/a8/e3/b4a8e301-ab4f-cca4-cd96-5f21eea1ac30/1e986118-67c9-4913-b930-5094140d924a_6.7-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/bb/91/19bb9156-9fa3-5efe-08dd-10619e8fe58b/af99d46b-79d4-4def-a719-02260e05810d_6.7-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/ff/29/11ff29d9-e006-38a5-9bb5-d17e1fd65a81/4555fabf-638e-403b-9502-ac15ffc07f75_6.7-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/fd/fe/81fdfe4f-126b-dc48-4a73-ed9fd02877da/93d258a7-ff14-4d0f-ab33-8e34dca9d7d6_6.7-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/73/fb/7873fb35-c194-da0a-7151-19c39cae73ae/2aa009b5-afc7-46d8-a448-3124597ec974_6.7-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/eb/04/d0eb043a-75c0-2859-c201-37e400b51584/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/58/5b/94585b54-20e6-ebdc-9407-8bc6fbe74c14/294496ea-0520-4504-b882-aff6e399b80a_5.5-5.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/f6/45/dcf64546-f76e-0d3a-2e6d-0dcb6d31647a/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/6a/ed/a26aedfd-63f2-ecd0-8b54-7f0780fa6f95/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/bb/38/3fbb385d-2c43-d1a0-e73a-cd77d611bc34/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/89/b8/dc89b8d8-ae3b-28ff-a760-8ac6e4088b80/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a9/50/bb/a950bba9-94cc-eda1-75b9-72a32db982f0/fd32d9e8-aec5-4c56-9722-966ffaf4c371_Ipad5.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/c7/6d/24c76dc6-6626-71a5-0f09-7e22416a87dd/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/8d/6b/ea8d6b0a-731b-b383-0598-0fdb4a49741d/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/49/ad/9a49ad0a-9508-a7f2-a124-95020dfba402/pr_source.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/11/57/d3/1157d3fb-8a60-ae79-9bb0-adb5694abb6e/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/20/f9/ee/20f9eef8-3ce1-a852-8d8b-44dc342b3571/6171eb68-e27d-4aad-98a6-0ab920555aa6_watch5__U00281_U0029.jpg/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/ea/44/9eea444f-5eff-d7a6-3fb4-636fee00fa1a/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/bc/72/8cbc7267-c4d6-b882-d4d5-d5518479e0bf/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/32/31/78323142-e07e-f13e-3cb3-bc22804aa6ab/pr_source.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2019-12-11T03:55:44Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "* Optimize for iPhone and Apple Watch\n* Fix minor bugs ",
+      "seenAt": "2019-12-13T20:06:54Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "* Optimize on iPhone and Apple Watch\n* Fix minor bugs",
+      "seenAt": "2019-12-19T20:08:48Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "* Improve sound effects\n* Add more item kits",
+      "seenAt": "2020-10-19T20:19:03Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "* Improve sound effects\r\n* Add more item kits",
+      "seenAt": "2020-10-20T17:57:55Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "*** Optimized for Apple Watch ***",
+      "seenAt": "2021-03-04T18:30:13Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "*** Optimized for Apple Watch ***",
+      "seenAt": "2021-03-06T21:07:48Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "* Fix minor bugs *",
+      "seenAt": "2022-12-23T21:21:34Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "* Add more teams, balls and helmets.",
+      "seenAt": "2023-02-22T09:42:40Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "Improve scoring gameplay.",
+      "seenAt": "2023-03-04T07:58:51Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Halloween update.",
+      "seenAt": "2023-09-25T17:26:33Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Audiences in free Halloween background now are skeletons.",
+      "seenAt": "2023-10-06T05:27:03Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Winter update.",
+      "seenAt": "2023-12-07T14:28:34Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Add Yeti team and field.",
+      "seenAt": "2023-12-27T17:47:13Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Add new chief kit",
+      "seenAt": "2024-05-28T13:16:26Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Add new chief kit",
+      "seenAt": "2024-06-10T08:56:17Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Optimize for Apple Watch",
+      "seenAt": "2024-06-13T21:31:16Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "* Add one more team.\n* Improve skating effect.\n* Halloween content.",
+      "seenAt": "2024-10-16T11:56:56Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "Improve smoothness (keep FPS stable).",
+      "seenAt": "2024-11-02T09:59:22Z"
+    },
+    {
+      "version": "2.10",
+      "releaseNotes": "Optimize for Apple Watch.",
+      "seenAt": "2025-03-15T19:21:38Z"
+    },
+    {
+      "version": "2.11",
+      "releaseNotes": "Add more levels and improve framerate.",
+      "seenAt": "2025-10-28T22:44:57Z"
+    },
+    {
+      "version": "2.12",
+      "releaseNotes": "Add more obstacles and levels.",
+      "seenAt": "2026-02-07T10:30:09Z"
+    },
+    {
+      "version": "2.13",
+      "releaseNotes": "Opponents now have more defense formations.",
+      "seenAt": "2026-03-07T18:40:26Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:02:57.630Z",
+  "isOwnApp": false
+}

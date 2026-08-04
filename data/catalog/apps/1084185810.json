@@ -1,0 +1,353 @@
+{
+  "trackId": "1084185810",
+  "bundleId": "com.ericlund.Trivia",
+  "slug": "trivia-questions-and-answers",
+  "path": "/apps/1084185810-trivia-questions-and-answers/",
+  "locales": {
+    "en": {
+      "trackName": "Trivia Questions and Answers",
+      "description": "Trivia Questions and Answers delivers thousands of unique, stimulating, and mind-challenging questions across various categories. Test your knowledge and see how many you can answer correctly!\n\nPerfect for:\n•  Family game nights\n•  Trivia competitions (pub quizzes, knowledge bowls, bar trivia)\n•  Sharpening your own knowledge.\n\nKey Features:\n•  Thousands of questions spanning numerous topics.\n•  Intuitive, user-friendly design. No account setup—start playing instantly!\n•  Track your progress in each category. Can you conquer them all?\n•  Get daily trivia with optional notifications.\n•  Optimized for all Apple devices, including iPhone, iPad, Apple Watch, Apple TV, and Mac.\n•  iCloud sync to seamlessly track your progress across devices.\n•  Customizable color themes and full dark mode support.\n•  Easily share intriguing questions with friends.\n\nDon’t forget to explore Trivia Questions and Answers on your Apple Watch and Apple TV!\n\nCategories Include:\nHealth & Medicine, Geography, History, Sports, Technology, Movies, Literature, Commander in Chief, Math & Science, General Knowledge, Video Games, Music, Alter Egos, Who Invented It?, Television, Mythology, Animals.\n\nSample Questions:\n•  What was the first item sold on eBay?\n•  Which part of the body is most sensitive to radiation?\n•  What does the “Q” in Q-tip stand for?\n•  Which city had the world’s first paved streets?\n•  Which country has the oldest national flag?",
+      "releaseNotes": "Bug fixes and small improvements",
+      "trackViewUrl": "https://apps.apple.com/us/app/trivia-questions-and-answers/id1084185810?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Jade Lizard Software LLC",
+      "genres": [
+        "Games",
+        "Trivia",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Original Trivia Questions"
+    },
+    "ja": {
+      "trackName": "Trivia Questions and Answers",
+      "description": "Trivia Questions and Answers delivers thousands of unique, stimulating, and mind-challenging questions across various categories. Test your knowledge and see how many you can answer correctly!\n\nPerfect for:\n•  Family game nights\n•  Trivia competitions (pub quizzes, knowledge bowls, bar trivia)\n•  Sharpening your own knowledge.\n\nKey Features:\n•  Thousands of questions spanning numerous topics.\n•  Intuitive, user-friendly design. No account setup—start playing instantly!\n•  Track your progress in each category. Can you conquer them all?\n•  Get daily trivia with optional notifications.\n•  Optimized for all Apple devices, including iPhone, iPad, Apple Watch, Apple TV, and Mac.\n•  iCloud sync to seamlessly track your progress across devices.\n•  Customizable color themes and full dark mode support.\n•  Easily share intriguing questions with friends.\n\nDon’t forget to explore Trivia Questions and Answers on your Apple Watch and Apple TV!\n\nCategories Include:\nHealth & Medicine, Geography, History, Sports, Technology, Movies, Literature, Commander in Chief, Math & Science, General Knowledge, Video Games, Music, Alter Egos, Who Invented It?, Television, Mythology, Animals.\n\nSample Questions:\n•  What was the first item sold on eBay?\n•  Which part of the body is most sensitive to radiation?\n•  What does the “Q” in Q-tip stand for?\n•  Which city had the world’s first paved streets?\n•  Which country has the oldest national flag?",
+      "releaseNotes": "Bug fixes and small improvements",
+      "trackViewUrl": "https://apps.apple.com/jp/app/trivia-questions-and-answers/id1084185810?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Jade Lizard Software LLC",
+      "genres": [
+        "ゲーム",
+        "トリビア",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Trivia Questions and Answers",
+      "description": "Trivia Questions and Answers delivers thousands of unique, stimulating, and mind-challenging questions across various categories. Test your knowledge and see how many you can answer correctly!\n\nPerfect for:\n•  Family game nights\n•  Trivia competitions (pub quizzes, knowledge bowls, bar trivia)\n•  Sharpening your own knowledge.\n\nKey Features:\n•  Thousands of questions spanning numerous topics.\n•  Intuitive, user-friendly design. No account setup—start playing instantly!\n•  Track your progress in each category. Can you conquer them all?\n•  Get daily trivia with optional notifications.\n•  Optimized for all Apple devices, including iPhone, iPad, Apple Watch, Apple TV, and Mac.\n•  iCloud sync to seamlessly track your progress across devices.\n•  Customizable color themes and full dark mode support.\n•  Easily share intriguing questions with friends.\n\nDon’t forget to explore Trivia Questions and Answers on your Apple Watch and Apple TV!\n\nCategories Include:\nHealth & Medicine, Geography, History, Sports, Technology, Movies, Literature, Commander in Chief, Math & Science, General Knowledge, Video Games, Music, Alter Egos, Who Invented It?, Television, Mythology, Animals.\n\nSample Questions:\n•  What was the first item sold on eBay?\n•  Which part of the body is most sensitive to radiation?\n•  What does the “Q” in Q-tip stand for?\n•  Which city had the world’s first paved streets?\n•  Which country has the oldest national flag?",
+      "releaseNotes": "Bug fixes and small improvements",
+      "trackViewUrl": "https://apps.apple.com/de/app/trivia-questions-and-answers/id1084185810?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Jade Lizard Software LLC",
+      "genres": [
+        "Spiele",
+        "Quiz- und Denkspiele",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/51/9a/62519a91-cef4-7655-64bc-da672ee4e69a/glass-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "17735680",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "17.0",
+  "version": "4.1.1",
+  "currentVersionReleaseDate": "2026-05-11T03:03:00Z",
+  "releaseDate": "2016-02-18T21:12:10Z",
+  "artistId": 528029155,
+  "artistName": "Jade Lizard Software LLC",
+  "artistViewUrl": "https://apps.apple.com/de/developer/jade-lizard-software-llc/id528029155?uo=4",
+  "sellerUrl": "https://www.jadelizardsoftware.com/trivia-questions",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/8f/d6/d88fd6bf-67b0-f0e9-5e28-4dda1365b44a/01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/e8/6e/c8e86e5f-d913-ff56-4332-d121d136e8ac/02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/ce/dd/54ceddec-415b-b71f-de08-f3973cfc5f23/03.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/a7/3b/8aa73bb6-602b-7a33-3aca-602a4110bfef/01.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/13/4e/b8134e05-4c68-3574-424d-d3bb3e9b47e2/02.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/ea/d0/48ead03c-9874-73b2-4d4a-174c08a50a21/03.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/a7/3b/8aa73bb6-602b-7a33-3aca-602a4110bfef/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/13/4e/b8134e05-4c68-3574-424d-d3bb3e9b47e2/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/ea/d0/48ead03c-9874-73b2-4d4a-174c08a50a21/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/8f/d6/d88fd6bf-67b0-f0e9-5e28-4dda1365b44a/01.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/e8/6e/c8e86e5f-d913-ff56-4332-d121d136e8ac/02.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/ce/dd/54ceddec-415b-b71f-de08-f3973cfc5f23/03.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/ef/17/07ef17a5-9a23-9750-091d-b4580e15927c/01.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/64/ca/3b64ca7f-bced-2d5f-4e18-57e7df4e0721/02.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/0c/f7/cd0cf76b-dae5-2689-3aa8-59d938bc4c7f/03.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.4",
+      "releaseNotes": "Under the hood updates and improvements",
+      "seenAt": "2017-03-28T16:19:49Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "• Fixed an incorrect answer",
+      "seenAt": "2017-09-12T16:18:50Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "• Now Supports iPhone X!\n• Improved Apple Watch App\n• Several user interface improvements (Including new landscape mode for iPads!)",
+      "seenAt": "2017-11-13T20:04:37Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "General improvements to provide a better experience across all devices.",
+      "seenAt": "2018-01-02T16:54:05Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "• Improved support for iOS 12\n• Fixed a few typos",
+      "seenAt": "2018-09-23T14:00:35Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "- Under the hood improvements and optimizations",
+      "seenAt": "2019-01-13T16:18:38Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "• Updates for iOS 13 including support for Dark Mode!",
+      "seenAt": "2019-09-30T20:02:37Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "+ Fixed a few incorrect answers",
+      "seenAt": "2020-01-06T16:49:26Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "• Fixed an incorrect answer\n• General stability updates and improvements",
+      "seenAt": "2020-05-18T15:44:55Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "+ Under the hood updates and improvements\n+ Fixed an incorrect answer in the Geography category",
+      "seenAt": "2021-05-10T17:32:59Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "- Under the hood updates and improvements\n- Fixed an incorrect answer",
+      "seenAt": "2021-11-15T00:20:57Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "- Added 2 new categories and 100 new questions\n- Improved app design and UX for a more modern feel\n- Added ability to see which questions you've viewed\n- Added a \"Random\" category to randomize all questions\n- Full support for all devices and screen sizes (iPhone, iPad, Watch, TV)\n- Added iCloud sync\n- Added new app themes\n\nThank you for your feedback and suggestions. Keep them coming!",
+      "seenAt": "2023-01-21T14:56:44Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "- Fixed an issue with notifications failing to open the question when tapped\n- Fixed an issue that would crash the app if all questions have been viewed in the \"Random\" category\n- Fixed a few incorrect answers to questions\n\nThank you all for your feedback and support!",
+      "seenAt": "2023-02-17T16:00:05Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "• Fixed issue where opening the app from a notification could fail if the app was in the background.",
+      "seenAt": "2023-03-18T18:42:07Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "+ Scrolling though question decks (especially on Apple Watch and Apple TV) is now much smoother\n+ Fixed an answer typo\n+ Small under the hood updates to provide the best experience",
+      "seenAt": "2023-05-30T09:10:46Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "Bug fixes & under the hood updates",
+      "seenAt": "2023-07-16T01:27:43Z"
+    },
+    {
+      "version": "3.5",
+      "releaseNotes": "Bug fixes and improvements",
+      "seenAt": "2023-10-21T05:24:51Z"
+    },
+    {
+      "version": "3.5.1",
+      "releaseNotes": "- Small bug fixes and improvements",
+      "seenAt": "2023-12-04T10:19:03Z"
+    },
+    {
+      "version": "3.6",
+      "releaseNotes": "- 5 new categories: Food, Art, Religion, Politics, Business\n- 500+ new questions\n- Bug fixes",
+      "seenAt": "2024-01-05T00:50:20Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "Under the hood updates to provide the best experience across all devices.",
+      "seenAt": "2024-07-09T01:43:00Z"
+    },
+    {
+      "version": "3.8",
+      "releaseNotes": "- Updates for iOS18\n- Big fixes",
+      "seenAt": "2024-09-20T17:53:58Z"
+    },
+    {
+      "version": "3.8.1",
+      "releaseNotes": "Under the hood updates and improvements",
+      "seenAt": "2025-06-20T17:53:58Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "- Updates for iOS 26 and iPadOS 26\n- Bug fixes",
+      "seenAt": "2026-01-13T15:11:34Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "- Added 500 new questions\n- Fixed an incorrectly worded question\n\nThank you, everyone, for your feedback and support!",
+      "seenAt": "2026-02-02T04:28:57Z"
+    },
+    {
+      "version": "4.1.1",
+      "releaseNotes": "Bug fixes and small improvements",
+      "seenAt": "2026-05-11T03:03:00Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:25:30.316Z",
+  "isOwnApp": false
+}

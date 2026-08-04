@@ -1,0 +1,379 @@
+{
+  "trackId": "1227974333",
+  "bundleId": "com.helloheydays.CoinToss",
+  "slug": "coin-flip-ct",
+  "path": "/apps/1227974333-coin-flip-ct/",
+  "locales": {
+    "en": {
+      "trackName": "Coin Flip CT",
+      "description": "Need to make a difficult decision? Try your luck with this app.\n\nCoinTosser is a simple coin tossing/flipping app. You can use it to simulate tossing a real coin when you don't have one.\n\nSome of the main features of CoinTosser include:\n\n1. A simple and easy to use interface.\n2. The ability to change chance/percentage outcomes from the settings screen.\n3. The ability to flip the coin by tapping or shaking your device.\n4. 3 different styles of coin to use.\n5. Optional sound.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://sites.google.com/view/cointoss-app",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/coin-flip-ct/id1227974333?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Jordan Holland",
+      "genres": [
+        "Games",
+        "Casino",
+        "Entertainment",
+        "Board"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": "Toss simulator"
+    },
+    "ja": {
+      "trackName": "コイントス 表か裏か",
+      "description": "日々の決断をコイントスにゆだねてみませんか？\nシンプルでクールなデザイン。\n\n色んな場面で役立つコイントスアプリです！\n難しい選択はコイントスで。\n「CoinTosser」を使ってみてください！！\n\n主な機能\n- タップやシェークでコイントス\n- 三種類のコインデザイン\n- ダークモード搭載\n- 確率の変更が可能（設定画面）\n- サウンド設定\n\n裏表/乱数生成/２択チョイス\n\nこんな人/こんな時にオススメ！\n- 物事の選択が苦手な人\n- 今日の運命を占いたい人\n- スポーツやゲームなどの先攻、後攻\n- 今日の夜ご飯の選択   など\n\n利用規約: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー: https://sites.google.com/view/cointoss-app",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%88%E3%82%B9-%E8%A1%A8%E3%81%8B%E8%A3%8F%E3%81%8B/id1227974333?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Jordan Holland",
+      "genres": [
+        "ゲーム",
+        "カジノ",
+        "エンターテインメント",
+        "ボード"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "CoinTosser: Coin Flipper",
+      "description": "Simple Coin Flipper\n\nMüssen Sie eine schwierige Entscheidung treffen? Versuchen Sie Ihr Glück mit dieser app.\n\nCointosser ist eine einfache Münze werfen/Flipping app. Sie können es verwenden, um zu simulieren werfen eine reale Münze, wenn Sie nicht ein.\n\nEinige der Hauptmerkmale von coinss sind:\n\n1. eine einfache und einfach zu bedienende Schnittstelle.\n2. die Möglichkeit, Chance/prozentuale Ergebnisse aus dem Bildschirm Einstellungen zu ändern.\n3. die Fähigkeit, die Münze zu kippen, indem Sie Ihr Gerät klopfen oder schütteln.\n4.3 verschiedene Stile der Münze zu verwenden.\n5. Optionaler Klang.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://sites.google.com/view/cointoss-app",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/de/app/cointosser-coin-flipper/id1227974333?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Jordan Holland",
+      "genres": [
+        "Spiele",
+        "Casino",
+        "Unterhaltung",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/6c/2d/886c2d2f-0825-46eb-67b3-d359d15c4e60/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.28571,
+  "userRatingCount": 7,
+  "price": 0,
+  "fileSizeBytes": "17537024",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "3.18.10",
+  "currentVersionReleaseDate": "2026-01-23T04:28:02Z",
+  "releaseDate": "2017-05-02T06:24:22Z",
+  "artistId": 1041851744,
+  "artistName": "Jordan Holland",
+  "artistViewUrl": "https://apps.apple.com/de/developer/jordan-holland/id1041851744?uo=4",
+  "sellerUrl": "https://tools.bluetreelab.net/coin-toss",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b7/b7/0e/b7b70ef1-3298-ae60-0cc4-04e4dc29380f/e7bf075c-7632-4d5d-88bc-6160d361b115_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/96/74/d2/9674d2bd-8bd8-3bc8-01dc-9543a5043e56/f8a99204-b582-4cc3-851b-9503b4808782_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.11.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/c5/c2/ccc5c221-8661-fe0b-e40b-e0d5dff63f31/90c99683-1486-4c43-b9fb-d3a53fa8e0c2_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.25.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/96/cf/4f/96cf4f9c-5523-e9af-19d2-545446c2743d/3f9cd7d8-95fe-41ce-bd34-3938b1813e78_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.43.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/b2/01/09b2019d-c808-d367-1c2c-eedb97bca779/d4ac109d-1b69-4066-92d7-c421ad4bc25d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-11_at_11.53.02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d2/72/1f/d2721fff-5d90-f81e-dd1c-e10ce08b0208/08fcf242-faee-425e-ac62-e865f9500e33_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-11_at_11.53.11.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/db/89/b3db8933-993f-4d43-284e-411fd8096905/0598a5e6-a17d-4d83-817a-7593b76abad0_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-11_at_11.53.25.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/e8/26/6ee8261a-d3bf-6e7c-1072-52b030833836/684795ae-fc77-4f06-bff0-a2af36a4ebd2_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-11_at_11.53.43.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/7b/ab/a87bab3d-474b-2db4-94d5-d42fa2a0ba9b/6f9b9a8d-9c40-4182-adcd-b0c5ca61eab5_iPhone_8_Plus_1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/07/72/cc07725c-57ca-562c-a642-8c0bcbc40d36/21958318-365c-40ce-b7e5-b22bb8c779c4_iPhone_8_Plus_2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/d5/a2/dcd5a2e8-3587-9a85-fe3f-ac74aabf9f3f/5085960a-8237-4582-b353-a6f901ab2c6c_iPhone_8_Plus_3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/d7/aa/9ad7aa7b-2add-7852-7f17-52febe1230f7/396241b8-9ff9-4ff2-8049-9882168ee62b_iPhone_8_Plus_4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/ff/79/88ff791a-a933-a3f2-3bf1-93f46f2e2ce0/a307ca88-edab-4545-b75e-024cd43e0ef2_iPhone_Xs_Max_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ca/cf/52/cacf5248-4d2e-0d4d-7e68-57de3cdb1996/3e88c5b5-e215-44af-b179-528391816b88_iPhone_Xs_Max_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ef/59/eb/ef59eb5e-f931-f49f-c511-f6d99af16ced/3512ccb1-271a-40c3-8433-ff94226ac9bc_iPhone_Xs_Max_3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/75/39/9d753956-930b-f0f2-d5fc-d2b8502275b2/4aa46162-7032-4565-b756-0e6077f0e2f0_iPhone_Xs_Max_4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/7b/ab/a87bab3d-474b-2db4-94d5-d42fa2a0ba9b/6f9b9a8d-9c40-4182-adcd-b0c5ca61eab5_iPhone_8_Plus_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/07/72/cc07725c-57ca-562c-a642-8c0bcbc40d36/21958318-365c-40ce-b7e5-b22bb8c779c4_iPhone_8_Plus_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/d5/a2/dcd5a2e8-3587-9a85-fe3f-ac74aabf9f3f/5085960a-8237-4582-b353-a6f901ab2c6c_iPhone_8_Plus_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/d7/aa/9ad7aa7b-2add-7852-7f17-52febe1230f7/396241b8-9ff9-4ff2-8049-9882168ee62b_iPhone_8_Plus_4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b7/b7/0e/b7b70ef1-3298-ae60-0cc4-04e4dc29380f/e7bf075c-7632-4d5d-88bc-6160d361b115_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/96/74/d2/9674d2bd-8bd8-3bc8-01dc-9543a5043e56/f8a99204-b582-4cc3-851b-9503b4808782_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.11.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/c5/c2/ccc5c221-8661-fe0b-e40b-e0d5dff63f31/90c99683-1486-4c43-b9fb-d3a53fa8e0c2_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.25.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/96/cf/4f/96cf4f9c-5523-e9af-19d2-545446c2743d/3f9cd7d8-95fe-41ce-bd34-3938b1813e78_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.53.43.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/3c/dd/7a3cdde2-d7e1-74ef-d8ec-152a077d674d/a6f8054d-1360-4b59-8233-e1aa2ca761fa_iPhone_8_Plus_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c7/c4/2e/c7c42e91-3e42-1553-af00-0978c3aee314/6268e136-2144-4486-aa6a-232c382f4810_iPhone_8_Plus_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/e2/c3/2ce2c3a0-6045-1154-efbb-b8f1746fc015/577442c1-035e-4aaf-a3b8-2f5458ab6982_iPhone_8_Plus_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3b/fc/bb/3bfcbb7e-471a-de77-f81a-8192b5692979/52d051a9-6a20-4869-b222-8c9e8ecd6c8f_iPhone_8_Plus_4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/19/2a/42192a86-523a-2deb-8a22-14f45e10a3d3/ee222751-046e-448a-bfa7-8bcf9889b662_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.54.29.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6c/fa/5b/6cfa5bf4-ee1e-f99a-fa83-799e441e780e/8955ff34-0246-4e26-9bba-6d79a2e6f566_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.54.37.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/98/9a/01989a94-c899-33a7-0256-0acb3074dd4e/472d7816-9ebe-4784-85ca-2b32c5db71d6_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.55.07.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a4/0b/a5/a40ba5eb-5f88-0e10-3256-7f9f178104b7/d8a71116-838f-42e9-bedc-b8c697380c43_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-07-11_at_11.55.10.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/10/7b/84107b7a-192d-2843-3f02-cc9be4e2dfb0/23f7ddbc-7050-4a08-acf3-a9b7dcc3f409_Simulator_Screen_Shot_-_Apple_Watch_Series_6_-_44mm_-_2022-07-19_at_12.16.41.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/ba/5c/acba5c38-3c84-f441-58ec-9a0944b0fa0e/6aa2c863-f47b-479d-8a52-362d23b7469d_Simulator_Screen_Shot_-_Apple_Watch_Series_6_-_44mm_-_2022-07-19_at_12.17.34.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/3d/d9/9a3dd9d0-f774-e460-c1d3-229d1fdb1cf9/7f430d82-a7c2-428a-b2a6-417510e4b1aa_Simulator_Screen_Shot_-_Apple_Watch_Series_6_-_44mm_-_2022-07-19_at_12.18.37.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "3.2.2",
+      "releaseNotes": "- Updated app icon.\n- Fixed animation issue.",
+      "seenAt": "2020-02-12T20:34:11Z"
+    },
+    {
+      "version": "3.2.3",
+      "releaseNotes": "- Minor bug fixes.",
+      "seenAt": "2020-03-13T18:19:21Z"
+    },
+    {
+      "version": "3.4.0",
+      "releaseNotes": "- Bug fixes.",
+      "seenAt": "2020-04-29T16:22:33Z"
+    },
+    {
+      "version": "3.5.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2022-07-11T08:48:18Z"
+    },
+    {
+      "version": "3.6.2",
+      "releaseNotes": "- Added Apple Watch companion app.\n- Minor bug fixes and improvements.",
+      "seenAt": "2022-07-20T02:11:38Z"
+    },
+    {
+      "version": "3.6.4",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2022-08-01T21:32:44Z"
+    },
+    {
+      "version": "3.7.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-01-10T21:39:52Z"
+    },
+    {
+      "version": "3.8.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-02-25T22:54:38Z"
+    },
+    {
+      "version": "3.8.1",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-03-09T01:12:35Z"
+    },
+    {
+      "version": "3.9.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-03-10T23:09:18Z"
+    },
+    {
+      "version": "3.9.1",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-03-17T23:35:54Z"
+    },
+    {
+      "version": "3.10.0",
+      "releaseNotes": "- Refreshed app icon.\n- Minor bug fixes and improvements.",
+      "seenAt": "2023-04-24T09:06:56Z"
+    },
+    {
+      "version": "3.11.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-05-31T07:21:18Z"
+    },
+    {
+      "version": "3.11.2",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-06-07T22:38:28Z"
+    },
+    {
+      "version": "3.12.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-07-11T02:37:07Z"
+    },
+    {
+      "version": "3.13.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-10-26T05:03:50Z"
+    },
+    {
+      "version": "3.14.0",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2023-10-28T04:34:51Z"
+    },
+    {
+      "version": "3.17.1",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2024-07-11T03:20:28Z"
+    },
+    {
+      "version": "3.18.2",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2024-07-16T22:59:05Z"
+    },
+    {
+      "version": "3.18.3",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2024-07-18T02:46:43Z"
+    },
+    {
+      "version": "3.18.4",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2024-08-23T01:18:53Z"
+    },
+    {
+      "version": "3.18.5",
+      "releaseNotes": "- Add weekly subscription option.\n- Minor bug fixes and improvements.",
+      "seenAt": "2024-11-12T00:01:22Z"
+    },
+    {
+      "version": "3.18.6",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2025-02-24T08:17:38Z"
+    },
+    {
+      "version": "3.18.7",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2025-04-20T10:32:36Z"
+    },
+    {
+      "version": "3.18.10",
+      "releaseNotes": "- Minor bug fixes and improvements.",
+      "seenAt": "2026-01-23T04:28:02Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:14.028Z",
+  "isOwnApp": false
+}

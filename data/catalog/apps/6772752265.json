@@ -1,0 +1,381 @@
+{
+  "trackId": "6772752265",
+  "bundleId": "com.shaoxiongxu.paperfold.territory",
+  "slug": "app",
+  "path": "/apps/6772752265-app/",
+  "locales": {
+    "en": {
+      "trackName": "少摸鱼-手表游戏",
+      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "新增推箱子和迷宫冒险小游戏。\n为多款小游戏新增通关、胜利和失败音效，游戏反馈更加清晰。\n打砖块新增发球、通关及生命耗尽音效。\n迷宫冒险和推箱子新增过关成功音效，并取消撞墙时的声音和震动。\n优化迷宫冒险游戏卡片，新增“小男孩手持指南针”主题插画。\n优化部分游戏的音效触发逻辑，避免重复播放。\n修复已知问题，提升游戏运行稳定性和整体体验。",
+      "trackViewUrl": "https://apps.apple.com/us/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "少雄 许",
+      "genres": [
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "zh": {
+      "trackName": "少摸鱼-手表游戏",
+      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "新增推箱子和迷宫冒险小游戏。\n为多款小游戏新增通关、胜利和失败音效，游戏反馈更加清晰。\n打砖块新增发球、通关及生命耗尽音效。\n迷宫冒险和推箱子新增过关成功音效，并取消撞墙时的声音和震动。\n优化迷宫冒险游戏卡片，新增“小男孩手持指南针”主题插画。\n优化部分游戏的音效触发逻辑，避免重复播放。\n修复已知问题，提升游戏运行稳定性和整体体验。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "少雄 许",
+      "genres": [
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "少摸鱼-手表游戏",
+      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "新增推箱子和迷宫冒险小游戏。\n为多款小游戏新增通关、胜利和失败音效，游戏反馈更加清晰。\n打砖块新增发球、通关及生命耗尽音效。\n迷宫冒险和推箱子新增过关成功音效，并取消撞墙时的声音和震动。\n优化迷宫冒险游戏卡片，新增“小男孩手持指南针”主题插画。\n优化部分游戏的音效触发逻辑，避免重复播放。\n修复已知问题，提升游戏运行稳定性和整体体验。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "少雄 许",
+      "genres": [
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "少摸鱼-手表游戏",
+      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "新增推箱子和迷宫冒险小游戏。\n为多款小游戏新增通关、胜利和失败音效，游戏反馈更加清晰。\n打砖块新增发球、通关及生命耗尽音效。\n迷宫冒险和推箱子新增过关成功音效，并取消撞墙时的声音和震动。\n优化迷宫冒险游戏卡片，新增“小男孩手持指南针”主题插画。\n优化部分游戏的音效触发逻辑，避免重复播放。\n修复已知问题，提升游戏运行稳定性和整体体验。",
+      "trackViewUrl": "https://apps.apple.com/de/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "少雄 许",
+      "genres": [
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/37/a0/4037a082-4ac5-4201-038d-6b20b046b2a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "59403264",
+  "contentAdvisoryRating": "9+",
+  "minimumOsVersion": "17.0",
+  "version": "5.3",
+  "currentVersionReleaseDate": "2026-07-31T09:04:55Z",
+  "releaseDate": "2026-05-27T07:00:00Z",
+  "artistId": 6771846066,
+  "artistName": "少雄 许",
+  "artistViewUrl": "https://apps.apple.com/de/developer/%E5%B0%91%E9%9B%84-%E8%AE%B8/id6771846066?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/19/b3/6319b306-28df-89bc-a07c-3bdb12286dd3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.32.52.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/cb/fe/e6cbfe6b-907c-efdc-22b7-3527470472a5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.27.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/9d/f6/cf9df6cc-b403-a401-afd0-8c8fe832ba5c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.33.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/06/9a/1c069a13-b722-3ffb-af36-ea2133a7ae77/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.41.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/4b/c4/be4bc49c-ce81-642d-4762-8e9628d9a025/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.58.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/35/71/503571bd-22cf-7a1c-9c4d-b85184ebce9a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.50.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/75/5a/ab755a1e-76e7-79be-a83a-8c37437ae749/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.18.09.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3b/71/7b3b7143-47c9-f564-b19d-61f3bd4d0921/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.21.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/12/0b/2a120bfb-570c-13e5-f3ed-77ac53499316/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.32.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/f7/85/55f78539-6125-84c4-da32-54364e828835/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.50.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/18/d6/8518d65f-877c-0447-6cee-9e9069ed852c/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.21.55.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/7e/8f/4b7e8f68-36e4-be98-7ae1-2ab20247f698/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.43.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/f5/14/b8f51490-56a3-7415-a629-0607ace6329d/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.33.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/29/b1/ae29b138-4694-46a9-f7b5-3a83e23067b6/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.23.12.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/cb/d4/1ccbd449-06da-3dc0-e1e2-67b6d455727a/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.55.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/e6/66/bfe66692-20ba-3bb0-b96a-8f448401a5f2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.13.05.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d7/a8/1fd7a837-34c4-8769-38a8-455a547c7825/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.17.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/3b/71/7b3b7143-47c9-f564-b19d-61f3bd4d0921/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.21.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/12/0b/2a120bfb-570c-13e5-f3ed-77ac53499316/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.32.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/f7/85/55f78539-6125-84c4-da32-54364e828835/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.50.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/18/d6/8518d65f-877c-0447-6cee-9e9069ed852c/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.21.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/7e/8f/4b7e8f68-36e4-be98-7ae1-2ab20247f698/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.43.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/f5/14/b8f51490-56a3-7415-a629-0607ace6329d/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.33.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/29/b1/ae29b138-4694-46a9-f7b5-3a83e23067b6/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.23.12.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/cb/d4/1ccbd449-06da-3dc0-e1e2-67b6d455727a/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/e6/66/bfe66692-20ba-3bb0-b96a-8f448401a5f2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.13.05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d7/a8/1fd7a837-34c4-8769-38a8-455a547c7825/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.17.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/19/b3/6319b306-28df-89bc-a07c-3bdb12286dd3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.32.52.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/cb/fe/e6cbfe6b-907c-efdc-22b7-3527470472a5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.27.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/9d/f6/cf9df6cc-b403-a401-afd0-8c8fe832ba5c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.33.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/06/9a/1c069a13-b722-3ffb-af36-ea2133a7ae77/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.41.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/4b/c4/be4bc49c-ce81-642d-4762-8e9628d9a025/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.58.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/35/71/503571bd-22cf-7a1c-9c4d-b85184ebce9a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.50.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/75/5a/ab755a1e-76e7-79be-a83a-8c37437ae749/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.18.09.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9a/5f/999a5f9d-a71d-e8c6-2cfe-b2440a980ab2/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.25.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/4f/25/f94f25a7-3192-be81-565d-d181f57fcb36/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.50.08.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/9d/70/4d9d706c-8867-4706-7a9d-5b290f61f11c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.18.30.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/48/62/684862f2-038d-b75e-13a2-e15865fd8c27/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.46.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/b6/43/83b64376-aa8b-2f73-0f1d-ad0b2f168bef/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.31.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/00/68/99006810-b4e6-ccf7-eff3-938331623ebd/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.51.33.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/21/de/bb21def4-6476-db53-0248-b9fb51cf6d40/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.18.19.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/c5/e6/cdc5e613-9bfb-0655-5bff-8e8b9892a619/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-06-01_at_22.21.18.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/f9/8c/28f98cee-6d20-2f84-5d51-390b9832e247/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.51.49.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b3/90/1bb390c9-d1fd-cadc-8fc8-b071a3dfcdf8/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.52.44.png/422x514bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2026-05-27T08:36:48Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "拧螺丝\n新增趣味拧螺丝玩法，通过拆解与组合螺丝结构完成关卡挑战，考验玩家的观察力、逻辑思维与操作技巧。\n花语秘境\n新增花语秘境主题玩法，打造唯美治愈的花卉探索场景，玩家可在秘境中收集、解锁不同花卉内容，体验轻松休闲的互动乐趣。\n敲木鱼\n新增敲木鱼休闲玩法，通过点击互动获得反馈效果，在轻松解压的同时增加趣味性与沉浸感。改造内容\n摸鱼高手改造\n对摸鱼高手玩法进行全面优化与改造，升级界面表现及交互体验，优化玩法流程与操作反馈，提升整体趣味性、流畅度和用户体验。",
+      "seenAt": "2026-06-01T23:37:24Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "本次更新主要进行了问题修复和性能优化：\n\n- 修复部分关卡异常问题\n- 修复已知游戏 Bug\n- 优化游戏运行性能\n- 提升整体稳定性和体验",
+      "seenAt": "2026-06-02T22:22:20Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "优化 Apple Watch 游戏体验。\n\n1. 调整拧螺丝游戏界面布局，优化关卡标题、返回按钮和刷新按钮位置。\n2. 优化贪吃蛇游戏界面边界显示和操作体验。\n3. 新增贪吃蛇暂停按钮。\n4. 优化贪吃蛇奖励机制，包括减速、穿墙和无敌状态。\n5. 优化花语秘境界面显示，调整分数和按钮布局。\n6. 修复部分界面元素在手表小屏幕上的显示问题。",
+      "seenAt": "2026-06-03T19:03:34Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "新增ios , Apple Watch 版极简扫雷游戏，支持简单、中等、困难三种难度。优化手表端游戏界面，棋盘区域更大，更适合小屏幕操作。支持点按翻开格子、长按插旗，并加入胜利与失败的震动反馈，带来更轻松有趣的手表小游戏体验。",
+      "seenAt": "2026-06-05T22:30:57Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "新增切水果小游戏，带来更有趣的休闲体验。\n优化部分页面显示和交互细节，提升整体使用流畅度。",
+      "seenAt": "2026-06-07T21:04:11Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "• 新增扫雷付费解锁功能\n\n• 免费用户每天可获得 3 次扫雷机会\n\n• 当日次数用完后，可通过订阅或购买永久解锁继续游玩\n\n• 新增每周订阅、年度订阅和永久解锁选项\n\n• 支持恢复购买\n\n• 优化 iPhone 与 Apple Watch 游戏体验\n\n• 修复已知问题并提升稳定性\n",
+      "seenAt": "2026-06-11T07:19:09Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "本次更新：\n\n• 新增小游戏「跳一跳」\n• 优化首页布局与视觉设计\n• 优化扫雷、花语秘境等游戏展示效果\n• 改进订购页面体验与信息展示\n• 精简冗余资源与代码结构，提升运行效率\n• 修复若干已知问题，提升稳定性\n• 接入了Game center\n",
+      "seenAt": "2026-06-24T20:21:01Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "1. 修复已知问题，提升应用稳定性。\n2. 优化部分页面显示效果。\n3. 提升应用加载速度和使用体验。\n4. 修复部分设备上的兼容性问题。\n",
+      "seenAt": "2026-06-30T06:08:29Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "1 订阅与单品购买界面优化，已购项目自动高亮显示\n2已订阅/已购买内容统一显示绿色状态提示\n3 价格区域在已购状态下替换为确认标识\n4 已解锁内容不再显示皇冠标识，避免重复提示\n5 iOS 与 Watch 双端订阅状态同步优化\n6 购买卡片视觉层级优化，更清晰区分“已购 / 未购”状态\n7 修复部分情况下订阅状态显示延迟问题",
+      "seenAt": "2026-07-01T04:34:14Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "1.新增订阅 3 天免费试用功能。\n2.优化订阅体验，用户可先免费体验 3 天后再决定是否订阅。\n3.周订阅和年订阅添加了自动订阅功能；",
+      "seenAt": "2026-07-03T14:38:50Z"
+    },
+    {
+      "version": "3.9",
+      "releaseNotes": "1.新增跳一跳应用\n2.新增堆木跳跳应用",
+      "seenAt": "2026-07-09T01:50:19Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "新增堆木跳跳 ",
+      "seenAt": "2026-07-09T12:46:19Z"
+    },
+    {
+      "version": "4.3",
+      "releaseNotes": "1.页面细节优化，以及gamecenter 数据调整",
+      "seenAt": "2026-07-13T22:58:42Z"
+    },
+    {
+      "version": "4.5",
+      "releaseNotes": "新增了黄金矿工，\n修复花语秘境、切水果、堆木跳跳等手表游戏成绩无法正常提交的问题\n修复周期排行榜数据无法正确获取的问题\n优化 Apple Watch 与 iPhone 之间的成绩同步机制\n网络或设备暂时不可用时，成绩会自动保存并在恢复连接后重新提交\n修复部分排行榜显示“暂无数据”的",
+      "seenAt": "2026-07-15T10:52:59Z"
+    },
+    {
+      "version": "4.6",
+      "releaseNotes": "新出小飞猪应用",
+      "seenAt": "2026-07-16T11:41:02Z"
+    },
+    {
+      "version": "4.7",
+      "releaseNotes": "新增“新年烟花”游戏，支持普通烟花、多种造型烟花和烟花秀效果。\n新增“俄罗斯方块”游戏，支持方块旋转、快速下落、等级与消行统计。\n“新年烟花”和“俄罗斯方块”新增周榜、总榜排行榜。\niPhone 与 Apple Watch 均支持游戏排行榜和成绩提交。\n优化 Apple Watch 俄罗斯方块布局，放大游戏区域并改善操作体验。\n更新“空气枪”首页卡片，替换为更鲜明的卡通风格枪械背景。\n优化部分界面文案、音效、订阅提示及运行稳定性。",
+      "seenAt": "2026-07-20T08:58:31Z"
+    },
+    {
+      "version": "4.8",
+      "releaseNotes": "新增“跳跳猴”游戏，支持 iPhone 与 Apple Watch。加入 12 关连续挑战、每关 32 秒、周榜与总榜、金币和香蕉奖励、彩虹棒棒糖、筋斗云，以及青蛙和黄蜂等动态障碍。优化猴子三维卡通造型、S 形尾巴跟随动画、暂停与重新开始体验，并修复部分界面显示和稳定性问题。",
+      "seenAt": "2026-07-22T08:09:52Z"
+    },
+    {
+      "version": "4.9",
+      "releaseNotes": "本次更新优化了 Apple Watch 游戏体验：\n• 新增独立排行榜页面，支持周榜、总榜及个人真实排名展示\n• 优化游戏入口、排行榜布局和地球仪交互效果\n• 调整失败弹框尺寸、透明度及按钮样式\n• 优化页面滚动、图标位置和文字显示效果\n• 修复部分 Game Center 排名及页面点击问题\n• 提升整体稳定性和使用体验",
+      "seenAt": "2026-07-23T21:04:49Z"
+    },
+    {
+      "version": "5.0",
+      "releaseNotes": "新增应用转动佛珠",
+      "seenAt": "2026-07-28T01:40:03Z"
+    },
+    {
+      "version": "5.1",
+      "releaseNotes": "新增数独、积木逃脱小游戏",
+      "seenAt": "2026-07-28T17:49:37Z"
+    },
+    {
+      "version": "5.2",
+      "releaseNotes": "优化打砖块游戏操作体验，调整返回与暂停按钮尺寸，使页面操作更加协调。\n打砖块关卡扩展至64关，并优化齿轮控制速度与关卡通关音效。\n优化猴子跑酷中的金币生成机制，金币将按不同距离和数量随机出现。\n调整金币与动物、树木及其他植物之间的安全距离，减少重叠情况。\n优化兔子和乌龟的移动表现，并提升乌龟的绘制细节。\n两款游戏均支持每日3次免费试玩。\n修复部分已知问题，提升游戏运行稳定性与操作流畅度。",
+      "seenAt": "2026-07-30T09:17:07Z"
+    },
+    {
+      "version": "5.3",
+      "releaseNotes": "新增推箱子和迷宫冒险小游戏。\n为多款小游戏新增通关、胜利和失败音效，游戏反馈更加清晰。\n打砖块新增发球、通关及生命耗尽音效。\n迷宫冒险和推箱子新增过关成功音效，并取消撞墙时的声音和震动。\n优化迷宫冒险游戏卡片，新增“小男孩手持指南针”主题插画。\n优化部分游戏的音效触发逻辑，避免重复播放。\n修复已知问题，提升游戏运行稳定性和整体体验。",
+      "seenAt": "2026-07-31T09:04:55Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:30.778Z",
+  "isOwnApp": false
+}

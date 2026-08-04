@@ -1,0 +1,163 @@
+{
+  "trackId": "6503696623",
+  "bundleId": "cz.idreesinc.poketch.release",
+  "slug": "wrist-fun-games",
+  "path": "/apps/6503696623-wrist-fun-games/",
+  "locales": {
+    "en": {
+      "trackName": "Wrist Fun Games",
+      "description": "This application will not leave you bored anywhere! We offer several options for entertainment on your wrist! In our application you will find a total of 11 simple activities that will keep you busy for a long time anywhere!\n\n- Our app will require you to have permissions in Health to write and read steps for certain activities in the app!\n- The iPhone app contains no content! It only serves as a base for the app on the Apple Watch!\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/us/app/wrist-fun-games/id6503696623?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Jakub Drozd",
+      "genres": [
+        "Entertainment",
+        "Games"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Wrist Game"
+    },
+    "zh": {
+      "trackName": "Wrist Fun Games",
+      "description": "This application will not leave you bored anywhere! We offer several options for entertainment on your wrist! In our application you will find a total of 11 simple activities that will keep you busy for a long time anywhere!\n\n- Our app will require you to have permissions in Health to write and read steps for certain activities in the app!\n- The iPhone app contains no content! It only serves as a base for the app on the Apple Watch!\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/cn/app/wrist-fun-games/id6503696623?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Jakub Drozd",
+      "genres": [
+        "娱乐",
+        "游戏"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Wrist Fun Games",
+      "description": "This application will not leave you bored anywhere! We offer several options for entertainment on your wrist! In our application you will find a total of 11 simple activities that will keep you busy for a long time anywhere!\n\n- Our app will require you to have permissions in Health to write and read steps for certain activities in the app!\n- The iPhone app contains no content! It only serves as a base for the app on the Apple Watch!\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/jp/app/wrist-fun-games/id6503696623?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Jakub Drozd",
+      "genres": [
+        "エンターテインメント",
+        "ゲーム"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Wrist Fun Games",
+      "description": "This application will not leave you bored anywhere! We offer several options for entertainment on your wrist! In our application you will find a total of 11 simple activities that will keep you busy for a long time anywhere!\n\n- Our app will require you to have permissions in Health to write and read steps for certain activities in the app!\n- The iPhone app contains no content! It only serves as a base for the app on the Apple Watch!\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/wrist-fun-games/id6503696623?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Jakub Drozd",
+      "genres": [
+        "Unterhaltung",
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/46/44/a1464421-48e9-7176-fd36-c0d234cf58db/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "3384320",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "14.5",
+  "version": "1.0",
+  "currentVersionReleaseDate": "2024-10-01T07:00:00Z",
+  "releaseDate": "2024-10-01T07:00:00Z",
+  "artistId": 1675529057,
+  "artistName": "Jakub Drozd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/jakub-drozd/id1675529057?uo=4",
+  "sellerUrl": "https://www.jakub-developing.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "Watch4-Watch4",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPhone16e-iPhone16e",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPhone17e-iPhone17e"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/60/09/27600994-a3ad-1c9a-7dac-2716483c565d/2a1a6a86-fb81-4100-ba25-c7263ae7cafa_5_U002c5_1.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/32/af/2c32af90-6ebf-d6da-4a44-26d98400e465/6bafddf2-3582-4f69-a518-c429f487e8af_5_U002c5_2.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/7f/02/c87f021c-4ba0-58fa-63bc-89eeef9d1769/cf12c6df-059e-4690-9093-4962a28847e5_5_U002c5_3.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/ad/b8/1badb8d1-8b62-60ee-6cc3-ccb4f5b80736/bd0716e8-b963-4b7d-8f64-461e0d36e2f4_6_U002c1_3.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/68/79/726879e3-a3b9-5a5e-106e-e11d60b51c9a/99c24cfe-779d-4b40-9067-dfd5fc4f223d_6_U002c1_2.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/3b/b2/b23bb288-94c1-2143-55de-741dc65cdbb7/21c0050f-ef23-43b5-8d06-6a8a90b02bcf_6_U002c1_1.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/60/09/27600994-a3ad-1c9a-7dac-2716483c565d/2a1a6a86-fb81-4100-ba25-c7263ae7cafa_5_U002c5_1.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/32/af/2c32af90-6ebf-d6da-4a44-26d98400e465/6bafddf2-3582-4f69-a518-c429f487e8af_5_U002c5_2.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/7f/02/c87f021c-4ba0-58fa-63bc-89eeef9d1769/cf12c6df-059e-4690-9093-4962a28847e5_5_U002c5_3.jpg/392x696bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/4a/0c/444a0c67-786f-da44-9850-f84a63ef3af5/44ca4c90-78ba-4adb-9b5f-24db4ced6252_incoming-798623E3-8520-4F0D-859B-B64BCBFFDDC9.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/22/60/6322607b-ebff-aa08-af95-eab24530de2e/9222135c-e7ad-44fb-a751-adc5e36cd3e0_incoming-8B6934DF-F3AF-4E6E-A3B4-364BEE6C0FD1.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/a1/57/b6a15797-84b1-c696-1658-164032f7b87d/458ba4a8-5312-474f-8373-e4bb5a40c808_incoming-2C66FEB0-2EF2-4319-A5DA-9779A9B78570.PNG/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2024-10-01T07:00:00Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T08:59:31.909Z",
+  "isOwnApp": false
+}

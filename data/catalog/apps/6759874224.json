@@ -226,7 +226,18 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/bd/5f/bcbd5fa5-f53f-67a2-b047-712e3f22822b/03-invaders.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/63/62/d4636214-d885-6e75-b018-2e0a8f724099/05-brickbreak.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/1d/dc/691ddcf2-763f-1da6-9128-2ed99764fd16/02-snake.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ab/93/c0ab935d-d169-f199-a594-77a3d05bb3a4/04-memory.png/1320x2868bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ab/93/c0ab935d-d169-f199-a594-77a3d05bb3a4/04-memory.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/10/71/961071bc-22f1-e34b-2d82-a2cfc89ab3ed/01-hero.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ed/fd/5cedfd14-e9bd-1c9a-c71c-d11661adc643/06-83games.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/bd/5f/bcbd5fa5-f53f-67a2-b047-712e3f22822b/03-invaders.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/63/62/d4636214-d885-6e75-b018-2e0a8f724099/05-brickbreak.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/1d/dc/691ddcf2-763f-1da6-9128-2ed99764fd16/02-snake.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ab/93/c0ab935d-d169-f199-a594-77a3d05bb3a4/04-memory.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/59/b8/5a59b81f-7a42-eca5-2520-c82ecf1e1cc2/01-hero.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/c7/9a/9ec79ad2-857b-e346-1585-ed3896dc3ade/06-83games.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/f5/fd/a3f5fd1a-e2b7-5475-31ac-f79444d6920d/03-invaders.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/90/f5/8d90f59f-6bbf-5359-2750-1fe0b609d367/04-memory.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/23/63/46236363-c66b-ac05-d89a-dee94d8be89d/02-snake.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/a8/2f/11a82fb9-eb7e-50a9-3cd6-72b9d368bcf2/01-gamelist.png/416x496bb.png",
@@ -244,6 +255,6 @@
       "seenAt": "2026-03-18T06:08:20Z"
     }
   ],
-  "updatedAt": "2026-08-04T03:45:50.662Z",
+  "updatedAt": "2026-08-04T08:56:28.731Z",
   "isOwnApp": false
 }

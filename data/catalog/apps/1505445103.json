@@ -1,0 +1,389 @@
+{
+  "trackId": "1505445103",
+  "bundleId": "com.aw.slot3D",
+  "slug": "milano-poker-tien-len-ta-la",
+  "path": "/apps/1505445103-milano-poker-tien-len-ta-la/",
+  "locales": {
+    "en": {
+      "trackName": "Milano Poker: Tien Len & Ta La",
+      "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
+      "releaseNotes": "Improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/us/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Entertainment",
+        "Casino"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Play Phom Mau Binh Zing & Slot"
+    },
+    "ja": {
+      "trackName": "Milano Poker: Tien Len & Ta La",
+      "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
+      "releaseNotes": "Improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "シミュレーション",
+        "エンターテインメント",
+        "カジノ"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Milano Poker: Tien Len & Ta La",
+      "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
+      "releaseNotes": "Improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/de/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Simulation",
+        "Unterhaltung",
+        "Casino"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/b0/33/eeb03301-788d-3cf9-3ed5-68bc582bde7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "186081280",
+  "contentAdvisoryRating": "17+",
+  "minimumOsVersion": "15.6",
+  "version": "2.11",
+  "currentVersionReleaseDate": "2025-03-24T13:41:26Z",
+  "releaseDate": "2020-04-16T07:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/54/63/0e546302-eb24-6c84-7db6-27142dacca47/431f1668-21cb-4aa3-9c71-f813da59c401_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/2f/22/c02f2297-15c7-7ea7-d9ee-ed8dde8636a5/7f06b0e4-541f-42e0-9727-eafbaa1e2a86_Ipad.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/6b/a7/b96ba7b4-37bc-643d-0fbe-886dc7d88925/8f04933a-a97f-489c-8fac-f8409a7bbdf0_ipad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/30/05/2d3005f6-ee2e-e7f5-5072-8741f584d817/8511523b-8361-47ee-b4e0-cb8e02cd83b9_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/19/01a819b7-04a6-c6b5-a6cf-f38f4e9b0127/ef21db58-8e90-4335-bbd9-a9f210c5680f_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/59/9f/cc599ffb-e66d-0626-08a0-9dc6369f6835/5f1bdcce-3136-46af-9cc9-5fd32fc6d260_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/b5/f2/b3b5f20c-1536-a6c5-7bc7-ff3eb9db0ad9/ab89520e-b8be-4012-a92a-71061c141107_Ipadf.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/79/54/f7795488-55da-9e05-6e91-280fa388d832/b00b4a7d-ffc3-4d15-b205-48b3c873fc0e_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c8/46/59c84665-56f4-1a9f-18d3-14bc6270ad79/2a55bfba-07af-4f08-87c5-f220f460de4a_Ipad.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/61/00/0e6100fc-830b-fd05-f7e0-81273a1d08e3/33aea613-0884-4902-988b-a11da9992f14_ipad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/7b/2c/387b2cd3-dc0a-22da-061c-bd19b898de2d/ea88ce9a-71f1-46ab-a0cb-bef0448e7312_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/96/24/9e96243a-f5dc-a903-b106-d67d890ba22c/c13c308b-2015-4f38-ab15-7e89f47c60da_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/a9/69/83a96904-50b2-b361-cb5c-93023aea0a3c/9d983059-f005-4bb4-b6e3-f78bb281c127_IpadEn.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/02/7c/20027ce9-ac23-576c-830b-da823c8b5f6a/c66827cb-0605-4a52-b721-42fc78e246c9_Ipadf.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/ee/98/6bee987f-a582-b55e-6fe6-9627de118b93/162ec6eb-1ebb-450c-9312-b2527ace33de_5.5En.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/ea/16/aaea16be-202b-64a9-5bfb-1a87c33311e4/3cb9a8e5-a259-49c5-a380-73b3b8e5053e_5.5En.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/7f/38/ed7f38f0-8b69-7752-08b1-c8079db5afd4/724ec976-799e-4f8a-a2b7-c37409f2dd71_5.5En.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/d4/b5/72d4b554-92c5-114d-a51c-799dad50cb61/c66a9810-e24d-4327-8c98-ba1e2e61f872_5.5.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/bf/ac/cebfac34-116c-ebf8-52e5-6ccf5ac21516/e24797f2-34e1-4019-9bac-0e3beedcdc65_5.5-3.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ec/08/ceec0846-f86f-db80-dc84-d05ef2f4525b/12630baf-ac23-4cf5-a276-dc92a1c2f048_5.5-4.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/e5/ba/12e5bac7-2ee8-6528-bcfb-7500f67b0437/83786804-5bd1-431c-9593-c923972d9d1a_5.5En.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/1c/a7/a61ca792-5eab-0ea0-d9da-45cab7cb335a/1ba10635-5d1b-4751-b119-97dca66ba171_6.5En.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/2d/00/462d005e-4e2d-ea08-f35a-cfff5ca29ad3/5e9c2502-3671-4e3f-9999-0c2e5c6d0af8_6.5En.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/09/46/4809463a-346e-1d71-cac9-c676f128ddb4/0cbfee35-5158-4c41-9aaa-7d41fab6455a_6.5En.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/78/0f/89780f7d-79df-04df-dadd-9ba3052b3bf4/1c143f9f-6ad1-4fb1-8de7-acf3c2e21440_6.5.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/d1/78/75d1786b-5e5f-7932-a528-8a18f8bf0888/4769b165-343b-49eb-8f9e-bfa3783096a5_6.5-3.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/9d/e4/529de425-7bdf-d620-f1c3-b005b245e380/15bfe613-28c0-4bc4-81f0-a789e48a8978_6.5-4.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/b7/d1/58b7d135-eaab-c9c5-f3a7-c7a6ac30988b/5472956b-c198-4343-af69-83c1af3fa603_6.5En.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/b4/95/2eb4956f-40ea-a08f-6508-622c6ccee721/a30c872f-f2d9-4b4e-8f61-92ec775cbb31_6.7.4.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a5/82/4da58203-5ef7-df7e-3beb-54397cadb4a0/4331d66a-29f8-460e-a511-ebb4cf4c9911_6.7.5.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/2a/45/0a2a45a2-4414-c05c-4c63-ea6801e5ce6c/201d042a-f908-4934-977b-cd047bcc7d55_6.7.1.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/0f/22/c60f223f-f9ba-5607-6cb5-bdb1e911be3b/de424692-bc5a-4933-b37c-c1551687dc71_6.7.2.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/65/06/ef6506fa-9a1c-6262-85b8-a33a277dd8e9/b4ebbeb8-bc57-4256-addf-228bed71a724_6.7.3.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/df/e0/3cdfe051-3e9f-86d2-aa8b-2f527b1a7619/f003636e-3d06-40b1-8446-85a2b2064b20_6.7.7.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/e9/e8/3ce9e8f3-5a45-fc38-4131-05e2981c5a7a/fe89a0ac-8c56-4cac-8381-0723a60e8999_6.7.6.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/ee/98/6bee987f-a582-b55e-6fe6-9627de118b93/162ec6eb-1ebb-450c-9312-b2527ace33de_5.5En.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/ea/16/aaea16be-202b-64a9-5bfb-1a87c33311e4/3cb9a8e5-a259-49c5-a380-73b3b8e5053e_5.5En.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/7f/38/ed7f38f0-8b69-7752-08b1-c8079db5afd4/724ec976-799e-4f8a-a2b7-c37409f2dd71_5.5En.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/d4/b5/72d4b554-92c5-114d-a51c-799dad50cb61/c66a9810-e24d-4327-8c98-ba1e2e61f872_5.5.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/bf/ac/cebfac34-116c-ebf8-52e5-6ccf5ac21516/e24797f2-34e1-4019-9bac-0e3beedcdc65_5.5-3.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ec/08/ceec0846-f86f-db80-dc84-d05ef2f4525b/12630baf-ac23-4cf5-a276-dc92a1c2f048_5.5-4.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/e5/ba/12e5bac7-2ee8-6528-bcfb-7500f67b0437/83786804-5bd1-431c-9593-c923972d9d1a_5.5En.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/54/63/0e546302-eb24-6c84-7db6-27142dacca47/431f1668-21cb-4aa3-9c71-f813da59c401_IpadEn.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/2f/22/c02f2297-15c7-7ea7-d9ee-ed8dde8636a5/7f06b0e4-541f-42e0-9727-eafbaa1e2a86_Ipad.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/6b/a7/b96ba7b4-37bc-643d-0fbe-886dc7d88925/8f04933a-a97f-489c-8fac-f8409a7bbdf0_ipad3.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/30/05/2d3005f6-ee2e-e7f5-5072-8741f584d817/8511523b-8361-47ee-b4e0-cb8e02cd83b9_IpadEn.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/19/01a819b7-04a6-c6b5-a6cf-f38f4e9b0127/ef21db58-8e90-4335-bbd9-a9f210c5680f_IpadEn.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/59/9f/cc599ffb-e66d-0626-08a0-9dc6369f6835/5f1bdcce-3136-46af-9cc9-5fd32fc6d260_IpadEn.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/b5/f2/b3b5f20c-1536-a6c5-7bc7-ff3eb9db0ad9/ab89520e-b8be-4012-a92a-71061c141107_Ipadf.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/1f/db/281fdb2b-7a4f-9a0b-5dc6-3f687e68d28d/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/7f/81/d87f81ff-980f-932a-279c-b2412d60803c/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/cb/dd/15cbdd00-21ce-8560-f78e-a15160eac5a4/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/31/f1/9431f166-53f2-7b09-3fc4-e5b474ea55f1/pr_source.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "releaseNotes": "",
+      "seenAt": "2020-04-16T17:26:03Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "* Optimize for Apple Watch and iPhone\n* Add background music",
+      "seenAt": "2020-04-17T18:46:07Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "- Minor bug fixes.",
+      "seenAt": "2020-04-26T22:12:38Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "* Optimize for Apple Watch and iPhone",
+      "seenAt": "2020-04-29T21:59:04Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "+ Optimize performance on Apple Watch\n+ Slot on phone and tablet change to landscape view for better experiences",
+      "seenAt": "2021-09-08T17:27:46Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "* Watch ads on Phone now add money to Apple Watch\n* Add poker gameplay on iPad and iPhone",
+      "seenAt": "2021-09-13T18:11:08Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "* Optimize performance on Apple Watch\n* Add Hong Kong Poker rule\n* Improve home screen graphics",
+      "seenAt": "2021-09-18T07:52:46Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "* Improve performance on watch\n* Add some play rules",
+      "seenAt": "2021-09-30T19:52:48Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Add Flush gameplay",
+      "seenAt": "2021-10-06T17:44:29Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "* sharper icon\n* better localization",
+      "seenAt": "2021-10-11T11:28:27Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "* improve GUI",
+      "seenAt": "2021-11-10T01:26:51Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "Optimize game speed.",
+      "seenAt": "2021-12-31T13:02:53Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "Add more bonuses.",
+      "seenAt": "2022-12-07T19:51:26Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Update private policy link.",
+      "seenAt": "2022-12-14T18:11:33Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "*** Improve graphics ***",
+      "seenAt": "2023-03-26T08:25:05Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Optimize performance.",
+      "seenAt": "2023-12-14T10:29:02Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Log in via Gmail.",
+      "seenAt": "2023-12-28T19:36:11Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2024-08-21T20:20:25Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Add log in via Facebook.",
+      "seenAt": "2024-08-22T12:01:23Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Halloween theme.",
+      "seenAt": "2024-09-13T07:29:56Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Fix a crash bug when app is inactive.\nFix a graphical bug when sorting the cards.",
+      "seenAt": "2024-09-30T22:45:32Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Fix a crash bug.",
+      "seenAt": "2024-10-14T13:05:03Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "Improve stability, fix crash bugs.",
+      "seenAt": "2024-10-24T13:33:00Z"
+    },
+    {
+      "version": "2.11",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2025-03-24T13:41:26Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:18:57.569Z",
+  "isOwnApp": false
+}

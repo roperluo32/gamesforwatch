@@ -1,0 +1,284 @@
+{
+  "trackId": "6740138610",
+  "bundleId": "net.kusik.wristchess",
+  "slug": "wrist-chess",
+  "path": "/apps/6740138610-wrist-chess/",
+  "locales": {
+    "en": {
+      "trackName": "Wrist Chess",
+      "description": "Play Online with Lichess\nConnect with millions of chess players from around the world with Lichess online play. Challenge your friends or find a random opponent with the same skill level.\n\nPlay Offline Against Stockfish\nChallenge yourself offline with games against the Stockfish engine. No internet? No problem. Hone your skills against a strong opponent even when you’re on the go.\n\nDive into Chess Puzzles\nSharpen your tactics with a diverse range of chess puzzles. Whether you’re warming up for a game or just challenging yourself, these puzzles are sure to test and enhance your skills.\n\nWatch Lichess TV and Channels\nSpectate Lichess TV and channels to catch ongoing games and content. Get insights into various matches and styles of play, all without leaving your wrist.\n\nTune into Tournament Broadcasts\nStay updated with live broadcasts of chess tournaments. Follow the strategies, tactics, and tension of competitive play, all from the convenience of your watch.\n\nFollow Your Preferred Lichess Players\nKeep tabs on your favorite Lichess players. Receive notifications about their latest moves and stay in the loop with their progress and games.\n\nDive into the chess universe with our Chess App for watchOS. Download now for a comprehensive, on-the-go chess experience.",
+      "releaseNotes": "Fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/us/app/wrist-chess/id6740138610?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Lukas Kusik",
+      "genres": [
+        "Games",
+        "Board"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Play Chess on your watch"
+    },
+    "zh": {
+      "trackName": "Wrist Chess",
+      "description": "Play Online with Lichess\nConnect with millions of chess players from around the world with Lichess online play. Challenge your friends or find a random opponent with the same skill level.\n\nPlay Offline Against Stockfish\nChallenge yourself offline with games against the Stockfish engine. No internet? No problem. Hone your skills against a strong opponent even when you’re on the go.\n\nDive into Chess Puzzles\nSharpen your tactics with a diverse range of chess puzzles. Whether you’re warming up for a game or just challenging yourself, these puzzles are sure to test and enhance your skills.\n\nWatch Lichess TV and Channels\nSpectate Lichess TV and channels to catch ongoing games and content. Get insights into various matches and styles of play, all without leaving your wrist.\n\nTune into Tournament Broadcasts\nStay updated with live broadcasts of chess tournaments. Follow the strategies, tactics, and tension of competitive play, all from the convenience of your watch.\n\nFollow Your Preferred Lichess Players\nKeep tabs on your favorite Lichess players. Receive notifications about their latest moves and stay in the loop with their progress and games.\n\nDive into the chess universe with our Chess App for watchOS. Download now for a comprehensive, on-the-go chess experience.",
+      "releaseNotes": "Fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/cn/app/wrist-chess/id6740138610?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Lukas Kusik",
+      "genres": [
+        "游戏",
+        "桌面"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Wrist Chess",
+      "description": "Play Online with Lichess\nConnect with millions of chess players from around the world with Lichess online play. Challenge your friends or find a random opponent with the same skill level.\n\nPlay Offline Against Stockfish\nChallenge yourself offline with games against the Stockfish engine. No internet? No problem. Hone your skills against a strong opponent even when you’re on the go.\n\nDive into Chess Puzzles\nSharpen your tactics with a diverse range of chess puzzles. Whether you’re warming up for a game or just challenging yourself, these puzzles are sure to test and enhance your skills.\n\nWatch Lichess TV and Channels\nSpectate Lichess TV and channels to catch ongoing games and content. Get insights into various matches and styles of play, all without leaving your wrist.\n\nTune into Tournament Broadcasts\nStay updated with live broadcasts of chess tournaments. Follow the strategies, tactics, and tension of competitive play, all from the convenience of your watch.\n\nFollow Your Preferred Lichess Players\nKeep tabs on your favorite Lichess players. Receive notifications about their latest moves and stay in the loop with their progress and games.\n\nDive into the chess universe with our Chess App for watchOS. Download now for a comprehensive, on-the-go chess experience.",
+      "releaseNotes": "Fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/jp/app/wrist-chess/id6740138610?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Lukas Kusik",
+      "genres": [
+        "ゲーム",
+        "ボード"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Wrist Chess",
+      "description": "Play Online with Lichess\nConnect with millions of chess players from around the world with Lichess online play. Challenge your friends or find a random opponent with the same skill level.\n\nPlay Offline Against Stockfish\nChallenge yourself offline with games against the Stockfish engine. No internet? No problem. Hone your skills against a strong opponent even when you’re on the go.\n\nDive into Chess Puzzles\nSharpen your tactics with a diverse range of chess puzzles. Whether you’re warming up for a game or just challenging yourself, these puzzles are sure to test and enhance your skills.\n\nWatch Lichess TV and Channels\nSpectate Lichess TV and channels to catch ongoing games and content. Get insights into various matches and styles of play, all without leaving your wrist.\n\nTune into Tournament Broadcasts\nStay updated with live broadcasts of chess tournaments. Follow the strategies, tactics, and tension of competitive play, all from the convenience of your watch.\n\nFollow Your Preferred Lichess Players\nKeep tabs on your favorite Lichess players. Receive notifications about their latest moves and stay in the loop with their progress and games.\n\nDive into the chess universe with our Chess App for watchOS. Download now for a comprehensive, on-the-go chess experience.",
+      "releaseNotes": "Fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/de/app/wrist-chess/id6740138610?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Lukas Kusik",
+      "genres": [
+        "Spiele",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e0/22/71e02202-b28e-ed9a-45b9-8e26c9053547/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "28754944",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.3",
+  "version": "1.2.4",
+  "currentVersionReleaseDate": "2026-05-04T18:20:04Z",
+  "releaseDate": "2025-01-08T08:00:00Z",
+  "artistId": 1788479563,
+  "artistName": "Lukas Kusik",
+  "artistViewUrl": "https://apps.apple.com/de/developer/lukas-kusik/id1788479563?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/be/87/3ebe8728-ef4e-cff2-db51-f3e891835208/simulator_screenshot_9172E771-E854-40F2-BDEA-5C7E3FEFC483.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/4d/67/f94d674e-a97f-3459-e7df-e9cb134817e0/simulator_screenshot_3BA29EB2-6C7D-4730-B2E7-7E16186ACDA6.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/01/71/840171f7-206d-0fee-953c-29dd9b56ac76/simulator_screenshot_E8C52FD6-4100-401E-940D-1398CB5929E9.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/33/ee/9133eebb-42c6-50c5-69c6-712a8f789d96/simulator_screenshot_A7C425B5-37CA-4B2F-BAB3-5778FEA72561.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2025-01-08T09:08:23Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "Bug fixes for improved stability",
+      "seenAt": "2025-01-09T21:00:10Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2025-01-21T22:16:26Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Online games on Lichess are now enabled",
+      "seenAt": "2025-04-08T14:44:28Z"
+    },
+    {
+      "version": "1.1.1",
+      "releaseNotes": "Online game fixes",
+      "seenAt": "2025-06-01T22:05:11Z"
+    },
+    {
+      "version": "1.1.2",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2025-07-07T23:39:41Z"
+    },
+    {
+      "version": "1.1.3",
+      "releaseNotes": "Crash fix attempt",
+      "seenAt": "2025-09-08T15:12:54Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "Added Puzzles and the ability to login using a token",
+      "seenAt": "2025-10-06T20:42:52Z"
+    },
+    {
+      "version": "1.2.2",
+      "releaseNotes": "Fix crash after finishing game",
+      "seenAt": "2025-11-22T23:19:29Z"
+    },
+    {
+      "version": "1.2.3",
+      "releaseNotes": "Increased Chessboard size",
+      "seenAt": "2025-12-30T00:21:54Z"
+    },
+    {
+      "version": "1.2.4",
+      "releaseNotes": "Fixes and improvements",
+      "seenAt": "2026-05-04T18:20:04Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:07:55.546Z",
+  "isOwnApp": false
+}

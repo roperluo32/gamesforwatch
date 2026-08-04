@@ -1,0 +1,389 @@
+{
+  "trackId": "6753201660",
+  "bundleId": "com.aw.hexa",
+  "slug": "hexa-jam-block-escape",
+  "path": "/apps/6753201660-hexa-jam-block-escape/",
+  "locales": {
+    "en": {
+      "trackName": "Hexa Jam: block escape",
+      "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
+      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "trackViewUrl": "https://apps.apple.com/us/app/hexa-jam-block-escape/id6753201660?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Casual",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Solve stuck brain puzzles away"
+    },
+    "zh": {
+      "trackName": "Hexa Jam: block escape",
+      "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
+      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/hexa-jam-block-escape/id6753201660?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "益智解谜",
+        "休闲",
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Hexa Jam: block escape",
+      "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
+      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/hexa-jam-block-escape/id6753201660?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "カジュアル",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Hexa Jam: block escape",
+      "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
+      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "trackViewUrl": "https://apps.apple.com/de/app/hexa-jam-block-escape/id6753201660?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Gelegenheits­spiele",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/2b/ae/782bae39-6d4b-ad00-12dd-2f188973d8ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 2,
+  "price": 0,
+  "fileSizeBytes": "31760384",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "2.2.5",
+  "currentVersionReleaseDate": "2026-06-25T23:11:24Z",
+  "releaseDate": "2025-10-01T07:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/be/6c/20be6c24-c4ef-b521-6cf5-8934a9e54e60/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/eb/1b/26eb1ba4-a1e1-489e-f0b4-3f56f0f45fd3/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/e2/44bae283-5f17-dc43-d2ae-0ffe8eb82e3f/ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/9d/53/f99d53d8-2b3e-bd64-be85-2d38ffe25c07/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/3e/80/363e80d3-3cc9-957d-3d1b-0408e723877f/ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/97/91/9a9791c8-8fef-b483-332d-61e150d7f09a/ipad6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/14/4b/f5144b12-8846-d7c9-5c65-8d49efbf942c/ipad8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/0d/67/550d6736-f61b-8a9f-44d4-91640dc6e26b/ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/01/7b/4c017b8d-909b-5f92-d1eb-6b2e3644dd3b/ipad9.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/d7/50/59d750e9-8d17-81fa-0dcc-f1ce115f05c5/6.5-1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/01/8c/9c018cbb-eaf6-3562-b3c5-e232a0b97826/6.5-2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/79/98/5e7998f3-dccb-f0cc-6d3f-498edf322d3b/6.5-4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/a1/a2/3da1a251-24a4-b086-afe0-7589b61266cc/6.5-3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/36/b2/9536b205-466c-6869-57c9-9399ff015f5a/6.5-5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/ae/c8/94aec836-243c-84fc-809a-4c5847502477/6.5-6.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/64/9e/fd649e10-bfea-5b9c-bd87-9aa1ed4132df/6.5-8.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d2/33/bcd23356-851d-6cd6-2f87-35b63e23b895/6.5-7.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/63/b2/6963b2f5-a2af-ec9b-1410-e994f853955a/6.5-9.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/d7/50/59d750e9-8d17-81fa-0dcc-f1ce115f05c5/6.5-1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/01/8c/9c018cbb-eaf6-3562-b3c5-e232a0b97826/6.5-2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/79/98/5e7998f3-dccb-f0cc-6d3f-498edf322d3b/6.5-4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/a1/a2/3da1a251-24a4-b086-afe0-7589b61266cc/6.5-3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/36/b2/9536b205-466c-6869-57c9-9399ff015f5a/6.5-5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/ae/c8/94aec836-243c-84fc-809a-4c5847502477/6.5-6.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/64/9e/fd649e10-bfea-5b9c-bd87-9aa1ed4132df/6.5-8.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d2/33/bcd23356-851d-6cd6-2f87-35b63e23b895/6.5-7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/63/b2/6963b2f5-a2af-ec9b-1410-e994f853955a/6.5-9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/be/6c/20be6c24-c4ef-b521-6cf5-8934a9e54e60/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/eb/1b/26eb1ba4-a1e1-489e-f0b4-3f56f0f45fd3/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/e2/44bae283-5f17-dc43-d2ae-0ffe8eb82e3f/ipad4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/9d/53/f99d53d8-2b3e-bd64-be85-2d38ffe25c07/ipad3.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/3e/80/363e80d3-3cc9-957d-3d1b-0408e723877f/ipad5.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/97/91/9a9791c8-8fef-b483-332d-61e150d7f09a/ipad6.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/14/4b/f5144b12-8846-d7c9-5c65-8d49efbf942c/ipad8.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/0d/67/550d6736-f61b-8a9f-44d4-91640dc6e26b/ipad7.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/01/7b/4c017b8d-909b-5f92-d1eb-6b2e3644dd3b/ipad9.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/9b/9e/6c9b9e59-eed3-6a7a-2a77-ba7907b5cdde/watch1.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/87/7a/d9877aea-88ba-319b-8702-efac6d79b5af/watch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/e4/fe/68e4fe69-cf61-5697-c82e-d14c29e4a980/watch4.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/e3/4f/c8e34f80-3bbe-76b5-74b3-cb5352422aff/watch3.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a3/27/e1a3270d-56ec-358f-27e7-2b7526cde269/watch5.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/8f/62/008f6269-2487-4036-c6a6-325fab009371/watch9.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/e4/f7/48e4f786-d64f-d440-f614-969743e8e3d8/watch7.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/cc/0a/31cc0a60-56f9-179e-91d9-e25118f7011d/watch6.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/57/5f/6c575ff6-9e85-5d7c-06e4-025354a5f5a7/watch8.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2025-10-01T16:26:25Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "+ Add more levels.\n+ Improve sound and graphics.",
+      "seenAt": "2025-10-03T03:01:14Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "NEW GAMEPLAY: introduce Ice Brick and add more levels.",
+      "seenAt": "2025-10-08T16:01:00Z"
+    },
+    {
+      "version": "1.0.5",
+      "releaseNotes": "* NEW GAMEPLAY: swap bricks.\n* Add more levels.",
+      "seenAt": "2025-10-13T22:06:39Z"
+    },
+    {
+      "version": "1.0.7",
+      "releaseNotes": "NEW GAMEPLAY: The Bomb block. It counts down everytime a brick is crushed.",
+      "seenAt": "2025-10-19T07:03:57Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "NEW GAMEPLAY: Introduce the Rotate Block.",
+      "seenAt": "2025-10-25T00:51:42Z"
+    },
+    {
+      "version": "1.0.9",
+      "releaseNotes": "* Add 10 more levels.\n* Add Quick restart and lightning power up.",
+      "seenAt": "2025-11-02T09:41:17Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "* Add 10 more levels.\n* Add Quick restart and lightning power up.",
+      "seenAt": "2025-11-03T08:46:49Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2025-11-12T20:26:14Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "* Add more levels.\r\n* Improve graphics.",
+      "seenAt": "2025-11-19T18:41:59Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "* NEW GAMEPLAY: Introduce Half-Ice Bricks.\n* Add 15 more levels.",
+      "seenAt": "2025-12-04T19:57:17Z"
+    },
+    {
+      "version": "2.0.4",
+      "releaseNotes": "Add ten new levels.",
+      "seenAt": "2025-12-16T01:32:23Z"
+    },
+    {
+      "version": "2.0.5",
+      "releaseNotes": "* NEW GAMEPLAY: introduce Black brick.\n* Add new 7 levels.",
+      "seenAt": "2025-12-18T13:48:43Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "* Introduce new Gameplay: the Rotate Brick.\n* Add 05 new levels.",
+      "seenAt": "2025-12-27T01:15:06Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Add new levels.",
+      "seenAt": "2025-12-29T04:02:10Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2026-01-02T02:49:32Z"
+    },
+    {
+      "version": "2.1.4",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2026-01-05T23:56:22Z"
+    },
+    {
+      "version": "2.1.8",
+      "releaseNotes": "* Add more levels.\n* New levels will be downloaded daily.",
+      "seenAt": "2026-01-06T22:25:02Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "Introduce new gameplay: the PORTAL bricks.",
+      "seenAt": "2026-04-03T22:15:07Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2026-04-05T23:45:31Z"
+    },
+    {
+      "version": "2.2.3",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2026-05-04T17:01:37Z"
+    },
+    {
+      "version": "2.2.5",
+      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "seenAt": "2026-06-25T23:11:24Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:19:06.209Z",
+  "isOwnApp": false
+}

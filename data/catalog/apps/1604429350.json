@@ -1,0 +1,332 @@
+{
+  "trackId": "1604429350",
+  "bundleId": "com.lizapps.wordle",
+  "slug": "wordfully-word-puzzles",
+  "path": "/apps/1604429350-wordfully-word-puzzles/",
+  "locales": {
+    "en": {
+      "trackName": "Wordfully - Word Puzzles",
+      "description": "Guess a small word with just a handful of letters. It's popular, fun, & challenging!\nPlay relaxed, or try the 10-Second Challenge Mode! The game gets nerve-wracking with only 10 seconds to make a guess - try it now!\nWordfully's other great features include:\n- 6- and 7-letter words, for more challenge\n- an option to reveal the first letter in gameplay\n- an option to eliminate words with repeating letters\n- three different display themes: light, dark, and tropical\nAnd Wordfully always lets you play more than one game a day. With over 15,000 words to guess, you'll never run out.\nThe word list is curated - no proper nouns or offensive language.\nPlay as much as you want, with as much challenge as you like! Download now!\n\nHow the game works - every time you make a guess, the letter color tells you how close you are to finding the solution:\n- If the letter is grey, it is not part of the word\n- If the letter is orange, it *is* part of the word, but not in the right place\n- If the letter is green, it is part of the word and in the right place too",
+      "releaseNotes": "Send a challenge to anyone!",
+      "trackViewUrl": "https://apps.apple.com/us/app/wordfully-word-puzzles/id1604429350?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Elizabeth Ashley",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Word",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Unlimited word guessing games!"
+    },
+    "ja": {
+      "trackName": "Wordfully - Word Puzzles",
+      "description": "Guess a small word with just a handful of letters. It's popular, fun, & challenging!\nPlay relaxed, or try the 10-Second Challenge Mode! The game gets nerve-wracking with only 10 seconds to make a guess - try it now!\nWordfully's other great features include:\n- 6- and 7-letter words, for more challenge\n- an option to reveal the first letter in gameplay\n- an option to eliminate words with repeating letters\n- three different display themes: light, dark, and tropical\nAnd Wordfully always lets you play more than one game a day. With over 15,000 words to guess, you'll never run out.\nThe word list is curated - no proper nouns or offensive language.\nPlay as much as you want, with as much challenge as you like! Download now!\n\nHow the game works - every time you make a guess, the letter color tells you how close you are to finding the solution:\n- If the letter is grey, it is not part of the word\n- If the letter is orange, it *is* part of the word, but not in the right place\n- If the letter is green, it is part of the word and in the right place too",
+      "releaseNotes": "Send a challenge to anyone!",
+      "trackViewUrl": "https://apps.apple.com/jp/app/wordfully-word-puzzles/id1604429350?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Elizabeth Ashley",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "単語",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Wordfully - Word Puzzles",
+      "description": "Guess a small word with just a handful of letters. It's popular, fun, & challenging!\nPlay relaxed, or try the 10-Second Challenge Mode! The game gets nerve-wracking with only 10 seconds to make a guess - try it now!\nWordfully's other great features include:\n- 6- and 7-letter words, for more challenge\n- an option to reveal the first letter in gameplay\n- an option to eliminate words with repeating letters\n- three different display themes: light, dark, and tropical\nAnd Wordfully always lets you play more than one game a day. With over 15,000 words to guess, you'll never run out.\nThe word list is curated - no proper nouns or offensive language.\nPlay as much as you want, with as much challenge as you like! Download now!\n\nHow the game works - every time you make a guess, the letter color tells you how close you are to finding the solution:\n- If the letter is grey, it is not part of the word\n- If the letter is orange, it *is* part of the word, but not in the right place\n- If the letter is green, it is part of the word and in the right place too",
+      "releaseNotes": "Send a challenge to anyone!",
+      "trackViewUrl": "https://apps.apple.com/de/app/wordfully-word-puzzles/id1604429350?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Elizabeth Ashley",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Wortspiele",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/2a/a6/292aa635-7517-4e12-23a9-002bc677e9ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.70536,
+  "userRatingCount": 112,
+  "price": 0,
+  "fileSizeBytes": "22550528",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "18.6",
+  "version": "3.0",
+  "currentVersionReleaseDate": "2026-03-27T02:39:09Z",
+  "releaseDate": "2022-01-13T08:00:00Z",
+  "artistId": 1604429352,
+  "artistName": "Elizabeth Ashley",
+  "artistViewUrl": "https://apps.apple.com/de/developer/elizabeth-ashley/id1604429352?uo=4",
+  "sellerUrl": "https://wordfully.app",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/73/2e/bf732e3f-3159-4168-70c2-62207a746523/72a67abc-4e55-4110-aba0-9ebcae15bbc3_unl_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/36/c2/a836c27f-4a21-70ee-6f33-2855c90dff34/36e73f76-7771-4bd7-8614-cbeeff78c2e8_dl_now_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/fe/06/d6fe06d6-cb93-d4ca-984a-960f14352ad8/01_game_ipad-13.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/58/79/fa5879e2-fd68-93cc-fcbc-153da1fc1f8c/02_challenge_ipad-13.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/d7/d0/d9d7d000-979c-f0b2-48d1-8568be68ce42/03_download_ipad-13.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/2e/c8/422ec8c1-b059-83e4-8e3d-dd4e19e0f4a4/aecea3b8-64c8-416b-92a1-44809402d8b1_unl_55.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/21/f0/cc21f09d-bb01-8c72-6852-e5443703b1b0/38af158b-8cd4-431d-af8d-ea661114bbb0_download55.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/db/01/51db0121-5e1e-b7a2-b1b0-404a85da0486/01_game_6.5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/3c/23/df3c23a8-217c-8219-00f5-f430d7e07040/02_challenge_6.5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/0c/20/020c2012-a994-c552-6afe-c758a2e57046/03_gameplay_6.5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/2e/c8/422ec8c1-b059-83e4-8e3d-dd4e19e0f4a4/aecea3b8-64c8-416b-92a1-44809402d8b1_unl_55.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/21/f0/cc21f09d-bb01-8c72-6852-e5443703b1b0/38af158b-8cd4-431d-af8d-ea661114bbb0_download55.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/73/2e/bf732e3f-3159-4168-70c2-62207a746523/72a67abc-4e55-4110-aba0-9ebcae15bbc3_unl_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/36/c2/a836c27f-4a21-70ee-6f33-2855c90dff34/36e73f76-7771-4bd7-8614-cbeeff78c2e8_dl_now_ipad.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/cc/6f/38cc6f18-8060-3a89-0aff-833f30857d57/incoming-270BE7E3-01B0-43D3-97A6-295BBF4555BF.PNG/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/06/40/b30640e0-b9ff-1d0a-1aa0-bec6a640c794/incoming-DEA05FDC-5EBD-4B7C-8B3E-C04F8874C327.PNG/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2022-01-13T10:51:54Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Version 1.1 adds 6- and 7- letter word gameplay, in addition to the 5-letter words already included. There are now over 15,000 words to guess in the curated Wordlets dictionary of 5-, 6-, and 7-letter words.\nVersion 1.1 gives players an unlimited number of tries to guess the word.  Players can use statistics to track the efficiency of their guesses.\nVersion 1.1 adds individual player statistics on the number of games played and the average number of tries to guess 5-, 6- and 7-letter games.\nVersion 1.1 adds a colorblind mode, changing green blocks to blue for those with green color blindness.\n",
+      "seenAt": "2022-01-15T00:24:46Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Version 1.2:\n- name change for the App\n- small visual improvements to add fun: letter tiles flip when they are entered\n- small visual improvements to enhance playability: blue for correctly placed letters, for those with difficulty perceiving shades of green\n- option to reset statistics",
+      "seenAt": "2022-02-18T22:02:13Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Your feedback was clear: more color choices & options to give you the gameplay you're asking for\nWith three different display themes: light, dark, and tropical\nWith an option to eliminate words with repeating letters",
+      "seenAt": "2022-02-24T00:39:27Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "NEW brain-scrambling 10-Second Challenge Mode!\nMore color choices & options, to give you the gameplay you're asking for\nWith three different display themes: light, dark, and tropical\nWith an option to eliminate words with repeating letters",
+      "seenAt": "2022-03-14T20:51:28Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Version 1.5 has minor bug fixes.",
+      "seenAt": "2022-03-30T15:04:03Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "Version 1.6 - small name change; minor bug fixes.",
+      "seenAt": "2022-08-16T09:17:56Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Version 1.7 - changes in color scheme and grid shape",
+      "seenAt": "2022-09-25T15:55:26Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "version 1.8 addresses minor bug fixes",
+      "seenAt": "2022-10-04T17:56:30Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "version 1.9 - various small improvements to the game",
+      "seenAt": "2022-10-18T19:36:03Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "version 2.0 - small bug fixes",
+      "seenAt": "2022-10-18T21:54:41Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "version 2.1 - small appearance improvements",
+      "seenAt": "2022-10-20T16:47:43Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "v 2.2 - bug fixes",
+      "seenAt": "2023-02-09T20:47:31Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "minor bug fixes",
+      "seenAt": "2023-02-18T10:06:07Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "New - Game Center Leaderboard!",
+      "seenAt": "2023-02-18T22:13:16Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "minor bug fixes",
+      "seenAt": "2023-05-07T08:54:11Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "bug fixes for watchOS 10\nbug fixes iOS",
+      "seenAt": "2023-09-24T23:59:05Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "keyboard improvements",
+      "seenAt": "2024-02-16T02:50:36Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "dictionary improvements",
+      "seenAt": "2024-03-01T10:00:02Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Send a challenge to anyone! ",
+      "seenAt": "2026-03-27T02:39:09Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:02:27.945Z",
+  "isOwnApp": false
+}

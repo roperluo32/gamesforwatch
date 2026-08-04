@@ -1,0 +1,385 @@
+{
+  "trackId": "1381145384",
+  "bundleId": "HJW.Magic8Ball",
+  "slug": "modern-magic-ball",
+  "path": "/apps/1381145384-modern-magic-ball/",
+  "locales": {
+    "en": {
+      "trackName": "Modern Magic Ball",
+      "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
+      "releaseNotes": "The video games response topic now comes default with over 1000+ video games!\n- Updated the Emoji response language to include new Emoji!\n- Expanded the Fast Food Places option to include a few of the more fast casual places like Panda Express.\n- Magic Ball now requires iOS 13.0 or later to better manage the codebase.\n- Searching within custom response sets or when editing customizable response topics is now much improved! You can now delete or edit responses while searching!\n- Fixed an issue where songs from the Songs response topic would not properly search when the “Open song in” button was pressed. \n- Improved fallback detection was also put into place to complete web searches when the music service is not installed when using the Songs response topic.\n- Improved reliability of the Use Magic Ball Application Shortcut.\n- Moved lifecycle handling to the newer Scene Delegate system.\n- Fixed a crash when going back to the Custom Response Sets list from editing a specific set if the Custom Response Sets listed had a search query running.\n\n6.8.1 Fixes:\n- Fixed an issue where the Movies Response Topic would not get filled in with a default list when updating from 6.7.1.\n- Fixed an issue where the page title margins in the navigation bar was 0 on older iOS versions.\n- Fixed an issue where the Magic Ball Button was clipping off the screen on smaller devices like the iPhone 6s.\n- Fixed an issue where the achievement progress bar would be too thin on certain devices.",
+      "trackViewUrl": "https://apps.apple.com/us/app/modern-magic-ball/id1381145384?uo=4",
+      "formattedPrice": "$0.99",
+      "sellerName": "Hayden Watson",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Family",
+        "Lifestyle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "PT",
+        "ES"
+      ],
+      "subtitle": "Get answers for every decision"
+    },
+    "ja": {
+      "trackName": "Modern Magic Ball",
+      "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
+      "releaseNotes": "The video games response topic now comes default with over 1000+ video games!\n- Updated the Emoji response language to include new Emoji!\n- Expanded the Fast Food Places option to include a few of the more fast casual places like Panda Express.\n- Magic Ball now requires iOS 13.0 or later to better manage the codebase.\n- Searching within custom response sets or when editing customizable response topics is now much improved! You can now delete or edit responses while searching!\n- Fixed an issue where songs from the Songs response topic would not properly search when the “Open song in” button was pressed. \n- Improved fallback detection was also put into place to complete web searches when the music service is not installed when using the Songs response topic.\n- Improved reliability of the Use Magic Ball Application Shortcut.\n- Moved lifecycle handling to the newer Scene Delegate system.\n- Fixed a crash when going back to the Custom Response Sets list from editing a specific set if the Custom Response Sets listed had a search query running.\n\n6.8.1 Fixes:\n- Fixed an issue where the Movies Response Topic would not get filled in with a default list when updating from 6.7.1.\n- Fixed an issue where the page title margins in the navigation bar was 0 on older iOS versions.\n- Fixed an issue where the Magic Ball Button was clipping off the screen on smaller devices like the iPhone 6s.\n- Fixed an issue where the achievement progress bar would be too thin on certain devices.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/modern-magic-ball/id1381145384?uo=4",
+      "formattedPrice": "¥150",
+      "sellerName": "Hayden Watson",
+      "genres": [
+        "ゲーム",
+        "シミュレーション",
+        "ファミリー",
+        "ライフスタイル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Modern Magic Ball",
+      "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
+      "releaseNotes": "The video games response topic now comes default with over 1000+ video games!\n- Updated the Emoji response language to include new Emoji!\n- Expanded the Fast Food Places option to include a few of the more fast casual places like Panda Express.\n- Magic Ball now requires iOS 13.0 or later to better manage the codebase.\n- Searching within custom response sets or when editing customizable response topics is now much improved! You can now delete or edit responses while searching!\n- Fixed an issue where songs from the Songs response topic would not properly search when the “Open song in” button was pressed. \n- Improved fallback detection was also put into place to complete web searches when the music service is not installed when using the Songs response topic.\n- Improved reliability of the Use Magic Ball Application Shortcut.\n- Moved lifecycle handling to the newer Scene Delegate system.\n- Fixed a crash when going back to the Custom Response Sets list from editing a specific set if the Custom Response Sets listed had a search query running.\n\n6.8.1 Fixes:\n- Fixed an issue where the Movies Response Topic would not get filled in with a default list when updating from 6.7.1.\n- Fixed an issue where the page title margins in the navigation bar was 0 on older iOS versions.\n- Fixed an issue where the Magic Ball Button was clipping off the screen on smaller devices like the iPhone 6s.\n- Fixed an issue where the achievement progress bar would be too thin on certain devices.",
+      "trackViewUrl": "https://apps.apple.com/de/app/modern-magic-ball/id1381145384?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Hayden Watson",
+      "genres": [
+        "Spiele",
+        "Simulation",
+        "Familie",
+        "Lifestyle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/67/d2/d567d22c-047f-97fc-29f0-27ac03d1dcc6/iOS_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 2.83333,
+  "userRatingCount": 6,
+  "price": 0.99,
+  "fileSizeBytes": "92729344",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "13.0",
+  "version": "6.8.1",
+  "currentVersionReleaseDate": "2026-03-27T16:13:40Z",
+  "releaseDate": "2018-05-18T18:51:49Z",
+  "artistId": 1381145383,
+  "artistName": "Hayden Watson",
+  "artistViewUrl": "https://apps.apple.com/de/developer/hayden-watson/id1381145383?uo=4",
+  "sellerUrl": "https://haydenwatson.co/modern-magic-ball",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "MacDesktop-MacDesktop",
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/12/0a/8d120a28-5033-47ce-3e34-4e4eff7bad34/Get_Answers_to_Life_U0027s_Biggest_Questions.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/03/3f/c7033f51-63b1-0160-2346-de72e1712c14/View_your_Fortune_and_Complete_Achievements.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/67/49/0267490a-78fd-22a8-e339-851a2b2cd083/Choose_from_Different_Response_Topics.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f2/23/acf22383-8d00-6c75-0282-a51f23ba5bf8/Set_your_Own_Custom_Responses.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/20/00/86200078-3440-8ce9-b38f-51130f4f08ec/Change_Response_Language.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/e5/f7/b8e5f75f-2832-bc7d-95ef-194a6caeba48/Change_the_Look_of_your_Magic_Ball.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/0c/10/e70c10db-7866-ab82-a026-995607519eed/Type_to_Magic_Ball.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/74/23/7c742329-3b40-f7ad-f2fa-bc873989cd6e/Speak_to_Magic_Ball.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/ff/7a/6fff7a31-3b04-7838-21c8-217097cc9993/Get_Answers_to_Life_U0027s_Biggest_Questions.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/ca/fd/b4cafd65-d2bc-1504-d24d-8d17573e5a69/View_your_Fortune_and_Complete_Achievements.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/ff/dc/85ffdc72-169e-6666-d661-81a2b0874851/Choose_from_Different_Response_Topics.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b5/a2/87b5a2b0-7ec6-47fc-3c20-a181e655c974/Set_your_Own_Custom_Responses.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/d6/68/b4d668ab-4e1b-1380-1634-ffae4c421c6e/Change_Response_Language.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/a4/3b/58a43b63-fb8e-ed97-3e8b-eff8b4a6db56/Change_the_Look_of_your_Magic_Ball.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/c5/8e/89c58eab-44fc-ac40-8235-216a3f5409cc/Speak_to_Magic_Ball.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/72/cc/5572cc44-5fda-76b1-6e33-abfb52d4f289/Type_to_Magic_Ball.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/ff/7a/6fff7a31-3b04-7838-21c8-217097cc9993/Get_Answers_to_Life_U0027s_Biggest_Questions.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/ca/fd/b4cafd65-d2bc-1504-d24d-8d17573e5a69/View_your_Fortune_and_Complete_Achievements.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/ff/dc/85ffdc72-169e-6666-d661-81a2b0874851/Choose_from_Different_Response_Topics.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/b5/a2/87b5a2b0-7ec6-47fc-3c20-a181e655c974/Set_your_Own_Custom_Responses.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/d6/68/b4d668ab-4e1b-1380-1634-ffae4c421c6e/Change_Response_Language.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/a4/3b/58a43b63-fb8e-ed97-3e8b-eff8b4a6db56/Change_the_Look_of_your_Magic_Ball.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/c5/8e/89c58eab-44fc-ac40-8235-216a3f5409cc/Speak_to_Magic_Ball.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/72/cc/5572cc44-5fda-76b1-6e33-abfb52d4f289/Type_to_Magic_Ball.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/12/0a/8d120a28-5033-47ce-3e34-4e4eff7bad34/Get_Answers_to_Life_U0027s_Biggest_Questions.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/03/3f/c7033f51-63b1-0160-2346-de72e1712c14/View_your_Fortune_and_Complete_Achievements.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/67/49/0267490a-78fd-22a8-e339-851a2b2cd083/Choose_from_Different_Response_Topics.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/f2/23/acf22383-8d00-6c75-0282-a51f23ba5bf8/Set_your_Own_Custom_Responses.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/20/00/86200078-3440-8ce9-b38f-51130f4f08ec/Change_Response_Language.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/e5/f7/b8e5f75f-2832-bc7d-95ef-194a6caeba48/Change_the_Look_of_your_Magic_Ball.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/0c/10/e70c10db-7866-ab82-a026-995607519eed/Type_to_Magic_Ball.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/74/23/7c742329-3b40-f7ad-f2fa-bc873989cd6e/Speak_to_Magic_Ball.jpg/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/53/68/105368e7-59a2-70b6-68d8-b732e68fc2fa/e81c515f-d6a0-4120-a855-e544deea91bc_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2022-11-02_at_12.42.50.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/55/b2/0755b2b2-7f9e-210f-9ced-f0fb81673efd/205b1102-8aca-4ff2-8ccf-4e60d7d5b109_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2022-11-02_at_12.43.01.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/3d/da/a43ddadd-0756-ca5e-de74-5d04a196388b/e29da3c0-aa4e-4035-ad97-76caed32fb97_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2022-11-02_at_12.44.50.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/c3/72/16c372a4-c91f-06b7-ad3b-538e7b7f013e/dfe4a713-d710-4e5c-ae49-53d3bebda563_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2022-11-02_at_12.43.39.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/de/14/e6de14d8-b05b-6aea-139d-8e85182a6f29/b8ae8512-633a-43b6-b09a-9dbed4946d61_Simulator_Screen_Shot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2022-11-02_at_12.45.01.png/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "5.5.4",
+      "releaseNotes": "- Banners now have shadows\n- Updated the Creativity Magic Ball and App Icon\n- Updated watchOS Icon",
+      "seenAt": "2020-11-20T17:00:50Z"
+    },
+    {
+      "version": "5.6",
+      "releaseNotes": "This update adds game controller support, more languages to the Magic Ball widget, and gets Magic Ball ready for 2021. More updates are coming soon! Merry Christmas!\n\n- Magic Ball now supports game controllers!\n- Fixed a Spanish Translation error\n- Updated Holiday Dates for 2021\n- Added new fortunes to the Magic Ball Widget!\n- The Magic Ball Widget now supports Spanish and Portuguese!\n- Improved reliability of the Speak to Magic Ball feature\n- Appearance settings can now be reset\n- Added App Clip",
+      "seenAt": "2020-12-12T02:12:08Z"
+    },
+    {
+      "version": "5.7",
+      "releaseNotes": "Welcome to the first update of 2021! This updates includes much more responses and features. More updates are coming soon! Thank you all for using Modern Magic Ball!\n\n- Adding the Video Game response topic to your custom responses will now add the edited list instead of the default list\n- Removed the View Song button\n- Added a new seasonal included background\n- Added new Gamer achievement\n- Magic Ball now works on iOS 10.3\n\nNew Responses!\n- Added Jack’s, In-N-Out Burger, and Jack in the Box to the fast food responses\n- Added more iPhones to the iPhone list\n- Added new Christmas Songs\n- Added many English Songs\n- Added many new Video Games\n- Added new responses to the Modern and Rude response topics\n- Added new Emoji responses\n\nRevamped Sharing!\n- There is now a share button on the main page\n- Sharing a response while using Speak to Magic Ball will now include what was said to the Magic Ball\n\nTweaked Animations!\n- Added a new typewriter text animation\n- You can now disable text animations only and keep ball animations if you wish\n\nBug Fixes!\n- Fixed an issue where music would stop playing if the Magic Ball was used\n- Fixed an issue where Creative Outlets would not appear selected when the Portuguese response topic was being used",
+      "seenAt": "2021-01-09T21:04:54Z"
+    },
+    {
+      "version": "5.8",
+      "releaseNotes": "- Added a Magic Ball Merch button! \n- Updated Acknowledgments page\n- You can now change the font!\n- The number of times you’ve used the Magic Ball will now sync between your devices.\n- Tweaked English Song List\n\nCustom Response Sets! The most requested feature is now here!\n- Have your own sets of custom responses!\n- Each set can have as many responses as you would like\n\nAchievements just got leveled up.\n- Added a Dark Magic and Witching Hour achievement.\n- Suggestions have been completely redone. They are now shorter, easier to understand, and there are more suggestions than ever.\n\nMagic Ball Icon Improvements\n- Changing your Magic Ball Icon is now easier than ever. It now has its own page.\n- You can now set your own Magic Ball!\n- You can now move the Magic Ball around!\n\nRevamped Reset Page\n- Every reset button now has clarification for what it will reset\n- Changed the order of certain reset buttons\n- You can now reset all achievements except for holidays achievements",
+      "seenAt": "2021-03-20T16:42:37Z"
+    },
+    {
+      "version": "6.0",
+      "releaseNotes": "Welcome to Summer 2021! This is one of the biggest updates yet. Some of the UI has been completely changed with an emphasis on ease of use.\n\nIt’s all about you!!\n- The “Achievements” page is now “You”\n- You can now tell Magic Ball your name\n- The list of achievements have been moved, you can access the list through the “You” page\n\nChanging response topics is now quicker than ever.\n- The “Responses” page now has its own tab! You no longer have to go through the settings page first\n- Custom Responses are now automatically turned on when a custom response set is set to be used\n- The banner that appears when trying to select a custom response set that has 0 responses will now allow you to tap the banner to go to that response set.\n- There are now more tips on how to set and edit your custom response sets \n\nSpeak to Magic Ball just got better.\n- Magic Ball will now start listening when the Ball is tapped. Tap the Magic Ball again when you are done with your question.\n- The Speak to Magic Ball transcription text will now turn blue while it is listening for your voice!\n\n\nWe all hate issues.\n- Fixed an issue where custom responses could be turned off every time the responses page appeared\n- Fixed an issue where Del Taco appeared twice in the Fast Food Places\n\n\nAnd more.\n- Removed Magic Ball March Button\n- Added more custom response set icons\n- You can now ask Magic Ball what Samsung Galaxy phone or tablet to buy\n- Greatly improved how Custom Response Sets are handled with Core Data\n- Improved Spanish and Portuguese Translations",
+      "seenAt": "2021-07-07T15:16:09Z"
+    },
+    {
+      "version": "6.0.1",
+      "releaseNotes": "- Added more quotes!\n- Added the Galaxy A42 5G, Galaxy Tab A7 Lite, Galaxy Tab S7 FE, and the Watch4 Series to the Samsung devices list\n- Magic Ball can now tell you which iPad to buy, just ask “Which iPad should I buy?”\n- Updated Video Games response topic with new responses. To see the new responses, you’ll need to insert the default list into the response topic.",
+      "seenAt": "2021-09-16T02:44:24Z"
+    },
+    {
+      "version": "6.1",
+      "releaseNotes": "- Added new songs to the songs response topic!\n- Added new memes to the memes response topic!\n- Added new video games to the video games response topic!\n- There are now 2 new fonts to choose from!\n- Fixed an issue where Magic Ball would tell you good evening during the morning hours\n- Added tons of new quotes!",
+      "seenAt": "2021-11-27T23:10:41Z"
+    },
+    {
+      "version": "6.1.1",
+      "releaseNotes": "- Updated with 2022 Holidays\n- Added new video games to the Video Games response topic!\n- Added new songs to the Songs response topic!",
+      "seenAt": "2022-01-15T16:14:04Z"
+    },
+    {
+      "version": "6.2",
+      "releaseNotes": "Welcome to the first big update of 2022! Tons of improvements have been added in this update. The Custom Response Sets feature has had a few changes and will now give you more detail when deleting and selecting sets. Tons of new content has been added to the app to make it even better to use. The themes feature has also gotten some love.\n\nAll changes:\n\nEasier than ever to use.\n- The Response Languages page is now located in the Responses page instead of the Settings page.\n\nMore responses!\n- Added 3 new responses to the Modern response topic.\n- Added 3 new responses to the Rude response topic.\n- Added 3 new fortunes.\n- Added 11 new quotes of the day!\n- Added new songs to the Songs response topic.\n- Added new video games to the Video Games response topic.\n- You can now ask the Magic Ball what nail shape to use when doing your nails.\n\nThemes got some love!\n- Added a new Kitty theme!\n- Revamped the Hacker theme, it now has a custom Magic Ball and background!\n- You will now be notified when accessing the Ball Icons page when a special Ball Icon is currently being used by a theme.\n\nCustom Response Sets got some improvements!\n- The number of Custom Response Sets are now displayed.\n- Custom responses will now be turned off when the current response topic set is deleted.\n- Custom Response Sets can now be renamed.\n- The response set that will be used for custom responses will now be shown when custom responses is turned on.\n\nLots of fixes!\n- Fixed an issue where the tab bar was completely transparent on devices running iOS 15.\n- Fixed an issue where the App Icon page background would not be black like the other pages.\n- Fixed a few translation issues.\n- Fixed an issue where the Custom Response Set page may appear white on devices running an iOS version lower than 13.\n\nAnd more!\n- Removed the Magic Ball animation when moving the Magic Ball around your screen.\n- Added a new message for when all achievements have been completed.\n- Improved the Non-Commital Responses feature, it now filters out even more responses.",
+      "seenAt": "2022-01-27T09:43:35Z"
+    },
+    {
+      "version": "6.2.1",
+      "releaseNotes": "This update includes new content to make your Magic Ball even more fun!\n\nAdded lots of new content!\n- Added new English and Spanish songs to the Songs Response Topic!\n- Added new quotes to the Quote of the Day feature\n- Added a new fortune to the daily fortune\n- Added 2 new fonts to choose from in the Appearance page\n- Added new confetti colors when the default confetti is being shown\n\nEverything needs to be tweaked every once in a while.\n- Updated the Galaxy Phones and Tablets List\n- Tweaked the Acknowledgements page",
+      "seenAt": "2022-03-27T10:16:04Z"
+    },
+    {
+      "version": "6.2.2",
+      "releaseNotes": "- Fixed an issue where the Achievements Earned text could be cut off on certain devices\n- Updated the default Video Games List!\n- Added new English songs\n- The fortune section is now bigger for longer fortunes\n- Added new fortunes!",
+      "seenAt": "2022-04-06T06:21:43Z"
+    },
+    {
+      "version": "6.2.3",
+      "releaseNotes": "- Added more English songs\n- Added a new Bamboo and 2021 Volkswagen Jetta image background\n- Added new Video Games to the default Video Games list\n- Tweaked the Galaxy Watches list\n- Added new quotes\n- Fixed an issue where the Included Backgrounds page did not have a title at the top",
+      "seenAt": "2022-05-18T01:11:21Z"
+    },
+    {
+      "version": "6.3",
+      "releaseNotes": "Hi everyone and welcome to Summer 2022! Lots of new content has been added, this includes new colors and responses! There's also some nice bug fixes which are always welcome.\n\nFull list of changes:\nNew stuff!!!!\n- Added new fortunes\n- Added tons of new stores to the default store list\n- Added new icons for custom response sets\n- Added tons of new English songs\n- Added new Spanish songs\n- Added 4 new Modern Responses!\n- Added 9 new Rude Responses!\n\nColor Tweaksss!!!\n- Added Pastel Green, Pastel Orange, Pastel Pink, and Cyan colors!\n- Fixed the color order!\n\nOther cool changes have also been made!\n- The theoretical amount of Custom Response Sets able to be created is now 100,000 instead of 10,000.\n- Improved Portuguese translation\n- Improved Spanish translation\n\nAnd finally…bug fixes!!\n- Fixed how included backgrounds look on iPadOS and macOS\n- Fixed an issue where Ball Icons may have appeared inverted when using Smart Invert.",
+      "seenAt": "2022-06-04T13:01:20Z"
+    },
+    {
+      "version": "6.4",
+      "releaseNotes": "Welcome to Magic Ball 6.4! In this update, new content has been added and bug fixes and improvements have been implemented. More stuff will be coming soon!\n\nAs always, here’s a full list of what’s changed:\n\nNew responses have been added!\n- Added a new joke response language! Magic Ball can now respond in Pirate!\n- Added new iOS 15.4 Emoji to the Emoji joke language\n- Added 4 new fortunes!\n- Added a new rude response: “You don't deserve it, but yes.”\n\nImproved Responses Page\n- Unsupported Response Topics for a certain set language will now be hidden instead of just grayed out.\n- Improved logic of setting response topics.\n\nOh, you like to see new appearance things too? Got you covered!\n- Added a new Galaxy theme!\n- Added a new Melting Forest and Magic Wood ball button!\n- The font in the Type to Magic Ball field will now change with your font choice.\n- The achievement progress bar will now show your progress with a gradient that matches your Magic Ball rank!\n\nOther Changes:\n- Magic Ball now requires iOS 11 or later.\n- Added a new Reduce Gradients accessibility feature",
+      "seenAt": "2022-08-02T19:11:29Z"
+    },
+    {
+      "version": "6.4.1",
+      "releaseNotes": "- Added new English songs!\n- Added new Halloween songs!\n- Updated for iPhone 14 and iOS 16!\n- Updated Samsung and Apple product lists with the latest releases.\n- Improved recognition of questions for special responses.",
+      "seenAt": "2022-10-01T09:51:08Z"
+    },
+    {
+      "version": "6.4.2",
+      "releaseNotes": "This update focuses on improving the watch experience with Magic Ball.\n\n- Added tips for certain actions\n- Added new daily quotes and a new fortune\n- Added new songs!\n\nFor watchOS:\n- Added welcome message\n- Added new app icons to account for newer models of Apple Watch\n- Fast Food Places are now properly saved and loaded when the response topic is sent to the watch",
+      "seenAt": "2022-11-03T00:08:08Z"
+    },
+    {
+      "version": "6.4.3",
+      "releaseNotes": "This update includes bug fixes, more content, and updates for the 2023 year. Look for more updates soon!\n\n- Updated holiday dates for 2023\n- Added more English songs\n- Added more quotes and fortunes!",
+      "seenAt": "2023-01-24T21:24:59Z"
+    },
+    {
+      "version": "6.4.4",
+      "releaseNotes": "- Fixed an issue where the Speak to Magic Ball feature would not properly turn on sometimes.",
+      "seenAt": "2023-03-12T15:24:14Z"
+    },
+    {
+      "version": "6.5",
+      "releaseNotes": "Welcome to Spring 2023! A lot of new content has been added, as well as some great bug fixes!\n\nNew Responses Added!\n- Over 80 songs have been added to the English songs!\n- Added a new store to the default list of stores\n- Added 2 new emoji in the Emoji response language for users of iOS 16.4 or later\n- Added new video games to the default Video Game response topic!\n- Added 3 new meme responses\n- Added new English quotes of the day!\n\n- Tweaked E-Mail error wording if the user is not allowed to send emails when trying to give feedback\n- Added Minty Gradient to themes\n- Smart Responses can now be turned off\n- Updated the Acknowledgements page!\n- You can now turn off Smart Responses\n- Changed how to obtain the “Love is a Funny Thing” achievement.",
+      "seenAt": "2023-04-11T16:58:13Z"
+    },
+    {
+      "version": "6.6",
+      "releaseNotes": "Hi everyone! I hope everyone is having a great Holiday season! It’s time for a new update! This update focuses on adding more details about Magic Ball ranks and adds new responses and picture backgrounds to the Magic Ball app.\n\nAll changes:\nNew responses were added to the app!\n- Added new English and Spanish songs.\n- Added new Christmas songs!\n- Added new Galaxy Watches, Galaxy Tablets, and Galaxy Phones into the list to pick from when asked which Galaxy device to buy. (Smart Responses must be on.)\n- Added Raising Cane’s and Moe’s Southwest Grill to the default Fast Food Places list!\n\nExpanded User Info Screen\nIf you’ve ever wondered what all the ranks are for Magic Ball, they are now all displayed for you to see your progress!\n- See every possible rank and see a little bit of detail about that rank.\n\n- Added a new Sea Turtle, Jellyfish, and Gold Gradient to the Included Backgrounds.\n- The default responses in the customizable response topics now come alphabetically sorted on first installation.\n- Updated acknowledgments page\n- Updated Holiday dates for to be ready for 2024\n- Fixed some graphical issues with switch placement.\n- Fixed some graphical issues when adding a topic to the a custom response topic for the first time.\n- Fixed a couple of typos within some of the error/warning messages.\n- Tweaked Spanish translations\n- Magic Ball will now ask for an App Store rating on the 101th usage of Magic Ball. This question only happens once on the 101th usage of the app.\n- Updated the achievement icon for “A Lonely Person”",
+      "seenAt": "2023-12-12T09:57:38Z"
+    },
+    {
+      "version": "6.6.1",
+      "releaseNotes": "Changes in 6.6.1:\n- Refreshed the watchOS Magic Ball app to fix UI issues and improve usability.  \n\nChanges in 6.6:\nNew responses were added to the app!\n- Added new English and Spanish songs.\n- Added new Christmas songs!\n- Added new Galaxy Watches, Galaxy Tablets, and Galaxy Phones into the list to pick from when asked which Galaxy device to buy. (Smart Responses must be on.)\n- Added Raising Cane’s and Moe’s Southwest Grill to the default Fast Food Places list!\n\nExpanded User Info Screen\nIf you’ve ever wondered what all the ranks are for Magic Ball, they are now all displayed for you to see your progress!\n- See every possible rank and see a little bit of detail about that rank.\n\n- Added a new Sea Turtle, Jellyfish, and Gold Gradient to the Included Backgrounds.\n- The default responses in the customizable response topics now come alphabetically sorted on first installation.\n- Updated acknowledgments page\n- Updated Holiday dates for to be ready for 2024\n- Fixed some graphical issues with switch placement.\n- Fixed some graphical issues when adding a topic to the a custom response topic for the first time.\n- Fixed a couple of typos within some of the error/warning messages.\n- Tweaked Spanish translations\n- Magic Ball will now ask for an App Store rating on the 101th usage of Magic Ball. This question only happens once on the 101th usage of the app.\n- Updated the achievement icon for “A Lonely Person”",
+      "seenAt": "2024-01-02T06:13:53Z"
+    },
+    {
+      "version": "6.7",
+      "releaseNotes": "Hey everyone! I’ve got a brand new update for you all! This update includes UI enhancements, new responses, and bug fixes!\n\nUpdated the UI!\n- You can now press to open a suggested song when using the Songs response topic! Currently supports Apple Music and Spotify.\n- Fixed an issue where buttons could not be centered or had other issues on iOS.\n- Added back the ability to reduce gradients.\n\nNew responses are here!\n- Updated Samsung phone and headphone list.\n- Updated Apple phone and watch list.\n- Updated English song list, added tons of new songs!\n- Updated the default video games response topic with new video games!",
+      "seenAt": "2024-12-04T09:03:16Z"
+    },
+    {
+      "version": "6.7.1",
+      "releaseNotes": "Happy Spring 2025 everyone! This update brings new responses for the default list for fast food places, video games, and songs. It also brings bug fixes and improvements to the app.\n\n- Updated 2025 holiday dates.\n- Updated certain acknowledgment links.\n- Added much more fast food places to the default fast food list!\n- Added many new songs to the Songs response topic.\n- Added new video game releases to the video games response topic.\n- Improved handling of the type to Magic Ball text field when switching back to the default system font.",
+      "seenAt": "2025-04-11T19:38:53Z"
+    },
+    {
+      "version": "6.8",
+      "releaseNotes": "- The video games response topic now comes default with over 1000+ video games!\n- Updated the Emoji response language to include new Emoji!\n- Expanded the Fast Food Places option to include a few of the more fast casual places like Panda Express.\n- Magic Ball now requires iOS 13.0 or later to better manage the codebase.\n- Searching within custom response sets or when editing customizable response topics is now much improved! You can now delete or edit responses while searching!\n- Fixed an issue where songs from the Songs response topic would not properly search when the “Open song in” button was pressed. \n- Improved fallback detection was also put into place to complete web searches when the music service is not installed when using the Songs response topic.\n- Improved reliability of the Use Magic Ball Application Shortcut.\n- Moved lifecycle handling to the newer Scene Delegate system.\n- Fixed a crash when going back to the Custom Response Sets list from editing a specific set if the Custom Response Sets listed had a search query running.",
+      "seenAt": "2026-03-26T17:00:54Z"
+    },
+    {
+      "version": "6.8.1",
+      "releaseNotes": " The video games response topic now comes default with over 1000+ video games!\n- Updated the Emoji response language to include new Emoji!\n- Expanded the Fast Food Places option to include a few of the more fast casual places like Panda Express.\n- Magic Ball now requires iOS 13.0 or later to better manage the codebase.\n- Searching within custom response sets or when editing customizable response topics is now much improved! You can now delete or edit responses while searching!\n- Fixed an issue where songs from the Songs response topic would not properly search when the “Open song in” button was pressed. \n- Improved fallback detection was also put into place to complete web searches when the music service is not installed when using the Songs response topic.\n- Improved reliability of the Use Magic Ball Application Shortcut.\n- Moved lifecycle handling to the newer Scene Delegate system.\n- Fixed a crash when going back to the Custom Response Sets list from editing a specific set if the Custom Response Sets listed had a search query running.\n\n6.8.1 Fixes:\n- Fixed an issue where the Movies Response Topic would not get filled in with a default list when updating from 6.7.1.\n- Fixed an issue where the page title margins in the navigation bar was 0 on older iOS versions.\n- Fixed an issue where the Magic Ball Button was clipping off the screen on smaller devices like the iPhone 6s.\n- Fixed an issue where the achievement progress bar would be too thin on certain devices.",
+      "seenAt": "2026-03-27T16:13:40Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:15:53.626Z",
+  "isOwnApp": false
+}

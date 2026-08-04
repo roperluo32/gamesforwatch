@@ -1,0 +1,404 @@
+{
+  "trackId": "923917775",
+  "bundleId": "jp.co.hit-point.nekoatsume",
+  "slug": "neko-atsume-kitty-collector",
+  "path": "/apps/923917775-neko-atsume-kitty-collector/",
+  "locales": {
+    "en": {
+      "trackName": "Neko Atsume: Kitty Collector",
+      "description": "\"Playing Neko Atsume: Kitty Collector is as easy as one, two...and that's it!\nStep 1: Place playthings and snacks in your yard.\nStep 2: Wait for cats to visit!\n\nAttract cats with food and then watch them romp with your toys! More than 40 varieties of cats—white and black, tabby and calico—might stop by. Rare cats are rumored to roam the neighborhood too, but you'll need particular items to entice those elusive felines. Each visitor is logged in your Catbook. Become a master kitty collector and fill it up!\n\nYou can even make albums of your cat photos, or save them to your device and use them as wallpaper!\"\n\n\n\nIf you've found a bug or have other concerns, please contact our technical support team.\n\n[Technical Support]\nsupport-cat@hit-point.co.jp\n\n\nWe may wish to respond to your inquiry. If you're using an e-mail spam filter, please disable it before you contact us, or add @hit-point.co.jp to your list of allowed addresses.",
+      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "trackViewUrl": "https://apps.apple.com/us/app/neko-atsume-kitty-collector/id923917775?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Hit-Point Co., Ltd.",
+      "genres": [
+        "Games",
+        "Board",
+        "Simulation"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": "Your decoration decisions yield great rewards. Specifically, cats."
+    },
+    "ja": {
+      "trackName": "-ねこあつめ-",
+      "description": "フカフカクッションに魅惑の猫缶！ご近所をうろつくねこたちを集めて観察！？ねこあつめアプリ「ねこあつめ」\n\nねこあつめの２ステップ！\n\n①遊び道具(グッズ)とゴハンを庭先に置く。\n②ねこがやってくるのを待つ。\n\nゴハンに惹かれてやってきたねこたちがグッズで遊んでいる姿を観察できます！\n白猫、黒猫、茶トラにキジトラ。ねこの種類は２０種類以上。\n中にはこだわりのグッズにしか興味をしめさないレアネコも！？\n遊びにきてくれたねこたちは「ねこ手帳」に記録されます。\nねこ手帳を完成させて目指せねこあつめマスター！\n\nねこたちの姿は写真としてアルバムに収めたり、壁紙用としてギャラリーに保存することもできます。\n\n\n\n【ねこあつめサポート】\nsupport-cat@hit-point.co.jp\n※お問い合わせいただいた後、弊社からご連絡させて頂く場合がございますので迷惑メール防止のためメールの受信設定をしている場合は、あらかじめ設定を解除、もしくはt@hit-point.co.jpからのメールの受信許可をお願いいたします。",
+      "releaseNotes": "・一部不具合を修正しました。\n・動画広告の仕様を変更しました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%AD%E3%81%93%E3%81%82%E3%81%A4%E3%82%81/id923917775?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Hit-Point Co., Ltd.",
+      "genres": [
+        "ゲーム",
+        "ボード",
+        "シミュレーション"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Neko Atsume: Kitty Collector",
+      "description": "\"Playing Neko Atsume: Kitty Collector is as easy as one, two...and that's it!\nStep 1: Place playthings and snacks in your yard.\nStep 2: Wait for cats to visit!\n\nAttract cats with food and then watch them romp with your toys! More than 40 varieties of cats—white and black, tabby and calico—might stop by. Rare cats are rumored to roam the neighborhood too, but you'll need particular items to entice those elusive felines. Each visitor is logged in your Catbook. Become a master kitty collector and fill it up!\n\nYou can even make albums of your cat photos, or save them to your device and use them as wallpaper!\"\n\n\n\nIf you've found a bug or have other concerns, please contact our technical support team.\n\n[Technical Support]\nsupport-cat@hit-point.co.jp\n\n\nWe may wish to respond to your inquiry. If you're using an e-mail spam filter, please disable it before you contact us, or add @hit-point.co.jp to your list of allowed addresses.",
+      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "trackViewUrl": "https://apps.apple.com/de/app/neko-atsume-kitty-collector/id923917775?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Hit-Point Co., Ltd.",
+      "genres": [
+        "Spiele",
+        "Brettspiele",
+        "Simulation"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/9c/67/ea9c6754-33cf-da26-17e0-6c13a6a82b4f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "averageUserRating": 4.6805,
+  "userRatingCount": 241,
+  "price": 0,
+  "fileSizeBytes": "55072768",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "11.0",
+  "version": "1.15.1",
+  "currentVersionReleaseDate": "2024-03-19T02:02:09Z",
+  "releaseDate": "2014-10-21T14:08:14Z",
+  "artistId": 495637387,
+  "artistName": "Hit-Point Co., Ltd.",
+  "artistViewUrl": "https://apps.apple.com/de/developer/hit-point-co-ltd/id495637387?uo=4",
+  "sellerUrl": "http://www.hit-point.co.jp/",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/2a/de/c22ade49-e1bd-692d-5257-a541d4290a71/mzl.xpnwhalp.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/b9/13/88b913a9-ed08-28b8-a30e-0658870993f4/mzl.rnrdshvx.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/48/90/fb4890b7-98be-da04-5f12-8895d3698317/mzl.vwkiyucu.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/bc/a3/fbbca34d-18cc-3709-410e-1c082e1324c9/mzl.znupwhha.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/52/e6/d7/52e6d7c6-6046-d3e8-4a9c-229908f17cf8/mzl.rfftkmux.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e0/16/73/e01673e6-a15e-f745-3448-cbf8f8ee9b84/mzl.ghcqiyhy.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/ec/d0/27ecd073-bcca-1e11-a97b-67f29be458e6/mzl.xwbqxlll.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c6/f0/7e/c6f07eee-ea7d-0010-8b40-278cbe67b335/mzl.gwokcpru.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/7a/83/7c7a832b-a2e0-886a-e03d-c919863ed363/mzl.tbfqgzkq.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/b4/f2/a4b4f23b-bbd0-2003-1504-1212f43eeaaa/mzl.xyldrepa.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/a5/d8/50a5d895-9abc-4a2a-8e18-3e2bfc5d0cdc/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/0e/ad/dd0ead77-e061-19c6-8621-6c42465b1244/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/b4/5b/95b45b4e-2cd4-2dcf-4f20-1bf508813f3c/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fc/03/b8/fc03b858-aed7-e7e9-b5ce-a958c4b56090/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/64/ed/6d64edeb-1301-3e0d-f745-1a9fd858d3c5/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/2c/16/f92c1649-b069-f0b5-bc1d-c285888210db/mzl.wwzygcsc.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/0f/6e/9e0f6ef1-c2d1-bfca-e79f-8b1e8da044d7/mzl.ypvzahnd.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/54/7a/16547af5-5a6a-e5a5-655c-d3d138db853b/mzl.bukabarb.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/21/68/0d/21680dde-cd64-c0ba-ce02-c1469a3c675b/mzl.abhloxtp.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/2d/89/a82d899e-e0e9-928a-37e0-6fb2aa453fa5/mzl.tltdfjqe.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/ab/7a/b6ab7a9a-c6ea-d242-d97f-c46833499248/mzl.ghmnwlpe.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/f1/8d/d4f18d8d-71aa-17df-16da-33ddcbde2b48/mzl.sgcpkjxl.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/78/75/b5787573-0dfd-c720-0864-2ddcc64b3f21/mzl.azyxtoxa.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/64/90/b06490e1-b893-6cf3-0949-62591a8bb12f/mzl.cljegsle.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/da/f7/a0daf750-e79c-0c4a-242e-12bf07e14511/mzl.znhjeryw.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/df/f4/d4dff4e3-641d-dd76-0637-90ecf1fc1042/mzl.nvjmglck.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/5d/02/bb5d0232-0a3a-a704-4bb9-2ca1c4d25b3a/mzl.xwsytlbt.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/dd/f1/04ddf114-43db-311b-bb47-7f9dd9d3eebb/mzl.mfmhkueb.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/50/9d/a5/509da55f-cda0-5960-6d9f-2b3c81e8e7d8/mzl.opxajrxj.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9a/41/92/9a419279-1145-5cd5-45f5-11cc450b5643/mzl.izfecopt.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/67/0d/ab670d25-756c-3e85-849b-04ae50568b46/mzl.wqfsddld.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/c2/b6/0bc2b633-451d-5ff7-1bc7-8c9fe89849dd/mzl.dpatvldh.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/1e/ac/811eaceb-5e3b-31a3-4d5f-3d8dc5a58fac/mzl.filpdyqv.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/78/aa/8178aa1f-01fe-aaf9-acff-d89311a70557/mzl.wocqokzi.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/60/ff/6c60ff82-5024-7e33-97dd-7c9b66c6d1ec/mzl.jqhzzepr.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/59/84/5c/59845ce8-1a22-fd2d-03b0-8b99fdf928bb/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/b6/a2/82b6a27a-37ac-79d2-6896-39a3f2cb44bc/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/34/04/de3404b0-478c-9d0e-1bef-4cd46560c5d7/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1e/64/c2/1e64c241-e472-4e43-9ff9-f8030a21c9de/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/e1/8c/5ee18cb8-7751-0b3a-6dd4-9234777b77d0/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/67/0d/ab670d25-756c-3e85-849b-04ae50568b46/mzl.wqfsddld.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/c2/b6/0bc2b633-451d-5ff7-1bc7-8c9fe89849dd/mzl.dpatvldh.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/1e/ac/811eaceb-5e3b-31a3-4d5f-3d8dc5a58fac/mzl.filpdyqv.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/78/aa/8178aa1f-01fe-aaf9-acff-d89311a70557/mzl.wocqokzi.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/60/ff/6c60ff82-5024-7e33-97dd-7c9b66c6d1ec/mzl.jqhzzepr.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e0/16/73/e01673e6-a15e-f745-3448-cbf8f8ee9b84/mzl.ghcqiyhy.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/ec/d0/27ecd073-bcca-1e11-a97b-67f29be458e6/mzl.xwbqxlll.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c6/f0/7e/c6f07eee-ea7d-0010-8b40-278cbe67b335/mzl.gwokcpru.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/7a/83/7c7a832b-a2e0-886a-e03d-c919863ed363/mzl.tbfqgzkq.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/b4/f2/a4b4f23b-bbd0-2003-1504-1212f43eeaaa/mzl.xyldrepa.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/84/50/86/845086f9-ad2e-550f-a25a-7c743f114248/mzl.hehkkkrc.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/17/c5/ff17c5b5-d74e-39a0-a78b-0de08d4be6ba/mzl.xmgyizbf.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/25/1c/ad/251cade1-8340-5ab7-0858-9e7194a732f7/mzl.ealbejvy.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/97/23/d5/9723d503-5357-c66c-55c0-af7d58194af7/mzl.qzhnvldp.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/df/1c/75/df1c7510-1741-1b26-b742-6477cc73f5df/mzl.ynbjgqrt.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/59/f3/f259f3fc-7fda-e3eb-f2af-647f4f8eaf8a/mzl.nigxslec.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/ec/2b/1dec2beb-a05a-0281-8bea-1361d9e8710b/mzl.ebbxksxd.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/1f/87/9b1f87f7-a50a-9bc0-a478-5eaddf03cebc/mzl.wbtzfowf.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/46/1a/6f461a70-2286-b0a4-167b-1c1340a8d90f/mzl.zxnuajah.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/26/0d/31260d0f-832b-aeee-4dd5-6d95b09dec31/mzl.hzgherlw.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/38/7c/c7387c9d-5469-a3d2-1252-947ce4693d25/mzl.cigkonqp.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/01/eb/0301eb45-0649-ede6-d1fa-902f25564e60/mzl.dfjddkcf.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/ad/3e/d8ad3e70-27ca-3204-ed62-98c61c43aace/mzl.uympcxtf.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.11.2",
+      "releaseNotes": "• Various display errors have been corrected.",
+      "seenAt": "2017-12-29T19:19:44Z"
+    },
+    {
+      "version": "1.11.3",
+      "releaseNotes": "• Various display errors have been corrected.",
+      "seenAt": "2018-01-10T22:55:15Z"
+    },
+    {
+      "version": "1.11.5",
+      "releaseNotes": "• Various display errors have been corrected.",
+      "seenAt": "2018-09-25T02:03:12Z"
+    },
+    {
+      "version": "1.12.0",
+      "releaseNotes": "• A new cat and goodies have been added.",
+      "seenAt": "2018-12-26T08:12:52Z"
+    },
+    {
+      "version": "1.12.1",
+      "releaseNotes": "• Bugs have been fixed.",
+      "seenAt": "2019-01-10T18:22:10Z"
+    },
+    {
+      "version": "1.13.0",
+      "releaseNotes": "• New cats and goodies have been added.",
+      "seenAt": "2019-04-23T19:45:33Z"
+    },
+    {
+      "version": "1.14.0",
+      "releaseNotes": "The backup function was added.\r\nThe 5th anniversary specification has been added (limited to the period until June 30, 2020)\r\nNew \"Goodies\" and \"Gallery\" have been added.\r\nSome bugs have been fixed.",
+      "seenAt": "2020-04-23T06:34:18Z"
+    },
+    {
+      "version": "1.14.1",
+      "releaseNotes": "・Some bugs have been fixed.\n* The backup function is only available on devices with iOS8 or later versions.\n* The backup function cannot be used on devices with iOS7 or earlier versions because CloudKit is not supported.",
+      "seenAt": "2020-06-03T01:09:46Z"
+    },
+    {
+      "version": "1.14.2",
+      "releaseNotes": "・Bugs have been fixd.\r\n* It is no longer available on devices with iOS7 or earlier.",
+      "seenAt": "2020-10-27T01:40:09Z"
+    },
+    {
+      "version": "1.14.3",
+      "releaseNotes": "• Bugs have been fixed.",
+      "seenAt": "2020-10-29T00:59:18Z"
+    },
+    {
+      "version": "1.14.4",
+      "releaseNotes": "Support for iOS14 has been completed.",
+      "seenAt": "2021-04-06T01:23:48Z"
+    },
+    {
+      "version": "1.14.5",
+      "releaseNotes": "Some wording has been revised.",
+      "seenAt": "2021-04-20T01:16:33Z"
+    },
+    {
+      "version": "1.14.6",
+      "releaseNotes": "Fixed some bugs.",
+      "seenAt": "2021-05-12T01:19:22Z"
+    },
+    {
+      "version": "1.14.7",
+      "releaseNotes": "Fixed some bugs.",
+      "seenAt": "2021-07-14T02:38:31Z"
+    },
+    {
+      "version": "1.14.8",
+      "releaseNotes": "Fixed some bugs.",
+      "seenAt": "2021-07-16T00:53:31Z"
+    },
+    {
+      "version": "1.14.9",
+      "releaseNotes": "Fixed some bugs.",
+      "seenAt": "2021-07-29T02:14:41Z"
+    },
+    {
+      "version": "1.14.10",
+      "releaseNotes": "・Fixed some bugs.\n・Internal data has been updated.",
+      "seenAt": "2022-02-18T02:12:12Z"
+    },
+    {
+      "version": "1.14.11",
+      "releaseNotes": "・Fixed some bugs.",
+      "seenAt": "2022-05-12T00:47:02Z"
+    },
+    {
+      "version": "1.14.12",
+      "releaseNotes": "・We adjusted the number of purchases of Gold Fish.\nFor details, please check the support page of the Neko Atsume official website.\n\nDue to the fact that it takes time to reflect on the App Store side even after updating to [Ver.1.14.12], the number of purchases displayed in the system dialog at the time of payment may differ from the display on the purchase screen.\nPlease note that the actual number purchased will be \"after adjustment\".\n\n*For customers playing Ver.1.14.11 or earlier\nThe number of purchases displayed in the system dialog at the time of payment may differ from the one displayed on the Gold Fish purchase screen.\nThe actual number of purchases will be \"before adjustment\", so please update to the latest version before purchasing Gold Fish.",
+      "seenAt": "2022-10-25T02:00:58Z"
+    },
+    {
+      "version": "1.14.13",
+      "releaseNotes": "・Store icon changed.",
+      "seenAt": "2022-12-22T03:07:18Z"
+    },
+    {
+      "version": "1.14.14",
+      "releaseNotes": "・Bugs have been fixd.\n* It is no longer available on devices with iOS10 or earlier.",
+      "seenAt": "2023-06-30T01:12:41Z"
+    },
+    {
+      "version": "1.14.15",
+      "releaseNotes": "・Internal data has been updated.",
+      "seenAt": "2023-11-29T03:32:28Z"
+    },
+    {
+      "version": "1.14.16",
+      "releaseNotes": "・Bugs have been fixd.\n・GDPR Compliant.",
+      "seenAt": "2024-01-15T03:47:24Z"
+    },
+    {
+      "version": "1.15.0",
+      "releaseNotes": "・New goodies have been added.",
+      "seenAt": "2024-02-22T00:00:14Z"
+    },
+    {
+      "version": "1.15.1",
+      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "seenAt": "2024-03-19T02:02:09Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:13:02.567Z",
+  "isOwnApp": false
+}

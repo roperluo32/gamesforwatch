@@ -1,0 +1,338 @@
+{
+  "trackId": "1435870735",
+  "bundleId": "com.aw.skiing",
+  "slug": "stickman-ski-winter-sports",
+  "path": "/apps/1435870735-stickman-ski-winter-sports/",
+  "locales": {
+    "en": {
+      "trackName": "Stickman Ski - winter sports",
+      "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
+      "releaseNotes": "A new Hollow character.",
+      "trackViewUrl": "https://apps.apple.com/us/app/stickman-ski-winter-sports/id1435870735?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Casual",
+        "Action"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "race snow vs big Yeti on watch"
+    },
+    "ja": {
+      "trackName": "Stickman Ski - winter sports",
+      "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
+      "releaseNotes": "A new Hollow character.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/stickman-ski-winter-sports/id1435870735?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "カジュアル",
+        "アクション"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Stickman Ski - winter sports",
+      "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
+      "releaseNotes": "A new Hollow character.",
+      "trackViewUrl": "https://apps.apple.com/de/app/stickman-ski-winter-sports/id1435870735?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Gelegenheits­spiele",
+        "Action"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/41/b3/c241b3d7-ba57-03b2-1166-009e83c9f9af/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 3.72727,
+  "userRatingCount": 22,
+  "price": 0,
+  "fileSizeBytes": "71480320",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "12.0",
+  "version": "2.7",
+  "currentVersionReleaseDate": "2024-10-31T23:31:36Z",
+  "releaseDate": "2018-10-27T19:50:56Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com/",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c0/6a/f3c06a39-5a38-0331-e103-ca0ab6828ac6/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d4/f2/ffd4f283-453d-fda3-67e2-dfc03bb6558e/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b2/a8/ffb2a890-f0f1-d923-089d-2462ac87e36a/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/57/34/8157345e-430e-56a3-2d41-c93532bffe31/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/90/2d/4d902deb-b83a-c8a2-24ff-c53e0bd07689/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/00/01/1b00016c-1b80-b160-3ee5-50b7c34e5780/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/4a/a1/5d4aa15d-fcf8-d128-8a1c-e9ec9b5afa25/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/4d/47/4c4d479a-f815-455c-a73f-ebab54cffebe/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/6e/cf/4c6ecf2d-add4-dd74-4d23-f05a3245e033/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/b3/3e/fab33e0b-d2f7-442c-367b-2b77c0144944/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/fd/2f/abfd2f05-d816-3083-32c7-39447cf66f24/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/4f/f3/cd4ff378-3090-62a2-e1eb-2e3981662989/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/69/6c/2f696c0c-963b-d5e9-7a60-cbb12a112e16/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/2c/c1/ba2cc14f-5c2a-8824-15f9-4bb5f65c257a/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/3c/25/243c254f-3edf-8209-be40-7a0dff60e27f/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/f4/51/d4f45176-8855-ac42-da18-88d30e265f3a/pr_source.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/3e/88/c23e885a-2741-868d-4c09-ad7504cbc9f2/6.9-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6d/b0/5d6db06e-4c73-ed49-7f85-410a0964ba1b/6.9-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/9b/d0/d49bd0ee-7ef8-d3ff-7b29-d952f4518334/6.9-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/ad/13/bfad1363-d1da-20bf-1981-7e160f62249c/6.9-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/6e/cf/4c6ecf2d-add4-dd74-4d23-f05a3245e033/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/b3/3e/fab33e0b-d2f7-442c-367b-2b77c0144944/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/fd/2f/abfd2f05-d816-3083-32c7-39447cf66f24/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/4f/f3/cd4ff378-3090-62a2-e1eb-2e3981662989/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c0/6a/f3c06a39-5a38-0331-e103-ca0ab6828ac6/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d4/f2/ffd4f283-453d-fda3-67e2-dfc03bb6558e/pr_source.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b2/a8/ffb2a890-f0f1-d923-089d-2462ac87e36a/pr_source.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/57/34/8157345e-430e-56a3-2d41-c93532bffe31/pr_source.jpg/576x768bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/0a/96/700a9660-51f6-820e-9421-df94db5ed327/mzl.geuivxzo.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/a9/a1/70a9a17d-0895-2485-3674-04206e437d58/mzl.tkenkcrd.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/d1/92/7cd192e5-00cb-4813-d124-3cb430144b71/mzl.gdikoevf.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/c9/03/f5c9033e-cd83-b35e-a630-927cec3fb76d/mzl.jaufspeq.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2018-10-27T03:15:06Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "- New Story Mode\n- Remove Ad option\n- Re-balance gameplay (on phone and ipad)",
+      "seenAt": "2018-11-06T23:07:01Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "- Minor bug fix\n- Small graphics change\n\nMore features are coming soon, because winter is coming !!!",
+      "seenAt": "2018-11-09T20:05:45Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "~~ 1.2.1 hot fix ~~\n+ improve graphics!\n+ In some rare cases, players can get lost into the void. Glad we could fix it.\n+ Fix gold displays not accurately in some cases.",
+      "seenAt": "2018-11-13T21:31:00Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "~ Version 1.3 ~\n- New characters.\n- More visual effects.\n- Balance golds.\n- Add second chance feature.\nHappy skiing, friends!",
+      "seenAt": "2018-11-27T14:46:17Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "+ Hot fix a bug happens when you have 2 lives and above\n--> Happy Skiing! Bros and Sisters!",
+      "seenAt": "2018-12-05T22:22:17Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "+ optimize for better performance\n+ better support for new phones\n+ new game icon",
+      "seenAt": "2018-12-22T12:28:59Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "++ New CHALLENGE MODE for extra chilly skiing!!!",
+      "seenAt": "2018-12-28T23:08:26Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "*** NEW CHALLENGES - survive 2 mins in:\n+ Yeti world\n+ Snowfall\n*** Optimize better performance\n*** Fix some minor bugs",
+      "seenAt": "2019-01-04T23:10:11Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "++ Fix a bug related to challenge leaderboard\n++ You now can play with the crown on Apple Watch",
+      "seenAt": "2019-01-10T14:23:32Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "We're proud to announce that the game has joined the Playond collection!",
+      "seenAt": "2019-12-18T08:32:38Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Now play on Apple Watch along with iPhone and iPad!",
+      "seenAt": "2020-04-01T01:20:36Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Optimized for Apple Watch",
+      "seenAt": "2020-04-01T16:13:46Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Optimized for Apple Watch and iPhone",
+      "seenAt": "2020-04-21T23:59:44Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "*** Optimized for Apple Watch ***",
+      "seenAt": "2021-03-06T23:28:14Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "* Fix some minor bugs *",
+      "seenAt": "2022-12-21T04:13:44Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Winter update.",
+      "seenAt": "2023-12-12T13:50:59Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "A new Hollow character.",
+      "seenAt": "2024-10-31T23:31:36Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:19:01.469Z",
+  "isOwnApp": false
+}

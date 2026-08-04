@@ -1,0 +1,396 @@
+{
+  "trackId": "1435760645",
+  "bundleId": "com.aw.dashBird",
+  "slug": "tap-to-dash-bird-do-not-flap",
+  "path": "/apps/1435760645-tap-to-dash-bird-do-not-flap/",
+  "locales": {
+    "en": {
+      "trackName": "Tap To Dash Bird - Do Not Flap",
+      "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "trackViewUrl": "https://apps.apple.com/us/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Family",
+        "Entertainment",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "classic game on Phone or Watch"
+    },
+    "zh": {
+      "trackName": "Tap To Dash Bird - Do Not Flap",
+      "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "家庭聚会",
+        "娱乐",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Tap To Dash Bird - Do Not Flap",
+      "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "ファミリー",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Tap To Dash Bird - Do Not Flap",
+      "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "trackViewUrl": "https://apps.apple.com/de/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Familie",
+        "Unterhaltung",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/14/0a/87140abb-b221-f631-189b-ed2dcff9f84d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.19355,
+  "userRatingCount": 31,
+  "price": 0,
+  "fileSizeBytes": "37497856",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "12.1",
+  "version": "1.6.0",
+  "currentVersionReleaseDate": "2024-01-05T13:22:06Z",
+  "releaseDate": "2018-09-21T07:54:37Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/8b/0f/5d8b0f19-bed0-8df5-b647-71628ff689b3/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/be/09/debe0923-03f5-689c-7e46-bcd72f0c80fa/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/64/e7/aa64e7f3-4df5-b27e-fbd4-749d7b08a152/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/ab/0a/e5ab0a55-a8e2-6818-8c3b-efaa6b62aeb2/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/41/86/61418630-90f9-f888-816b-b66d94beb787/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/e5/1f/dce51f6f-aa75-4129-b899-48a1619e85de/9c49932b-682f-4c19-9302-863e1fe4de27_ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/17/a3/9d17a3d5-19e4-8c39-6035-084efb9c6437/314c1d2a-4806-4003-9b62-e29636a39c8d_ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/0f/9f/9d0f9f6d-d7fc-3170-f935-b973aefb0fc4/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/38/7f/06387f5d-ca83-1a22-a4d4-eebdfc2bad45/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/fc/33/99fc3353-f16c-7d78-f192-b3c83a162951/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/c3/b0/69c3b019-0538-c7b9-f587-58a4dc50b82c/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/63/96/c5639647-fe74-4431-626e-aa915a4ec581/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/eb/fe/5eebfe5d-fc7b-457c-db54-38ed77554060/57e9ee01-c0d2-415f-a745-3accf5803363_5.5-7.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/e0/ba/84e0bad3-c45b-7c5e-7d32-c16fa3e4b499/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/1d/f9/4d1df913-c7d1-941e-aa8e-055b964512be/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/de/f5/bddef522-f47c-f578-0a93-dc09662e06b3/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/84/72/6a847268-efbb-7192-3e06-0cfe708878d5/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/e8/63/d6e86367-886e-963a-4d57-bb7b8cf54e78/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/62/e0/d8/62e0d848-a28d-5201-0db6-9da91a6a213f/2c0f1115-4d34-41cc-a121-3d110b86b9ff_6.5-7.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/7f/69/bb7f69b0-9ef6-227d-4543-17fdaeeaebed/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/e4/b8/3ae4b85b-edff-1b50-78b9-edc6f9b26f04/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/f2/60/13f26057-8107-b621-1b42-f1a57aa380ec/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/a8/3e/78a83e98-c810-1c8a-a55b-cc0c674e791e/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/2b/a8/8b2ba8da-46cd-b8f2-b3fe-c5592443b252/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/eb/fe/5eebfe5d-fc7b-457c-db54-38ed77554060/57e9ee01-c0d2-415f-a745-3accf5803363_5.5-7.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/e0/ba/84e0bad3-c45b-7c5e-7d32-c16fa3e4b499/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/1d/f9/4d1df913-c7d1-941e-aa8e-055b964512be/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/de/f5/bddef522-f47c-f578-0a93-dc09662e06b3/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/84/72/6a847268-efbb-7192-3e06-0cfe708878d5/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/e8/63/d6e86367-886e-963a-4d57-bb7b8cf54e78/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/8b/0f/5d8b0f19-bed0-8df5-b647-71628ff689b3/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/be/09/debe0923-03f5-689c-7e46-bcd72f0c80fa/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/64/e7/aa64e7f3-4df5-b27e-fbd4-749d7b08a152/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/ab/0a/e5ab0a55-a8e2-6818-8c3b-efaa6b62aeb2/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/41/86/61418630-90f9-f888-816b-b66d94beb787/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/e5/1f/dce51f6f-aa75-4129-b899-48a1619e85de/9c49932b-682f-4c19-9302-863e1fe4de27_ipad7.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/f9/39/c2f939b4-6567-c426-ba8a-ecb706906eec/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/ec/da/76ecda8e-07b4-8abb-46f8-3dd9d38da139/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/01/99/8d0199a0-e077-9bb8-b31c-4181b477b7ab/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/f1/4a/cef14a5a-ddb6-5a2b-cd9a-1739bd26a7cf/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/c3/3d/f4c33d40-80a3-a13d-ecc0-c0a0bfae8cc1/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/62/86/a86286fe-a41b-6d19-4415-685617a86a08/pr_source.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "releaseNotes": "",
+      "seenAt": "2018-09-19T02:22:27Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "- Minor bug fixed.",
+      "seenAt": "2018-09-25T00:33:07Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "- New feature: combo dash.\n- Minor bug fixed.",
+      "seenAt": "2018-09-25T22:02:38Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "- Update game performance.",
+      "seenAt": "2018-10-02T14:05:03Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "- Minor bug fixed.",
+      "seenAt": "2018-10-09T15:52:01Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "* More birds and environments\n* Full screen support for new Apple Watches and iPhones\n* Improve graphics\n* New obstacles",
+      "seenAt": "2019-10-09T01:10:52Z"
+    },
+    {
+      "version": "1.1.1",
+      "releaseNotes": "- Minor bug fixed.",
+      "seenAt": "2019-10-10T14:53:04Z"
+    },
+    {
+      "version": "1.1.2",
+      "releaseNotes": "* New obstacles added!\n* New combo effects...\n* Optimized for new Apple Watch",
+      "seenAt": "2019-10-21T20:00:32Z"
+    },
+    {
+      "version": "1.1.3",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2019-10-26T16:09:35Z"
+    },
+    {
+      "version": "1.1.4",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2019-10-29T19:51:20Z"
+    },
+    {
+      "version": "1.1.5",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2019-11-11T21:49:25Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-04-23T15:35:50Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-05-01T15:20:56Z"
+    },
+    {
+      "version": "1.2.2",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-05-05T14:52:16Z"
+    },
+    {
+      "version": "1.2.3",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-05-10T23:07:42Z"
+    },
+    {
+      "version": "1.2.5",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-05-17T16:01:43Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-12-09T22:35:30Z"
+    },
+    {
+      "version": "1.3.1",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2021-12-17T21:45:32Z"
+    },
+    {
+      "version": "1.3.2",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2022-05-24T21:23:23Z"
+    },
+    {
+      "version": "1.3.3",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2022-06-16T22:00:03Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2023-01-10T15:24:34Z"
+    },
+    {
+      "version": "1.5.0",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2023-09-19T17:41:09Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2023-12-19T17:59:07Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "seenAt": "2024-01-05T13:22:06Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:04:50.197Z",
+  "isOwnApp": false
+}

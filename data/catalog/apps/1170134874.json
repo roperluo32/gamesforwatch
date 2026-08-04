@@ -1,0 +1,410 @@
+{
+  "trackId": "1170134874",
+  "bundleId": "com.kongregate.mobile.pocketplants",
+  "slug": "pocket-plants-cozy-plant-game",
+  "path": "/apps/1170134874-pocket-plants-cozy-plant-game/",
+  "locales": {
+    "en": {
+      "trackName": "Pocket Plants: Cozy plant game",
+      "description": "Bring life back to barren landscapes by growing and evolving adorable plants!\n\nCombine your plants to unlock dozens of cute new ones as you revitalize several different worlds. Charming characters will aid you in your adventure by giving you different tasks to complete for great rewards.  You can even connect your phone or Fitbit to help generate more energy as you exercise!\n\n\nKEY FEATURES:\n\n*Collect them all! - Grow hundreds of absolutely adorable plants as you mix and match different species in order to evolve brand new ones.\n\n*Cast of characters - Harvest plants for charming NPC's and complete their orders to earn exciting rewards!\n\n*Powerups - Unlock flasks by completing orders to research dozens of unique powerups.\n\n*Explore - Breath life back into several magical worlds as you discover more plant types.\n\n*Healthy Twist - Connect your phone, Fitbit, or Apple Watch (using HealthKit) and convert your steps into free energy in-game!\n\nThis app connects to your Health app to track your apple watch steps using Apple's HealthKit functionality.\n\nPlease Note: Pocket Plants is a free-to-play game, but some extra game items can be purchased for real money. You can disable in-app purchases in your device's settings.",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/pocket-plants-cozy-plant-game/id1170134874?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "Health & Fitness"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Spring health walking spree"
+    },
+    "zh": {
+      "trackName": "口袋植物: 种花合成植物精灵的游戏",
+      "description": "合成众多可爱植物来解救各个魔法世界。超级魔性的游戏角色来给你挑战和任务，并且给到你丰厚的奖励。你还能连接电话或者Fitbit来转换运动步数为能量，帮助你加速游戏进程，为你的健康加分！\n\n主要特征：\n\n*收集所有植物：种植并匹配各种超级可爱的植物来合成出全新种类。几百种植物等你来收集。\n\n*帮助居民：为魔法世界居民们收获植物，完成他们的订单来获取令人兴奋的奖励！\n\n*魔法道具：通过研究订单中的烧瓶来获取众多的魔法道具。\n\n*不断探索：不断发现新的植物来唤醒枯萎的土地！\n\n*健康加分：绑定你的电话或Fitbit来转换运动步数为游戏内的\n能量！\n\n此应用程序可以连接到您的健康应用程序，以使用 Apple 的 HealthKit功能跟踪您的Apple Watch步数。\n\n请注意：Pocket Plants是一款免费的游戏，但一些额外的游戏物品能以真钱购买。你可以在设备的设置中禁用应用内购买。",
+      "releaseNotes": "此更新包含稳定性改进和错误修复。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E6%A4%8D%E7%89%A9-%E7%A7%8D%E8%8A%B1%E5%90%88%E6%88%90%E6%A4%8D%E7%89%A9%E7%B2%BE%E7%81%B5%E7%9A%84%E6%B8%B8%E6%88%8F/id1170134874?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "健康健美"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Pocket Plants: 歩くゲーム、植物 育成",
+      "description": "植物を融合させてたくさんの新しいキュートな植物たちをアンロックし、個性的な数々の世界に再び生命を取り戻そう。冒険では、チャーミングなキャラクターたちが大きな報酬をもたらすさまざまなタスクを与えて手を貸してくれます。さらに、電話やFitbitに接続して運動すればさらにエネルギーを作り出せます！\n\n\n主な特徴：\n\n*ぜんぶ集めよう！- 何百種類ものとってもかわいい植物たちをぜんぶ育てよう。異なる種類を融合させていくことで新しい種類に進化します。\n\n*面白いキャラクター - チャーミングなNPCのために植物を育て、オーダーを完了して素敵な報酬を手に入れよう！\n\n*パワーアップ - オーダーを完了してフラスコをアンロックし、様々なパワーアップを研究しよう。\n\n*探索 - 新種の植物をどんどん見つけて、複数ある魔法の世界に生命を取り戻そう。\n\n*健康的なゲーム要素 - 電話またはFitbitを接続して歩数をボーナスのゲーム内エネルギーに変換しよう！\n\nこのアプリはHealthアプリに接続し、AppleのHealthKit機能を使用してAppleWatchの歩数を追跡します。\n\n注意：『Pocket Plants』は無料でプレイできますが、ゲームアイテムの中には実際のお金で購入できるものもあります。この機能を利用したくない場合には、お使いの端末の設定からアプリ内課金を無効にしてください。",
+      "releaseNotes": "このアップデートには安定性の向上と一般的なバグ修正が含まれています。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/pocket-plants-%E6%AD%A9%E3%81%8F%E3%82%B2%E3%83%BC%E3%83%A0-%E6%A4%8D%E7%89%A9-%E8%82%B2%E6%88%90/id1170134874?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "ヘルスケア／フィットネス"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Pocket Plants: Schrittzähler",
+      "description": "Kombiniere deine Pflanzen, um Dutzende putziger neuer Pflanzen freizuschalten und verschiedene Welten wieder mit Leben zu erfüllen. Charmante Figuren helfen dir bei deinen Abenteuern und geben dir unterschiedliche Aufträge, für deren Abschluss du tolle Boni erhältst. Du kannst dich sogar mit deinem Handy oder deinem Fitbit verbinden, um mit deinen körperlichen Leistungen noch mehr Energie zu erzeugen!\n\n\nHAUPT-FEATURES:\n\n*Hol sie dir alle! - Züchte Hunderte hinreißender Pflanzen, kombiniere verschiedene Spezies und entwickle brandneue Arten.\n\n*Figuren – Hol dir mit deiner Pflanzenernte entzückende KI-Charaktere und schließe ihre Aufträge ab, um dir grandiose Boni zu sichern!\n\n*Powerups – Schließe Aufträge ab und erforsche Dutzende einzigartiger Powerups, um Flakons freizuschalten.\n\n*Erkundungen – Entdecke weitere Pflanzenarten und hauche mehreren magischen Welten neues Leben ein.\n\n*Fitness-Element – Verbinde dich mit deinem Handy oder deinem Fitbit und verwandle deine Schritte in kostenlose Ingame-Energie!\n\nDiese App stellt eine Verbindung zu Ihrer Health-App her, um Ihre Apple Watch-Schritte mithilfe der HealthKit-Funktion von Apple zu verfolgen.\n\nWichtiger Hinweis: Pocket Plants ist ein kostenlos spielbares Spiel. Einige Zusatz-Spielobjekte können jedoch für reales Geld gekauft werden. Die In-App-Käufe können in den Geräte-Einstellungen deaktiviert werden.",
+      "releaseNotes": "Dieses Update enthält Stabilitätsverbesserungen und allgemeine Fehlerbehebungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/pocket-plants-schrittz%C3%A4hler/id1170134874?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "Gesundheit und Fitness"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/91/02/6b910218-b4fc-0b01-5c32-2781f19090f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.625,
+  "userRatingCount": 160,
+  "price": 0,
+  "fileSizeBytes": "284043264",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "2.11.20",
+  "currentVersionReleaseDate": "2025-10-24T05:50:36Z",
+  "releaseDate": "2017-02-08T05:28:04Z",
+  "artistId": 1089497060,
+  "artistName": "Shikudo",
+  "artistViewUrl": "https://apps.apple.com/de/developer/shikudo/id1089497060?uo=4",
+  "sellerUrl": "https://www.shikudo.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/79/b3/d179b32d-579c-b669-d8c9-582b1f3265e8/89852de6-5e8f-4ef0-988a-d97119b661fb_2732x2048_01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/75/e9/0675e93a-03b3-0d1c-a70b-d9a21288955e/63ab24a0-cf8a-45a8-bb3c-a646554c9ad1_2732x2048_02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e4/9e/16/e49e1681-ecfa-77d0-d51d-1de7a32066d0/9f2043b1-12fd-4f12-aa22-2f2196c81703_2732x2048_03.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/d0/16/b9d01691-1545-834f-f42f-e94589e03a0c/bd99512f-32fe-487c-9888-2580d5561fc6_2732x2048_04.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/53/ad/bf53ad1c-0adf-cfbe-c33f-91ce1fcd3601/dbbcbce9-c71d-4784-93c4-36ec1f627ea5_2732x2048_05.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/59/a2/e7/59a2e7b8-d3a5-666c-9208-ea451ad889a2/54d43731-2089-4dad-8bab-dda5a8381577_2732x2048_01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/86/59/7d/86597d43-b3d3-7c23-b024-cbf0bad961e5/2e8abc4e-bb3f-4bd7-b9b5-3c3268a342a3_2732x2048_02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fe/6f/a9/fe6fa9b7-500c-5945-b256-6c7fd6053977/104db545-7bf6-4464-a206-12b91ce0ae85_2732x2048_03.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7f/99/fb/7f99fbca-ae9c-811b-e86e-df1d429c12b9/b6452a1e-d458-4e73-b243-c7618cbd16c1_2732x2048_04.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/67/05/4d/67054daf-7a24-7c8f-75c3-ff43a752bfa9/baf98e4e-b8ed-4a8c-be62-102ebdccb749_2732x2048_05.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a3/f0/7d/a3f07dff-600a-fcaf-f3c7-b7710a6caa65/a14e4e17-9edf-4800-80aa-1e005fc5a551_2688x1242_01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d6/f4/d4/d6f4d479-045e-9368-f2d4-e9febb37d7ec/413d0a31-4163-4451-a284-c7df0b29b2ad_2688x1242_02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5e/00/00/5e00001d-76b7-ba3c-07db-66971ed3d868/5f505848-e1bd-4d54-8d9c-5e6bb1fef42e_2688x1242_03.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9f/01/dc/9f01dc29-309a-38b9-9dd9-62e9b5cfa715/c452e59f-6900-41a5-add2-6c9f5a4d0df6_2688x1242_04.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b4/dc/df/b4dcdf32-7585-152c-2f91-4e729e1ace55/93811535-f044-4fa0-9b18-adf92d0708a2_2688x1242_05.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e0/7d/f3/e07df319-af35-530d-c4c0-558f3db69509/b3a838bb-9079-49fd-8eab-1edea91becf4_2208x1242_01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/0b/3c/3c0b3c17-1153-aed1-8f98-1b3770dfc665/fe01e4fa-955d-4448-8bfb-f1279a0d08ac_2208x1242_02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/18/b4/1a/18b41aa5-9161-a1ef-e59b-6ba1a571d65f/6a1fadc9-620c-4930-b32e-dfa30f81c582_2208x1242_03.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6d/fb/b0/6dfbb009-e32f-20dc-b4bc-b172226feb89/a7ff2587-0937-4460-87d1-b883e8388ff8_2208x1242_04.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fc/31/4c/fc314c64-7708-0121-a94b-dc3e38806989/c40744d5-573a-4036-82f9-087a07c8ff96_2208x1242_05.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/c6/04/bbc60493-7f37-f844-1b85-067bf8599367/85189bc1-2de8-4e09-bf54-f944682d3884_2688x1242_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bb/c3/1a/bbc31a0a-f713-8323-1314-900d07a0efc3/58fd13a5-ddf4-4004-9570-20cc86824ceb_2208x1242_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/a5/f9/d2a5f93a-f3b1-96b4-3dc8-688f412ae273/5eb05d52-546f-4242-b94e-afde363688ca_2688x1242_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/03/46/8703462e-633f-0a71-4250-be3f98d1f9e4/0db22855-0ad2-4a1f-9c67-76060779f82a_2688x1242_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/a3/d7/20a3d7ac-c8ef-012d-a437-ed30f3879abe/067865f9-9698-435f-b8e7-bfa15436ee67_2688x1242_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/50/29/da5029a2-1545-ed67-245c-8136ce192028/f3abd6bb-9ece-448f-97ac-679ae03129ae_2732x2048_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/45/6e/7c/456e7c78-ced7-255b-70c3-b883f4acd284/002ca94d-1475-4f99-b658-4c2aa414b6ca_2732x2048_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/f5/cf/4ff5cf65-6701-2894-ce4c-dffdef39465c/2039be7f-1b6c-4dce-952c-d818f06f13f5_2732x2048_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/af/7d/e2af7d7c-4532-9d10-4aa4-5563c3ce0c33/98454c97-f829-44d3-83dc-30d709989196_2732x2048_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/86/eb/7386eb6c-7b03-f5d3-41b8-1b04700a5455/d5862202-b2b5-4b5f-9d89-1e2c1b4d07c3_2732x2048_05.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/9a/b6/9b9ab67d-af72-1e3f-82aa-88d3cf395d57/5d5897db-d9df-4143-8453-1837b81e72f3_2688x1242_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/50/3d/87503dd1-6043-2477-a495-5ac71dc59be8/aecbe889-f726-4b79-8927-6f37cad1ab2f_2688x1242_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/95/85/1895853d-610e-0c52-e94f-a63c7b3adbd5/3f08fc92-9812-4f6a-be14-338aa010a6b4_2688x1242_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/ab/01/0aab01d0-ae66-c38f-fc15-e907aba1451c/eb0a7dbe-00b5-49ae-b53c-735075796f8e_2688x1242_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/2e/c4/042ec441-4f84-7d60-f66e-47c0b84bfb6a/142f7c43-03f6-4c8c-9e46-fe5e660bbc36_2688x1242_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/7e/5b/f77e5b28-7fae-af4b-50b5-bb9943ad500e/44113705-cd6a-4442-b7a9-1956978357aa_2732x2048_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/b4/11/64b41122-a4de-fe77-de25-739b003fc1cf/bb3b175e-6887-42f7-b108-23d0ddc548f5_2732x2048_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/91/d7/ab/91d7abce-fc38-71c2-8848-02c8be27af30/f9dce489-4114-4283-ad7a-0ba78289fb08_2732x2048_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/da/f4/e1daf484-9971-86b1-4fb3-1896528ca83e/6c780726-1e16-4cc0-ba56-87366d622ce6_2732x2048_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/ba/de/d6badec3-123a-1335-ef74-68f974adffce/f168c0a1-8f68-473e-b48c-88ca6b01c8c0_2732x2048_05.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d7/88/92/d788922d-d715-7042-1372-a7e487f31678/44a596ee-d25f-41c3-b464-f62b1521e126_2688x1242_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fe/1f/d6/fe1fd632-06bc-483c-b6f0-ad726386cbf4/a61bae2f-89d7-474b-ae31-7897c9f50f02_2688x1242_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/88/41/d9/8841d9b8-f28c-76a6-3685-0b562208dfac/a24d13b7-941b-4207-be94-61254c3bf27d_2688x1242_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/67/07/b2/6707b217-0aa8-c531-3380-48bba8358d94/fc3be508-c43d-447c-a10e-05a8bffd77f2_2688x1242_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bc/cf/cc/bccfcc00-c910-d86b-66a0-c1ac27a5e6da/0e918af7-a91b-4ecf-8d35-7aae2e81341d_2688x1242_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fc/53/49/fc53497d-1d35-fb20-914d-e6c8123c40c8/97e10637-066f-4cf1-8ff5-7761bef832b3_2732_x2048_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/46/5b/51465bee-6dc6-2527-f830-42814889050c/573e3faf-5638-42fb-8d6f-5b7bb5799825_2732x2048_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/97/83/e0978363-acb4-5f60-a38d-c5f2fe2275e6/0e8d62a0-0157-4684-9a36-ec6c02993588_2732x2048_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/cd/f5/2acdf5fe-ce20-d944-d18b-79dc41f9ca87/5c208c4c-598c-44e1-a547-1cb2303cc3f3_2732x2048_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/cb/3d/f8cb3daa-936b-747d-b1a3-2dd4195ac799/f978a17f-854a-4135-a0e6-853f17080f05_2732x2048_05.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a3/f0/7d/a3f07dff-600a-fcaf-f3c7-b7710a6caa65/a14e4e17-9edf-4800-80aa-1e005fc5a551_2688x1242_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d6/f4/d4/d6f4d479-045e-9368-f2d4-e9febb37d7ec/413d0a31-4163-4451-a284-c7df0b29b2ad_2688x1242_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5e/00/00/5e00001d-76b7-ba3c-07db-66971ed3d868/5f505848-e1bd-4d54-8d9c-5e6bb1fef42e_2688x1242_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9f/01/dc/9f01dc29-309a-38b9-9dd9-62e9b5cfa715/c452e59f-6900-41a5-add2-6c9f5a4d0df6_2688x1242_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b4/dc/df/b4dcdf32-7585-152c-2f91-4e729e1ace55/93811535-f044-4fa0-9b18-adf92d0708a2_2688x1242_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/79/b3/d179b32d-579c-b669-d8c9-582b1f3265e8/89852de6-5e8f-4ef0-988a-d97119b661fb_2732x2048_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/75/e9/0675e93a-03b3-0d1c-a70b-d9a21288955e/63ab24a0-cf8a-45a8-bb3c-a646554c9ad1_2732x2048_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e4/9e/16/e49e1681-ecfa-77d0-d51d-1de7a32066d0/9f2043b1-12fd-4f12-aa22-2f2196c81703_2732x2048_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/d0/16/b9d01691-1545-834f-f42f-e94589e03a0c/bd99512f-32fe-487c-9888-2580d5561fc6_2732x2048_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/53/ad/bf53ad1c-0adf-cfbe-c33f-91ce1fcd3601/dbbcbce9-c71d-4784-93c4-36ec1f627ea5_2732x2048_05.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/57/8c/d9578cc8-a081-f501-7e39-50e01813f3af/mzl.ycdivvak.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fc/fd/6b/fcfd6b7d-01aa-abce-3829-230a25bb16a5/mzl.ddpnleau.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/9f/c1/179fc1b4-ed8a-a747-832e-52d43b1cc1f7/mzl.ghqtqvfj.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.9.1",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2022-09-06T16:46:54Z"
+    },
+    {
+      "version": "2.9.2",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2022-09-20T15:41:48Z"
+    },
+    {
+      "version": "2.10",
+      "releaseNotes": "* New feature\n- Farmsaur is on sale in the ruby shop: allow one tap to collect rewards from friends' social residents",
+      "seenAt": "2022-10-19T02:43:09Z"
+    },
+    {
+      "version": "2.10.1",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2022-10-27T14:29:35Z"
+    },
+    {
+      "version": "2.10.4",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-01-28T06:26:13Z"
+    },
+    {
+      "version": "2.10.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-03-01T02:32:35Z"
+    },
+    {
+      "version": "2.10.7",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-04-26T07:26:00Z"
+    },
+    {
+      "version": "2.10.8",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-05-19T05:51:55Z"
+    },
+    {
+      "version": "2.10.9",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-06-01T03:07:14Z"
+    },
+    {
+      "version": "2.10.10",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-06-21T03:48:34Z"
+    },
+    {
+      "version": "2.11.1",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-08-04T01:50:43Z"
+    },
+    {
+      "version": "2.11.2",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-08-04T07:37:59Z"
+    },
+    {
+      "version": "2.11.3",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-09-22T00:50:23Z"
+    },
+    {
+      "version": "2.11.5",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-12-25T06:54:25Z"
+    },
+    {
+      "version": "2.11.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2024-01-02T04:17:29Z"
+    },
+    {
+      "version": "2.11.7",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2024-03-14T07:19:03Z"
+    },
+    {
+      "version": "2.11.8",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2024-03-25T02:48:34Z"
+    },
+    {
+      "version": "2.11.9",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2024-05-28T00:04:07Z"
+    },
+    {
+      "version": "2.11.10",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2024-08-27T07:35:58Z"
+    },
+    {
+      "version": "2.11.15",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2025-02-09T13:40:47Z"
+    },
+    {
+      "version": "2.11.16",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2025-05-22T14:46:27Z"
+    },
+    {
+      "version": "2.11.17",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-05-27T08:52:26Z"
+    },
+    {
+      "version": "2.11.18",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2025-06-26T03:26:07Z"
+    },
+    {
+      "version": "2.11.19",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-10-13T23:58:16Z"
+    },
+    {
+      "version": "2.11.20",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-10-24T05:50:36Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T08:58:35.964Z",
+  "isOwnApp": false
+}

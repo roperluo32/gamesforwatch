@@ -1,0 +1,250 @@
+{
+  "trackId": "6744504617",
+  "bundleId": "tt.Dope-Wars-on-Watch",
+  "slug": "dope-wars-on-watch",
+  "path": "/apps/6744504617-dope-wars-on-watch/",
+  "locales": {
+    "en": {
+      "trackName": "Dope Wars on Watch",
+      "description": "The classic turn-based strategy gameplay is reborn with Dope Wars on Watch—a modern Apple Watch adaptation of the iconic DOS game. Navigate a high-stakes world of fast-paced trading, risky loans, and unpredictable market events. Buy low, sell high, and fend off rivals (and persistent law enforcement) to achieve a high score.\n\n# Features: \n- Classic Turn-Based Gameplay: Manage resources, dodge hazards, and grow your empire—all from your wrist.\n-  Dynamic Markets: Prices shift daily. Adapt to events, insider tips, and surprise challenges. \n- Risk vs. Reward: Borrow cash (carefully!), deposit earned cash, and upgrade your toolkit to stay ahead. \n- Watch-Optimized: Quick sessions, intuitive controls, and glanceable stats for on-the-go play. \n- Challenge: Unlock different game endings with your high score.\n\nDisclaimer: Dope Wars on Watch is a fictional strategy game inspired by retro classics. It does not endorse or depict real-world illegal activities. For entertainment purposes only.",
+      "releaseNotes": "UI fixes",
+      "trackViewUrl": "https://apps.apple.com/us/app/dope-wars-on-watch/id6744504617?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Tomas Tauber",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Entertainment",
+        "Strategy"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "OG Strategy Game on Your Wrist"
+    },
+    "ja": {
+      "trackName": "Dope Wars on Watch",
+      "description": "The classic turn-based strategy gameplay is reborn with Dope Wars on Watch—a modern Apple Watch adaptation of the iconic DOS game. Navigate a high-stakes world of fast-paced trading, risky loans, and unpredictable market events. Buy low, sell high, and fend off rivals (and persistent law enforcement) to achieve a high score.\n\n# Features: \n- Classic Turn-Based Gameplay: Manage resources, dodge hazards, and grow your empire—all from your wrist.\n-  Dynamic Markets: Prices shift daily. Adapt to events, insider tips, and surprise challenges. \n- Risk vs. Reward: Borrow cash (carefully!), deposit earned cash, and upgrade your toolkit to stay ahead. \n- Watch-Optimized: Quick sessions, intuitive controls, and glanceable stats for on-the-go play. \n- Challenge: Unlock different game endings with your high score.\n\nDisclaimer: Dope Wars on Watch is a fictional strategy game inspired by retro classics. It does not endorse or depict real-world illegal activities. For entertainment purposes only.",
+      "releaseNotes": "UI fixes",
+      "trackViewUrl": "https://apps.apple.com/jp/app/dope-wars-on-watch/id6744504617?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Tomas Tauber",
+      "genres": [
+        "ゲーム",
+        "シミュレーション",
+        "エンターテインメント",
+        "ストラテジー"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Dope Wars on Watch",
+      "description": "The classic turn-based strategy gameplay is reborn with Dope Wars on Watch—a modern Apple Watch adaptation of the iconic DOS game. Navigate a high-stakes world of fast-paced trading, risky loans, and unpredictable market events. Buy low, sell high, and fend off rivals (and persistent law enforcement) to achieve a high score.\n\n# Features: \n- Classic Turn-Based Gameplay: Manage resources, dodge hazards, and grow your empire—all from your wrist.\n-  Dynamic Markets: Prices shift daily. Adapt to events, insider tips, and surprise challenges. \n- Risk vs. Reward: Borrow cash (carefully!), deposit earned cash, and upgrade your toolkit to stay ahead. \n- Watch-Optimized: Quick sessions, intuitive controls, and glanceable stats for on-the-go play. \n- Challenge: Unlock different game endings with your high score.\n\nDisclaimer: Dope Wars on Watch is a fictional strategy game inspired by retro classics. It does not endorse or depict real-world illegal activities. For entertainment purposes only.",
+      "releaseNotes": "UI fixes",
+      "trackViewUrl": "https://apps.apple.com/de/app/dope-wars-on-watch/id6744504617?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Tomas Tauber",
+      "genres": [
+        "Spiele",
+        "Simulation",
+        "Unterhaltung",
+        "Strategie"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/6f/679d6f3b-3252-7c8a-0c35-42d38439c1d6/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "11930624",
+  "contentAdvisoryRating": "17+",
+  "minimumOsVersion": "13.0",
+  "version": "1.0.4",
+  "currentVersionReleaseDate": "2025-12-10T02:42:27Z",
+  "releaseDate": "2025-04-16T07:00:00Z",
+  "artistId": 1806128758,
+  "artistName": "Tomas Tauber",
+  "artistViewUrl": "https://apps.apple.com/de/developer/tomas-tauber/id1806128758?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/31/b6/e931b66c-57b4-634f-696d-baa043e64d73/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.11.41.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/75/cd/4075cda2-3623-ca1a-08d8-2c8b322f9f3e/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.12.42.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/c8/f4/e6c8f4fb-edea-946e-5f59-e40877b28a7d/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.13.19.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/49/8e/3d498e08-22a8-f14f-11da-412e28d2023b/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.12.23.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/bc/a2/0fbca2ea-6659-59bb-5212-1bac5692138a/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.17.03.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/49/f8/cb49f8e7-a682-f019-44e8-0f4c30095208/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.15.22.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/10/79/c5107901-fbc6-61e4-5022-91ad74f15d39/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.12.52.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/d2/39/dbd239c6-3e7c-3291-a863-1c1f50652a70/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.16.29.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a2/a2/c2a2a263-502b-649a-1ed1-ae7a74b83306/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.14.36.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/48/17/40481776-b87f-8fdd-3edf-279f75c34902/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-04-11_at_17.15.02.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2025-04-16T11:03:30Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "unlock button style improvement",
+      "seenAt": "2025-04-17T00:11:59Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "text length limit adjustment for smaller screens",
+      "seenAt": "2025-06-30T13:23:03Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "liquid glass icon",
+      "seenAt": "2025-09-16T16:11:58Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "UI fixes",
+      "seenAt": "2025-12-10T02:42:27Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:22:55.694Z",
+  "isOwnApp": false
+}

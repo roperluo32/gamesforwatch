@@ -249,7 +249,19 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/27/97/8e279743-4741-a0ca-2c5d-9fa9a25fb031/p3-en.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/2a/93/e02a9306-f9ce-cd3c-786d-6b0a9e273706/p4-en.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/9e/82/cd9e8237-459b-69f1-0154-101532ae41b6/p1-en.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/bd/a9/14bda9eb-4510-c024-73d8-c472894db409/p5-en.png/1242x2688bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/bd/a9/14bda9eb-4510-c024-73d8-c472894db409/p5-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/40/98/43409885-bfbf-0c03-f68d-a21769e0c4dc/p6-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/49/4c/3e494c23-c731-035c-0a83-e0d77523ebed/p2-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/87/dd/0487dd1e-0299-66ee-e305-2a582520b08d/p3-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/25/b0/c725b007-1c5c-967c-0c90-098aef15606d/p4-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/7f/30/1b7f30f5-e663-1522-4d13-ef79f873f402/p1-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/44/7b/37447b6a-a0ae-b50c-9def-8b881718c5ea/p5-de.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/93/33/259333ec-8fde-0605-1f56-7566c437c3ed/p6-ja.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/cc/a5/5fcca58f-8cb8-6172-149b-d80854cc9622/p2-ja.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/77/08/fd770811-c8fc-787c-6228-51f8d1daf774/p3-ja.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/db/11/d7db11e1-4528-affe-1dfe-426521565a23/p4-ja.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/a6/ce/e4a6ce6c-67a3-5294-46f4-aad36ae50946/p1-ja.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/f9/4b/f2f94bdc-45cf-75b9-c80f-95d0e65912d7/p5-ja.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/51/13/6e51139c-756e-e939-0f1d-502fbec11ecc/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.33.47.png/416x496bb.png",
@@ -390,6 +402,6 @@
       "seenAt": "2026-07-28T09:38:23Z"
     }
   ],
-  "updatedAt": "2026-08-04T03:46:39.144Z",
+  "updatedAt": "2026-08-04T08:56:56.472Z",
   "isOwnApp": true
 }

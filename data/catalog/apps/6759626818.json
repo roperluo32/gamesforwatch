@@ -209,7 +209,11 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/fa/92/87fa9285-1319-20d1-4f09-c21c36516781/iPad.jpg/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/31/9a/51319a72-da4a-2384-5685-6680d760fa77/02-Promo.jpg/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/db/27/2cdb27dd-db37-8e43-36d2-9998fdc6154a/03-Promo.jpg/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/4c/a9/154ca947-0f3c-d641-fe82-155d19df5eab/04-Promo.jpg/1242x2688bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/4c/a9/154ca947-0f3c-d641-fe82-155d19df5eab/04-Promo.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/31/9a/51319a72-da4a-2384-5685-6680d760fa77/02-Promo.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/db/27/2cdb27dd-db37-8e43-36d2-9998fdc6154a/03-Promo.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/4c/a9/154ca947-0f3c-d641-fe82-155d19df5eab/04-Promo.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/fa/92/87fa9285-1319-20d1-4f09-c21c36516781/iPad.jpg/360x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/68/23/fa682335-fb19-a90d-a9a1-0ea5d77537a4/00.jpg/422x514bb.png",
@@ -230,6 +234,6 @@
       "seenAt": "2026-03-08T10:00:12Z"
     }
   ],
-  "updatedAt": "2026-08-04T03:46:51.432Z",
+  "updatedAt": "2026-08-04T08:57:45.931Z",
   "isOwnApp": false
 }

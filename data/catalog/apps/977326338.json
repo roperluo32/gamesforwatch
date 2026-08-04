@@ -1,0 +1,365 @@
+{
+  "trackId": "977326338",
+  "bundleId": "com.vandrusyk.Watch-15-Puzzle",
+  "slug": "watch-15-puzzle",
+  "path": "/apps/977326338-watch-15-puzzle/",
+  "locales": {
+    "en": {
+      "trackName": "Watch 15 Puzzle",
+      "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
+      "releaseNotes": "Bug fixed and performance improvements",
+      "trackViewUrl": "https://apps.apple.com/us/app/watch-15-puzzle/id977326338?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Valerii Andrusyk",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Board",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE"
+      ],
+      "subtitle": "Logic puzzle, classic or photo"
+    },
+    "ja": {
+      "trackName": "Watch 15 Puzzle",
+      "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
+      "releaseNotes": "Bug fixed and performance improvements",
+      "trackViewUrl": "https://apps.apple.com/jp/app/watch-15-puzzle/id977326338?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Valerii Andrusyk",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "ボード",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Watch 15 Puzzle",
+      "description": "Das Spielbrett besteht aus 15 quadratischen Spielsteinen, die von 1 bis 15 nummeriert sind, in einem Rahmen, der 4 Spielsteinpositionen hoch und 4 Spielsteinpositionen breit ist, mit einer unbesetzten Position. Spielsteine, die sich in der gleichen Reihe oder Spalte der offenen Position befinden, können durch horizontales bzw. vertikales Verschieben verschoben werden. Das Ziel des Puzzles ist es, die Spielsteine in numerischer Reihenfolge (von links nach rechts, von oben nach unten) anzuordnen.\n\nVersuche, so schnell wie möglich zu gewinnen, indem du auf der Apple Watch oder dem iPhone spielst!",
+      "releaseNotes": "Fehlerbehebung und Leistungsverbesserungen",
+      "trackViewUrl": "https://apps.apple.com/de/app/watch-15-puzzle/id977326338?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Valerii Andrusyk",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Brettspiele",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/96/d9/5296d986-74c8-3c1f-462c-f34e829650fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "2379776",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "4.3",
+  "currentVersionReleaseDate": "2026-06-20T19:58:39Z",
+  "releaseDate": "2015-04-23T02:15:12Z",
+  "artistId": 787326004,
+  "artistName": "Valerii Andrusyk",
+  "artistViewUrl": "https://apps.apple.com/de/developer/valerii-andrusyk/id787326004?uo=4",
+  "sellerUrl": "https://vandrusik.github.io",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/32/2b/21322b41-e4dc-816d-cbaa-a7206422f37a/07fd18fb-c545-4565-a368-a358ac00b8f6_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.31.44.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/c0/e2/71c0e28b-e583-bbaa-599b-b5568e1ae1a7/eb35bec9-cade-4f6d-a34a-05f6aa9be98a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.32.31.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/d6/86/11d68622-d4e5-322c-ea2d-d21da177c7da/0f842e9b-5fdb-4b84-9a9c-80ec05209426_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.30.02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/9f/96/929f969b-ce07-ef0a-42ef-c0353fa75145/7cee8b3d-11c0-4a0a-aea2-009f9b5f2ad4_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.32.37.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/69/8c/a5/698ca5d2-4829-573a-4084-bd4190fc11c9/ef5b84a4-a0b0-4a22-b4b2-b8981a65b12a_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_Mick_account_-_2024-01-19_at_22.43.42.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/66/cb/7066cb68-ef4f-2013-9944-912e36d60e33/4ee7ba04-4ab3-43c9-99a2-3a9f04c649a9_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_Mick_account_-_2024-01-19_at_22.44.38.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/52/3a/0b523a66-2965-8759-e9fb-72578bd1407b/64f6d3fa-3b9d-4672-a1b5-861f99dd44b0_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_Mick_account_-_2024-01-19_at_22.42.23.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/0b/09/7a0b0925-f6f5-2c22-95df-2e0c64651e5b/d086c18a-a816-49bc-b0ba-81f989ce6c75_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_Mick_account_-_2024-01-19_at_22.41.44.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/ec/df/42ecdf0d-a20c-8dfb-534a-55872a90913a/0f2c733d-24a8-4782-966f-6eb6a6a49147_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.51.47.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f5/c0/74/f5c07460-2335-7e1d-0e5f-679848592334/0e07f4f4-229b-440d-9b84-cae348fc55bd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.50.35.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/2e/5e/a92e5e2f-a371-a6da-64ee-9dc592319712/ce74cdcb-eecc-410a-85bd-31b96d79e95c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.49.13.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/28/c8/60/28c860c6-2b0c-2973-ed7e-c7e0d0e0cdb9/483dc80d-35f4-4071-afc7-5de74fdaa8a3_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.48.40.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/32/2b/21322b41-e4dc-816d-cbaa-a7206422f37a/07fd18fb-c545-4565-a368-a358ac00b8f6_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.31.44.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/c0/e2/71c0e28b-e583-bbaa-599b-b5568e1ae1a7/eb35bec9-cade-4f6d-a34a-05f6aa9be98a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.32.31.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/d6/86/11d68622-d4e5-322c-ea2d-d21da177c7da/0f842e9b-5fdb-4b84-9a9c-80ec05209426_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.30.02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/9f/96/929f969b-ce07-ef0a-42ef-c0353fa75145/7cee8b3d-11c0-4a0a-aea2-009f9b5f2ad4_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.32.37.png/392x696bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/bb/0a/c0bb0ae0-dd15-c093-702f-ea21c6a73c8b/mzl.tagusgwk.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/f9/85/98f9854d-565e-8aba-3fa7-d2ab0713cbf1/mzl.fotqfayr.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.3",
+      "releaseNotes": "Small improvements",
+      "seenAt": "2016-07-25T23:04:07Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "This version is for iOS 10 and watchOS 3, or higher.\nNo more taps on game field, just swipe to needed direction to move tiles.",
+      "seenAt": "2016-09-13T21:00:37Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Added making a puzzle from random image in your photo library (on iPhone)",
+      "seenAt": "2017-09-15T02:28:47Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Adapted for iPhone X",
+      "seenAt": "2017-12-19T23:24:18Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Small bug fixed",
+      "seenAt": "2018-02-15T01:57:57Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Adapted for new iOS and watchOS",
+      "seenAt": "2018-12-01T00:18:02Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2019-08-21T14:10:14Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Added Dark mode support",
+      "seenAt": "2019-12-23T20:07:02Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2020-03-16T19:53:20Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2020-04-04T16:29:05Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2020-04-13T15:46:11Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Updated for iOS 14",
+      "seenAt": "2020-10-11T22:18:18Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "Bug fixing and performance improvements\n",
+      "seenAt": "2020-10-31T13:10:20Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "Updated for iOS 15",
+      "seenAt": "2022-02-04T12:20:33Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "Fixed bug with image selection for puzzle",
+      "seenAt": "2023-08-11T15:07:03Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2023-11-01T16:22:36Z"
+    },
+    {
+      "version": "3.5",
+      "releaseNotes": "Adapted for the latest iPhones",
+      "seenAt": "2024-01-20T15:05:52Z"
+    },
+    {
+      "version": "3.6",
+      "releaseNotes": "Fixed bugs in Apple Watch version",
+      "seenAt": "2024-03-29T00:02:40Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2024-04-24T04:57:47Z"
+    },
+    {
+      "version": "3.8",
+      "releaseNotes": "Updated to support iOS 18 and watchOS 11",
+      "seenAt": "2024-09-24T03:50:44Z"
+    },
+    {
+      "version": "3.9",
+      "releaseNotes": "Adapted for iOS 18",
+      "seenAt": "2024-10-13T09:30:09Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "Bug fixes and performance improvements ",
+      "seenAt": "2025-02-13T14:43:07Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "Updated for iOS 26",
+      "seenAt": "2025-11-18T17:28:14Z"
+    },
+    {
+      "version": "4.2",
+      "releaseNotes": "Removed Fullscreen advertising",
+      "seenAt": "2026-05-29T18:51:23Z"
+    },
+    {
+      "version": "4.3",
+      "releaseNotes": "Bug fixed and performance improvements ",
+      "seenAt": "2026-06-20T19:58:39Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:01:30.394Z",
+  "isOwnApp": false
+}

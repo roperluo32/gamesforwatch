@@ -1,0 +1,292 @@
+{
+  "trackId": "1447158853",
+  "bundleId": "com.resetgame.Vegas-Bowling-Lite-Watch",
+  "slug": "vegas-bowling-lite-watch",
+  "path": "/apps/1447158853-vegas-bowling-lite-watch/",
+  "locales": {
+    "en": {
+      "trackName": "Vegas Bowling Lite Watch",
+      "description": "Note: Vegas Bowling Lite Watch plays on the Apple Watch. This free version plays shortened 3 frame games; upgrade to the full version for 10 frame games.\n\nHungry for cash, casino hustlers have fled the moribund Vegas Strip and now haunt the humble bowling alleys of North Las Vegas.\n\nWhile Lisa and Beth seem nice (maybe too nice), and Doc in his grandpa cardigan appears benign, you best beware. About five frames in you will wish you were back on the farm with the seed money still in your bib overall pocket. Because you ain't just bowling now, baby -- you're Vegas Bowling.\n\n- Four opponents of increasing difficulty\n- Realistic physics\n- Adjustable curve balls\n- Resume game",
+      "releaseNotes": "ios 27 and watchOS 27 support",
+      "trackViewUrl": "https://apps.apple.com/us/app/vegas-bowling-lite-watch/id1447158853?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "RESETgame",
+      "genres": [
+        "Games",
+        "Sports"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "zh": {
+      "trackName": "Vegas Bowling Lite Watch",
+      "description": "Note: Vegas Bowling Lite Watch plays on the Apple Watch. This free version plays shortened 3 frame games; upgrade to the full version for 10 frame games.\n\nHungry for cash, casino hustlers have fled the moribund Vegas Strip and now haunt the humble bowling alleys of North Las Vegas.\n\nWhile Lisa and Beth seem nice (maybe too nice), and Doc in his grandpa cardigan appears benign, you best beware. About five frames in you will wish you were back on the farm with the seed money still in your bib overall pocket. Because you ain't just bowling now, baby -- you're Vegas Bowling.\n\n- Four opponents of increasing difficulty\n- Realistic physics\n- Adjustable curve balls\n- Resume game",
+      "releaseNotes": "ios 27 and watchOS 27 support",
+      "trackViewUrl": "https://apps.apple.com/cn/app/vegas-bowling-lite-watch/id1447158853?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "RESETgame",
+      "genres": [
+        "游戏",
+        "体育"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Vegas Bowling Lite Watch",
+      "description": "Note: Vegas Bowling Lite Watch plays on the Apple Watch. This free version plays shortened 3 frame games; upgrade to the full version for 10 frame games.\n\nHungry for cash, casino hustlers have fled the moribund Vegas Strip and now haunt the humble bowling alleys of North Las Vegas.\n\nWhile Lisa and Beth seem nice (maybe too nice), and Doc in his grandpa cardigan appears benign, you best beware. About five frames in you will wish you were back on the farm with the seed money still in your bib overall pocket. Because you ain't just bowling now, baby -- you're Vegas Bowling.\n\n- Four opponents of increasing difficulty\n- Realistic physics\n- Adjustable curve balls\n- Resume game",
+      "releaseNotes": "ios 27 and watchOS 27 support",
+      "trackViewUrl": "https://apps.apple.com/jp/app/vegas-bowling-lite-watch/id1447158853?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "RESETgame",
+      "genres": [
+        "ゲーム",
+        "スポーツ"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Vegas Bowling Lite Watch",
+      "description": "Note: Vegas Bowling Lite Watch plays on the Apple Watch. This free version plays shortened 3 frame games; upgrade to the full version for 10 frame games.\n\nHungry for cash, casino hustlers have fled the moribund Vegas Strip and now haunt the humble bowling alleys of North Las Vegas.\n\nWhile Lisa and Beth seem nice (maybe too nice), and Doc in his grandpa cardigan appears benign, you best beware. About five frames in you will wish you were back on the farm with the seed money still in your bib overall pocket. Because you ain't just bowling now, baby -- you're Vegas Bowling.\n\n- Four opponents of increasing difficulty\n- Realistic physics\n- Adjustable curve balls\n- Resume game",
+      "releaseNotes": "ios 27 and watchOS 27 support",
+      "trackViewUrl": "https://apps.apple.com/de/app/vegas-bowling-lite-watch/id1447158853?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "RESETgame",
+      "genres": [
+        "Spiele",
+        "Sport"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/26/96/45269667-c6c4-99b8-7e45-193fba74fbf9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 2.2,
+  "userRatingCount": 5,
+  "price": 0,
+  "fileSizeBytes": "11392000",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "17.6",
+  "version": "1.0.12",
+  "currentVersionReleaseDate": "2026-07-01T12:11:48Z",
+  "releaseDate": "2018-12-21T10:13:17Z",
+  "artistId": 341062330,
+  "artistName": "RESETgame",
+  "artistViewUrl": "https://apps.apple.com/de/developer/resetgame/id341062330?uo=4",
+  "sellerUrl": "http://resetgame.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/a8/99/3ea899c3-e7f5-b2ea-c385-b4415a7f1e19/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/59/12/f4/5912f41c-514d-c3f9-3a25-5c29f7bf7416/ee4635a1-45b6-49ac-8e8d-d1cee5e086d4_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-09-16_at_16.35.08.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/76/6a/c6766a24-dbcd-23c3-d0a6-784c1cb0566c/f6ad8aab-3d7f-4e46-99ab-1481ba6232cc_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-03-20_at_15.15.27.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/09/70/45/097045c2-b6b5-9289-df83-4a76073c9067/0f9efee7-f4a4-46af-adf6-4bd72e7376d0_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-09-16_at_16.33.18.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/a8/99/3ea899c3-e7f5-b2ea-c385-b4415a7f1e19/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/59/12/f4/5912f41c-514d-c3f9-3a25-5c29f7bf7416/ee4635a1-45b6-49ac-8e8d-d1cee5e086d4_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-09-16_at_16.35.08.png/392x696bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/3c/83/1c3c8347-7e1c-488c-c93a-a185cbbdafa3/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/8f/3c/968f3cc3-b5bb-9f5e-6420-d6df10eeec74/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/e3/ea/ece3ea43-174e-13cc-036b-0756912f550a/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/c3/2c/6dc32ca4-96c2-4314-ecbd-b0cce48d220f/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/6f/32/4d6f3298-290c-2bc4-df91-4354bb5241c9/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/e1/9d/1ae19dd9-0804-68b7-8201-b6ba9a494d2f/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/73/51/2f735119-cd0b-9cff-9d0a-29bfdd6b799e/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/8c/44/9c8c447f-a7fe-7cc9-a9b9-664996a2f2b4/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/18/5a/46185ae0-36d5-b280-d480-bd6c9d0c25c0/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/db/c3/46dbc3fe-6e72-1d75-4386-c24fb7728b54/pr_source.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.3",
+      "releaseNotes": "",
+      "seenAt": "2018-12-19T16:32:49Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "Fixed problem with score panel.",
+      "seenAt": "2018-12-20T18:51:38Z"
+    },
+    {
+      "version": "1.0.5",
+      "releaseNotes": "Minimum WatchOS version is now 4.0.",
+      "seenAt": "2019-01-08T20:53:39Z"
+    },
+    {
+      "version": "1.0.6",
+      "releaseNotes": "Support for 45 mm watch face",
+      "seenAt": "2022-03-21T21:49:33Z"
+    },
+    {
+      "version": "1.0.7",
+      "releaseNotes": "Sometimes slow falling pins were not counted in score",
+      "seenAt": "2022-04-02T14:53:51Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "Apple Watch Ultra support\n",
+      "seenAt": "2022-09-16T22:02:58Z"
+    },
+    {
+      "version": "1.0.9",
+      "releaseNotes": "Sharpened environment graphics\nCorrect scoring problem with late dropping pins\n\n",
+      "seenAt": "2022-12-14T23:25:02Z"
+    },
+    {
+      "version": "1.0.10",
+      "releaseNotes": "Fixed a problem that could stop scoring too soon.",
+      "seenAt": "2023-02-12T10:08:18Z"
+    },
+    {
+      "version": "1.0.11",
+      "releaseNotes": "Fixed a sound dropout problem.\nReduced delay during frame scoring.",
+      "seenAt": "2023-02-16T22:57:40Z"
+    },
+    {
+      "version": "1.0.12",
+      "releaseNotes": "ios 27 and watchOS 27 support",
+      "seenAt": "2026-07-01T12:11:48Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:12:00.099Z",
+  "isOwnApp": false
+}

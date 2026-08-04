@@ -1,0 +1,394 @@
+{
+  "trackId": "1599064732",
+  "bundleId": "com.dd.superChess",
+  "slug": "super-chess-for-watch-phone",
+  "path": "/apps/1599064732-super-chess-for-watch-phone/",
+  "locales": {
+    "en": {
+      "trackName": "Super Chess for Watch & Phone",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "trackViewUrl": "https://apps.apple.com/us/app/super-chess-for-watch-phone/id1599064732?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Family",
+        "Board"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Offline Strategy Board Game"
+    },
+    "zh": {
+      "trackName": "Super Chess for Watch & Phone",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/super-chess-for-watch-phone/id1599064732?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
+      "genres": [
+        "游戏",
+        "娱乐",
+        "家庭聚会",
+        "桌面"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Super Chess for Watch & Phone",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/super-chess-for-watch-phone/id1599064732?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Diem Le",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "ファミリー",
+        "ボード"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Super Chess for Watch & Phone",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "trackViewUrl": "https://apps.apple.com/de/app/super-chess-for-watch-phone/id1599064732?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Familie",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f4/40/68f440bb-3bcd-7db9-1e87-ddd683a79305/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "52377600",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "3.4.0",
+  "currentVersionReleaseDate": "2026-07-28T00:01:29Z",
+  "releaseDate": "2021-12-08T08:00:00Z",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
+  "sellerUrl": "https://mywatchgame.web.app",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/7c/fa/207cfa93-edde-2d58-6942-77e238e1ea51/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.41.47.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/66/23/3966230f-1567-2a80-8868-189c82216e91/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.28.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/5a/ec/125aecdd-c5ad-027c-e829-7208ef5fb376/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.02.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/16/62/471662da-9230-add8-601a-1028a7c11ac7/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.09.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/46/af/3646afab-7acf-d918-7e46-5c7ca7e9a975/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.46.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/23/6c/0f236c36-136e-d705-4cfe-40bb1d8fda60/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.41.54.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/01/47/030147bf-04bd-5476-de8d-8453ea994f5c/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.17.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/81/32/078132da-7791-e96c-a687-b0a4d31c678b/ip_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/bd/fb/08bdfb59-c9f3-1bc5-9f0d-106b185ad73d/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.14.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/53/26/8c532639-e749-58ec-51f3-f02511b307c2/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.07.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0d/d3/220dd328-c66a-cf7a-3760-713de27f80d5/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.40.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/e4/25/d2e425a7-583e-6f42-96e2-03b4f3243750/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.21.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/ca/98/a0ca9854-29b3-2ac7-7af9-97cc69091a7b/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.47.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/74/24/0a7424d7-7a5a-ffee-bc86-e4060f7bf196/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.30.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/81/32/078132da-7791-e96c-a687-b0a4d31c678b/ip_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/bd/fb/08bdfb59-c9f3-1bc5-9f0d-106b185ad73d/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.14.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/53/26/8c532639-e749-58ec-51f3-f02511b307c2/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.07.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0d/d3/220dd328-c66a-cf7a-3760-713de27f80d5/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.40.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/e4/25/d2e425a7-583e-6f42-96e2-03b4f3243750/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.21.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/ca/98/a0ca9854-29b3-2ac7-7af9-97cc69091a7b/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.47.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/74/24/0a7424d7-7a5a-ffee-bc86-e4060f7bf196/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-22_at_11.39.30.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/7c/fa/207cfa93-edde-2d58-6942-77e238e1ea51/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.41.47.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/66/23/3966230f-1567-2a80-8868-189c82216e91/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.28.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/5a/ec/125aecdd-c5ad-027c-e829-7208ef5fb376/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.02.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/16/62/471662da-9230-add8-601a-1028a7c11ac7/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.09.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/46/af/3646afab-7acf-d918-7e46-5c7ca7e9a975/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.46.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/23/6c/0f236c36-136e-d705-4cfe-40bb1d8fda60/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.41.54.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/01/47/030147bf-04bd-5476-de8d-8453ea994f5c/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-22_at_11.42.17.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/5e/21/c15e21c4-c0f9-7472-0cc6-127f06b68f15/w7.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/da/db/3ddadb40-5e30-b755-0665-c3e043104b49/w2.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8c/97/1b8c9715-6dfa-de96-8a86-fc82ad7eed77/w5.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0d/e0/540de039-6fc4-28a3-2b33-46e206175fd7/w6.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/d8/6e/44d86ee7-ca5f-586c-944d-b3ed879859b3/w3.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/8c/f6/f68cf677-d0ef-28a8-3a8f-2c051ee2cc50/w4.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ab/34/ebab3465-db97-22e4-448e-61eb26cdf505/w1.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.1.0",
+      "releaseNotes": " - Update game balance.",
+      "seenAt": "2021-12-14T19:50:35Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "- Update game balance.",
+      "seenAt": "2021-12-21T20:41:37Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "- Update game balance.",
+      "seenAt": "2022-01-07T09:38:48Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "- Update game balance.",
+      "seenAt": "2022-01-13T18:45:54Z"
+    },
+    {
+      "version": "1.5.0",
+      "releaseNotes": "- Update game balance.",
+      "seenAt": "2022-03-09T18:59:14Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2022-12-20T12:55:28Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2023-07-04T08:35:48Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2023-11-14T08:19:24Z"
+    },
+    {
+      "version": "1.7.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-01-01T09:14:27Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-03-01T11:37:40Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-06-18T11:40:59Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-08-12T05:20:58Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2024-08-26T08:10:24Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "- Stronger chess engine.\n- Unlock Themes.\n- Optimized for new OS.",
+      "seenAt": "2024-10-31T09:08:33Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "- Stronger chess engine.\n- Unlock Themes.\n- Optimized for new OS.",
+      "seenAt": "2024-11-01T05:48:14Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "- Stronger chess engine.\n- Unlock Themes.\n- Optimized for new OS.",
+      "seenAt": "2024-11-12T11:55:40Z"
+    },
+    {
+      "version": "3.2.0",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2024-12-11T12:31:29Z"
+    },
+    {
+      "version": "3.2.1",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2024-12-24T04:09:23Z"
+    },
+    {
+      "version": "3.2.2",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2025-02-11T19:58:04Z"
+    },
+    {
+      "version": "3.2.3",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2025-10-04T17:56:16Z"
+    },
+    {
+      "version": "3.3.0",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2025-12-19T07:56:16Z"
+    },
+    {
+      "version": "3.3.1",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2026-03-13T17:05:24Z"
+    },
+    {
+      "version": "3.3.2",
+      "releaseNotes": "Optimized for new OS.",
+      "seenAt": "2026-07-01T16:31:27Z"
+    },
+    {
+      "version": "3.3.3",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "seenAt": "2026-07-15T16:53:03Z"
+    },
+    {
+      "version": "3.4.0",
+      "releaseNotes": "This update improves the chess experience with smarter AI, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "seenAt": "2026-07-28T00:01:29Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:02:37.751Z",
+  "isOwnApp": false
+}

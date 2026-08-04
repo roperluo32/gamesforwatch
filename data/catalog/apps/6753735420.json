@@ -1,0 +1,385 @@
+{
+  "trackId": "6753735420",
+  "bundleId": "com.dt.hexaBlock",
+  "slug": "hexa-block-jam-watch-phone",
+  "path": "/apps/6753735420-hexa-block-jam-watch-phone/",
+  "locales": {
+    "en": {
+      "trackName": "Hexa Block Jam - Watch & Phone",
+      "description": "Hexa Block Jam - play on both Watch & Phone:  \n  - Make all movable hexes escape the board.\n  - Each hex moves in only one direction — plan carefully.\n  - Navigate through obstacles and escape the grid.\n  - Every level is uniquely solvable and handcrafted.\n  - Clean visuals, smooth motion, and smart logic fun.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/us/app/hexa-block-jam-watch-phone/id6753735420?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "One way out for every hex."
+    },
+    "zh": {
+      "trackName": "Hexa Block Jam - Watch & Phone",
+      "description": "Hexa Block Jam - play on both Watch & Phone:  \n  - Make all movable hexes escape the board.\n  - Each hex moves in only one direction — plan carefully.\n  - Navigate through obstacles and escape the grid.\n  - Every level is uniquely solvable and handcrafted.\n  - Clean visuals, smooth motion, and smart logic fun.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/hexa-block-jam-watch-phone/id6753735420?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
+      "genres": [
+        "游戏",
+        "娱乐",
+        "益智解谜",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Hexa Block Jam - Watch & Phone",
+      "description": "Hexa Block Jam - play on both Watch & Phone:  \n  - Make all movable hexes escape the board.\n  - Each hex moves in only one direction — plan carefully.\n  - Navigate through obstacles and escape the grid.\n  - Every level is uniquely solvable and handcrafted.\n  - Clean visuals, smooth motion, and smart logic fun.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/hexa-block-jam-watch-phone/id6753735420?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Diem Le",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "パズル",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Hexa Block Jam - Watch & Phone",
+      "description": "Hexa Block Jam - play on both Watch & Phone:  \n  - Make all movable hexes escape the board.\n  - Each hex moves in only one direction — plan carefully.\n  - Navigate through obstacles and escape the grid.\n  - Every level is uniquely solvable and handcrafted.\n  - Clean visuals, smooth motion, and smart logic fun.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/de/app/hexa-block-jam-watch-phone/id6753735420?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Diem Le",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Puzzle",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b2/64/e3b2643a-ea15-e714-bce2-1d716478f71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "84850688",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "2.3.2",
+  "currentVersionReleaseDate": "2026-07-02T18:42:14Z",
+  "releaseDate": "2025-10-09T07:00:00Z",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
+  "sellerUrl": "https://mywatchgame.web.app",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/8f/35/ae8f3518-e116-0e56-ae05-2fe56946c5d2/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.52.26.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/d8/01/73d8014a-2eee-ffbd-7897-6ad72854c909/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.52.57.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/83/fa/e583fa63-402d-f488-8f6a-e79553cb46c6/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.51.42.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/ad/d9/d2add9bb-cc6e-a05d-174a-7abc8bfaa0be/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.55.55.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/76/f2/eb76f254-24a6-9f37-aa4f-1ee18803919a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.55.28.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/7d/83/397d83ce-1197-aaa2-6878-d137b1307100/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.47.25.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/6f/31/2a6f311c-765f-dc35-18bf-0f7138bcc354/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.46.23.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/d4/86/1dd48682-7915-ec07-5ff6-756bcb86bf42/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.46.55.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/3c/b3/1d3cb331-7f8d-5bf7-47ee-92588cad2e3b/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.41.04.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/e0/24/6ce024f5-ae36-5bc0-138c-f7b324fe2924/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.39.58.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/45/d7/4445d786-974d-4186-337a-32f7d23034c5/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.40.32.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/7d/83/397d83ce-1197-aaa2-6878-d137b1307100/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.47.25.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/6f/31/2a6f311c-765f-dc35-18bf-0f7138bcc354/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.46.23.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/d4/86/1dd48682-7915-ec07-5ff6-756bcb86bf42/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.46.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/3c/b3/1d3cb331-7f8d-5bf7-47ee-92588cad2e3b/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.41.04.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/e0/24/6ce024f5-ae36-5bc0-138c-f7b324fe2924/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.39.58.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/45/d7/4445d786-974d-4186-337a-32f7d23034c5/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-07-02_at_09.40.32.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/8f/35/ae8f3518-e116-0e56-ae05-2fe56946c5d2/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.52.26.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/d8/01/73d8014a-2eee-ffbd-7897-6ad72854c909/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.52.57.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/83/fa/e583fa63-402d-f488-8f6a-e79553cb46c6/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.51.42.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/ad/d9/d2add9bb-cc6e-a05d-174a-7abc8bfaa0be/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.55.55.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/76/f2/eb76f254-24a6-9f37-aa4f-1ee18803919a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-02_at_09.55.28.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/09/26/70092688-1975-9b15-7c22-4e63234c704e/w4.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/0b/e7/510be7de-b485-132b-8c8e-e5d5e3ee775d/w3.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/0e/41/0b0e41e4-bffd-ada7-e7e2-281aa30e70b6/w2.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/8c/29/c98c2992-10a1-f83d-4231-fcb99ecacbee/w1.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-21T04:41:58Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-23T22:20:42Z"
+    },
+    {
+      "version": "1.0.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-28T04:16:41Z"
+    },
+    {
+      "version": "1.0.6",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-10-30T19:16:24Z"
+    },
+    {
+      "version": "1.0.7",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-10T23:03:59Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-17T18:40:12Z"
+    },
+    {
+      "version": "1.1.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-11-24T19:07:37Z"
+    },
+    {
+      "version": "1.1.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-01T17:13:51Z"
+    },
+    {
+      "version": "1.1.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-05T16:20:30Z"
+    },
+    {
+      "version": "1.1.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-12T17:15:16Z"
+    },
+    {
+      "version": "1.1.5",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-16T23:03:48Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-27T23:42:39Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2025-12-30T23:59:37Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-01T00:27:39Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-11T02:12:37Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-15T00:24:47Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-19T21:45:19Z"
+    },
+    {
+      "version": "2.0.6",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-01-28T17:30:21Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-13T20:38:03Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-02-27T20:04:41Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-03-02T20:23:20Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- Optimized for new OS.",
+      "seenAt": "2026-04-01T18:20:09Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-04-10T22:49:23Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-06-18T18:01:17Z"
+    },
+    {
+      "version": "2.3.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-07-02T18:42:14Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:17:07.427Z",
+  "isOwnApp": false
+}

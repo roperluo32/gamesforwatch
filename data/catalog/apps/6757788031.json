@@ -1,0 +1,355 @@
+{
+  "trackId": "6757788031",
+  "bundleId": "com.catalinberta.speedstreets3d",
+  "slug": "speed-streets-3d",
+  "path": "/apps/6757788031-speed-streets-3d/",
+  "locales": {
+    "en": {
+      "trackName": "Speed Streets 3D",
+      "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
+      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "trackViewUrl": "https://apps.apple.com/us/app/speed-streets-3d/id6757788031?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Catalin Berta",
+      "genres": [
+        "Games",
+        "Racing",
+        "Sports",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Multiplayer 3D Racing Car Game"
+    },
+    "ja": {
+      "trackName": "Speed Streets 3D",
+      "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
+      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "trackViewUrl": "https://apps.apple.com/jp/app/speed-streets-3d/id6757788031?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Catalin Berta",
+      "genres": [
+        "ゲーム",
+        "レーシング",
+        "スポーツ",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Speed Streets 3D",
+      "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
+      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "trackViewUrl": "https://apps.apple.com/de/app/speed-streets-3d/id6757788031?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Catalin Berta",
+      "genres": [
+        "Spiele",
+        "Rennsport",
+        "Sport",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/3a/97/623a97ab-be95-53b6-2e7a-1495d5ce8d04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "64681984",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "14.0",
+  "version": "13.5",
+  "currentVersionReleaseDate": "2026-07-02T23:55:44Z",
+  "releaseDate": "2026-02-20T08:00:00Z",
+  "artistId": 1592833249,
+  "artistName": "Catalin Berta",
+  "artistViewUrl": "https://apps.apple.com/de/developer/catalin-berta/id1592833249?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/80/9e/06809eb5-574e-cf0c-efd1-f8a3f2a451fc/ss-1.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5c/55/805c5576-98a2-15b9-4782-fec57584fed7/appstore_ready.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/80/9e/06809eb5-574e-cf0c-efd1-f8a3f2a451fc/ss-1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5c/55/805c5576-98a2-15b9-4782-fec57584fed7/appstore_ready.png/320x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/b7/3e/0cb73ee0-655c-93b3-027c-2192ab727a99/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-28_at_22.50.14.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/48/af/6748afd0-3d06-0249-e192-6eb079f7765d/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-28_at_23.01.28.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/f7/34/51f734d2-9474-05a5-25eb-37287e5cc367/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-02-16_at_12.58.34.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/a5/28/91a528c4-730d-b503-3694-bac2b5bb0d91/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-02-16_at_12.58.23.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/70/db/1870dbdd-e761-6fbd-8ab6-c3d42196398a/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-28_at_22.51.56.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/f7/9a/31f79a5d-3208-c7d8-6065-802a872bfa8f/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-03-11_at_22.50.40.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/4e/ac/614eac41-1757-57e6-de0b-387b7852e2a2/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-03-11_at_22.50.26.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/e6/a1/d4e6a1ad-b1da-bf1e-6ec3-82e7509b952d/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-28_at_22.53.14.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/d7/27/3cd727af-eaff-9f1b-fa05-8863d90ac2db/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-02-16_at_13.05.27.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/9c/07/4d9c0753-2eaf-204a-05ec-90abb25b9437/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-28_at_22.49.18.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "8.7",
+      "releaseNotes": "- Add custom wheels\n- Remove pausing/unpausing in Live Championships \n- Ease Chapter 4\n- Various minor fixes",
+      "seenAt": "2026-04-12T05:09:34Z"
+    },
+    {
+      "version": "8.8",
+      "releaseNotes": "- Correx Rainbow Color Paint\n- Daily rewards\n- Matchmaking optimizations ",
+      "seenAt": "2026-04-14T21:46:10Z"
+    },
+    {
+      "version": "9.2",
+      "releaseNotes": "- Multiplayer Ranking \n- Name auto-moderation through AI\n- Various UI & Game improvements",
+      "seenAt": "2026-04-20T23:12:03Z"
+    },
+    {
+      "version": "9.3",
+      "releaseNotes": "Hotfix: Consume races in Championship and Ranking",
+      "seenAt": "2026-04-22T00:45:26Z"
+    },
+    {
+      "version": "9.5",
+      "releaseNotes": "- Improve menu navigation\n- Layout updates\n- Bug fixes\n- Prepare GameCenter implementation",
+      "seenAt": "2026-04-25T00:08:12Z"
+    },
+    {
+      "version": "9.6",
+      "releaseNotes": "Bug Fix: Sometimes boost and back button do not work from race screen. ",
+      "seenAt": "2026-04-27T14:51:18Z"
+    },
+    {
+      "version": "10.1",
+      "releaseNotes": "- iOS Companion App\n- Profile Items\n- Swipe to Brake mechanic\n- Update UI",
+      "seenAt": "2026-05-01T20:40:22Z"
+    },
+    {
+      "version": "10.3",
+      "releaseNotes": "- Report player option\n- More profile banners",
+      "seenAt": "2026-05-05T14:08:51Z"
+    },
+    {
+      "version": "10.5",
+      "releaseNotes": "New Chapter 9\nNew Car",
+      "seenAt": "2026-05-06T23:25:26Z"
+    },
+    {
+      "version": "10.6",
+      "releaseNotes": "Improve menu navigation\nImprove multiplayer performance",
+      "seenAt": "2026-05-07T20:35:55Z"
+    },
+    {
+      "version": "10.7",
+      "releaseNotes": "Implement App Companion UI Onboarding",
+      "seenAt": "2026-05-11T03:18:15Z"
+    },
+    {
+      "version": "11.0",
+      "releaseNotes": "- Decrease gas refill time to 5 minutes.\n- Fix boost loss on taking boost pads (i.e. boost pads now add 100% to current boost)\n- Drop minimum boost activation to 30%\n- Ease braking",
+      "seenAt": "2026-05-12T13:09:09Z"
+    },
+    {
+      "version": "11.3",
+      "releaseNotes": "Add Daily Challenges\nDecrease boost minimum percentage to 20%\nImprove Menu UI",
+      "seenAt": "2026-05-13T19:51:49Z"
+    },
+    {
+      "version": "11.5",
+      "releaseNotes": "- Fix boost pads not activating while already boosting\n- Performance improvements \n- UI updates",
+      "seenAt": "2026-05-14T18:22:58Z"
+    },
+    {
+      "version": "11.6",
+      "releaseNotes": "Implement update requirement for multiplayer modes.",
+      "seenAt": "2026-05-14T20:41:16Z"
+    },
+    {
+      "version": "11.7",
+      "releaseNotes": "Implement App Store redirect to rate game.\nImplement new game update notification.\n",
+      "seenAt": "2026-05-15T18:40:36Z"
+    },
+    {
+      "version": "11.9",
+      "releaseNotes": "- Rate from companion app\n- Optimize matchmaking",
+      "seenAt": "2026-05-17T18:58:19Z"
+    },
+    {
+      "version": "12.0",
+      "releaseNotes": "- Add new daily mini game: Snake Arena\n- Improve matchmaking",
+      "seenAt": "2026-05-20T23:18:53Z"
+    },
+    {
+      "version": "12.2",
+      "releaseNotes": "- New daily challenges mini games\n- Player public profile pages",
+      "seenAt": "2026-05-23T16:51:07Z"
+    },
+    {
+      "version": "12.6",
+      "releaseNotes": "- Add Music, SFX and engine sounds\n- Increase gas limit",
+      "seenAt": "2026-05-29T04:39:11Z"
+    },
+    {
+      "version": "12.8",
+      "releaseNotes": "- New Trail:  Jet Engine\n- New setting: Graphics quality\n- New settings to Hide rate game and more games buttons from Main Menu\n- Make multiplayer names configurable more visible \n- Implement Wall assist\n- Improve engine sound preview\n- Update Rustrock Canyon Environment\n- Rename Odometer -> Streak",
+      "seenAt": "2026-06-04T12:04:47Z"
+    },
+    {
+      "version": "12.9",
+      "releaseNotes": "- Fix Quickrace disconnect bug\n- Fix Finish line sometimes not triggering completion\n- Fix Retry sometimes restarting the wrong race type\n",
+      "seenAt": "2026-06-15T21:55:58Z"
+    },
+    {
+      "version": "13.1",
+      "releaseNotes": "- Fix rank points leek\n- More games update",
+      "seenAt": "2026-06-23T21:48:47Z"
+    },
+    {
+      "version": "13.3",
+      "releaseNotes": "- Performance updates\n- Update contrast in banner texts\n- Fix scrolling cars in garage while selecting features\n",
+      "seenAt": "2026-06-26T21:50:34Z"
+    },
+    {
+      "version": "13.5",
+      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "seenAt": "2026-07-02T23:55:44Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:27:37.893Z",
+  "isOwnApp": false
+}

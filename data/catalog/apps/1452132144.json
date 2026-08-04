@@ -1,0 +1,373 @@
+{
+  "trackId": "1452132144",
+  "bundleId": "com.gosiha.f2",
+  "slug": "poker-paris-danh-bai-online",
+  "path": "/apps/1452132144-poker-paris-danh-bai-online/",
+  "locales": {
+    "en": {
+      "trackName": "Poker Paris: danh bai online",
+      "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
+      "releaseNotes": "Improve stability.",
+      "trackViewUrl": "https://apps.apple.com/us/app/poker-paris-danh-bai-online/id1452132144?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Board",
+        "Family",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": "ta la phom & tien len mien nam"
+    },
+    "ja": {
+      "trackName": "Poker Paris: danh bai online",
+      "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
+      "releaseNotes": "Improve stability.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/poker-paris-danh-bai-online/id1452132144?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "ボード",
+        "ファミリー",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Poker Paris: danh bai online",
+      "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
+      "releaseNotes": "Improve stability.",
+      "trackViewUrl": "https://apps.apple.com/de/app/poker-paris-danh-bai-online/id1452132144?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Brettspiele",
+        "Familie",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/9b/c2/e49bc25b-91bb-47e1-2465-961df7545be0/icons-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.3,
+  "userRatingCount": 90,
+  "price": 0,
+  "fileSizeBytes": "185821184",
+  "contentAdvisoryRating": "17+",
+  "minimumOsVersion": "12.4",
+  "version": "1.41",
+  "currentVersionReleaseDate": "2025-03-19T17:35:15Z",
+  "releaseDate": "2019-03-22T02:43:01Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/91/48/ef914866-b8e7-aa58-0d9d-3504ed386fba/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/6b/70/c86b7081-053a-dcc7-4494-013f1effa438/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/99/74/3b997481-fb13-ad95-c2ec-e86e0171cf37/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/e8/00/cce80030-14e8-b558-4e91-2c6bbfe1b24f/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/99/fe/2899fe78-0027-203b-2d94-464e20ecf6a4/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d1/47/08d147d6-3941-e526-c903-663ccd4056f8/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b5/0c/15b50cec-0395-bb7b-dc5b-8a33da617db6/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8b/6e/7c8b6ebf-ae4b-1867-ce34-1078d794af86/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/5a/22/705a2213-8c4a-e24a-911e-7fc8cec8abad/pr_source.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/99/22/8899227e-c2b0-26f8-7d26-7c85f81ef90d/pr_source.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3d/b2/0c3db2b6-8093-8384-ef2d-5e4c924b559a/pr_source.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a0/24/7ea024b9-bd8b-66f4-8d58-ad9326fa99d7/pr_source.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/5d/cb/4d5dcb5f-15c1-5da8-055d-8b4c4aa7a1b5/7be646ab-06b6-4106-ba4c-8a2e2c5a4957_2688x1242bb__U00281_U0029.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/01/7e/d4017eec-3299-1e59-8cc5-d8f5c05edb2a/pr_source.jpg/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/0e/7d/a50e7d8d-61c2-6d03-cce6-83c230f17133/pr_source.jpg/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/db/4e/74db4e45-870a-d714-6621-88be56e06ebe/pr_source.jpg/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/cf/98/4ccf98fe-6800-deeb-741e-4fa07fedcf85/60af6222-da6d-4691-bd3f-c8426ede0e2d_screen-play2-6.7.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/2a/26/bb2a2698-371a-6da6-cf82-7abb4a541f31/b12aad79-f12a-4ace-b338-2855cf366e43_screen-play3-6.7.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/9b/4a/009b4ab8-7452-f158-fd30-5f515cc19bdc/169e650c-7464-41b2-a3c5-435ff10b4908_screen-play1-6.7.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/32/f3/c132f37c-7221-3779-79a5-5382171f3ab5/7afd05d2-ecc7-48e6-b288-c33d111a7464_screen-play4-6.7.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/5a/22/705a2213-8c4a-e24a-911e-7fc8cec8abad/pr_source.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/99/22/8899227e-c2b0-26f8-7d26-7c85f81ef90d/pr_source.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3d/b2/0c3db2b6-8093-8384-ef2d-5e4c924b559a/pr_source.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a0/24/7ea024b9-bd8b-66f4-8d58-ad9326fa99d7/pr_source.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/91/48/ef914866-b8e7-aa58-0d9d-3504ed386fba/pr_source.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/6b/70/c86b7081-053a-dcc7-4494-013f1effa438/pr_source.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/99/74/3b997481-fb13-ad95-c2ec-e86e0171cf37/pr_source.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/e8/00/cce80030-14e8-b558-4e91-2c6bbfe1b24f/pr_source.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/88/53/e08853e6-53f0-3059-a99b-9fb656daaf92/4a2ab1a9-f17c-4aa2-b005-04ae0cd65ef8_watch1.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/92/56/0d925658-7f75-b549-0220-9b2ec8b81f5f/9bc56bc1-77d4-44d6-b16f-11da33e11af5_watch2__U00286_U0029.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/02/88/c602885a-6d03-e405-4cf6-e23f9eea2d47/7d4dd487-3edd-41b8-be2d-e556c3a98c9d_watch3__U00282_U0029.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/2a/2d/932a2d8f-d21a-71b9-17a7-a21f75d9c97b/9aa2d881-bd38-4498-bf5c-c9179addc9f2_watch4.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.13",
+      "releaseNotes": "*** optimize haptic feedback ***",
+      "seenAt": "2021-03-22T17:07:53Z"
+    },
+    {
+      "version": "1.14",
+      "releaseNotes": "*** improve bonus ***",
+      "seenAt": "2021-03-24T17:30:48Z"
+    },
+    {
+      "version": "1.15",
+      "releaseNotes": "*** improve bonus ***",
+      "seenAt": "2021-03-29T20:29:34Z"
+    },
+    {
+      "version": "1.16",
+      "releaseNotes": "Fix minor ads bug.",
+      "seenAt": "2021-05-14T11:01:43Z"
+    },
+    {
+      "version": "1.17",
+      "releaseNotes": "+ Update ads sdk",
+      "seenAt": "2021-09-09T15:20:48Z"
+    },
+    {
+      "version": "1.18",
+      "releaseNotes": "* Small changes in GUI",
+      "seenAt": "2021-10-05T16:28:43Z"
+    },
+    {
+      "version": "1.19",
+      "releaseNotes": "Bring invite button to home screen.",
+      "seenAt": "2021-10-07T10:40:42Z"
+    },
+    {
+      "version": "1.20",
+      "releaseNotes": "* Optimize GUI",
+      "seenAt": "2021-11-05T16:46:51Z"
+    },
+    {
+      "version": "1.21",
+      "releaseNotes": "* Update ads",
+      "seenAt": "2021-11-11T01:35:14Z"
+    },
+    {
+      "version": "1.22",
+      "releaseNotes": "Remove ad banner",
+      "seenAt": "2022-02-27T22:18:54Z"
+    },
+    {
+      "version": "1.25",
+      "releaseNotes": "Add more bonuses.",
+      "seenAt": "2022-11-19T16:36:16Z"
+    },
+    {
+      "version": "1.26",
+      "releaseNotes": "Update privacy policy link in Setting.",
+      "seenAt": "2022-12-12T17:06:46Z"
+    },
+    {
+      "version": "1.27",
+      "releaseNotes": "*** new gameplay for Apple Watch ***",
+      "seenAt": "2023-03-16T16:58:02Z"
+    },
+    {
+      "version": "1.28",
+      "releaseNotes": "Improve performance",
+      "seenAt": "2023-12-12T19:44:25Z"
+    },
+    {
+      "version": "1.29",
+      "releaseNotes": "Fix a minor bug that may cause blank avatars.",
+      "seenAt": "2023-12-18T01:22:22Z"
+    },
+    {
+      "version": "1.31",
+      "releaseNotes": "Support log in via Google account.",
+      "seenAt": "2024-03-27T13:34:03Z"
+    },
+    {
+      "version": "1.33",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2024-08-20T17:40:34Z"
+    },
+    {
+      "version": "1.34",
+      "releaseNotes": "Halloween theme.",
+      "seenAt": "2024-09-06T19:39:42Z"
+    },
+    {
+      "version": "1.35",
+      "releaseNotes": "Hot fix a bug that may cause game to crash when inactive.",
+      "seenAt": "2024-09-11T20:28:03Z"
+    },
+    {
+      "version": "1.36",
+      "releaseNotes": "Fix a crash bug & sorting card bug.",
+      "seenAt": "2024-09-29T19:02:00Z"
+    },
+    {
+      "version": "1.37",
+      "releaseNotes": "Show room number in Poker Texas table. Also add a button to join a room by inputting room number.",
+      "seenAt": "2024-10-07T17:34:57Z"
+    },
+    {
+      "version": "1.38",
+      "releaseNotes": "Fix a display bug: poker room number is accidentally +1 compare to real number.",
+      "seenAt": "2024-10-08T13:34:32Z"
+    },
+    {
+      "version": "1.39",
+      "releaseNotes": "Fix bug: if click on an icon too fast after loading, the game may crash.",
+      "seenAt": "2024-10-16T17:02:03Z"
+    },
+    {
+      "version": "1.40",
+      "releaseNotes": "Improve stability, fix crash bugs.",
+      "seenAt": "2024-10-23T15:09:38Z"
+    },
+    {
+      "version": "1.41",
+      "releaseNotes": "Improve stability.",
+      "seenAt": "2025-03-19T17:35:15Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:18:45.627Z",
+  "isOwnApp": false
+}

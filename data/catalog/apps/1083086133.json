@@ -1,0 +1,293 @@
+{
+  "trackId": "1083086133",
+  "bundleId": "su.bwi.fifteen",
+  "slug": "classic-fifteen-puzzle",
+  "path": "/apps/1083086133-classic-fifteen-puzzle/",
+  "locales": {
+    "en": {
+      "trackName": "Classic Fifteen puzzle",
+      "description": "A simple yet engaging challenge: the numbered tiles are shuffled, and one empty space allows you to move both individual tiles and entire rows step by step to put everything back in order.\n\nPlay anywhere: available on both your phone and Apple Watch - a mini version of the game right on your wrist.\n\nBoosts logical thinking and is perfect for quick breaks. The simple interface and easy controls make the game accessible to everyone!\n\nFeel the excitement of solving the puzzle and dive into pleasant memories! Download now and start your journey to victory!",
+      "releaseNotes": "Back to the classic skin",
+      "trackViewUrl": "https://apps.apple.com/us/app/classic-fifteen-puzzle/id1083086133?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Ivan Druzhinin",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU"
+      ],
+      "subtitle": "Slide & Solve"
+    },
+    "zh": {
+      "trackName": "Classic Fifteen puzzle",
+      "description": "A simple yet engaging challenge: the numbered tiles are shuffled, and one empty space allows you to move both individual tiles and entire rows step by step to put everything back in order.\n\nPlay anywhere: available on both your phone and Apple Watch - a mini version of the game right on your wrist.\n\nBoosts logical thinking and is perfect for quick breaks. The simple interface and easy controls make the game accessible to everyone!\n\nFeel the excitement of solving the puzzle and dive into pleasant memories! Download now and start your journey to victory!",
+      "releaseNotes": "Back to the classic skin",
+      "trackViewUrl": "https://apps.apple.com/cn/app/classic-fifteen-puzzle/id1083086133?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Ivan Druzhinin",
+      "genres": [
+        "游戏",
+        "益智解谜"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Classic Fifteen puzzle",
+      "description": "A simple yet engaging challenge: the numbered tiles are shuffled, and one empty space allows you to move both individual tiles and entire rows step by step to put everything back in order.\n\nPlay anywhere: available on both your phone and Apple Watch - a mini version of the game right on your wrist.\n\nBoosts logical thinking and is perfect for quick breaks. The simple interface and easy controls make the game accessible to everyone!\n\nFeel the excitement of solving the puzzle and dive into pleasant memories! Download now and start your journey to victory!",
+      "releaseNotes": "Back to the classic skin",
+      "trackViewUrl": "https://apps.apple.com/jp/app/classic-fifteen-puzzle/id1083086133?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Ivan Druzhinin",
+      "genres": [
+        "ゲーム",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Classic Fifteen puzzle",
+      "description": "A simple yet engaging challenge: the numbered tiles are shuffled, and one empty space allows you to move both individual tiles and entire rows step by step to put everything back in order.\n\nPlay anywhere: available on both your phone and Apple Watch - a mini version of the game right on your wrist.\n\nBoosts logical thinking and is perfect for quick breaks. The simple interface and easy controls make the game accessible to everyone!\n\nFeel the excitement of solving the puzzle and dive into pleasant memories! Download now and start your journey to victory!",
+      "releaseNotes": "Back to the classic skin",
+      "trackViewUrl": "https://apps.apple.com/de/app/classic-fifteen-puzzle/id1083086133?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Ivan Druzhinin",
+      "genres": [
+        "Spiele",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/0c/39/690c399b-88f8-ff34-0b5b-cbac7c2efce1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "36297728",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "10.0",
+  "version": "2.7.2",
+  "currentVersionReleaseDate": "2026-02-28T21:03:11Z",
+  "releaseDate": "2016-02-13T03:18:29Z",
+  "artistId": 1083086132,
+  "artistName": "Ivan Druzhinin",
+  "artistViewUrl": "https://apps.apple.com/de/developer/ivan-druzhinin/id1083086132?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/54/37/d55437a2-71d3-68d2-2347-8ce1ee191183/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/31/81/a7318181-b83f-f78c-aec8-785337eab2dc/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/62/54/6562547e-04cc-ade6-0340-cb903b5dd4b5/v2-en-1.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/32/e0/c932e0ff-79a0-0a01-38b9-3c5f276c04c2/v2-en-2.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/54/37/d55437a2-71d3-68d2-2347-8ce1ee191183/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/31/81/a7318181-b83f-f78c-aec8-785337eab2dc/pr_source.png/392x696bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/f2/15/16f215c8-a6c9-4aa3-4841-54052b784d26/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/fa/91/c6fa9120-5bb8-f1be-3c3c-e8f5403df2f2/pr_source.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2016-02-13T03:12:34Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- new design\n- offers Apple Watch App",
+      "seenAt": "2018-01-12T10:51:53Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "- updated for new devices",
+      "seenAt": "2024-08-19T07:40:08Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "- milliseconds added to the congrats screen",
+      "seenAt": "2024-08-23T02:02:15Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "t’s hard to believe that there still hasn’t been a ‘shuffle’ button in the game… It’s time to fix that!",
+      "seenAt": "2024-09-08T16:11:04Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Ready to see Halloween through the eyes of a neural network?\nDive into the mystical world of sliding puzzles, where artificial intelligence reimagines the spookiest holiday of the year!\n\nMore than 50 unique images where the familiar Halloween takes on a new look: instead of the classic pumpkin, you’ll encounter mysterious, strange, and sometimes eerie creations you never expected.\n",
+      "seenAt": "2024-10-22T16:35:25Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Halloween event has been removed. It's classic again.",
+      "seenAt": "2024-11-14T08:40:49Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Winter pack for the right mood. \nIncludes classic game for iPhone and image-puzzle game for Apple Watch",
+      "seenAt": "2024-12-04T23:36:48Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Returned the classic skin",
+      "seenAt": "2025-03-05T02:25:30Z"
+    },
+    {
+      "version": "2.7.1",
+      "releaseNotes": "Happy New Year!\n- miracle decoration has been added",
+      "seenAt": "2025-12-10T23:23:59Z"
+    },
+    {
+      "version": "2.7.2",
+      "releaseNotes": "Back to the classic skin",
+      "seenAt": "2026-02-28T21:03:11Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:08:49.158Z",
+  "isOwnApp": false
+}

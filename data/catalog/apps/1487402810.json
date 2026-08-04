@@ -1,0 +1,378 @@
+{
+  "trackId": "1487402810",
+  "bundleId": "com.gosiha.soccerPro",
+  "slug": "soccer-dribble-cup-pro-shoot",
+  "path": "/apps/1487402810-soccer-dribble-cup-pro-shoot/",
+  "locales": {
+    "en": {
+      "trackName": "Soccer Dribble Cup - PRO shoot",
+      "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
+      "releaseNotes": "Add 2 new star players and improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/us/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
+      "formattedPrice": "$0.99",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Sports",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "score goals on watch football!"
+    },
+    "ja": {
+      "trackName": "Soccer Dribble Cup - PRO shoot",
+      "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
+      "releaseNotes": "Add 2 new star players and improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
+      "formattedPrice": "¥150",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "スポーツ",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Soccer Dribble Cup - PRO shoot",
+      "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
+      "releaseNotes": "Add 2 new star players and improve graphics.",
+      "trackViewUrl": "https://apps.apple.com/de/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Sport",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/07/9d/65079dcc-50f0-1f92-1cf4-27916839a826/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0.99,
+  "fileSizeBytes": "16472064",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.3",
+  "version": "2.41",
+  "currentVersionReleaseDate": "2026-07-22T19:17:32Z",
+  "releaseDate": "2019-11-12T08:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/87/00/d68700ae-dae5-aa36-3cab-7ca6420ddc07/51577106-e97b-47cc-9e52-505027e5dacc_Ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/7b/60/137b60a0-f657-68bc-769a-820954be1c32/cbf48734-7f6a-40bb-99ff-1373cc3cb56b_ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/04/e1/4204e1e4-1111-a817-0596-b7d07a3b7551/7b48b50c-6642-4c02-bdc8-65eda68833c0_Ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/38/78/e038785e-1688-ba72-e7fa-23dc673cdc56/9ee05dce-cf5a-4be2-952a-d41f3838ad21_Ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/ab/a9/f4aba9a3-1402-cf21-b2ea-6d951d31fb07/9cedf634-5518-4980-822a-2f37b28375d2_Ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/58/34/2f58347c-d194-e5ca-552e-3b7fe9d0f9fc/c16ecc6d-6699-4643-b7e6-65010ba559fb_Ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/7e/a4/bf7ea43e-54c6-c4d8-49a3-cd83495f669c/4af185cd-9979-4e4d-ac62-0f5f4d44ea12_Ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/24/35/fb243548-283d-d3fc-9bac-504e55bbf6ce/20c8c7ce-0878-4d71-822c-668b6efec905_ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/f0/26/8ef026ab-e537-4363-bb0d-dec98103317c/753c611c-a6e1-4614-8617-e29fcc02b085_Ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/34/16/4234165f-34ac-a2ad-e226-ae1fffbe7aaf/6cbd9065-0367-4781-b6f3-7a1adccb065e_Ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/30/ce/7830ceab-cc7e-f809-b72c-665c6dd72ef1/0118c487-8e94-47b4-9e24-fff0530eca8b_Ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/60/d0/7960d003-e339-1597-1467-f05a032f5cf2/4df63a76-7a82-4269-b083-9eb2177456b5_Ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/7f/73/bd7f737a-e1f7-c4bb-ced0-fd85eccd0865/51a1d5f3-913f-4055-8e43-76fce63a68fe_1242x2208-1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/a6/76/b0a676d4-2ec1-1ef7-314c-ef13a0d48b96/b82f406a-c127-4035-9723-658024a80969_1242x2208-7.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d5/3f/40d53fef-8058-f28d-a3e1-f75497929092/ca363d54-f758-4962-a7db-45e45fb9732d_1242x2208-2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/a4/a4/8ba4a4a9-df7d-bc9e-8d8c-97e0a60bdb58/ec689f5c-fda8-4dba-ba00-7e20f7a42b29_1242x2208-4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/7f/ba/467fbad8-72ab-d233-ebf4-06aa1fd31e81/a4226913-0896-4c39-9fdb-d6e4f8caec77_1242x2208-5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/3e/70/953e701a-06a5-3a6f-1e51-28d3b742e452/953105b4-ff34-40eb-a030-79ff472499b1_1242x2208-6.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/4a/a4/a24aa43a-2c86-e9be-f33b-8242ebc212f1/47753711-0c86-4b9e-96c8-3aa24e07f412_1242x2208-3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/8e/8d/658e8d92-d19a-e2e5-3642-e4d9be378b9d/837d2ba9-331f-400d-908c-55dd98b584c3_1242x2688-1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d4/2e/1fd42ee5-6351-b6b5-3ce0-eb7e452171f9/7fd29b49-ac0c-4e1d-9e4a-73a7ba2e2db3_1242x2688-7.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/91/3f/e4913f26-4057-f7b9-bfc7-c30bcdcd33aa/e7738e8e-d2ab-4df6-9f89-a3af6ef8f2b3_1242x2688-2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/22/f0/ae22f00e-1fab-0152-9a9d-b20bb5095f8a/29d53b8c-5ea5-45f7-b5f7-1f022febafd3_1242x2688-4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/1d/a3/2a1da351-dee8-ff1a-c858-15b58a91d007/65f488ab-22c3-445c-bf0c-05eefc38a0ff_1242x2688-5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/34/36/d234366a-c974-207e-32ae-6cf67db13826/9f071aef-5100-4c33-9125-62f6f2f6f9f9_1242x2688-6.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/b7/76/3ab7768c-d8d0-6b8f-d29d-b5ee13f7959f/8c4867e1-70e6-419e-8c67-850c85636a51_1242x2688-3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/28/dd/7428dd75-2603-7a5a-4ef3-e728a6f66827/58dcc435-b1c3-42d2-bac5-212fcc55ff13_6.7-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/2c/e5/dc2ce528-257b-107c-acf1-11b380b77145/0ba17e57-7d6b-4e11-acd7-dc7b3b1ac942_6.7-7.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/cf/65/21cf6514-7dbb-d903-cd9c-3906bcb670fb/4d2af080-aeae-47e0-af18-86bbecb48bee_newScrsPro6.7-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/98/aa/8898aa22-f6d3-d5cd-3189-07aff26b74f7/8b8f8ef1-4341-4e93-ae76-4b8cb217ff05_newScrsPro6.7-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/5d/99/6f5d991d-7ede-6f8a-aaa0-b3c6c2faf5de/4d4e9180-ad57-4dd8-909a-e034942636ac_newScrsPro6.7-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/0c/98/930c981e-1911-49c6-f530-3d442a0670b8/aefd03c8-9c82-4f83-a2a6-016ca17c3c2c_newScrsPro6.7-6.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/a3/f0/d1a3f06e-a591-bd58-6e70-9257d1bd58ff/8288ab1d-0173-44a5-9daa-35263b7ed92d_newScrsPro6.7-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/7f/73/bd7f737a-e1f7-c4bb-ced0-fd85eccd0865/51a1d5f3-913f-4055-8e43-76fce63a68fe_1242x2208-1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/a6/76/b0a676d4-2ec1-1ef7-314c-ef13a0d48b96/b82f406a-c127-4035-9723-658024a80969_1242x2208-7.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d5/3f/40d53fef-8058-f28d-a3e1-f75497929092/ca363d54-f758-4962-a7db-45e45fb9732d_1242x2208-2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/a4/a4/8ba4a4a9-df7d-bc9e-8d8c-97e0a60bdb58/ec689f5c-fda8-4dba-ba00-7e20f7a42b29_1242x2208-4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/7f/ba/467fbad8-72ab-d233-ebf4-06aa1fd31e81/a4226913-0896-4c39-9fdb-d6e4f8caec77_1242x2208-5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/3e/70/953e701a-06a5-3a6f-1e51-28d3b742e452/953105b4-ff34-40eb-a030-79ff472499b1_1242x2208-6.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/4a/a4/a24aa43a-2c86-e9be-f33b-8242ebc212f1/47753711-0c86-4b9e-96c8-3aa24e07f412_1242x2208-3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/87/00/d68700ae-dae5-aa36-3cab-7ca6420ddc07/51577106-e97b-47cc-9e52-505027e5dacc_Ipad1.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/7b/60/137b60a0-f657-68bc-769a-820954be1c32/cbf48734-7f6a-40bb-99ff-1373cc3cb56b_ipad7.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/04/e1/4204e1e4-1111-a817-0596-b7d07a3b7551/7b48b50c-6642-4c02-bdc8-65eda68833c0_Ipad2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/38/78/e038785e-1688-ba72-e7fa-23dc673cdc56/9ee05dce-cf5a-4be2-952a-d41f3838ad21_Ipad4.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/ab/a9/f4aba9a3-1402-cf21-b2ea-6d951d31fb07/9cedf634-5518-4980-822a-2f37b28375d2_Ipad5.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/58/34/2f58347c-d194-e5ca-552e-3b7fe9d0f9fc/c16ecc6d-6699-4643-b7e6-65010ba559fb_Ipad3.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/04/02/c904026e-cce0-e9a6-b1f7-835d13f342d3/4d93a0f1-1337-4a2f-b550-f344a6d8055f_watch1.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/3b/9b/8e3b9b7d-d164-5259-03d1-d19a71a6b99c/fb0431ff-2d0d-4eeb-96bb-0a9d66e835b6_watch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/e0/4b/9ee04bd4-c7ec-338d-7bce-acde92c39fee/78a91d22-9957-46ff-be7c-257ab3156d20_watch3.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/a7/89/51a78982-733c-94cc-6610-742d92717024/7c5c309d-d062-4ab9-9dba-069c51de365a_watch4.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/89/ad/6a89ad06-2229-54bd-3b7a-6c4da5bb5fe9/51f3c5b1-4ffe-4aaf-ad0b-e98a662498d8_watch5.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/5f/e3/4f5fe304-40c1-b384-3298-f089601385b1/dbbac5ba-c80a-4dcb-8f1c-e0acffe959b2_watch6.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2019-11-12T22:50:01Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": " * Optimize performance for iPhone and Apple Watch",
+      "seenAt": "2019-11-24T20:22:02Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "* Optimize performance for iPhone and Apple Watch\n* Fix minor bugs",
+      "seenAt": "2019-12-09T15:31:36Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "* Optimize performance for iPhone and Apple Watch\n* Fix minor bugs",
+      "seenAt": "2019-12-12T14:44:57Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "* Optimize for iPhone and Apple Watch\n* Fix minor bugs\n* Unlock exclusive football field daily",
+      "seenAt": "2019-12-19T20:11:37Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "* Optimize for iPhone and Apple Watch\n* Fix minor bugs\n* Unlock exclusive football field daily",
+      "seenAt": "2019-12-21T01:14:11Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "* Improve sound effects\n* Add more teams\n* Add man in black",
+      "seenAt": "2020-10-20T17:57:18Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "* Improve graphics\n* Add more teams",
+      "seenAt": "2022-11-15T00:38:28Z"
+    },
+    {
+      "version": "1.10",
+      "releaseNotes": "Add more teams.",
+      "seenAt": "2023-01-31T14:17:45Z"
+    },
+    {
+      "version": "2.25",
+      "releaseNotes": "New European / South America competitions",
+      "seenAt": "2024-06-13T07:45:01Z"
+    },
+    {
+      "version": "2.26",
+      "releaseNotes": "New season, new players.",
+      "seenAt": "2024-08-16T08:11:06Z"
+    },
+    {
+      "version": "2.27",
+      "releaseNotes": "* Add dust while running.\n* Improve some effects.",
+      "seenAt": "2024-10-14T12:38:49Z"
+    },
+    {
+      "version": "2.28",
+      "releaseNotes": "Fix crash bug on Apple Watch during Halloween event.",
+      "seenAt": "2024-10-31T09:07:46Z"
+    },
+    {
+      "version": "2.31",
+      "releaseNotes": "Add more players.",
+      "seenAt": "2025-10-27T19:33:54Z"
+    },
+    {
+      "version": "2.32",
+      "releaseNotes": "Add more star players.",
+      "seenAt": "2025-11-06T02:27:06Z"
+    },
+    {
+      "version": "2.33",
+      "releaseNotes": "Add more levels and players.",
+      "seenAt": "2025-12-26T00:43:49Z"
+    },
+    {
+      "version": "2.34",
+      "releaseNotes": "Add more players and gameplays.",
+      "seenAt": "2026-01-17T02:55:21Z"
+    },
+    {
+      "version": "2.35",
+      "releaseNotes": "Add 2 more star players.",
+      "seenAt": "2026-03-03T17:00:28Z"
+    },
+    {
+      "version": "2.37",
+      "releaseNotes": "Add a new football star.",
+      "seenAt": "2026-04-03T22:12:00Z"
+    },
+    {
+      "version": "2.39",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2026-04-30T18:34:54Z"
+    },
+    {
+      "version": "2.40",
+      "releaseNotes": "Add new levels.",
+      "seenAt": "2026-05-05T16:17:53Z"
+    },
+    {
+      "version": "2.41",
+      "releaseNotes": "Add 2 new star players and improve graphics.",
+      "seenAt": "2026-07-22T19:17:32Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:20:10.267Z",
+  "isOwnApp": false
+}

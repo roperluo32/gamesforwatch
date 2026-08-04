@@ -1,0 +1,378 @@
+{
+  "trackId": "353421868",
+  "bundleId": "net.godville.iphone.en",
+  "slug": "godville",
+  "path": "/apps/353421868-godville/",
+  "locales": {
+    "en": {
+      "trackName": "Godville",
+      "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
+      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "trackViewUrl": "https://apps.apple.com/us/app/godville/id353421868?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Mikhail Platov",
+      "genres": [
+        "Games",
+        "Roleplaying",
+        "Entertainment",
+        "Adventure"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Divine Comedy"
+    },
+    "ja": {
+      "trackName": "Godville",
+      "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
+      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/godville/id353421868?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Mikhail Platov",
+      "genres": [
+        "ゲーム",
+        "ロールプレイング",
+        "エンターテインメント",
+        "アドベンチャー"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Godville",
+      "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
+      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "trackViewUrl": "https://apps.apple.com/de/app/godville/id353421868?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Mikhail Platov",
+      "genres": [
+        "Spiele",
+        "Rollenspiel",
+        "Unterhaltung",
+        "Abenteuer"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/7a/a9/3b7aa90c-9ab8-0fe9-a549-ac1fe3862c16/AppIconEn-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.7619,
+  "userRatingCount": 42,
+  "price": 0,
+  "fileSizeBytes": "29836288",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "13.0",
+  "version": "11.7",
+  "currentVersionReleaseDate": "2026-07-17T09:04:54Z",
+  "releaseDate": "2010-07-18T23:41:51Z",
+  "artistId": 337445693,
+  "artistName": "Mikhail Platov",
+  "artistViewUrl": "https://apps.apple.com/de/developer/mikhail-platov/id337445693?uo=4",
+  "sellerUrl": "http://godvillegame.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fc/49/09/fc4909b0-40f6-7c6d-4500-892ef4dba1c9/mzl.ajdgxokc.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/16/15/a6161560-a41a-e1ef-fc1d-cabbd7b0a063/mzl.ffhlxjvi.png/2048x1536bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/94/63/149463b3-11d8-517e-81a4-63f20b0bf6d7/mzl.ntnljqpd.png/2048x1536bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/50/0d/5f/500d5f9a-4950-0612-4d91-288299c05d95/mzl.xfdcpujg.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/d1/8d/bdd18de6-be51-f5a7-03a5-c262417a68d5/mzl.aiwkoiuj.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/45/c5/c5/45c5c5f9-e82b-3b06-aafd-fce3e855f2e9/mzl.blypwwos.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6b/0c/d0/6b0cd04a-fb8e-b95e-692a-4d8f7f357ac8/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/6e/23/156e23e5-f3d5-3df3-01cf-a068acad561f/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/0a/82/b70a827c-f486-3c25-0cdb-7d01ca5fcf66/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/f5/2d/acf52d9a-c4f2-e761-ca55-a1f7b9dc7d73/mzl.qlguxmcf.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/89/4d/a1894d5c-8450-046b-e26a-8daf4f2fe91d/mzl.dqpfdete.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/06/e9/2306e92a-531b-fa54-980e-2cf1343234b0/mzl.jtjlgnfi.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/65/79/d3657926-95da-eaae-c9e6-e59f9916114b/mzl.ktlfsvkc.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/31/a3/a831a332-7b21-f7e6-4cff-59fa07569e8a/mzl.xcrhsixz.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/24/a0/2d24a05b-d5e7-14d6-8b2f-820f3d8791e9/mzl.igvoxjqu.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/57/2d/ee572df9-5f22-183e-4923-11f86d86c78f/mzl.sejeewpf.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/e6/09/84e60963-7420-0638-857d-07ce2dccb265/mzl.zbtryift.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/45/31/01453149-eaa9-72a5-11ae-4b15e536bb5f/mzl.rzstxoyp.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/f7/f7/7ef7f765-493e-8efe-db1e-54321c595039/mzl.qxyaxssf.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/0d/64/a90d64ac-7d8e-ce11-fd40-678128ff9280/mzl.sbkozmmh.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/e9/cc/56e9cc76-1bed-11a0-dbe7-be10b3128b55/mzl.ghfrmhwd.png/750x1334bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/29/0a/a6290a9f-fda5-0457-6aeb-4800cd0a6897/mzl.yfqlmcpw.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/20/13/e72013a0-c415-0b84-5101-aa5bf4a19623/mzl.nyswctcv.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/df/06/59/df06592b-0319-a43f-2dd7-cc3d97d631b4/mzl.zoryfcmx.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/f4/d3/b9f4d37d-8f36-0e15-6dd2-c7709250e711/mzl.ikxldvrp.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/47/75/3b477555-b5ae-18c7-b2f2-9b87369f2378/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/85/96/83/859683e8-f9a1-dc78-9290-4f252ad30d09/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/59/71/ac/5971ac1f-0595-ecd1-2c7d-9b74dfbcd107/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4d/87/06/4d8706c6-1261-bff3-2e8c-d5a3928c3d6f/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/29/0a/a6290a9f-fda5-0457-6aeb-4800cd0a6897/mzl.yfqlmcpw.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/20/13/e72013a0-c415-0b84-5101-aa5bf4a19623/mzl.nyswctcv.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/df/06/59/df06592b-0319-a43f-2dd7-cc3d97d631b4/mzl.zoryfcmx.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/f4/d3/b9f4d37d-8f36-0e15-6dd2-c7709250e711/mzl.ikxldvrp.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/50/0d/5f/500d5f9a-4950-0612-4d91-288299c05d95/mzl.xfdcpujg.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/d1/8d/bdd18de6-be51-f5a7-03a5-c262417a68d5/mzl.aiwkoiuj.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/45/c5/c5/45c5c5f9-e82b-3b06-aafd-fce3e855f2e9/mzl.blypwwos.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/4b/3f/c04b3f79-a207-88b5-d715-599f791f3882/mzl.rtpgicmh.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "10.5",
+      "releaseNotes": "- various improvements and bugfixes",
+      "seenAt": "2023-03-09T07:53:30Z"
+    },
+    {
+      "version": "10.6",
+      "releaseNotes": "- quick notification settings - just tap the bell icon on the Hero screen\n- new notifications for fishing and shopkeeping\n",
+      "seenAt": "2023-06-15T17:30:43Z"
+    },
+    {
+      "version": "10.6.1",
+      "releaseNotes": "- minor bugfixes",
+      "seenAt": "2023-06-25T22:31:09Z"
+    },
+    {
+      "version": "10.7",
+      "releaseNotes": "- Spirit Refinery now has its own button\n- Ark and its pets now have their own UI block\n- small fixes and other improvements\n",
+      "seenAt": "2023-07-25T15:21:19Z"
+    },
+    {
+      "version": "10.7.1",
+      "releaseNotes": "- fixes for running on iOS 17",
+      "seenAt": "2023-09-19T19:05:06Z"
+    },
+    {
+      "version": "10.7.3",
+      "releaseNotes": "- bugfixes and iOS17 compatibility improvements ",
+      "seenAt": "2023-11-06T15:57:49Z"
+    },
+    {
+      "version": "10.8",
+      "releaseNotes": "- some of new buttons will be  highlighted for visibility for the first few days after appearance\n- getting ready for hero soulfulness\n",
+      "seenAt": "2024-03-22T18:17:56Z"
+    },
+    {
+      "version": "10.8.1",
+      "releaseNotes": "- some of new buttons will be  highlighted for visibility for the first few days after appearance\n- getting ready for hero soulfulness\n- bugfixes and minor improvements",
+      "seenAt": "2024-04-22T17:21:32Z"
+    },
+    {
+      "version": "10.8.2",
+      "releaseNotes": "- quickly access help from the hero screen by pressing and holding a line (works for a dozen lines)",
+      "seenAt": "2024-06-12T19:29:22Z"
+    },
+    {
+      "version": "10.8.3",
+      "releaseNotes": "- the town hero is returning to is marked on the map\n- other minor changes and improvements",
+      "seenAt": "2024-09-09T15:35:28Z"
+    },
+    {
+      "version": "11.0",
+      "releaseNotes": "Seven (!) new widgets for peeking at the hero, available for the home screen and widget panel (iOS 17+ required).",
+      "seenAt": "2024-11-25T11:51:14Z"
+    },
+    {
+      "version": "11.0.1",
+      "releaseNotes": "minor fixes for VoiceOver",
+      "seenAt": "2024-12-02T12:56:55Z"
+    },
+    {
+      "version": "11.1",
+      "releaseNotes": "Live Activities and the Lock Screen now show notifications for ongoing adventures (iOS 17.2+ required; if it gets annoying, turn it off in the Settings app - quick link in app's Menu->Settings).\nNew todo widget with a list of newspaper tasks (coupon, bingo, etc). Also inventory widgets now indicate the presence of activatable trophies by displaying \"@\".\nThe sea around the ark in Sail now has a dotted line - it's a visual reminder of health and the maximum distance with your current supplies.\n",
+      "seenAt": "2025-03-21T12:23:10Z"
+    },
+    {
+      "version": "11.2",
+      "releaseNotes": "New major goal and feature for seasoned players - Relics!\nAlso a reworked login screen with a nice game logo.\n",
+      "seenAt": "2025-08-02T11:20:44Z"
+    },
+    {
+      "version": "11.3",
+      "releaseNotes": "Font size customization is here: pick from 4 sizes in the app settings.",
+      "seenAt": "2025-09-18T08:45:20Z"
+    },
+    {
+      "version": "11.4",
+      "releaseNotes": "Adds support for voting on player ideas with a brand new cards system (coming soon).",
+      "seenAt": "2025-11-18T19:45:48Z"
+    },
+    {
+      "version": "11.4.1",
+      "releaseNotes": "small fixes",
+      "seenAt": "2025-12-22T20:17:31Z"
+    },
+    {
+      "version": "11.5",
+      "releaseNotes": "various improvements and support for upcoming game features",
+      "seenAt": "2026-03-22T23:31:07Z"
+    },
+    {
+      "version": "11.5.1",
+      "releaseNotes": "various improvements and support for Locations",
+      "seenAt": "2026-04-15T17:21:55Z"
+    },
+    {
+      "version": "11.6",
+      "releaseNotes": "Fresh look on iOS 26.\nOne-time Alerts: set a single notification for some event with just two taps.\nPolished Remote with new visual effects.\n",
+      "seenAt": "2026-06-09T09:38:47Z"
+    },
+    {
+      "version": "11.6.1",
+      "releaseNotes": "Fresh look on iOS 26.\nOne-time Alerts: set a single notification for some event with just two taps.\nPolished Remote with new visual effects.\n",
+      "seenAt": "2026-06-10T19:55:50Z"
+    },
+    {
+      "version": "11.6.2",
+      "releaseNotes": "Fresh look on iOS 26.\nOne-time Alerts: set a single notification for some event with just two taps.\nPolished Remote with new visual effects.\nBugfixes",
+      "seenAt": "2026-06-12T18:03:03Z"
+    },
+    {
+      "version": "11.6.3",
+      "releaseNotes": "Fresh look on iOS 26.\nOne-time Alerts: set a single notification for some event with just two taps.\nPolished Remote with new visual effects.\nMinor bugfixes",
+      "seenAt": "2026-06-15T19:06:34Z"
+    },
+    {
+      "version": "11.6.4",
+      "releaseNotes": "Fresh look on iOS 26.\nOne-time Alerts: set a single notification for some event with just two taps.\nPolished Remote with new visual effects.\nMinor bugfixes",
+      "seenAt": "2026-06-30T22:07:18Z"
+    },
+    {
+      "version": "11.7",
+      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.\n",
+      "seenAt": "2026-07-17T09:04:54Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:46.631Z",
+  "isOwnApp": false
+}

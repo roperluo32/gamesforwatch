@@ -1,0 +1,361 @@
+{
+  "trackId": "1576623009",
+  "bundleId": "com.aw.slotAnimal",
+  "slug": "chinese-poker-animal-slot",
+  "path": "/apps/1576623009-chinese-poker-animal-slot/",
+  "locales": {
+    "en": {
+      "trackName": "Chinese Poker: Animal Slot",
+      "description": "Need entertainment on your new smart watch? Get Animal slot and have fun anywhere you go! \n*** The game auto sync progress between your watch, phone and tablet...\n*** The zodiac animals are so adorable!\n*** Free bonus everyday awaits.\nGet the game and enjoy slot wherever you go!!!",
+      "releaseNotes": "Graphics for Lunar Year of the Horse.",
+      "trackViewUrl": "https://apps.apple.com/us/app/chinese-poker-animal-slot/id1576623009?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Entertainment",
+        "Casual"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": "VIP play card & win big prizes"
+    },
+    "zh": {
+      "trackName": "中国扑克: Animal Slot",
+      "description": "Need entertainment on your new smart watch? Get Animal slot and have fun anywhere you go! \n*** The game auto sync progress between your watch, phone and tablet...\n*** The zodiac animals are so adorable!\n*** Free bonus everyday awaits.\nGet the game and enjoy slot wherever you go!!!",
+      "releaseNotes": "Graphics for Lunar Year of the Horse.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E6%89%91%E5%85%8B-animal-slot/id1576623009?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "模拟",
+        "娱乐",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Chinese Poker: Animal Slot",
+      "description": "Need entertainment on your new smart watch? Get Animal slot and have fun anywhere you go! \n*** The game auto sync progress between your watch, phone and tablet...\n*** The zodiac animals are so adorable!\n*** Free bonus everyday awaits.\nGet the game and enjoy slot wherever you go!!!",
+      "releaseNotes": "Graphics for Lunar Year of the Horse.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/chinese-poker-animal-slot/id1576623009?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "シミュレーション",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Chinese Poker: Animal Slot",
+      "description": "Need entertainment on your new smart watch? Get Animal slot and have fun anywhere you go! \n*** The game auto sync progress between your watch, phone and tablet...\n*** The zodiac animals are so adorable!\n*** Free bonus everyday awaits.\nGet the game and enjoy slot wherever you go!!!",
+      "releaseNotes": "Graphics for Lunar Year of the Horse.",
+      "trackViewUrl": "https://apps.apple.com/de/app/chinese-poker-animal-slot/id1576623009?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Simulation",
+        "Unterhaltung",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "VI"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cc/53/48cc53c3-061c-3e42-55f3-fcfbc85f83b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "137017344",
+  "contentAdvisoryRating": "17+",
+  "minimumOsVersion": "13.5",
+  "version": "2.13",
+  "currentVersionReleaseDate": "2026-02-05T19:08:14Z",
+  "releaseDate": "2021-07-23T07:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/56/7a/5e567ab1-ccf6-1b64-e17e-63cade8e9b75/2ea74acc-cdb0-4b26-b103-11913fecb466_Scrs_ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/86/4e/5f864eb1-0ebb-c2b3-bae5-b8497c8ff52f/5f326e4a-41be-4568-9bc8-7cdfe033495e_Scrs_ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/fc/54/defc5487-8d3a-cdbf-d092-31aaa114c9b1/c1364e79-4afe-4767-befd-e1308e498455_Scrs_ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a4/72/01a47238-3930-efba-649b-44fefb41959c/12237c03-6c0c-4b21-8950-daf842b824b5_Scrs_ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/43/37/b6433758-b2cc-1a93-f331-ca916ef5cede/aace71bb-22f2-4003-b3ff-5cc2f7c66a70_Scrs_ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/a3/5a/62a35a87-0e03-3b9d-c743-2302c992f356/cb8d4c96-96d2-45c0-86da-5246de396c7a_Scrs_ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/e6/67/80e667d9-30f1-2625-dd29-f37dda889eec/0c4e16aa-9f73-46c1-abf0-0215aa06466c_Scrs_ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/0b/aa/1a0baafd-bdc3-8d2a-14dd-243071f33d4d/ce08af9f-f961-4eea-8c02-307372277738_Scrs_ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/88/e3/3588e3d0-321c-3ead-fba1-ed90a06dd17b/f2cd0285-01c7-4b4d-b24f-b806d9b1c017_Scrs_5.5-3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/f1/9b/ccf19ba1-9e77-bb87-a28c-d0f96fc8c037/e480ea11-3ef8-491b-a49c-7c3470d13cd4_Scrs_5.5-4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/54/a4/d654a417-c8cd-d62c-dac9-7dd75417cee7/4cb10797-2eb5-4e0f-8303-37e23dd087eb_Scrs_5.5-2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/99/5c/20995ce6-a417-c2d8-3ece-250f67558f6a/43fbdc9b-226e-4be9-9a8e-36749fcd7cef_Scrs_5.5-1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/2f/ea/e82fea96-8fad-0733-9d5f-a4f16e850833/7fd0b644-5df7-4c5f-a228-53fac713323d_Scrs_6.5-3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/de/d4/3eded40c-5899-fb45-fa44-6d6cce6f1b99/5ee3910b-7fa2-4f21-9d0f-22138fb26f34_Scrs_6.5-4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/6a/94/516a9421-92e6-ad61-160b-ac3711be3be2/48f4a5d7-49c7-4d53-9075-29f2cf4d680d_Scrs_6.5-2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/18/86/46188694-797a-69f3-37aa-9f5d08b51acc/38187d2a-f3c6-4d11-be0c-485babb46231_Scrs_6.5-1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/b9/21/19b9210b-415b-20d0-c508-0a26c1566132/32756355-06e0-4cd4-b838-41f6b5656935_Scrs_6.7-3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/6f/03/6f6f03fd-60d9-7964-2f50-79d07b1de35d/50968ce1-48a0-40a2-b4c8-4f212935fac2_Scrs_6.7-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/50/ec/4050ecd1-b843-3e55-ec61-61e19439ad81/6139920a-3312-4f5e-b71f-4a8e7160ce20_Scrs_6.7-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/30/97/3430978d-0425-d8ee-ac59-de3f38830fb3/a5495ef4-790a-4139-be11-a5d008bc598d_Scrs_6.7-1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/88/e3/3588e3d0-321c-3ead-fba1-ed90a06dd17b/f2cd0285-01c7-4b4d-b24f-b806d9b1c017_Scrs_5.5-3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/f1/9b/ccf19ba1-9e77-bb87-a28c-d0f96fc8c037/e480ea11-3ef8-491b-a49c-7c3470d13cd4_Scrs_5.5-4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/54/a4/d654a417-c8cd-d62c-dac9-7dd75417cee7/4cb10797-2eb5-4e0f-8303-37e23dd087eb_Scrs_5.5-2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/99/5c/20995ce6-a417-c2d8-3ece-250f67558f6a/43fbdc9b-226e-4be9-9a8e-36749fcd7cef_Scrs_5.5-1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/56/7a/5e567ab1-ccf6-1b64-e17e-63cade8e9b75/2ea74acc-cdb0-4b26-b103-11913fecb466_Scrs_ipad3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/86/4e/5f864eb1-0ebb-c2b3-bae5-b8497c8ff52f/5f326e4a-41be-4568-9bc8-7cdfe033495e_Scrs_ipad4.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/fc/54/defc5487-8d3a-cdbf-d092-31aaa114c9b1/c1364e79-4afe-4767-befd-e1308e498455_Scrs_ipad2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a4/72/01a47238-3930-efba-649b-44fefb41959c/12237c03-6c0c-4b21-8950-daf842b824b5_Scrs_ipad1.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/47/6a/53476a00-bda1-88a6-4dcf-38733559facd/837c9163-1d75-45f3-a0cb-65f59351fe2f_watch1.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/3e/e7/123ee750-c907-9c67-55f1-fb88193b6f01/e96c34b3-d811-4102-901a-489276b7407b_watch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5e/f5/f55ef535-c2d1-04e2-9fc7-4a4305f60b46/8308f8f8-856d-4471-bb56-c61ac066ac61_watch3.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/9b/4e/359b4e01-cee5-12b5-26aa-a4a1997e211c/eac4ab59-7f0f-4022-87a7-dc7397f3deaf_watch4.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "releaseNotes": "",
+      "seenAt": "2021-07-23T15:52:23Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Make Slot on phone landscape for better feeling.",
+      "seenAt": "2022-09-01T00:47:58Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "+ Improve graphics\n+ Add Chinese Poker gameplay",
+      "seenAt": "2022-10-07T21:32:52Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Optimize performance for Apple Watch.",
+      "seenAt": "2022-10-27T22:30:35Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "Change homescreen button graphics.",
+      "seenAt": "2022-11-11T03:59:18Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Optimize performance.",
+      "seenAt": "2023-12-17T17:51:48Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "+ Change icon from year of the Tiger to year of the Dragon\n+ Improve Graphics",
+      "seenAt": "2024-03-04T17:14:42Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Smoothen tables list.",
+      "seenAt": "2024-03-11T16:50:14Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Game performs smoother and improves graphics.",
+      "seenAt": "2024-03-13T13:36:06Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "+ Fix a bug that cause pinball level to end unexpectedly.",
+      "seenAt": "2024-03-15T18:26:12Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Fix a bug that cause user to lose avatar when update game.",
+      "seenAt": "2024-03-18T16:05:49Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2024-03-28T07:49:22Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "Support Game Center.",
+      "seenAt": "2024-04-05T11:36:10Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "Improve graphics.",
+      "seenAt": "2024-08-30T19:33:47Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Fix a graphic bug",
+      "seenAt": "2024-08-31T21:27:16Z"
+    },
+    {
+      "version": "2.10",
+      "releaseNotes": "Improve homescreen graphics and add new rules.",
+      "seenAt": "2024-11-18T14:49:39Z"
+    },
+    {
+      "version": "2.11",
+      "releaseNotes": "Improve button layout.",
+      "seenAt": "2024-11-20T10:46:38Z"
+    },
+    {
+      "version": "2.12",
+      "releaseNotes": "Make the cards look bigger.",
+      "seenAt": "2024-12-09T15:58:01Z"
+    },
+    {
+      "version": "2.13",
+      "releaseNotes": "Graphics for Lunar Year of the Horse.",
+      "seenAt": "2026-02-05T19:08:14Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:19:33.283Z",
+  "isOwnApp": false
+}

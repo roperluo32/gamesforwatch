@@ -1,0 +1,397 @@
+{
+  "trackId": "1252580641",
+  "bundleId": "com.shikudo.fitrpg",
+  "slug": "walking-rpg-hero-health-game",
+  "path": "/apps/1252580641-walking-rpg-hero-health-game/",
+  "locales": {
+    "en": {
+      "trackName": "Walking RPG: Hero health game",
+      "description": "PEDOMETER + RPG!\n\nTrain your team of heroes as you exercise, the more activities the stronger your heroes become! Let’s take on the challenges, and embark on the journey of becoming the new best you! \n\nIt has been 12 years since the Dark Force Took over Fitland. Villagers await the savior to return. Will you be the one to lead a team of heroes, defeat enemies and save them all?\n\nKEY FEATURES:\n* Walking RPG - Convert your steps into free energy and use them to level up heroes\n* Sync steps - Uses steps from your phone or sync steps from your Fitbit\n* Battlegrounds - Explore the Fitland map, fight monsters and save the kingdom\n* Team of heroes - Collect and train different heroes, form your ace team\n* Precious equipment and skins - Collect, upgrade precious weapons to make your team stronger\n* Arena - Compete with other players and fight your way to the top\n\nPlease Note: Walking RPG is a free-to-play game, but some extra game items can be purchased for real money. You can disable in-app purchases in your device's settings.\n\nHEALTHKIT:\n\nWalking RPG is also an Apple Watch game: it uses HealthKit to read your steps from Apple Watch. Make sure to grant all permissions when asked to authorize with the Health App to make it work.\n\nSUBSCRIPTION PRICING AND TERMS:\n\nSuperPass offers USD $6.99 monthly subscription after 3-day free trial for accessing exclusive resources and premium features.\n\nEnd of trial and subscription renewal:\nThis price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n\nPayment will be charged to iTunes Account at confirmation of purchase.\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nAccount will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy policy: https://site.shikudo.com/privacy-policy\nTerms of use: https://site.shikudo.com/terms-of-use",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/walking-rpg-hero-health-game/id1252580641?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "Health & Fitness",
+        "Roleplaying",
+        "Adventure",
+        "Games"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "subtitle": "Fitness game for weight loss"
+    },
+    "ja": {
+      "trackName": "Walking RPG: 歩数 + 位置情報 ゲーム",
+      "description": "ウォーキング + RPG!\n\nウォーキングを通してあなたの勇士を鍛錬しよう！歩いた歩数が多ければ多いほど、ヒーローたちはより強くなれる！今から挑戦し、一番強い自分になろう！\n\n暗黒勢力は健康王国を統治するからもう12年経過。人々は救世主の降臨を強く望んでいる。果たしてあなたにヒーローたちを率いて、邪悪な勢力に戦勝する資格はあるのか？共に挑戦し、より素晴らしい自分を作り上げよう！\n\n特色：\n* 健康RPGゲーム - 歩いた歩数を転換してヒーローたちをレベルアップする\n* 歩数同期化 - 携帯電話の歩数機能、或いはFitbitから歩数を同期化する\n* 冒険 - 健康王国を救い、モンスターと敵を討伐\n* ヒーロー - ヒーローを収集して組み合わせする\n* 装備 - 装備を収集してレベルアップし、ヒーローを強くする\n* 外観 - レアな外観を収集する\n* 闘技場 - 他のプレイヤーと対戦\n\nご注意：Walking RPGは基本プレイ無料ですが、課金を通して幾つかのゲーム内アイテムを入手できます。設定から有料コンテンツを解除できます。\n\nHealthKit\n\nWalking RPGは、HealthKitを使用して、Apple Watchから手順を読み込みます。 保健アプリケーションの認証を求めるメッセージが表示されたら、すべての権限を付与してください。\n\nサブスクリプション料金と諸条件\n\nスーパーパスは、排他的なリソースとプレミアム機能にアクセスするための3日間の無料トライアル後、毎月6.99米ドルの購読を提供します。\n\nトライアルの終了と購読更新:\n\nこちらの料金は米国内の顧客向けのものであり、他の国々での料金や実際の課金額は居住国の通貨に換算され変動する場合があります。\n\n代金は購入確認の時点でiTunesのアカウントに請求されます。\n定期購読は、現在の購読期間が終了する少なくとも24時間前までに自動更新機能がオフになっていない限り、自動的に更新されます。\nアカウントは、今期が終了する24時間以内に更新の課金がなされ、更新費用が特定されます。\n\nユーザーは定期購入を選択することができます。また、購入後はユーザーアカウント設定から自動更新をオフにすることができます。\nもし無料お試し期間を提供されたならば、該当する場合において、ユーザーが出版物購読の時点で未使用の無料お試し期間は喪失されます。\n\nプライバシーポリシー: https://site.shikudo.com/privacy-policy\n利用諸条件: https://site.shikudo.com/terms-of-use",
+      "releaseNotes": "このアップデートには、安定性の向上と一般的な不具合修正が含まれています。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/walking-rpg-%E6%AD%A9%E6%95%B0-%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1-%E3%82%B2%E3%83%BC%E3%83%A0/id1252580641?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "ヘルスケア／フィットネス",
+        "ロールプレイング",
+        "アドベンチャー",
+        "ゲーム"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Walking RPG: Schrittzähler",
+      "description": "SCHRITTZÄHLER + RPG!\n\nTrainiere dein Heldenteam während du dich bewegst, je mehr Aktivitäten, desto stärker werden deine Helden! Stellen wir uns den Herausforderungen und begeben uns auf die Reise, die beste Version von dir zu werden!\n\nEs sind 12 Jahre vergangen, seit die Dunkle Macht Fitland übernommen hat. Die Dorfbewohner warten auf den Retter. Wirst du derjenige sein, der ein Heldenteam anführt, Feinde besiegt und alle rettet?\n\nHAUPTMERKMALE:\n* Walking RPG - Wandele deine Schritte in freie Energie um und nutze sie, um Helden hochzustufen\n* Schritte synchronisieren - Nutzt Schritte von deinem Handy oder synchronisiere Schritte von deinem Fitbit\n* Schlachtfelder - Erkunde die Fitland-Karte, bekämpfe Monster und rette das Königreich\n* Heldenteam - Sammle und trainiere verschiedene Helden, bilde dein Spitzenteam\n* Wertvolle Ausrüstung und Skins - Sammle, verbessere wertvolle Waffen, um dein Team stärker zu machen\n* Arena - Konkurriere mit anderen Spielern und kämpfe dich an die Spitze\n\nBitte beachten: Walking RPG ist ein kostenloses Spiel, aber einige zusätzliche Spielgegenstände können für echtes Geld gekauft werden. Du kannst In-App-Käufe in den Einstellungen deines Geräts deaktivieren.\n\nHEALTHKIT:\n\nWalking RPG ist auch ein Apple Watch-Spiel: Es verwendet HealthKit, um deine Schritte von der Apple Watch zu lesen. Stelle sicher, dass du alle Berechtigungen erteilst, wenn du aufgefordert wirst, dich mit der Health App zu autorisieren.\n\nABONNEMENTPREISE UND -BEDINGUNGEN:\n\nSuperPass bietet ein monatliches Abonnement von USD $6.99 nach einer 3-tägigen kostenlosen Testphase für den Zugriff auf exklusive Ressourcen und Premium-Funktionen.\n\nEnde der Testphase und Abonnementverlängerung:\nDieser Preis gilt für Kunden in den Vereinigten Staaten. Die Preise in anderen Ländern können variieren und die tatsächlichen Gebühren können in deine lokale Währung umgerechnet werden, abhängig vom Land des Wohnsitzes.\n\nDie Zahlung wird dem iTunes-Konto bei Bestätigung des Kaufs belastet.\nDas Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ende des aktuellen Zeitraums deaktiviert.\n\nDas Konto wird innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums mit den Kosten für die Verlängerung belastet.\n\nAbonnements können vom Benutzer verwaltet und die automatische Verlängerung kann deaktiviert werden, indem man nach dem Kauf zu den Kontoeinstellungen des Benutzers geht.\n\nEin ungenutzter Teil einer kostenlosen Testphase, falls angeboten, verfällt, wenn der Benutzer ein Abonnement für diese Publikation kauft, falls zutreffend.\n\nDatenschutzrichtlinie: https://site.shikudo.com/privacy-policy\nNutzungsbedingungen: https://site.shikudo.com/terms-of-use",
+      "releaseNotes": "Dieses Update enthält Stabilitätsverbesserungen und allgemeine Fehlerbehebungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/walking-rpg-schrittz%C3%A4hler/id1252580641?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Shikudo Co., Ltd.",
+      "genres": [
+        "Gesundheit und Fitness",
+        "Rollenspiel",
+        "Abenteuer",
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/75/7c337507-8543-48fb-133d-818a5ef68e57/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.34848,
+  "userRatingCount": 66,
+  "price": 0,
+  "fileSizeBytes": "240197632",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "15.0",
+  "version": "5.7.6",
+  "currentVersionReleaseDate": "2026-07-29T04:02:03Z",
+  "releaseDate": "2018-02-26T08:47:04Z",
+  "artistId": 1089497060,
+  "artistName": "Shikudo",
+  "artistViewUrl": "https://apps.apple.com/de/developer/shikudo/id1089497060?uo=4",
+  "sellerUrl": "https://www.shikudo.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/78/6c/95786cf7-113c-056f-e809-ee14767e2e56/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/fa/e1/19fae1d8-abb5-5ef9-4279-512c6062bb68/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/61/f5/7161f506-6312-488f-1d43-a25ec8ba85c1/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/d5/71/acd5711d-a708-fdc4-429d-4e8fc366fe68/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/14/af/5f14af9b-c06d-288c-8aca-1d66823f1552/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/d9/a3/bed9a3e7-8d3c-69c0-309e-9cfa912c5545/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/e9/2e/6fe92ee2-aa71-97fe-0deb-c244fb7e9410/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e5/1a/79e51af1-45e9-f110-fb65-77e747d479bc/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/60/c9/1060c94a-ae75-c3e0-1e87-99e7e12b37cd/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/27/2a/47272a59-d321-ed03-9336-4f77692e9efa/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/27/73/cb277372-6559-a7b1-76f1-a73d52a0f532/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/02/7e/40027e55-9b60-3511-2b95-c7058483de75/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/a4/57/7ba457d9-67d4-ab1e-0334-2a411c1fecfc/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/06/b1/fc06b10e-49b7-37c7-8b7e-84408f553aba/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/12/a5/e912a5c7-437a-e678-b618-5509e7c05ba5/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/b8/38/36b838d6-6f7a-876c-d438-bff773ec9ced/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/21/ba/c421bac8-40db-1818-38d5-f360c89c3b33/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/9a/d3/4b9ad358-6a95-0286-710d-ce02070239bd/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/b7/4c/6fb74cea-f0fd-7d3d-e119-70712a458733/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/94/21/1a942199-5370-9e74-40cf-5c866319ebda/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5e/90/f4/5e90f479-626d-a0cf-c759-079304a1064d/d8b6a32c-2837-450f-bdde-84a8cea2263b_Screen_shoot_1242x2208_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/1b/67/401b6758-e19e-0394-b937-20c52e00f8b7/cf7f5046-1791-484d-b992-dc7a47741abc_Screen_shoot_1242x2208_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/52/75/ae/5275aebd-7e4c-eb1c-9854-9504b2d6ca05/756c6228-e614-48ee-9cf3-10f9a8cfad71_Screen_shoot_1242x2208_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1b/81/b7/1b81b7da-68e5-3587-e617-7db0aad7f304/db89120e-45da-4d70-a064-4eec31eb6c14_Screen_shoot_1242x2208_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/62/d0/f062d0f7-ad6e-c10e-24eb-237caf7e8c2c/a1957609-61c0-43ea-9af5-2d3786d1989e_Screen_shoot_1242x2208_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/1d/a1/941da1be-3b9f-47d0-d222-a29ed825f61f/dcbb0e38-3c75-48d2-8ea3-cf0aaf237d3d_Screen_shoot_2048x2732_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/4b/0f/424b0f09-2537-c007-915e-f9a915f33e2e/366ab4de-367a-42ee-b255-461abc141adc_Screen_shoot_2048x2732_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0f/49/d9/0f49d9ed-56f9-04e0-22d6-d1a87e2dc9e2/5ead4581-9828-4dfa-9ae0-f7eb8f7535ad_Screen_shoot_2048x2732_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/4a/54/d34a546d-2ff0-c738-b590-d2c247801622/dbf8577b-65d1-40e8-9273-ebaaf8b3de92_Screen_shoot_2048x2732_05.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cf/2c/78/cf2c784c-c9d5-649f-60c2-27da2bcfec1d/8c096044-64c9-443b-9331-a80515a5a927_Screen_shoot_2048x2732_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/86/24/a8862487-f806-e418-15f9-0e77b8c4dc28/877e0305-cf6e-482c-a3d3-646c2325d4bf_Screen_shoot_1242x2208_02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/08/29/9308292c-865e-db78-8f89-375d7db07e73/905f37da-ec20-4259-9df7-96274e86cd04_Screen_shoot_1242x2208_03.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/03/7b/a3/037ba32c-ca32-2d42-ca50-0ce45c417086/350d7d1e-b421-4de7-8fca-797abeb5dbf2_Screen_shoot_1242x2208_04.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1e/a5/e7/1ea5e739-0610-8c4a-0a6d-33122056f495/a6b5a5f4-1632-4220-b362-b72732252469_Screen_shoot_1242x2208_05.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/7d/1c/e77d1cb8-bb6e-2c8b-70bd-af70d29dd21e/6240fcb0-5f05-400c-81c9-b36785193b7b_Screen_shoot_1242x2208_01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/57/89/60/57896096-0183-2bd9-5928-56be4eaa8cdf/66bdd26f-1d70-4c4c-a14a-180d1454a0d9_Screen_shoot_2048x2732_02.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/3c/ae/083caee1-813b-2e30-5e63-be69765a2306/37dff57b-4814-4719-a181-d8c0dda7b962_Screen_shoot_2048x2732_03.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6c/cc/45/6ccc4589-4435-da33-fe25-954a12d7badf/976e0a15-5253-4c76-b30a-259094a9b540_Screen_shoot_2048x2732_04.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/21/a4/6a21a4f4-2348-fd48-7c6d-dccf7ec3f175/180b4fd5-82d2-46a9-aa3b-304fc4fa4c63_Screen_shoot_2048x2732_05.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/bc/d8/58bcd8e0-e169-b096-059e-d968c4a5ce0d/40762bcf-8df9-45dc-8e3c-2ff3048a2df5_EN_screen_shoot_2048x2732_01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/27/73/cb277372-6559-a7b1-76f1-a73d52a0f532/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/02/7e/40027e55-9b60-3511-2b95-c7058483de75/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/a4/57/7ba457d9-67d4-ab1e-0334-2a411c1fecfc/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/06/b1/fc06b10e-49b7-37c7-8b7e-84408f553aba/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/12/a5/e912a5c7-437a-e678-b618-5509e7c05ba5/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/78/6c/95786cf7-113c-056f-e809-ee14767e2e56/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/fa/e1/19fae1d8-abb5-5ef9-4279-512c6062bb68/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/61/f5/7161f506-6312-488f-1d43-a25ec8ba85c1/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/d5/71/acd5711d-a708-fdc4-429d-4e8fc366fe68/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/14/af/5f14af9b-c06d-288c-8aca-1d66823f1552/pr_source.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/80/5c/a6805ccd-caf1-548a-f681-bc1b4eb0a390/mzl.hnfmxdcu.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/7a/6b/a47a6bdb-0810-5813-7a69-d53c11e5f0e7/mzl.qmdqpeel.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/9f/5b/6b9f5b10-35b8-5cb3-7822-6d01ab771cc3/mzl.qyogvdzy.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "5.3.3",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-03-29T02:45:55Z"
+    },
+    {
+      "version": "5.3.4",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-04-02T13:31:11Z"
+    },
+    {
+      "version": "5.3.5",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-04-25T14:45:04Z"
+    },
+    {
+      "version": "5.3.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-05-10T14:02:47Z"
+    },
+    {
+      "version": "5.3.7",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-06-07T02:18:32Z"
+    },
+    {
+      "version": "5.4",
+      "releaseNotes": "* New feature\n- Honor of fame: check top players from each season and send likes",
+      "seenAt": "2023-09-04T05:17:02Z"
+    },
+    {
+      "version": "5.4.1",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2023-09-12T14:13:37Z"
+    },
+    {
+      "version": "5.4.2",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2023-09-13T05:35:57Z"
+    },
+    {
+      "version": "5.5",
+      "releaseNotes": "* New feature\n- Support French, German, Italian, Portuguese, and Spanish",
+      "seenAt": "2023-11-16T12:46:04Z"
+    },
+    {
+      "version": "5.5.2",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2024-03-25T02:47:20Z"
+    },
+    {
+      "version": "5.5.3",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2024-03-28T23:08:19Z"
+    },
+    {
+      "version": "5.5.5",
+      "releaseNotes": "* Bug fixes\n- A few skills that don't work properly under some conditions",
+      "seenAt": "2024-08-07T01:32:10Z"
+    },
+    {
+      "version": "5.5.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2025-02-07T19:21:03Z"
+    },
+    {
+      "version": "5.5.8",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-05-22T15:36:37Z"
+    },
+    {
+      "version": "5.5.9",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-08-16T13:53:23Z"
+    },
+    {
+      "version": "5.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-08-21T01:03:20Z"
+    },
+    {
+      "version": "5.6.2",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-10-24T06:02:38Z"
+    },
+    {
+      "version": "5.6.3",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-11-05T06:05:36Z"
+    },
+    {
+      "version": "5.6.4",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2025-11-30T10:32:05Z"
+    },
+    {
+      "version": "5.6.7",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-01-25T13:44:58Z"
+    },
+    {
+      "version": "5.6.8",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-02-08T14:02:03Z"
+    },
+    {
+      "version": "5.7.3",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2026-07-14T07:33:45Z"
+    },
+    {
+      "version": "5.7.4",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-07-17T06:12:08Z"
+    },
+    {
+      "version": "5.7.5",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-07-24T05:20:09Z"
+    },
+    {
+      "version": "5.7.6",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "seenAt": "2026-07-29T04:02:03Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T08:58:24.019Z",
+  "isOwnApp": false
+}

@@ -1,0 +1,413 @@
+{
+  "trackId": "6557047872",
+  "bundleId": "com.aw.farmBlock",
+  "slug": "block-puzzle-blast-the-square",
+  "path": "/apps/6557047872-block-puzzle-blast-the-square/",
+  "locales": {
+    "en": {
+      "trackName": "Block Puzzle: blast the square",
+      "description": "Help our friend the Racoon to harvest in his farm. Progress from the kitchen to the jungle. Go far beyond the island and discover new maps as you solve awesome Puzzles along the way.\nKeep winning and you will be able to unlock various Puzzle machines with new gameplays as rewards. Get the game and challenge your brain with this latest Puzzle collection.",
+      "releaseNotes": "Add new levels and gameplay.",
+      "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-blast-the-square/id6557047872?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Games",
+        "Casual",
+        "Entertainment",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "smash cube to solve brain quiz"
+    },
+    "zh": {
+      "trackName": "Block Puzzle: blast the square",
+      "description": "Help our friend the Racoon to harvest in his farm. Progress from the kitchen to the jungle. Go far beyond the island and discover new maps as you solve awesome Puzzles along the way.\nKeep winning and you will be able to unlock various Puzzle machines with new gameplays as rewards. Get the game and challenge your brain with this latest Puzzle collection.",
+      "releaseNotes": "Add new levels and gameplay.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/block-puzzle-blast-the-square/id6557047872?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "游戏",
+        "休闲",
+        "娱乐",
+        "益智解谜"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Block Puzzle: blast the square",
+      "description": "Help our friend the Racoon to harvest in his farm. Progress from the kitchen to the jungle. Go far beyond the island and discover new maps as you solve awesome Puzzles along the way.\nKeep winning and you will be able to unlock various Puzzle machines with new gameplays as rewards. Get the game and challenge your brain with this latest Puzzle collection.",
+      "releaseNotes": "Add new levels and gameplay.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-blast-the-square/id6557047872?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "ゲーム",
+        "カジュアル",
+        "エンターテインメント",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Block Puzzle: blast the square",
+      "description": "Help our friend the Racoon to harvest in his farm. Progress from the kitchen to the jungle. Go far beyond the island and discover new maps as you solve awesome Puzzles along the way.\nKeep winning and you will be able to unlock various Puzzle machines with new gameplays as rewards. Get the game and challenge your brain with this latest Puzzle collection.",
+      "releaseNotes": "Add new levels and gameplay.",
+      "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-blast-the-square/id6557047872?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Gosiha Pte. Ltd.",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Unterhaltung",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ec/49/aaec49d3-5340-9658-79b0-8d09808768c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 7,
+  "price": 0,
+  "fileSizeBytes": "177255424",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.3",
+  "version": "1.33",
+  "currentVersionReleaseDate": "2026-05-28T18:47:53Z",
+  "releaseDate": "2024-07-19T07:00:00Z",
+  "artistId": 1452132143,
+  "artistName": "Gosiha Pte. Ltd",
+  "artistViewUrl": "https://apps.apple.com/de/developer/gosiha-pte-ltd/id1452132143?uo=4",
+  "sellerUrl": "https://gosiha.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/81/69/5b81698f-e5f5-fd0a-9351-16a32d1525e1/d5bd5e79-549b-4334-a406-571d3c9257fb_tetrisBlockScrsIpad-6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/69/01/94690140-3423-cda2-166d-22ceadfbc773/ba98824c-c555-498b-9611-df872e02eb76_tetrisBlockScrsIpad-5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/b6/31/f3b63197-80f4-d914-63fe-b767017e55d6/878fcd97-06c7-4d5e-bd02-3425c95d2eb6_tetrisBlockScrsIpad-3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/16/2f/11162f8e-850f-0ab0-9e70-bac83fabb035/fde39e61-50c0-45b0-b1fe-d699a2fe5fdd_tetrisBlockScrsIpad-4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/3f/4c/fb3f4c03-07f2-c5d2-781c-810bcf572ac9/d38dceba-bc22-42fb-81c7-d2c413f317af_tetrisBlockScrsIpad-2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/2a/34/1d2a3458-e351-917f-6663-60c676d09805/3f74e154-e915-47c4-ae4b-8c734305c60f_tetrisBlockScrsIpad-1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/2a/fe/342afe9d-c8dc-b875-4a11-5954454fcfe1/tetrisBlockScrsIpad-6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/c6/a3/15c6a39a-b963-c060-8a68-0e3bacb776fa/ipad8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/4f/b0/b94fb048-64e0-f89a-f1bd-b5044b38aab1/ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/a4/7f/c0a47f37-cf39-a246-fc29-776044e73256/Ipad2__U00281_U0029.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/6e/c6ed6e24-6b6e-b934-da92-6e211c2db6f5/ipad7.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/ca/d3/2acad31c-774e-af0a-b17a-4337f61010b0/ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/5b/6c/7b5b6cb3-e8de-750d-d9cf-c168b3d362e1/f5ac1994-8ee0-48f3-bb23-0e3a53b4d3b7_tetrisBlockScrsIpad-4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/7a/4d/2f7a4db7-c519-0c2d-bff9-617f2ab99908/d5b9b019-17b3-4d31-8b63-5da57948e3a0_tetrisBlockScrsIpad-5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/f0/25/e6f02519-398e-7e0b-e47e-48e26f860073/shortBlockScrsIpad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/96/aa/7696aa84-51e0-12d3-d451-65174051e3fc/883af8ae-91ee-4671-b65e-bf03d0d64e90_tetrisBlockScrsIpad-2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/7c/10/f37c10f1-e0ba-b432-6a27-a11b729387a3/3f5b0a76-849e-4548-a9f2-24717894f8f2_tetrisBlockScrs5.5-6.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/18/82/b11882cf-c24f-d7b3-10a3-2be877d3d2a7/a1fff9f8-fa21-4232-9c8a-b74fefadbb36_tetrisBlockScrs5.5-5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/3c/0f/9c3c0f23-455e-cb07-cc57-e3bab5e77931/72a3fa85-1b6f-487e-ba4f-c541c6c95479_tetrisBlockScrs5.5-3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/00/7d/4a007d6b-9c9b-82e5-9bd9-f4f498b5181f/5998a500-c123-4b5a-97ef-7704535e4c22_tetrisBlockScrs5.5-4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/47/04/4247046c-f34c-4ffd-639e-2af7f5231f8d/099c7da8-30d8-480e-9e9d-470f8ee01057_tetrisBlockScrs5.5-2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/92/b7/d092b772-9b74-7498-bd68-5740a8b14d71/ca7e9474-6f5c-4006-b217-af1171ffba16_tetrisBlockScrs5.5-1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/f8/12/57f812e0-6cb4-89d9-1a24-cbe8569d8056/6.9-6.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ae/64/4aae643f-9842-917e-4cd2-69d04d81e3db/6.9-8.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/3f/b9/613fb972-10b9-12ad-7fd5-a4fc203c5b3f/6.9-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/45/59/5545592f-ac8c-97a0-7552-051d997668a0/Scrs6.9-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/ce/fa/adcefa6f-63fc-f859-df41-5c6f7a8ff5c2/6.9-7.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d8/bb/3cd8bba2-c9df-8ea6-66e3-22685b3db5b8/6.9__U00282_U0029.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/92/fd/6292fd83-1c56-3e4b-79de-58d54da99374/6da0ed61-0e02-40c7-ba79-c3c6c34cf3f0_tetrisBlockScrs6.7-4.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/9e/fe/0f9efe05-4235-4eb2-ffb5-b0f54aeeca54/58d9a559-fbb3-40a6-85b1-cc6eae71a2ae_tetrisBlockScrs6.7-5.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/39/8b/fc398b52-b7bb-ee11-2e40-8e7961007aca/shortBlockScrs6.9-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/b7/bf/cab7bf8d-2089-2ee5-f785-42b22606c72e/ef293492-b6a3-4b3a-87a4-eba6a1b8f0f4_tetrisBlockScrs6.7-2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/7c/10/f37c10f1-e0ba-b432-6a27-a11b729387a3/3f5b0a76-849e-4548-a9f2-24717894f8f2_tetrisBlockScrs5.5-6.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/18/82/b11882cf-c24f-d7b3-10a3-2be877d3d2a7/a1fff9f8-fa21-4232-9c8a-b74fefadbb36_tetrisBlockScrs5.5-5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/3c/0f/9c3c0f23-455e-cb07-cc57-e3bab5e77931/72a3fa85-1b6f-487e-ba4f-c541c6c95479_tetrisBlockScrs5.5-3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/00/7d/4a007d6b-9c9b-82e5-9bd9-f4f498b5181f/5998a500-c123-4b5a-97ef-7704535e4c22_tetrisBlockScrs5.5-4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/47/04/4247046c-f34c-4ffd-639e-2af7f5231f8d/099c7da8-30d8-480e-9e9d-470f8ee01057_tetrisBlockScrs5.5-2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/92/b7/d092b772-9b74-7498-bd68-5740a8b14d71/ca7e9474-6f5c-4006-b217-af1171ffba16_tetrisBlockScrs5.5-1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/81/69/5b81698f-e5f5-fd0a-9351-16a32d1525e1/d5bd5e79-549b-4334-a406-571d3c9257fb_tetrisBlockScrsIpad-6.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/69/01/94690140-3423-cda2-166d-22ceadfbc773/ba98824c-c555-498b-9611-df872e02eb76_tetrisBlockScrsIpad-5.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/b6/31/f3b63197-80f4-d914-63fe-b767017e55d6/878fcd97-06c7-4d5e-bd02-3425c95d2eb6_tetrisBlockScrsIpad-3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/16/2f/11162f8e-850f-0ab0-9e70-bac83fabb035/fde39e61-50c0-45b0-b1fe-d699a2fe5fdd_tetrisBlockScrsIpad-4.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/3f/4c/fb3f4c03-07f2-c5d2-781c-810bcf572ac9/d38dceba-bc22-42fb-81c7-d2c413f317af_tetrisBlockScrsIpad-2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/2a/34/1d2a3458-e351-917f-6663-60c676d09805/3f74e154-e915-47c4-ae4b-8c734305c60f_tetrisBlockScrsIpad-1.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/9e/49/d99e4952-8cbe-6f6a-3964-f771e71b11dc/tetrisBlockScrsWatch-6.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b1/08/84b10823-395d-e7a4-456a-d479c0b878a3/watch8.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/96/62/73966291-78c8-a687-42f3-8e13e9758d21/watch5.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/5d/93/235d9308-60bc-b85c-9895-905825ccece6/ScrsWatch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/f8/20/b7f8201f-54de-aa1e-6f71-899f777ca891/watch7.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/e2/94/93e2944d-3ee7-a76e-1db1-9e043964d285/watch.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/af/c6/81afc66b-f397-e393-94e0-ffb24089bd3b/shortBlockScrsWatch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/2d/b4/022db4e9-e407-2e8a-75a1-79f070b24752/6a7aaaa1-ee84-4b97-bb4f-c03ec264830a_tetrisBlockScrsWatch-2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d8/21/40d821a3-90c5-6039-07cb-213f96f5a5bc/dea48cad-45c7-4216-a0c8-bc46e8f3f0ab_tetrisBlockScrsWatch-5.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/9e/6a/1a9e6a39-fcb0-c44e-8f17-7daab0023969/38f357ea-ee61-49d5-82b0-360866661044_tetrisBlockScrsWatch-4.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.11.3",
+      "releaseNotes": "* Optimize Apple Watch battery consumption.\n* Improve user interface and button flows.\n* Fix multiple minor bugs.",
+      "seenAt": "2024-12-31T09:41:06Z"
+    },
+    {
+      "version": "1.12.13",
+      "releaseNotes": "* Add a new puzzle machine for day 4.\n* Improve lightning effects.\n* Optimize buttons.",
+      "seenAt": "2025-01-03T16:58:47Z"
+    },
+    {
+      "version": "1.12.17",
+      "releaseNotes": "* Fix some audio bugs.\n* Increase performance for Brick Fall puzzle.",
+      "seenAt": "2025-01-06T12:58:36Z"
+    },
+    {
+      "version": "1.12.19",
+      "releaseNotes": "Fixed bug: Highscore won't be recorded to Game Center if player enters a game too fast.",
+      "seenAt": "2025-01-08T14:32:59Z"
+    },
+    {
+      "version": "1.13.8",
+      "releaseNotes": "* Add more levels.\n* Optimized on Apple Watch.",
+      "seenAt": "2025-01-20T13:02:30Z"
+    },
+    {
+      "version": "1.14.1",
+      "releaseNotes": "Fix a display bug at the end of each level.",
+      "seenAt": "2025-02-10T13:01:42Z"
+    },
+    {
+      "version": "1.15",
+      "releaseNotes": "* Reward one coin for passing a level.\n* New puzzle machine.",
+      "seenAt": "2025-03-14T07:55:55Z"
+    },
+    {
+      "version": "1.16",
+      "releaseNotes": "Add loading screen to prevent lagging at the 1st few seconds.",
+      "seenAt": "2025-03-19T01:25:11Z"
+    },
+    {
+      "version": "1.17",
+      "releaseNotes": "Add a new puzzle machine.",
+      "seenAt": "2025-03-29T00:17:43Z"
+    },
+    {
+      "version": "1.18",
+      "releaseNotes": "* Reduce game size.\n* Add more levels.",
+      "seenAt": "2025-04-03T07:01:01Z"
+    },
+    {
+      "version": "1.19",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2025-04-16T16:43:27Z"
+    },
+    {
+      "version": "1.20",
+      "releaseNotes": "Add decoration feature.",
+      "seenAt": "2025-04-24T14:11:54Z"
+    },
+    {
+      "version": "1.21",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2025-05-29T23:18:20Z"
+    },
+    {
+      "version": "1.22",
+      "releaseNotes": "Add more levels and new gameplays.\nAdd a new leader board.",
+      "seenAt": "2025-08-22T21:19:28Z"
+    },
+    {
+      "version": "1.23",
+      "releaseNotes": "Add more levels and improve graphics.",
+      "seenAt": "2025-08-27T13:34:18Z"
+    },
+    {
+      "version": "1.24",
+      "releaseNotes": "Add more levels and gameplays.",
+      "seenAt": "2025-09-17T14:46:20Z"
+    },
+    {
+      "version": "1.25",
+      "releaseNotes": "Add more levels.",
+      "seenAt": "2025-12-30T08:42:41Z"
+    },
+    {
+      "version": "1.26",
+      "releaseNotes": "Improve buttons.",
+      "seenAt": "2026-03-04T17:18:52Z"
+    },
+    {
+      "version": "1.27",
+      "releaseNotes": "Improve decoration.",
+      "seenAt": "2026-04-02T20:38:55Z"
+    },
+    {
+      "version": "1.28",
+      "releaseNotes": "A New gameplay is now unlockable: Pixel Blast",
+      "seenAt": "2026-04-10T22:50:44Z"
+    },
+    {
+      "version": "1.29",
+      "releaseNotes": "Fix a bug when unlock new game machines.",
+      "seenAt": "2026-04-13T19:10:49Z"
+    },
+    {
+      "version": "1.30",
+      "releaseNotes": "Add a new game machine: Hexa Jam.",
+      "seenAt": "2026-04-16T16:11:11Z"
+    },
+    {
+      "version": "1.31",
+      "releaseNotes": "Improve graphics and decor.",
+      "seenAt": "2026-04-18T17:12:50Z"
+    },
+    {
+      "version": "1.32",
+      "releaseNotes": "Improve graphics on Apple Watch and iPad.",
+      "seenAt": "2026-04-20T19:16:13Z"
+    },
+    {
+      "version": "1.33",
+      "releaseNotes": "Add new levels and gameplay.",
+      "seenAt": "2026-05-28T18:47:53Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:00:37.710Z",
+  "isOwnApp": false
+}

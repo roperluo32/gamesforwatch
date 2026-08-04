@@ -1,0 +1,375 @@
+{
+  "trackId": "615701215",
+  "bundleId": "O---X",
+  "slug": "o-x-noughts-and-crosses",
+  "path": "/apps/615701215-o-x-noughts-and-crosses/",
+  "locales": {
+    "en": {
+      "trackName": "O & X: Noughts and Crosses",
+      "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
+      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "trackViewUrl": "https://apps.apple.com/us/app/o-x-noughts-and-crosses/id615701215?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Nicholas Dean",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Strategy",
+        "Board"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Classic tic tac toe game!"
+    },
+    "ja": {
+      "trackName": "O & X: Noughts and Crosses",
+      "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
+      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/o-x-noughts-and-crosses/id615701215?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Nicholas Dean",
+      "genres": [
+        "ゲーム",
+        "エンターテインメント",
+        "ストラテジー",
+        "ボード"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "O & X: Noughts and Crosses",
+      "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
+      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "trackViewUrl": "https://apps.apple.com/de/app/o-x-noughts-and-crosses/id615701215?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Nicholas Dean",
+      "genres": [
+        "Spiele",
+        "Unterhaltung",
+        "Strategie",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/a9/29/59a9291b-7e07-a834-cd01-bcc2161e6acc/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+  "averageUserRating": 3,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "19735552",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "13.0",
+  "version": "8.1",
+  "currentVersionReleaseDate": "2026-06-02T08:04:59Z",
+  "releaseDate": "2013-03-22T21:45:46Z",
+  "artistId": 611762890,
+  "artistName": "Nicholas Dean",
+  "artistViewUrl": "https://apps.apple.com/de/developer/nicholas-dean/id611762890?uo=4",
+  "sellerUrl": "https://fluffylogicgames.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "MacDesktop-MacDesktop",
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/6e/6d/446e6d88-256a-3115-7c4d-7e9829cc4983/mzl.vahjecag.png/1536x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/76/d1/d5/76d1d533-c753-b2fa-960f-dc5f361068b0/mzl.dsamdvxp.png/1536x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c3/c3/78/c3c3789c-7d8b-72d5-4f8a-f2242ebab06a/965d2dd4-26f0-4261-98d9-fe0b61507fe0_screen_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/22/d5/3022d515-8b4b-356a-a247-9fb7fa1fcd4e/a043b559-46df-4635-928f-25b7fe90861f_screen_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/14/8a/cb/148acbb4-e83e-306c-13de-1a6c9ff20c4a/bce7dc02-2801-46e0-8514-970ab7fe4a3d_screen_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/60/ad/e5/60ade579-7107-8178-1869-1a9a542a719b/a00ecab1-acc8-45a9-9d53-aa5c08988d14_screen_4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/fd/87/61fd8750-d3b3-2da8-a71d-9bab6dbcf6bc/9521707d-feab-4e6a-97ae-556d1bc2f1e6_screen_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ef/d3/0d/efd30def-cdb4-482d-cc79-4c474fcbfe2c/90070f25-4e1f-4c0c-a4f0-fa933158ff25_screen_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6b/41/85/6b418525-9508-5142-e233-d5a440457b27/28b3c33d-e9fe-4acc-b640-8a7183e0421f_screen_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/c7/8b/45/c78b453d-cc46-2192-65f1-2cc4077d6b96/84232969-18e5-42c6-a60c-cd3500a13cf6_screen_4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fb/de/b9/fbdeb9b1-f9eb-d505-c05a-8fa9be9d1d90/mzl.ibmvrywa.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ee/43/66/ee436637-6e08-1d50-aefc-434fcf83ba4d/mzl.dnzxsetk.png/640x960bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/91/44/66914440-65fb-6c7d-3686-b5774dba39f3/mzl.gphzyxgz.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ef/69/df/ef69df4c-183d-4c50-a0f4-dbc0718e5245/mzl.phmqpskn.png/640x1136bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b3/28/c6/b328c663-d86e-7038-5838-a8bc82696fa8/9df96ef9-033e-4a15-9afb-e71bbd1d274d_screen_1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8a/c1/d2/8ac1d2a4-1866-3b20-d488-631e9000d916/4ae3e4c4-b679-459b-9b6e-7d2e08caacc9_screen_2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1f/16/d5/1f16d544-433a-9009-b9e4-889288a3981d/48e7b1ad-f02b-4e05-ac22-e6e205f5eb85_screen_3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4c/0f/1b/4c0f1b07-6c21-de8a-3db9-295702dc1691/e35b8e38-ed7b-4864-a2be-e18e8c9b9c61_screen_4.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/42/90/e1/4290e13c-0032-58fd-e887-a34f7d6729c9/7d231839-4535-46de-bdd8-b512771e2a60_screen_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/1e/45/4d/1e454dc9-2a30-d9e0-3478-01e1f6854443/ade1ccba-2ec0-4b58-8c46-909f9b7a0bea_screen_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7a/64/0f/7a640f06-3e6e-d8ca-5ed2-00488b73600c/255ab7b6-b7e8-4c7b-bf63-b70fc0d93fb5_screen_3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/33/fc/03/33fc03d0-f1b9-94cc-314c-1e23d63566ba/990c85de-9383-4a18-9721-9e8af44ed981_screen_4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b3/28/c6/b328c663-d86e-7038-5838-a8bc82696fa8/9df96ef9-033e-4a15-9afb-e71bbd1d274d_screen_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8a/c1/d2/8ac1d2a4-1866-3b20-d488-631e9000d916/4ae3e4c4-b679-459b-9b6e-7d2e08caacc9_screen_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1f/16/d5/1f16d544-433a-9009-b9e4-889288a3981d/48e7b1ad-f02b-4e05-ac22-e6e205f5eb85_screen_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4c/0f/1b/4c0f1b07-6c21-de8a-3db9-295702dc1691/e35b8e38-ed7b-4864-a2be-e18e8c9b9c61_screen_4.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c3/c3/78/c3c3789c-7d8b-72d5-4f8a-f2242ebab06a/965d2dd4-26f0-4261-98d9-fe0b61507fe0_screen_1.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/22/d5/3022d515-8b4b-356a-a247-9fb7fa1fcd4e/a043b559-46df-4635-928f-25b7fe90861f_screen_2.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/14/8a/cb/148acbb4-e83e-306c-13de-1a6c9ff20c4a/bce7dc02-2801-46e0-8514-970ab7fe4a3d_screen_3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/60/ad/e5/60ade579-7107-8178-1869-1a9a542a719b/a00ecab1-acc8-45a9-9d53-aa5c08988d14_screen_4.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/83/ed/d1/83edd16e-b40d-bd4d-8953-67f35087c239/mzl.okoynpks.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/a5/b6/dca5b6ff-7228-7e02-c485-eb47670d05af/mzl.pizwjzdf.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/58/ae/a858ae17-1b4a-fe72-37c9-6f5cdb90c103/mzl.owevvrel.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "5.7",
+      "releaseNotes": "- Improved support for new devices.",
+      "seenAt": "2022-01-07T23:43:57Z"
+    },
+    {
+      "version": "5.8",
+      "releaseNotes": "- Ensure ads always fit in the safe area.\n\n- Updated Admob.",
+      "seenAt": "2022-01-18T18:39:37Z"
+    },
+    {
+      "version": "5.9",
+      "releaseNotes": "- Improved the button design on the main menu and settings screens.",
+      "seenAt": "2022-02-20T03:50:38Z"
+    },
+    {
+      "version": "6.0",
+      "releaseNotes": "- Added a link to the inverse game of O&X Misere.\n\n- Replaced all game link button icons with better quality images.\n\n- Updated the Reversi game link button to match the newer icon.\n\n- Tweaked the title and button positions on the main menu.",
+      "seenAt": "2022-02-23T16:46:38Z"
+    },
+    {
+      "version": "6.1",
+      "releaseNotes": "- Added support for iOS 16 and this year’s new devices.\n\n- Fixed the ability to drag pieces to the grid.\n\n- Improved the smoothness and consistency of pieces animating to the board.\n\n- Removed old iPad game view.",
+      "seenAt": "2022-09-16T23:19:30Z"
+    },
+    {
+      "version": "6.2",
+      "releaseNotes": "- Added the ability to restore purchases directly on the WatchOS version.\n\n- Added new menu screen title imagery.\n\n- Resigned the launch screen.\n\n- Fixed stats on the WatchOS version.\n\n- Updated the twitter link.\n\n- Improved reliability of IAP.\n\n- Added new popups to make the restoring purchases experience smoother. \n\n- Improved the ability to release new versions faster.",
+      "seenAt": "2023-05-31T19:05:51Z"
+    },
+    {
+      "version": "6.3",
+      "releaseNotes": "- Updated the design of the settings screen, now animating it in as a card view.\n\n- Added a new feature to play SFX when placing a piece.\n\n- Added a toggle to disable the SFX feature.\n\n- Added a new feature to pulsate the most recent piece.\n\n- Added a toggle to disable the pulsate feature.\n\n- Updated the email address used for the support email.\n\n- Enhanced the support email to reference either macOS or iOS.\n\n- Refactored the Ad code for improved performance and reliability.\n\n- Update Admob and Analytics frameworks.\n\n- Deleted old code to launch the app slightly faster.",
+      "seenAt": "2023-06-28T14:01:47Z"
+    },
+    {
+      "version": "6.4",
+      "releaseNotes": "- Added the ability to choose the colour of Player 2’s piece.\n\n- Added 2 leaderboards for most wins against the Easy AI.\n\n- Added 5 new achievements for playing against the Easy AI.\n\n- Applied the blue gradient effect to the piece selection screen.\n\n- Removed unnecessary legacy code to improve performance.\n\n- Changing the player 1 symbol now visually updates this in the settings.\n\n- Updated the design of the stats screen, now animating it in as a card view.\n\n- The blue colour piece is now unlocked for everyone!\n\n- Made the stats section scroll better on smaller devices.\n\n- Improved handling of quitting online games.\n\n- Setup an app distribution process to enable more frequent app updates!\n\n- Beating the easy AI now rewards you with some tokens!",
+      "seenAt": "2023-07-11T02:41:54Z"
+    },
+    {
+      "version": "6.5",
+      "releaseNotes": "- Added a new toggle to disable haptics.\n\n- Fixed the ability to share wins from iPads.\n\n- Added a new close button to the disk selector screen.\n\n- Added cost labels to easily see in app purchase prices.\n\n- Replaced the black arrow with a white cross on the stats and settings close buttons.\n\n- Replaced some image assets to reduce app size.\n\n- Removed support for iOS 12.\n\n- Fixed the missing remove adverts button on the main menu.",
+      "seenAt": "2023-08-03T12:39:25Z"
+    },
+    {
+      "version": "6.6",
+      "releaseNotes": "- Added a review request popup, which occurs very infrequently.\n\n- Replaced banner ads with improved adaptive banner ads.\n\n- Fixed an issue where opening and closing the stats or settings screens in quick succession on macOS cause make the screen go white.",
+      "seenAt": "2023-08-13T05:49:53Z"
+    },
+    {
+      "version": "6.7",
+      "releaseNotes": "- Improved the visuals of the difficulty and piece toggles.\n\n- Made some small tweaks to the launch screen.\n\n- Fixed the close button position in the piece selector.\n\n- Made the title logo position on macOS more consistent.\n\n- Slightly improved the performance of the stats section.",
+      "seenAt": "2024-01-06T22:37:56Z"
+    },
+    {
+      "version": "6.8",
+      "releaseNotes": "- Implemented the required Admob personalised ads popup.",
+      "seenAt": "2024-04-08T07:13:15Z"
+    },
+    {
+      "version": "6.9",
+      "releaseNotes": "- Improved layout resizing to support the smallest window sizes allowed with Stage Manager.",
+      "seenAt": "2024-05-07T00:36:36Z"
+    },
+    {
+      "version": "7.0",
+      "releaseNotes": "- Upgraded the Apple Watch app to use more modern Apple Watch technologies to future proof it.\n\n- Fixed an issue causing removed ads to temporarily show when relaunching the app.\n\n- A few minor performance improvements.\n\n- Replaced the twitter icon with a slightly smaller X icon.\n\n- Fixed issue showing Game Center when using the social button.\n\n- Fixed the game over screen on Apple Watch.",
+      "seenAt": "2024-05-15T20:12:58Z"
+    },
+    {
+      "version": "7.1",
+      "releaseNotes": "- Improved behind the scenes stability.",
+      "seenAt": "2024-05-27T10:28:37Z"
+    },
+    {
+      "version": "7.2",
+      "releaseNotes": "- Improved the email feedback template to provide phone model.\n\n- Fixed an issue purchasing tokens from the piece selection screen.",
+      "seenAt": "2024-06-07T16:52:55Z"
+    },
+    {
+      "version": "7.3",
+      "releaseNotes": "- Updated with support for iOS 26.",
+      "seenAt": "2025-09-20T23:00:39Z"
+    },
+    {
+      "version": "7.4",
+      "releaseNotes": "• Improved the experience of using windowed mode on iPad in particular the back button in the settings screen.\n• Added some additional Liquid Glass elements to the UI.\n• Improved the menu screen layout on iPad.",
+      "seenAt": "2025-11-17T21:12:40Z"
+    },
+    {
+      "version": "7.5",
+      "releaseNotes": "• Improved the app visuals for older versions of iOS.",
+      "seenAt": "2025-11-19T11:22:04Z"
+    },
+    {
+      "version": "7.6",
+      "releaseNotes": "• Updated and increased the quality of the Game Center icon.\n• Upgraded the purchase flow for more consistency with improved status messages.\n• Completed phase 1 of migrating the app source code to swift.\n• Replaced legacy alert code.\n• Fixed an issue where Easy win streaks would not be reset.\n• Fixed an issue where player name would show as unknown in rare occasions.",
+      "seenAt": "2025-12-04T08:46:42Z"
+    },
+    {
+      "version": "7.7",
+      "releaseNotes": "• Continued to replace some legacy ObjectiveC code with Swift.\n• Future proofed the reliability of IAP.",
+      "seenAt": "2026-03-28T03:07:55Z"
+    },
+    {
+      "version": "7.8",
+      "releaseNotes": "• Improved the settings screen by hiding the Remove Ads information when it has already been purchased.\n• Improved the titles of most confirmation alerts.\n• Upgraded the alert presentation code to be more future proof.",
+      "seenAt": "2026-04-13T20:07:14Z"
+    },
+    {
+      "version": "7.9",
+      "releaseNotes": "• Improved readability of the piece select unlock conditions.\n• Improved the spacing of the piece select screen. ",
+      "seenAt": "2026-04-16T09:32:08Z"
+    },
+    {
+      "version": "8.0",
+      "releaseNotes": "• Added game rules which are accessible from a new button on the main menu.\n• Migrated a few alert popups to use the new more efficient approach.\n• Added SKAdNetwork list.\n• Updated Admob and Analytics frameworks.",
+      "seenAt": "2026-04-29T08:24:30Z"
+    },
+    {
+      "version": "8.1",
+      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "seenAt": "2026-06-02T08:04:59Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:21:01.736Z",
+  "isOwnApp": false
+}
