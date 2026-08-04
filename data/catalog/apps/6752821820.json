@@ -1,0 +1,395 @@
+{
+  "trackId": "6752821820",
+  "bundleId": "com.monkeyapp.GameBox",
+  "slug": "gamehub-watch-games",
+  "path": "/apps/6752821820-gamehub-watch-games/",
+  "locales": {
+    "en": {
+      "trackName": "GameHub - Watch Games",
+      "description": "Your wrist arcade, offline and ready anytime. GameHub turns Apple Watch into a lightweight mini game collection for commutes, waiting rooms, short breaks, and those tiny pockets of free time. No ads, no internet required, just quick games on your wrist.\n\n- Currently supported games:\nPuzzle & Brain Training:\n- Pipe Dream, Memory Match, Sokoban, Minesweeper, Ball Sort, Connect Pairs, Match‑3 Puzzle, Sudoku, Tetris, 2048, Number Puzzle\n\nArcade Action:\n- Asteroids, Lunar Lander, Brick Breaker, Plane Battle, Plane Adventure, Classic Pong, Snake Classic\n\nReaction Challenges:\n- Knife Hit, Jump Jump, Tap Black, Color Reflex, Dodge Blocks, Whack‑a‑Mole\n\nCasual & Relaxing:\n- Gold Miner, Tomato Merge, Bubble Shooter, Stack Wood, Cut Fruit, Merit Wooden Fish\n\nSports & Racing:\n- Soccer Star, Racing Car\n\nBoard & Card:\n- Landlord Game, Tic Tac Toe, Gomoku\n\n- Designed for Apple Watch:\n100% Offline: Play anywhere, including flights and underground commutes.\nBattery Friendly: Dark, watch-first visuals help keep play sessions efficient.\nDigital Crown Support: Precise crown controls with satisfying haptic feedback.\n\n- Key Features:\niPhone and Watch sync: Keep progress and scores across devices.\nGame Center leaderboards: Daily, weekly, and all-time rankings for supported games.\nComfort options: Night mode, eye-friendly themes, color-blind mode, and sound/haptic toggles.\nContinuous updates: More games and refinements are on the way.\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1. Added a new game: Zuma Pop",
+      "trackViewUrl": "https://apps.apple.com/us/app/gamehub-watch-games/id6752821820?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "爱平 吴",
+      "genres": [
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": "Classic Arcade, Casual Fun"
+    },
+    "zh": {
+      "trackName": "单机游戏大全 - 手表游戏|台球|贪吃蛇|斗地主|象棋|围棋",
+      "description": "腕上街机厅，随时随地打发时间。专为 Apple Watch 打造的轻量级游戏合集。\n无需掏出手机，抬腕即可通过多款经典小游戏释放压力；地铁通勤、开会间隙、排队等候都能随时开玩。\n\n- 目前支持的游戏：\n益智解谜：\n- 接水管、记忆翻牌、推箱子、扫雷、彩球排序、连连看、消消乐、数独、俄罗斯方块、2048、数字华容道\n\n街机动作：\n- 小行星、月球着陆、打砖块、飞机大战、飞机大冒险、经典乒乓、贪吃蛇\n\n反应挑战：\n- 飞刀挑战、跳一跳、别踩白块、颜色反应、躲避方块、打地鼠\n\n休闲解压：\n- 挖金子、合成西红柿、泡泡消除、堆木头、切水果、功德木鱼\n\n运动竞速：\n- 足球之星、都市赛车\n\n棋牌策略：\n- 斗地主、井字棋、五子棋\n\n- 为 Watch 深度定制：\n离线畅玩：无需网络，乘坐飞机、地铁时的最佳伴侣。\n极致省电：纯黑背景优化，长时间游玩也不担心手表没电。\n表冠交互：支持数码表冠旋转操作，配合震动反馈，手感更自然。\n\n- 核心功能亮点：\n双端无缝同步：手机与手表数据互通，进度不丢失。\n游戏中心排行：提供日榜、周榜、总榜，与全球玩家比拼手速与脑力。\n贴心体验：支持夜间模式、护眼主题、色盲模式，可自定义声音与触感开关。\n持续更新：更多新玩法正在开发中，一次购买，长期可玩。\n\n=== 订阅： \n- 您可以在订阅期内无限制访问 App 的全部功能。\n- 订阅周期：见 App 内会员订阅页\n- 价格：具体价格请见 App 内部付费页面\n- 付款：通过用户的 iTunes 账户扣款，用户确认购买后即付款\n- 续订：苹果 iTunes 账户会在到期前 24 小时内扣费，扣费成功后订阅周期顺延 1 个月/1 年\n- 取消续订：如需取消续订，请在当前订阅周期到期前 24 小时内，手动在 iTunes/Apple ID 设置管理中关闭自动续订功能\n\n隐私政策： https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\n服务条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1. 新增游戏：祖玛消除",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%85%A8-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F-%E5%8F%B0%E7%90%83-%E8%B4%AA%E5%90%83%E8%9B%87-%E6%96%97%E5%9C%B0%E4%B8%BB-%E8%B1%A1%E6%A3%8B-%E5%9B%B4%E6%A3%8B/id6752821820?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "爱平 吴",
+      "genres": [
+        "娱乐",
+        "生活"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "GameHub: Watch Games",
+      "description": "手首の上のゲームセンター。Apple Watch 向けに作られた軽量ミニゲーム集です。通勤中、待ち時間、短い休憩に、スマホを取り出さずすぐ遊べます。広告なし、オフライン対応。\n\n- 現在対応しているゲーム：\nパズル・脳トレ:\n- パイプドリーム、メモリーマッチ、Sokoban、マインスイーパー、ボールソート、ペア接続、3マッチパズル、数独、テトリス、2048、数字パズル\n\nアーケードアクション:\n- Asteroids、ムーンランダー、ブロック崩し、プレーンバトル、飛行機アドベンチャー、クラシックポン、スネーク\n\n反応チャレンジ:\n- ナイフヒット、ジャンプジャンプ、黒ブロックタップ、色反応、ブロック回避、モグラたたき\n\nカジュアル・リラックス:\n- ゴールドマイナー、トマト合体、バブルシューター、木材積み、フルーツカット、功徳木魚\n\nスポーツ・レース:\n- サッカースター、レーシングカー\n\nボード・カード:\n- ドゥーディーズー、三目並べ、五目並べ\n\n- Apple Watch に最適化：\nオフライン対応：飛行機や地下鉄でもプレイできます。\n省電力設計：黒基調の画面でバッテリーに配慮。\nDigital Crown 対応：クラウン操作と触覚フィードバックで快適に操作。\n\n- 主な機能：\niPhone / Watch 同期：進行状況やスコアを端末間で共有。\nGame Center ランキング：日次、週次、総合ランキングに対応。\n快適設定：夜間モード、目にやさしいテーマ、色覚サポート、音と触覚の切替。\n継続アップデート：新しいゲームと改善を順次追加。\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1. 新ゲームを追加：ズーマ消し",
+      "trackViewUrl": "https://apps.apple.com/jp/app/gamehub-watch-games/id6752821820?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "爱平 吴",
+      "genres": [
+        "エンターテインメント",
+        "ライフスタイル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "GameHub: Watch Games",
+      "description": "Deine Arcade am Handgelenk. GameHub macht die Apple Watch zu einer leichten Sammlung kurzer Minispiele für Pendeln, Wartezeiten und kleine Pausen. Keine Werbung, kein Internet nötig, einfach direkt spielen.\n\n- Aktuell unterstützte Spiele:\nPuzzle & Denksport:\n- Rohrtraum, Merkspiel, Sokoban, Minesweeper, Ball Sortieren, Paare verbinden, Match-3-Rätsel, Sudoku, Tetris, 2048, Zahlen-Puzzle\n\nArcade-Action:\n- Asteroids, Mondlandung, Ziegelbrecher, Flugzeugschlacht, Flugzeug-Abenteuer, Klassisches Pong, Snake Classic\n\nReaktionsspiele:\n- Messerwurf, Jump Jump, Schwarzes Antippen, Farbreflex, Blöcke ausweichen, Maulwurf-Treffen\n\nCasual & Entspannung:\n- Goldgräber, Tomaten-Fusion, Bubble Shooter, Holz stapeln, Fruechte Schneiden, Verdienst Holz-Fisch\n\nSport & Rennen:\n- Fußballstar, Autorennen\n\nBrett- & Kartenspiele:\n- Landlord Spiel, Tic Tac Toe, Gomoku\n\n- Für Apple Watch optimiert:\nOffline spielen: Ideal für Flugzeug, U-Bahn und unterwegs.\nAkkuschonend: Dunkles, watch-optimiertes Design für längere Spielrunden.\nDigital Crown: Präzise Steuerung mit haptischem Feedback.\n\n- Wichtige Funktionen:\niPhone- und Watch-Sync: Fortschritt und Punkte bleiben geräteübergreifend erhalten.\nGame Center Bestenlisten: Tages-, Wochen- und Gesamtwertungen.\nKomfortoptionen: Nachtmodus, augenfreundliche Themes, Farbenblind-Modus sowie Ton-/Haptik-Schalter.\nRegelmäßige Updates: Neue Spiele und Verbesserungen folgen.\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1. Neues Spiel hinzugefügt: Zuma Pop",
+      "trackViewUrl": "https://apps.apple.com/de/app/gamehub-watch-games/id6752821820?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "爱平 吴",
+      "genres": [
+        "Unterhaltung",
+        "Lifestyle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/6d/a6/646da691-1c69-3e43-186c-f2f028b5d4af/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4,
+  "userRatingCount": 3,
+  "price": 0,
+  "fileSizeBytes": "200634368",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "16.6",
+  "version": "1.5.9",
+  "currentVersionReleaseDate": "2026-07-28T09:38:23Z",
+  "releaseDate": "2025-10-14T07:00:00Z",
+  "artistId": 1819395595,
+  "artistName": "爱平 吴",
+  "artistViewUrl": "https://apps.apple.com/de/developer/%E7%88%B1%E5%B9%B3-%E5%90%B4/id1819395595?uo=4",
+  "sellerUrl": "https://gamesforwatch.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/e2/1e/96e21e74-ca15-fde0-082a-24ecae83f12f/p6-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/a8/c2/bba8c2b5-06bb-888d-ff64-f11215a6d497/p2-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/27/97/8e279743-4741-a0ca-2c5d-9fa9a25fb031/p3-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/2a/93/e02a9306-f9ce-cd3c-786d-6b0a9e273706/p4-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/9e/82/cd9e8237-459b-69f1-0154-101532ae41b6/p1-en.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/bd/a9/14bda9eb-4510-c024-73d8-c472894db409/p5-en.png/1242x2688bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/51/13/6e51139c-756e-e939-0f1d-502fbec11ecc/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.33.47.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/1d/04/421d04ea-490c-3507-1715-43a75c86a5d1/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.39.41.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/6b/eb/166bebb2-ada8-487a-15bf-828baccd2747/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.43.08.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/d7/05/dcd705b5-a816-cc9f-2a6d-5da9ccb750f1/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.35.51.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/4e/a6/0c4ea691-e255-9fd6-099d-22cfb290f706/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.46.45.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/4b/e8/934be862-1763-f870-90c0-cb5cf746ad4e/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.44.50.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b8/22/72b822f0-babc-5e12-9847-f7b51c5eedbc/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.44.34.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/20/db/c220db94-3e9f-6c92-6ec4-a46a73f88f30/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.44.10.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/b4/a1/c6b4a15c-e600-fed4-d335-c6ddbbfd32cf/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.43.47.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b0/d5/18b0d536-86db-9f74-8c3c-04f3dbe6091d/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-05_at_19.44.44.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.2.2",
+      "releaseNotes": "1. Add new game:  Soccer Star \n2. Optimize gaming experience & fix bugs",
+      "seenAt": "2026-03-04T06:51:50Z"
+    },
+    {
+      "version": "1.2.3",
+      "releaseNotes": "1. Add pinning and favorites functionality\n2. Optimize gaming experience and fix bugs",
+      "seenAt": "2026-03-06T16:11:42Z"
+    },
+    {
+      "version": "1.2.5",
+      "releaseNotes": "1. Added Gold Miner game\n2. Optimized gameplay experience & fixed bugs",
+      "seenAt": "2026-03-12T13:18:30Z"
+    },
+    {
+      "version": "1.2.6",
+      "releaseNotes": "1. Optimize game experience & fix bugs\n",
+      "seenAt": "2026-03-19T15:00:24Z"
+    },
+    {
+      "version": "1.2.7",
+      "releaseNotes": "1, Optimize Game Experience & Fix Bugs\n",
+      "seenAt": "2026-03-21T18:04:04Z"
+    },
+    {
+      "version": "1.2.8",
+      "releaseNotes": "1. Added Sokoban game mode\n2. Optimized gameplay experience & fixed bugs",
+      "seenAt": "2026-03-27T19:53:55Z"
+    },
+    {
+      "version": "1.2.9",
+      "releaseNotes": "1. Optimized the invisible wall and crash issues when synthesizing tomatoes.\n2. Added two-player mode for Gobang and Tic-Tac-Toe.\n3. Added a memory card flipping game.",
+      "seenAt": "2026-04-07T20:01:04Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "1. Added: Lunar Lander game mode.\n2. Fixed: Resolved several bugs & improved overall gaming experience.",
+      "seenAt": "2026-04-14T01:12:50Z"
+    },
+    {
+      "version": "1.3.1",
+      "releaseNotes": "1. New game added: Asteroid\n2. Resolved multiple bugs in Gobang and Number Huarong Puzzle.\n3. Improved overall gameplay experience for Plane Adventure and Lunar Landing.",
+      "seenAt": "2026-04-20T22:09:27Z"
+    },
+    {
+      "version": "1.3.2",
+      "releaseNotes": "1. New game added: Pipe Dream\n2. Improved gameplay experience and fixed bugs",
+      "seenAt": "2026-04-27T17:28:08Z"
+    },
+    {
+      "version": "1.3.3",
+      "releaseNotes": "1. Improved paywall wording to make paid features clearer.\n2. Improved the gameplay experience.",
+      "seenAt": "2026-04-29T14:11:57Z"
+    },
+    {
+      "version": "1.3.5",
+      "releaseNotes": "1. Added Frogger.\n2. Added an achievement system.\n3. Improved the paywall experience.\n4. Refined the game UI.\n5. Fixed several bugs and improved gameplay.",
+      "seenAt": "2026-05-05T16:22:51Z"
+    },
+    {
+      "version": "1.3.6",
+      "releaseNotes": "1. Added the Air Gestures mini game.\n2. Fixed a crash in Tomato Merge.\n3. Improved the app experience.",
+      "seenAt": "2026-05-11T23:11:37Z"
+    },
+    {
+      "version": "1.3.7",
+      "releaseNotes": "1. Added Reversi and Space Invaders mini games.\n2. Improved the game experience.",
+      "seenAt": "2026-05-17T19:56:40Z"
+    },
+    {
+      "version": "1.3.8",
+      "releaseNotes": "1. Added the Chess mini game.\n2. Fixed bugs in Pipe Dream, Gomoku, and other games.\n3. Added difficulty selection for Gomoku.",
+      "seenAt": "2026-05-25T10:52:23Z"
+    },
+    {
+      "version": "1.3.9",
+      "releaseNotes": "1. Added the Rotating Maze Ball game.\n2. Added Apple Watch app connection and installation status guidance in iOS Settings.",
+      "seenAt": "2026-06-03T07:25:21Z"
+    },
+    {
+      "version": "1.5.0",
+      "releaseNotes": "1. Added 2 new games: Xiangqi and Go.\n2. Improved gameplay experience and fixed bugs.",
+      "seenAt": "2026-06-06T15:49:09Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "1. Optimized the gameplay experience.\n2. Fixed a crash in the Tomato Merge game and several other known issues.",
+      "seenAt": "2026-06-12T00:03:41Z"
+    },
+    {
+      "version": "1.5.2",
+      "releaseNotes": "1. Added the DotDotStar game.\n2. Fixed some known bugs.",
+      "seenAt": "2026-06-15T12:55:59Z"
+    },
+    {
+      "version": "1.5.3",
+      "releaseNotes": "1. Added the Eight Ball Pool mini game.\n2. Improved the gameplay experience and fixed known bugs.",
+      "seenAt": "2026-06-23T11:12:17Z"
+    },
+    {
+      "version": "1.5.5",
+      "releaseNotes": "- Added the new Penguin Run mini game.\n- Fixed bugs and improved the game experience.",
+      "seenAt": "2026-06-29T11:45:27Z"
+    },
+    {
+      "version": "1.5.6",
+      "releaseNotes": "1. Added new mini games.\n2. Fixed bugs and improved the game experience.",
+      "seenAt": "2026-07-03T22:23:45Z"
+    },
+    {
+      "version": "1.5.7",
+      "releaseNotes": "1. Added Three Kingdoms Klotski mini game.\n2. Fixed bugs and improved the game experience.",
+      "seenAt": "2026-07-14T08:25:13Z"
+    },
+    {
+      "version": "1.5.8",
+      "releaseNotes": "1. Added a new game: Snake 2",
+      "seenAt": "2026-07-20T00:25:01Z"
+    },
+    {
+      "version": "1.5.9",
+      "releaseNotes": "1. Added a new game: Zuma Pop",
+      "seenAt": "2026-07-28T09:38:23Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T03:46:39.144Z",
+  "isOwnApp": true
+}

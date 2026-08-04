@@ -1,0 +1,411 @@
+{
+  "trackId": "1135997386",
+  "bundleId": "com.alancaleb.app.dare",
+  "slug": "dare-the-monkey-go-bananas",
+  "path": "/apps/1135997386-dare-the-monkey-go-bananas/",
+  "locales": {
+    "en": {
+      "trackName": "Dare the Monkey: Go Bananas!",
+      "description": "*** Over 2 Million Players Have Gone Bananas! ***\n\nMeet Dare, your daring little monkey hero! Run, jump, and roll through fast-paced, challenging levels packed with obstacles and surprises.\n\nDare the Monkey is a one-touch arcade platformer that brings classic arcade fun to your mobile device. Easy to pick up, hard to master — a skill-based adventure you won’t put down.\n\nTricky levels and fast reflexes await. Can you beat them all?\n\nWhat players are saying:\n\n“The best game ever.” 5/5  \n“Fast, fun, and addictive gameplay!” 5/5  \n“Feels like a console platformer on my phone!” 5/5  \n“Reminds me of Donkey Kong — love it!” 5/5  \n“Challenging, but so satisfying to play.” 5/5  \n“Hours of fun for casual and hardcore gamers.” 5/5\n\"Awesome game on my phone and watch.\" 5/5",
+      "releaseNotes": "Struggling in the cave levels? Don’t worry! We’ve added new signposts to guide you through the tricky sections and keep the action flowing. Jump back in and test your skills!",
+      "trackViewUrl": "https://apps.apple.com/us/app/dare-the-monkey-go-bananas/id1135997386?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Hot Right Now LTD",
+      "genres": [
+        "Games",
+        "Casual",
+        "Action"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Fast Arcade Platformer"
+    },
+    "ja": {
+      "trackName": "Dare the Monkey: Go Bananas!",
+      "description": "*** Over 2 Million Players Have Gone Bananas! ***\n\nMeet Dare, your brave little monkey hero! Run, jump, and roll your way through challenging levels filled with fun, tricky obstacles.\n\nDare the Monkey is a fun, one-touch platformer that captures the spirit of classic arcade games. Easy to pick up and hard to master, it’s a love letter to the golden age of gaming — now reinvented for mobile.\n\nEasy to pick up, tricky to master. Do you dare to take on every level?\n\nWhat people are saying about Dare the Monkey:\n\n“The best game ever.” 5/5  \n“Awesome on both my phone and Apple Watch.” 5/5  \n“Simply beautiful graphics and addictive gameplay.” 5/5  \n“Reminds me of Donkey Kong — love it!” 5/5  \n“Almost like a console game, but on mobile!” 5/5  \n“Could spend hours playing Dare the Monkey.” 5/5",
+      "releaseNotes": "Cave levels giving you trouble? Good news! We’ve added helpful signposts to guide you through the darkness and make those tricky sections easier. Jump back in and give it another go!",
+      "trackViewUrl": "https://apps.apple.com/jp/app/dare-the-monkey-go-bananas/id1135997386?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Hot Right Now LTD",
+      "genres": [
+        "ゲーム",
+        "カジュアル",
+        "アクション"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Dare the Monkey: Go Bananas!",
+      "description": "*** Over 2 Million Players Have Gone Bananas! ***\n\nMeet Dare, your brave little monkey hero! Run, jump, and roll your way through challenging levels filled with fun, tricky obstacles.\n\nDare the Monkey is a fun, one-touch platformer that captures the spirit of classic arcade games. Easy to pick up and hard to master, it’s a love letter to the golden age of gaming — now reinvented for mobile.\n\nEasy to pick up, tricky to master. Do you dare to take on every level?\n\nWhat people are saying about Dare the Monkey:\n\n“The best game ever.” 5/5  \n“Awesome on both my phone and Apple Watch.” 5/5  \n“Simply beautiful graphics and addictive gameplay.” 5/5  \n“Reminds me of Donkey Kong — love it!” 5/5  \n“Almost like a console game, but on mobile!” 5/5  \n“Could spend hours playing Dare the Monkey.” 5/5",
+      "releaseNotes": "Cave levels giving you trouble? Good news! We’ve added helpful signposts to guide you through the darkness and make those tricky sections easier. Jump back in and give it another go!",
+      "trackViewUrl": "https://apps.apple.com/de/app/dare-the-monkey-go-bananas/id1135997386?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Hot Right Now LTD",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Action"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/4c/c9/804cc9a7-c2ce-2bce-6a61-9bb0c7e2c959/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.64526,
+  "userRatingCount": 1370,
+  "price": 0,
+  "fileSizeBytes": "116475904",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "13.0",
+  "version": "v1.2.24",
+  "currentVersionReleaseDate": "2026-01-06T22:48:31Z",
+  "releaseDate": "2017-12-17T18:50:13Z",
+  "artistId": 1327040490,
+  "artistName": "Hot Right Now LTD",
+  "artistViewUrl": "https://apps.apple.com/de/developer/hot-right-now-ltd/id1327040490?uo=4",
+  "sellerUrl": "https://www.darethemonkey.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/50/87/2350872f-c1f3-164a-34d3-75bfcbded7fb/mzl.pulrteux.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/14/b0/f014b027-b741-a289-33be-8d6224b913f1/pr_source.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/7b/5f/ae7b5f74-1462-5561-f4d2-87617effccdc/mzl.ypftvsbi.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/c1/39/23c139c1-dfec-6bbf-31fa-948715324b61/mzl.ghgxsgui.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/14/d1/8b14d145-d97b-1262-33da-232a6aa0182a/mzl.qvdtdyav.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/94/c2/3a/94c23a5d-2729-a32f-da65-5e4adaed23bc/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ca/6d/83ca6d05-de0e-8a5f-cda4-60d663b3a302/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/c4/e6/08c4e6a3-a92b-be0a-0432-137e1ce8ba6b/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/b7/9d/c2b79d1e-e978-12fb-a00c-36ce1d34482b/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/b6/12/a5b6129a-128f-e76c-1bba-216be5b23d28/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/51/58/b4515838-e441-7a0a-a7c9-9936c9302974/mzl.sndcfuxw.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/7f/1b/fb7f1bbd-7522-c3f8-c181-334f6cb5d73d/pr_source.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/84/ec/c484ecc6-0237-8ab0-6f71-2ba725b006f4/mzl.esrpvsof.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/d7/29/c9d729f9-45fd-9ab7-3f68-3a8d9e8bc5e5/mzl.fcxpgyfs.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/25/06/d8250618-4c5b-5014-1bd9-4624f2c74884/mzl.lfhhasqh.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/b5/b7/fcb5b7e7-0ae2-eb2b-25c4-d81627dd8f01/mzl.uofdyogj.png/2436x1125bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fe/bc/39/febc3941-2a33-f810-a544-bbf6a8bd5305/mzl.bwrlefka.png/2436x1125bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/68/85/d2688561-3f9f-92ba-6ae9-e5b4543100b8/mzl.naictwsk.png/2436x1125bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/40/46/01/40460142-1a10-e1b8-ecc3-be0457585211/mzl.lkzclkdg.png/2436x1125bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/82/91/1582911a-6a87-2fa1-fe5f-c2eb910b642e/pr_source.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/c9/f4/7cc9f489-5e6e-ee19-2afe-d101983770cb/pr_source.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/11/60/bc1160a2-ca6b-c092-fac3-1fa25b91b00b/pr_source.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/53/7a/48537ac2-a91c-2408-0106-cff851a7ca7d/pr_source.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/49/07/cf/4907cf9b-029b-b231-a709-51d91bfbe488/pr_source.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/51/58/b4515838-e441-7a0a-a7c9-9936c9302974/mzl.sndcfuxw.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/7f/1b/fb7f1bbd-7522-c3f8-c181-334f6cb5d73d/pr_source.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/84/ec/c484ecc6-0237-8ab0-6f71-2ba725b006f4/mzl.esrpvsof.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/d7/29/c9d729f9-45fd-9ab7-3f68-3a8d9e8bc5e5/mzl.fcxpgyfs.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/25/06/d8250618-4c5b-5014-1bd9-4624f2c74884/mzl.lfhhasqh.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/50/87/2350872f-c1f3-164a-34d3-75bfcbded7fb/mzl.pulrteux.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/14/b0/f014b027-b741-a289-33be-8d6224b913f1/pr_source.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/7b/5f/ae7b5f74-1462-5561-f4d2-87617effccdc/mzl.ypftvsbi.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/c1/39/23c139c1-dfec-6bbf-31fa-948715324b61/mzl.ghgxsgui.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/14/d1/8b14d145-d97b-1262-33da-232a6aa0182a/mzl.qvdtdyav.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/83/8f/78/838f78df-c6a7-14f7-d9ba-ce6eea1f4d45/mzl.yrafhbxz.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0f/e3/a6/0fe3a680-0da6-7a5c-6dc3-a9f1a344fff0/mzl.osqilefg.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/40/09/ed/4009ed7d-b1e6-ee77-1643-14e93add09e2/mzl.tzuunepm.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/ba/40/16ba4075-6fa4-adf2-d43a-8844098935f0/mzl.liwchtbd.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/65/39/e3/6539e3d1-d3e4-b5bc-85e3-0d6a8bd4e6bf/mzl.gqgaujqt.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/73/46/8d7346ee-eb60-f771-0cff-783af978d4fe/mzl.kgokvufv.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/0e/88/dd0e8872-977a-192a-8d2e-aa3d8b010589/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/eb/cb/2cebcbbb-884c-e77a-89f1-1845dcff8e48/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/38/c7/22/38c72269-f7b4-07d8-3664-496cc9e2bddc/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6a/61/0b/6a610b94-23dc-b729-6059-e751b2705c27/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/65/a6/b065a64e-3467-1ee9-4853-cb15a620ae24/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/ee/ec/bbeeec11-7f7e-2e5d-821b-e0b85c585e7d/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/51/f9/8d51f98c-d0c0-4dae-a35e-5c2b025afde7/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/ce/ed/eeceeded-8f5f-695e-cbf3-fea1b80ee199/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/38/d4/3138d4e1-3950-b046-9863-4b79afea3a88/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/50/87/2350872f-c1f3-164a-34d3-75bfcbded7fb/mzl.pulrteux.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/14/b0/f014b027-b741-a289-33be-8d6224b913f1/pr_source.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/7b/5f/ae7b5f74-1462-5561-f4d2-87617effccdc/mzl.ypftvsbi.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/c1/39/23c139c1-dfec-6bbf-31fa-948715324b61/mzl.ghgxsgui.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/14/d1/8b14d145-d97b-1262-33da-232a6aa0182a/mzl.qvdtdyav.png/1024x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/51/58/b4515838-e441-7a0a-a7c9-9936c9302974/mzl.sndcfuxw.png/1242x699bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/7f/1b/fb7f1bbd-7522-c3f8-c181-334f6cb5d73d/pr_source.png/1242x699bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/84/ec/c484ecc6-0237-8ab0-6f71-2ba725b006f4/mzl.esrpvsof.png/1242x699bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/d7/29/c9d729f9-45fd-9ab7-3f68-3a8d9e8bc5e5/mzl.fcxpgyfs.png/1242x699bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/25/06/d8250618-4c5b-5014-1bd9-4624f2c74884/mzl.lfhhasqh.png/1242x699bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo62/v4/f3/c7/69/f3c76922-d97a-6822-dbcb-b580a2486529/Job9ee28cb2-90ce-43bc-b874-2badfc7aacf6-98839227-PreviewImage_preview_image_nonvideo_sdr-Time1516575185947.png/1200x900h.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo123/v4/f4/7d/fd/f47dfd05-5dc1-09be-93f6-ad537211319f/Joba04f8c3c-e841-4ee4-b221-0de56dc59b87-103616700-PreviewImage_preview_image_nonvideo_sdr-Time1564473842529.png/1440x1080h.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo128/v4/ff/f5/55/fff55560-aedf-f5ab-5178-d12396d87ad4/Job3b48e375-0986-40dd-936b-5a511f04415a-98842700-PreviewImage_preview_image_nonvideo_sdr-Time1516660893795.png/1920x1080h.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo62/v4/8b/d8/fb/8bd8fb3a-ceed-64b6-1e06-9c1321fc002b/Job29eda82a-94e7-4586-bd92-04e5ba63488f-98839154-PreviewImage_preview_image_nonvideo_sdr-Time1516573287086.png/1920x886h.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo113/v4/f4/82/72/f482728c-4d23-6b4c-3e55-a0303c9b9d29/Job952509ce-3dc8-4d33-b241-b32629f98cc1-104180299-PreviewImage_preview_image_nonvideo_sdr-Time1570479521123.png/1920x886h.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/0e/88/dd0e8872-977a-192a-8d2e-aa3d8b010589/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/eb/cb/2cebcbbb-884c-e77a-89f1-1845dcff8e48/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/38/c7/22/38c72269-f7b4-07d8-3664-496cc9e2bddc/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6a/61/0b/6a610b94-23dc-b729-6059-e751b2705c27/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/65/a6/b065a64e-3467-1ee9-4853-cb15a620ae24/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/ee/ec/bbeeec11-7f7e-2e5d-821b-e0b85c585e7d/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/51/f9/8d51f98c-d0c0-4dae-a35e-5c2b025afde7/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/ce/ed/eeceeded-8f5f-695e-cbf3-fea1b80ee199/pr_source.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/38/d4/3138d4e1-3950-b046-9863-4b79afea3a88/pr_source.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.1.1",
+      "releaseNotes": "Enjoying the checkpoints we added? Good! We’ve made a few tweaks to them for you.",
+      "seenAt": "2018-03-21T22:51:55Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "We’ve got a great update for all you cheeky chimps.\n\nFinding the Double Jumps and Coin Dashes too tricky? Well good news! We’ve gone and made almost 50 of the game’s levels easier! Now you’ll be able to play your favourite platformer for longer without tearing out your fur in frustration.\n\nAlso, we’ve got great news for those who love using our level checkpoints. We’ve added three new checkpoint bundles each with amazing discounts. You’d be bananas not to give them a try.\n\nOh and finally, our code monkey has made some performance tweaks. So things should load faster and feel even zippier.\n\nThanks everyone for playing! Please keep the great reviews coming and tell all your friends!",
+      "seenAt": "2018-06-18T01:51:56Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "We’ve made the first two Double Jump levels even easier. Enjoy!",
+      "seenAt": "2018-07-24T20:01:43Z"
+    },
+    {
+      "version": "1.2.2",
+      "releaseNotes": "The third Double Jump level is now easier. Thanks for the feedback!",
+      "seenAt": "2018-07-30T21:56:47Z"
+    },
+    {
+      "version": "1.2.3",
+      "releaseNotes": "Another update for you cheeky monkeys. This time we’ve made Double Jump level 4 easier. Enjoy!",
+      "seenAt": "2018-08-08T13:33:13Z"
+    },
+    {
+      "version": "1.2.4",
+      "releaseNotes": "Thanks for the feedback everyone! We've made Double Jump level 5 a little easier. Have fun!",
+      "seenAt": "2018-08-14T19:38:57Z"
+    },
+    {
+      "version": "1.2.5",
+      "releaseNotes": "We forced our code monkey out of bed and got him to make Double Jump level 6 a little easier. Enjoy!",
+      "seenAt": "2018-08-26T00:15:47Z"
+    },
+    {
+      "version": "1.2.6",
+      "releaseNotes": "Good news! Double Jump level 7 is now easier. Have fun!",
+      "seenAt": "2018-09-03T21:54:11Z"
+    },
+    {
+      "version": "1.2.7",
+      "releaseNotes": "Good news! You can now purchase checkpoint restarts with the coins you collect in-game. Have fun!",
+      "seenAt": "2018-10-22T15:00:44Z"
+    },
+    {
+      "version": "1.2.8",
+      "releaseNotes": "Some quick bug fixes. Enjoy the festive period everyone!",
+      "seenAt": "2018-12-16T15:58:28Z"
+    },
+    {
+      "version": "1.2.9",
+      "releaseNotes": "Squished a few bugs for all you cheeky chimps. Have fun!",
+      "seenAt": "2019-01-08T21:01:54Z"
+    },
+    {
+      "version": "v1.2.10",
+      "releaseNotes": "Got the Apple Watch Series 4? This update takes advantage of its larger screen size. Enjoy!",
+      "seenAt": "2019-01-16T17:15:04Z"
+    },
+    {
+      "version": "v1.2.11",
+      "releaseNotes": "Some tweaks and fixes.",
+      "seenAt": "2019-02-27T17:27:10Z"
+    },
+    {
+      "version": "v1.2.12",
+      "releaseNotes": "Some tweaks and fixes. Enjoy!",
+      "seenAt": "2019-07-31T23:04:41Z"
+    },
+    {
+      "version": "v1.2.13",
+      "releaseNotes": "Squished a few bugs. Enjoy!",
+      "seenAt": "2019-08-31T23:01:25Z"
+    },
+    {
+      "version": "v1.2.14",
+      "releaseNotes": "It’s Halloween in the jungle. Join Dare as he goes trick-or-treating through three spooky Halloween themed jungle levels. Enjoy!",
+      "seenAt": "2019-10-10T21:24:21Z"
+    },
+    {
+      "version": "v1.2.15",
+      "releaseNotes": "Squished some bugs.",
+      "seenAt": "2019-11-02T19:22:18Z"
+    },
+    {
+      "version": "v1.2.16",
+      "releaseNotes": "Squished a few bugs.",
+      "seenAt": "2019-11-15T00:14:03Z"
+    },
+    {
+      "version": "v1.2.18",
+      "releaseNotes": "Squished a few bugs.",
+      "seenAt": "2021-02-27T20:30:51Z"
+    },
+    {
+      "version": "v1.2.19",
+      "releaseNotes": "A few small tweaks.",
+      "seenAt": "2021-03-08T01:41:09Z"
+    },
+    {
+      "version": "v1.2.20",
+      "releaseNotes": "Some internal changes and a few small fixes.",
+      "seenAt": "2021-03-23T16:41:04Z"
+    },
+    {
+      "version": "v1.2.21",
+      "releaseNotes": "Some small fixes.",
+      "seenAt": "2021-08-26T07:49:00Z"
+    },
+    {
+      "version": "v1.2.22",
+      "releaseNotes": "A few quick fixes.",
+      "seenAt": "2021-08-29T20:43:28Z"
+    },
+    {
+      "version": "v1.2.23",
+      "releaseNotes": "Squished a few bugs. Enjoy!",
+      "seenAt": "2022-06-12T19:40:20Z"
+    },
+    {
+      "version": "v1.2.24",
+      "releaseNotes": "Struggling in the cave levels? Don’t worry! We’ve added new signposts to guide you through the tricky sections and keep the action flowing. Jump back in and test your skills!",
+      "seenAt": "2026-01-06T22:48:31Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T03:45:43.866Z",
+  "isOwnApp": false
+}

@@ -6,11 +6,14 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "npm run generate:sitemap && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "format": "prettier --write **/*.astro .",
-    "clean": "rimraf dist .astro node_modules"
+    "clean": "rimraf dist .astro node_modules",
+    "export:own-games": "node scripts/export-own-games.mjs",
+    "sync:catalog": "node scripts/sync-catalog.mjs",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs"
   },
   "homepage": "https://gamesforwatch.com",
   "devDependencies": {

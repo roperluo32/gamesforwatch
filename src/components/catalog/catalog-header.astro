@@ -1,0 +1,32 @@
+---
+import { GAMEHUB_APP_STORE_URL } from "~/lib/catalog";
+
+interface Props {
+  title?: string;
+  compact?: boolean;
+}
+
+const { title = "Games for Watch", compact = false } = Astro.props as Props;
+---
+
+<header class:list={["border-b border-white/10 bg-[#0b1020]/", compact ? "py-3" : "py-4"]}>
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4">
+    <a href="/" class="text-sm font-semibold tracking-wide text-white hover:text-pink-300">
+      {title}
+    </a>
+    <nav class="flex flex-wrap items-center gap-4 text-sm text-white/70">
+      <a class="hover:text-white" href="/games/">Our Games</a>
+      <a class="hover:text-white" href="/apps/">Watch Apps</a>
+      <a class="hover:text-white" href="/apps/updated/">Updated</a>
+      <a class="hover:text-white" href="/apps/free/">Free</a>
+      <a
+        class="rounded-full bg-pink-500 px-3 py-1.5 font-medium text-white hover:bg-pink-400"
+        href={GAMEHUB_APP_STORE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Get GameHub
+      </a>
+    </nav>
+  </div>
+</header>

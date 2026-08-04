@@ -1,0 +1,408 @@
+{
+  "trackId": "1039686457",
+  "bundleId": "com.denizkocoglu.faby",
+  "slug": "happy-rise-no-wifi-games",
+  "path": "/apps/1039686457-happy-rise-no-wifi-games/",
+  "locales": {
+    "en": {
+      "trackName": "Happy Rise : No Wifi Games",
+      "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
+      "releaseNotes": "Bug fix on the Bounce game.",
+      "trackViewUrl": "https://apps.apple.com/us/app/happy-rise-no-wifi-games/id1039686457?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "Games",
+        "Casual",
+        "Action",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Supports your watch & offline!"
+    },
+    "ja": {
+      "trackName": "Happy Rise : No Wifi Games",
+      "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
+      "releaseNotes": "Bug fix on the Bounce game.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/happy-rise-no-wifi-games/id1039686457?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "ゲーム",
+        "カジュアル",
+        "アクション",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Happy Rise : No Wifi Games",
+      "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
+      "releaseNotes": "Bug fix on the Bounce game.",
+      "trackViewUrl": "https://apps.apple.com/de/app/happy-rise-no-wifi-games/id1039686457?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Deniz Kocoglu",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Action",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/b5/cf/64b5cf60-0920-aa3d-1d9b-7077195dbcba/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.23135,
+  "userRatingCount": 657,
+  "price": 0,
+  "fileSizeBytes": "90212352",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "11.0",
+  "version": "4.0.2",
+  "currentVersionReleaseDate": "2024-08-26T22:16:37Z",
+  "releaseDate": "2015-09-28T00:11:02Z",
+  "artistId": 856642892,
+  "artistName": "Deniz Kocoglu",
+  "artistViewUrl": "https://apps.apple.com/de/developer/deniz-kocoglu/id856642892?uo=4",
+  "sellerUrl": "http://denizkocoglu.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/c1/89/c1c1896e-b479-ffa9-4317-914add1d5a0b/9f4fac42-26c6-49ea-8e51-3fbfbff936d9_ready_set.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/c8/d2/d1c8d2f4-42e5-19ea-9d0d-a3909f7c04a5/e0aea201-9105-4614-9e8b-44f53bb88d03_gameplay.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/23/be/a223be04-ece4-93f7-4285-06ea783a9386/c6b393c6-c94d-4b64-b559-d55a662043d9_startup.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/99/2c/a7992c5d-03b4-ed2b-3a6b-bae4199fd5cc/4371ab34-e0af-4c4a-8c08-705db839070d_game_over.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/8d/4d/f58d4d61-0efe-c322-e4eb-ac92a266dba4/0d7f6ba7-426f-445e-a592-98a2d95146c1_startup.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/7e/a6/3d7ea603-6bde-6c42-7401-c10ba650c783/2d51b680-6b11-4940-83a8-ff0ba10ee295_ready_set.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/98/06/7e9806b8-a59a-01c8-20d1-a801c50aa460/fec9c98b-5495-4621-8baf-e5bc61b0da51_gameplay.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/55/28/1955280d-b5c4-4e7a-5bbb-a330ed2dfe6f/e0aed1f6-8df7-4536-8845-d2e9d722cdd9_ready_set.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/d4/b7/91d4b799-c2bd-2593-9c1f-bf1eb63fff3e/14ded440-92e6-4bb1-a8ff-615085054214_gameplay.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/31/2f/4c312f73-3ec4-bdf7-57a9-06579cbad0e0/541f8735-e216-466f-9b1f-ac82eae1139e_startup.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b5/f4/c2b5f492-b2d2-5290-1007-4a4919af1899/f03d42ab-1e1e-4996-a292-da5dcdc718a5_game_over.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/33/7c/c1337c95-6162-cb8a-8ffa-c2485cbaa5ee/ac2f8e60-84f0-4737-992a-bc7b13dfd903_startup.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/29/90/c129901c-2803-6983-9e6c-ab7a38de158a/afdffea7-eb3c-4bb1-bd8d-ab548517ca6c_ready_set.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/b3/23/dcb32374-3902-1d5a-18b0-4341358a5d2e/8659ba6c-f63a-406a-9710-ef729d3ffd6e_gameplay.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/09/d6/0509d6d4-e52e-9667-d3fe-6246431ac989/1e4857fa-f738-45a4-9b78-ffd582ccbd66_ready_set.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/14/4e/ce144e6b-2ece-ba08-ad0b-ec4710b8b3fe/79cada28-7891-4879-877c-5711a3ca629e_gameplay.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b8/cf/1cb8cf49-d975-8468-7aaf-659cb2bc6b53/0b207105-6d76-4fd9-895d-8099bb0b1416_startup.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/ba/83/e2ba83cf-b460-9ce6-4263-15dc07424b1c/a96a254a-44d8-4aa8-91c3-6794dd3b21ba_Game_Over.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/44/d2/8a44d23f-6bfa-1432-d3f8-7796abbc9695/3a21d72e-dbf4-4fbc-889d-2b69aba2e92d_startup.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/1f/63/9f1f630d-c3e9-35c1-41c0-be28e2edac8f/47dbb771-8d05-48a9-9196-aed22af9727e_ready_set.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f8/c3/6cf8c346-65f8-2c65-9afa-c5f8f55fa236/3402ff70-c3d8-46c3-97e5-db0f566a97cb_game_play.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/9d/57/f39d57ce-098d-eb74-5acd-641efd86b0bb/caed1796-5f99-4e6e-8588-e3c371f1359d_ready_set.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/47/e7/5847e710-0390-cd26-81a2-638218949467/ef8fe7ae-95be-48a3-8d9d-fc8086ca3444_gameplay.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/85/16/a485162d-7def-4062-9a0b-7100368ff5f4/6679d541-44c2-4593-af0a-90bf2915ab04_startup.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/90/7d/c9907d6b-46b4-a2bc-d2b5-8ddc4be94d50/745f0e2e-f1d0-4ff4-8663-08ef0aa27f28_game_over.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/c6/72/8ac672fd-0672-1679-217d-40911d3cf7ea/0cb77cae-73df-4301-a607-f000b76f5b37_startup.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/49/62/9149623c-bde3-f812-359a-e1879de5fd2a/4c92be48-ce8f-4c4e-b77c-79e76ce6f04a_ready_set.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/6c/d5/3a6cd528-c299-593d-2ab8-759796f2ba60/51f95210-1de0-46c5-b1c9-fdd563b0b3e5_game_play.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/10/35/a5103529-e7c0-ad15-52a7-cd6243cb198c/448ede43-76d9-4db2-bbd8-aadaeba80219_ready_set.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/c6/47/4bc647a0-c4a3-8547-155c-84a8e50d0017/a03b067d-bb5a-4da3-a08f-5a98ad002554_gameplay.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/be/e5/cfbee503-69d2-3023-f959-f14a8d553c86/7e12d181-d038-48b1-bdd4-32270aa36147_startup.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/58/87/0d58876e-566b-16b2-da49-454fed537a12/89e98c23-9472-44ef-bde3-d295a0b471f5_game_over.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/a0/96/a9a09638-581d-7686-c386-f1d172d53239/8c3ad8b4-cf7d-4ab4-a48a-f51a62615398_startup.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3b/04/983b047d-0f08-6526-3c33-bd16330082cc/894c1552-899e-4bb5-8beb-855a517e2319_ready_set.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/c4/1b/e5c41bb5-3280-a587-5bfe-8df9a428eafa/120a8ec5-6c97-424e-afc1-62174f9b898a_gameplay.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/09/d6/0509d6d4-e52e-9667-d3fe-6246431ac989/1e4857fa-f738-45a4-9b78-ffd582ccbd66_ready_set.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/14/4e/ce144e6b-2ece-ba08-ad0b-ec4710b8b3fe/79cada28-7891-4879-877c-5711a3ca629e_gameplay.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b8/cf/1cb8cf49-d975-8468-7aaf-659cb2bc6b53/0b207105-6d76-4fd9-895d-8099bb0b1416_startup.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/ba/83/e2ba83cf-b460-9ce6-4263-15dc07424b1c/a96a254a-44d8-4aa8-91c3-6794dd3b21ba_Game_Over.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/44/d2/8a44d23f-6bfa-1432-d3f8-7796abbc9695/3a21d72e-dbf4-4fbc-889d-2b69aba2e92d_startup.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/1f/63/9f1f630d-c3e9-35c1-41c0-be28e2edac8f/47dbb771-8d05-48a9-9196-aed22af9727e_ready_set.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f8/c3/6cf8c346-65f8-2c65-9afa-c5f8f55fa236/3402ff70-c3d8-46c3-97e5-db0f566a97cb_game_play.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/c1/89/c1c1896e-b479-ffa9-4317-914add1d5a0b/9f4fac42-26c6-49ea-8e51-3fbfbff936d9_ready_set.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/c8/d2/d1c8d2f4-42e5-19ea-9d0d-a3909f7c04a5/e0aea201-9105-4614-9e8b-44f53bb88d03_gameplay.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/23/be/a223be04-ece4-93f7-4285-06ea783a9386/c6b393c6-c94d-4b64-b559-d55a662043d9_startup.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/99/2c/a7992c5d-03b4-ed2b-3a6b-bae4199fd5cc/4371ab34-e0af-4c4a-8c08-705db839070d_game_over.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/8d/4d/f58d4d61-0efe-c322-e4eb-ac92a266dba4/0d7f6ba7-426f-445e-a592-98a2d95146c1_startup.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/7e/a6/3d7ea603-6bde-6c42-7401-c10ba650c783/2d51b680-6b11-4940-83a8-ff0ba10ee295_ready_set.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/98/06/7e9806b8-a59a-01c8-20d1-a801c50aa460/fec9c98b-5495-4621-8baf-e5bc61b0da51_gameplay.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/c1/89/c1c1896e-b479-ffa9-4317-914add1d5a0b/9f4fac42-26c6-49ea-8e51-3fbfbff936d9_ready_set.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/c8/d2/d1c8d2f4-42e5-19ea-9d0d-a3909f7c04a5/e0aea201-9105-4614-9e8b-44f53bb88d03_gameplay.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/23/be/a223be04-ece4-93f7-4285-06ea783a9386/c6b393c6-c94d-4b64-b559-d55a662043d9_startup.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/99/2c/a7992c5d-03b4-ed2b-3a6b-bae4199fd5cc/4371ab34-e0af-4c4a-8c08-705db839070d_game_over.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/8d/4d/f58d4d61-0efe-c322-e4eb-ac92a266dba4/0d7f6ba7-426f-445e-a592-98a2d95146c1_startup.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/7e/a6/3d7ea603-6bde-6c42-7401-c10ba650c783/2d51b680-6b11-4940-83a8-ff0ba10ee295_ready_set.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/98/06/7e9806b8-a59a-01c8-20d1-a801c50aa460/fec9c98b-5495-4621-8baf-e5bc61b0da51_gameplay.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/09/d6/0509d6d4-e52e-9667-d3fe-6246431ac989/1e4857fa-f738-45a4-9b78-ffd582ccbd66_ready_set.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/14/4e/ce144e6b-2ece-ba08-ad0b-ec4710b8b3fe/79cada28-7891-4879-877c-5711a3ca629e_gameplay.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b8/cf/1cb8cf49-d975-8468-7aaf-659cb2bc6b53/0b207105-6d76-4fd9-895d-8099bb0b1416_startup.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/ba/83/e2ba83cf-b460-9ce6-4263-15dc07424b1c/a96a254a-44d8-4aa8-91c3-6794dd3b21ba_Game_Over.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/44/d2/8a44d23f-6bfa-1432-d3f8-7796abbc9695/3a21d72e-dbf4-4fbc-889d-2b69aba2e92d_startup.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/1f/63/9f1f630d-c3e9-35c1-41c0-be28e2edac8f/47dbb771-8d05-48a9-9196-aed22af9727e_ready_set.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f8/c3/6cf8c346-65f8-2c65-9afa-c5f8f55fa236/3402ff70-c3d8-46c3-97e5-db0f566a97cb_game_play.png/520x924bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/6d/5e/b46d5e9e-ad46-26d7-b55e-274df5c22c9d/fa2f188f-0d65-4013-a611-ba167bb80fe0_ready_set.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/6c/b3/2b6cb3e9-fd98-b945-ef58-771214851dc8/7a0e309c-c892-417f-bc24-2e0143851d2a_startup.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/ef/75/75ef7510-f436-98f3-d5d1-3b2dd286143b/41583fce-225a-49b3-979b-3999f0716861_game_over.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/22/37/072237db-67b3-322b-9ac8-a1fc6ae721ef/029eddf6-e249-4567-9279-d93b859427a3_gameplay.png/368x448bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.7",
+      "releaseNotes": "New Themes.",
+      "seenAt": "2017-01-12T05:01:58Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "Bug fixes.",
+      "seenAt": "2017-01-19T21:31:35Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nBird character was completely redesigned.",
+      "seenAt": "2017-06-06T16:47:40Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Major improvements on graphics and gameplay.",
+      "seenAt": "2021-10-18T15:24:58Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "The red circle is replaced with Two Happy Eyes.",
+      "seenAt": "2021-10-21T15:38:47Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "New obstacle added (squirrel throwing stuff)",
+      "seenAt": "2021-10-25T15:19:29Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "Now you can play it on your watch.",
+      "seenAt": "2022-01-11T00:58:47Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "Bug fix.",
+      "seenAt": "2022-01-11T14:16:05Z"
+    },
+    {
+      "version": "3.5",
+      "releaseNotes": "More obstacles and a scoreboard added.",
+      "seenAt": "2022-01-14T04:04:28Z"
+    },
+    {
+      "version": "3.6",
+      "releaseNotes": "Now there are characters you can pick.",
+      "seenAt": "2022-01-29T05:18:16Z"
+    },
+    {
+      "version": "3.7",
+      "releaseNotes": "More characters.\nA bug fixed in the watch game.\nIcon sets for the new product page optimization feature.",
+      "seenAt": "2022-02-08T00:24:26Z"
+    },
+    {
+      "version": "3.8",
+      "releaseNotes": "Improvements on the watch game.",
+      "seenAt": "2022-02-08T16:40:15Z"
+    },
+    {
+      "version": "3.9",
+      "releaseNotes": "New game character is changed based on the app-icon and display screenshots testing results.",
+      "seenAt": "2022-03-01T20:19:40Z"
+    },
+    {
+      "version": "3.9.1",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2022-06-06T15:24:57Z"
+    },
+    {
+      "version": "3.9.2",
+      "releaseNotes": "A new game mode added 'Bounce'. Hope you enjoy!\n\nThe app icon was changed based on the 'Product Page Optimization' test results.",
+      "seenAt": "2022-06-16T18:56:21Z"
+    },
+    {
+      "version": "3.9.3",
+      "releaseNotes": "Consent form for displaying ads added for EU&UK users.\nOverall improvements.",
+      "seenAt": "2023-07-17T21:06:20Z"
+    },
+    {
+      "version": "3.9.4",
+      "releaseNotes": "Bug fixes.",
+      "seenAt": "2023-07-22T15:43:52Z"
+    },
+    {
+      "version": "3.9.5",
+      "releaseNotes": "App name adjustment.",
+      "seenAt": "2023-07-29T07:02:25Z"
+    },
+    {
+      "version": "3.9.6",
+      "releaseNotes": "Name change.\nMinor improvements.",
+      "seenAt": "2023-09-04T03:35:04Z"
+    },
+    {
+      "version": "3.9.7",
+      "releaseNotes": "Back to the old name Happy Rise.",
+      "seenAt": "2023-11-15T20:32:23Z"
+    },
+    {
+      "version": "3.9.8",
+      "releaseNotes": "Bug fix.",
+      "seenAt": "2023-11-29T18:42:17Z"
+    },
+    {
+      "version": "3.9.9",
+      "releaseNotes": "Overall improvements.",
+      "seenAt": "2024-04-10T03:42:17Z"
+    },
+    {
+      "version": "4.0.0",
+      "releaseNotes": "Minor improvements.",
+      "seenAt": "2024-08-20T15:53:06Z"
+    },
+    {
+      "version": "4.0.1",
+      "releaseNotes": "Added the cute game Bounce. Enjoy!",
+      "seenAt": "2024-08-22T22:01:22Z"
+    },
+    {
+      "version": "4.0.2",
+      "releaseNotes": "Bug fix on the Bounce game.",
+      "seenAt": "2024-08-26T22:16:37Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T03:43:37.866Z",
+  "isOwnApp": false
+}

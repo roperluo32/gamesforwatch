@@ -1,0 +1,58 @@
+---
+import CatalogHeader from "~/components/catalog/catalog-header.astro";
+import PostHogAnalytics from "~/components/posthog-analytics.astro";
+import "~/styles/index.css";
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  ogImage?: string;
+}
+
+const { title, description, path, ogImage } = Astro.props as Props;
+const { generator, site } = Astro;
+const pageUrl = new URL(path, site);
+const image = new URL(ogImage || "social.jpg", site);
+const posthogKey =
+  import.meta.env.PUBLIC_POSTHOG_KEY ??
+  "phc_hts9RHJKhHUgcr0iZTWbPjbVI1dkZq4TI9DvRY9wa6V";
+const posthogHost =
+  import.meta.env.PUBLIC_POSTHOG_HOST ?? "https://us.i.posthog.com";
+---
+
+<!doctype html>
+<html lang="en" class="h-full motion-safe:scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="/brand/app-logo.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/brand/app-logo.png" />
+    <meta name="generator" content={generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href={pageUrl.href} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={pageUrl.href} />
+    <meta property="og:image" content={image.href} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="apple-itunes-app" content="app-id=6752821820" />
+  </head>
+  <body class="min-h-full bg-[#070b16] text-white antialiased">
+    <CatalogHeader />
+    <main>
+      <slot />
+    </main>
+    <footer class="border-t border-white/10 py-10 text-center text-sm text-white/50">
+      <p>
+        <a class="hover:text-white" href="/">Games for Watch</a>
+        · Discover Apple Watch games ·
+        <a class="hover:text-white" href="mailto:monkey20001@126.com">Contact</a>
+      </p>
+    </footer>
+    <PostHogAnalytics apiKey={posthogKey} apiHost={posthogHost} />
+  </body>
+</html>

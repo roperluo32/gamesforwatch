@@ -1,0 +1,15 @@
+---
+import AppList from "~/components/catalog/app-list.astro";
+import { getCatalogIndex } from "~/lib/catalog";
+
+const apps = getCatalogIndex().filter((a) => a.price === 0);
+---
+
+<AppList
+  title="Free Apple Watch Games | Games for Watch"
+  description="Free games you can play on Apple Watch."
+  path="/apps/free/"
+  heading="Free Apple Watch games"
+  lead="Watch-capable games listed as Free on the App Store."
+  apps={apps}
+/>

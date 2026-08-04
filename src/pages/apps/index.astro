@@ -1,0 +1,15 @@
+---
+import AppList from "~/components/catalog/app-list.astro";
+import { getCatalogIndex } from "~/lib/catalog";
+
+const apps = getCatalogIndex();
+---
+
+<AppList
+  title="Apple Watch Games Directory | Games for Watch"
+  description="Browse Apple Watch games — ratings, prices, screenshots, and version updates."
+  path="/apps/"
+  heading="Apple Watch games"
+  lead="A growing directory of Watch-capable games. Updated daily from the App Store."
+  apps={apps}
+/>

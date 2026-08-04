@@ -1,0 +1,361 @@
+{
+  "trackId": "923653602",
+  "bundleId": "com.ZacharyElia.ColorSwitch",
+  "slug": "colorswitch",
+  "path": "/apps/923653602-colorswitch/",
+  "locales": {
+    "en": {
+      "trackName": "ColorSwitch!",
+      "description": "ColorSwitch! - Tap tiles to switch words and colors!\n\nYou've got a time limit... better pick fast!\n\nCan you get to the top of the leaderboards?\n\nIn this tricky game, identify the word that appears on the screen and select the colored panel that matches it within the time limit. The color name and font color will often be different to confuse you, but that won't get you, right? Unlock achievements, get high scores, and challenge your friends!\n\nGot an idea or feedback?\nSend them to ColorSwitch@zacharyelia.com",
+      "releaseNotes": "* Fixed display issue on some Apple Watch models where the game was scrolled out of view.",
+      "trackViewUrl": "https://apps.apple.com/us/app/colorswitch/id923653602?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Zachary Elia",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Board"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Fast-paced brain teaser"
+    },
+    "zh": {
+      "trackName": "ColorSwitch!",
+      "description": "ColorSwitch! - Tap tiles to switch words and colors!\n\nYou've got a time limit... better pick fast!\n\nCan you get to the top of the leaderboards?\n\nIn this tricky game, identify the word that appears on the screen and select the colored panel that matches it within the time limit. The color name and font color will often be different to confuse you, but that won't get you, right? Unlock achievements, get high scores, and challenge your friends!\n\nGot an idea or feedback?\nSend them to ColorSwitch@zacharyelia.com",
+      "releaseNotes": "* Fixed display issue on some Apple Watch models where the game was scrolled out of view.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/colorswitch/id923653602?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Zachary Elia",
+      "genres": [
+        "游戏",
+        "益智解谜",
+        "桌面"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "ColorSwitch!",
+      "description": "ColorSwitch! - Tap tiles to switch words and colors!\n\nYou've got a time limit... better pick fast!\n\nCan you get to the top of the leaderboards?\n\nIn this tricky game, identify the word that appears on the screen and select the colored panel that matches it within the time limit. The color name and font color will often be different to confuse you, but that won't get you, right? Unlock achievements, get high scores, and challenge your friends!\n\nGot an idea or feedback?\nSend them to ColorSwitch@zacharyelia.com",
+      "releaseNotes": "* Fixed display issue on some Apple Watch models where the game was scrolled out of view.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/colorswitch/id923653602?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Zachary Elia",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "ボード"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "ColorSwitch!",
+      "description": "ColorSwitch! - Tap tiles to switch words and colors!\n\nYou've got a time limit... better pick fast!\n\nCan you get to the top of the leaderboards?\n\nIn this tricky game, identify the word that appears on the screen and select the colored panel that matches it within the time limit. The color name and font color will often be different to confuse you, but that won't get you, right? Unlock achievements, get high scores, and challenge your friends!\n\nGot an idea or feedback?\nSend them to ColorSwitch@zacharyelia.com",
+      "releaseNotes": "* Fixed display issue on some Apple Watch models where the game was scrolled out of view.",
+      "trackViewUrl": "https://apps.apple.com/de/app/colorswitch/id923653602?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Zachary Elia",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/29/b1/bf29b192-f506-c6c7-760d-7e9bf0aae0c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.48571,
+  "userRatingCount": 35,
+  "price": 0,
+  "fileSizeBytes": "3698688",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "3.5.2",
+  "currentVersionReleaseDate": "2026-02-24T20:33:10Z",
+  "releaseDate": "2014-11-06T03:54:02Z",
+  "artistId": 1114976798,
+  "artistName": "Zachary Elia",
+  "artistViewUrl": "https://apps.apple.com/de/developer/zachary-elia/id1114976798?uo=4",
+  "sellerUrl": "https://www.zackelia.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/86/3a/ed863a9d-32ba-b4bc-7480-33ebb3b25867/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/06/16/910616e6-eb65-7899-0f6a-437932fffa40/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3e/39/f93e3902-8b33-9ea6-1fcd-75ab884581e0/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b8/b3/96b8b312-7587-4457-b85d-35cc29fecdde/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/95/00/5e9500bb-98fc-244d-9d02-dd6fdc6c5e40/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/86/d2/cd86d23b-8690-7e19-7709-13ea8495b5e7/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/35/3f/93353fef-0ef9-c600-e7fc-b3bd130e541d/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/f8/05/1ef80568-aad1-f6d6-8bb2-a23d39b1ba14/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/53/24/d8532494-2b4f-afde-7c2c-caf67295e321/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/ae/48/f3ae48ad-998b-b936-7653-8206c35a2220/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/bd/72/cebd728c-e4e3-6fb1-7e7f-246abd7be7e2/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/6f/95/0e6f9589-302b-6c9d-b56a-5e4d6ad2713b/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/35/3f/93353fef-0ef9-c600-e7fc-b3bd130e541d/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/f8/05/1ef80568-aad1-f6d6-8bb2-a23d39b1ba14/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/53/24/d8532494-2b4f-afde-7c2c-caf67295e321/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/86/3a/ed863a9d-32ba-b4bc-7480-33ebb3b25867/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/06/16/910616e6-eb65-7899-0f6a-437932fffa40/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3e/39/f93e3902-8b33-9ea6-1fcd-75ab884581e0/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/86/3a/ed863a9d-32ba-b4bc-7480-33ebb3b25867/pr_source.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/06/16/910616e6-eb65-7899-0f6a-437932fffa40/pr_source.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3e/39/f93e3902-8b33-9ea6-1fcd-75ab884581e0/pr_source.png/768x1024bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/35/3f/93353fef-0ef9-c600-e7fc-b3bd130e541d/pr_source.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/f8/05/1ef80568-aad1-f6d6-8bb2-a23d39b1ba14/pr_source.png/520x924bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/53/24/d8532494-2b4f-afde-7c2c-caf67295e321/pr_source.png/520x924bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/d4/20/1bd42083-9bb3-2fe2-4bb6-5284c8ed9575/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-02-23_at_09.41.45.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/cc/bf/d6ccbf89-6743-343b-6be3-2a732b332238/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-02-23_at_09.41.47.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "releaseNotes": "",
+      "seenAt": "2014-11-05T19:36:11Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "• Added achievements!\n• Further leaderboard support\n• Instructions re-worded\n• Uniform theme fixes",
+      "seenAt": "2014-11-10T21:47:45Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "• 2 new gamemodes! Try out Hard for a faster paced game or use Time Trial to see how many you can get correct in 30 seconds\n• Offline leaderboard support\n• iOS 7 and iPhone 4s Support",
+      "seenAt": "2015-01-03T00:21:29Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "• Redesigned user interface\n• Bug fixes\n• Support for Spanish, French, German, Italian, and Russian languages",
+      "seenAt": "2015-04-15T10:59:33Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "• Support for Apple Watch\n• Bug fixes and optimizations",
+      "seenAt": "2016-01-07T19:37:05Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "• Support for Apple Watch\n• Bug fixes and optimizations",
+      "seenAt": "2016-01-09T01:20:45Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "• New sounds and animations\n• Bug fixes and optimizations",
+      "seenAt": "2016-02-11T18:24:56Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "• Bug fixes and optimizations",
+      "seenAt": "2016-03-28T16:13:55Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "• Now takes up significantly less storage, up to 5 times less in some situations",
+      "seenAt": "2016-04-14T22:34:00Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "• Ads are now shown less frequently\n• Bug fixes",
+      "seenAt": "2016-10-19T17:16:29Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "• iOS 12 support\n• UI improvements\n• Better support for larger screen sizes\n• Hard mode now harder! Panels will randomly move around",
+      "seenAt": "2018-09-14T02:22:07Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "• iOS 13 support\n• Fixed crash after a new high score",
+      "seenAt": "2020-05-03T16:45:37Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "• Redesigned interface\n• Animations on button presses\n• Muted ads when game sounds are off\n• Descriptions for each game mode\n• Game Center button goes to main page instead of leaderboard",
+      "seenAt": "2020-05-05T15:01:13Z"
+    },
+    {
+      "version": "3.2.0",
+      "releaseNotes": "• watchOS app can now be installed independently of the iOS app\n• Bug fixes",
+      "seenAt": "2020-07-02T18:28:19Z"
+    },
+    {
+      "version": "3.3.0",
+      "releaseNotes": "• New \"Insane\" game mode with more colors and less time\n• Support for Game Center challenges\n• Interface tweaks",
+      "seenAt": "2021-01-19T21:37:03Z"
+    },
+    {
+      "version": "3.3.1",
+      "releaseNotes": "• Bug fixes",
+      "seenAt": "2021-02-02T16:17:15Z"
+    },
+    {
+      "version": "3.3.2",
+      "releaseNotes": "• Bug fixes",
+      "seenAt": "2021-03-22T00:05:14Z"
+    },
+    {
+      "version": "3.4.0",
+      "releaseNotes": "• iOS 16 support\n• Bug fixes",
+      "seenAt": "2023-06-01T14:57:30Z"
+    },
+    {
+      "version": "3.5.0",
+      "releaseNotes": "* New \"Training\" game mode. This game mode is 30 second games like \"Trial\" but does not end the game on wrong answers. There is no leaderboard associated with this mode.\n* Minimum version is now iOS 15.6.",
+      "seenAt": "2026-02-18T22:21:28Z"
+    },
+    {
+      "version": "3.5.1",
+      "releaseNotes": "* New \"Training\" game mode. This game mode is 30 second games like \"Trial\" but does not end the game on wrong answers. There is no leaderboard associated with this mode.\n* Minimum version is now iOS 15.6.\n* Fix audio lag.",
+      "seenAt": "2026-02-19T02:26:39Z"
+    },
+    {
+      "version": "3.5.2",
+      "releaseNotes": "* Fixed display issue on some Apple Watch models where the game was scrolled out of view.",
+      "seenAt": "2026-02-24T20:33:10Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T03:44:46.165Z",
+  "isOwnApp": false
+}

@@ -1,0 +1,400 @@
+{
+  "trackId": "6741334696",
+  "bundleId": "com.ztyuu.com.number",
+  "slug": "game-box-games-for-watch",
+  "path": "/apps/6741334696-game-box-games-for-watch/",
+  "locales": {
+    "en": {
+      "trackName": "Game Box - Games for Watch",
+      "description": "【Game Box】 - 53 Offline Games for Apple Watch and iPhone\n\nGame Box is a premium casual game collection built for quick play on Apple Watch and deeper sessions on iPhone. Enjoy offline puzzle games, arcade classics, brain training, board games, card games, runners and relaxing time killers in one compact app.\n\nWhy players love Game Box:\n• 53 games in one app, from Sudoku and 2048 to Snooker and Kitty Sudoku.\n• Works offline, no Wi-Fi or internet required.\n• Optimized for Apple Watch and iPhone, with smooth touch and Digital Crown controls where they fit best.\n• Game Center leaderboards for selected games on both iPhone and Apple Watch.\n• VIP unlocks the full collection and removes ads for uninterrupted play.\n\nAll games included\n• Puzzle & Logic: Sudoku, Kitty Sudoku, Number Slide 2048, Number Puzzle, Number Connect, Number Merge, One Stroke, Sokoban, Water Sort, Maze Escape, Minesweeper, Arrow Puzzle, Hexa Away\n• Casual & Match: Mahjong Solitaire, Fruit Pop, Star Pop, Link Link, Block Blast, Sand Blast, Tap Match, Bubble Shooter, Animal Merge, Drop Number\n• Arcade & Action: Pacman, Snake, Spherical Snake, Tetris, Breakout, Dino Run, Flight Rush, Ski Adventure, Jump Alien, Circle Jump, Bounce, Bridge Cross, Jump Jump, Tower Stack, Ball Run, Last Stand\n• Board, Card & Sports: Tic Tac Toe, Gomoku, Reversi, Chinese Chess, Chess, Jungle Chess, Landlords, Billiards, Snooker, Spider Solitaire\n• Unique Fun: Gold Miner, Electronic Wooden Fish, Air Gun\n\nPerfect for commuting, waiting in line, short breaks, bedtime relaxation, and any moment when you want a quick game that is easy to start and satisfying to master.\n\nPrivacy Policy: https://sites.google.com/view/gamebox--privacy-policy\nTerms of Service: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nContact: i@ztyuu.com",
+      "releaseNotes": "Added a new game: Cross Road. Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "trackViewUrl": "https://apps.apple.com/us/app/game-box-games-for-watch/id6741334696?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "太宇 左",
+      "genres": [
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": "Offline Games No WiFi 53+"
+    },
+    "zh": {
+      "trackName": "游戏盒子 - 手表游戏",
+      "description": "【Game Box】- Apple Watch 与 iPhone 的 53 款离线游戏合集\n\nGame Box 是专为 Apple Watch 和 iPhone 打造的精品休闲游戏盒子。这里有益智解谜、消除合成、街机动作、棋类牌类、运动对战和解压小工具，适合通勤、排队、休息和睡前随时开一局。\n\n为什么选择 Game Box：\n• 53 款游戏集合，从 2048、数独到斯诺克、猫咪数独一应俱全。\n• 支持离线游玩，无需 Wi-Fi 或网络。\n• 同时适配 Apple Watch 和 iPhone，手表端针对触控与数码表冠优化。\n• 部分游戏支持 iPhone 与 Apple Watch 的 Game Center 排行榜。\n• VIP 可解锁完整游戏库并享受无广告体验。\n\n完整游戏列表\n• 益智逻辑: 数独、猫咪数独、数字滑块、数字华容道、数字连接、数字合成、一笔画、推箱子、水排序、迷宫逃脱、扫雷、箭头谜题、六角消除\n• 休闲消除: 麻将连连看、水果消消、星星消除、连连看、方块消除、沙子消消、点击匹配、泡泡龙、动物合成、掉落数字\n• 动作街机: 吃豆人、贪吃蛇、球球贪吃蛇、俄罗斯方块、弹弹球、恐龙跑酷、飞行冲刺、滑雪大冒险、跳跳外星人、跳圈圈、动物弹球、小人过桥、跳一跳、堆叠高塔、球球跑酷、最后防线\n• 棋类牌类与运动: 井字棋、五子棋、黑白棋、中国象棋、国际象棋、斗兽棋、斗地主、台球、斯诺克、蜘蛛纸牌\n• 特色玩法: 黄金矿工、电子木鱼、空气枪\n\n无论是碎片时间、地铁通勤、工作间隙、排队等待，还是睡前放松，Game Box 都能提供轻量、有趣、耐玩的随身游戏体验。\n\n隐私政策：https://sites.google.com/view/gamebox--privacy-policy\n服务条款：https://sites.google.com/view/gamebox-terms-of-service\nApple EULA：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n联系我们：i@ztyuu.com",
+      "releaseNotes": "新增游戏：小人过马路。修复已知问题并优化稳定性与游戏体验。遇到问题或有建议？请前往「设置」→「联系我们」反馈。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B8%B8%E6%88%8F%E7%9B%92%E5%AD%90-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6741334696?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "太宇 左",
+      "genres": [
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Game Box - 腕時計ゲーム集",
+      "description": "【Game Box】Apple Watch と iPhone のための53種類のオフラインゲーム集\n\nGame Box は、Apple Watch での短時間プレイと iPhone でのじっくりプレイの両方に向けたカジュアルゲームコレクションです。パズル、脳トレ、アーケード、ボードゲーム、カードゲーム、ランゲーム、リラックス系ゲームを1つのアプリで楽しめます。\n\nGame Box の魅力：\n• 2048、数独、スヌーカー、ねこ数独まで、53種類のゲームを収録。\n• オフライン対応。Wi-Fi やインターネットがなくても遊べます。\n• Apple Watch と iPhone の両方に最適化。手首でもスマホでも快適に操作できます。\n• 一部ゲームは iPhone と Apple Watch の Game Center ランキングに対応。\n• VIP で全ゲームをアンロックし、広告なしで楽しめます。\n\n収録ゲーム一覧\n• パズル＆ロジック: 数独、ねこ数独、ナンバースライド2048、数字パズル、数字接続、ナンバーマージ、一筆書き、SOKOBAN、水ソート、迷路脱出、マインスイーパ、矢印パズル、ヘキサアウェイ\n• カジュアル＆マッチ: 麻雀ソリティア、フルーツポップ、スターポップ、リンクリンク、ブロックブラスト、サンドブラスト、タップマッチ、バブルシューター、動物合成、ドロップナンバー\n• アーケード＆アクション: パックマン、スネーク、球体スネーク、テトリス、ブロックブライク、ディノラン、フライトラッシュ、スキー大冒険、ジャンプエイリアン、サルコジャンプ、ボンブ、ブリッジクロス、ジャンプジャンプ、タワースタック、ボールラン、最後の砦\n• ボード・カード・スポーツ: ○×ゲーム、五子棋、リバーシ、中国将棋、チェス、ジャングルチェス、ドウジジュ、ビリヤード、スヌーカー、スパイダーソリティア\n• ユニーク: 黄金礦夫、電子木魚、空気銃\n\n通勤、待ち時間、短い休憩、寝る前のリラックスなど、すぐ始められて何度も遊びたくなるミニゲームにぴったりです。\n\nプライバシーポリシー: https://sites.google.com/view/gamebox--privacy-policy\n利用規約: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nお問い合わせ: i@ztyuu.com",
+      "releaseNotes": "新しいゲーム「みんなで横断」を追加しました。既知の問題を修正し、安定性とゲーム体験を改善しました。問題やご意見がある場合は、設定 → お問い合わせ からお知らせください。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/game-box-%E8%85%95%E6%99%82%E8%A8%88%E3%82%B2%E3%83%BC%E3%83%A0%E9%9B%86/id6741334696?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "太宇 左",
+      "genres": [
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Game Box - Watch Spiele",
+      "description": "【Game Box】 - 53 Offline-Spiele für Apple Watch und iPhone\n\nGame Box bündelt Casual Games, Puzzles, Arcade-Klassiker, Denkspiele, Brettspiele, Kartenspiele und Action-Herausforderungen für kurze Runden auf der Apple Watch und längere Sessions auf dem iPhone.\n\nWarum Game Box:\n• 53 Spiele in einer App, von Sudoku und 2048 bis Snooker und Kitty Sudoku.\n• Offline spielbar, ohne WLAN oder Internet.\n• Optimiert für Apple Watch und iPhone.\n• Game Center-Bestenlisten für ausgewählte Spiele.\n• VIP schaltet die gesamte Sammlung frei und entfernt Werbung.\n\nAlle enthaltenen Spiele\n• Puzzle & Logic: Sudoku, Kitty Sudoku, Number Slide 2048, Number Puzzle, Number Connect, Number Merge, One Stroke, Sokoban, Water Sort, Maze Escape, Minesweeper, Arrow Puzzle, Hexa Away\n• Casual & Match: Mahjong Solitaire, Fruit Pop, Star Pop, Link Link, Block Blast, Sand Blast, Tap Match, Bubble Shooter, Animal Merge, Drop Number\n• Arcade & Action: Pacman, Snake, Spherical Snake, Tetris, Breakout, Dino Run, Flight Rush, Ski Adventure, Jump Alien, Circle Jump, Bounce, Bridge Cross, Jump Jump, Tower Stack, Ball Run, Last Stand\n• Board, Card & Sports: Tic Tac Toe, Gomoku, Reversi, Chinese Chess, Chess, Jungle Chess, Landlords, Billiards, Snooker, Spider Solitaire\n• Unique Fun: Gold Miner, Electronic Wooden Fish, Air Gun\n\nIdeal für Pendeln, Wartezeiten, kurze Pausen und entspannte Momente vor dem Schlafengehen.\n\nDatenschutz: https://sites.google.com/view/gamebox--privacy-policy\nNutzungsbedingungen: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nKontakt: i@ztyuu.com",
+      "releaseNotes": "Neues Spiel: Straßenquerung. Bekannte Probleme wurden behoben und Stabilität sowie Spielerlebnis verbessert. Feedback? Gehe zu Einstellungen → Kontakt.",
+      "trackViewUrl": "https://apps.apple.com/de/app/game-box-watch-spiele/id6741334696?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "太宇 左",
+      "genres": [
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/fb/23/91fb23e4-411e-c33c-0287-38f1de8807e7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.69564,
+  "userRatingCount": 46,
+  "price": 0,
+  "fileSizeBytes": "127679488",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "16.0",
+  "version": "2.5.3",
+  "currentVersionReleaseDate": "2026-07-28T05:03:24Z",
+  "releaseDate": "2025-02-04T08:00:00Z",
+  "artistId": 1545635894,
+  "artistName": "太宇 左",
+  "artistViewUrl": "https://apps.apple.com/de/developer/%E5%A4%AA%E5%AE%87-%E5%B7%A6/id1545635894?uo=4",
+  "sellerUrl": "https://gamebox.ztyuu.com",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/77/94/1877944b-843e-c94e-7053-168450aa641d/0x0ss.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/d3/53/d2d353f8-6bd3-6301-ecbd-5c9c6ce44573/0x0ss__U00284_U0029.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/d0/91/a6d0919c-09f4-4be9-9349-4676689be71d/0x0ss__U00281_U0029.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/cc/ae/11ccae93-ca70-7c80-8d51-75dfd92f80c0/0x0ss__U00282_U0029.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/3c/ab/413cab80-84c0-37a6-158b-c40270a702d5/0x0ss__U00283_U0029.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/a6/77/13a67739-e31e-1917-d8f5-e26ad255eee1/_U56fe_U7247-1@3x__U00281_U0029.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/26/6d/3e266d0d-fa78-253a-e7ce-d477bf77e6c9/Frame_8.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/ac/34/fcac34d6-ac5f-05fb-e03a-38dc86653a9e/Frame_9.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/81/4d/e5814dc8-341a-24c9-492a-2d155208c2de/Frame_11.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/38/bd/1638bdd0-b34a-dc5b-8438-d06b4b78d84b/Frame_10.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/1e/d3/5f1ed3e9-536a-4a30-2238-81739ef15586/_U56fe_U7247-1@3x__U00281_U0029_1.png/1260x2736bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/ac/e8/3aace898-6132-e3d7-6f0c-11727a6a8dc7/Frame_8_1.png/1260x2736bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/6d/8e/6a6d8eb5-975b-7b27-0d86-ee99888246b5/Frame_9_1.png/1260x2736bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/4e/6d/4c4e6d0b-3b37-277f-a494-bde2d8766105/Frame_11_1.png/1260x2736bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/68/84/9e68844b-64a6-f409-2347-d62d77b1ae3d/Frame_10_1.png/1260x2736bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/6d/bc/136dbc4c-fb0a-1559-f415-acecb8bba136/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-12_at_16.13.14.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/db/f2/82dbf23e-1806-97aa-5e96-0983aa97943d/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-02-09_at_01.23.11.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/35/a8/ed35a866-fe03-5091-283c-b259d76f228c/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-12_at_16.14.17.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/95/dc/4095dc1b-cca0-5ed1-2f93-33ce60836819/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-02-09_at_01.23.30.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/28/4a/b7284a8e-7896-a8e2-309f-96ffcaf32ed9/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-02-14_at_21.45.54.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/e9/96/9ee99687-17df-1668-326e-12bfa3bfc41d/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-09_at_06.18.22.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/58/61/a35861d9-fb5e-63d1-5757-4cb980460eb4/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-02-14_at_21.46.55.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/a1/f4/12a1f4ba-4d51-8176-11f5-699f7f74ebc7/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-09_at_06.18.09.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/46/b8/a546b876-d7a2-b224-460a-9d4820e980ae/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-09_at_06.19.15.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/b8/ce/67b8ce1a-3360-9cf9-a621-9ac3eb30e3cc/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-03-10_at_03.40.52.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.2.4",
+      "releaseNotes": "Added a new game, TowerStack. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and keep improving.",
+      "seenAt": "2026-04-01T11:53:51Z"
+    },
+    {
+      "version": "2.2.5",
+      "releaseNotes": "Added a new game, HexaAway. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve.",
+      "seenAt": "2026-04-04T19:07:28Z"
+    },
+    {
+      "version": "2.2.6",
+      "releaseNotes": "Fixed some known issues.If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-12T01:16:49Z"
+    },
+    {
+      "version": "2.2.7",
+      "releaseNotes": "Fixed some known issues and added a new game, Ball Run. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-14T16:13:26Z"
+    },
+    {
+      "version": "2.2.8",
+      "releaseNotes": "Optimized the DINO RUN game and fixed some known issues. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-20T12:40:33Z"
+    },
+    {
+      "version": "2.2.9",
+      "releaseNotes": "Improved the Billiards game experience and fixed some known issues. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-21T16:03:58Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "Added a new game, Jungle Chess. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-24T00:59:15Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "Fixed some language display issues. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-04-25T21:39:02Z"
+    },
+    {
+      "version": "2.3.2",
+      "releaseNotes": "Added a new game, Last Stand. Defend your base against endless waves of enemies — how many waves can you survive? If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-05-02T20:45:31Z"
+    },
+    {
+      "version": "2.3.3",
+      "releaseNotes": "Fixed occasional refresh lag on some devices. If you have any questions or suggestions, please go to Settings > Contact Us. We read every message and continuously improve the experience.",
+      "seenAt": "2026-05-04T18:20:53Z"
+    },
+    {
+      "version": "2.3.4",
+      "releaseNotes": "Added a new game: Drop Number. Bug fixes and stability improvements. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-05-28T18:31:35Z"
+    },
+    {
+      "version": "2.4.0",
+      "releaseNotes": "Added a new game: Snooker. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-05-30T16:52:05Z"
+    },
+    {
+      "version": "2.4.1",
+      "releaseNotes": "Fixed compatibility issues on some devices. If you have any questions or suggestions, please go to “Settings” > “Contact Us.” We carefully read every piece of feedback and will continue improving the experience.",
+      "seenAt": "2026-06-02T18:06:38Z"
+    },
+    {
+      "version": "2.4.2",
+      "releaseNotes": "Improved Digital Crown aiming sensitivity and ball rolling feel in Snooker on Apple Watch.\nFor questions or suggestions, go to “Settings” > “Contact Us.”",
+      "seenAt": "2026-06-05T17:01:41Z"
+    },
+    {
+      "version": "2.4.3",
+      "releaseNotes": "Added a new game: Kitty Sudoku, with Game Center leaderboards for iPhone and Apple Watch. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-06-11T01:49:42Z"
+    },
+    {
+      "version": "2.4.4",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-06-15T17:18:54Z"
+    },
+    {
+      "version": "2.4.5",
+      "releaseNotes": "Added a new game: Last Stand 2. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-06-19T16:23:25Z"
+    },
+    {
+      "version": "2.4.6",
+      "releaseNotes": "Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-06-20T16:44:20Z"
+    },
+    {
+      "version": "2.4.7",
+      "releaseNotes": "Added a new game: Maze Paint. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-06-25T16:32:53Z"
+    },
+    {
+      "version": "2.4.8",
+      "releaseNotes": "Fixed an issue where some Maze Paint levels could not be completed, and improved the experience.",
+      "seenAt": "2026-06-29T18:45:41Z"
+    },
+    {
+      "version": "2.4.9",
+      "releaseNotes": "Added a new game: Block Escape. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-07-06T17:31:31Z"
+    },
+    {
+      "version": "2.5.0",
+      "releaseNotes": "Improved the overall experience.\nIf you run into any issues, go to Settings > Contact Us to send feedback.",
+      "seenAt": "2026-07-10T22:33:15Z"
+    },
+    {
+      "version": "2.5.1",
+      "releaseNotes": "Added a new game: Space Shooter. Fixed known issues and improved the experience. Have feedback? Go to Settings → Contact Us.",
+      "seenAt": "2026-07-15T16:27:31Z"
+    },
+    {
+      "version": "2.5.2",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-07-16T16:12:48Z"
+    },
+    {
+      "version": "2.5.3",
+      "releaseNotes": "Added a new game: Cross Road. Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-07-28T05:03:24Z"
+    }
+  ],
+  "updatedAt": "2026-08-04T03:44:18.262Z",
+  "isOwnApp": false
+}

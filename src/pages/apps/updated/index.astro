@@ -1,0 +1,17 @@
+---
+import AppList from "~/components/catalog/app-list.astro";
+import { getCatalogIndex } from "~/lib/catalog";
+
+const apps = [...getCatalogIndex()].sort((a, b) =>
+  String(b.currentVersionReleaseDate).localeCompare(String(a.currentVersionReleaseDate))
+);
+---
+
+<AppList
+  title="Recently Updated Apple Watch Games | Games for Watch"
+  description="Apple Watch games with the most recent App Store updates."
+  path="/apps/updated/"
+  heading="Recently updated"
+  lead="Watch games sorted by latest App Store version release date."
+  apps={apps}
+/>

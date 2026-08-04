@@ -1,0 +1,111 @@
+---
+import CatalogShell from "~/components/catalog/catalog-shell.astro";
+import {
+  GAMEHUB_APP_STORE_URL,
+  getOwnGame,
+  ownGames,
+} from "~/lib/catalog";
+
+export function getStaticPaths() {
+  return ownGames.map((game) => ({
+    params: { slug: game.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const game = getOwnGame(slug!);
+if (!game) {
+  throw new Error(`Unknown game slug: ${slug}`);
+}
+
+const related = ownGames.filter((g) => g.slug !== game.slug).slice(0, 6);
+const title = `${game.nameEn} for Apple Watch | Games for Watch`;
+const description =
+  game.description ||
+  `Play ${game.nameEn} on Apple Watch with GameHub — offline mini games for your wrist.`;
+---
+
+<CatalogShell title={title} description={description} path={`/games/${game.slug}/`} ogImage={game.preview || undefined}>
+  <article class="mx-auto max-w-6xl px-4 py-12">
+    <nav class="text-sm text-white/50">
+      <a class="hover:text-white" href="/">Home</a>
+      <span class="mx-2">/</span>
+      <a class="hover:text-white" href="/games/">Our Games</a>
+      <span class="mx-2">/</span>
+      <span class="text-white/80">{game.nameEn}</span>
+    </nav>
+
+    <div class="mt-8 grid items-start gap-10 lg:grid-cols-[1.1fr_0.9fr]">
+      <div class="overflow-hidden rounded-3xl border border-white/10 bg-[#12182a]">
+        {
+          game.preview ? (
+            <img src={game.preview} alt={`${game.nameEn} preview`} class="w-full object-cover" />
+          ) : (
+            <div class="flex aspect-square items-center justify-center text-white/40">No preview</div>
+          )
+        }
+      </div>
+
+      <div>
+        <div class="flex flex-wrap gap-2">
+          {
+            game.isNew ? (
+              <span class="rounded-full bg-emerald-500/20 px-2.5 py-1 text-xs text-emerald-300">New</span>
+            ) : null
+          }
+          {
+            game.isVip ? (
+              <span class="rounded-full bg-amber-500/20 px-2.5 py-1 text-xs text-amber-200">VIP</span>
+            ) : null
+          }
+          {
+            game.isFeatured ? (
+              <span class="rounded-full bg-pink-500/20 px-2.5 py-1 text-xs text-pink-200">Featured</span>
+            ) : null
+          }
+        </div>
+        <h1 class="mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">{game.nameEn}</h1>
+        <p class="mt-2 text-lg text-white/55">{game.name}</p>
+        <p class="mt-5 text-base leading-relaxed text-white/75">{game.description}</p>
+
+        <a
+          href={GAMEHUB_APP_STORE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="mt-8 inline-flex rounded-full bg-pink-500 px-6 py-3 text-sm font-semibold text-white hover:bg-pink-400"
+        >
+          Play in GameHub on Apple Watch
+        </a>
+        <p class="mt-3 text-sm text-white/45">
+          Included in GameHub — Mini Games for Watch. Offline play, Watch-first controls.
+        </p>
+      </div>
+    </div>
+
+    {
+      related.length ? (
+        <section class="mt-16">
+          <h2 class="text-2xl font-semibold">More GameHub games</h2>
+          <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {related.map((item) => (
+              <li>
+                <a
+                  href={`/games/${item.slug}/`}
+                  class="flex items-center gap-3 rounded-xl border border-white/10 bg-white/5 p-3 hover:border-pink-400/40"
+                >
+                  {item.preview ? (
+                    <img src={item.preview} alt="" class="h-14 w-14 rounded-lg object-cover" loading="lazy" />
+                  ) : null}
+                  <div>
+                    <div class="font-medium">{item.nameEn}</div>
+                    <div class="text-sm text-white/50">{item.name}</div>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null
+    }
+  </article>
+</CatalogShell>

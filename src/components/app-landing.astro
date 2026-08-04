@@ -972,6 +972,15 @@ const proofIcons = [
                 </a>
               ))}
             </div>
+
+            <div class="mt-8 flex flex-wrap gap-4 text-sm font-semibold">
+              <a href="/games/" class="text-black/70 underline-offset-4 hover:text-black hover:underline">
+                Browse GameHub games →
+              </a>
+              <a href="/apps/" class="text-black/70 underline-offset-4 hover:text-black hover:underline">
+                Apple Watch games directory →
+              </a>
+            </div>
           </div>
         </section>
       )
@@ -984,6 +993,8 @@ const proofIcons = [
     >
       <p>{copy.footer}</p>
       <div class="flex items-center gap-4">
+        <a href="/games/" class="transition hover:text-black">Our Games</a>
+        <a href="/apps/" class="transition hover:text-black">Watch Apps</a>
         <a
           href={copy.appStoreUrl}
           target="_blank"

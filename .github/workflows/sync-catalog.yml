@@ -1,0 +1,58 @@
+name: Sync Watch Games Catalog
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Export own games
+        run: npm run export:own-games
+        env:
+          GAME_MODEL_PATH: ${{ vars.GAME_MODEL_PATH }}
+          GAME_PREVIEWS_PATH: ${{ vars.GAME_PREVIEWS_PATH }}
+        continue-on-error: true
+
+      - name: Sync catalog
+        run: npm run sync:catalog
+        env:
+          # storePlatformData JSON provides Watch screenshots + versionHistory;
+          # amp-api is a fallback when Watch shots are missing (optional AMP_TOKEN)
+          SKIP_AMP: "0"
+
+      - name: Generate sitemap
+        run: npm run generate:sitemap
+
+      - name: Commit catalog updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog src/data/catalog-index.json src/data/own-games.json public/games/previews public/sitemap.xml || true
+          if git diff --staged --quiet; then
+            echo "No catalog changes"
+          else
+            git commit -m "chore: sync Apple Watch games catalog"
+            git push
+          fi
