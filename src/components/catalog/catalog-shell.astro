@@ -2,16 +2,61 @@
 import CatalogHeader from "~/components/catalog/catalog-header.astro";
 import PostHogAnalytics from "~/components/posthog-analytics.astro";
 import { GAMEHUB_APP_STORE_URL } from "~/lib/catalog";
+import type { GamesUi } from "~/data/games";
+import { gamesUiByLocale } from "~/data/games";
 import "~/styles/index.css";
+
+interface LanguageOption {
+  title: string;
+  url: string;
+  locale: string;
+  active?: boolean;
+}
+
+interface AlternatePath {
+  hreflang: string;
+  path: string;
+}
 
 interface Props {
   title: string;
   description: string;
   path: string;
   ogImage?: string;
+  langAttr?: string;
+  ogLocale?: string;
+  homePath?: string;
+  gamesPath?: string;
+  appsPath?: string;
+  updatedPath?: string;
+  freePath?: string;
+  blogPath?: string;
+  ui?: GamesUi;
+  languages?: LanguageOption[];
+  alternatePaths?: AlternatePath[];
+  defaultPath?: string;
+  showLanguageSwitcher?: boolean;
 }
 
-const { title, description, path, ogImage } = Astro.props as Props;
+const {
+  title,
+  description,
+  path,
+  ogImage,
+  langAttr = "en",
+  ogLocale = "en_US",
+  homePath = "/",
+  gamesPath = "/games/",
+  appsPath = "/apps/",
+  updatedPath = "/apps/updated/",
+  freePath = "/apps/free/",
+  blogPath = "/articles/",
+  ui = gamesUiByLocale.en,
+  languages = [],
+  alternatePaths = [],
+  defaultPath = path,
+  showLanguageSwitcher = false,
+} = Astro.props as Props;
 const { generator, site } = Astro;
 const pageUrl = new URL(path, site);
 const image = new URL(ogImage || "social.jpg", site);
@@ -23,7 +68,7 @@ const posthogHost =
 ---
 
 <!doctype html>
-<html lang="en" class="h-full motion-safe:scroll-smooth">
+<html lang={langAttr} class="h-full motion-safe:scroll-smooth">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
@@ -34,16 +79,46 @@ const posthogHost =
     <meta name="description" content={description} />
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href={pageUrl.href} />
+    {
+      alternatePaths.map((item) => (
+        <link
+          rel="alternate"
+          hreflang={item.hreflang}
+          href={new URL(item.path, site).href}
+        />
+      ))
+    }
+    {
+      alternatePaths.length > 0 ? (
+        <link
+          rel="alternate"
+          hreflang="x-default"
+          href={new URL(defaultPath, site).href}
+        />
+      ) : null
+    }
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={pageUrl.href} />
     <meta property="og:image" content={image.href} />
     <meta property="og:type" content="website" />
+    <meta property="og:locale" content={ogLocale} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="apple-itunes-app" content="app-id=6752821820" />
   </head>
   <body class="min-h-full bg-[#f5f5f7] text-[#1d1d1f] antialiased">
-    <CatalogHeader currentPath={path} />
+    <CatalogHeader
+      currentPath={path}
+      homePath={homePath}
+      gamesPath={gamesPath}
+      appsPath={appsPath}
+      updatedPath={updatedPath}
+      freePath={freePath}
+      blogPath={blogPath}
+      ui={ui}
+      languages={languages}
+      showLanguageSwitcher={showLanguageSwitcher}
+    />
     <main>
       <slot />
     </main>
@@ -51,22 +126,96 @@ const posthogHost =
       <div
         class="text-black/52 mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm sm:flex-row sm:items-center sm:justify-between lg:px-8"
       >
-        <p>Games for Watch · Discover Apple Watch games</p>
+        <p>{ui.footerNote}</p>
         <div class="flex flex-wrap items-center gap-4">
-          <a href="/games/" class="transition hover:text-black">Our Games</a>
-          <a href="/apps/" class="transition hover:text-black">Watch Apps</a>
+          <a href={gamesPath} class="transition hover:text-black">{ui.gamesNav}</a>
+          <a href={appsPath} class="transition hover:text-black">{ui.appsNav}</a>
           <a
             href={GAMEHUB_APP_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
             class="transition hover:text-black"
           >
-            App Store
+            {ui.storeLabel}
           </a>
-          <a href="mailto:monkey20001@126.com" class="transition hover:text-black">Contact</a>
+          <a href="mailto:monkey20001@126.com" class="transition hover:text-black"
+            >{ui.contactLabel}</a
+          >
         </div>
       </div>
     </footer>
     <PostHogAnalytics apiKey={posthogKey} apiHost={posthogHost} />
   </body>
 </html>
+
+<style is:global>
+  .language-switcher {
+    position: relative;
+  }
+
+  .language-switcher[open] .language-switcher__summary {
+    border-color: rgba(0, 0, 0, 0.12);
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.08);
+  }
+
+  .language-switcher__summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    min-width: 8.6rem;
+    max-width: 100%;
+    cursor: pointer;
+    list-style: none;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.84);
+    padding: 0.7rem 0.95rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgba(29, 29, 31, 0.92);
+  }
+
+  .language-switcher__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .language-switcher__current {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.6rem;
+    border-radius: 999px;
+    background: rgba(17, 24, 39, 0.06);
+    padding: 0.18rem 0.55rem;
+  }
+
+  .language-switcher__menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.55rem);
+    z-index: 20;
+    min-width: 11.5rem;
+    border-radius: 1.1rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: rgba(255, 255, 255, 0.96);
+    padding: 0.4rem;
+    box-shadow: 0 20px 50px rgba(15, 23, 42, 0.12);
+  }
+
+  .language-switcher__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    border-radius: 0.85rem;
+    padding: 0.7rem 0.85rem;
+    font-size: 0.9rem;
+    color: rgba(17, 24, 39, 0.8);
+  }
+
+  .language-switcher__item:hover,
+  .language-switcher__item--active {
+    background: rgba(17, 24, 39, 0.06);
+  }
+</style>

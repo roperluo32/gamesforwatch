@@ -1,14 +1,10 @@
 ---
 import GamesDetailDocument from "~/components/games-detail-document.astro";
 import type { GamesDetailPage } from "~/data/games";
-import { getGamesDetailPage } from "~/data/games";
-import { ownGames } from "~/lib/catalog";
+import { getLocalizedGamesDetailStaticPaths } from "~/data/games";
 
 export function getStaticPaths() {
-  return ownGames.map((game) => ({
-    params: { slug: game.slug },
-    props: { page: getGamesDetailPage("en", game.slug)! },
-  }));
+  return getLocalizedGamesDetailStaticPaths();
 }
 
 const { page } = Astro.props as { page: GamesDetailPage };

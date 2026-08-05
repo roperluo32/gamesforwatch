@@ -1,0 +1,133 @@
+---
+import CatalogShell from "~/components/catalog/catalog-shell.astro";
+import type { GamesDetailPage } from "~/data/games";
+import { getGamesPath } from "~/data/games";
+import { GAMEHUB_APP_STORE_URL } from "~/lib/catalog";
+
+interface Props {
+  page: GamesDetailPage;
+}
+
+const { page } = Astro.props as Props;
+const { game, related, ui } = page;
+---
+
+<CatalogShell
+  title={page.title}
+  description={page.description}
+  path={page.path}
+  ogImage={page.ogImage}
+  langAttr={page.langAttr}
+  ogLocale={page.ogLocale}
+  homePath={page.homePath}
+  gamesPath={page.gamesPath}
+  appsPath={page.appsPath}
+  updatedPath={page.updatedPath}
+  freePath={page.freePath}
+  blogPath={page.blogPath}
+  ui={ui}
+  languages={page.languages}
+  alternatePaths={page.alternatePaths}
+  defaultPath={page.defaultPath}
+  showLanguageSwitcher={true}
+>
+  <article class="mx-auto max-w-7xl px-6 py-12 lg:px-8">
+    <nav class="text-black/45 text-sm">
+      <a class="hover:text-black" href={page.homePath}>{ui.homeLabel}</a>
+      <span class="mx-2">/</span>
+      <a class="hover:text-black" href={page.gamesPath}>{ui.gamesNav}</a>
+      <span class="mx-2">/</span>
+      <span class="text-black/70">{game.title}</span>
+    </nav>
+
+    <div class="mt-8 grid items-start gap-10 lg:grid-cols-[1.1fr_0.9fr]">
+      <div class="border-black/8 overflow-hidden rounded-3xl border bg-white shadow-[0_12px_40px_rgba(15,23,42,0.06)]">
+        {
+          game.preview ? (
+            <img
+              src={game.preview}
+              alt={`${game.title} preview`}
+              class="w-full object-cover"
+            />
+          ) : (
+            <div class="text-black/35 flex aspect-square items-center justify-center">
+              {ui.noPreview}
+            </div>
+          )
+        }
+      </div>
+
+      <div>
+        <div class="flex flex-wrap gap-2">
+          {
+            game.isNew ? (
+              <span class="rounded-full bg-black/[0.06] px-2.5 py-1 text-xs font-medium text-black/70">
+                {ui.badgeNew}
+              </span>
+            ) : null
+          }
+          {
+            game.isVip ? (
+              <span class="rounded-full bg-black/[0.06] px-2.5 py-1 text-xs font-medium text-black/70">
+                {ui.badgeVip}
+              </span>
+            ) : null
+          }
+          {
+            game.isFeatured ? (
+              <span class="rounded-full bg-black px-2.5 py-1 text-xs font-medium text-white">
+                {ui.badgeFeatured}
+              </span>
+            ) : null
+          }
+        </div>
+        <h1 class="mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">
+          {game.title}
+        </h1>
+        <p class="text-black/50 mt-2 text-lg">{game.subtitle}</p>
+        <p class="text-black/70 mt-5 text-base leading-relaxed">{game.description}</p>
+
+        <a
+          href={GAMEHUB_APP_STORE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="mt-8 inline-flex rounded-full border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black transition hover:border-black/20 hover:bg-white/80"
+        >
+          {ui.playCta}
+        </a>
+        <p class="text-black/45 mt-3 text-sm">{ui.playSupport}</p>
+      </div>
+    </div>
+
+    {
+      related.length ? (
+        <section class="mt-16">
+          <h2 class="text-2xl font-semibold tracking-tight">{ui.moreGames}</h2>
+          <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {related.map((item) => (
+              <li>
+                <a
+                  href={getGamesPath(page.locale, item.slug)}
+                  class="border-black/8 flex items-center gap-3 rounded-2xl border bg-white p-3 shadow-sm transition hover:border-black/15 hover:shadow-md"
+                >
+                  {item.preview ? (
+                    <img
+                      src={item.preview}
+                      alt=""
+                      class="h-14 w-14 rounded-xl object-cover"
+                      loading="lazy"
+                    />
+                  ) : null}
+                  <div>
+                    <div class="font-medium">{item.title}</div>
+                    <div class="text-black/45 text-sm">{item.subtitle}</div>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null
+    }
+  </article>
+</CatalogShell>

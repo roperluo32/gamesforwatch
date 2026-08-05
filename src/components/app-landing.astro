@@ -1,6 +1,7 @@
 ---
 import { Icon } from "astro-icon/components";
 import { getArticleIndexPathForLanding } from "~/data/articles";
+import { getGamesIndexPathForLanding } from "~/data/games";
 import { getGuideHubCopy, getGuideResourceCards } from "~/data/guides";
 import type { LandingCopy } from "~/data/landing";
 import IPhoneDevice from "~/components/iphone-device.astro";
@@ -358,6 +359,7 @@ const exploreText = exploreCopyByLang[copy.lang] ?? exploreCopyByLang.en;
 const guideHub = getGuideHubCopy(copy.lang);
 const guideCards = getGuideResourceCards(copy.lang);
 const articleIndexPath = getArticleIndexPathForLanding(copy.lang);
+const gamesIndexPath = getGamesIndexPathForLanding(copy.lang);
 const exploreOwnGames = ownGames.filter((g) => g.preview).slice(0, 2);
 const exploreCatalogApps = getCatalogIndex().slice(0, 3);
 const contactEmail = "monkey20001@126.com";
@@ -695,7 +697,7 @@ const proofIcons = [
           ))
         }
         <a
-          href="/games/"
+          href={gamesIndexPath}
           class="transition hover:text-black"
           data-analytics-event="nav_click"
           data-analytics-id="nav:games"
@@ -964,7 +966,7 @@ const proofIcons = [
 
         <div class="mt-10 grid gap-5 lg:grid-cols-2">
           <a
-            href="/games/"
+            href={gamesIndexPath}
             class="border-black/8 group overflow-hidden rounded-[1.5rem] border bg-white shadow-[0_8px_24px_rgba(15,23,42,0.04)] transition hover:border-black/15 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
             data-analytics-event="nav_click"
             data-analytics-id="explore:games"
@@ -1191,7 +1193,7 @@ const proofIcons = [
     >
       <p>{copy.footer}</p>
       <div class="flex items-center gap-4">
-        <a href="/games/" class="transition hover:text-black">{exploreText.gamesNav}</a>
+        <a href={gamesIndexPath} class="transition hover:text-black">{exploreText.gamesNav}</a>
         <a href="/apps/" class="transition hover:text-black">{exploreText.appsNav}</a>
         <a
           href={copy.appStoreUrl}

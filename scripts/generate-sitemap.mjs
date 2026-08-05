@@ -41,16 +41,28 @@ const staticPaths = [
   "/de/articles/",
   "/de/articles/why-apple-watch-games-work/",
   "/games/",
+  "/zh/games/",
+  "/ja/games/",
+  "/ko/games/",
+  "/fr/games/",
+  "/de/games/",
+  "/es/games/",
+  "/pt/games/",
+  "/ru/games/",
   "/apps/",
   "/apps/updated/",
   "/apps/free/",
 ];
 
+const gamesLocalePrefixes = ["", "/zh", "/ja", "/ko", "/fr", "/de", "/es", "/pt", "/ru"];
+
 function loadOwnGamePaths() {
   const file = path.join(ROOT, "src/data/own-games.json");
   if (!fs.existsSync(file)) return [];
   const data = JSON.parse(fs.readFileSync(file, "utf8"));
-  return (data.games || []).map((g) => `/games/${g.slug}/`);
+  return (data.games || []).flatMap((g) =>
+    gamesLocalePrefixes.map((prefix) => `${prefix}/games/${g.slug}/`),
+  );
 }
 
 function loadAppPaths() {

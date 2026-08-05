@@ -1,0 +1,13 @@
+---
+import GamesListDocument from "~/components/games-list-document.astro";
+import type { GamesListPage } from "~/data/games";
+import { getLocalizedGamesIndexStaticPaths } from "~/data/games";
+
+export function getStaticPaths() {
+  return getLocalizedGamesIndexStaticPaths();
+}
+
+const { page } = Astro.props as { page: GamesListPage };
+---
+
+<GamesListDocument page={page} />
