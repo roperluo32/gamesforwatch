@@ -266,7 +266,13 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/7a/d8/287ad895-0519-32e7-94d0-8e4541ab14d4/3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/e3/dd/aee3dd84-d5b2-715f-61a9-90e8d8231eee/4.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/50/5d/e3505d65-ca1f-08a4-0b6d-4ae43089e4c0/5.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/78/ab/2b78ab6c-bb1b-2eff-6119-93db2945198c/6.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/78/ab/2b78ab6c-bb1b-2eff-6119-93db2945198c/6.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e2/77/1ce27788-8ba4-5bc9-cb45-de9cf049886b/1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/41/8b/e3418b96-762b-a8a3-0f75-fc8e1d10ef03/3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/cd/78/59cd788d-5ddd-c32d-20c4-c2b6978f191f/2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/f1/ed/91f1ed8e-28d7-9034-ff4c-2917cc981fc8/4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/8e/19/4a8e195f-07eb-a94b-412d-0a07e8bd7bb2/5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/e4/0e/cde40ef0-34a3-718f-9459-aba652bdf514/6.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/47/34/40473446-13f5-ef98-2a49-e01376896838/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-05-23_at_16.30.34.png/368x448bb.png",
@@ -290,6 +296,6 @@
       "seenAt": "2026-05-27T17:54:20Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:59:14.971Z",
+  "updatedAt": "2026-08-05T08:56:21.307Z",
   "isOwnApp": false
 }

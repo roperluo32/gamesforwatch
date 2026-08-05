@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Game Box - Games for Watch",
       "description": "【Game Box】 - 53 Offline Games for Apple Watch and iPhone\n\nGame Box is a premium casual game collection built for quick play on Apple Watch and deeper sessions on iPhone. Enjoy offline puzzle games, arcade classics, brain training, board games, card games, runners and relaxing time killers in one compact app.\n\nWhy players love Game Box:\n• 53 games in one app, from Sudoku and 2048 to Snooker and Kitty Sudoku.\n• Works offline, no Wi-Fi or internet required.\n• Optimized for Apple Watch and iPhone, with smooth touch and Digital Crown controls where they fit best.\n• Game Center leaderboards for selected games on both iPhone and Apple Watch.\n• VIP unlocks the full collection and removes ads for uninterrupted play.\n\nAll games included\n• Puzzle & Logic: Sudoku, Kitty Sudoku, Number Slide 2048, Number Puzzle, Number Connect, Number Merge, One Stroke, Sokoban, Water Sort, Maze Escape, Minesweeper, Arrow Puzzle, Hexa Away\n• Casual & Match: Mahjong Solitaire, Fruit Pop, Star Pop, Link Link, Block Blast, Sand Blast, Tap Match, Bubble Shooter, Animal Merge, Drop Number\n• Arcade & Action: Pacman, Snake, Spherical Snake, Tetris, Breakout, Dino Run, Flight Rush, Ski Adventure, Jump Alien, Circle Jump, Bounce, Bridge Cross, Jump Jump, Tower Stack, Ball Run, Last Stand\n• Board, Card & Sports: Tic Tac Toe, Gomoku, Reversi, Chinese Chess, Chess, Jungle Chess, Landlords, Billiards, Snooker, Spider Solitaire\n• Unique Fun: Gold Miner, Electronic Wooden Fish, Air Gun\n\nPerfect for commuting, waiting in line, short breaks, bedtime relaxation, and any moment when you want a quick game that is easy to start and satisfying to master.\n\nPrivacy Policy: https://sites.google.com/view/gamebox--privacy-policy\nTerms of Service: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nContact: i@ztyuu.com",
-      "releaseNotes": "Added a new game: Cross Road. Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "trackViewUrl": "https://apps.apple.com/us/app/game-box-games-for-watch/id6741334696?uo=4",
       "formattedPrice": "Free",
       "sellerName": "太宇 左",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "游戏盒子 - 手表游戏",
       "description": "【Game Box】- Apple Watch 与 iPhone 的 53 款离线游戏合集\n\nGame Box 是专为 Apple Watch 和 iPhone 打造的精品休闲游戏盒子。这里有益智解谜、消除合成、街机动作、棋类牌类、运动对战和解压小工具，适合通勤、排队、休息和睡前随时开一局。\n\n为什么选择 Game Box：\n• 53 款游戏集合，从 2048、数独到斯诺克、猫咪数独一应俱全。\n• 支持离线游玩，无需 Wi-Fi 或网络。\n• 同时适配 Apple Watch 和 iPhone，手表端针对触控与数码表冠优化。\n• 部分游戏支持 iPhone 与 Apple Watch 的 Game Center 排行榜。\n• VIP 可解锁完整游戏库并享受无广告体验。\n\n完整游戏列表\n• 益智逻辑: 数独、猫咪数独、数字滑块、数字华容道、数字连接、数字合成、一笔画、推箱子、水排序、迷宫逃脱、扫雷、箭头谜题、六角消除\n• 休闲消除: 麻将连连看、水果消消、星星消除、连连看、方块消除、沙子消消、点击匹配、泡泡龙、动物合成、掉落数字\n• 动作街机: 吃豆人、贪吃蛇、球球贪吃蛇、俄罗斯方块、弹弹球、恐龙跑酷、飞行冲刺、滑雪大冒险、跳跳外星人、跳圈圈、动物弹球、小人过桥、跳一跳、堆叠高塔、球球跑酷、最后防线\n• 棋类牌类与运动: 井字棋、五子棋、黑白棋、中国象棋、国际象棋、斗兽棋、斗地主、台球、斯诺克、蜘蛛纸牌\n• 特色玩法: 黄金矿工、电子木鱼、空气枪\n\n无论是碎片时间、地铁通勤、工作间隙、排队等待，还是睡前放松，Game Box 都能提供轻量、有趣、耐玩的随身游戏体验。\n\n隐私政策：https://sites.google.com/view/gamebox--privacy-policy\n服务条款：https://sites.google.com/view/gamebox-terms-of-service\nApple EULA：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n联系我们：i@ztyuu.com",
-      "releaseNotes": "新增游戏：小人过马路。修复已知问题并优化稳定性与游戏体验。遇到问题或有建议？请前往「设置」→「联系我们」反馈。",
+      "releaseNotes": "修复已知问题并优化稳定性与游戏体验。遇到问题或有建议？请前往「设置」→「联系我们」反馈。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B8%B8%E6%88%8F%E7%9B%92%E5%AD%90-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6741334696?uo=4",
       "formattedPrice": "免费",
       "sellerName": "太宇 左",
@@ -51,7 +51,7 @@
     "ja": {
       "trackName": "Game Box - 腕時計ゲーム集",
       "description": "【Game Box】Apple Watch と iPhone のための53種類のオフラインゲーム集\n\nGame Box は、Apple Watch での短時間プレイと iPhone でのじっくりプレイの両方に向けたカジュアルゲームコレクションです。パズル、脳トレ、アーケード、ボードゲーム、カードゲーム、ランゲーム、リラックス系ゲームを1つのアプリで楽しめます。\n\nGame Box の魅力：\n• 2048、数独、スヌーカー、ねこ数独まで、53種類のゲームを収録。\n• オフライン対応。Wi-Fi やインターネットがなくても遊べます。\n• Apple Watch と iPhone の両方に最適化。手首でもスマホでも快適に操作できます。\n• 一部ゲームは iPhone と Apple Watch の Game Center ランキングに対応。\n• VIP で全ゲームをアンロックし、広告なしで楽しめます。\n\n収録ゲーム一覧\n• パズル＆ロジック: 数独、ねこ数独、ナンバースライド2048、数字パズル、数字接続、ナンバーマージ、一筆書き、SOKOBAN、水ソート、迷路脱出、マインスイーパ、矢印パズル、ヘキサアウェイ\n• カジュアル＆マッチ: 麻雀ソリティア、フルーツポップ、スターポップ、リンクリンク、ブロックブラスト、サンドブラスト、タップマッチ、バブルシューター、動物合成、ドロップナンバー\n• アーケード＆アクション: パックマン、スネーク、球体スネーク、テトリス、ブロックブライク、ディノラン、フライトラッシュ、スキー大冒険、ジャンプエイリアン、サルコジャンプ、ボンブ、ブリッジクロス、ジャンプジャンプ、タワースタック、ボールラン、最後の砦\n• ボード・カード・スポーツ: ○×ゲーム、五子棋、リバーシ、中国将棋、チェス、ジャングルチェス、ドウジジュ、ビリヤード、スヌーカー、スパイダーソリティア\n• ユニーク: 黄金礦夫、電子木魚、空気銃\n\n通勤、待ち時間、短い休憩、寝る前のリラックスなど、すぐ始められて何度も遊びたくなるミニゲームにぴったりです。\n\nプライバシーポリシー: https://sites.google.com/view/gamebox--privacy-policy\n利用規約: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nお問い合わせ: i@ztyuu.com",
-      "releaseNotes": "新しいゲーム「みんなで横断」を追加しました。既知の問題を修正し、安定性とゲーム体験を改善しました。問題やご意見がある場合は、設定 → お問い合わせ からお知らせください。",
+      "releaseNotes": "既知の問題を修正し、安定性とプレイ体験を改善しました。問題やご意見がある場合は、「設定」→「お問い合わせ」からお送りください。",
       "trackViewUrl": "https://apps.apple.com/jp/app/game-box-%E8%85%95%E6%99%82%E8%A8%88%E3%82%B2%E3%83%BC%E3%83%A0%E9%9B%86/id6741334696?uo=4",
       "formattedPrice": "無料",
       "sellerName": "太宇 左",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "Game Box - Watch Spiele",
       "description": "【Game Box】 - 53 Offline-Spiele für Apple Watch und iPhone\n\nGame Box bündelt Casual Games, Puzzles, Arcade-Klassiker, Denkspiele, Brettspiele, Kartenspiele und Action-Herausforderungen für kurze Runden auf der Apple Watch und längere Sessions auf dem iPhone.\n\nWarum Game Box:\n• 53 Spiele in einer App, von Sudoku und 2048 bis Snooker und Kitty Sudoku.\n• Offline spielbar, ohne WLAN oder Internet.\n• Optimiert für Apple Watch und iPhone.\n• Game Center-Bestenlisten für ausgewählte Spiele.\n• VIP schaltet die gesamte Sammlung frei und entfernt Werbung.\n\nAlle enthaltenen Spiele\n• Puzzle & Logic: Sudoku, Kitty Sudoku, Number Slide 2048, Number Puzzle, Number Connect, Number Merge, One Stroke, Sokoban, Water Sort, Maze Escape, Minesweeper, Arrow Puzzle, Hexa Away\n• Casual & Match: Mahjong Solitaire, Fruit Pop, Star Pop, Link Link, Block Blast, Sand Blast, Tap Match, Bubble Shooter, Animal Merge, Drop Number\n• Arcade & Action: Pacman, Snake, Spherical Snake, Tetris, Breakout, Dino Run, Flight Rush, Ski Adventure, Jump Alien, Circle Jump, Bounce, Bridge Cross, Jump Jump, Tower Stack, Ball Run, Last Stand\n• Board, Card & Sports: Tic Tac Toe, Gomoku, Reversi, Chinese Chess, Chess, Jungle Chess, Landlords, Billiards, Snooker, Spider Solitaire\n• Unique Fun: Gold Miner, Electronic Wooden Fish, Air Gun\n\nIdeal für Pendeln, Wartezeiten, kurze Pausen und entspannte Momente vor dem Schlafengehen.\n\nDatenschutz: https://sites.google.com/view/gamebox--privacy-policy\nNutzungsbedingungen: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nKontakt: i@ztyuu.com",
-      "releaseNotes": "Neues Spiel: Straßenquerung. Bekannte Probleme wurden behoben und Stabilität sowie Spielerlebnis verbessert. Feedback? Gehe zu Einstellungen → Kontakt.",
+      "releaseNotes": "Bekannte Probleme wurden behoben, Stabilität und Spielerlebnis wurden verbessert. Bei Problemen oder Feedback gehe zu Einstellungen → Kontakt.",
       "trackViewUrl": "https://apps.apple.com/de/app/game-box-watch-spiele/id6741334696?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "太宇 左",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/fb/23/91fb23e4-411e-c33c-0287-38f1de8807e7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d9/93/09d993cf-0402-82d4-3271-0a3c90845954/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.69564,
   "userRatingCount": 46,
   "price": 0,
-  "fileSizeBytes": "127679488",
+  "fileSizeBytes": "127749120",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "16.0",
-  "version": "2.5.3",
-  "currentVersionReleaseDate": "2026-07-28T05:03:24Z",
+  "version": "2.5.4",
+  "currentVersionReleaseDate": "2026-08-05T02:14:06Z",
   "releaseDate": "2025-02-04T08:00:00Z",
   "artistId": 1545635894,
   "artistName": "太宇 左",
@@ -408,8 +408,13 @@
       "version": "2.5.3",
       "releaseNotes": "Added a new game: Cross Road. Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "seenAt": "2026-07-28T05:03:24Z"
+    },
+    {
+      "version": "2.5.4",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-08-05T02:14:06Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:57:17.066Z",
+  "updatedAt": "2026-08-05T08:52:59.121Z",
   "isOwnApp": false
 }

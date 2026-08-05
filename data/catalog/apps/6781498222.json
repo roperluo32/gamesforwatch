@@ -259,7 +259,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/73/80/b8738057-b3b0-d892-7e3b-f7e0e39e7e01/01-companion.png/1290x2796bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/85/dd/da85dd34-ad0e-57e5-25eb-191bd6b2ad73/01-companion.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/73/ac/7973ac30-4dae-1eaf-316b-ca83374db934/01-companion.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c4/7c/d4c47ca4-51fb-ede9-147f-dd457c9da4d3/01-companion.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c4/7c/d4c47ca4-51fb-ede9-147f-dd457c9da4d3/01-companion.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/73/80/b8738057-b3b0-d892-7e3b-f7e0e39e7e01/01-companion.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/d2/4c/84d24c1c-14a5-f6ab-2372-100ae377fa0f/01-arcade-on-wrist.png/416x496bb.png",
@@ -289,6 +290,6 @@
       "seenAt": "2026-07-11T06:20:11Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:59:10.176Z",
+  "updatedAt": "2026-08-05T09:03:41.945Z",
   "isOwnApp": false
 }

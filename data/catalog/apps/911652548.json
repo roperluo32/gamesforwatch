@@ -1,0 +1,403 @@
+{
+  "trackId": "911652548",
+  "bundleId": "jp.co.yuye.battleshiptactics",
+  "slug": "space-battle-ship-daisakusen",
+  "path": "/apps/911652548-space-battle-ship-daisakusen/",
+  "locales": {
+    "en": {
+      "trackName": "Space Battle Ship Daisakusen",
+      "description": "A sci-fi adventure game where you leave instructions and wait for your return\nIt was supposed to be a simple job, just give orders and wait...\n\n※※※The characters and organizations that appear in this game are all fictional. It has nothing to do with real people, organizations, etc.※※※\n\n—————The story begins with the establishment of a satellite branch base for the Galactic Confederation on a rural planet in the corner of the galaxy.\nThe main character graduated from the military academy and is assigned there with the title of acting base commander.\n\nYou must set up this base, dispatch space battleships to various crimes, conflicts, and battlefields, and proceed with the story while solving problems.\n\nHowever, there was not even a single soldier and single warship in the new base. From now on, the new acting  commander's lone struggle begins—————\n\nThis game is free to play but contains ads. It requires regular network access, but also supports offline operation for a period of time.\n(Ads can be removed by paying, but regular access to the network is required to acquire time)\n\nWe will sell in-game items for in-app purchases, but we are making it so that you can clear it without paying if you take your time.\n\nThere is a possibility that the game balance will be adjusted due to the version upgrade. There is a level cap, but the upper limit will increase as the story progresses in the future.\n\nPlease note that equipment strength and skills are subject to additions and changes.\n\n————————————————————————\n\nThis app has a subscription-type billing item \"Army Headquarters Registration Direct Control Service\". (You can play without registering)\nPrice: $0.49, renewal period 7 days\n\nA service subscription allows you to continue to receive equal or better service without the purchase of some non-consumable items.\n\nSubscription-type billing is charged to the account (Apple ID) at the time of item purchase, and then automatically billed every week.\n\nYou can stop at any time from Settings app->AppleID->\"Media & Purchases\", but the service will continue for the duration of the active period.\n\nYour subscription will automatically renew unless canceled at least 24 hours before the expiration date. The purchased account will be charged within 24 hours prior to the end of the subscription.\n\nFor privacy policy, please visit the following site.\nhttps://yuye.co.jp/policy_en.html\n\nFor software license agreement, please refer to the following site.\nhttps://yuye.co.jp/terms_of_use_en.html",
+      "releaseNotes": "--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.21--\nNow supports iOS26.\nMinor bug fixes.\n\n--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
+      "trackViewUrl": "https://apps.apple.com/us/app/space-battle-ship-daisakusen/id911652548?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "YUYE.CO",
+      "genres": [
+        "Games",
+        "Strategy",
+        "Entertainment",
+        "Adventure"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": "SF story text adventure game"
+    },
+    "ja": {
+      "trackName": "宇宙戦艦大作戦",
+      "description": "指示出し放置＆帰還待ち型のSFアドベンチャーゲーム\n命令してあとは待つだけの、簡単なお仕事のはずだったんですけど…\n\n※※※本ゲームに登場する人物、団体等は全てフィクションです。実在する人物、団体等とは一切関係がありません※※※\n\n—————銀河の片隅の田舎惑星に、銀河連合軍の衛星支部基地設営から物語は始まります。\n主人公は士官学校出立ての、基地司令官代理という肩書きでそこへと赴任してきます。\n\nあなたはこの基地をもり立てて、様々な犯罪や紛争、戦地へと宇宙戦艦を派遣し、問題を解決しながら物語を進めていかなければなりません。\n\nところが新造基地には、一隻の軍艦どころか、乗組員の兵士さえ一人も居ませんでした。これから新米司令官代理の孤軍奮闘が始まります—————\n\nこのゲームは無料でプレーできますが、広告が表示されます。定期的なネットワークへのアクセスが必要ですが、一定時間はオフラインでの動作もサポートしています。\n（課金することで広告を外せますが、定期的なネットワークへのアクセスは時間取得のために必要です）\n\nアプリ内課金によるゲーム内アイテムを販売しますが、課金無しでも時間をかければクリアできるように作成しています。\n\nバージョンアップによりゲームバランスの調整が入る可能性があります。レベルキャップはありますが、今後のストーリーの進展により上限が上がります。\n\n装備の強さやスキルは追加、変更がありますので、その旨ご了承ください。\n\n————————————————————————\n\n本アプリには購読型課金アイテム「軍本部登録直轄サービス」があります。(登録しなくても遊べます)\n価格:50円,更新期間7日間\n\nサービス購読により、一部の非消費型アイテムを購入しなくても同等以上のサービスを継続的に受けられるようになります。\n\n購読型課金はアイテム購入時のiTunesアカウントへ課金され、その後一週間ごとに自動課金されます。\n\n設定アプリ->iTunes StoreとApp Store（アカウント設定）からいつでも停止できますが、有効な期間中までサービスは続きます。\n\n購読期限の24時間前までに停止しなければ自動的に更新されます。その際購入したアカウントに対して購読が終了する前の24時間以内に請求されます。\n\nプライバシーポリシーについては、以下のサイトをご覧ください。\nhttps://yuye.co.jp/policy.html\n\nソフトウェア使用許諾については、以下のサイトをご覧ください。\nhttps://yuye.co.jp/terms_of_use.html",
+      "releaseNotes": "--2.2.20--\n誤字脱字修正。マイナーバグ修正。\n\n--2.2.21--\niOS26対応です。\niPadの表示崩れを修正。\n\n--2.2.20--\n誤字脱字修正。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%87%E5%AE%99%E6%88%A6%E8%89%A6%E5%A4%A7%E4%BD%9C%E6%88%A6/id911652548?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "YUYE.CO",
+      "genres": [
+        "ゲーム",
+        "ストラテジー",
+        "エンターテインメント",
+        "アドベンチャー"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Space Battle Ship Daisakusen",
+      "description": "A sci-fi adventure game where you leave instructions and wait for your return\nIt was supposed to be a simple job, just give orders and wait...\n\n※※※The characters and organizations that appear in this game are all fictional. It has nothing to do with real people, organizations, etc.※※※\n\n—————The story begins with the establishment of a satellite branch base for the Galactic Confederation on a rural planet in the corner of the galaxy.\nThe main character graduated from the military academy and is assigned there with the title of acting base commander.\n\nYou must set up this base, dispatch space battleships to various crimes, conflicts, and battlefields, and proceed with the story while solving problems.\n\nHowever, there was not even a single soldier and single warship in the new base. From now on, the new acting  commander's lone struggle begins—————\n\nThis game is free to play but contains ads. It requires regular network access, but also supports offline operation for a period of time.\n(Ads can be removed by paying, but regular access to the network is required to acquire time)\n\nWe will sell in-game items for in-app purchases, but we are making it so that you can clear it without paying if you take your time.\n\nThere is a possibility that the game balance will be adjusted due to the version upgrade. There is a level cap, but the upper limit will increase as the story progresses in the future.\n\nPlease note that equipment strength and skills are subject to additions and changes.\n\n————————————————————————\n\nThis app has a subscription-type billing item \"Army Headquarters Registration Direct Control Service\". (You can play without registering)\nPrice: $0.49, renewal period 7 days\n\nA service subscription allows you to continue to receive equal or better service without the purchase of some non-consumable items.\n\nSubscription-type billing is charged to the account (Apple ID) at the time of item purchase, and then automatically billed every week.\n\nYou can stop at any time from Settings app->AppleID->\"Media & Purchases\", but the service will continue for the duration of the active period.\n\nYour subscription will automatically renew unless canceled at least 24 hours before the expiration date. The purchased account will be charged within 24 hours prior to the end of the subscription.\n\nFor privacy policy, please visit the following site.\nhttps://yuye.co.jp/policy_en.html\n\nFor software license agreement, please refer to the following site.\nhttps://yuye.co.jp/terms_of_use_en.html",
+      "releaseNotes": "--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.21--\nNow supports iOS26.\nMinor bug fixes.\n\n--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
+      "trackViewUrl": "https://apps.apple.com/de/app/space-battle-ship-daisakusen/id911652548?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "YUYE.CO",
+      "genres": [
+        "Spiele",
+        "Strategie",
+        "Unterhaltung",
+        "Abenteuer"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/4f/be/464fbe35-f7b5-65d2-2550-f699cb3c924b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4,
+  "userRatingCount": 1,
+  "price": 0,
+  "fileSizeBytes": "28910592",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "11.0",
+  "version": "2.2.22",
+  "currentVersionReleaseDate": "2026-05-01T13:29:47Z",
+  "releaseDate": "2014-09-12T18:07:56Z",
+  "artistId": 911652551,
+  "artistName": "株式会社ゆゑ",
+  "artistViewUrl": "https://apps.apple.com/de/developer/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%86%E3%82%91/id911652551?uo=4",
+  "sellerUrl": "https://bst.yuye.co.jp/",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/d9/ff/4ad9ff0a-f9b8-3f84-88ae-f871e2f2f582/327eaa04-1a6f-478b-b998-1cdaa8687899_s1_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/c3/58/0fc358a3-e13b-6c7d-0e3d-186244ef7846/ae67ee89-34dd-4a01-9437-ee7400af8504_s2_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/34/87/5c34870d-acf9-6d66-3fc7-46e61b8de698/91e59eb1-71f3-4f1a-96d0-460ddeef6b42_s3_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/ab/c4/7babc45a-24a4-2ddc-4116-5b22fa2cd7ee/7d8c0643-dc94-4fe6-b472-f931ae793ca8_s4_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/11/a9/b811a9ab-44cd-bd1d-b0fd-e8ef58d8e2d0/3e4e097a-3836-4c3a-84db-2c49ecad94f6_s5_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/83/a7/8483a79a-49a8-9832-b7b1-cf5dcf006f74/3f119160-7b4b-40c1-a2fb-78d47c73bf8a_s6_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/ed/8c/cced8c16-73b0-d317-ce8f-f60788c67e71/2da563b0-0f4f-47ad-bc5c-0323e10e8f52_s7_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/31/f1/ab31f1d1-0f0f-525f-6727-94a953fc578f/05f4e456-b33a-42e3-ab05-92bebbdb570a_s1_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/36/f4/7436f405-8ad1-81e7-70aa-5a2d5e64be43/a8e11a4e-b571-4d2b-bf58-d2dd55ec624b_s2_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/5a/83/da5a8354-a2e6-87ae-16b2-40fe4c1eac91/c8903583-ca49-4c58-9d9d-c1bc96c39164_s3_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/ef/64/deef6499-cf92-37ab-4598-84849724918b/8cb16605-e070-47d8-8175-2518679064bb_s4_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/bd/b6/41bdb6fa-fa1f-4c87-2161-f5b5d718dad9/947b68a7-68aa-48c0-a77b-9c4e4630a23d_s5_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/23/21/1623216c-30d6-bdc0-e5c0-1fc967c34186/529ea722-90fc-45fe-addd-88d36f907d99_s6_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/63/b7/4563b714-77b3-5253-c3ee-8741fa5a67c5/6fb9d23c-d86f-4490-89fd-62b3b73c70e2_s7_ipad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/2f/86/092f864f-94b6-e126-f79b-6c250a2d7f42/0b642db8-d8ec-42ff-a78f-0d8b38a0a3fc_s1_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/20/a3/5020a352-bc72-b226-4f5f-073c7545e123/a7c9bf22-7ccb-4fdf-9ea8-9064d2b38dfd_s2_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/59/cc/c159cc69-8afe-af0e-3d93-67585302d60e/e7bbb077-14f8-4cec-a016-9bfda070f5db_s3_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/ee/de/daeede25-e1d6-a634-f48a-c9bb1bc6ef23/4e04bae3-9251-4633-940e-41e561bb4b00_s4_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fd/51/e4fd51b7-4668-d6df-bc32-5fd7ee5a2764/d47da691-78dd-4fe7-9dc7-13700f3d1e88_s5_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/46/70/0e46706a-357e-64c5-c12d-a4b9af1411e3/97c851c8-9ea5-47c0-99e5-0ceeb44aaa8c_s6_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/61/8c/1e618c21-908d-5994-6b12-9c413a7b0624/6fe11808-8f75-4b9e-93f2-4e8e39f70709_s7_5_5.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4e/15/ab4e1520-959f-968e-7e50-0d71a1504f8e/7dc723ec-32c0-44d1-921e-5e8bc6ca2bb5_s1_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/f4/ee/0cf4ee7f-e3ae-1981-6563-beb8202b3edd/7fb15095-1040-47fa-801f-d336627c2e22_s2_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/c3/ef/31c3ef27-a68f-682e-5890-ffc72c3bebe3/9607c731-776e-4c4e-b286-e2616f4af7a7_s3_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/2b/19/602b19b5-a2b9-845d-b803-a167888d33b6/9b4edb91-2862-49c8-9e7a-05a0d6e99a27_s4_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/61/eb/e461eb0e-8c5c-edee-08c4-17a19a11490c/91a31ec7-6fca-467b-b9f9-d27a2682b788_s5_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/01/b7/a201b729-5bab-9ffb-8341-22c79740f807/70e33feb-550f-4488-894d-76f93c0ed3f9_s6_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/52/92/de5292e4-4149-2a39-6687-ca89dbf4a023/4fbdeea9-fb69-41a5-82d1-92a6a19018cf_s7_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/2f/86/092f864f-94b6-e126-f79b-6c250a2d7f42/0b642db8-d8ec-42ff-a78f-0d8b38a0a3fc_s1_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/20/a3/5020a352-bc72-b226-4f5f-073c7545e123/a7c9bf22-7ccb-4fdf-9ea8-9064d2b38dfd_s2_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/59/cc/c159cc69-8afe-af0e-3d93-67585302d60e/e7bbb077-14f8-4cec-a016-9bfda070f5db_s3_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/ee/de/daeede25-e1d6-a634-f48a-c9bb1bc6ef23/4e04bae3-9251-4633-940e-41e561bb4b00_s4_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/fd/51/e4fd51b7-4668-d6df-bc32-5fd7ee5a2764/d47da691-78dd-4fe7-9dc7-13700f3d1e88_s5_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/46/70/0e46706a-357e-64c5-c12d-a4b9af1411e3/97c851c8-9ea5-47c0-99e5-0ceeb44aaa8c_s6_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/61/8c/1e618c21-908d-5994-6b12-9c413a7b0624/6fe11808-8f75-4b9e-93f2-4e8e39f70709_s7_5_5.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/d9/ff/4ad9ff0a-f9b8-3f84-88ae-f871e2f2f582/327eaa04-1a6f-478b-b998-1cdaa8687899_s1_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/c3/58/0fc358a3-e13b-6c7d-0e3d-186244ef7846/ae67ee89-34dd-4a01-9437-ee7400af8504_s2_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/34/87/5c34870d-acf9-6d66-3fc7-46e61b8de698/91e59eb1-71f3-4f1a-96d0-460ddeef6b42_s3_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/ab/c4/7babc45a-24a4-2ddc-4116-5b22fa2cd7ee/7d8c0643-dc94-4fe6-b472-f931ae793ca8_s4_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/11/a9/b811a9ab-44cd-bd1d-b0fd-e8ef58d8e2d0/3e4e097a-3836-4c3a-84db-2c49ecad94f6_s5_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/83/a7/8483a79a-49a8-9832-b7b1-cf5dcf006f74/3f119160-7b4b-40c1-a2fb-78d47c73bf8a_s6_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/ed/8c/cced8c16-73b0-d317-ce8f-f60788c67e71/2da563b0-0f4f-47ad-bc5c-0323e10e8f52_s7_ipad.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/5a/d5/355ad538-3aff-8334-7362-9288da0e86a0/mzl.lqrokfss.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ed/d9/84edd9f5-60bc-1fb9-68df-844a84552b09/mzl.esnppwji.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f5/92/3ff59271-a6c8-340a-404b-f52927bba0ad/mzl.bhmgoxvs.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f0/7e/d2f07ecc-6357-383d-fd7d-e4d177a9d734/mzl.dnvljzbo.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/cb/0f81cb30-b314-d0cc-7673-d352a9312c8a/mzl.kzohaovd.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/16/bf/9316bfeb-711a-800b-b9bb-61b8e81be41c/mzl.ivctazqi.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/90/34/a3903457-45b1-d754-68be-a1240ca2e351/mzl.nwdilhqo.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e4/bc/a3e4bc05-b52e-22dc-cb8a-4fc90172913f/mzl.qybgxsgt.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/6e/11/396e11fa-e0b8-cb18-b4f5-d65fed0d6c84/mzl.ritncqhu.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2d/31/6f2d31b9-88e8-f609-cc19-22099db1850a/mzl.jjramlht.jpg/576x768bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/22/d4/8922d44c-5d64-c2a4-04b7-db9598818dd6/c4371271-2983-4a59-9871-a97cec3cc1cd_app-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/cf/17/77cf1784-8bb9-6d5c-810d-63380a78d3c8/a5aa02fc-70a6-4006-b379-3fb75c7b706f_widget-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/49/3e/25493e26-011b-a2d0-57d6-a942b192e6ac/d7b32291-f9f9-4bf7-8a0c-bee281922c23_recm-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/3b/c4/ca3bc463-5116-12cf-d85e-417fb7c21eb1/8d92e8aa-e26a-44ef-bfd3-d7cc41b9c9f6_cmpl1-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/3f/f0/f73ff0d2-c238-7ffa-6514-804b5e9939c0/e1fce905-7eac-42e6-8a33-70ca6bec89a5_cmpl2-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/ed/79/52ed7918-75ab-d4cf-327d-e9dec2860c33/5b3f95eb-2bfc-40ee-8dfb-294d0800eca1_cmpl3-en.PNG/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/33/58/b63358e8-8460-9080-cace-f5552b2c2d74/8a27e8ba-e033-4a58-a519-0cdbe1101793_ultra-en.PNG/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "2.1",
+      "releaseNotes": "",
+      "seenAt": "2019-09-16T23:04:07Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "",
+      "seenAt": "2020-02-15T02:32:16Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "",
+      "seenAt": "2021-04-15T23:33:57Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "",
+      "seenAt": "2021-04-20T23:29:15Z"
+    },
+    {
+      "version": "2.2.2",
+      "releaseNotes": "",
+      "seenAt": "2021-09-08T00:50:10Z"
+    },
+    {
+      "version": "2.2.3",
+      "releaseNotes": "",
+      "seenAt": "2021-09-28T00:39:12Z"
+    },
+    {
+      "version": "2.2.4",
+      "releaseNotes": "",
+      "seenAt": "2022-03-10T23:58:55Z"
+    },
+    {
+      "version": "2.2.5",
+      "releaseNotes": "",
+      "seenAt": "2022-10-17T00:38:12Z"
+    },
+    {
+      "version": "2.2.6",
+      "releaseNotes": "",
+      "seenAt": "2022-11-30T00:49:27Z"
+    },
+    {
+      "version": "2.2.7",
+      "releaseNotes": "The UI and up to the first half of the inner planet scenario have been localized.\nMore translations will be added in the future.",
+      "seenAt": "2023-02-18T22:49:09Z"
+    },
+    {
+      "version": "2.2.8",
+      "releaseNotes": "Added translations of scenarios and stages.\nMore translations will be added in the future.\n",
+      "seenAt": "2023-03-18T23:04:48Z"
+    },
+    {
+      "version": "2.2.9",
+      "releaseNotes": "Added translations of scenarios and stages.\nMore translations will be added in the future.\n",
+      "seenAt": "2023-05-08T21:58:07Z"
+    },
+    {
+      "version": "2.2.10",
+      "releaseNotes": "Compatible with iPhone15 and iOS17.",
+      "seenAt": "2023-09-18T23:06:42Z"
+    },
+    {
+      "version": "2.2.11",
+      "releaseNotes": "AppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.",
+      "seenAt": "2024-04-29T00:17:36Z"
+    },
+    {
+      "version": "2.2.12",
+      "releaseNotes": "--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.",
+      "seenAt": "2024-05-30T05:06:37Z"
+    },
+    {
+      "version": "2.2.13",
+      "releaseNotes": "--2.2.13--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n",
+      "seenAt": "2024-06-21T02:44:06Z"
+    },
+    {
+      "version": "2.2.14",
+      "releaseNotes": "--2.2.14--\nImproved and added translations\n\n--2.2.13--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n",
+      "seenAt": "2024-07-17T01:29:53Z"
+    },
+    {
+      "version": "2.2.15",
+      "releaseNotes": "--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n\n",
+      "seenAt": "2024-08-10T01:39:49Z"
+    },
+    {
+      "version": "2.2.16",
+      "releaseNotes": "--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n",
+      "seenAt": "2024-09-24T21:48:52Z"
+    },
+    {
+      "version": "2.2.17",
+      "releaseNotes": "--2.2.17--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n",
+      "seenAt": "2024-11-22T22:46:56Z"
+    },
+    {
+      "version": "2.2.18",
+      "releaseNotes": "--2.2.18--\nScenarios and battle stages , translation improvements and additions.\nFixed a crash that occurred during scenario progression.\nFixed an issue where support emails could not be sent.\n\n--2.2.17--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n",
+      "seenAt": "2025-04-01T10:04:22Z"
+    },
+    {
+      "version": "2.2.19",
+      "releaseNotes": "--2.2.19--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.18--\nScenarios and battle stages , translation improvements and additions.\nFixed a crash that occurred during scenario progression.\nFixed an issue where support emails could not be sent.\n\n--2.2.17--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n\n",
+      "seenAt": "2025-05-15T22:26:00Z"
+    },
+    {
+      "version": "2.2.20",
+      "releaseNotes": "--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.19--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.18--\nScenarios and battle stages , translation improvements and additions.\nFixed a crash that occurred during scenario progression.\nFixed an issue where support emails could not be sent.\n\n--2.2.17--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n\n",
+      "seenAt": "2025-09-09T03:10:26Z"
+    },
+    {
+      "version": "2.2.21",
+      "releaseNotes": "--2.2.21--\nNow supports iOS26.\nMinor bug fixes.\n\n--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.19--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.18--\nScenarios and battle stages , translation improvements and additions.\nFixed a crash that occurred during scenario progression.\nFixed an issue where support emails could not be sent.\n\n--2.2.17--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.16--\nNow supports iOS18.\nThe old widget will no longer be displayed. Please use the new widget.\nScenarios and battle stages , translation additions.\n\n--2.2.15--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.14--\nImproved and added translations,\n\n--2.2.13〜15--\nFixed typos, improved and added translations\n\n--2.2.12--\nFixed a bug in the AppleWatch application\n\n--2.2.11--\nAppleWatch can now receive notifications from satellite orbital bases!\n\nRequires WatchOS 10 or higher.\n\n\n\n",
+      "seenAt": "2025-09-25T06:41:30Z"
+    },
+    {
+      "version": "2.2.22",
+      "releaseNotes": "--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.21--\nNow supports iOS26.\nMinor bug fixes.\n\n--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n",
+      "seenAt": "2026-05-01T13:29:47Z"
+    }
+  ],
+  "updatedAt": "2026-08-05T09:28:36.638Z",
+  "isOwnApp": false
+}

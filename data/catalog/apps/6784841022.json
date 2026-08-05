@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/76/c8/1576c8a1-447e-60d6-d296-1040777f770a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fb/a1/bafba12d-5710-65c5-14bb-3e9f7baa29cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "26848256",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "2.5",
-  "currentVersionReleaseDate": "2026-07-23T21:12:29Z",
+  "version": "2.6",
+  "currentVersionReleaseDate": "2026-08-04T19:55:20Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -270,8 +270,13 @@
       "version": "2.5",
       "releaseNotes": "- More informative displays have been developed for the in-game store and main screen.\n- Performance improvements and display enhancements have been implemented.",
       "seenAt": "2026-07-23T21:12:29Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "- More informative displays have been developed for the in-game store and main screen.\n- Performance improvements and display enhancements have been implemented.",
+      "seenAt": "2026-08-04T19:55:20Z"
     }
   ],
-  "updatedAt": "2026-08-04T09:29:21.524Z",
+  "updatedAt": "2026-08-05T09:26:09.767Z",
   "isOwnApp": false
 }

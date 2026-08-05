@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Board",
-        "Family",
-        "Entertainment"
+        "Entertainment",
+        "Family"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "游戏",
         "桌面",
-        "家庭聚会",
-        "娱乐"
+        "娱乐",
+        "家庭聚会"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "ゲーム",
         "ボード",
-        "ファミリー",
-        "エンターテインメント"
+        "エンターテインメント",
+        "ファミリー"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Brettspiele",
-        "Familie",
-        "Unterhaltung"
+        "Unterhaltung",
+        "Familie"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -282,6 +282,6 @@
       "seenAt": "2025-11-11T22:42:59Z"
     }
   ],
-  "updatedAt": "2026-08-04T09:01:55.654Z",
+  "updatedAt": "2026-08-05T08:59:12.347Z",
   "isOwnApp": false
 }

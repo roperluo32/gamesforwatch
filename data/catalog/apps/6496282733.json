@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/27/02/7a270258-6998-a658-e560-465c3a77bad8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.91504,
-  "userRatingCount": 565,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/34/62/28346277-3793-c176-3dca-11bcb3d558a7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.91519,
+  "userRatingCount": 566,
   "price": 1.99,
-  "fileSizeBytes": "67325952",
+  "fileSizeBytes": "67144704",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.5",
-  "version": "1.10.2",
-  "currentVersionReleaseDate": "2026-07-22T21:41:31Z",
+  "version": "1.10.3",
+  "currentVersionReleaseDate": "2026-08-04T19:50:30Z",
   "releaseDate": "2024-06-20T07:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -395,8 +395,13 @@
       "version": "1.10.2",
       "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
       "seenAt": "2026-07-22T21:41:31Z"
+    },
+    {
+      "version": "1.10.3",
+      "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
+      "seenAt": "2026-08-04T19:50:30Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:57:08.775Z",
+  "updatedAt": "2026-08-05T09:09:54.493Z",
   "isOwnApp": false
 }

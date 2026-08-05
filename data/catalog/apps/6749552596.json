@@ -208,7 +208,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/fb/74/cafb7495-6631-a150-15fa-322726dc8f07/Frame_6__U00281_U0029.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/a0/60/4fa060d9-518c-b4b1-3f8b-98164a8af5db/image_127.png/1260x2736bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/7b/3b/eb7b3bed-8ebd-09ec-4b83-9fabadca5334/image_125.png/1260x2736bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/eb/d1/12ebd159-e214-ca6c-500b-ab813286c0dd/image_124.png/1260x2736bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/eb/d1/12ebd159-e214-ca6c-500b-ab813286c0dd/image_124.png/1260x2736bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/a0/60/4fa060d9-518c-b4b1-3f8b-98164a8af5db/image_127.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/7b/3b/eb7b3bed-8ebd-09ec-4b83-9fabadca5334/image_125.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/eb/d1/12ebd159-e214-ca6c-500b-ab813286c0dd/image_124.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/93/79/36937973-44f0-56a8-b2c1-f6284df48cc0/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2025-08-12_at_16.46.15.png/416x496bb.png",
@@ -332,6 +335,6 @@
       "seenAt": "2026-07-03T15:54:06Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:55:19.313Z",
+  "updatedAt": "2026-08-05T08:52:31.041Z",
   "isOwnApp": false
 }

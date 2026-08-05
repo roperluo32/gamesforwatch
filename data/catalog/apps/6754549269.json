@@ -211,7 +211,19 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/1d/95/7a1d95a2-55ba-d3e1-7076-1978af7a0198/iPhone_ss3-4.jpg/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/f4/6e/c7f46e3a-5b0d-56ad-2f0c-1a4edd16790b/iPhone_ss3-2.jpg/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/4c/13/964c1371-db5d-2ef6-633d-bd49db00ee0e/iPhone_ss3-1.jpg/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/1a/b2/671ab2ea-8fb9-d501-92d7-a10142749dcf/iPhone_ss3-3.jpg/1242x2688bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/1a/b2/671ab2ea-8fb9-d501-92d7-a10142749dcf/iPhone_ss3-3.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/1b/f6/431bf63c-67f4-cd68-ef40-0d6b27afd96d/iPhone_ss1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/af/40/caaf405b-3871-bc49-3158-d4c432792bc9/iPhone_ss3.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/1d/95/7a1d95a2-55ba-d3e1-7076-1978af7a0198/iPhone_ss3-4.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/f4/6e/c7f46e3a-5b0d-56ad-2f0c-1a4edd16790b/iPhone_ss3-2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/4c/13/964c1371-db5d-2ef6-633d-bd49db00ee0e/iPhone_ss3-1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/1a/b2/671ab2ea-8fb9-d501-92d7-a10142749dcf/iPhone_ss3-3.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/82/54/038254da-ff7d-05d5-4530-caa6308e2db9/iPad_ss1.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/04/b1/3104b14b-5afa-f93a-fe60-d46493acb857/iPad_ss2.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/4e/ea/0c4eeab5-d5a3-26c9-cf9b-7aae2e2b3fc0/iPad_ss3.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/59/7c/49597c0f-f5af-8ac5-6c6d-5eb6a86358ce/iPad_ss5.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/49/9a/61499ade-21db-f128-de08-f5d8ff617113/iPad_ss4.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/cb/3f/11cb3f01-bff8-da54-f4ed-651fee1ece46/iPad_ss6.jpg/360x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/c9/91/a1c99131-5759-818c-3332-a43337aa99be/Watch_SS_1.jpg/416x496bb.png",
@@ -258,6 +270,6 @@
       "seenAt": "2026-07-20T20:36:21Z"
     }
   ],
-  "updatedAt": "2026-08-04T08:55:38.859Z",
+  "updatedAt": "2026-08-05T08:52:50.591Z",
   "isOwnApp": false
 }
