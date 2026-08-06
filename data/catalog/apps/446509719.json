@@ -83,15 +83,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/87/dd/fd87ddcb-73fb-ae20-9b84-1cd7b7a9354e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/fa/8a/20fa8acb-2677-b7eb-b7cc-747da94f6645/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.5,
   "userRatingCount": 12,
   "price": 0,
-  "fileSizeBytes": "245752832",
+  "fileSizeBytes": "247441408",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "14.0",
-  "version": "4.99.1",
-  "currentVersionReleaseDate": "2026-03-24T17:53:08Z",
+  "minimumOsVersion": "15.0",
+  "version": "5.11.1",
+  "currentVersionReleaseDate": "2026-08-05T22:38:52Z",
   "releaseDate": "2011-07-13T21:32:50Z",
   "artistId": 425135293,
   "artistName": "x2line.com LLC",
@@ -407,8 +407,13 @@
       "version": "4.99.1",
       "releaseNotes": "Welcome to the latest update of Little Girl Magic! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/lil.girls\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Little Girl Magic!",
       "seenAt": "2026-03-24T17:53:08Z"
+    },
+    {
+      "version": "5.11.1",
+      "releaseNotes": "Welcome to the latest update of Little Girl Magic! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/lil.girls\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Little Girl Magic!",
+      "seenAt": "2026-08-05T22:38:52Z"
     }
   ],
-  "updatedAt": "2026-08-05T09:17:42.196Z",
+  "updatedAt": "2026-08-06T09:15:04.405Z",
   "isOwnApp": false
 }

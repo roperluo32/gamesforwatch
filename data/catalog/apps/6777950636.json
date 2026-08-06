@@ -77,20 +77,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/92/46/339246c2-8cd8-0069-25fa-339dbe671efd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/9f/88/5e9f8878-2b90-af61-793d-0b7371174f05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "71674880",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.0.1",
-  "currentVersionReleaseDate": "2026-06-18T00:40:56Z",
+  "version": "1.0.2",
+  "currentVersionReleaseDate": "2026-08-06T04:33:49Z",
   "releaseDate": "2026-06-12T07:00:00Z",
   "artistId": 6784075781,
   "artistName": "Thi Thuy Diu Le",
   "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
-  "sellerUrl": "https://mywatchgame.web.app",
+  "sellerUrl": "https://watchgames.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -252,8 +252,13 @@
       "version": "1.0.1",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-06-18T00:40:56Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-08-06T04:33:49Z"
     }
   ],
-  "updatedAt": "2026-08-05T09:27:09.381Z",
+  "updatedAt": "2026-08-06T09:29:09.744Z",
   "isOwnApp": false
 }

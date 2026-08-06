@@ -1,0 +1,394 @@
+{
+  "trackId": "1524436683",
+  "bundleId": "peigoichi.shuffled.tiles.smiley",
+  "slug": "shuffledtilessmiley",
+  "path": "/apps/1524436683-shuffledtilessmiley/",
+  "locales": {
+    "en": {
+      "trackName": "ShuffledTilesSmiley",
+      "description": "This game makes tiles smiley.",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "trackViewUrl": "https://apps.apple.com/us/app/shuffledtilessmiley/id1524436683?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Tomoharu Yoshida",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Casual",
+        "Education"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "zh": {
+      "trackName": "ごちゃスマ",
+      "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
+      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Tomoharu Yoshida",
+      "genres": [
+        "游戏",
+        "益智解谜",
+        "休闲",
+        "教育"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "ごちゃスマ",
+      "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
+      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Tomoharu Yoshida",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "カジュアル",
+        "教育"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "ごちゃスマ",
+      "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
+      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "trackViewUrl": "https://apps.apple.com/de/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Tomoharu Yoshida",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Gelegenheits­spiele",
+        "Bildung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e3/bf/7be3bf97-4e76-8a8d-7d6c-e51fde40db11/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "27522048",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "17.6",
+  "version": "2.9",
+  "currentVersionReleaseDate": "2025-04-19T15:43:51Z",
+  "releaseDate": "2020-09-15T07:00:00Z",
+  "artistId": 541379646,
+  "artistName": "Tomoharu Yoshida",
+  "artistViewUrl": "https://apps.apple.com/de/developer/tomoharu-yoshida/id541379646?uo=4",
+  "sellerUrl": "https://lon-and-lion.click/",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "MacDesktop-MacDesktop",
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/13/42/8f1342fd-f7aa-5f09-98ee-be4daf50b0ce/tns.fjcubdtz.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/4d/cd/c24dcd0d-7e03-0ffc-2044-60851953abc1/tns.cvjiyorq.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/7f/e5/727fe5c4-1fa5-a113-f9e0-523d4cdad2d2/tns.dbpzjifm.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/c1/74/81c174e4-aba5-65b4-4034-9b9fefd34fe9/tns.ytsqyuzd.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/68/75/d66875cc-5deb-4bb3-5d8c-c30e3ad55696/tns.egoimhmo.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/d3/d3/4dd3d383-3043-168c-5b07-5d803e1922e8/tns.sjscdkmz.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/af/00/64af00e9-2f53-4d56-76b8-ec3701ac7b3c/tns.xysdxymy.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/a5/29/b4a529ce-3579-9f0d-95e7-7e83e599d3fc/tns.aczgsgsw.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/5b/80/905b80f8-c2ea-bd12-0b8b-d39bebdc1d2c/tns.hlwjbwvz.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/3a/2c/bd3a2c46-e779-ca22-e6c2-2b3f718cedc2/tns.fiufviis.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/87/a7/3e87a745-9569-04a7-e9fd-d8471c52d6be/tns.raahmwmv.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/cf/2e/8dcf2e19-dcba-701a-ac4d-26bd1334c7e1/tns.reempqte.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/f0/14/def01428-86ac-e1c9-dfc0-ca8aa6845555/tns.bdnnyjow.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/ad/38/24ad38ee-8b66-6643-6b73-6c5b4dccac67/tns.sxqudggp.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/25/aa/d025aa1c-63e4-de3f-2262-14f0f072d4a4/tns.udjbopbi.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/32/8c/96328ce0-3da7-06d6-c456-34ca4cc15d3f/tns.opjyryjf.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/f6/f0/7ff6f01e-40e8-f61b-3ff9-ae7e4e89844c/tns.nesxynbz.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/31/2c/74312c8d-1058-90a5-2004-e05a708382a3/tns.gcefetfm.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/33/af/4a33af43-b12a-3333-872c-df13ca045e13/tns.dzlxeecl.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/8b/07/2c8b0753-4242-6463-9c8c-42f88a8be08b/tns.jgtojust.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/87/a7/3e87a745-9569-04a7-e9fd-d8471c52d6be/tns.raahmwmv.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/cf/2e/8dcf2e19-dcba-701a-ac4d-26bd1334c7e1/tns.reempqte.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/f0/14/def01428-86ac-e1c9-dfc0-ca8aa6845555/tns.bdnnyjow.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/ad/38/24ad38ee-8b66-6643-6b73-6c5b4dccac67/tns.sxqudggp.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/25/aa/d025aa1c-63e4-de3f-2262-14f0f072d4a4/tns.udjbopbi.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/13/42/8f1342fd-f7aa-5f09-98ee-be4daf50b0ce/tns.fjcubdtz.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/4d/cd/c24dcd0d-7e03-0ffc-2044-60851953abc1/tns.cvjiyorq.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/7f/e5/727fe5c4-1fa5-a113-f9e0-523d4cdad2d2/tns.dbpzjifm.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/c1/74/81c174e4-aba5-65b4-4034-9b9fefd34fe9/tns.ytsqyuzd.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/68/75/d66875cc-5deb-4bb3-5d8c-c30e3ad55696/tns.egoimhmo.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/e0/3b/ace03b21-39cc-23e1-7134-b62cc6c89047/2e4be991-48d5-4c3d-b876-24cf1ee8a494_Shuffled_Tiles_Smiley_1.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/ad/87/bead87a8-8ea1-b8b1-70cd-49ef92e9bdf0/9c83a3bf-b0e5-491c-904e-8304ac83c33b_Shuffled_Tiles_Smiley_2.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/22/e8/77/22e8770b-fc8f-5f6f-49f1-4f3aaba0320a/d90e2cb9-ebfd-4c50-aa55-1913406ac97f_Shuffled_Tiles_Smiley_3.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/4e/18/ff4e18e2-5e56-776e-98e1-f03aabe4bd60/f5955b84-ef16-407e-bafb-e4af4acb68db_Shuffled_Tiles_Smiley_4.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.91",
+      "releaseNotes": "In GameCenter your Hi-Score can be shown.\nSearching Pairs option is not available in this version.\nLeaderBoard option is available.\nYou can go to GameCenter in Settings to sign in again",
+      "seenAt": "2021-06-16T07:55:48Z"
+    },
+    {
+      "version": "1.92",
+      "releaseNotes": "Fixed a few bugs.",
+      "seenAt": "2021-06-17T07:47:26Z"
+    },
+    {
+      "version": "1.93",
+      "releaseNotes": "Updated a design of Home Screen.",
+      "seenAt": "2021-06-18T23:24:00Z"
+    },
+    {
+      "version": "1.95",
+      "releaseNotes": "Modified a few layouts.",
+      "seenAt": "2021-06-21T00:11:12Z"
+    },
+    {
+      "version": "1.96",
+      "releaseNotes": "You can change 3x3 or 4x4 split mode if you need.",
+      "seenAt": "2021-06-21T23:07:22Z"
+    },
+    {
+      "version": "1.97",
+      "releaseNotes": "At first on playing, you can change the difficult-level of a selected puzzle by tapping the shuffle-button.\nAnd you can use the hint-button to show with an answer background image  or numbers for the tile position.",
+      "seenAt": "2021-06-23T03:28:50Z"
+    },
+    {
+      "version": "1.98",
+      "releaseNotes": "Updated to be more comfortable to play.",
+      "seenAt": "2021-06-24T21:11:48Z"
+    },
+    {
+      "version": "1.99",
+      "releaseNotes": "You can check a history of puzzles completed.",
+      "seenAt": "2021-06-25T22:50:26Z"
+    },
+    {
+      "version": "1.99.1",
+      "releaseNotes": "You can check a histroy of puzzles completed.",
+      "seenAt": "2021-06-29T21:31:13Z"
+    },
+    {
+      "version": "1.99.2",
+      "releaseNotes": "Adde new 18 puzzles.",
+      "seenAt": "2021-07-01T22:22:00Z"
+    },
+    {
+      "version": "1.99.3",
+      "releaseNotes": "Added new puzzles.You can enjoy 198 puzzles now.",
+      "seenAt": "2021-07-02T23:47:59Z"
+    },
+    {
+      "version": "1.99.5",
+      "releaseNotes": "You can select a puzzle to change a type of symbol or photo.",
+      "seenAt": "2021-07-22T15:00:41Z"
+    },
+    {
+      "version": "1.99.6",
+      "releaseNotes": "Fixed a few bugs.",
+      "seenAt": "2021-07-24T13:12:32Z"
+    },
+    {
+      "version": "1.99.7",
+      "releaseNotes": "Fixed a few bags.",
+      "seenAt": "2021-07-25T22:24:33Z"
+    },
+    {
+      "version": "1.99.8",
+      "releaseNotes": "Fixed a few slight bugs.",
+      "seenAt": "2021-07-26T21:49:16Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "Fixed bugs.\n====================\nThis App is available for AppleWatch.",
+      "seenAt": "2021-10-25T01:21:13Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Fixed bugs.",
+      "seenAt": "2021-10-28T19:03:30Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "iOS:GameCenter:Fixed bugs with concern as Hi-Score Ranking and Added achievements.",
+      "seenAt": "2021-11-06T16:29:12Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! ",
+      "seenAt": "2022-10-09T19:58:27Z"
+    },
+    {
+      "version": "2.4.0",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! ",
+      "seenAt": "2023-04-07T15:34:38Z"
+    },
+    {
+      "version": "2.5.0",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! ",
+      "seenAt": "2023-04-16T22:56:29Z"
+    },
+    {
+      "version": "2.6.0",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "seenAt": "2024-11-14T10:45:16Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "seenAt": "2024-12-11T19:06:43Z"
+    },
+    {
+      "version": "2.8",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "seenAt": "2024-12-21T16:35:39Z"
+    },
+    {
+      "version": "2.9",
+      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "seenAt": "2025-04-19T15:43:51Z"
+    }
+  ],
+  "updatedAt": "2026-08-06T09:27:54.652Z",
+  "isOwnApp": false
+}

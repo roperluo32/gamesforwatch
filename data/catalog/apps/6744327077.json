@@ -9,7 +9,7 @@
       "description": "Free Kick for Watch is the only penalty and free kick game made for Watch!\nSwipe to curve the ball, bend it over or around the wall, and score the perfect goal. But watch out—wind can change the ball’s path, and defenders in the wall might suddenly start running!\n\nMinimal, fast, and intuitive, it’s perfect for quick matches—right on your wrist or iPhone.\nChallenge yourself and master the art of free kicks… anytime, anywhere!",
       "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
       "trackViewUrl": "https://apps.apple.com/us/app/soccer-game-free-kick-watch/id6744327077?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "Free",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Games",
@@ -45,7 +45,7 @@
       "description": "Free Kick for Watch ist das einzige Spiel mit Freistoß und Elfmeter für die Apple Watch! Bring dem Ball mit einem Swipe Effet, umgehe oder überspringe die Mauer und schieß das perfekte Tor. Aber Achtung: Wind kann die Flugbahn ändern und die Mauerspieler können plötzlich losrennen! Minimalistisch, schnell und intuitiv – perfekt für kurze Matches auf Apple Watch und iPhone. Fordere dich heraus und werde Freistoß‑Meister… direkt vom Handgelenk!",
       "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
       "trackViewUrl": "https://apps.apple.com/de/app/fu%C3%9Fballspiel-f%C3%BCr-uhr/id6744327077?uo=4",
-      "formattedPrice": "1,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Spiele",
@@ -57,12 +57,30 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "足球游戏（手表版）",
+      "description": "Free Kick for Watch 是唯一专为 Apple Watch 设计的点球与任意球小游戏！轻扫即可施加力量，让球绕过或跨越人墙，打入完美一球。但请注意：风向会改变球的轨道，人墙的队员也可能突然跑动！极简、快速且直观，适合在 Apple Watch 或 iPhone 上进行快速比赛。挑战自己，成为罚球大师…就在手腕上！",
+      "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F-%E6%89%8B%E8%A1%A8%E7%89%88/id6744327077?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Federico Bigliocca",
+      "genres": [
+        "游戏",
+        "体育",
+        "动作",
+        "体育"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/e6/e6/f1e6e663-1260-2987-d314-0522ea56b5ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 1.99,
+  "price": 0,
   "fileSizeBytes": "34311168",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
@@ -244,6 +262,6 @@
       "seenAt": "2026-03-18T13:10:57Z"
     }
   ],
-  "updatedAt": "2026-08-05T09:19:17.138Z",
+  "updatedAt": "2026-08-06T09:17:47.408Z",
   "isOwnApp": false
 }

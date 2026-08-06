@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Arcadia - Watch Games",
-      "description": "Arcadia is a collection of 23 arcade games for Apple Watch, iPhone, iPad and Apple TV.\n\nList of currently available games:\n\n• FastRun\nAvoid traffic and reach your destination\n\n• Block Fit\nPlace blocks, clear rows and columns, and keep the grid from filling up\n\n• RainBowling\nHit all the pins and get a strike! But beware, you will encounter unexpected obstacles and an explosive ending!\n\n• Yarr!\nDestroy all the enemy ships. YOU ARE A PIRATE! YARR!\n\n• Bricko\nMatch colored bricks horizontally, vertically or diagonally in order to remove them and score points\n\n• Fruity Snake\nCollect as many fruits as you can\n\n• CandyBall\nA \"delicious\" pinball. Use the flippers to hit the ball\n\n• MineHound\nMines are hidden in a grid of cells. The number tells you how many mines touch the cell. Open all the safe cells\n\n• Bubble Mania\nClear as many bubbles as you can without any bubble crossing the bottom line\n\n• BadaBoom\nPrevent bombs from falling on the floor by collecting them\n\n• Ho Ho Hop!\nHelp Santa eat cookies and avoid all obstacles\n\n• The Claw\nGrab as many treasures as possible with the claw\n\n• Galaxy Invaders\nDestroy all enemy spaceships\n\n• Indiana GP\nChallenge your rivals in this crazy race\n\n• BrickOut\nDestroy all the bricks with the ball\n\n• Treasure Map\nRecompose the map to reach the treasure\n\n• Replay\nPress the coloured pads in the correct order\n\n• Bounce\nLike Pong but in Circle. Keep the ball in stage\n\n• Sewer Rat\nAvoid obstacles while swimming in the sewer\n\n• PongPong\nBeat your opponent in ping-pong\n\n• Slimenator\nDefend your position and destroy as many slimes as you can\n\n• Crazy Balloon\nCollect gems and avoid obstacles\n\n• Tap-A-Mole\nWhack a mole. Whack it!\n\n\nFeatures:\n- No ads.\n- No In-App purchases.\n- No user tracking.\n- Daily, Weekly and All Time leaderboards.*\n- iCloud storage.\n- Advanced support for Apple Watch (Series 3 and later, Ultra and later).\n- Color-blind mode.\n- Up to 120 fps on  ProMotion devices.\n\nCredits:\n[Music] 8-bit Loops by Snabisch\n[Music] Wellerman by Zumi Daxuya\n\nLet us know if you have any suggestions or ideas for next games!\n\n* Leaderboards require a Game Center account.",
-      "releaseNotes": "- Added Block Fit, a new block puzzle game where you place blocks, complete rows and columns, and keep the grid from filling up.",
+      "description": "Arcadia is a collection of 23 arcade games for Apple Watch, iPhone, iPad, Apple TV and Apple Vision Pro.\n\nList of currently available games:\n\n• FastRun\nAvoid traffic and reach your destination\n\n• Block Fit\nPlace blocks, clear rows and columns, and keep the grid from filling up\n\n• RainBowling\nHit all the pins and get a strike! But beware, you will encounter unexpected obstacles and an explosive ending!\n\n• Yarr!\nDestroy all the enemy ships. YOU ARE A PIRATE! YARR!\n\n• Bricko\nMatch colored bricks horizontally, vertically or diagonally in order to remove them and score points\n\n• Fruity Snake\nCollect as many fruits as you can\n\n• CandyBall\nA \"delicious\" pinball. Use the flippers to hit the ball\n\n• MineHound\nMines are hidden in a grid of cells. The number tells you how many mines touch the cell. Open all the safe cells\n\n• Bubble Mania\nClear as many bubbles as you can without any bubble crossing the bottom line\n\n• BadaBoom\nPrevent bombs from falling on the floor by collecting them\n\n• Ho Ho Hop!\nHelp Santa eat cookies and avoid all obstacles\n\n• The Claw\nGrab as many treasures as possible with the claw\n\n• Galaxy Invaders\nDestroy all enemy spaceships\n\n• Indiana GP\nChallenge your rivals in this crazy race\n\n• BrickOut\nDestroy all the bricks with the ball\n\n• Treasure Map\nRecompose the map to reach the treasure\n\n• Replay\nPress the coloured pads in the correct order\n\n• Bounce\nLike Pong but in Circle. Keep the ball in stage\n\n• Sewer Rat\nAvoid obstacles while swimming in the sewer\n\n• PongPong\nBeat your opponent in ping-pong\n\n• Slimenator\nDefend your position and destroy as many slimes as you can\n\n• Crazy Balloon\nCollect gems and avoid obstacles\n\n• Tap-A-Mole\nWhack a mole. Whack it!\n\n\nFeatures:\n- No ads.\n- No In-App purchases.\n- No user tracking.\n- Daily, Weekly and All Time leaderboards.*\n- iCloud storage.\n- Advanced support for Apple Watch (Series 3 and later, Ultra and later).\n- Color-blind mode.\n- Up to 120 fps on  ProMotion devices.\n\nCredits:\n[Music] 8-bit Loops by Snabisch\n[Music] Wellerman by Zumi Daxuya\n\nLet us know if you have any suggestions or ideas for next games!\n\n* Leaderboards require a Game Center account.",
+      "releaseNotes": "- Game Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\n- Various bug fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/arcadia-watch-games/id1479608271?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Raffaele D'Amato",
@@ -26,13 +26,13 @@
         "PT",
         "ES"
       ],
-      "subtitle": "Retro 8-bit Arcade Games"
+      "subtitle": "Retro 8-Bit Arcade Collection"
     },
     "ja": {
-      "trackName": "Arcadia - Watch用のアーケードゲーム",
+      "trackName": "Arcadia",
       "description": "アルカディアは、Apple Watch、iPhone、iPad、Apple TV、Apple Vision Proのための23のアーケードゲーム集です。\n\n現在発売中のゲームソフトの一覧：\n\n• FastRun\n渋滞を避けて目的地へ\n\n• Block Fit\nブロックを置き、行と列を消して、グリッドが埋まらないようにしましょう。\n\n• RainBowling\nすべてのピンを打ち、ストライキを取得します！ しかし、注意してください、あなたは予期しない障害と爆発的な結末に遭遇するでしょう！\n\n• Yarr!\n敵の船を全て破壊する。お前は海賊だ！ヤーッ！\n\n• Bricko\n色のついたレンガを水平、垂直、斜めに並べて消すと得点になります。\n\n• Fruity Snake\nたくさんのフルーツを集めよう\n\n• CandyBall\n「おいしい」ピンボール\n\n• MineHound\n地雷はセルのグリッドに隠されています。 数字は、セルに触れている地雷の数を示します。 すべての安全なセルをタップします\n\n• Bubble Mania\n泡が底をつかないように、できるだけ多くの泡を消そう\n\n• BadaBoom\n爆弾を集めて、床に落ちるのを防ごう\n\n• Ho Ho Hop!\nサンタがクッキーを食べるのを手伝い、すべての障害物を避けよう\n\n• The Claw\n鉤爪でお宝をたくさんつかまえよう\n\n• Galaxy Invaders\n敵の宇宙船をすべて破壊しよう\n\n• Indiana GP\nライバルに挑む、クレイジーなレース\n\n• BrickOut\nボールですべてのレンガを破壊しよう\n\n• Treasure Map\n地図を組み替えて、宝物を手に入れよう\n\n• Replay\nカラーパッドを正しい順序で押そう\n\n• Bounce\nピンポンのような、でも丸いようなものです。ステージでボールを保とう。\n\n• Sewer Rat\n障害物を避けながら下水道を泳ごう\n\n• PongPong\n卓球で相手を打ち負かそう\n\n• Slimenator\n自分の陣地を守り、多くのスライムを破壊しよう\n\n• Crazy Balloon\n宝石を集めて、障害物を避けよう\n\n• Tap-A-Mole\nモグラを叩きましょう。叩こう！\n\n\n特徴\n- 広告なし\n- アプリ内課金なし\n- ユーザーを追跡しない\n- デイリー、ウィークリー、オールタイムのリーダーボード\n- iCloudストレージ\n- Apple Watch（Series 3以降、Ultra以降）の高度なサポート\n- カラーブラインドモード\n- ProMotionデバイスで最大120fpsを実現\n\nクレジット\n[音楽]8bit Loops by Snabisch\n[音楽]ダックスヤズミのウェラーマン\n\n次回作の提案やアイディアがあれば教えてください！\n\n* リーダーボードはGame Centerのアカウントが必要です。",
-      "releaseNotes": "- Block Fitを追加しました。ブロックを配置し、行と列を完成させ、グリッドがいっぱいにならないようにする新しいブロックパズルゲームです。",
-      "trackViewUrl": "https://apps.apple.com/jp/app/arcadia-watch%E7%94%A8%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id1479608271?uo=4",
+      "releaseNotes": "- Game CenterがApple Watchに戻ってきました！Apple Watchでランキングを確認できるようになり、スコアも即座にGame Centerへ送信されます。\n- 各種不具合の修正と改善。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/arcadia/id1479608271?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Raffaele D'Amato",
       "genres": [
@@ -53,10 +53,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Arcadia - Watch Games",
+      "trackName": "Arcadia",
       "description": "Arcadia ist eine Sammlung von 23 Arcade-Spielen für Apple Watch, iPhone, iPad, Apple TV und Apple Vision Pro.\n\nListe der derzeit verfügbaren Spiele:\n\n• FastRun\nVermeide den Verkehr und erreiche dein Ziel.\n\n• Block Fit\nPlatziere Blöcke, räume Reihen und Spalten ab und halte das Raster frei.\n\n• RainBowling\nTreffe alle Pins und erziele einen Strike! Aber Vorsicht, es erwarten dich unerwartete Hindernisse und ein explosives Ende!\n\n• Yarr!\nZerstöre alle feindlichen Schiffe. DU BIST EIN PIRAT! YARR!\n\n• Bricko\nOrdne farbige Steine horizontal, vertikal oder diagonal an, um sie zu entfernen und Punkte zu erzielen.\n\n• Fruity Snake\nSammle so viele Früchte wie möglich.\n\n• CandyBall\nEin \"leckerer\" Flipper. Verwende die Flipper, um den Ball zu treffen.\n\n• MineHound\nMinen sind in einem Raster aus Zellen versteckt. Die Zahl zeigt an, wie viele Minen die Zelle berühren. Öffne alle sicheren Zellen.\n\n• Bubble Mania\nLösche so viele Blasen wie möglich, ohne dass eine Blase die untere Linie kreuzt.\n\n• BadaBoom\nVerhindere, dass Bomben auf den Boden fallen, indem du sie einsammelst.\n\n• Ho Ho Hop!\nHilf Santa, Kekse zu essen und allen Hindernissen auszuweichen.\n\n• The Claw\nGreife mit der Kralle so viele Schätze wie möglich.\n\n• Galaxy Invaders\nZerstöre alle feindlichen Raumschiffe.\n\n• Indiana GP\nFordere deine Rivalen in diesem verrückten Rennen heraus.\n\n• BrickOut\nZerstöre alle Steine mit dem Ball.\n\n• Treasure Map\nSetze die Karte wieder zusammen, um den Schatz zu erreichen.\n\n• Replay\nDrücke die farbigen Pads in der richtigen Reihenfolge.\n\n• Bounce\nWie Pong, aber in Kreisform. Halte den Ball auf der Bühne.\n\n• Sewer Rat\nVermeide Hindernisse beim Schwimmen im Abwasserkanal.\n\n• PongPong\nBesiege deinen Gegner im Ping-Pong.\n\n• Slimenator\nVerteidige deine Position und zerstöre so viele Schleime wie möglich.\n\n• Crazy Balloon\nSammle Edelsteine und vermeide Hindernisse.\n\n• Tap-A-Mole\nSchlage den Maulwurf. Schlage ihn!\n\nFunktionen:\n- Keine Anzeigen.\n- Keine In-App-Käufe.\n- Kein Benutzer-Tracking.\n- Tägliche, wöchentliche und All-Time Bestenlisten.*\n- iCloud-Speicherung.\n- Erweiterter Support für Apple Watch (Series 3 und höher, Ultra und höher)\n- Farbenblinden-Modus.\n- Bis zu 120 fps auf ProMotion-Geräten.\n\nCredits:\n[Musik] 8-bit-Loops von Snabisch\n[Musik] Wellerman von Zumi Daxuya\n\nLass uns wissen, wenn du Vorschläge oder Ideen für neue Spiele hast!\n\n* Bestenlisten erfordern ein Game Center-Konto.",
-      "releaseNotes": "- Block Fit hinzugefügt, ein neues Block-Puzzlespiel, bei dem du Blöcke platzierst, Reihen und Spalten vervollständigst und verhinderst, dass sich das Raster füllt.",
-      "trackViewUrl": "https://apps.apple.com/de/app/arcadia-watch-games/id1479608271?uo=4",
+      "releaseNotes": "- Game Center ist zurück auf der Apple Watch! Du kannst Bestenlisten jetzt direkt auf deiner Watch ansehen und deine Punktzahlen werden sofort an Game Center übermittelt.\n- Verschiedene Fehlerbehebungen und Verbesserungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/arcadia/id1479608271?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Raffaele D'Amato",
       "genres": [
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f6/1d/f1f61dea-654f-31ab-2e94-ebbb5ca95000/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b8/b8/3db8b8a7-808a-6b80-b44e-372158f407e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.79939,
   "userRatingCount": 653,
   "price": 1.99,
-  "fileSizeBytes": "34915328",
+  "fileSizeBytes": "35304448",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.21",
-  "currentVersionReleaseDate": "2026-05-14T11:42:02Z",
+  "version": "1.21.1",
+  "currentVersionReleaseDate": "2026-08-06T02:58:39Z",
   "releaseDate": "2019-12-18T08:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -442,8 +442,13 @@
       "version": "1.21",
       "releaseNotes": "- Added Block Fit, a new block puzzle game where you place blocks, complete rows and columns, and keep the grid from filling up.",
       "seenAt": "2026-05-14T11:42:02Z"
+    },
+    {
+      "version": "1.21.1",
+      "releaseNotes": "- Game Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\n- Various bug fixes and improvements.",
+      "seenAt": "2026-08-06T02:58:39Z"
     }
   ],
-  "updatedAt": "2026-08-05T08:53:10.813Z",
+  "updatedAt": "2026-08-06T08:53:51.923Z",
   "isOwnApp": false
 }

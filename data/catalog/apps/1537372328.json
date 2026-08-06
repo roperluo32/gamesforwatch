@@ -1,0 +1,377 @@
+{
+  "trackId": "1537372328",
+  "bundleId": "app.retrogram.Retrogram",
+  "slug": "retrogram",
+  "path": "/apps/1537372328-retrogram/",
+  "locales": {
+    "en": {
+      "trackName": "Retrogram",
+      "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "trackViewUrl": "https://apps.apple.com/us/app/retrogram/id1537372328?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "in Color",
+      "genres": [
+        "Games",
+        "Word",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Daily Pangram Puzzles"
+    },
+    "ja": {
+      "trackName": "Retrogram",
+      "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "trackViewUrl": "https://apps.apple.com/jp/app/retrogram/id1537372328?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "in Color",
+      "genres": [
+        "ゲーム",
+        "単語",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Retrogram",
+      "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "trackViewUrl": "https://apps.apple.com/de/app/retrogram/id1537372328?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "in Color",
+      "genres": [
+        "Spiele",
+        "Wortspiele",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/83/b3/1983b3c0-a1ab-4faa-4df5-6d336b733f07/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 2,
+  "userRatingCount": 4,
+  "price": 0,
+  "fileSizeBytes": "151251968",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "17.6",
+  "version": "3.0",
+  "currentVersionReleaseDate": "2026-07-12T20:20:07Z",
+  "releaseDate": "2022-01-04T08:00:00Z",
+  "artistId": 1537372330,
+  "artistName": "in Color",
+  "artistViewUrl": "https://apps.apple.com/de/developer/in-color/id1537372330?uo=4",
+  "sellerUrl": "https://retrogram.app",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/e6/28/a5e628a7-f7a0-0a17-8b48-47334db82c74/25c49095-7bfd-4078-b34a-0f789c336d0a_word-nerd-01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/20/e8/ce20e8da-4c81-5921-b994-f0d5f80af8a3/8932c576-3433-44c8-a714-110d7b111d3d_1970s-01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/42/5a/f1425aa0-5fb3-1b61-dc8a-cd18ddc7759d/5df88016-4e7c-4c1e-afd5-cb33b06993b4_word-nerd-01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/6c/5c/426c5cea-166c-dcd2-6053-965e44e96dd3/dc6da095-cf2e-49b8-a5a1-0058d65c837e_1970s-01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/63/0d/dd630dfe-33de-04c8-72bd-5ac20421d8e4/a29a3fca-05b7-435a-8dde-a6f558336432_word-nerd-01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/bc/32/5dbc32d1-fde9-637b-2910-8c47ee84fe6b/0999aada-40c2-4b39-998c-a23ea616569d_word-nerd-02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/a9/bc/0fa9bc02-cc7a-2738-3f7a-e17d896bb305/7894e87f-a7e0-4db1-80ee-d5bb71607e57_1970s-01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/bf/51/79bf51ec-4be4-b19c-87da-617a959cab89/621c7c6b-3cc5-48ee-9ca1-2e192060d09f_1970s-02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/44/59/89445977-9db6-03af-8e1a-800db8d76906/b71b5758-e594-4c3d-922a-7f1269b1dedc_dance-floor-01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/60/06/b660068f-0a2d-9773-8d89-1682c3349d1c/39d964ea-5ffb-458b-8ffb-912fe5b803db_dance-floor-02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/29/ce/d629cee2-02d6-a301-6e31-fc621c2e7dce/be89acbc-ba2a-4aee-a0ff-c447c63c9820_lights-out-01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/73/d5/dd73d586-3433-0818-b05e-febd57cdb822/057d326e-43c5-42f6-b27b-1b2fa3370c99_lights-out-02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/81/af/1681afd2-2294-96bc-134e-dafb57caf533/edecb6e6-501e-41d3-8c7e-f52ea7bb5646_train-brain-01.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/e7/04/88e70401-0a99-1fb5-b230-f0da9150a338/5d3610ad-5364-4e8a-83fa-dfd8ffa9d097_train-brain-02.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/f6/aa/bff6aaac-2ad1-e816-32d5-3b94e52604bd/b6fe347f-630a-4b38-a2c8-d5b90445762a_word-nerd-01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/9d/e8/029de840-4334-3c04-0775-2fc36c5a128b/6318fe11-736f-4d78-bbd0-2029ab6efa56_word-nerd-02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/76/c9/9576c956-1cc7-58b5-ba72-de2ca9f6cf23/86f26207-04d2-415c-9ec4-b67d7a4d257b_1970s-01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/2e/4e/ef2e4e40-da87-055b-5374-00f013f59abc/c8ea0740-a22f-47c2-bfab-3176e06eb512_1970s-02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/1b/57/791b579f-e59d-28c0-579f-4c5e84a14bde/691809f9-764b-401f-898d-dcfaa462ff6b_dance-floor-01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/8d/d4/bb8dd443-bfee-e101-9743-f44c632f5972/00da5e6d-328c-4f89-8821-d25f9fcd56d9_dance-floor-02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c4/66/9fc466f9-f543-5205-1c3e-f1fd2d36839a/352cf0e2-d446-47ec-95d3-01b0b96f11f9_lights-out-01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/3e/56/a53e56f5-9dc5-047e-e27f-33b41a8b69e5/e0b700b6-f367-4271-b4d2-23fe4de725b8_lights-out-02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/8e/ab/a18eab2b-f991-3701-4c0a-f97e5aa59662/bb11a901-328c-4a83-b8b2-64fbb7822d6a_share-01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/e4/27/04e42713-beff-f5c4-5d9c-03d38672929e/46343521-6ab6-4591-bcb7-b111fce09e32_share-02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/63/0d/dd630dfe-33de-04c8-72bd-5ac20421d8e4/a29a3fca-05b7-435a-8dde-a6f558336432_word-nerd-01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/bc/32/5dbc32d1-fde9-637b-2910-8c47ee84fe6b/0999aada-40c2-4b39-998c-a23ea616569d_word-nerd-02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/a9/bc/0fa9bc02-cc7a-2738-3f7a-e17d896bb305/7894e87f-a7e0-4db1-80ee-d5bb71607e57_1970s-01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/bf/51/79bf51ec-4be4-b19c-87da-617a959cab89/621c7c6b-3cc5-48ee-9ca1-2e192060d09f_1970s-02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/44/59/89445977-9db6-03af-8e1a-800db8d76906/b71b5758-e594-4c3d-922a-7f1269b1dedc_dance-floor-01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/60/06/b660068f-0a2d-9773-8d89-1682c3349d1c/39d964ea-5ffb-458b-8ffb-912fe5b803db_dance-floor-02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/29/ce/d629cee2-02d6-a301-6e31-fc621c2e7dce/be89acbc-ba2a-4aee-a0ff-c447c63c9820_lights-out-01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/73/d5/dd73d586-3433-0818-b05e-febd57cdb822/057d326e-43c5-42f6-b27b-1b2fa3370c99_lights-out-02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/81/af/1681afd2-2294-96bc-134e-dafb57caf533/edecb6e6-501e-41d3-8c7e-f52ea7bb5646_train-brain-01.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/e7/04/88e70401-0a99-1fb5-b230-f0da9150a338/5d3610ad-5364-4e8a-83fa-dfd8ffa9d097_train-brain-02.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/e6/28/a5e628a7-f7a0-0a17-8b48-47334db82c74/25c49095-7bfd-4078-b34a-0f789c336d0a_word-nerd-01.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/20/e8/ce20e8da-4c81-5921-b994-f0d5f80af8a3/8932c576-3433-44c8-a714-110d7b111d3d_1970s-01.png/576x768bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/7e/b8/43/7eb84311-e0d1-7e39-1b68-bb1934536421/9c6219ad-8e4a-4a09-9521-a0f1ce1693da_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2021-12-29_at_21.41.34.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/3d/0e/c1/3d0ec15f-386b-305f-d97c-94a52f407427/29937c39-f162-4c29-9b94-31d3eebb846d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2021-12-27_at_22.16.19.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/5b/fe/f1/5bfef1b9-9712-f3cd-19b9-ab1288623f99/7991b7a4-345a-4490-974c-a106ad2adb39_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2021-12-29_at_21.45.45.png/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.2.2",
+      "releaseNotes": "Diagnostics, a program or routine that helps to identify errors\n\nWe've improved the diagnostics to Retrogram to help us see where the app is crashing",
+      "seenAt": "2022-08-09T21:05:11Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Apparent, clearly visible or understood; obvious\n\nThis update makes it much easier to start playing for the first time, with no need to begin a free trial to play through your first seven puzzles",
+      "seenAt": "2022-09-02T11:28:38Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "Music, vocal or instrumental sounds producing beauty and emotion\n\nWe’ve added new music to Retrogram. Light mode features smooth creamy tones, guaranteed to boost your mood, while dark mode will take you back to days of retro gaming with its nostalgic synthy tracks",
+      "seenAt": "2022-09-21T21:19:40Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Chronometer, an instrument for measuring time.\n\nThis update fixes Retrogram on watchOS, sorry about the delay!",
+      "seenAt": "2022-11-29T06:09:08Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "Reveal, make (previously unknown or secret information) known to others\n\nRetrogram now allows you to reveal words in your word list to see what's missing. Be careful, though, because revealing the list too early will exclude your puzzle from streaks!",
+      "seenAt": "2023-01-16T13:27:22Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "We accidentally left a debug button in the last version\n\nYou didn't look at the answers did you? ",
+      "seenAt": "2023-01-18T13:21:20Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Ding! The cheerful sound your phone makes to let you know you have a new notification\n\nYou can now opt-in to be notified when new puzzles are available",
+      "seenAt": "2023-03-09T17:50:41Z"
+    },
+    {
+      "version": "1.7.1",
+      "releaseNotes": "• Shows which words have definitions when you make them in the puzzle\n• Swaps our Twitter links for Mastodon\n• Minor UI polish and fixes\n",
+      "seenAt": "2023-06-06T04:04:29Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "Widget, a small gadget or mechanical device.\n\nToday's update brings you the Daily Retrogram Widget. See progress right on your home screen, track time until the next puzzle, and see your shiny achievements.\n\nOh, and we've also improved the SharePlay and iCloud Sync experience, enjoy!",
+      "seenAt": "2023-07-03T04:00:31Z"
+    },
+    {
+      "version": "1.8.1",
+      "releaseNotes": "Early adopter, a person who starts using a product or technology as soon as it becomes available.\n\nThis update contains improvements for those using SharePlay to play together. Enjoy!",
+      "seenAt": "2023-07-10T19:14:38Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "Book, a written or printed work consisting of pages glued or sewn together along one side and bound in covers\n\nPlaying on iPad? You'll get the new book layout, where you can easily see your words on one page while you play the puzzle overleaf",
+      "seenAt": "2023-09-04T03:45:13Z"
+    },
+    {
+      "version": "1.9.1",
+      "releaseNotes": "Debug, to identify and remove errors from computer software\n\nAnd that's exactly what we did in this version, enjoy!",
+      "seenAt": "2023-09-20T04:06:05Z"
+    },
+    {
+      "version": "1.9.2",
+      "releaseNotes": "Defect, a shortcoming, imperfection\n\nWe have identified and fixed an issue where bonus puzzles were showing the wrong target score. Silly us!",
+      "seenAt": "2023-11-06T21:17:02Z"
+    },
+    {
+      "version": "1.9.3",
+      "releaseNotes": "Icon, a symbol or graphic representation on a screen. Retrogram now has some brand-new-old-school icons. Find them under Settings. Are you a fan of VHS tapes? No? Well we are!\n\n(We've also added the help section back on iPad, sorry we missed it!)",
+      "seenAt": "2023-11-24T14:23:28Z"
+    },
+    {
+      "version": "1.9.4",
+      "releaseNotes": "Maintenance, the process of preserving a condition or situation\n\nWe're tightening some screws and keeping the house in order!",
+      "seenAt": "2023-12-14T22:49:52Z"
+    },
+    {
+      "version": "1.9.5",
+      "releaseNotes": "Imperfection, a fault, blemish, or undesirable feature\n\nThis update resolves an issue where you could land on a blank screen. How terrifying!",
+      "seenAt": "2023-12-21T23:19:49Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Nerd alert! Your daily puzzles are now extra wordy, and extra nerdy\n\nWe've included more difficult words — marked with a special bonus icon. These words don't make the puzzles any harder, but are included for those of you who are loquacious layabouts, lexicon lovers, and language... lobsters?",
+      "seenAt": "2024-01-24T06:29:00Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Giveaway, a thing that is given free\n\nTurns out we were giving away \"Mastermind\" badges a bit too early in some games! This is fixed. Now you'll actually have to find all the words to be a Mastermind",
+      "seenAt": "2024-01-30T18:23:28Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Artwork: illustrations, photographs, or other non-textual material prepared for inclusion in a publication\n\nThis update brings beautiful artwork to our bonus puzzles. Enjoy!",
+      "seenAt": "2024-03-10T04:28:05Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Buttons: small devices on a piece of electrical or electronic equipment which are pressed to operate it.\n\nThis update brings a new button design to the main screen. Why? Well you’ll find out soon!",
+      "seenAt": "2025-04-17T11:47:16Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "Adjustment: a small alteration or movement made to achieve a desired fit, appearance, or result\n\nWe’ve adjusted the streaks button to better fit with the new design. That’s it for now!",
+      "seenAt": "2025-04-18T19:09:00Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Vault: a large room or chamber used for storage, especially an underground one\n\nThis update brings you the Puzzle Vault. Play puzzle packs whenever you like!",
+      "seenAt": "2026-02-06T15:09:33Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "Vault: a large room or chamber used for storage, especially an underground one\n\nThis update brings you the Puzzle Vault. Play puzzle packs whenever you like!\n\nWe have also fixed a bug where incorrect dates were showing for puzzle packs",
+      "seenAt": "2026-02-06T21:50:30Z"
+    },
+    {
+      "version": "2.2.2",
+      "releaseNotes": "Invisible, unable to be seen\n\nThat's what the target score on Apple Watch used to be. Now it's fixed",
+      "seenAt": "2026-02-21T21:04:17Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "seenAt": "2026-07-12T20:20:07Z"
+    }
+  ],
+  "updatedAt": "2026-08-06T08:58:58.322Z",
+  "isOwnApp": false
+}

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Just a small Spaceshooter Lite",
       "description": "Simple, endless space shooter:\n\nNavigate your spaceship through the increasing number of enemies just by touching the screen. Collect extras and try to survive as long as possible.\n\nProbably not one of the best games available in the AppStore, but developed completely in my spare time as a hobby project.",
-      "releaseNotes": "Minor Bugfixes",
+      "releaseNotes": "Bugfixes and minor improvements.\nUpdated for the current iOS version.",
       "trackViewUrl": "https://apps.apple.com/us/app/just-a-small-spaceshooter-lite/id949662362?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Stefan JOSTEN",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Just a small Spaceshooter Lite",
       "description": "Simple, endless space shooter:\n\nNavigate your spaceship through the increasing number of enemies just by touching the screen. Collect extras and try to survive as long as possible.\n\nProbably not one of the best games available in the AppStore, but developed completely in my spare time as a hobby project.",
-      "releaseNotes": "Minor Bugfixes",
+      "releaseNotes": "Bugfixes and minor improvements.\nUpdated for the current iOS version.",
       "trackViewUrl": "https://apps.apple.com/jp/app/just-a-small-spaceshooter-lite/id949662362?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Stefan JOSTEN",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Just a small Spaceshooter Lite",
       "description": "Einfacher Endlos Shooter\n\nVersuche mit deinem Raumschiff so lange wie möglich gegen eine wachsende Zahl von Gegnern zu überleben. Sammel Extras um deine Chancen zu verbessern.\n\nVielleicht nicht das beste Spiel, dass es im Appstore gibt, aber billiger als eine Tasse Kaffee und komplett in meiner Freizeit entwickelt.",
-      "releaseNotes": "Kleinere Verbesserungen",
+      "releaseNotes": "Fehlerbehebungen und kleinere Verbesserungen.\nAngepasst an die aktuelle iOS-Version.",
       "trackViewUrl": "https://apps.apple.com/de/app/just-a-small-spaceshooter-lite/id949662362?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Stefan JOSTEN",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/27/ef/4b27ef7f-7a95-3f0b-4805-efe193fb70ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/a4/8c/2ba48c26-d242-46b0-eec5-da8a6eb993d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "5658624",
+  "fileSizeBytes": "6700032",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.0",
-  "version": "8.2.1",
-  "currentVersionReleaseDate": "2025-02-15T19:14:29Z",
+  "version": "8.3",
+  "currentVersionReleaseDate": "2026-08-06T05:31:46Z",
   "releaseDate": "2015-01-14T08:17:37Z",
   "artistId": 949662361,
   "artistName": "Stefan JOSTEN",
@@ -374,8 +374,13 @@
       "version": "8.2.1",
       "releaseNotes": "Minor Bugfixes",
       "seenAt": "2025-02-15T19:14:29Z"
+    },
+    {
+      "version": "8.3",
+      "releaseNotes": "Bugfixes and minor improvements.\nUpdated for the current iOS version.\n",
+      "seenAt": "2026-08-06T05:31:46Z"
     }
   ],
-  "updatedAt": "2026-08-05T09:22:23.361Z",
+  "updatedAt": "2026-08-06T09:23:19.408Z",
   "isOwnApp": false
 }
