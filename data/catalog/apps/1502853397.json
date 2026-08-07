@@ -1,0 +1,395 @@
+{
+  "trackId": "1502853397",
+  "bundleId": "Stefan.EscapeTheMaze",
+  "slug": "the-dungeon-get-out",
+  "path": "/apps/1502853397-the-dungeon-get-out/",
+  "locales": {
+    "en": {
+      "trackName": "The Dungeon - Get Out",
+      "description": "Dive into the depths of a mysterious dungeon in this classic first-person dungeon crawler! The Dungeon - Get Out brings old-school RPG gameplay to all your Apple devices with stunning 3D graphics and immersive SceneKit rendering.\n\nEPIC DUNGEON EXPLORATION\nNavigate through complex mazes filled with deadly traps, mysterious teleporters, challenging puzzles, and fearsome monsters. Every corner holds danger—or treasure! Open chests to discover powerful weapons, magical items, and valuable loot.\n\nPOWERFUL MAGIC SYSTEM\nMaster an extensive spell arsenal including:\n- Flying magic projectiles (fireballs, lightning bolts, poison)\n- Area effect spells and clouds like poison cloud\n- Healing magic and cure spells\n- Combat magic to freeze, frighten, or poison your enemies\n- Light and darkness spells to illuminate your path\n\nINTELLIGENT MONSTERS\nFace off against enemies with different abilities:\n- Monsters that can cast spells and curse you\n- Enemy AI that uses elemental magic\n- Different monster types with varying resistances\n- Strategic combat requiring skill and preparation\n\nPUZZLES & INTERACTIVE ELEMENTS\nSolve intricate puzzles featuring:\n- Multiple key types and locked doors\n- Pressure plates and switches\n- Hidden passages and secret areas\n- Trigger-based events and surprises\n\nCROSS-PLATFORM ICLOUD SYNC\nYour adventure continues everywhere:\n- Start on iPhone, continue on iPad or Watch\n- Play on Mac with full keyboard and mouse support\n- Quick sessions on Apple Watch\n- Seamless save game synchronization via iCloud\n\nLEVEL EDITOR AS COMPANION APP AVAILABLE\nUnleash your creativity:\n- Design your own dungeons\n- Create custom challenges and puzzles\n- Share your levels with friends\n- Export and import custom adventures\n\nMULTI-PLATFORM SUPPORT\n- iOS - Full-featured dungeon crawler\n- macOS - Native Mac app with Catalyst\n- watchOS - Dungeon crawling on your wrist\n\nACTIVE DEVELOPMENT\nThe game is in active development with regular updates and new features. The included levels provide an exciting introduction, but the game's true potential unfolds through the Level Editor: Create your own extensive level packs and share them with the community. In parallel, I'm working on a comprehensive story adventure that will be released once all planned features are implemented.\n\nWhether you're a veteran of classic dungeon crawlers or new to the genre, The Dungeon - Get Out offers challenging gameplay, strategic combat, and endless exploration. Will you escape the maze, or become another lost soul in its depths?\n\nDownload now and begin your adventure!",
+      "releaseNotes": "What's New:\n\nWeapons get real weight this update!\n\n- New: Weapon damage system — light, heavy, ranged and staff weapons now scale differently with your hero's career and stats\n- New: Gear grants +1 career level to the wielding hero for as long as it's equipped\n- Rebalanced monster speed and hero spell resistance for fairer fights\n- New items to find: Banana, Mushroom and Weapons\n- Fixed several combat bugs, including incorrect damage calculations and missing kill rewards\n\nPlus various improvements and bug fixes.\n\nThank you for playing! More adventures await in the maze. Development is still ongoing — stay tuned for the next updates.",
+      "trackViewUrl": "https://apps.apple.com/us/app/the-dungeon-get-out/id1502853397?uo=4",
+      "formattedPrice": "$1.99",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "Games",
+        "Roleplaying",
+        "Entertainment",
+        "Adventure"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": "Find a way out of the dungeon"
+    },
+    "ja": {
+      "trackName": "The Dungeon - Get Out",
+      "description": "Dive into the depths of a mysterious dungeon in this classic first-person dungeon crawler! The Dungeon - Get Out brings old-school RPG gameplay to all your Apple devices with stunning 3D graphics and immersive SceneKit rendering.\n\nEPIC DUNGEON EXPLORATION\nNavigate through complex mazes filled with deadly traps, mysterious teleporters, challenging puzzles, and fearsome monsters. Every corner holds danger—or treasure! Open chests to discover powerful weapons, magical items, and valuable loot.\n\nPOWERFUL MAGIC SYSTEM\nMaster an extensive spell arsenal including:\n- Flying magic projectiles (fireballs, lightning bolts, poison)\n- Area effect spells and clouds like poison cloud\n- Healing magic and cure spells\n- Combat magic to freeze, frighten, or poison your enemies\n- Light and darkness spells to illuminate your path\n\nINTELLIGENT MONSTERS\nFace off against enemies with different abilities:\n- Monsters that can cast spells and curse you\n- Enemy AI that uses elemental magic\n- Different monster types with varying resistances\n- Strategic combat requiring skill and preparation\n\nPUZZLES & INTERACTIVE ELEMENTS\nSolve intricate puzzles featuring:\n- Multiple key types and locked doors\n- Pressure plates and switches\n- Hidden passages and secret areas\n- Trigger-based events and surprises\n\nCROSS-PLATFORM ICLOUD SYNC\nYour adventure continues everywhere:\n- Start on iPhone, continue on iPad or Watch\n- Play on Mac with full keyboard and mouse support\n- Quick sessions on Apple Watch\n- Seamless save game synchronization via iCloud\n\nLEVEL EDITOR AS COMPANION APP AVAILABLE\nUnleash your creativity:\n- Design your own dungeons\n- Create custom challenges and puzzles\n- Share your levels with friends\n- Export and import custom adventures\n\nMULTI-PLATFORM SUPPORT\n- iOS - Full-featured dungeon crawler\n- macOS - Native Mac app with Catalyst\n- watchOS - Dungeon crawling on your wrist\n\nACTIVE DEVELOPMENT\nThe game is in active development with regular updates and new features. The included levels provide an exciting introduction, but the game's true potential unfolds through the Level Editor: Create your own extensive level packs and share them with the community. In parallel, I'm working on a comprehensive story adventure that will be released once all planned features are implemented.\n\nWhether you're a veteran of classic dungeon crawlers or new to the genre, The Dungeon - Get Out offers challenging gameplay, strategic combat, and endless exploration. Will you escape the maze, or become another lost soul in its depths?\n\nDownload now and begin your adventure!",
+      "releaseNotes": "What's New:\n\nWeapons get real weight this update!\n\n- New: Weapon damage system — light, heavy, ranged and staff weapons now scale differently with your hero's career and stats\n- New: Gear grants +1 career level to the wielding hero for as long as it's equipped\n- Rebalanced monster speed and hero spell resistance for fairer fights\n- New items to find: Banana, Mushroom and Weapons\n- Fixed several combat bugs, including incorrect damage calculations and missing kill rewards\n\nPlus various improvements and bug fixes.\n\nThank you for playing! More adventures await in the maze. Development is still ongoing — stay tuned for the next updates.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/the-dungeon-get-out/id1502853397?uo=4",
+      "formattedPrice": "¥300",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "ゲーム",
+        "ロールプレイング",
+        "エンターテインメント",
+        "アドベンチャー"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "The Dungeon - Get Out",
+      "description": "Tauche ein in die Tiefen eines mysteriösen Dungeons in diesem klassischen First-Person Dungeon Crawler! The Dungeon - Get Out bringt Old-School-RPG-Gameplay auf all deine Apple-Geräte mit beeindruckender 3D-Grafik und immersivem SceneKit-Rendering.\n\nEPISCHE DUNGEON-ERKUNDUNG\nNavigiere durch komplexe Labyrinthe voller tödlicher Fallen, mysteriöser Teleporter, herausfordernder Rätsel und furchterregender Monster. Hinter jeder Ecke lauert Gefahr—oder ein Schatz! Öffne Truhen, um mächtige Waffen, magische Gegenstände und wertvolle Beute zu entdecken.\n\nMÄCHTIGES MAGIESYSTEM\nMeistere ein umfangreiches Zauber-Arsenal:\n- Fliegende Magiegeschosse (Feuerbälle, Blitze, Gift)\n- Flächenzauber wie Giftwolke\n- Heilmagie und Heilzauber\n- Kampfmagie zum Einfrieren, Erschrecken oder Vergiften deiner Feinde\n- Licht- und Dunkelheitszauber zur Beleuchtung deines Weges\n\nINTELLIGENTE MONSTER\nStelle dich vielfältigen Gegnern mit unterschiedlichen Fähigkeiten:\n- Monster, die Zauber wirken und dich verfluchen können\n- Gegner-KI, die elementare Magie einsetzt\n- Verschiedene Monstertypen mit unterschiedlichen Resistenzen\n- Strategischer Kampf, der Geschick und Vorbereitung erfordert\n\nRÄTSEL & INTERAKTIVE ELEMENTE\nLöse komplexe Rätsel mit:\n- Verschiedenen Schlüsseltypen und verschlossenen Türen\n- Druckplatten und Schaltern\n- Versteckten Durchgängen und Geheimbereichen\n- Trigger-basierten Ereignissen und Überraschungen\n\nPLATTFORMÜBERGREIFENDE ICLOUD-SYNCHRONISATION\nDein Abenteuer geht überall weiter:\n- Starte auf dem iPhone, spiele weiter auf dem iPad\n- Spiele auf dem Mac mit voller Tastatur- und Mausunterstützung\n- Kurze Sessions auf der Apple Watch\n- Nahtlose Spielstand-Synchronisation via iCloud\n\nLEVEL-EDITOR ALS ZUSÄTZLICHE APP VERFÜGBAR\nEntfessle deine Kreativität:\n- Gestalte deine eigenen Dungeons\n- Erstelle individuelle Herausforderungen und Rätsel\n- Teile deine Level mit Freunden\n- Exportiere und importiere eigene Abenteuer\n\nMULTI-PLATTFORM-UNTERSTÜTZUNG\n- iOS - Vollständiger Dungeon Crawler\n- macOS - Native Mac-App mit Catalyst\n- watchOS - Dungeon Crawling am Handgelenk\n\nAKTIVE ENTWICKLUNG\nDas Spiel befindet sich in aktiver Entwicklung mit regelmäßigen Updates und neuen Features. Die mitgelieferten Level bieten einen spannenden Einstieg, aber das wahre Potenzial des Spiels entfaltet sich durch den Level-Editor: Erstelle deine eigenen umfangreichen Level-Packs und teile sie mit der Community. Parallel arbeite ich an einem umfangreichen Story-Abenteuer, das veröffentlicht wird, sobald alle geplanten Features implementiert sind.\n\nOb du ein Veteran klassischer Dungeon Crawler bist oder neu im Genre - The Dungeon - Get Out bietet herausforderndes Gameplay, strategischen Kampf und endlose Erkundung. Wirst du dem Labyrinth entkommen oder zu einer weiteren verlorenen Seele in seinen Tiefen?\n\nJetzt herunterladen und dein Abenteuer beginnen!",
+      "releaseNotes": "Was ist neu:\n\nWaffen bekommen in diesem Update echtes Gewicht!\n\n- Neu: Waffen-Schadenssystem — leichte, schwere, Fernkampf- und Stabwaffen skalieren jetzt unterschiedlich mit der Karriere und den Werten deines Helden\n- Neu: Ausrüstung gewährt +1 Karrierestufe für den tragenden Helden, solange sie angelegt ist\n- Monstergeschwindigkeit und Zauberresistenz der Helden neu ausbalanciert für fairere Kämpfe\n- Neue Gegenstände zu entdecken: Banane, Pilz und Waffen\n- Mehrere Kampf-Bugs behoben, darunter falsche Schadensberechnungen und fehlende Belohnungen für Kills\n\nDazu zahlreiche Verbesserungen und Fehlerbehebungen.\n\nDanke fürs Spielen! Weitere Abenteuer erwarten dich im Labyrinth. Die Entwicklung geht weiter – sei gespannt auf die nächsten Updates.",
+      "trackViewUrl": "https://apps.apple.com/de/app/the-dungeon-get-out/id1502853397?uo=4",
+      "formattedPrice": "1,99 €",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "Spiele",
+        "Rollenspiel",
+        "Unterhaltung",
+        "Abenteuer"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/48/75/ff487569-81b6-bb32-00bb-d4a2ae3571ca/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 3,
+  "userRatingCount": 2,
+  "price": 1.99,
+  "fileSizeBytes": "111020032",
+  "contentAdvisoryRating": "9+",
+  "minimumOsVersion": "18.6",
+  "version": "4.7",
+  "currentVersionReleaseDate": "2026-07-25T00:12:02Z",
+  "releaseDate": "2020-05-25T07:00:00Z",
+  "artistId": 949662361,
+  "artistName": "Stefan JOSTEN",
+  "artistViewUrl": "https://apps.apple.com/de/developer/stefan-josten/id949662361?uo=4",
+  "sellerUrl": "https://developerplayground.net/etdm/",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "MacDesktop-MacDesktop",
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/4a/b6/ee4ab62d-feb8-1017-c961-e834eb5554a9/ETMScreenshot0_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/f2/ec/4af2ec42-c686-4228-c879-dae4418b4cb1/ETMScreenshot1_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/ab/1a/ceab1a93-9564-b717-43e2-1234e536396c/ETMScreenshot2_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/96/95/799695cf-2bdf-ccb7-da19-77e23f4dc4b4/ETMScreenshot3_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/db/34/f1db348b-25d6-c558-d839-263dc311c385/ETMScreenshot4_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/75/80/32758019-83ee-46dc-7add-11d7e0dc4303/ETMScreenshot7_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/d1/87/5ed1870a-9a4a-9185-1fec-c92d56e4e39c/ETMScreenshot5_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/94/dd/0194dd4b-4cb5-1a49-c2d3-896de4e65ee9/ETMScreenshot6_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/45/b4/7845b4d5-a984-2df1-8c49-09660a022cce/ETMScreenshot8_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/b9/10/5fb910d0-838b-f370-f978-a1c59f74a159/ETMScreenshot11_iPad.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/ec/33/40ec337e-dd8c-d425-11e2-9e42cb9fbca2/ETMScreenshot0_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/eb/93/aeeb93f0-a77d-91dc-6d1c-92f4e12dd3c8/ETMScreenshot1_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a8/4d/e1a84d60-f23c-e32e-c55e-5e2a481dc45d/ETMScreenshot2_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/a3/0c/5aa30cd6-bfcd-f20d-d76d-d321ab777f58/ETMScreenshot3_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/1f/68/e41f6832-4a0f-6ad9-2651-340b48b659a5/ETMScreenshot4_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/ee/59/d5ee5912-dc53-251f-3d1a-cd24ac95e4d5/ETMScreenshot5_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/89/6c/69896c38-54c3-8a84-a56c-880ba7930253/ETMScreenshot6_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a8/5d/7ea85d66-341f-5f0b-b868-5a1091fedc7c/ETMScreenshot7_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/80/7c/75807cfd-bd7c-c559-66d6-769f2934b5ec/ETMScreenshot8_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/8f/4a/498f4a65-e14e-3bdf-1bd8-40e6c4b89bea/ETMScreenshot11_iPhone.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/ec/33/40ec337e-dd8c-d425-11e2-9e42cb9fbca2/ETMScreenshot0_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/eb/93/aeeb93f0-a77d-91dc-6d1c-92f4e12dd3c8/ETMScreenshot1_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a8/4d/e1a84d60-f23c-e32e-c55e-5e2a481dc45d/ETMScreenshot2_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/a3/0c/5aa30cd6-bfcd-f20d-d76d-d321ab777f58/ETMScreenshot3_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/1f/68/e41f6832-4a0f-6ad9-2651-340b48b659a5/ETMScreenshot4_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/ee/59/d5ee5912-dc53-251f-3d1a-cd24ac95e4d5/ETMScreenshot5_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/89/6c/69896c38-54c3-8a84-a56c-880ba7930253/ETMScreenshot6_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a8/5d/7ea85d66-341f-5f0b-b868-5a1091fedc7c/ETMScreenshot7_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/80/7c/75807cfd-bd7c-c559-66d6-769f2934b5ec/ETMScreenshot8_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/8f/4a/498f4a65-e14e-3bdf-1bd8-40e6c4b89bea/ETMScreenshot11_iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/4a/b6/ee4ab62d-feb8-1017-c961-e834eb5554a9/ETMScreenshot0_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/f2/ec/4af2ec42-c686-4228-c879-dae4418b4cb1/ETMScreenshot1_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/ab/1a/ceab1a93-9564-b717-43e2-1234e536396c/ETMScreenshot2_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/96/95/799695cf-2bdf-ccb7-da19-77e23f4dc4b4/ETMScreenshot3_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/db/34/f1db348b-25d6-c558-d839-263dc311c385/ETMScreenshot4_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/75/80/32758019-83ee-46dc-7add-11d7e0dc4303/ETMScreenshot7_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/d1/87/5ed1870a-9a4a-9185-1fec-c92d56e4e39c/ETMScreenshot5_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/94/dd/0194dd4b-4cb5-1a49-c2d3-896de4e65ee9/ETMScreenshot6_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/45/b4/7845b4d5-a984-2df1-8c49-09660a022cce/ETMScreenshot8_iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/b9/10/5fb910d0-838b-f370-f978-a1c59f74a159/ETMScreenshot11_iPad.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/23/2f/a2232fd3-8d9a-aa5f-6ee1-20c6ffbf3710/ETMScreenshot0_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/37/ff/6337ff19-faca-9ec1-baed-8fdf423f4b35/ETMScreenshot1_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/43/5d/ec435d31-e3b7-01ee-74df-54fac1bdb68a/ETMScreenshot2_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/d8/81/82d8813e-93ea-8610-b1aa-5042bc904639/ETMScreenshot3_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/e0/40/5ee040ca-9752-c69f-5ec1-54b072530b76/ETMScreenshot4_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/8f/9c/c38f9c11-9d8a-99d3-b0bf-60b5a52694e2/ETMScreenshot7_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/a0/5f/3da05f08-e036-4db6-f4c9-a07d8e2c2ed6/ETMScreenshot5_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/dd/94/3bdd944c-5e9c-b560-0141-7e344837e2d5/ETMScreenshot6_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/42/52/bb4252bb-8548-18d8-3313-ff145e294f21/ETMScreenshot8_Watch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/99/8b/7c998b47-74d6-8323-b3b0-f5e8df00ed5d/ETMScreenshot11_Watch.png/422x514bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.23",
+      "releaseNotes": "Now the integration with the level editor is added. \n\nCreate your own levels with the editor, share and play them. A tutorial will be released soon.",
+      "seenAt": "2021-04-15T16:21:54Z"
+    },
+    {
+      "version": "1.23.2",
+      "releaseNotes": "This update fixes a crash which could happen in combination with the Level Editor",
+      "seenAt": "2021-04-17T15:29:10Z"
+    },
+    {
+      "version": "1.24",
+      "releaseNotes": "Some level design improvements with new riddles.\nYou have to start a new game to play this.",
+      "seenAt": "2021-04-23T03:39:09Z"
+    },
+    {
+      "version": "1.25",
+      "releaseNotes": "Minor bug fixes.",
+      "seenAt": "2021-05-06T19:09:09Z"
+    },
+    {
+      "version": "1.26",
+      "releaseNotes": "The previous version contains a bug, that some monsters cannot be killed. To solve it, you have to start a new game.",
+      "seenAt": "2021-05-11T06:26:20Z"
+    },
+    {
+      "version": "1.27",
+      "releaseNotes": "New game elements:\n- Scrolls to learn new spells\n- New 3D models for food\n- Magic learning system\n\nYou have to start a new game to see the new features",
+      "seenAt": "2021-06-11T02:33:58Z"
+    },
+    {
+      "version": "1.28",
+      "releaseNotes": "Tutorial level contains multiple new riddles.\n\nAlso multiple bug fixes and improvements.",
+      "seenAt": "2021-06-29T19:49:33Z"
+    },
+    {
+      "version": "1.29",
+      "releaseNotes": "Improved camera control.\nNew Inventory: Collect food and eat it later.",
+      "seenAt": "2021-07-21T18:51:03Z"
+    },
+    {
+      "version": "1.30",
+      "releaseNotes": "- Sleep to regenerate",
+      "seenAt": "2021-08-24T10:33:19Z"
+    },
+    {
+      "version": "1.31",
+      "releaseNotes": "Improvements and bug fixes",
+      "seenAt": "2021-11-29T21:54:13Z"
+    },
+    {
+      "version": "1.31.1",
+      "releaseNotes": "This update fixes an iOS 15 Bug",
+      "seenAt": "2021-12-02T22:37:56Z"
+    },
+    {
+      "version": "1.32",
+      "releaseNotes": "A lot of minor things to improve the gameplay",
+      "seenAt": "2021-12-24T13:24:53Z"
+    },
+    {
+      "version": "1.33",
+      "releaseNotes": "Multiple rendering improvements:\n- You can enable normal maps on high end iOS devices for an improved rendering quality\n- Improved 3D models\n- Better textures\n",
+      "seenAt": "2022-01-05T18:44:10Z"
+    },
+    {
+      "version": "1.34",
+      "releaseNotes": "Fixed multiple bugs in the watch version.",
+      "seenAt": "2022-01-29T18:34:04Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "The first major update in 3 years:\n- Focus on adjustments for new devices and iOS versions\n- Completely redesigned user interface for the Watch\n- Numerous bug fixes\n- Preparations for new features-",
+      "seenAt": "2025-02-11T15:33:31Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Minor Bugfixes:\n- Improved turning left or right in the watch version\n- Rendering issue with the hero display on the phone version\n- Better readable font in the game menues\n- ...",
+      "seenAt": "2025-02-15T18:50:35Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "What's New in This Update:\n\nImproved User Interface\n- New \"What's New\" screen to see the latest features\n- Redesigned About screen with blog updates\n- Enhanced hero management screens\n- Better UI scaling across all devices\n\nGameplay Enhancements\n- New key types for more variety\n- New monsters with unique abilities\n- Monsters can now use magic and curse you\n- New 3D Objects\n- Treassure Chests\n- Enhanced spells and healing potions system\n- Tutorial improvements for new players\n- Optimized 3D assets for better performance\n- Enhanced graphics with improved textures\n- Watch version now with improved touch controls\n\nBug Fixes & Improvements\n- Fixed various stability issues\n- Extended UITests to AppleWatch and found and fixed multiple issues. Now the Watch version is fully playable.\n- Improved compatibility across iOS versions\n- Better save game handling\n- Performance optimizations\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates. \n",
+      "seenAt": "2025-12-27T01:14:46Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "What's New:\n\nCharacter Development & Progression\n- New Character Career System: Develop your heroes across multiple career paths\n- Experience Points: Gain XP from combat and completing challenges\n- Permanent Skill Potions: Permanently boost your hero's abilities\n- Temporary Skill Potions: Time-limited skill enhancements for tactical gameplay\n- Hero Attributes View: Comprehensive stats and career progression screen\n- Monster Skill Levels: Monsters now have varying strength and difficulty levels\n\nGameplay Enhancements\n- Enhanced Potion System: New potion types for strategic character development\n- Cloud Save Game Improvements: Better reliability and offline fallback\n- Experience-based Triggers: Level designers can reward players with XP\n- Improved Hero Detail Screens: Easier navigation and clearer information\n\nApple Watch Improvements\n- Enhanced touch controls for better playability\n- Optimized UI for Watch Ultra\n- Improved hero attribute navigation\n\nBug Fixes & Stability\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-01-26T07:52:37Z"
+    },
+    {
+      "version": "4.2",
+      "releaseNotes": "What's New:\n\nNew Tutorial\n- Interactive tutorial to help new players get started\n- Step-by-step introduction to movement, heroes, combat, map, and menu\n\niPad & Mac Improvements\n- Configurable keyboard support: customize movement and attack key bindings in Settings\n- Improved Mac Catalyst compatibility and stability\n\nBug Fixes & Stability\n- Various bug fixes and stability improvements\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-02-24T05:41:45Z"
+    },
+    {
+      "version": "4.2.1",
+      "releaseNotes": "This updates fixes a problem which prevents saving the game. Additionally the watch contolls have been improved.\n\nWhat else is new:\n\nNew Tutorial\n- Interactive tutorial to help new players get started\n- Step-by-step introduction to movement, heroes, combat, map, and menu\n\niPad & Mac Improvements\n- Configurable keyboard support: customize movement and attack key bindings in Settings\n- Improved Mac Catalyst compatibility and stability\n\nBug Fixes & Stability\n- Various bug fixes and stability improvements\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-02-25T22:12:44Z"
+    },
+    {
+      "version": "4.3",
+      "releaseNotes": "What's New:\n\n- Game Controller Support \n- New door textures\n- Improved watch controls\n\n\nBug Fixes & Stability\n- Render issues fixed for:\n    - Fountain\n    - Alcoven\n    - Hero magic view\n    - Wrong positioning of the monster kill animation \n- Various other bug fixes and stability improvements\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-03-23T18:37:30Z"
+    },
+    {
+      "version": "4.4",
+      "releaseNotes": "What's New:\n\n- Inventory per hero with hero selector\n- Improved illumination: better lights and shadows\n- Cure spells now target a single hero\n- Drag & Drop items in inventory\n\nBug Fixes\n- Fixed: Pit rendering artefacts\n- Fixed: Glitches in menu navigation\n- Fixed: Hit animations\n- Fixed: Heal animation\n- Fixed: Attack button rendering in phone landscape\n- Various other improvements and fixes\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-04-27T21:21:21Z"
+    },
+    {
+      "version": "4.5",
+      "releaseNotes": "What's New:\n\n- New: GameItem info screen with detailed stats\n- New: Weight system for GameItems with movement, food and speed penalties\n- Refactored action bar for cleaner gameplay\n- Drag & Drop enhancements on iOS:\n  - From and to the floor (and alcoves)\n  - Between chests and inventory\n- Attack button repositioned on iPad for better gameplay\n- Larger HUD hero buttons\n\nBug Fixes\n- Fixed: Chest rendered as a wall on the map\n- Fixed: Inventory issues for dead heroes\n- Fixed: Tutorial glitches\n- Various other improvements and fixes\n\nThank you for playing! More adventures await in the maze! Development of the game is still ongoing. Stay tuned for the next updates.",
+      "seenAt": "2026-05-27T22:11:58Z"
+    },
+    {
+      "version": "4.6",
+      "releaseNotes": "What's New:\n\nGear up your heroes for the dungeon!\n\n- New: Equipment system — outfit each hero with armor and accessories: helmets, body armor, gloves, leg armor, boots, shields, rings and necklaces\n- Every piece of gear boosts your heroes' stats — plan the perfect loadout\n- New: Visual equipment screen with detailed item info; drag and drop to equip and unequip\n- Discover new armor, weapons and treasure hidden throughout the maze\n- Enjoy the adventure on iPhone, iPad, Mac, Apple TV and Apple Watch\n\nPlus various improvements and bug fixes.\n\nThank you for playing! More adventures await in the maze. Development is still ongoing — stay tuned for the next updates.",
+      "seenAt": "2026-06-25T16:09:35Z"
+    },
+    {
+      "version": "4.7",
+      "releaseNotes": "What's New:\n\nWeapons get real weight this update!\n\n- New: Weapon damage system — light, heavy, ranged and staff weapons now scale differently with your hero's career and stats\n- New: Gear grants +1 career level to the wielding hero for as long as it's equipped\n- Rebalanced monster speed and hero spell resistance for fairer fights\n- New items to find: Banana, Mushroom and Weapons\n- Fixed several combat bugs, including incorrect damage calculations and missing kill rewards\n\nPlus various improvements and bug fixes.\n\nThank you for playing! More adventures await in the maze. Development is still ongoing — stay tuned for the next updates.",
+      "seenAt": "2026-07-25T00:12:02Z"
+    }
+  ],
+  "updatedAt": "2026-08-07T08:09:05.518Z",
+  "isOwnApp": false
+}

@@ -78,8 +78,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b8/b8/3db8b8a7-808a-6b80-b44e-372158f407e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.79939,
-  "userRatingCount": 653,
+  "averageUserRating": 4.79969,
+  "userRatingCount": 654,
   "price": 1.99,
   "fileSizeBytes": "35304448",
   "contentAdvisoryRating": "4+",
@@ -449,6 +449,6 @@
       "seenAt": "2026-08-06T02:58:39Z"
     }
   ],
-  "updatedAt": "2026-08-06T08:53:51.923Z",
+  "updatedAt": "2026-08-07T07:33:12.075Z",
   "isOwnApp": false
 }

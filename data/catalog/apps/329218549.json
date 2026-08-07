@@ -212,15 +212,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/5e/23/7c5e2310-4057-1546-46de-039c03664e7a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.7287,
-  "userRatingCount": 87594,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/cb/38/00cb384e-aa40-0339-8d7d-438760429817/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.72865,
+  "userRatingCount": 87677,
   "price": 0,
-  "fileSizeBytes": "439308288",
+  "fileSizeBytes": "439304192",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "4.10.22",
-  "currentVersionReleaseDate": "2026-08-04T18:34:06Z",
+  "version": "4.10.23",
+  "currentVersionReleaseDate": "2026-08-06T15:05:21Z",
   "releaseDate": "2009-10-29T03:18:55Z",
   "artistId": 329218552,
   "artistName": "Chess.com",
@@ -619,8 +619,13 @@
       "version": "4.10.22",
       "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
       "seenAt": "2026-08-04T18:34:06Z"
+    },
+    {
+      "version": "4.10.23",
+      "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
+      "seenAt": "2026-08-06T15:05:21Z"
     }
   ],
-  "updatedAt": "2026-08-06T08:56:51.897Z",
+  "updatedAt": "2026-08-07T07:36:14.280Z",
   "isOwnApp": false
 }

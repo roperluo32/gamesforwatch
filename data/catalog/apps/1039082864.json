@@ -1,0 +1,347 @@
+{
+  "trackId": "1039082864",
+  "bundleId": "Stefan.WatchPingPong",
+  "slug": "a-ping-pong-game",
+  "path": "/apps/1039082864-a-ping-pong-game/",
+  "locales": {
+    "en": {
+      "trackName": "A Ping Pong Game",
+      "description": "Experience Classic Arcade Fun on Your Wrist, in your hand or on the big screen.\n\nStep into the world of retro arcade gaming with a fresh twist! This modern PONG-inspired game brings the classic excitement of racket sports right to you.\n\nGame Modes: Choose from Squash, Tennis, and Soccer for a variety of gameplay.\n1 or 2 Players: Play solo or challenge a friend in thrilling head-to-head matches.\nThree Difficulty Levels: Test your skills and try to beat your high score!\nOptimized for Apple Watch:\n\nSeamlessly control the paddle with the digital crown, a game controller or touches.\nPerfectly balanced for quick, intense gaming sessions.\nDownload now and dive into the ultimate arcade experience, wherever you go!",
+      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/a-ping-pong-game/id1039082864?uo=4",
+      "formattedPrice": "$0.99",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "Games",
+        "Casual",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "A Ping Pong Game",
+      "description": "Experience Classic Arcade Fun on Your Wrist, in your hand or on the big screen.\n\nStep into the world of retro arcade gaming with a fresh twist! This modern PONG-inspired game brings the classic excitement of racket sports right to you.\n\nGame Modes: Choose from Squash, Tennis, and Soccer for a variety of gameplay.\n1 or 2 Players: Play solo or challenge a friend in thrilling head-to-head matches.\nThree Difficulty Levels: Test your skills and try to beat your high score!\nOptimized for Apple Watch:\n\nSeamlessly control the paddle with the digital crown, a game controller or touches.\nPerfectly balanced for quick, intense gaming sessions.\nDownload now and dive into the ultimate arcade experience, wherever you go!",
+      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/a-ping-pong-game/id1039082864?uo=4",
+      "formattedPrice": "¥150",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "ゲーム",
+        "カジュアル",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "A Ping Pong Game",
+      "description": "Erlebe klassischen Arcade-Spaß an deinem Handgelenk, deinem Phone oder auf dem großen Bildschirm!\n\nTauche ein in die Welt des Retro-Arcade-Gamings mit einem modernen Twist! Dieses PONG-inspirierte Spiel bringt die klassische Aufregung direkt zu dir.\n\n\nSpielmodi: Wähle zwischen Squash, Tennis und Fußball für abwechslungsreiches Gameplay.\n1 oder 2 Spieler: Spiele allein oder fordere einen Freund in spannenden Duellen heraus.\nDrei Schwierigkeitsstufen: Teste deine Fähigkeiten und knacke deinen Highscore!\nOptimiert für die Apple Watch:\n\nSteuere den Schläger mühelos mit der Digital Crown, einem Game Controller oder per Touch.\nZwei Schwierigkeitsstufen: Perfekt für kurze, intensive Spielsessions.\nLade das Spiel jetzt herunter und erlebe ultimativen Arcade-Spaß, wo immer du bist!",
+      "releaseNotes": "- Anzeigefehler auf dem iPhone 17 Pro und anderen Geräten mit Dynamic Island behoben: Das Spielfeld wurde abgeschnitten, sodass die linke Wand nicht sichtbar war.\n- Verbesserte Stabilität.\n- Kleinere Fehlerbehebungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/a-ping-pong-game/id1039082864?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Stefan JOSTEN",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/8e/29/458e293e-be48-3b30-1fa4-8cd52f99aebc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.33333,
+  "userRatingCount": 3,
+  "price": 0.99,
+  "fileSizeBytes": "1672192",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "18.0",
+  "version": "8.1",
+  "currentVersionReleaseDate": "2026-07-31T18:19:09Z",
+  "releaseDate": "2016-03-28T19:47:37Z",
+  "artistId": 949662361,
+  "artistName": "Stefan JOSTEN",
+  "artistViewUrl": "https://apps.apple.com/de/developer/stefan-josten/id949662361?uo=4",
+  "sellerUrl": "http://developerplayground.net",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "MacDesktop-MacDesktop",
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/33/f5/6633f589-7a1a-5a84-9053-d35d9337dead/mzl.jmuaxgcu.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a3/7c/61a37c63-b643-e200-d379-465d4b9a2c21/mzl.sefedxcr.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/1b/dc/341bdc0a-99ce-8810-7e36-d1437bb5ea09/mzl.fwjkigid.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/85/76/e58576a8-4a65-44d8-359a-ac47a6673f14/mzl.vudiambb.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e7/08/c4e7082f-a400-6ebb-d240-1d38f918b9df/mzl.iowbztti.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/56/e8/c556e8ff-52ef-4f1d-951b-4c6d38e966cf/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/52/11/7c52112d-6cf1-04ca-123b-4edcf8b89d82/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/ba/57/49ba5715-7be4-856f-ab5c-79013c4e090e/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/bf/4c/86bf4c26-bcca-fe36-d6c3-18e2ce2574ed/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/f1/5f/80f15f4c-babe-e254-c89d-f1f923e9d809/pr_source.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/a9/4a/3ca94a72-6677-f678-e680-9d536314c79a/mzl.hzaebwpq.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/90/b3/0b90b35d-89ce-fa19-3f0e-8f6a5a501fc0/mzl.clmmfdmv.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/0b/cd/140bcdc8-29d7-4f44-6bbd-3102f594eb63/mzl.roenukpp.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/bf/ad/afbfadbd-aa0f-279e-b14b-11c20898ca9a/mzl.lbkrvlfz.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/33/e463337d-1885-d820-9766-eaf141d41848/mzl.vxqyrysr.png/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/22/c94c2295-8668-5858-4438-307ace479d60/9194a430-f88e-464e-b5c5-eb6817ec8931_IMG_0347.PNG/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4c/85/5b4c859f-89e9-f045-ed4c-e297462e1749/673abe1c-639c-41c0-9e2d-8713bbe927a7_IMG_0348.PNG/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/97/59/fa975964-5f02-42b2-943f-40d53800cbf5/a4ff35e7-ec73-4863-ad1d-4065f51bd0bc_IMG_0351.PNG/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/dc/3b/06dc3b32-63cf-a997-1eab-7fba92bc17f0/c50a277f-e2c2-40a1-be4b-590bec34e753_IMG_0354.PNG/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/bd/13/64bd13b2-a1fc-486f-c49b-24a5598009c0/6bb69433-1d20-4f67-91c6-9c08fb546181_IMG_0357.PNG/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/a9/4a/3ca94a72-6677-f678-e680-9d536314c79a/mzl.hzaebwpq.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/90/b3/0b90b35d-89ce-fa19-3f0e-8f6a5a501fc0/mzl.clmmfdmv.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/0b/cd/140bcdc8-29d7-4f44-6bbd-3102f594eb63/mzl.roenukpp.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/bf/ad/afbfadbd-aa0f-279e-b14b-11c20898ca9a/mzl.lbkrvlfz.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/33/e463337d-1885-d820-9766-eaf141d41848/mzl.vxqyrysr.png/406x228bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/33/f5/6633f589-7a1a-5a84-9053-d35d9337dead/mzl.jmuaxgcu.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a3/7c/61a37c63-b643-e200-d379-465d4b9a2c21/mzl.sefedxcr.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/1b/dc/341bdc0a-99ce-8810-7e36-d1437bb5ea09/mzl.fwjkigid.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/85/76/e58576a8-4a65-44d8-359a-ac47a6673f14/mzl.vudiambb.png/552x414bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e7/08/c4e7082f-a400-6ebb-d240-1d38f918b9df/mzl.iowbztti.png/552x414bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/0a/0a/ef0a0a07-3734-a2a7-78d6-51f89d3a1145/W0.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/2c/da/342cdaf0-f2db-09cd-8efc-d7f7be22a3a7/W1.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/1f/96/bc1f9677-abf5-534d-f403-0550684d3ddc/W3.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/76/64/df76649c-9e00-a222-aef7-2f06ada1b676/W2.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/26/e3/9c26e3af-6e7a-d303-064a-eaf24018d4b5/W4.png/416x496bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.1",
+      "releaseNotes": "",
+      "seenAt": "2016-03-28T19:40:46Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Improved animations.\nBigger rackets depending on the chosen difficulty level.\nImproved steering by the digital crown.",
+      "seenAt": "2016-04-20T03:15:45Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Fixed a bug with the hard mode highscore",
+      "seenAt": "2016-06-30T20:48:16Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Added an iOS version. AppleTV version will follow soon.",
+      "seenAt": "2016-07-12T17:34:53Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Added a Soccer mode with four rackets",
+      "seenAt": "2016-07-14T00:56:17Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Apple TV version added. Minor bug fixes.",
+      "seenAt": "2016-07-22T23:09:23Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Minor bugfixes",
+      "seenAt": "2016-08-14T18:40:19Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Nothing special. Only a few minor changes.",
+      "seenAt": "2016-08-26T21:39:19Z"
+    },
+    {
+      "version": "2.4.1",
+      "releaseNotes": "Possibility to disable ads",
+      "seenAt": "2016-08-30T23:46:31Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Completely rewritten Apple Watch version with improved animations and steering for WatchOS 3",
+      "seenAt": "2016-09-17T02:56:00Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "Thanks for playing my game. Here are some bug fixes.",
+      "seenAt": "2016-11-03T22:15:41Z"
+    },
+    {
+      "version": "4.2.1",
+      "releaseNotes": "Added a computer player for the phone and the watch version.",
+      "seenAt": "2017-02-10T22:13:12Z"
+    },
+    {
+      "version": "4.2.3",
+      "releaseNotes": "The update contains a fix for WatchOS 4. You can now move the racket again.",
+      "seenAt": "2017-10-03T07:07:48Z"
+    },
+    {
+      "version": "4.2.5",
+      "releaseNotes": "Fixed a bug on the Watch version which slowed down the framerate.",
+      "seenAt": "2017-12-21T21:33:18Z"
+    },
+    {
+      "version": "5.0",
+      "releaseNotes": "Added support for the bigger screen on a Watch Series 4.\nFixed a crash on the Watch version",
+      "seenAt": "2018-11-22T21:30:18Z"
+    },
+    {
+      "version": "6.1",
+      "releaseNotes": "iOS 13 & WatchOS 6 compatibility\nStandalone Watch Version.\n",
+      "seenAt": "2019-09-30T19:28:25Z"
+    },
+    {
+      "version": "7.0",
+      "releaseNotes": "Multiple bugfixes and support for current devices and OS versions.",
+      "seenAt": "2022-01-06T23:49:51Z"
+    },
+    {
+      "version": "8.0",
+      "releaseNotes": "Some minor bugfixes and improvements.",
+      "seenAt": "2024-11-12T07:42:04Z"
+    },
+    {
+      "version": "8.1",
+      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "seenAt": "2026-07-31T18:19:09Z"
+    }
+  ],
+  "updatedAt": "2026-08-07T08:08:56.890Z",
+  "isOwnApp": false
+}

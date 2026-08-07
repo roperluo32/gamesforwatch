@@ -1,14 +1,14 @@
 {
   "trackId": "6742062980",
   "bundleId": "com.elinasoft.gamehubclassic",
-  "slug": "offline-gamehub-no-wifi-game",
-  "path": "/apps/6742062980-offline-gamehub-no-wifi-game/",
+  "slug": "offline-games-all-in-one",
+  "path": "/apps/6742062980-offline-games-all-in-one/",
   "locales": {
     "en": {
-      "trackName": "Offline GameHub -No WiFi Game",
+      "trackName": "Offline Games All-in-one",
       "description": "Get ready for Offline GameHub - No WiFi Games: fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 11 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nRemember Snake on Nokia, Minesweeper on Windows, and Pong on the arcade? Offline GameHub packs 11 timeless games into one app for iPhone, iPad, and Apple Watch—no internet, no sign-up, just open and play. Beautiful design, smooth touch controls: on your commute, at lunch, or before bed, jump in anytime to kill time, train your brain, or relive the classics.\n\n- Minesweeper: Windows 95–style nostalgia: tap to reveal, long-press to flag or mark a question. Beginner, Intermediate, and Advanced boards—logic, luck, and a classic that never gets old.\n- Sudoku: 4×4, 6×6, and 9×9 grids with Easy / Medium / Hard / Expert levels. Notes mode and hints included—no repeats in any row, column, or box. Your calm logic companion.\n- Snake: Guide the snake to eat food and grow longer—don’t hit the walls or yourself! Swipe to steer and chase your high score. How long can you survive?\n- Klotski: Three Kingdoms sliding block puzzle: move pieces so Cao Cao (the 2×2 red block) reaches the bottom exit. Six classic layouts plus random setups—fewer moves means a better score.\n- Number Puzzle: Classic sliding tile puzzle: arrange numbers 1 through N in order with the bottom-right tile empty. Choose 3×3, 4×4, or 5×5 boards—from easy warm-ups to brain-burning challenges—and track your fewest moves.\n- Image Puzzle: Slide tiles to restore the full picture. Built-in gallery plus import your own photos from the album; random image each game keeps every round fresh.\n- Paratrooper: Retro arcade shooter! Rotate the turret, shoot down helicopters and paratroopers, and hold the line. 10 levels—faster choppers and bigger drops as you advance. Tense and addictive.\n- Pong: A retro tribute to Atari Pong: first to 7 points wins. Face the AI, swipe to move your paddle, and enjoy pure arcade table-tennis fun.\n- Link Link: Clear every matching fruit pair; paths may turn at most twice. Sharp eyes and smart routing—clear the board to win. The match classic you’ll keep coming back to.\n- Gomoku: Black vs. white: connect five in any direction to win. Choose your color and AI difficulty from casual to full strength—perfect for a quick match anytime.\n- Go:Chinese scoring rules with 9×9, 13×13, and 19×19 boards. Smart AI, adjustable difficulty and who plays first—from fast beginner games to full-board play.\n- Offline single-player, pure gameplay focus\n- Modern UI with adaptive layouts for iPhone, iPad, and Apple Watch\n- Local high scores, best moves, and times saved on device\n- Multilingual support for players worldwide\n\nDownload Offline GameHub and carry a whole shelf of games in your pocket!\n\nWe respect your privacy—game data stays on your device only.",
       "releaseNotes": "Stability and performance improvements",
-      "trackViewUrl": "https://apps.apple.com/us/app/offline-gamehub-no-wifi-game/id6742062980?uo=4",
+      "trackViewUrl": "https://apps.apple.com/us/app/offline-games-all-in-one/id6742062980?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Beijing Elinasoft Technologies Company Limited",
       "genres": [
@@ -31,7 +31,7 @@
         "ES",
         "ZH"
       ],
-      "subtitle": "Snake,Sudoku,Mine,Pong,Gomoku"
+      "subtitle": "brain train games,No wifi game"
     },
     "zh": {
       "trackName": "不用网络就能玩的游乐汇- 贪食蛇,扫雷,数独,五子棋,华容道",
@@ -63,10 +63,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Offline GameHub - Wi-Fi不要",
+      "trackName": "ネット不要のゲーム大全 - スネーク,地雷,数独,五目",
       "description": "Offline GameHub - Wi-Fi不要のゲーム の登場です。年齢を問わず楽しめて、頭のトレーニングにもぴったり！このオフラインゲーム集は、11種類以上のユニークなミニゲームが詰まったおもちゃ箱のよう。クラシックゲーム好き、パズル好き、チャレンジ好きのために作られています。そして一番うれしいのは——インターネット接続なしで遊べること！\n\nノキアのスネーク、Windowsのマインスイーパー、アーケードのポン——覚えていますか？Offline GameHub は11本の不朽の名作を、iPhone・iPad・Apple Watch対応の1つのアプリに。ネット不要、登録不要、開いてすぐ遊べます。美しいデザインと滑らかなタッチ操作。通勤中、昼休み、寝る前に——時間つぶし、脳トレ、懐かしの一局をいつでもどうぞ。\n\n- マインスイーパー：Windows 95風の懐かし地雷探し。タップで開く、長押しで旗／？マーク。初級・中級・上級——論理と運が交わる、色あせないクラシック。\n- 数独：4×4、6×6、9×9、初級／中級／上級／エキスパート四段階。メモモードとヒント付き。行・列・ブロックで重複なし。静かな論理の相棒。\n- スネーク：蛇を操作してエサを食べ、どんどん伸ばす——壁や自分に当てないで！スワイプで方向転換、ハイスコアに挑戦。どこまで生き延びられる？\n- 華容道：三国志スライドブロック。曹操（2×2の赤いブロック）を下の出口へ。6種の定番配置＋ランダム——手数が少ないほど高評価。\n- 数字パズル：定番スライドパズル。1からNまで順に並べ、右下を空けます。3×3、4×4、5×5——気軽なウォーミングアップから本格的な頭脳戦まで、最少手数を記録。\n- 画像パズル：タイルを動かして完成画像を復元。内蔵ギャラリー＋写真アルバムからインポート。毎回ランダム画像で飽きません。\n- パラシュート撃ち：レトロシューティング！砲塔を回してヘリと傘兵を撃墜、陣地を守れ。全10ステージ、進むほど高速・大量。手に汗握る中毒性。\n- ポン：アタリ『Pong』へのレトロなオマージュ——先に7点取った方の勝ち。AIと対戦、スワイプでラケット操作。純粋な卓球アーケードの楽しさ。\n- 連連看（リンクリンク）：同じフルーツをすべて消去。経路の曲がりは最大2回。眼力と経路設計——盤面クリアで勝利。何度も戻ってくるマッチングの定番。\n- 五目並べ：黒白対局、どの方向でも五連で勝利。色とAI難易度を選択——カジュアルから本気まで、いつでも一局。\n- 囲碁：中国ルール数子法、9路・13路・19路。スマートAI、難易度と先手後手を調整——入門の早い一局から本格碁まで。\n- オフライン単独プレイ、純粋なゲーム体験に集中\n- iPhone / iPad / Apple Watch 対応のモダンUIとアダプティブレイアウト\n- ハイスコア・最少手数・タイムを端末内に保存\n- 世界中のプレイヤー向け多言語対応\n\nOffline GameHub をダウンロード——ゲームの棚ごと、ポケットに。\n\nプライバシーを尊重します。ゲームデータは端末内のみに保存されます。",
       "releaseNotes": "安定性と性能の向上",
-      "trackViewUrl": "https://apps.apple.com/jp/app/offline-gamehub-wi-fi%E4%B8%8D%E8%A6%81/id6742062980?uo=4",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%8D%E3%83%83%E3%83%88%E4%B8%8D%E8%A6%81%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E5%A4%A7%E5%85%A8-%E3%82%B9%E3%83%8D%E3%83%BC%E3%82%AF-%E5%9C%B0%E9%9B%B7-%E6%95%B0%E7%8B%AC-%E4%BA%94%E7%9B%AE/id6742062980?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beijing Elinasoft Technologies Company Limited",
       "genres": [
@@ -92,10 +92,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Offline GameHub - Ohne WLAN",
+      "trackName": "Spiele ohne Netz - Snake,Mine",
       "description": "Bereit für Offline GameHub - Spiele ohne WLAN: Spaß für jedes Alter — und ein Workout für den Kopf! Diese Offline-Spielesammlung ist wie eine übervolle Spielkiste mit mehr als 11 einzigartigen Minispielen. Gemacht für Klassiker-Fans, Puzzle-Liebhaber und alle, die eine Herausforderung suchen. Das Beste daran? Du brauchst keine Internetverbindung!\n\nErinnerst du dich an Snake auf dem Nokia, Minesweeper unter Windows und Pong in der Spielhalle? Offline GameHub packt 11 zeitlose Spiele in eine App für iPhone, iPad und Apple Watch — kein Internet, keine Anmeldung, einfach öffnen und spielen. Schönes Design, flüssige Touch-Steuerung: im Pendelverkehr, in der Mittagspause oder vor dem Schlafengehen — jederzeit Zeit vertreiben, den Kopf trainieren oder Klassiker neu erleben.\n\n- Minesweeper: Windows-95-Nostalgie — tippen zum Aufdecken, lang drücken für Flagge oder Fragezeichen. Anfänger, Mittelstufe und Fortgeschritten — Logik, Glück und ein Klassiker, der nie alt wird.\n- Sudoku: 4×4-, 6×6- und 9×9-Gitter mit Leicht / Mittel / Schwer / Experte. Notizenmodus und Tipps — keine Wiederholung in Zeile, Spalte oder Block. Dein ruhiger Logik-Begleiter.\n- Snake: Lenke die Schlange, friss Futter und werde länger — aber nicht in Wand oder dich selbst! Wischen zum Steuern und Highscore jagen. Wie lange überlebst du?\n- Klotski: Drei-Königreiche-Schiebepuzzle — bewege die Steine, bis Cao Cao (der rote 2×2-Block) den unteren Ausgang erreicht. Sechs klassische Layouts plus Zufall — weniger Züge bedeuten bessere Punktzahl.\n- Zahlen-Puzzle: Klassisches Schiebebrett — ordne die Zahlen 1 bis N, Feld unten rechts leer. Wähle 3×3, 4×4 oder 5×5 — vom leichten Aufwärmen bis zur kniffligen Challenge, und tracke deine wenigsten Züge.\n- Bild-Puzzle: Kacheln schieben, bis das Bild wieder vollständig ist. Eingebaute Galerie plus eigene Fotos aus dem Album; jedes Spiel ein zufälliges Motiv hält jede Runde frisch.\n- Paratrooper: Retro-Arcade-Shooter! Turm drehen, Helikopter und Fallschirmjäger abschießen, die Linie halten. 10 Level — schnellere Helis und größere Abwürfe je weiter du kommst. Spannend und süchtig machend.\n- Pong: Eine Retro-Hommage an Atari Pong — wer zuerst 7 Punkte hat, gewinnt. Gegen die KI, Wischen fürs Paddle, purer Arcade-Tischtennis-Spaß.\n- Link Link: Alle gleichen Fruchtpaare entfernen; Wege dürfen höchstens zweimal abknicken. Scharfe Augen und kluge Routen — Brett leeren zum Sieg. Der Match-Klassiker, zu dem du immer wieder zurückkehrst.\n- Gomoku: Schwarz gegen Weiß — fünf in einer Reihe in jede Richtung gewinnt. Farbe und KI-Schwierigkeit von locker bis voller Stärke — perfekt für eine schnelle Partie zwischendurch.\n- Go: Chinesische Zählregeln mit 9×9-, 13×13- und 19×19-Brettern. Clevere KI, einstellbare Schwierigkeit und Wer anfängt — vom schnellen Einstieg bis zur Vollbrett-Partie.\n- Offline-Einzelspieler, Fokus auf pures Gameplay\n- Modernes UI mit adaptiven Layouts für iPhone, iPad und Apple Watch\n- Lokale Highscores, Bestzüge und Zeiten auf dem Gerät\n- Mehrsprachige Unterstützung für Spieler weltweit\n\nLade Offline GameHub herunter und trage ein ganzes Regal Spiele in der Tasche!\n\nWir respektieren deine Privatsphäre — Spieldaten bleiben nur auf deinem Gerät.",
       "releaseNotes": "Stabilitäts- und Leistungsverbesserungen",
-      "trackViewUrl": "https://apps.apple.com/de/app/offline-gamehub-ohne-wlan/id6742062980?uo=4",
+      "trackViewUrl": "https://apps.apple.com/de/app/spiele-ohne-netz-snake-mine/id6742062980?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Beijing Elinasoft Technologies Company Limited",
       "genres": [
@@ -401,6 +401,6 @@
       "seenAt": "2026-08-04T21:31:08Z"
     }
   ],
-  "updatedAt": "2026-08-06T08:56:36.019Z",
+  "updatedAt": "2026-08-07T07:35:57.804Z",
   "isOwnApp": false
 }
