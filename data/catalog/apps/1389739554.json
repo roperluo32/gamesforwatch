@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/2a/f3/872af36c-0264-8cdc-33e2-07cbbaacc41d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/c9/08/81c908ea-65c5-8b37-3b93-269089804325/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.22222,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "25955328",
+  "fileSizeBytes": "26602496",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "4.0.0",
-  "currentVersionReleaseDate": "2026-08-01T05:13:13Z",
+  "version": "4.0.1",
+  "currentVersionReleaseDate": "2026-08-08T00:07:31Z",
   "releaseDate": "2018-06-25T11:34:43Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -367,8 +367,13 @@
       "version": "4.0.0",
       "releaseNotes": " - Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
       "seenAt": "2026-08-01T05:13:13Z"
+    },
+    {
+      "version": "4.0.1",
+      "releaseNotes": " - Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "seenAt": "2026-08-08T00:07:31Z"
     }
   ],
-  "updatedAt": "2026-08-07T07:34:41.673Z",
+  "updatedAt": "2026-08-08T07:17:59.732Z",
   "isOwnApp": false
 }

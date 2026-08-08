@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fish Sudoku: cute watch puzzle",
       "description": "- Double Tap at the spot where you think there is a fish to catch. Beware that you may lose -1 Heart if your guess is wrong.\n- Single Tap or Swipe to mark an X where you think there is no fish.\n\n- Only one fish per row.\n- Only one fish per column.\n- Only one fish per color.\n- Fishes can't be adjacent.\n\nGet this new Puzzle and enjoy the cutest way possible to play Sudoku!",
-      "releaseNotes": "Optimized on Apple Watch.",
+      "releaseNotes": "Improved graphics and added more levels.",
       "trackViewUrl": "https://apps.apple.com/us/app/fish-sudoku-cute-watch-puzzle/id6786170849?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Fish Sudoku: cute watch puzzle",
       "description": "- Double Tap at the spot where you think there is a fish to catch. Beware that you may lose -1 Heart if your guess is wrong.\n- Single Tap or Swipe to mark an X where you think there is no fish.\n\n- Only one fish per row.\n- Only one fish per column.\n- Only one fish per color.\n- Fishes can't be adjacent.\n\nGet this new Puzzle and enjoy the cutest way possible to play Sudoku!",
-      "releaseNotes": "Optimized on Apple Watch.",
+      "releaseNotes": "Improved graphics and added more levels.",
       "trackViewUrl": "https://apps.apple.com/cn/app/fish-sudoku-cute-watch-puzzle/id6786170849?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Fish Sudoku: cute watch puzzle",
       "description": "- Double Tap at the spot where you think there is a fish to catch. Beware that you may lose -1 Heart if your guess is wrong.\n- Single Tap or Swipe to mark an X where you think there is no fish.\n\n- Only one fish per row.\n- Only one fish per column.\n- Only one fish per color.\n- Fishes can't be adjacent.\n\nGet this new Puzzle and enjoy the cutest way possible to play Sudoku!",
-      "releaseNotes": "Optimized on Apple Watch.",
+      "releaseNotes": "Improved graphics and added more levels.",
       "trackViewUrl": "https://apps.apple.com/jp/app/fish-sudoku-cute-watch-puzzle/id6786170849?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Fish Sudoku: cute watch puzzle",
       "description": "- Double Tap at the spot where you think there is a fish to catch. Beware that you may lose -1 Heart if your guess is wrong.\n- Single Tap or Swipe to mark an X where you think there is no fish.\n\n- Only one fish per row.\n- Only one fish per column.\n- Only one fish per color.\n- Fishes can't be adjacent.\n\nGet this new Puzzle and enjoy the cutest way possible to play Sudoku!",
-      "releaseNotes": "Optimized on Apple Watch.",
+      "releaseNotes": "Improved graphics and added more levels.",
       "trackViewUrl": "https://apps.apple.com/de/app/fish-sudoku-cute-watch-puzzle/id6786170849?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/bf/62/00bf6204-2177-9ebe-15fc-ac83b968e1b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8d/4f/528d4f4a-86b5-c723-7472-1a4db5c0e94a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "49304576",
+  "fileSizeBytes": "49558528",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.0.6",
-  "currentVersionReleaseDate": "2026-07-11T21:50:47Z",
+  "version": "1.0.7",
+  "currentVersionReleaseDate": "2026-08-07T20:43:42Z",
   "releaseDate": "2026-07-09T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -224,6 +224,22 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b1/3b/4cb13b58-4348-2750-4de1-b72b719d08f2/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/63/71/8e63714b-2bdd-12a9-3435-22e50e961b53/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/39/4c/3f394c92-1d4c-d288-d529-5875505ef18e/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/44/c3/cd44c361-31e6-69f7-0d36-581a16571412/ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/23/f8/d623f828-9ee8-27d1-cb1d-80da2e325872/ScrsFish6.5-1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/46/9b/ad469b36-5ddf-6eba-b666-4e4edd031301/ScrsFish6.5-2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/62/83/9762830a-0bda-8c77-723f-39a009b7d4e1/ScrsFish6.5-3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/9d/7b/f59d7b10-ce3f-c7ef-c8b8-57f0f54b223d/ScrsFish6.5-4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/23/f8/d623f828-9ee8-27d1-cb1d-80da2e325872/ScrsFish6.5-1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/46/9b/ad469b36-5ddf-6eba-b666-4e4edd031301/ScrsFish6.5-2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/62/83/9762830a-0bda-8c77-723f-39a009b7d4e1/ScrsFish6.5-3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/9d/7b/f59d7b10-ce3f-c7ef-c8b8-57f0f54b223d/ScrsFish6.5-4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b1/3b/4cb13b58-4348-2750-4de1-b72b719d08f2/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/63/71/8e63714b-2bdd-12a9-3435-22e50e961b53/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/39/4c/3f394c92-1d4c-d288-d529-5875505ef18e/ipad3.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/44/c3/cd44c361-31e6-69f7-0d36-581a16571412/ipad4.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/5e/35/605e3559-4520-4055-cde0-1755a2cc806d/ipad1.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/34/86/6e34867a-38cf-6bfb-82ac-5baffcfff234/ipad2.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/29/57/dd295785-d86b-1107-0dbe-0f71846523ea/ipad3.png/2048x2732bb.png",
@@ -258,6 +274,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/fa/8a/cefa8afb-7c56-b5a3-4956-bef014a94657/ipad4.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/52/fc/df52fc69-593a-fbeb-b252-9ee064656f58/watch1.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/17/d6/e217d641-b93f-2e26-266c-a5a68413a5cb/watch2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/1b/c1/9c1bc179-d723-a56c-2bfe-6a31e7e99a31/watch3.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/24/bf/3724bf6b-cc6d-8416-a3f6-95f2f2edfcf2/watch4.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/bb/70/23bb70c1-f719-479e-954b-808692b0d2b8/watch1.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/d8/74/64d8746f-fbc4-ef56-19c5-d3c87aba0ed2/watch2.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/4e/a3/cf4ea3e5-e8e5-26ac-5999-684778a00e7b/watch3.png/368x448bb.png",
@@ -282,8 +302,13 @@
       "version": "1.0.6",
       "releaseNotes": "Optimized on Apple Watch.",
       "seenAt": "2026-07-11T21:50:47Z"
+    },
+    {
+      "version": "1.0.7",
+      "releaseNotes": "Improved graphics and added more levels.",
+      "seenAt": "2026-08-07T20:43:42Z"
     }
   ],
-  "updatedAt": "2026-08-07T07:45:28.969Z",
+  "updatedAt": "2026-08-08T07:22:20.592Z",
   "isOwnApp": false
 }

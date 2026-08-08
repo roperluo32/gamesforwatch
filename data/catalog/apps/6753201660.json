@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Hexa Jam: block escape",
       "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
-      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "releaseNotes": "Optimized loading time when open game.",
       "trackViewUrl": "https://apps.apple.com/us/app/hexa-jam-block-escape/id6753201660?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Hexa Jam: block escape",
       "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
-      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "releaseNotes": "Optimized loading time when open game.",
       "trackViewUrl": "https://apps.apple.com/cn/app/hexa-jam-block-escape/id6753201660?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Hexa Jam: block escape",
       "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
-      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "releaseNotes": "Optimized loading time when open game.",
       "trackViewUrl": "https://apps.apple.com/jp/app/hexa-jam-block-escape/id6753201660?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Hexa Jam: block escape",
       "description": "Play this relaxing puzzle today. Come help the bird to solve the jam. No pressure, no timer, just one hexagon at a time. Try to find an unblocked arrow and tap on it. Have fun with new levels everyday.",
-      "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
+      "releaseNotes": "Optimized loading time when open game.",
       "trackViewUrl": "https://apps.apple.com/de/app/hexa-jam-block-escape/id6753201660?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/2b/ae/782bae39-6d4b-ad00-12dd-2f188973d8ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/72/a7/f972a7f1-2dd8-e7d6-10c8-14299cf70a83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "31760384",
+  "fileSizeBytes": "31965184",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.2.5",
-  "currentVersionReleaseDate": "2026-06-25T23:11:24Z",
+  "version": "2.2.6",
+  "currentVersionReleaseDate": "2026-08-07T19:04:30Z",
   "releaseDate": "2025-10-01T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -382,8 +382,13 @@
       "version": "2.2.5",
       "releaseNotes": "Add buttons to mute and to turn off haptic feedback when needed.",
       "seenAt": "2026-06-25T23:11:24Z"
+    },
+    {
+      "version": "2.2.6",
+      "releaseNotes": "Optimized loading time when open game.",
+      "seenAt": "2026-08-07T19:04:30Z"
     }
   ],
-  "updatedAt": "2026-08-07T07:57:42.681Z",
+  "updatedAt": "2026-08-08T07:33:15.437Z",
   "isOwnApp": false
 }

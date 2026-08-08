@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Retrogram",
       "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "releaseNotes": "Zoom, enlarge or decrease the size of part of an electronic image on a screen\n\nThis version fixes an issue with the Wordway tutorial when using Display Zoom",
       "trackViewUrl": "https://apps.apple.com/us/app/retrogram/id1537372328?uo=4",
       "formattedPrice": "Free",
       "sellerName": "in Color",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Retrogram",
       "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "releaseNotes": "Zoom, enlarge or decrease the size of part of an electronic image on a screen\n\nThis version fixes an issue with the Wordway tutorial when using Display Zoom",
       "trackViewUrl": "https://apps.apple.com/jp/app/retrogram/id1537372328?uo=4",
       "formattedPrice": "無料",
       "sellerName": "in Color",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Retrogram",
       "description": "Think you're a word nerd? Make as many words as you can using seven letters\n\nRetrogram is a love letter to the 1970s, and the most stylish word puzzle you'll play all year. Train your brain and discover new words every day\n\nSubscribe to get the Daily Puzzle. A new puzzle each day, hand-curated and full of interesting stories about your favorite words\n\nOr play the Sunday puzzle for free each week\n\nFEATURES\n\n- A hand-made puzzle each and every day\n- SharePlay. Start a FaceTime call while you're solving a puzzle and solve together\n- Play on your Apple Watch too!\n- No ads, ever\n\nAdditional details\n\nPrivacy policy: https://retrogram.app/#privacy\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
+      "releaseNotes": "Zoom, enlarge or decrease the size of part of an electronic image on a screen\n\nThis version fixes an issue with the Wordway tutorial when using Display Zoom",
       "trackViewUrl": "https://apps.apple.com/de/app/retrogram/id1537372328?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "in Color",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/83/b3/1983b3c0-a1ab-4faa-4df5-6d336b733f07/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d4/3e/8dd43ed0-a43c-f9c3-25f9-7c5dcc909170/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 2,
   "userRatingCount": 4,
   "price": 0,
   "fileSizeBytes": "151251968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "3.0",
-  "currentVersionReleaseDate": "2026-07-12T20:20:07Z",
+  "version": "3.0.1",
+  "currentVersionReleaseDate": "2026-08-08T07:30:07Z",
   "releaseDate": "2022-01-04T08:00:00Z",
   "artistId": 1537372330,
   "artistName": "in Color",
@@ -370,8 +370,13 @@
       "version": "3.0",
       "releaseNotes": "We have a groovy new game called Wordway, new puzzles coming soon",
       "seenAt": "2026-07-12T20:20:07Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "Zoom, enlarge or decrease the size of part of an electronic image on a screen\n\nThis version fixes an issue with the Wordway tutorial when using Display Zoom",
+      "seenAt": "2026-08-08T07:30:07Z"
     }
   ],
-  "updatedAt": "2026-08-07T08:09:50.275Z",
+  "updatedAt": "2026-08-08T07:45:29.966Z",
   "isOwnApp": false
 }
