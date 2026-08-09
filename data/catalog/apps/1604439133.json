@@ -7,7 +7,7 @@
     "en": {
       "trackName": "A 15 Puzzle Game Lite",
       "description": "Experience the timeless challenge of the 15 Puzzle in a whole new way! Slide numbered tiles or image slices into their correct positions to solve puzzles at various difficulty levels.\nWhether you're solving puzzles on your wrist, on the go, or on the big screen, this game offers endless fun and mental exercise for everyone.\n\nKey Features:\n- Classic 15 Puzzle gameplay with numbers or images\n- Adjustable difficulty levels to suit all players\n- Personal highscores for every level\n- Personalize puzzles with your own photos\n- Beautifully designed interface for a smooth experience\n- Fun for all ages\n\nDownload now and put your puzzle-solving skills to the test!",
-      "releaseNotes": "Some minor bugfixes and improvements.",
+      "releaseNotes": "Bugfixes and stability improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/a-15-puzzle-game-lite/id1604439133?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Stefan JOSTEN",
@@ -27,7 +27,7 @@
     "zh": {
       "trackName": "A 15 Puzzle Game Lite",
       "description": "Experience the timeless challenge of the 15 Puzzle in a whole new way! Slide numbered tiles or image slices into their correct positions to solve puzzles at various difficulty levels.\nWhether you're solving puzzles on your wrist, on the go, or on the big screen, this game offers endless fun and mental exercise for everyone.\n\nKey Features:\n- Classic 15 Puzzle gameplay with numbers or images\n- Adjustable difficulty levels to suit all players\n- Personal highscores for every level\n- Personalize puzzles with your own photos\n- Beautifully designed interface for a smooth experience\n- Fun for all ages\n\nDownload now and put your puzzle-solving skills to the test!",
-      "releaseNotes": "Some minor bugfixes and improvements.",
+      "releaseNotes": "Bugfixes and stability improvements.",
       "trackViewUrl": "https://apps.apple.com/cn/app/a-15-puzzle-game-lite/id1604439133?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Stefan JOSTEN",
@@ -47,7 +47,7 @@
     "ja": {
       "trackName": "A 15 Puzzle Game Lite",
       "description": "Experience the timeless challenge of the 15 Puzzle in a whole new way! Slide numbered tiles or image slices into their correct positions to solve puzzles at various difficulty levels.\nWhether you're solving puzzles on your wrist, on the go, or on the big screen, this game offers endless fun and mental exercise for everyone.\n\nKey Features:\n- Classic 15 Puzzle gameplay with numbers or images\n- Adjustable difficulty levels to suit all players\n- Personal highscores for every level\n- Personalize puzzles with your own photos\n- Beautifully designed interface for a smooth experience\n- Fun for all ages\n\nDownload now and put your puzzle-solving skills to the test!",
-      "releaseNotes": "Some minor bugfixes and improvements.",
+      "releaseNotes": "Bugfixes and stability improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/a-15-puzzle-game-lite/id1604439133?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Stefan JOSTEN",
@@ -67,7 +67,7 @@
     "de": {
       "trackName": "A 15 Puzzle Game Lite",
       "description": "Erlebe die zeitlose Herausforderung des 15-Puzzle-Spiels auf ganz neue Weise! Verschiebe nummerierte Kacheln oder Bildausschnitte in die richtige Reihenfolge, um Rätsel in verschiedenen Schwierigkeitsstufen zu lösen. Personalisiere dein Spielerlebnis, indem du deine eigenen Fotos als Puzzle verwendest und deine schönsten Erinnerungen in eine knifflige Herausforderung verwandelst. Egal, ob auf deinem Handgelenk, unterwegs oder auf dem großen Bildschirm – dieses Spiel bietet endlosen Spaß und geistige Fitness für alle.\nSchwierigkeitsstufen zu lösen. Egal, ob auf deinem Handgelenk, unterwegs oder auf dem großen Bildschirm – dieses Spiel bietet endlosen Spaß und geistige Fitness für alle.\n\nFeatures:\n- Klassisches 15-Puzzle-Spiel mit Zahlen oder Bildern\n- Einstellbare Schwierigkeitsstufen für jeden Spielertyp inklusive Highscores\n- Individualisiere die Puzzles mit deinen eigenen Fotos\n- Optimiert für verschiedene Bildschirmgrößen, von klein bis groß\n- Spaß für alle Altersgruppen\n\nJetzt herunterladen und die Puzzle-Herausforderung jederzeit und überall genießen!",
-      "releaseNotes": "Kleinere Fehlerbehebungen und Verbesserungen.",
+      "releaseNotes": "Fehlerbehebungen und Stabilitätsverbesserungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/a-15-puzzle-game-lite/id1604439133?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Stefan JOSTEN",
@@ -85,15 +85,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cb/b2/c0cbb246-9be4-1dc7-61f8-e1967dd8217c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/7d/a2/5a7da2a5-bcdb-ce75-9de9-9f9f949316c6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "38093824",
+  "fileSizeBytes": "39067648",
   "contentAdvisoryRating": "17+",
-  "minimumOsVersion": "18.0",
-  "version": "8.0.1",
-  "currentVersionReleaseDate": "2025-02-14T23:31:11Z",
+  "minimumOsVersion": "26.0",
+  "version": "8.2",
+  "currentVersionReleaseDate": "2026-08-08T08:25:22Z",
   "releaseDate": "2022-01-18T08:00:00Z",
   "artistId": 949662361,
   "artistName": "Stefan JOSTEN",
@@ -282,8 +282,13 @@
       "version": "8.0.1",
       "releaseNotes": "Some minor bugfixes and improvements.",
       "seenAt": "2025-02-14T23:31:11Z"
+    },
+    {
+      "version": "8.2",
+      "releaseNotes": "Bugfixes and stability improvements.",
+      "seenAt": "2026-08-08T08:25:22Z"
     }
   ],
-  "updatedAt": "2026-08-08T07:23:12.025Z",
+  "updatedAt": "2026-08-09T07:25:42.459Z",
   "isOwnApp": false
 }

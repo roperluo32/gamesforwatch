@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch 15 Puzzle",
       "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
-      "releaseNotes": "Bug fixed and performance improvements",
+      "releaseNotes": "Bug fixes and performance improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Valerii Andrusyk",
@@ -27,7 +27,7 @@
     "ja": {
       "trackName": "Watch 15 Puzzle",
       "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
-      "releaseNotes": "Bug fixed and performance improvements",
+      "releaseNotes": "Bug fixes and performance improvements",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Valerii Andrusyk",
@@ -47,7 +47,7 @@
     "de": {
       "trackName": "Watch 15 Puzzle",
       "description": "Das Spielbrett besteht aus 15 quadratischen Spielsteinen, die von 1 bis 15 nummeriert sind, in einem Rahmen, der 4 Spielsteinpositionen hoch und 4 Spielsteinpositionen breit ist, mit einer unbesetzten Position. Spielsteine, die sich in der gleichen Reihe oder Spalte der offenen Position befinden, können durch horizontales bzw. vertikales Verschieben verschoben werden. Das Ziel des Puzzles ist es, die Spielsteine in numerischer Reihenfolge (von links nach rechts, von oben nach unten) anzuordnen.\n\nVersuche, so schnell wie möglich zu gewinnen, indem du auf der Apple Watch oder dem iPhone spielst!",
-      "releaseNotes": "Fehlerbehebung und Leistungsverbesserungen",
+      "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Valerii Andrusyk",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/96/d9/5296d986-74c8-3c1f-462c-f34e829650fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ae/fd/79aefdca-9dc1-eede-7271-a21c2124ebc8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "2379776",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "4.3",
-  "currentVersionReleaseDate": "2026-06-20T19:58:39Z",
+  "version": "4.4",
+  "currentVersionReleaseDate": "2026-08-08T20:17:14Z",
   "releaseDate": "2015-04-23T02:15:12Z",
   "artistId": 787326004,
   "artistName": "Valerii Andrusyk",
@@ -358,8 +358,13 @@
       "version": "4.3",
       "releaseNotes": "Bug fixed and performance improvements ",
       "seenAt": "2026-06-20T19:58:39Z"
+    },
+    {
+      "version": "4.4",
+      "releaseNotes": "Bug fixes and performance improvements ",
+      "seenAt": "2026-08-08T20:17:14Z"
     }
   ],
-  "updatedAt": "2026-08-08T07:16:02.756Z",
+  "updatedAt": "2026-08-09T07:18:48.393Z",
   "isOwnApp": false
 }
