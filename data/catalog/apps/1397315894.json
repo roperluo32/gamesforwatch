@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Soccer Dribble Cup: high score",
       "description": "Only 3 rules:\n+ Dribble through all defenders\n+ Reach opponent goal\n+ Shoot to score!!!\n\n*** Play on Phone, Tablet or Watch ***\n\nCredits:\n- Halloween music by Marllon Silva (xDeviruchi)\n- Ghost sprite by PINKCANNON",
-      "releaseNotes": "Add 2 new football stars and improve graphics .",
+      "releaseNotes": "Improved some levels.",
       "trackViewUrl": "https://apps.apple.com/us/app/soccer-dribble-cup-high-score/id1397315894?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Soccer Dribble Cup: high score",
       "description": "Only 3 rules:\n+ Dribble through all defenders\n+ Reach opponent goal\n+ Shoot to score!!!\n\n*** Play on Phone, Tablet or Watch ***\n\nCredits:\n- Halloween music by Marllon Silva (xDeviruchi)\n- Ghost sprite by PINKCANNON",
-      "releaseNotes": "Add 2 new football stars and improve graphics .",
+      "releaseNotes": "Improved some levels.",
       "trackViewUrl": "https://apps.apple.com/cn/app/soccer-dribble-cup-high-score/id1397315894?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Soccer Dribble Cup: high score",
       "description": "Only 3 rules:\n+ Dribble through all defenders\n+ Reach opponent goal\n+ Shoot to score!!!\n\n*** Play on Phone, Tablet or Watch ***\n\nCredits:\n- Halloween music by Marllon Silva (xDeviruchi)\n- Ghost sprite by PINKCANNON",
-      "releaseNotes": "Add 2 new football stars and improve graphics .",
+      "releaseNotes": "Improved some levels.",
       "trackViewUrl": "https://apps.apple.com/jp/app/soccer-dribble-cup-high-score/id1397315894?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Soccer Dribble Cup: high score",
       "description": "Only 3 rules:\n+ Dribble through all defenders\n+ Reach opponent goal\n+ Shoot to score!!!\n\n*** Play on Phone, Tablet or Watch ***\n\nCredits:\n- Halloween music by Marllon Silva (xDeviruchi)\n- Ghost sprite by PINKCANNON",
-      "releaseNotes": "Add 2 new football stars and improve graphics .",
+      "releaseNotes": "Improved some levels.",
       "trackViewUrl": "https://apps.apple.com/de/app/soccer-dribble-cup-high-score/id1397315894?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/dc/25/e7dc25a5-677b-3651-8f53-6c51d4299897/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f6/2d/f8f62dd4-4aa6-5838-d7d1-1e727c4efe85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.17647,
   "userRatingCount": 17,
   "price": 0,
-  "fileSizeBytes": "31561728",
+  "fileSizeBytes": "32653312",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.3",
-  "version": "2.41",
-  "currentVersionReleaseDate": "2026-07-21T22:53:37Z",
+  "version": "2.42",
+  "currentVersionReleaseDate": "2026-08-09T17:43:05Z",
   "releaseDate": "2018-07-29T11:05:23Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -408,8 +408,13 @@
       "version": "2.41",
       "releaseNotes": "Add 2 new football stars and improve graphics .",
       "seenAt": "2026-07-21T22:53:37Z"
+    },
+    {
+      "version": "2.42",
+      "releaseNotes": "Improved some levels.",
+      "seenAt": "2026-08-09T17:43:05Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:27:30.665Z",
+  "updatedAt": "2026-08-10T08:15:58.553Z",
   "isOwnApp": false
 }

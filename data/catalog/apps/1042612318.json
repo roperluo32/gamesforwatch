@@ -60,8 +60,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/f0/07/bbf007fd-c288-bbed-b870-200648ca01fa/pong_glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.40083,
-  "userRatingCount": 474,
+  "averageUserRating": 4.39368,
+  "userRatingCount": 475,
   "price": 0,
   "fileSizeBytes": "51379200",
   "contentAdvisoryRating": "4+",
@@ -410,6 +410,6 @@
       "seenAt": "2026-03-16T19:40:52Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:12:43.866Z",
+  "updatedAt": "2026-08-10T07:58:57.252Z",
   "isOwnApp": false
 }

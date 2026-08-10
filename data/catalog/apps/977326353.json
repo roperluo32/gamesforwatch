@@ -92,15 +92,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8a/47/4d8a47f7-9750-fc8f-3fb2-6ce731c1e896/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/dc/d8/22dcd889-1513-7c4f-e857-d95123cc9d55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.59999,
   "userRatingCount": 5,
   "price": 2.99,
   "fileSizeBytes": "23337984",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "5.0",
-  "currentVersionReleaseDate": "2026-06-06T21:47:07Z",
+  "version": "5.1",
+  "currentVersionReleaseDate": "2026-08-10T00:07:55Z",
   "releaseDate": "2015-04-25T14:27:49Z",
   "artistId": 787326004,
   "artistName": "Valerii Andrusyk",
@@ -391,8 +391,13 @@
       "version": "5.0",
       "releaseNotes": "Fresh new look, full 3D scene — pinch to zoom, two fingers to rotate.\nTop 20 spots are waiting. Are you one of them?\n\nEnjoyed the game? Leave us a rating — it truly helps!",
       "seenAt": "2026-06-06T21:47:07Z"
+    },
+    {
+      "version": "5.1",
+      "releaseNotes": "Fresh new look, full 3D scene — pinch to zoom, two fingers to rotate.\nTop 20 spots are waiting. Are you one of them?\n\nEnjoyed the game? Leave us a rating — it truly helps!",
+      "seenAt": "2026-08-10T00:07:55Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:41:19.360Z",
+  "updatedAt": "2026-08-10T08:32:06.809Z",
   "isOwnApp": false
 }

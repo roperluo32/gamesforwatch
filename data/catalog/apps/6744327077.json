@@ -9,7 +9,7 @@
       "description": "Free Kick for Watch is the only penalty and free kick game made for Watch!\nSwipe to curve the ball, bend it over or around the wall, and score the perfect goal. But watch out—wind can change the ball’s path, and defenders in the wall might suddenly start running!\n\nMinimal, fast, and intuitive, it’s perfect for quick matches—right on your wrist or iPhone.\nChallenge yourself and master the art of free kicks… anytime, anywhere!",
       "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
       "trackViewUrl": "https://apps.apple.com/us/app/soccer-game-free-kick-watch/id6744327077?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Games",
@@ -27,7 +27,7 @@
       "description": "Free Kick for Watch は Apple Watch 専用の唯一のペナルティ＆フリーキックゲーム！スワイプでボールに軌道をかけ、人壁を回避・飛び越えてパーフェクトゴールを決めよう。でも注意：風で軌道が変わることがあり、人壁の選手が突然走り出すことも！ミニマルでスピード感があり直感的、Apple Watch や iPhone での短いプレイに最適。自分に挑戦して、リスタートの達人になろう…手首から！",
       "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0-%E8%85%95%E6%99%82%E8%A8%88%E7%94%A8/id6744327077?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "ゲーム",
@@ -45,7 +45,7 @@
       "description": "Free Kick for Watch ist das einzige Spiel mit Freistoß und Elfmeter für die Apple Watch! Bring dem Ball mit einem Swipe Effet, umgehe oder überspringe die Mauer und schieß das perfekte Tor. Aber Achtung: Wind kann die Flugbahn ändern und die Mauerspieler können plötzlich losrennen! Minimalistisch, schnell und intuitiv – perfekt für kurze Matches auf Apple Watch und iPhone. Fordere dich heraus und werde Freistoß‑Meister… direkt vom Handgelenk!",
       "releaseNotes": "- Penalty mode\n- Goalkeeper AI improved",
       "trackViewUrl": "https://apps.apple.com/de/app/fu%C3%9Fballspiel-f%C3%BCr-uhr/id6744327077?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "1,99 €",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Spiele",
@@ -80,7 +80,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/e6/e6/f1e6e663-1260-2987-d314-0522ea56b5ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 1.99,
   "fileSizeBytes": "34311168",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
@@ -262,6 +262,6 @@
       "seenAt": "2026-03-18T13:10:57Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:16:25.617Z",
+  "updatedAt": "2026-08-10T08:02:42.861Z",
   "isOwnApp": false
 }

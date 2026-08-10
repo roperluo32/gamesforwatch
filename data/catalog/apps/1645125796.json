@@ -1,14 +1,14 @@
 {
   "trackId": "1645125796",
   "bundleId": "com.rdamato.arcadiasports",
-  "slug": "arcadia-sports-watch-games",
-  "path": "/apps/1645125796-arcadia-sports-watch-games/",
+  "slug": "arcadia-sports",
+  "path": "/apps/1645125796-arcadia-sports/",
   "locales": {
     "en": {
-      "trackName": "Arcadia Sports - Watch Games",
+      "trackName": "Arcadia Sports",
       "description": "Arcadia Sports is a collection of arcade games with a sports theme for Apple Watch, iPhone, iPad, Apple Vision Pro and Apple TV.\n\nThe collection consists of 12 games (with many more to come):\n\n- Beach Ball\nMatch similar balls to form larger ones. Keep them in the box.\n\n- Formula Race\nCompete in the premier racing series and outpace your opponents with skillful overtaking maneuvers.\n\n- Hoop Fever\nDribble, shoot and score. All with just one finger.\n\n- Basket\nGetting the ball in the hoop is a given. But what if the hoop had to target the ball instead?\n\n- 8-Ball Pool\nClassic 8-Ball in solo mode. Sink balls of one type (solid or striped) first and then the rest, culminating in the 8-ball.\n\n- 9-Ball Pool\nHit the lowest numbered ball first, but numerical order isn't necessary for pocketing.\n\n- Air Hockey\nSimilar to hockey, minus the ice and Zamboni. First to reach 10 points wins.\n\n- CyberSoccer\nTurn-based soccer, a new twist.\nEach CyberPlayer manages a zone on the field. If the ball lands there, it's their turn.\n\n- MiniGolf (Course A)\nGolf, but downsized with compact courses full of obstacles and challenges.\n\n- MiniGolf (Course B)\nSimilar to before, but with different courses (and challenges).\n\n- Bowling\nA classic! Knock down all the pins, preferably in one roll. Easier said than done, right?\n\n- RainBowling\nBowling meets a rainbow, with explosive pins and obstacles. Not quite the rainbow we remember.\n\nIs this a small offering? Don't worry!\nThis is just the beginning.\nWe're already working on new games that will be added to the collection over time.\n\nAdditional Features:\n- Advanced support for Apple Watch (Series 3 and later, Ultra and later)\n- 120 fps support on compatible devices\n- iCloud support for saving progress\n- Game Center support for online leaderboards\n- No advertisements\n- No tracking",
-      "releaseNotes": "Back to the classic look, plus improvements and bug fixes.\nThanks for playing!",
-      "trackViewUrl": "https://apps.apple.com/us/app/arcadia-sports-watch-games/id1645125796?uo=4",
+      "releaseNotes": "NEW GAME MODES!\n\nPOOL (8-Ball & 9-Ball)\n• Challenge the CPU: new VS CPU mode with three difficulty levels\n• New turn-based 2 Players mode on the same device\n\nAIR HOCKEY\n• New 2 Players mode on iPhone and iPad: one finger each, same screen!\n\nGame Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\nPlus the usual bug fixes and small improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/arcadia-sports/id1645125796?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Raffaele D'Amato",
       "genres": [
@@ -26,13 +26,13 @@
         "PT",
         "ES"
       ],
-      "subtitle": "Retro 8-bit Sport Games"
+      "subtitle": "Retro 8-bit Games for Watch"
     },
     "ja": {
-      "trackName": "Arcadia Sports - スポーツ系アーケードゲーム",
+      "trackName": "Arcadia Sports",
       "description": "アルカディア・スポーツは、Apple Watch、iPhone、iPad、Apple TV、Apple Vision Pro向けのスポーツテーマのアーケードゲームのコレクションです。\n\nこのコレクションには合計で12のゲームが含まれています（他にも多くのゲームが今後登場予定です）：\n\n- Beach Ball\n同じボールを合わせてより大きなボールを作ります。箱の中に留まるようにしてください。\n\n- Formula Race\n最高の自動車レースシリーズで競争し、追い越しで対戦相手に勝利します。\n\n- Hoop Fever\nドリブル、シュート、得点。これらすべてを一本の指で。\n\n- バスケットボール\nボールはバスケットに入ります、もちろんです。しかし、バスケットがボールを入れる必要がある場合はどうなるでしょうか？\n\n- 8-Ball Pool\nクラシックな8ボールゲームですが、ソロモードでプレイします。最初に1種類のボール（ソリッドまたはストライプ）をポットし、その後他のボールを8番ボールで終了します。\n\n- 9-Ball Pool\nこのゲームでは、常に数字が最も低いボールを最初に打つ必要がありますが、数字の順序でポットする必要はありません。\n\n- エアホッケー\n氷とザンボニーなしでホッケーのようなものです。最初に10ポイントに到達したプレイヤーが勝ちます。\n\n- サイバーサッカー\nターン制のサッカーゲーム、これは新しい発想です。\n各サイバージョーカーはフィールドの一部を管理します。ボールがそのエリアに入ると、そのプレイヤーのターンになります。\n\n- ミニゴルフ（コースA）\nゴルフですが、ミニチュア化されています。コースは小さいですが、障害物と困難がいっぱいです。\n\n- ミニゴルフ（コースB）\nゴルフと同じですが…あ、前に言いましたね。\n前と同じようなものですが、異なるコース（および課題）です。\n\n- ボウリング\nさあ、これはクラシックです！すべてのピンを倒す、理想的には1投で。\n言うのは簡単ですか？やってみるのはどうかな？\n\n- レインボウリング\nボウリングが虹に出会ったものです。そして、その結果に苦しんでいます。\n爆発するピン、障害物…虹は以前とは違うと思っていました。\n\nそれだけですか？心配しないでください！\nこれは始まりに過ぎません。\nすでにコレクションに順次追加される新しいゲームに取り組んでいます。\n\nアドバイス、批評、さらには提案するゲームがあれば、ぜひお聞かせください！\n\nその他の特徴：\n- Apple Watch（Series 3以降、Ultra以降）の高度なサポート\n- 対応デバイスでの120fpsのサポート\n- 進行状況を保存するためのiCloudのサポート\n- クラシックオンラインゲームのためのGame Centerのサポート\n- 広告なし\n- 追跡なし",
-      "releaseNotes": "日本語: クラシックな見た目に戻りました。改善と不具合修正も行いました。\n遊んでくれてありがとう！",
-      "trackViewUrl": "https://apps.apple.com/jp/app/arcadia-sports-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%B3%BB%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id1645125796?uo=4",
+      "releaseNotes": "新ゲームモード登場！\n\nビリヤード（8-Ball & 9-Ball）\n• CPUに挑戦：3段階の難易度を選べる新しいVS CPUモード\n• 同じデバイスで交互にプレイできる、新しい2人対戦モード\n\nエアホッケー\n• iPhoneとiPadに新しい2人対戦モードが登場：同じ画面で、1人1本の指を使って対戦！\n\nApple WatchにGame Centerが復活！Apple Watchでランキングを直接確認でき、スコアはすぐにGame Centerへ送信されます。\n\nそのほか、各種不具合の修正と細かな改善も行いました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/arcadia-sports/id1645125796?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Raffaele D'Amato",
       "genres": [
@@ -53,10 +53,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Arcadia Sports - Watch Games",
+      "trackName": "Arcadia Sports",
       "description": "Arcadia Sports ist eine Sammlung von sportbezogenen Arcade-Spielen für Apple Watch, iPhone, iPad, Apple Vision Pro und Apple TV.\n\nDie Sammlung umfasst insgesamt 12 Spiele (mit vielen weiteren in der Pipeline):\n\n- Beach Ball\nKombiniere gleiche Bälle, um größere zu bilden. Stelle sicher, dass sie in der Box bleiben.\n\n- Formula Race\nTreten Sie in der höchsten Autorennserie an und besiegen Sie Ihre Gegner mit aufregenden Überholmanövern.\n\n- Hoop Fever\nDribbeln, Schießen und Punkten. Alles mit nur einem Finger.\n\n- Basket\nDer Ball landet im Korb, klar. Aber was würde passieren, wenn der Korb den Ball treffen müsste?\n\n- 8-Ball Pool\nEs ist das klassische 8-Ball-Spiel, aber im Solomodus. Lochen Sie zuerst die Bälle eines Typs (voll oder gestreift) ein und dann die anderen, bis Sie mit der Nummer 8 abschließen.\n\n- 9-Ball Pool\nIn diesem Spiel müssen Sie immer zuerst den Ball mit der niedrigsten Nummer treffen, aber es ist nicht erforderlich, sie in numerischer Reihenfolge einzulochen.\n\n- Air Hockey\nEs ist ein bisschen wie Eishockey, aber ohne Eis und Zamboni. Wer zuerst 10 Punkte erreicht, gewinnt.\n\n- CyberSoccer\nFußball im Turnus, das ist etwas Neues.\nJeder CyberSpieler verwaltet einen Bereich des Spielfelds. Wenn der Ball in diesen Bereich gelangt, ist er an der Reihe.\n\n- MiniGolf (Kurs A)\nEs ist wie Golf, aber in Miniatur. Die Plätze sind klein, aber voller Hindernisse und Herausforderungen.\n\n- MiniGolf (Kurs B)\nEs ist wie Golf, aber... ach, das habe ich bereits gesagt.\nEs ist ähnlich wie zuvor, aber mit unterschiedlichen Plätzen (und Herausforderungen).\n\n- Bowling\nKomm schon, das ist ein Klassiker! Räumen Sie alle Pins ab, idealerweise im ersten Wurf.\nEinfacher gesagt als getan? Vielleicht...\n\n- RainBowling\nEs ist Bowling, das auf einen Regenbogen trifft. Und wir tragen die Konsequenzen.\nExplosive Pins, Hindernisse... ich erinnerte mich an den Regenbogen anders.\n\nIst das alles? Keine Sorge!\nDas ist erst der Anfang.\nWir arbeiten bereits an neuen Spielen, die nach und nach in die Sammlung aufgenommen werden.\n\nWenn Sie Ratschläge, Kritik oder sogar ein Spiel zur Verfügung haben, hören wir aufmerksam zu!\n\nWeitere Merkmale:\n- Erweiterter Support für Apple Watch (Series 3 und höher, Ultra und höher)\n- Unterstützung von 120 fps auf kompatiblen Geräten\n- Unterstützung von iCloud für Speicherstände\n- Unterstützung des Game Centers für klassisches Online-Spielen\n- Keine Werbung\n- Kein Tracking",
-      "releaseNotes": "Zurück zum klassischen Look – plus Verbesserungen und Bugfixes.\nDanke fürs Spielen!",
-      "trackViewUrl": "https://apps.apple.com/de/app/arcadia-sports-watch-games/id1645125796?uo=4",
+      "releaseNotes": "NEUE SPIELMODI!\n\nBILLARD (8-Ball & 9-Ball)\n• Fordere die CPU heraus: neuer VS-CPU-Modus mit drei Schwierigkeitsstufen\n• Neuer 2-Spieler-Modus mit abwechselnden Spielzügen auf demselben Gerät\n\nAIRHOCKEY\n• Neuer 2-Spieler-Modus auf iPhone und iPad: jeder mit einem Finger auf demselben Bildschirm!\n\nGame Center ist zurück auf der Apple Watch! Du kannst die Bestenlisten jetzt direkt auf deiner Uhr ansehen, und deine Punktzahlen werden sofort an Game Center übermittelt.\n\nDazu kommen die üblichen Fehlerbehebungen und kleinen Verbesserungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/arcadia-sports/id1645125796?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Raffaele D'Amato",
       "genres": [
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ec/31/8aec3195-4e49-2d6a-69d4-42fc3263551f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0f/02/ea0f026e-5f24-c84d-4167-9dc600f50bb9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.80518,
   "userRatingCount": 154,
   "price": 1.99,
-  "fileSizeBytes": "30030848",
+  "fileSizeBytes": "30907392",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.4.2",
-  "currentVersionReleaseDate": "2026-01-26T03:54:27Z",
+  "version": "1.5",
+  "currentVersionReleaseDate": "2026-08-09T21:14:16Z",
   "releaseDate": "2023-08-15T07:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -387,8 +387,13 @@
       "version": "1.4.2",
       "releaseNotes": "Back to the classic look, plus improvements and bug fixes.\nThanks for playing!",
       "seenAt": "2026-01-26T03:54:27Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "NEW GAME MODES!\n\nPOOL (8-Ball & 9-Ball)\n• Challenge the CPU: new VS CPU mode with three difficulty levels\n• New turn-based 2 Players mode on the same device\n\nAIR HOCKEY\n• New 2 Players mode on iPhone and iPad: one finger each, same screen!\n\nGame Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\nPlus the usual bug fixes and small improvements.",
+      "seenAt": "2026-08-09T21:14:16Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:14:54.196Z",
+  "updatedAt": "2026-08-10T08:01:31.935Z",
   "isOwnApp": false
 }

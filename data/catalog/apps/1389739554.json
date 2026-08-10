@@ -15,7 +15,7 @@
         "Games",
         "Sports",
         "Sports",
-        "Family"
+        "Racing"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -33,7 +33,7 @@
         "游戏",
         "体育",
         "体育",
-        "家庭聚会"
+        "竞速"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -51,7 +51,7 @@
         "ゲーム",
         "スポーツ",
         "スポーツ",
-        "ファミリー"
+        "レーシング"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -69,7 +69,7 @@
         "Spiele",
         "Sport",
         "Sport",
-        "Familie"
+        "Rennsport"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/c9/08/81c908ea-65c5-8b37-3b93-269089804325/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/7c/17/e37c179c-c4ad-2313-32ba-d63a16ea2c3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.22222,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "26602496",
+  "fileSizeBytes": "31529984",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "4.0.1",
-  "currentVersionReleaseDate": "2026-08-08T00:07:31Z",
+  "version": "4.0.2",
+  "currentVersionReleaseDate": "2026-08-09T21:29:34Z",
   "releaseDate": "2018-06-25T11:34:43Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -224,6 +224,18 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f5/d9/def5d9d1-7f6a-d297-5d9a-cfd05bdb5e97/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/65/55/266555f8-1e2e-5331-bfff-841578773280/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/af/1e/17af1e06-945a-621c-f9d6-879fd5be9828/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/b7/19/19b719a2-46a6-5e67-baa9-d4c35060a5de/ip2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/03/cd/f203cda3-e049-a26e-bdb2-94bf663ba2b8/ip3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/fa/8b/97fa8b63-eb5e-e2df-8c70-01c51bb8af5f/ip1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/b7/19/19b719a2-46a6-5e67-baa9-d4c35060a5de/ip2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/03/cd/f203cda3-e049-a26e-bdb2-94bf663ba2b8/ip3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/fa/8b/97fa8b63-eb5e-e2df-8c70-01c51bb8af5f/ip1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f5/d9/def5d9d1-7f6a-d297-5d9a-cfd05bdb5e97/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/65/55/266555f8-1e2e-5331-bfff-841578773280/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/af/1e/17af1e06-945a-621c-f9d6-879fd5be9828/ipad3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/e1/cf/77e1cf68-548a-d497-b5b3-fba1fd45d0c3/aPad3.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/46/97/5f469757-4247-2150-aee6-5ca46a0fcdc3/aPad2.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/6e/6c/0f6e6c7b-f164-2564-6246-408e8d48f59b/aPad1.png/2048x2732bb.png",
@@ -238,6 +250,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/6e/6c/0f6e6c7b-f164-2564-6246-408e8d48f59b/aPad1.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/df/46/26df46ae-ad96-6f6a-2b4e-9db3872d6b47/w3.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/66/2f/b7662f78-14c8-3c3d-4c60-1adc72c01492/w1.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/9c/26/459c26ba-d93e-ed04-587f-16d38b69a00c/w2.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/8a/e3/8e8ae373-8b95-fb06-1061-033430d6d01c/w3.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/88/2f/33882f45-2a55-3d3d-6b28-dff11a8c74bf/w1.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/4c/0e/0a4c0ec8-ba7c-bd45-bea3-57773385b7b0/w2.png/410x502bb.png"
@@ -372,8 +387,13 @@
       "version": "4.0.1",
       "releaseNotes": " - Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
       "seenAt": "2026-08-08T00:07:31Z"
+    },
+    {
+      "version": "4.0.2",
+      "releaseNotes": " - Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "seenAt": "2026-08-09T21:29:34Z"
     }
   ],
-  "updatedAt": "2026-08-09T07:14:43.076Z",
+  "updatedAt": "2026-08-10T08:07:16.359Z",
   "isOwnApp": false
 }
