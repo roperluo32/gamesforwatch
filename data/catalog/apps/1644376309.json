@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Hit The Island－Fun Arcade Game",
       "description": "As simple as it sounds, Hit The Island with the ball and score points.\nBut wait, there is a catch!\nThe ball speeds up.\nIt can get cloned.\nThen the paddle shrinks!?\nSurprise Power-Ups?!\n\nEasy peasy, huh?\n\nNEW Levels modes: jump up, aim, break bricks, shooter.\n\nTry your skills now and share your high score today!\nLet's see how it goes :)\n\nWhat is your high score? \nWhich power up is your favorite?\nDo you like the new Levels? \n\nLet us know :D\n\nP.S. \nNotch devices are also supported!",
-      "releaseNotes": "New Theme Power-Ups Are Here!\n\nDive into Scuba, explore Space, brave Lava, enjoy Sakura, discover Aurora, face the Storm, glow with Neon, and enter the Haunted theme!\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
+      "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
       "trackViewUrl": "https://apps.apple.com/us/app/hit-the-island-fun-arcade-game/id1644376309?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Funn Media, LLC",
@@ -38,7 +38,7 @@
     "ja": {
       "trackName": "Hit The Island－Fun Arcade Game",
       "description": "As simple as it sounds, Hit The Island with the ball and score points.\nBut wait, there is a catch!\nThe ball speeds up.\nIt can get cloned.\nThen the paddle shrinks!?\nSurprise Power-Ups?!\n\nEasy peasy, huh?\n\nNEW Levels modes: jump up, aim, break bricks, shooter.\n\nTry your skills now and share your high score today!\nLet's see how it goes :)\n\nWhat is your high score? \nWhich power up is your favorite?\nDo you like the new Levels? \n\nLet us know :D\n\nP.S. \nNotch devices are also supported!",
-      "releaseNotes": "New Theme Power-Ups Are Here!\n\nDive into Scuba, explore Space, brave Lava, enjoy Sakura, discover Aurora, face the Storm, glow with Neon, and enter the Haunted theme!\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
+      "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
       "trackViewUrl": "https://apps.apple.com/jp/app/hit-the-island-fun-arcade-game/id1644376309?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Funn Media, LLC",
@@ -69,7 +69,7 @@
     "de": {
       "trackName": "Hit The Island－Fun Arcade Game",
       "description": "As simple as it sounds, Hit The Island with the ball and score points.\nBut wait, there is a catch!\nThe ball speeds up.\nIt can get cloned.\nThen the paddle shrinks!?\nSurprise Power-Ups?!\n\nEasy peasy, huh?\n\nNEW Levels modes: jump up, aim, break bricks, shooter.\n\nTry your skills now and share your high score today!\nLet's see how it goes :)\n\nWhat is your high score? \nWhich power up is your favorite?\nDo you like the new Levels? \n\nLet us know :D\n\nP.S. \nNotch devices are also supported!",
-      "releaseNotes": "New Theme Power-Ups Are Here!\n\nDive into Scuba, explore Space, brave Lava, enjoy Sakura, discover Aurora, face the Storm, glow with Neon, and enter the Haunted theme!\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
+      "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
       "trackViewUrl": "https://apps.apple.com/de/app/hit-the-island-fun-arcade-game/id1644376309?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Funn Media, LLC",
@@ -98,15 +98,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/41/57/bf4157a2-e7e2-8051-2353-704f5616e580/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/ba/e8/bdbae8b6-c141-f21a-fbbd-114b3a5b0b0b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.42847,
   "userRatingCount": 1405,
   "price": 0,
-  "fileSizeBytes": "345721856",
+  "fileSizeBytes": "394206208",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "15.0",
-  "version": "3.5.6",
-  "currentVersionReleaseDate": "2026-07-29T13:30:13Z",
+  "version": "3.5.9",
+  "currentVersionReleaseDate": "2026-08-10T22:23:05Z",
   "releaseDate": "2022-09-16T07:00:00Z",
   "artistId": 646811578,
   "artistName": "Funn Media, LLC",
@@ -452,8 +452,13 @@
       "version": "3.5.6",
       "releaseNotes": "New Theme Power-Ups Are Here!\n\nDive into Scuba, explore Space, brave Lava, enjoy Sakura, discover Aurora, face the Storm, glow with Neon, and enter the Haunted theme!\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
       "seenAt": "2026-07-29T13:30:13Z"
+    },
+    {
+      "version": "3.5.9",
+      "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
+      "seenAt": "2026-08-10T22:23:05Z"
     }
   ],
-  "updatedAt": "2026-08-10T07:59:53.993Z",
+  "updatedAt": "2026-08-11T07:25:19.297Z",
   "isOwnApp": false
 }
