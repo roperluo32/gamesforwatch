@@ -66,10 +66,10 @@
       "subtitle": "Games collection: Play offline"
     },
     "ja": {
-      "trackName": "25 Mini Games: Watch & Phone",
+      "trackName": "腕時計とスマホで25ミニゲーム",
       "description": "すばやいチャレンジ、シンプルな操作、さまざまなゲームスタイルが詰まった明るいアーケードコレクションに飛び込みましょう。アクション、パズル、スポーツ、反射神経系のミニゲームを1つのアプリで楽しめます。時間とともにコンテンツを解放し、気分に合わせてゲームを切り替えましょう。\n\n時計とスマホで遊べるミニゲームがたくさん。\n\n25 Mini Games Collection には、個性の違うゲームがたくさん入っています。インターネット接続なしでオフラインプレイできます。\n\nすぐに遊べるゲーム:\n- Ping Pong (up to four players on one device!)\n- Tic Tac Toe\n- Saw Master! Ultimate\n\nスマホですぐ遊べて、時計ではアンロックできるゲーム:\n- Chess\n- Gold Ninja\n- Color Sort Fun\n- Cowboy Duel\n- Goal Keeper Fantastico\n- Tunnel Racer\n- Tunnel Racer 2.0\n- Zombie Goats\n- Cactus vs. Dino 3D: Jump game\n- Moto Race: Oncoming Fury\n- Dino Merge: Idle Clicker\n- Mediocre Manfredo: Jump'n'run\n- Night Racer: Car Crash\n- Super Flags! Flag Quiz\n- Super Maps! Map Quiz\n- Four in a Row\n- Monster Truck: Car Smash\n- Battle Run: Castle\n- Tech Billionaire Jump\n- Tunnel Dig: Red Sapphire Quest\n- Cactus Run\n- Nodoku: It's not Sudoku\n- Tech Billionaire Run\n\nそうです。実は合計26ゲーム入っています!",
       "releaseNotes": "バグ修正",
-      "trackViewUrl": "https://apps.apple.com/jp/app/25-mini-games-watch-phone/id6504710329?uo=4",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E6%99%82%E8%A8%88%E3%81%A8%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A725%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0/id6504710329?uo=4",
       "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
@@ -127,10 +127,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "25 Mini Games: Watch & Phone",
+      "trackName": "25 Minispiele für Uhr & Handy",
       "description": "Tauche in eine bunte Arcade-Sammlung mit schnellen Herausforderungen, einfacher Steuerung und verschiedenen Spielstilen ein. Spiele Action-, Puzzle-, Sport- und Reaktions-Minispiele an einem Ort, schalte mit der Zeit mehr Inhalte frei und wechsle jederzeit für eine frische Runde.\n\nViele Minispiele für Uhr und Handy.\n\n25 Mini Games Collection bietet eine einzigartige Kombination von Spielen. Spiele offline - zum Spielen ist keine Internetverbindung erforderlich.\n\nSofort spielbar:\n- Ping Pong (up to four players on one device!)\n- Tic Tac Toe\n- Saw Master! Ultimate\n\nSofort auf dem Handy spielbar, auf der Uhr freischaltbar:\n- Chess\n- Gold Ninja\n- Color Sort Fun\n- Cowboy Duel\n- Goal Keeper Fantastico\n- Tunnel Racer\n- Tunnel Racer 2.0\n- Zombie Goats\n- Cactus vs. Dino 3D: Jump game\n- Moto Race: Oncoming Fury\n- Dino Merge: Idle Clicker\n- Mediocre Manfredo: Jump'n'run\n- Night Racer: Car Crash\n- Super Flags! Flag Quiz\n- Super Maps! Map Quiz\n- Four in a Row\n- Monster Truck: Car Smash\n- Battle Run: Castle\n- Tech Billionaire Jump\n- Tunnel Dig: Red Sapphire Quest\n- Cactus Run\n- Nodoku: It's not Sudoku\n- Tech Billionaire Run\n\nStimmt genau - das sind tatsächlich 26 Spiele!",
       "releaseNotes": "Fehlerbehebungen",
-      "trackViewUrl": "https://apps.apple.com/de/app/25-mini-games-watch-phone/id6504710329?uo=4",
+      "trackViewUrl": "https://apps.apple.com/de/app/25-minispiele-f%C3%BCr-uhr-handy/id6504710329?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
@@ -188,15 +188,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ed/7f/a3ed7f0c-8f49-b64e-d5a7-bdf01bcbb932/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/a1/a5/5da1a5f1-0a76-e48d-d168-3553d757d26c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "110372864",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "13.03.01",
-  "currentVersionReleaseDate": "2026-07-21T07:44:55Z",
+  "version": "13.03.02",
+  "currentVersionReleaseDate": "2026-08-11T12:31:56Z",
   "releaseDate": "2024-06-24T07:00:00Z",
   "artistId": 1716757352,
   "artistName": "DegerGames",
@@ -510,8 +510,13 @@
       "version": "13.03.01",
       "releaseNotes": "Bug fixes",
       "seenAt": "2026-07-21T07:44:55Z"
+    },
+    {
+      "version": "13.03.02",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2026-08-11T12:31:56Z"
     }
   ],
-  "updatedAt": "2026-08-11T07:38:12.956Z",
+  "updatedAt": "2026-08-12T08:02:12.980Z",
   "isOwnApp": false
 }

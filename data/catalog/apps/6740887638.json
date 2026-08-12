@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Puzzle",
-        "Entertainment",
-        "Casual"
+        "Casual",
+        "Entertainment"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "游戏",
         "益智解谜",
-        "娱乐",
-        "休闲"
+        "休闲",
+        "娱乐"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "ゲーム",
         "パズル",
-        "エンターテインメント",
-        "カジュアル"
+        "カジュアル",
+        "エンターテインメント"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Puzzle",
-        "Unterhaltung",
-        "Gelegenheits­spiele"
+        "Gelegenheits­spiele",
+        "Unterhaltung"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b8/7b/10b87bdc-31b7-0eb8-78e6-29d1e95588b9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/26/73/292673a8-2fdd-f951-37c0-32fc703c2e2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "141302784",
+  "fileSizeBytes": "85253120",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "12.0",
-  "version": "1.2.0",
-  "currentVersionReleaseDate": "2026-08-06T04:38:24Z",
+  "minimumOsVersion": "15.6",
+  "version": "1.2.2",
+  "currentVersionReleaseDate": "2026-08-11T02:32:04Z",
   "releaseDate": "2025-01-23T08:00:00Z",
   "artistId": 1101992720,
   "artistName": "Le Thi Thanh Binh",
@@ -287,8 +287,13 @@
       "version": "1.2.0",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-08-06T04:38:24Z"
+    },
+    {
+      "version": "1.2.2",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-08-11T02:32:04Z"
     }
   ],
-  "updatedAt": "2026-08-10T08:36:07.387Z",
+  "updatedAt": "2026-08-12T08:24:15.038Z",
   "isOwnApp": false
 }
