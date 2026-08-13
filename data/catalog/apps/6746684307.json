@@ -1,0 +1,252 @@
+{
+  "trackId": "6746684307",
+  "bundleId": "com.rpgamewatch.com.DungeonCrawlerWatch",
+  "slug": "dungeon-crawler-rpg-watch",
+  "path": "/apps/6746684307-dungeon-crawler-rpg-watch/",
+  "locales": {
+    "en": {
+      "trackName": "Dungeon Crawler RPG Watch",
+      "description": "Step off the beaten path — your epic quest begins now.\n\nDungeon Crawler RPG is a true old-school dungeon crawler, rebuilt with depth, strategy, and survival at its core. No shortcuts. No gimmicks. Just thoughtful exploration and tactical combat in a rich fantasy world.\n\nYou play as Oro, a renegade wizard on a desperate mission to stop The Death and its necromantic horde before a world-ending ritual is completed. Every step matters. Every encounter demands strategy. Every decision can mean life or death.\n\n* Turn-based battles with real tactical depth \n* A large hand-crafted world explored tile by tile \n* Elemental spells and evolving abilities \n* Villages, dungeons, guardians, and powerful bosses \n* Designed for immersive, focused play sessions\n\nCreated for players who crave challenge, strategy, and classic RPG depth, Dungeon Crawler RPG delivers a complete fantasy adventure in a compact, accessible format.",
+      "releaseNotes": "Minor bug fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/us/app/dungeon-crawler-rpg-watch/id6746684307?uo=4",
+      "formattedPrice": "$0.99",
+      "sellerName": "Virginie Barok",
+      "genres": [
+        "Games",
+        "Roleplaying",
+        "Adventure"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Turn-Based Fantasy Adventure"
+    },
+    "ja": {
+      "trackName": "Dungeon Crawler RPG Watch",
+      "description": "Step off the beaten path — your epic quest begins now.\n\nDungeon Crawler RPG is a true old-school dungeon crawler, rebuilt with depth, strategy, and survival at its core. No shortcuts. No gimmicks. Just thoughtful exploration and tactical combat in a rich fantasy world.\n\nYou play as Oro, a renegade wizard on a desperate mission to stop The Death and its necromantic horde before a world-ending ritual is completed. Every step matters. Every encounter demands strategy. Every decision can mean life or death.\n\n* Turn-based battles with real tactical depth \n* A large hand-crafted world explored tile by tile \n* Elemental spells and evolving abilities \n* Villages, dungeons, guardians, and powerful bosses \n* Designed for immersive, focused play sessions\n\nCreated for players who crave challenge, strategy, and classic RPG depth, Dungeon Crawler RPG delivers a complete fantasy adventure in a compact, accessible format.",
+      "releaseNotes": "Minor bug fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/jp/app/dungeon-crawler-rpg-watch/id6746684307?uo=4",
+      "formattedPrice": "¥150",
+      "sellerName": "Virginie Barok",
+      "genres": [
+        "ゲーム",
+        "ロールプレイング",
+        "アドベンチャー"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Dungeon Crawler RPG Watch",
+      "description": "Step off the beaten path — your epic quest begins now.\n\nDungeon Crawler RPG is a true old-school dungeon crawler, rebuilt with depth, strategy, and survival at its core. No shortcuts. No gimmicks. Just thoughtful exploration and tactical combat in a rich fantasy world.\n\nYou play as Oro, a renegade wizard on a desperate mission to stop The Death and its necromantic horde before a world-ending ritual is completed. Every step matters. Every encounter demands strategy. Every decision can mean life or death.\n\n* Turn-based battles with real tactical depth \n* A large hand-crafted world explored tile by tile \n* Elemental spells and evolving abilities \n* Villages, dungeons, guardians, and powerful bosses \n* Designed for immersive, focused play sessions\n\nCreated for players who crave challenge, strategy, and classic RPG depth, Dungeon Crawler RPG delivers a complete fantasy adventure in a compact, accessible format.",
+      "releaseNotes": "Minor bug fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/de/app/dungeon-crawler-rpg-watch/id6746684307?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Virginie Barok",
+      "genres": [
+        "Spiele",
+        "Rollenspiel",
+        "Abenteuer"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/00/6d/4a006d58-df81-d1fe-7f1a-f0f34b2fbefa/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0.99,
+  "fileSizeBytes": "103099392",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "1.6",
+  "currentVersionReleaseDate": "2026-02-21T01:19:45Z",
+  "releaseDate": "2025-06-03T07:00:00Z",
+  "artistId": 1816071936,
+  "artistName": "Virginie Barok",
+  "artistViewUrl": "https://apps.apple.com/de/developer/virginie-barok/id1816071936?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/4f/63/e34f6382-2486-1fe0-5330-eacc860077ae/screenshot_dungeon_crawler_2.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/e4/b9/fde4b95a-91d0-0ec4-cc43-7f870b9712dc/screenshot_dungeon_crawler_1.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/b6/af/eeb6af5c-4989-ee6e-323e-e4123223ee6d/screenshot_dungeon_crawler_3.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/2c/cf/6d2ccf73-f430-0198-7e5b-bb0276d1d0ba/screenshot_dungeon_crawler_4.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/b0/5e/dbb05e3c-d25b-a04f-e84d-da0c4f535df4/screenshot_dungeon_crawler_5.jpg/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2025-06-02T23:38:36Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Minor bug fixes\nAdded the 'Return to Village' button",
+      "seenAt": "2025-06-05T15:02:45Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Minor bug fixes",
+      "seenAt": "2025-06-17T23:45:04Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Fix minor bugs and improvements",
+      "seenAt": "2025-08-13T18:42:35Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "Updated App Icon",
+      "seenAt": "2025-08-21T16:19:52Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Minor bug fixes and improvements",
+      "seenAt": "2026-01-28T22:40:20Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "Minor bug fixes and improvements",
+      "seenAt": "2026-02-21T01:19:45Z"
+    }
+  ],
+  "updatedAt": "2026-08-13T08:27:20.067Z",
+  "isOwnApp": false
+}

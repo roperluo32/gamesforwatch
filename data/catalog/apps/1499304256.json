@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/62/7b/a2627b1d-42ee-d233-92fc-45658309c1de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.5732,
-  "userRatingCount": 806,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b7/69/9cb769f2-0452-ff39-4e10-e33154eb5a5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.57373,
+  "userRatingCount": 807,
   "price": 0,
-  "fileSizeBytes": "199116800",
+  "fileSizeBytes": "204628992",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "1.2.90",
-  "currentVersionReleaseDate": "2026-07-28T04:43:29Z",
+  "version": "1.2.91",
+  "currentVersionReleaseDate": "2026-08-13T04:52:10Z",
   "releaseDate": "2020-05-24T07:00:00Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -478,8 +478,13 @@
       "version": "1.2.90",
       "releaseNotes": "* Blast off with the Stackville Space Program in our next event! Come unlock Astro Rocket, Magic Star Tako, and Starship Stella!\n* Bug Fixes & Optimizations!",
       "seenAt": "2026-07-28T04:43:29Z"
+    },
+    {
+      "version": "1.2.91",
+      "releaseNotes": "* Blast off with the Stackville Space Program in our next event! Come unlock Astro Rocket, Magic Star Tako, and Starship Stella!\n* Bug Fixes & Optimizations!",
+      "seenAt": "2026-08-13T04:52:10Z"
     }
   ],
-  "updatedAt": "2026-08-12T07:49:19.249Z",
+  "updatedAt": "2026-08-13T07:52:57.244Z",
   "isOwnApp": false
 }

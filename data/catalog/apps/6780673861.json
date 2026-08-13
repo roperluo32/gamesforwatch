@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Watch Games Pixel",
-      "description": "Watch Games — a pixel arcade on your wrist.\n\nBetween swim sets, on the commute, or while waiting in line: lift your wrist and start a round. Built for Apple Watch with crisp pixel art and simple controls for short sessions. Play independently on your Watch.\n\nWHY WATCH\n• One-hand taps, easy rules\n• Pixel art stays readable on a small screen\n• Quick start / quick finish for breaks\n• Standalone Watch play (no phone in hand required)\n\nGAMES (more coming)\n• Palm Pet — hatch, feed, clean, sleep; watch-face widget; care on phone and Watch together\n• Pixel Link — match tiles with ≤2-turn paths; boards grow by level\n• Coin War — shoot coins straight up and merge\n• Screw Relax — unscrew plates and dig endlessly\n• Parking Exit — clear blockers and drive out\n• Bottle Match — deduce the order from match counts\n• Gun Rush — endless side-scroller shooter\n• Sushi Belt — sort sushi on the conveyor\n• Spit Aim — tap to spit and hit moving targets\n• Pool / 4-way Tetris and more\n• Punch SFX — punch to trigger hit sounds\n\nON IPHONE\n• Open Palm Pet and sync care with Watch\n• View synced scores and clears\n• Reorder / hide Watch hub games\n• Preview punch sounds, help, and feedback\n\nOpen Watch Games on your Apple Watch and play anytime.",
-      "releaseNotes": "Four new games\n• Slice Master: Cut produce close to the ordered weight\n• Face Vent: Tap to vent—combos stack the faces\n• Traveler: Wrist pet goes on trips; care syncs phone ↔ Watch\n• Fever Spin: Place a bet and pull the lever",
+      "description": "Watch Games — a pixel arcade on your wrist\n\nNo phone nearby? Between swim sets, on the commute, or in a short queue—lift your wrist and play. Watch Games is built for Apple Watch: retro pixel style, simple controls, perfect for spare moments, and it can run on the watch by itself.\n\n【Why it fits the watch】\n• Short rounds: most games take seconds to a few minutes\n• Simple controls: swipe, tap, and directions—easy with a watch\n• Play independently: no need to keep staring at your iPhone\n• iPhone companion: records, Traveler sync, and some games on phone\n\n【Featured games】\n• Mega Maze: huge maze, fog of war, joystick move—race your distance\n• Traveler: feed your pixel companion, travel & city sights; phone ↔ watch sync\n• Life Sim: peek into a day-in-the-life slice\n• Tetris (4-Way), Coin War, Gun Rush, Pixel Link\n• Parking Exit, Screw Relax, Pool, Bottle Match\n• Coffee Master, One Tea, Sushi Belt, Plot Grow\n• Slice Master, Face Vent, Fever Spin, Spit Aim, Mouth Toss\n• Punch SFX: playful punch gestures and sounds\n\n【On iPhone】\n• Browse every game and your local records\n• Continue Traveler, Mega Maze, Plot Grow and more on phone\n• Game Center friend leaderboards for supported games\n\nLift your wrist. Start a pixel round.",
+      "releaseNotes": "• New Mega Maze: huge map, fog of war, virtual joystick, and full-map preview\n• Traveler on iPhone: cleaner layout and improved room/scene display\n• Game Center: friend leaderboards for supported games\n• Fixes for display and stability",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pixel/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -22,8 +22,8 @@
     },
     "zh": {
       "trackName": "Watch Games",
-      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 单手触控，规则清晰，几秒上手\n• 像素画面小屏也清晰好认\n• 可在休息间隙快速开局、快速结束\n• 支持 Apple Watch 独立使用（无需一直拿着 iPhone）\n\n【游戏合集（持续更新）】\n• 掌心宠：孵蛋喂养、清洁作息，表盘小组件随时查看；手机与手表可同步照料\n• 像素连连：相同图案两折连通消除，关卡越大棋盘越大\n• 零用钱大战：垂直发射硬币，合并升级冲击高分\n• 螺丝解压：拧螺丝揭钢板，无限向下挖\n• 停车场出车：挪开挡路车辆，四边驶出\n• 饮料对对碰：只报对数，推理还原排列\n• 火力冲刺：横版射击无限挑战，越久越难\n• 桌球 / 俄罗斯方块（四向版）等经典小品\n• 出拳音效：挥拳触发打击音效，运动也能玩\n\n【手机 App 能做什么】\n• 打开掌心宠，与手表同步喂养与状态\n• 查看手表同步过来的成绩与通关记录\n• 管理手表大厅游戏顺序与显隐\n• 试听出拳相关音效、查看说明与反馈入口\n\n打开手表上的 Watch Games，选一款喜欢的像素小游戏，随时开玩。\n\n如有问题或建议，欢迎通过应用内反馈告诉我们。",
-      "releaseNotes": "新增四款游戏\n•分割大师：估刀切蔬果，贴近顾客要的重量\n•出气脸：点拍解压，连击叠表情\n•旅行家：腕上宠物出门旅行，手机手表同步照料\n•狂热转：押注开转，手感拉一把",
+      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局很短：多数玩法几十秒到几分钟，随时可停\n• 操作克制：滑动、点按、方向键，戴着手表也好上手\n• 独立运行：不必一直盯着手机\n• 手机伴侣：查看记录、同步旅行家，部分玩法可在 iPhone 游玩\n\n【热门玩法】\n• 巨型迷宫：超大迷宫、迷雾探索、摇杆移动，通关比拼路程\n• 旅行家：像素旅伴喂养、出行与城市观光，手机与手表同步\n• 现实模拟器：观察一天节奏里的生活切片\n• 俄罗斯方块（四向版）、零用钱大战、火力冲刺、像素连连\n• 停车场出车、螺丝解压、桌球、饮料对对碰\n• 咖啡大师、一盏茶、寿司传送带、腕上田\n• 分割大师、出气脸、狂热转、吐准了、投进嘴\n• 出拳音效：挥拳互动与趣味音效\n\n【手机端能做什么】\n• 浏览全部游戏介绍与本地成绩\n• 旅行家、巨型迷宫、腕上田等可在手机继续体验\n• 支持 Game Center 好友排行榜（对应玩法）\n\n抬起手腕，开一局像素小游戏吧。",
+      "releaseNotes": "• 新增「巨型迷宫」：超大地图、迷雾探索、虚拟摇杆与全图预览\n• 「旅行家」手机端体验优化：场景贴合、界面更清爽\n• 接入 Game Center：多款游戏支持好友排行榜\n• 修复若干显示与稳定性问题",
       "trackViewUrl": "https://apps.apple.com/cn/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -38,8 +38,8 @@
     },
     "ja": {
       "trackName": "Watch Games",
-      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 单手触控，规则清晰，几秒上手\n• 像素画面小屏也清晰好认\n• 可在休息间隙快速开局、快速结束\n• 支持 Apple Watch 独立使用（无需一直拿着 iPhone）\n\n【游戏合集（持续更新）】\n• 掌心宠：孵蛋喂养、清洁作息，表盘小组件随时查看；手机与手表可同步照料\n• 像素连连：相同图案两折连通消除，关卡越大棋盘越大\n• 零用钱大战：垂直发射硬币，合并升级冲击高分\n• 螺丝解压：拧螺丝揭钢板，无限向下挖\n• 停车场出车：挪开挡路车辆，四边驶出\n• 饮料对对碰：只报对数，推理还原排列\n• 火力冲刺：横版射击无限挑战，越久越难\n• 桌球 / 俄罗斯方块（四向版）等经典小品\n• 出拳音效：挥拳触发打击音效，运动也能玩\n\n【手机 App 能做什么】\n• 打开掌心宠，与手表同步喂养与状态\n• 查看手表同步过来的成绩与通关记录\n• 管理手表大厅游戏顺序与显隐\n• 试听出拳相关音效、查看说明与反馈入口\n\n打开手表上的 Watch Games，选一款喜欢的像素小游戏，随时开玩。\n\n如有问题或建议，欢迎通过应用内反馈告诉我们。",
-      "releaseNotes": "新增四款游戏\n•分割大师：估刀切蔬果，贴近顾客要的重量\n•出气脸：点拍解压，连击叠表情\n•旅行家：腕上宠物出门旅行，手机手表同步照料\n•狂热转：押注开转，手感拉一把",
+      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局很短：多数玩法几十秒到几分钟，随时可停\n• 操作克制：滑动、点按、方向键，戴着手表也好上手\n• 独立运行：不必一直盯着手机\n• 手机伴侣：查看记录、同步旅行家，部分玩法可在 iPhone 游玩\n\n【热门玩法】\n• 巨型迷宫：超大迷宫、迷雾探索、摇杆移动，通关比拼路程\n• 旅行家：像素旅伴喂养、出行与城市观光，手机与手表同步\n• 现实模拟器：观察一天节奏里的生活切片\n• 俄罗斯方块（四向版）、零用钱大战、火力冲刺、像素连连\n• 停车场出车、螺丝解压、桌球、饮料对对碰\n• 咖啡大师、一盏茶、寿司传送带、腕上田\n• 分割大师、出气脸、狂热转、吐准了、投进嘴\n• 出拳音效：挥拳互动与趣味音效\n\n【手机端能做什么】\n• 浏览全部游戏介绍与本地成绩\n• 旅行家、巨型迷宫、腕上田等可在手机继续体验\n• 支持 Game Center 好友排行榜（对应玩法）\n\n抬起手腕，开一局像素小游戏吧。",
+      "releaseNotes": "• 新增「巨型迷宫」：超大地图、迷雾探索、虚拟摇杆与全图预览\n• 「旅行家」手机端体验优化：场景贴合、界面更清爽\n• 接入 Game Center：多款游戏支持好友排行榜\n• 修复若干显示与稳定性问题",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -54,8 +54,8 @@
     },
     "de": {
       "trackName": "Watch Games",
-      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 单手触控，规则清晰，几秒上手\n• 像素画面小屏也清晰好认\n• 可在休息间隙快速开局、快速结束\n• 支持 Apple Watch 独立使用（无需一直拿着 iPhone）\n\n【游戏合集（持续更新）】\n• 掌心宠：孵蛋喂养、清洁作息，表盘小组件随时查看；手机与手表可同步照料\n• 像素连连：相同图案两折连通消除，关卡越大棋盘越大\n• 零用钱大战：垂直发射硬币，合并升级冲击高分\n• 螺丝解压：拧螺丝揭钢板，无限向下挖\n• 停车场出车：挪开挡路车辆，四边驶出\n• 饮料对对碰：只报对数，推理还原排列\n• 火力冲刺：横版射击无限挑战，越久越难\n• 桌球 / 俄罗斯方块（四向版）等经典小品\n• 出拳音效：挥拳触发打击音效，运动也能玩\n\n【手机 App 能做什么】\n• 打开掌心宠，与手表同步喂养与状态\n• 查看手表同步过来的成绩与通关记录\n• 管理手表大厅游戏顺序与显隐\n• 试听出拳相关音效、查看说明与反馈入口\n\n打开手表上的 Watch Games，选一款喜欢的像素小游戏，随时开玩。\n\n如有问题或建议，欢迎通过应用内反馈告诉我们。",
-      "releaseNotes": "新增四款游戏\n•分割大师：估刀切蔬果，贴近顾客要的重量\n•出气脸：点拍解压，连击叠表情\n•旅行家：腕上宠物出门旅行，手机手表同步照料\n•狂热转：押注开转，手感拉一把",
+      "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局很短：多数玩法几十秒到几分钟，随时可停\n• 操作克制：滑动、点按、方向键，戴着手表也好上手\n• 独立运行：不必一直盯着手机\n• 手机伴侣：查看记录、同步旅行家，部分玩法可在 iPhone 游玩\n\n【热门玩法】\n• 巨型迷宫：超大迷宫、迷雾探索、摇杆移动，通关比拼路程\n• 旅行家：像素旅伴喂养、出行与城市观光，手机与手表同步\n• 现实模拟器：观察一天节奏里的生活切片\n• 俄罗斯方块（四向版）、零用钱大战、火力冲刺、像素连连\n• 停车场出车、螺丝解压、桌球、饮料对对碰\n• 咖啡大师、一盏茶、寿司传送带、腕上田\n• 分割大师、出气脸、狂热转、吐准了、投进嘴\n• 出拳音效：挥拳互动与趣味音效\n\n【手机端能做什么】\n• 浏览全部游戏介绍与本地成绩\n• 旅行家、巨型迷宫、腕上田等可在手机继续体验\n• 支持 Game Center 好友排行榜（对应玩法）\n\n抬起手腕，开一局像素小游戏吧。",
+      "releaseNotes": "• 新增「巨型迷宫」：超大地图、迷雾探索、虚拟摇杆与全图预览\n• 「旅行家」手机端体验优化：场景贴合、界面更清爽\n• 接入 Game Center：多款游戏支持好友排行榜\n• 修复若干显示与稳定性问题",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -69,21 +69,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/a9/bb/1fa9bb33-04b7-3a3f-61c0-77d623133cc9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/38/72/2e387224-3de0-8979-5ec8-5ab54abbc7e4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "61213696",
+  "fileSizeBytes": "73493504",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.3",
-  "currentVersionReleaseDate": "2026-08-03T04:55:05Z",
+  "version": "1.0.4",
+  "currentVersionReleaseDate": "2026-08-13T01:20:46Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E6%99%93%E7%BB%B4-%E5%90%B4/id1887145600?uo=4",
   "sellerUrl": "",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -250,8 +250,13 @@
       "version": "1.0.3",
       "releaseNotes": "Four new games\n• Slice Master: Cut produce close to the ordered weight\n• Face Vent: Tap to vent—combos stack the faces\n• Traveler: Wrist pet goes on trips; care syncs phone ↔ Watch\n• Fever Spin: Place a bet and pull the lever",
       "seenAt": "2026-08-03T04:55:05Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "• New Mega Maze: huge map, fog of war, virtual joystick, and full-map preview\n• Traveler on iPhone: cleaner layout and improved room/scene display\n• Game Center: friend leaderboards for supported games\n• Fixes for display and stability",
+      "seenAt": "2026-08-13T01:20:46Z"
     }
   ],
-  "updatedAt": "2026-08-12T07:50:00.004Z",
+  "updatedAt": "2026-08-13T07:53:45.851Z",
   "isOwnApp": false
 }
