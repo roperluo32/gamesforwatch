@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "Optimized performance for Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "$2.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "Optimized performance for Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "¥500",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "Optimized performance for Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "2,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/5e/88/975e88e8-5449-045d-2fd4-1f5e625ddb40/proAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/3c/c0/ae3cc0e5-95c7-0e9f-4419-371840077249/proAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 2.99,
-  "fileSizeBytes": "169989120",
+  "fileSizeBytes": "171189248",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.3",
-  "version": "1.33",
-  "currentVersionReleaseDate": "2026-05-29T05:19:55Z",
+  "version": "1.34",
+  "currentVersionReleaseDate": "2026-08-13T16:54:57Z",
   "releaseDate": "2024-11-07T08:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -354,8 +354,13 @@
       "version": "1.33",
       "releaseNotes": "Add more levels.",
       "seenAt": "2026-05-29T05:19:55Z"
+    },
+    {
+      "version": "1.34",
+      "releaseNotes": "Optimized performance for Apple Watch and iPhone.",
+      "seenAt": "2026-08-13T16:54:57Z"
     }
   ],
-  "updatedAt": "2026-08-13T08:29:46.633Z",
+  "updatedAt": "2026-08-14T07:53:32.905Z",
   "isOwnApp": false
 }

@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Entertainment",
-        "Sports",
-        "Racing"
+        "Racing",
+        "Sports"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "游戏",
         "娱乐",
-        "体育",
-        "竞速"
+        "竞速",
+        "体育"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "ゲーム",
         "エンターテインメント",
-        "スポーツ",
-        "レーシング"
+        "レーシング",
+        "スポーツ"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Sport",
-        "Rennsport"
+        "Rennsport",
+        "Sport"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,20 +77,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/86/3e/42863e5b-4ec5-37b5-ac68-5dc7a4d7a2e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/8d/15/208d158e-a2e6-96a2-e241-fb639164e208/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.78571,
   "userRatingCount": 14,
   "price": 0,
-  "fileSizeBytes": "81489920",
+  "fileSizeBytes": "82536448",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.5.3",
-  "currentVersionReleaseDate": "2026-08-06T04:34:11Z",
+  "version": "3.5.4",
+  "currentVersionReleaseDate": "2026-08-13T20:40:08Z",
   "releaseDate": "2023-05-20T07:00:00Z",
   "artistId": 6784075781,
   "artistName": "Thi Thuy Diu Le",
   "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
-  "sellerUrl": "https://watchgames.web.app",
+  "sellerUrl": "https://mywatchgame.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -382,8 +382,13 @@
       "version": "3.5.3",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-08-06T04:34:11Z"
+    },
+    {
+      "version": "3.5.4",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-08-13T20:40:08Z"
     }
   ],
-  "updatedAt": "2026-08-13T07:59:28.331Z",
+  "updatedAt": "2026-08-14T07:55:16.840Z",
   "isOwnApp": false
 }
