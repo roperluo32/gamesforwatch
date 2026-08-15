@@ -10,7 +10,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/sudoku-jigsaw-watch-phone/id6740887638?uo=4",
       "formattedPrice": "Free",
-      "sellerName": "Le Thi Thanh Binh",
+      "sellerName": "Thi Thuy Diu Le",
       "genres": [
         "Games",
         "Puzzle",
@@ -28,7 +28,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/sudoku-jigsaw-watch-phone/id6740887638?uo=4",
       "formattedPrice": "免费",
-      "sellerName": "Le Thi Thanh Binh",
+      "sellerName": "Thi Thuy Diu Le",
       "genres": [
         "游戏",
         "益智解谜",
@@ -46,7 +46,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/sudoku-jigsaw-watch-phone/id6740887638?uo=4",
       "formattedPrice": "無料",
-      "sellerName": "Le Thi Thanh Binh",
+      "sellerName": "Thi Thuy Diu Le",
       "genres": [
         "ゲーム",
         "パズル",
@@ -64,7 +64,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/sudoku-jigsaw-watch-phone/id6740887638?uo=4",
       "formattedPrice": "Gratis",
-      "sellerName": "Le Thi Thanh Binh",
+      "sellerName": "Thi Thuy Diu Le",
       "genres": [
         "Spiele",
         "Puzzle",
@@ -87,9 +87,9 @@
   "version": "1.2.2",
   "currentVersionReleaseDate": "2026-08-11T02:32:04Z",
   "releaseDate": "2025-01-23T08:00:00Z",
-  "artistId": 1101992720,
-  "artistName": "Le Thi Thanh Binh",
-  "artistViewUrl": "https://apps.apple.com/de/developer/le-thi-thanh-binh/id1101992720?uo=4",
+  "artistId": 6784075781,
+  "artistName": "Thi Thuy Diu Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
   "sellerUrl": "https://watchgames.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -294,6 +294,6 @@
       "seenAt": "2026-08-11T02:32:04Z"
     }
   ],
-  "updatedAt": "2026-08-14T08:22:46.894Z",
+  "updatedAt": "2026-08-15T07:19:48.299Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "HALLOWEEN is on the way!",
+      "releaseNotes": "Add a new robot bird pack at max level.",
       "trackViewUrl": "https://apps.apple.com/us/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "HALLOWEEN is on the way!",
+      "releaseNotes": "Add a new robot bird pack at max level.",
       "trackViewUrl": "https://apps.apple.com/cn/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "HALLOWEEN is on the way!",
+      "releaseNotes": "Add a new robot bird pack at max level.",
       "trackViewUrl": "https://apps.apple.com/jp/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "HALLOWEEN is on the way!",
+      "releaseNotes": "Add a new robot bird pack at max level.",
       "trackViewUrl": "https://apps.apple.com/de/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/8f/00/4b8f0025-8904-5d94-a13d-8d8a0b785b9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/09/11/66091106-fbe9-5335-5f01-90de6b56f7f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.13514,
   "userRatingCount": 37,
   "price": 0,
-  "fileSizeBytes": "80414720",
+  "fileSizeBytes": "81451008",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.4.7",
-  "currentVersionReleaseDate": "2026-07-28T18:29:00Z",
+  "version": "3.5.0",
+  "currentVersionReleaseDate": "2026-08-14T20:23:25Z",
   "releaseDate": "2016-01-13T02:21:12Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -402,8 +402,13 @@
       "version": "3.4.7",
       "releaseNotes": "HALLOWEEN is on the way!",
       "seenAt": "2026-07-28T18:29:00Z"
+    },
+    {
+      "version": "3.5.0",
+      "releaseNotes": "Add a new robot bird pack at max level.",
+      "seenAt": "2026-08-14T20:23:25Z"
     }
   ],
-  "updatedAt": "2026-08-14T07:50:09.426Z",
+  "updatedAt": "2026-08-15T07:08:27.201Z",
   "isOwnApp": false
 }

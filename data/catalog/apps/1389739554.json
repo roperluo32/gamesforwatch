@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Soccer: Dribble King",
       "description": "Once you got your ball, you just can’t stop yourself from dribbling it through all the enemies you meet on the way.\n  - Control the ball.\n  - Dribble past defenders.\n  - Score the winning goal.",
-      "releaseNotes": "- Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "releaseNotes": "- Refreshed visuals\n - Improved game balance\n - Daily challenges with varied soccer mini-games",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-soccer-dribble-king/id1389739554?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -20,12 +20,12 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Mini Football Game - Big Goals"
+      "subtitle": "Mini Football: Daily Challenge"
     },
     "zh": {
       "trackName": "Watch Soccer: Dribble King",
       "description": "Once you got your ball, you just can’t stop yourself from dribbling it through all the enemies you meet on the way.\n  - Control the ball.\n  - Dribble past defenders.\n  - Score the winning goal.",
-      "releaseNotes": "- Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "releaseNotes": "- Refreshed visuals\n - Improved game balance\n - Daily challenges with varied soccer mini-games",
       "trackViewUrl": "https://apps.apple.com/cn/app/watch-soccer-dribble-king/id1389739554?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Watch Soccer: Dribble King",
       "description": "Once you got your ball, you just can’t stop yourself from dribbling it through all the enemies you meet on the way.\n  - Control the ball.\n  - Dribble past defenders.\n  - Score the winning goal.",
-      "releaseNotes": "- Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "releaseNotes": "- Refreshed visuals\n - Improved game balance\n - Daily challenges with varied soccer mini-games",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-soccer-dribble-king/id1389739554?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Watch Soccer: Dribble King",
       "description": "Once you got your ball, you just can’t stop yourself from dribbling it through all the enemies you meet on the way.\n  - Control the ball.\n  - Dribble past defenders.\n  - Score the winning goal.",
-      "releaseNotes": "- Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
+      "releaseNotes": "- Refreshed visuals\n - Improved game balance\n - Daily challenges with varied soccer mini-games",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-soccer-dribble-king/id1389739554?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ea/a6/4aeaa6b7-9777-0200-1b48-94c432fb6f6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d1/11/76d111e1-0e2c-5003-1c3c-b2c3ff56daca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.22222,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "31562752",
+  "fileSizeBytes": "33586176",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "4.0.3",
-  "currentVersionReleaseDate": "2026-08-11T19:37:46Z",
+  "version": "4.1.0",
+  "currentVersionReleaseDate": "2026-08-14T21:35:58Z",
   "releaseDate": "2018-06-25T11:34:43Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -397,8 +397,13 @@
       "version": "4.0.3",
       "releaseNotes": " - Completely redesigned graphics.\n - Improved visuals on Apple Watch and iPhone.",
       "seenAt": "2026-08-11T19:37:46Z"
+    },
+    {
+      "version": "4.1.0",
+      "releaseNotes": " - Refreshed visuals\n - Improved game balance\n - Daily challenges with varied soccer mini-games",
+      "seenAt": "2026-08-14T21:35:58Z"
     }
   ],
-  "updatedAt": "2026-08-14T07:56:07.943Z",
+  "updatedAt": "2026-08-15T07:02:51.653Z",
   "isOwnApp": false
 }

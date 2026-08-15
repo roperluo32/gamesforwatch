@@ -62,15 +62,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/75/7c337507-8543-48fb-133d-818a5ef68e57/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f4/72/3bf472a3-71fc-6e8d-963a-e4f4222b813a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.34848,
   "userRatingCount": 66,
   "price": 0,
   "fileSizeBytes": "240197632",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "15.0",
-  "version": "5.7.6",
-  "currentVersionReleaseDate": "2026-07-29T04:02:03Z",
+  "version": "5.7.7",
+  "currentVersionReleaseDate": "2026-08-15T05:07:12Z",
   "releaseDate": "2018-02-26T08:47:04Z",
   "artistId": 1089497060,
   "artistName": "Shikudo",
@@ -390,8 +390,13 @@
       "version": "5.7.6",
       "releaseNotes": "This update contains stability improvements and general bug fixes.",
       "seenAt": "2026-07-29T04:02:03Z"
+    },
+    {
+      "version": "5.7.7",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-08-15T05:07:12Z"
     }
   ],
-  "updatedAt": "2026-08-14T07:50:52.116Z",
+  "updatedAt": "2026-08-15T06:57:51.880Z",
   "isOwnApp": false
 }

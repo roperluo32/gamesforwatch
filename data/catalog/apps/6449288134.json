@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Entertainment",
-        "Racing",
-        "Sports"
+        "Sports",
+        "Racing"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "游戏",
         "娱乐",
-        "竞速",
-        "体育"
+        "体育",
+        "竞速"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "ゲーム",
         "エンターテインメント",
-        "レーシング",
-        "スポーツ"
+        "スポーツ",
+        "レーシング"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Rennsport",
-        "Sport"
+        "Sport",
+        "Rennsport"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -389,6 +389,6 @@
       "seenAt": "2026-08-13T20:40:08Z"
     }
   ],
-  "updatedAt": "2026-08-14T07:55:16.840Z",
+  "updatedAt": "2026-08-15T07:02:14.767Z",
   "isOwnApp": false
 }
