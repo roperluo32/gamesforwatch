@@ -1,0 +1,377 @@
+{
+  "trackId": "572319874",
+  "bundleId": "co.uk.smudgeinc.reactiontimer",
+  "slug": "reaction-timer-game",
+  "path": "/apps/572319874-reaction-timer-game/",
+  "locales": {
+    "en": {
+      "trackName": "Reaction Timer Game",
+      "description": "Think YOU can beat Reaction Timer?\nDo you have lightning-fast reflexes? Prove it with the Reaction Timer game that will have you tapping, gasping, and celebrating (or groaning) every time you try to land exactly on zero.\n\nWith multiple levels from “I Got This” to “Seriously?!” Start off simple with one timer, then rise through the challenges with two or three timers.\n\nSuper-Short Rounds mean you can pick-up-and-play anytime you’ve got a spare moment, while you're on the train, waiting for a bus, or at a boring family event!\n\nLand a perfect zero for instant bragging rights and show off to your friends… or watch them crumble under the pressure!\n\nNo WiFi or internet connection needed, perfect for killing time on the go - anywhere, anytime.\n\nGet ready for heart-pounding moments, frantic taps, and endless attempts to hit the elusive zero. Download now to discover if you have the reflexes of a ninja, or if you’ll be left chasing that perfect stop forever!",
+      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "trackViewUrl": "https://apps.apple.com/us/app/reaction-timer-game/id572319874?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Thomas Coomer",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Family"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": "Think you're quick enough?"
+    },
+    "ja": {
+      "trackName": "Reaction Timer Game",
+      "description": "Think YOU can beat Reaction Timer?\nDo you have lightning-fast reflexes? Prove it with the Reaction Timer game that will have you tapping, gasping, and celebrating (or groaning) every time you try to land exactly on zero.\n\nWith multiple levels from “I Got This” to “Seriously?!” Start off simple with one timer, then rise through the challenges with two or three timers.\n\nSuper-Short Rounds mean you can pick-up-and-play anytime you’ve got a spare moment, while you're on the train, waiting for a bus, or at a boring family event!\n\nLand a perfect zero for instant bragging rights and show off to your friends… or watch them crumble under the pressure!\n\nNo WiFi or internet connection needed, perfect for killing time on the go - anywhere, anytime.\n\nGet ready for heart-pounding moments, frantic taps, and endless attempts to hit the elusive zero. Download now to discover if you have the reflexes of a ninja, or if you’ll be left chasing that perfect stop forever!",
+      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "trackViewUrl": "https://apps.apple.com/jp/app/reaction-timer-game/id572319874?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Thomas Coomer",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "ファミリー"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Reaction Timer Game",
+      "description": "Glaubst du, dass DU Reaction Timer schlagen kannst?\n\nHast du blitzschnelle Reflexe? Beweise es mit Reaction Timer – dem Spiel, das dich tippen, staunen und jubeln (oder frustriert aufstöhnen) lässt, wenn du versuchst, genau bei null zu stoppen.\n\nMit mehreren Leveln von „Locker!“ bis „Ernsthaft?!“ Starte einfach mit einem Timer und steigere dich durch die Herausforderungen mit zwei oder drei Timern.\n\nSuperkurze Runden ermöglichen es dir, jederzeit eine schnelle Partie zu spielen – ob im Zug, beim Warten auf den Bus oder bei einer langweiligen Familienfeier!\n\nTreffe eine perfekte Null und sichere dir sofortige Angeberrechte, um deine Freunde zu beeindrucken… oder sie dabei zu beobachten, wie sie unter Druck scheitern!\n\nKein WLAN oder Internetverbindung erforderlich – ideal, um unterwegs die Zeit zu vertreiben, überall und jederzeit.\n\nMach dich bereit für spannende Momente, hektisches Tippen und endlose Versuche, die schwer fassbare Null zu treffen. Lade das Spiel jetzt herunter und finde heraus, ob du die Reflexe eines Ninjas hast – oder ob du für immer der perfekten Null hinterherjagst!",
+      "releaseNotes": "• Kleine UI/UX-Verbesserungen.\n• Unterstützung für Französisch, Italienisch, Deutsch, Spanisch und Portugiesisch (Brasilien) hinzugefügt.",
+      "trackViewUrl": "https://apps.apple.com/de/app/reaction-timer-game/id572319874?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Thomas Coomer",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Familie"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/a2/a5/eda2a5b0-c889-d491-5271-ff8bfc013aa7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.5,
+  "userRatingCount": 4,
+  "price": 0,
+  "fileSizeBytes": "19550208",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.6",
+  "version": "5.5.1",
+  "currentVersionReleaseDate": "2025-02-10T09:42:20Z",
+  "releaseDate": "2013-01-12T01:25:22Z",
+  "artistId": 1006451481,
+  "artistName": "Thomas Coomer",
+  "artistViewUrl": "https://apps.apple.com/de/developer/thomas-coomer/id1006451481?uo=4",
+  "sellerUrl": "https://smudge.app/reaction-timer",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ab/9c/fcab9cea-ca5c-4ede-ee71-bb1ef22084c0/tns.xwvbjomn.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/ee/8a/73ee8a80-b705-7e93-fd70-fe72a4354277/tns.govbzfih.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/6b/9d/e56b9d83-a17f-00ed-d8ca-0b9bc97a8bfe/tns.fpzyworz.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/c3/98/23c398e1-29cf-3771-6a79-e93da9e4aeee/5e8a6389-ee5c-4f60-93bc-8bf8311d7aff_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-04-04_at_22.18.09.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/51/bf/a951bf33-7b0d-1cd1-c33e-09e372b69b17/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.14.47.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/fe/f2/70fef2b6-9278-750b-7072-ad6db9113a5a/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.16.53.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/f4/d4/f5f4d49d-e6be-e2cd-c410-8293985056a2/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.16.59.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/90/ad/f190ad2a-a815-dbe1-42fb-2a42fadf4015/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.17.03.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/96/2e/d4962ec2-ae5a-c239-43be-5318280ced3a/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.24.54.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/06/75/af067538-0e00-89cb-eadf-3f3d656ddee5/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.24.58.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/dd/3c/63dd3c99-a7a9-2769-814f-e0828aa60a36/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.25.05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/3b/79/b63b7983-f45f-8ba5-639f-9b5b56bba1a4/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.25.09.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ab/9c/fcab9cea-ca5c-4ede-ee71-bb1ef22084c0/tns.xwvbjomn.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/ee/8a/73ee8a80-b705-7e93-fd70-fe72a4354277/tns.govbzfih.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/6b/9d/e56b9d83-a17f-00ed-d8ca-0b9bc97a8bfe/tns.fpzyworz.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/c3/98/23c398e1-29cf-3771-6a79-e93da9e4aeee/5e8a6389-ee5c-4f60-93bc-8bf8311d7aff_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-04-04_at_22.18.09.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/51/bf/a951bf33-7b0d-1cd1-c33e-09e372b69b17/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.14.47.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/fe/f2/70fef2b6-9278-750b-7072-ad6db9113a5a/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.16.53.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/f4/d4/f5f4d49d-e6be-e2cd-c410-8293985056a2/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.16.59.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/90/ad/f190ad2a-a815-dbe1-42fb-2a42fadf4015/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-02-09_at_13.17.03.png/320x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/64/a6/81/64a68123-2cc3-e9d8-d297-9bc00fee9f05/6699a9f1-5767-42e1-b393-51619c0e1e2c_Reaction_Timer_Apple_Watch_Series_6_Screenshot_1.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/b4/01/69/b401695e-8d8f-ae6e-da1e-92f2154e9b95/284ea0bd-5e7f-49c5-ba2a-698eb1ff1baf_Reaction_Timer_Apple_Watch_Series_6_Screenshot_2.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/49/45/2e/49452ede-9b5b-17da-4935-e9bb18027468/ae1cec00-3652-4585-a66d-d84b588223e1_Reaction_Timer_Apple_Watch_Series_6_Screenshot_4.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/b0/7d/59/b07d59f0-61fe-e2e9-055a-13d3a8465e1e/5735dbb0-81e1-4e73-93a3-252806b25176_Reaction_Timer_Apple_Watch_Series_6_Screenshot_3.png/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "4.6",
+      "releaseNotes": "• Brand NEW iMessage App that allows you to share your best scores with other players through iMessage.\n• Brand NEW widget to check your scores in the Today View or by using 3D Touch on the app icon on the home screen.\n• Improved iOS 10 support.\n• Minor background updates.\n• Written in Swift 3.",
+      "seenAt": "2016-09-13T19:14:31Z"
+    },
+    {
+      "version": "4.6.1",
+      "releaseNotes": "• New sharing options - you can now show off your best score on Facebook and Twitter.\n• Minor background updates.",
+      "seenAt": "2016-10-10T20:26:02Z"
+    },
+    {
+      "version": "4.6.2",
+      "releaseNotes": "• Reaction Timer now provides haptic feedback on iPhone 7 and iPhone 7 Plus.",
+      "seenAt": "2016-10-25T20:36:01Z"
+    },
+    {
+      "version": "4.6.3",
+      "releaseNotes": "• Minor background changes and updates.",
+      "seenAt": "2016-11-22T18:40:14Z"
+    },
+    {
+      "version": "4.6.4",
+      "releaseNotes": "• Updated some of the frameworks that help make Reaction Timer Sharing possible.\n• Updated screenshots.",
+      "seenAt": "2017-02-19T21:01:25Z"
+    },
+    {
+      "version": "4.6.5",
+      "releaseNotes": "• New review request for iOS 10.3\n• Minor background updates.",
+      "seenAt": "2017-03-30T20:14:20Z"
+    },
+    {
+      "version": "4.6.6",
+      "releaseNotes": "• Improved support for iOS 11.\n• Updated to Swift 4.\n• Bug fixes and stability improvements.",
+      "seenAt": "2017-10-02T15:37:18Z"
+    },
+    {
+      "version": "4.6.7",
+      "releaseNotes": "• Improved support for iPhone X.\n• Minor UI changes.\n• Minor background updates.",
+      "seenAt": "2017-11-06T16:56:13Z"
+    },
+    {
+      "version": "4.6.8",
+      "releaseNotes": "• Improved support for iPhone X.\n• Minor UI changes.\n• Minor background updates.",
+      "seenAt": "2017-11-08T23:37:59Z"
+    },
+    {
+      "version": "4.6.9",
+      "releaseNotes": "• Improved support for iPhone X.\n• Minor UI changes.\n• Minor background updates.",
+      "seenAt": "2017-11-22T16:02:14Z"
+    },
+    {
+      "version": "5.0",
+      "releaseNotes": "• Updated UI.\n• Minor background updates.\n• Performance improvements.\n• New settings to allow you to reset your highscores.",
+      "seenAt": "2018-05-20T18:02:04Z"
+    },
+    {
+      "version": "5.0.1",
+      "releaseNotes": "• Minor bug fixes and stability improvements.",
+      "seenAt": "2020-07-02T18:29:54Z"
+    },
+    {
+      "version": "5.1",
+      "releaseNotes": "• Improvements for iOS 14.\n• Added support for using external keyboard to play the games using the space bar.\n• Minor bug fixes.",
+      "seenAt": "2020-12-22T15:10:27Z"
+    },
+    {
+      "version": "5.2",
+      "releaseNotes": "You can now play Reaction Timer on your Apple Watch!\nWith added standalone Apple Watch support, you can play on your wrist without even needing to have your phone with you.",
+      "seenAt": "2021-06-16T16:48:02Z"
+    },
+    {
+      "version": "5.2.1",
+      "releaseNotes": "• Improvements for iOS 15.\n• Improvements for the new iPad Mini.",
+      "seenAt": "2021-11-11T21:18:57Z"
+    },
+    {
+      "version": "5.2.2",
+      "releaseNotes": "• Minor background improvements.",
+      "seenAt": "2022-03-27T19:21:54Z"
+    },
+    {
+      "version": "5.3",
+      "releaseNotes": "• New 'Best Score' widget with a brand new design that can be added to your Home Screen. You can also press on the widget to choose which game score to show.\n• Updated instructions UI.",
+      "seenAt": "2022-05-26T21:37:32Z"
+    },
+    {
+      "version": "5.4",
+      "releaseNotes": "Happy Birthday!!! Join us in celebrating Reaction Timer's 10th Birthday with this latest update!\nThank you for your downloading and supporting the Reaction Timer Game!",
+      "seenAt": "2023-01-11T18:50:17Z"
+    },
+    {
+      "version": "5.4.1",
+      "releaseNotes": "• UI Improvements.\n• Improved support for iPhone 14 Pro and iPhone Pro Max.\n• Minor background changes.",
+      "seenAt": "2023-04-05T12:42:21Z"
+    },
+    {
+      "version": "5.4.2",
+      "releaseNotes": "• Minor bug fixes and stability improvements.",
+      "seenAt": "2023-06-20T18:07:45Z"
+    },
+    {
+      "version": "5.4.3",
+      "releaseNotes": "• Bug fixes and stability improvements.",
+      "seenAt": "2023-09-08T21:52:21Z"
+    },
+    {
+      "version": "5.4.4",
+      "releaseNotes": "• Bug fixes and stability improvements.",
+      "seenAt": "2023-09-18T18:48:56Z"
+    },
+    {
+      "version": "5.4.5",
+      "releaseNotes": "• Minor background improvements.",
+      "seenAt": "2024-06-23T12:47:48Z"
+    },
+    {
+      "version": "5.5",
+      "releaseNotes": "• Added native support for Apple Vision Pro.\n• New artwork design when sharing your game scores.\n• Minor UI/UX improvements.\n• Improved support for iOS 18.",
+      "seenAt": "2024-12-27T14:16:14Z"
+    },
+    {
+      "version": "5.5.1",
+      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "seenAt": "2025-02-10T09:42:20Z"
+    }
+  ],
+  "updatedAt": "2026-08-16T07:31:37.485Z",
+  "isOwnApp": false
+}
