@@ -9,7 +9,7 @@
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
       "releaseNotes": "- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/us/app/block-blast-for-watch/id6744327210?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Games",
@@ -27,7 +27,7 @@
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
       "releaseNotes": "- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-blast-for-watch/id6744327210?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "ゲーム",
@@ -45,7 +45,7 @@
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
       "releaseNotes": "- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/de/app/block-blast-for-watch/id6744327210?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Federico Bigliocca",
       "genres": [
         "Spiele",
@@ -57,12 +57,30 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "Block Blast for Watch",
+      "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
+      "releaseNotes": "- crash fixed on some devices",
+      "trackViewUrl": "https://apps.apple.com/cn/app/block-blast-for-watch/id6744327210?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Federico Bigliocca",
+      "genres": [
+        "游戏",
+        "娱乐",
+        "益智解谜",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/33/72/463372bd-8dc9-2d5e-4b45-4c808699adba/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "13518848",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
@@ -237,6 +255,6 @@
       "seenAt": "2025-04-24T21:23:20Z"
     }
   ],
-  "updatedAt": "2026-08-16T07:27:32.443Z",
+  "updatedAt": "2026-08-17T07:42:33.897Z",
   "isOwnApp": false
 }

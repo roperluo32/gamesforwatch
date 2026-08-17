@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Health & Fitness",
-        "Casual",
-        "Simulation"
+        "Simulation",
+        "Casual"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "ゲーム",
         "ヘルスケア／フィットネス",
-        "カジュアル",
-        "シミュレーション"
+        "シミュレーション",
+        "カジュアル"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "Spiele",
         "Gesundheit und Fitness",
-        "Gelegenheits­spiele",
-        "Simulation"
+        "Simulation",
+        "Gelegenheits­spiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -351,6 +351,6 @@
       "seenAt": "2025-04-01T00:19:13Z"
     }
   ],
-  "updatedAt": "2026-08-16T07:15:36.815Z",
+  "updatedAt": "2026-08-17T07:31:58.470Z",
   "isOwnApp": false
 }
