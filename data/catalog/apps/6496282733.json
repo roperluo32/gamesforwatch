@@ -400,8 +400,13 @@
       "version": "1.10.3",
       "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
       "seenAt": "2026-08-04T19:50:30Z"
+    },
+    {
+      "version": "1.10.4",
+      "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
+      "seenAt": "2026-08-17T20:15:34Z"
     }
   ],
-  "updatedAt": "2026-08-17T07:15:06.993Z",
+  "updatedAt": "2026-08-18T07:01:50.675Z",
   "isOwnApp": false
 }
