@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/52/b5/7c52b50b-926e-134c-bc09-1821ce815de2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ba/b0/acbab0a0-1ae0-ccd7-88af-9e4845f4f63b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.95652,
   "userRatingCount": 46,
   "price": 0,
-  "fileSizeBytes": "69476352",
+  "fileSizeBytes": "83779584",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.0.0",
-  "currentVersionReleaseDate": "2026-08-06T18:29:03Z",
+  "version": "3.0.1",
+  "currentVersionReleaseDate": "2026-08-18T16:12:41Z",
   "releaseDate": "2022-09-06T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -413,8 +413,13 @@
       "version": "3.0.0",
       "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
       "seenAt": "2026-08-06T18:29:03Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "seenAt": "2026-08-18T16:12:41Z"
     }
   ],
-  "updatedAt": "2026-08-18T06:59:54.090Z",
+  "updatedAt": "2026-08-19T07:01:34.000Z",
   "isOwnApp": false
 }

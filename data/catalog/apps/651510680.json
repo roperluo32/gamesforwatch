@@ -25,24 +25,12 @@
         "FI",
         "FR",
         "DE",
-        "HI",
-        "ID",
         "IT",
-        "JA",
-        "KO",
-        "MS",
         "NB",
-        "PL",
         "PT",
-        "RO",
         "RU",
-        "ZH",
         "ES",
-        "SV",
-        "TH",
-        "ZH",
-        "TR",
-        "VI"
+        "TR"
       ],
       "subtitle": "Play live with friends now"
     },
@@ -473,8 +461,13 @@
       "version": "3.382.0",
       "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
       "seenAt": "2026-08-11T14:41:53Z"
+    },
+    {
+      "version": "3.383.0",
+      "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
+      "seenAt": "2026-08-19T02:27:44Z"
     }
   ],
-  "updatedAt": "2026-08-18T07:22:12.815Z",
+  "updatedAt": "2026-08-19T07:09:38.843Z",
   "isOwnApp": false
 }

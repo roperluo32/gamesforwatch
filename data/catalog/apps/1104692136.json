@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/13/77/59137707-09ba-2440-e49a-fa0fee55b3f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.5637,
-  "userRatingCount": 47894,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e1/d5/b7e1d58a-4052-4a3d-432e-d9c0e0136c36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.56344,
+  "userRatingCount": 47939,
   "price": 0,
-  "fileSizeBytes": "288387072",
+  "fileSizeBytes": "305741824",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "2.0.6",
-  "currentVersionReleaseDate": "2026-07-17T09:21:19Z",
+  "version": "2.0.7",
+  "currentVersionReleaseDate": "2026-08-17T08:48:55Z",
   "releaseDate": "2016-04-21T17:58:47Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -494,6 +494,6 @@
       "seenAt": "2026-08-17T08:48:55Z"
     }
   ],
-  "updatedAt": "2026-08-18T06:59:42.460Z",
+  "updatedAt": "2026-08-19T07:01:14.217Z",
   "isOwnApp": false
 }

@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/3c/06/5b3c0690-c0f4-8535-eec3-aed760653e85/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/46/65/6e4665cb-5af6-7a23-e901-35c2ae300b7e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.73529,
   "userRatingCount": 34,
   "price": 0,
-  "fileSizeBytes": "178678784",
+  "fileSizeBytes": "178895872",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "2.09",
-  "currentVersionReleaseDate": "2026-04-12T05:14:18Z",
+  "version": "2.10",
+  "currentVersionReleaseDate": "2026-08-18T16:14:56Z",
   "releaseDate": "2024-01-29T08:00:00Z",
   "artistId": 1128784756,
   "artistName": "Seele Games",
@@ -337,8 +337,13 @@
       "version": "2.09",
       "releaseNotes": "Bug fixing and various improvements",
       "seenAt": "2026-04-12T05:14:18Z"
+    },
+    {
+      "version": "2.10",
+      "releaseNotes": "Bug fixing and various improvements",
+      "seenAt": "2026-08-18T16:14:56Z"
     }
   ],
-  "updatedAt": "2026-08-18T07:37:21.719Z",
+  "updatedAt": "2026-08-19T07:39:51.625Z",
   "isOwnApp": false
 }

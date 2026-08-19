@@ -57,8 +57,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/69/3f/55693f38-0832-e85b-0f9f-31b011cae6cf/AppIcon-0-0-1x_U007ewatch-0-1-85-220.jpeg/512x512bb.jpg",
-  "averageUserRating": 1,
-  "userRatingCount": 1,
+  "averageUserRating": 3,
+  "userRatingCount": 2,
   "price": 0.99,
   "fileSizeBytes": "601088",
   "contentAdvisoryRating": "4+",
@@ -231,6 +231,6 @@
       "seenAt": "2026-01-06T17:35:33Z"
     }
   ],
-  "updatedAt": "2026-08-18T07:39:06.135Z",
+  "updatedAt": "2026-08-19T07:42:03.063Z",
   "isOwnApp": false
 }

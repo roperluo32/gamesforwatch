@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/bd/a8/7cbda88b-21c7-4cf8-8432-720efdf37260/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/02/06/02020673-44ee-8276-7897-2b48fafe135c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "36262912",
+  "fileSizeBytes": "36885504",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.2.2",
-  "currentVersionReleaseDate": "2026-08-16T19:39:52Z",
+  "version": "1.2.3",
+  "currentVersionReleaseDate": "2026-08-18T20:28:02Z",
   "releaseDate": "2026-07-25T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -224,6 +224,20 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/1b/7d/b41b7d04-628a-f9ef-5acc-aae236392733/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.18.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/b6/16/74b616b1-a0ee-7f82-0270-447a5b1ab00d/ipad8.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/18/19/8e1819ee-f614-a21d-b101-7d06fd4a5e99/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.55.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/37/05/32370540-2032-3626-abcd-dc0d8235667e/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.25.38.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/ae/22/0bae2244-9257-94fc-1453-e14ce6a2bb8a/ipx_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/a5/96/e9a59605-6390-47e9-5b80-65c753e0dc36/ipx_4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/73/1e/9e731e5a-98bf-c2ea-cddd-90bd521a00da/ipx_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/ae/22/0bae2244-9257-94fc-1453-e14ce6a2bb8a/ipx_2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/a5/96/e9a59605-6390-47e9-5b80-65c753e0dc36/ipx_4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/73/1e/9e731e5a-98bf-c2ea-cddd-90bd521a00da/ipx_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/1b/7d/b41b7d04-628a-f9ef-5acc-aae236392733/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.18.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/b6/16/74b616b1-a0ee-7f82-0270-447a5b1ab00d/ipad8.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/18/19/8e1819ee-f614-a21d-b101-7d06fd4a5e99/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.55.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/37/05/32370540-2032-3626-abcd-dc0d8235667e/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.25.38.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/3b/57/843b5732-89e0-64de-0d9f-40abbb5482db/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.18.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/92/36/cb9236e3-84f2-7401-f8d8-d610043c1857/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.24.55.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/02/7b/d5027ba0-d19b-65bb-f4fd-09ac66d76ccd/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-08-04_at_11.25.38.png/2048x2732bb.png",
@@ -334,6 +348,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/90/f8/2090f8d6-b60e-b48c-0e72-0e853841800a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-31_at_16.26.53.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/0a/0b/f40a0bc0-ebbf-fa04-9642-91be0b572aa0/w2.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/48/74/f848747a-c39f-fbd3-1e13-5cc6c5df63a9/w1.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/cd/57/04cd575b-fb41-7987-1139-863f337dfd70/w4.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/20/55/4520558d-0948-daea-2af4-f52c47fe6d78/w3.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/1f/3b/681f3bb2-15c5-514f-5628-654a00d14624/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-31_at_16.28.21.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e6/40/fae64094-f2bf-3260-6c36-2fa169aeb5b2/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-31_at_16.28.25.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/72/be/0072bed0-b218-b9e8-ea9a-3e236047b1b6/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-31_at_16.28.29.png/422x514bb.png",
@@ -390,8 +408,13 @@
       "version": "1.2.2",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-08-16T19:39:52Z"
+    },
+    {
+      "version": "1.2.3",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-08-18T20:28:02Z"
     }
   ],
-  "updatedAt": "2026-08-18T07:16:30.892Z",
+  "updatedAt": "2026-08-19T07:18:44.818Z",
   "isOwnApp": false
 }
