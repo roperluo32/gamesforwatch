@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b8/b8/3db8b8a7-808a-6b80-b44e-372158f407e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/23/6e/b2236e94-2e19-6cdb-3251-7342e8bf3f2b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.8,
   "userRatingCount": 655,
   "price": 1.99,
-  "fileSizeBytes": "35304448",
+  "fileSizeBytes": "35320832",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.21.1",
-  "currentVersionReleaseDate": "2026-08-06T02:58:39Z",
+  "version": "1.21.2",
+  "currentVersionReleaseDate": "2026-08-19T21:54:37Z",
   "releaseDate": "2019-12-18T08:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -447,8 +447,13 @@
       "version": "1.21.1",
       "releaseNotes": "- Game Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\n- Various bug fixes and improvements.",
       "seenAt": "2026-08-06T02:58:39Z"
+    },
+    {
+      "version": "1.21.2",
+      "releaseNotes": "- Game Center is back on Apple Watch! You can now view leaderboards right on your watch, and your scores are submitted to Game Center instantly.\n- Various bug fixes and improvements.",
+      "seenAt": "2026-08-19T21:54:37Z"
     }
   ],
-  "updatedAt": "2026-08-19T07:01:21.457Z",
+  "updatedAt": "2026-08-20T07:03:59.537Z",
   "isOwnApp": false
 }

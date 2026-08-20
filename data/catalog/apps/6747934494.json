@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Super Watch Games",
       "description": "Watch Games is a collection of quick, pick-up-and-play arcade games built first for Apple Watch and also playable on iPhone.\n\nWhether you have a minute to spare or want to chase a new high score, Watch Games gives you fast challenges that are easy to start and fun to master. Play on your wrist for short bursts throughout the day, or use your iPhone for a larger-screen experience with the same game collection.\n\nStart with free games, then unlock even more through in-app purchases as you grow your collection.\n\nFeatures:\n\n- Games designed with Apple Watch play in mind\n- Play on both Apple Watch and iPhone\n- Free games included, with more games available through in-app purchase\n- Simple controls made for quick sessions\n- Track scores and progress\n- Unlock additional games and expand your collection\n\nFrom reflex-based action games to puzzle and skill challenges, Watch Games is built for players who want lightweight fun anywhere, anytime.",
-      "releaseNotes": "Zombie Attack game",
+      "releaseNotes": "Ladder Dodge game",
       "trackViewUrl": "https://apps.apple.com/us/app/super-watch-games/id6747934494?uo=4",
       "formattedPrice": "Free",
       "sellerName": "HamptonsTek LLC",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Super Watch Games",
       "description": "Watch Games is a collection of quick, pick-up-and-play arcade games built first for Apple Watch and also playable on iPhone.\n\nWhether you have a minute to spare or want to chase a new high score, Watch Games gives you fast challenges that are easy to start and fun to master. Play on your wrist for short bursts throughout the day, or use your iPhone for a larger-screen experience with the same game collection.\n\nStart with free games, then unlock even more through in-app purchases as you grow your collection.\n\nFeatures:\n\n- Games designed with Apple Watch play in mind\n- Play on both Apple Watch and iPhone\n- Free games included, with more games available through in-app purchase\n- Simple controls made for quick sessions\n- Track scores and progress\n- Unlock additional games and expand your collection\n\nFrom reflex-based action games to puzzle and skill challenges, Watch Games is built for players who want lightweight fun anywhere, anytime.",
-      "releaseNotes": "Zombie Attack game",
+      "releaseNotes": "Ladder Dodge game",
       "trackViewUrl": "https://apps.apple.com/jp/app/super-watch-games/id6747934494?uo=4",
       "formattedPrice": "無料",
       "sellerName": "HamptonsTek LLC",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Super Watch Games",
       "description": "Watch Games is a collection of quick, pick-up-and-play arcade games built first for Apple Watch and also playable on iPhone.\n\nWhether you have a minute to spare or want to chase a new high score, Watch Games gives you fast challenges that are easy to start and fun to master. Play on your wrist for short bursts throughout the day, or use your iPhone for a larger-screen experience with the same game collection.\n\nStart with free games, then unlock even more through in-app purchases as you grow your collection.\n\nFeatures:\n\n- Games designed with Apple Watch play in mind\n- Play on both Apple Watch and iPhone\n- Free games included, with more games available through in-app purchase\n- Simple controls made for quick sessions\n- Track scores and progress\n- Unlock additional games and expand your collection\n\nFrom reflex-based action games to puzzle and skill challenges, Watch Games is built for players who want lightweight fun anywhere, anytime.",
-      "releaseNotes": "Zombie Attack game",
+      "releaseNotes": "Ladder Dodge game",
       "trackViewUrl": "https://apps.apple.com/de/app/super-watch-games/id6747934494?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "HamptonsTek LLC",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/75/d1/f275d11c-9e24-228f-8ca1-06888c355cda/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/a0/dff9a0fb-6cb6-3871-5c67-3ca420fb5960/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "21140480",
+  "fileSizeBytes": "22574080",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "1.6",
-  "currentVersionReleaseDate": "2026-07-07T13:46:53Z",
+  "version": "1.7",
+  "currentVersionReleaseDate": "2026-08-19T18:46:28Z",
   "releaseDate": "2026-04-17T07:00:00Z",
   "artistId": 940149420,
   "artistName": "HamptonsTek LLC",
@@ -268,8 +268,13 @@
       "version": "1.6",
       "releaseNotes": "Zombie Attack game",
       "seenAt": "2026-07-07T13:46:53Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Ladder Dodge game",
+      "seenAt": "2026-08-19T18:46:28Z"
     }
   ],
-  "updatedAt": "2026-08-19T07:02:39.016Z",
+  "updatedAt": "2026-08-20T07:24:57.984Z",
   "isOwnApp": false
 }

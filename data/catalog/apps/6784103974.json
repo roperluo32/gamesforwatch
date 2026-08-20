@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "100 minimalist watch games",
-      "description": "One hundred of the classic games you know and love",
-      "releaseNotes": "",
+      "description": "One hundred of the classic games you know and love on your watch or phone.",
+      "releaseNotes": "A phone version of the games",
       "trackViewUrl": "https://apps.apple.com/us/app/100-minimalist-watch-games/id6784103974?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Tyler Noah",
@@ -22,8 +22,8 @@
     },
     "zh": {
       "trackName": "100 minimalist watch games",
-      "description": "One hundred of the classic games you know and love",
-      "releaseNotes": "",
+      "description": "One hundred of the classic games you know and love on your watch or phone.",
+      "releaseNotes": "A phone version of the games",
       "trackViewUrl": "https://apps.apple.com/cn/app/100-minimalist-watch-games/id6784103974?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Tyler Noah",
@@ -38,8 +38,8 @@
     },
     "ja": {
       "trackName": "100 minimalist watch games",
-      "description": "One hundred of the classic games you know and love",
-      "releaseNotes": "",
+      "description": "One hundred of the classic games you know and love on your watch or phone.",
+      "releaseNotes": "A phone version of the games",
       "trackViewUrl": "https://apps.apple.com/jp/app/100-minimalist-watch-games/id6784103974?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Tyler Noah",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/a3/8e/5aa38ec5-fa5a-56ff-03d8-c8f7b2c581c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/25/d3/aa25d3e9-323c-4e99-9e12-c448d3c9644f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "7144448",
+  "fileSizeBytes": "17777664",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "26.5",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-07-08T00:04:05Z",
+  "minimumOsVersion": "26.0",
+  "version": "2",
+  "currentVersionReleaseDate": "2026-08-19T16:40:02Z",
   "releaseDate": "2026-07-07T07:00:00Z",
   "artistId": 6782523683,
   "artistName": "Tyler Noah",
@@ -200,12 +200,35 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/ef/68/bcef6888-e224-4257-8ae3-465a9178904a/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44_copy.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/38/f4/da38f413-aa1c-acd7-1cb4-2c696f68542c/appstore_65_20-54-22.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/db/ec/62dbecd1-0511-d6eb-19df-8427779db080/appstore_65_20-53-16.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/31/f7/cd31f7f2-a706-55fb-8a44-82fdcffafd9c/appstore_65_20-57-36.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/c5/7e/e9c57e30-9e5c-5549-2563-669f181835b6/appstore_65_20-56-56.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/48/5c/ea485c0a-182c-4b68-223f-52d25c107db1/appstore_65_20-54-49.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/1f/6d/ce1f6dda-4451-93a2-898e-7cd95db97789/appstore_65_20-57-15.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/c2/a8/3ac2a86b-91ea-c4c6-b84c-d63725abe164/appstore_65_20-53-20.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/57/51/4f57518b-c29b-7099-4869-7379fc0f9e3b/appstore_65_20-54-00.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/38/f4/da38f413-aa1c-acd7-1cb4-2c696f68542c/appstore_65_20-54-22.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/db/ec/62dbecd1-0511-d6eb-19df-8427779db080/appstore_65_20-53-16.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/31/f7/cd31f7f2-a706-55fb-8a44-82fdcffafd9c/appstore_65_20-57-36.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/c5/7e/e9c57e30-9e5c-5549-2563-669f181835b6/appstore_65_20-56-56.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/48/5c/ea485c0a-182c-4b68-223f-52d25c107db1/appstore_65_20-54-49.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/1f/6d/ce1f6dda-4451-93a2-898e-7cd95db97789/appstore_65_20-57-15.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/c2/a8/3ac2a86b-91ea-c4c6-b84c-d63725abe164/appstore_65_20-53-20.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/57/51/4f57518b-c29b-7099-4869-7379fc0f9e3b/appstore_65_20-54-00.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/ef/68/bcef6888-e224-4257-8ae3-465a9178904a/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44_copy.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/70/f3/8670f335-d751-5a15-5099-03de5417d684/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44_copy.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/2d/34/9c2d3476-5e6a-2349-761e-f23a7573b428/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/2d/34/9c2d3476-5e6a-2349-761e-f23a7573b428/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/70/f3/8670f335-d751-5a15-5099-03de5417d684/Simulator_Screenshot_-_iPhone_Air_-_2026-06-25_at_01.04.44_copy.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/0f/9e/1a0f9ee2-56b3-a3e7-b7c3-6f597319ba4a/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.47.53.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/a8/6e/19a86e25-282f-ff76-9472-3a28a6617527/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.52.46.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/c6/c1/f9c6c1fe-ba72-8b09-1e0b-ea779f901364/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.48.15.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/3c/f9/bc3cf9e0-b74d-97eb-3454-6e1d6d28242e/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.50.08.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/78/1d/bd781d09-e41c-d1ca-f2d0-bd6a28ad55b6/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.48.58.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f4/82/6af482b3-163b-afd8-8048-20e730c57ad7/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.47.53.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/63/9e/12639ee8-1887-0529-1d84-4c517b806c28/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.52.46.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/86/64/7686644c-d60c-dc82-c49e-06e5ab10f5a8/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-22_at_12.48.15.png/416x496bb.png",
@@ -217,8 +240,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2026-07-08T00:04:05Z"
+    },
+    {
+      "version": "2",
+      "releaseNotes": "A phone version of the games ",
+      "seenAt": "2026-08-19T16:40:02Z"
     }
   ],
-  "updatedAt": "2026-08-19T07:02:31.436Z",
+  "updatedAt": "2026-08-20T07:05:01.388Z",
   "isOwnApp": false
 }
