@@ -78,8 +78,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/15/64/d5/1564d532-40fb-36be-b03d-7fe18059ecbc/contsched.fxhdenve.tiff/512x512bb.jpg",
-  "averageUserRating": 2.15303,
-  "userRatingCount": 758,
+  "averageUserRating": 2.15343,
+  "userRatingCount": 756,
   "price": 0,
   "fileSizeBytes": "34921546",
   "contentAdvisoryRating": "12+",
@@ -292,6 +292,6 @@
       "seenAt": "2009-07-03T21:30:22Z"
     }
   ],
-  "updatedAt": "2026-08-20T07:37:33.156Z",
+  "updatedAt": "2026-08-21T07:40:24.693Z",
   "isOwnApp": false
 }

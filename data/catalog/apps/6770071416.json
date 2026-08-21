@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Snow Rush 3D",
       "description": "Snow Rush 3D brings fast, responsive single and multiplayer downhill skiing to Apple Watch in a way that feels smooth, exciting, and instantly fun using only Apple Digital Crown Control.\n\nRace through snowy mountains, avoid trees and hazards, master sharp turns, and push your reflexes to the limit. Play a progressive campaign with increasing difficulty, jump into quick downhill runs, or compete against real players in international multiplayer events.\n\nEvery session is designed for quick gameplay bursts while still delivering progression, challenge, and replayability.\n\nWhy players love it:\n\nTrue 3D skiing gameplay optimized for Apple Watch\nSmooth arcade downhill action with intuitive Digital Crown controls\nMultiple skiers and gear to unlock with unique stats and handling\nDiverse snowy tracks filled with jumps, turns, and obstacles\nMultiplayer competition against real opponents\nDesigned for fast, addictive sessions anywhere\n\nWhether you have 30 seconds or 10 minutes, Snow Rush 3D delivers an exciting downhill skiing experience directly on your wrist.\n\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Add gold reward in multiplayer races",
+      "releaseNotes": "- 3 new maps\n- country flag cosmetic  in multiplayer\n- name tags for multiplayer opponents\n- free energy increased to 7\n- air control",
       "trackViewUrl": "https://apps.apple.com/us/app/snow-rush-3d/id6770071416?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Snow Rush 3D",
       "description": "Snow Rush 3D brings fast, responsive single and multiplayer downhill skiing to Apple Watch in a way that feels smooth, exciting, and instantly fun using only Apple Digital Crown Control.\n\nRace through snowy mountains, avoid trees and hazards, master sharp turns, and push your reflexes to the limit. Play a progressive campaign with increasing difficulty, jump into quick downhill runs, or compete against real players in international multiplayer events.\n\nEvery session is designed for quick gameplay bursts while still delivering progression, challenge, and replayability.\n\nWhy players love it:\n\nTrue 3D skiing gameplay optimized for Apple Watch\nSmooth arcade downhill action with intuitive Digital Crown controls\nMultiple skiers and gear to unlock with unique stats and handling\nDiverse snowy tracks filled with jumps, turns, and obstacles\nMultiplayer competition against real opponents\nDesigned for fast, addictive sessions anywhere\n\nWhether you have 30 seconds or 10 minutes, Snow Rush 3D delivers an exciting downhill skiing experience directly on your wrist.\n\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Add gold reward in multiplayer races",
+      "releaseNotes": "- 3 new maps\n- country flag cosmetic  in multiplayer\n- name tags for multiplayer opponents\n- free energy increased to 7\n- air control",
       "trackViewUrl": "https://apps.apple.com/jp/app/snow-rush-3d/id6770071416?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Catalin Berta",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Snow Rush 3D",
       "description": "Snow Rush 3D brings fast, responsive single and multiplayer downhill skiing to Apple Watch in a way that feels smooth, exciting, and instantly fun using only Apple Digital Crown Control.\n\nRace through snowy mountains, avoid trees and hazards, master sharp turns, and push your reflexes to the limit. Play a progressive campaign with increasing difficulty, jump into quick downhill runs, or compete against real players in international multiplayer events.\n\nEvery session is designed for quick gameplay bursts while still delivering progression, challenge, and replayability.\n\nWhy players love it:\n\nTrue 3D skiing gameplay optimized for Apple Watch\nSmooth arcade downhill action with intuitive Digital Crown controls\nMultiple skiers and gear to unlock with unique stats and handling\nDiverse snowy tracks filled with jumps, turns, and obstacles\nMultiplayer competition against real opponents\nDesigned for fast, addictive sessions anywhere\n\nWhether you have 30 seconds or 10 minutes, Snow Rush 3D delivers an exciting downhill skiing experience directly on your wrist.\n\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Add gold reward in multiplayer races",
+      "releaseNotes": "- 3 new maps\n- country flag cosmetic  in multiplayer\n- name tags for multiplayer opponents\n- free energy increased to 7\n- air control",
       "trackViewUrl": "https://apps.apple.com/de/app/snow-rush-3d/id6770071416?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Catalin Berta",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/4a/4c064a4f-ea5b-2cf4-e7b0-eab6c7b32acc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/5c/89/1c5c8976-3218-bb41-fff0-58bdea206d77/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "24082432",
+  "fileSizeBytes": "23788544",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "14.0",
-  "version": "2.4",
-  "currentVersionReleaseDate": "2026-08-06T05:34:20Z",
+  "minimumOsVersion": "15",
+  "version": "2.7",
+  "currentVersionReleaseDate": "2026-08-20T23:21:28Z",
   "releaseDate": "2026-06-16T07:00:00Z",
   "artistId": 1592833249,
   "artistName": "Catalin Berta",
@@ -248,8 +248,13 @@
       "version": "2.4",
       "releaseNotes": "- Add gold reward in multiplayer races",
       "seenAt": "2026-08-06T05:34:20Z"
+    },
+    {
+      "version": "2.7",
+      "releaseNotes": "- 3 new maps\n- country flag cosmetic  in multiplayer\n- name tags for multiplayer opponents\n- free energy increased to 7\n- air control",
+      "seenAt": "2026-08-20T23:21:28Z"
     }
   ],
-  "updatedAt": "2026-08-20T07:40:48.121Z",
+  "updatedAt": "2026-08-21T07:43:09.791Z",
   "isOwnApp": false
 }

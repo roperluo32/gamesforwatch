@@ -7,7 +7,7 @@
     "en": {
       "trackName": "MiniGames - Retro Watch Games",
       "description": "MiniGames is a collection of new, retro and modern games. You can play on your Apple Watch, iPhone or iPad with no Ads!\nIt's like your own personal games arcade on the go.\n\nThis collection of 28 games includes:\n\n■ GLIDE\nHelp the red bird fly. Use the hills to gain speed and soar high to score points.\n\n■ CIPHER\nCrack the code. Guess the 4 color code from the clues you get per turn.\n\n■ SHAPES\nFun puzzle game where you drop shapes to merge them into new shapes.\n\n■ TIC TAC TOE\nClassic game of noughts and crosses. Play single player or against a friend.\n\n■ PONG\nPlay one of the first video games ever created. This simple tennis like game is an absolute classic. \n\n■ BRICK BREAK\nA fun retro falling brick game. Stack the bricks together to clear a line and score some points.\n\n■ INVADERS\nClassic arcade action. Shoot all the space invaders before they get you. Hit the mothership for bonus points.\n\n■ 2048\nEnjoy the addictive 2048 game on your watch or phone. Swipe the number tiles around to join them. Join the tiles to reach 2048.\n\n■ TUBE TWIST\nGuide your runner down an endless tube. Twist the tube to avoid the holes and spikes. Collect the yellow power orbs, the more you collect the longer you can speed boost. Tap your player to activate your speed boost. Hit the red jumps while boosting to get your bonus score. \n\n■ BUBBLE\nClassic match 3 puzzle game. Connect the bubbles by color to clear them.\n\n■ MISSILE\nHow long can you survive a deadly onslaught of homing missiles? Maneuver your fighter plane to avoid the missiles and make them crash into each other. \n\n■ HOP\nJump from platform to platform to gain more height and points. Shoot the winged baddies along the way.\n\n■ Drift\nEnjoy high octane drifting down a treacherous road. One false move and down you go. Try and survive as long as you can to get the top score.\n\n■ Cong\nIt's like pong, but in a circle. Use the digital crown to move the paddle around the circle and keep the ball in play.\n\n■ Tower\nBuild your Tower by stacking colourful blocks on top of each other. Place them perfectly for bonus points.\n\n■ FLAP\nGuide the bird through a never ending forest by flapping your wings.\n\n■ FROG ROAD\nHelp the cute frogs avoid the cars and cross the road. A 3D update to the classic Frogger game.\n\n■ BLOCK RUN\nFeel like going for a a run? Help the voxel guy avoid the colourful obstacles by jumping, rolling and turning around the corners.\n\n■ MATCHTRIS\nA mashup of Tetris and Dr. Mario. Move the falling blocks to match 4 or more colors to clear them. Setup the blocks to fall and match for combos and extra points.\n\n■ DRONE\nPilot your drone down the never ending corridors of an Alien spaceship.\n\n■ THRUST\nStrap your rocket boots on and zoom down a dark cave. Thrust combines a classic cave flyer game with elements of flappy bird.\n\n■ SUPER JUMP\nWe’ve taken the fun of the humble platformer game and mashed it with an endless runner. Keep your player running by jumping over holes, ditches and enemies. Collect fruit to score points and the more you score the faster you run. \n\n■ RETRO RACER\nInspired by pseudo 3d racing games like Outrun and Pole Position but with modern graphics. Enjoy the surreal, exhilarating sense of speed while you race to beat the clock.\n\nPlease note this game requires a watch series 4 or newer.\n\n■ CONTRA PANG\nA mashup of Contra’s shooting action and the bubble popping fun of Pang.\n\n■ CIRCLE INVADERS\nA new twist to the classic Space Invaders. With a unique circular design and lots of power-ups.\n\n■ MOON SNAKE\nWe took the classic fruit eating snake and put him on the moon. Avoid the bombs and your own tail to survive. \n\n■ DUAL BREAK\nWhat could be better than the classic paddle game Breakout? How about power-ups and an extra paddle to control.\n\n■ CIRCLE BREAK\nIt’s like Pong in a Circle meets Breakout. Keep the ball from leaving the circle and break all the obstacles to finish the stage.\n\nFeatures:\n• No ads!\n• Apple Watch support\n• Screen shake\n• Vibrations\n• Sound Effects \n• Music\n• Leaderboards",
-      "releaseNotes": "Fixed a crash in the Cipher game",
+      "releaseNotes": "Normalised sound effects\nUpdated hills in GLIDE",
       "trackViewUrl": "https://apps.apple.com/us/app/minigames-retro-watch-games/id1519386476?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Rui Alho",
@@ -40,7 +40,7 @@
     "ja": {
       "trackName": "ミニゲーム - レトロウォッチゲーム",
       "description": "MiniGamesは、新しい、レトロ、モダンなゲームのコレクションです。Apple Watch、iPhone、iPadで広告なしでプレイできます！あなた専用のゲームアーケードを持ち歩いているようなものです。\n\n28種類のゲームが含まれています：\n\n■ GLIDE  \n赤い鳥を飛ばそう。丘を利用してスピードを上げ、高く舞い上がって得点を稼ぎます。\n\n■ CIPHER  \nコードを解読しよう。ターンごとに得られるヒントから4色のコードを推測します。\n\n■ SHAPES  \n形を落として新しい形に合体させる楽しいパズルゲームです。\n\n■ TIC TAC TOE  \nお馴染みの三目並べ。シングルプレイヤーまたは友達と対戦できます。\n\n■ PONG  \n初期のビデオゲームの一つをプレイ。シンプルなテニス風ゲームで、絶対的なクラシックです。\n\n■ BRICK BREAK  \n楽しいレトロな落ちるブロックゲーム。ブロックを積んでラインを消して得点を稼ぎます。\n\n■ INVADERS  \nクラシックなアーケードアクション。宇宙侵略者を撃ち落とし、母艦を狙ってボーナスポイントを獲得。\n\n■ 2048  \n中毒性のある2048ゲームを楽しもう。数字タイルをスワイプして結合し、2048を目指します。\n\n■ TUBE TWIST  \n無限のチューブを走るランナーを導こう。穴やトゲを避け、黄色のパワーオーブを集めてスピードブーストを発動。\n\n■ BUBBLE  \nクラシックなマッチ3パズルゲーム。色でバブルをつなげて消します。\n\n■ MISSILE  \nどれだけ長くホーミングミサイルの攻撃を生き延びられるか？戦闘機を操縦してミサイルを避け、衝突させます。\n\n■ HOP  \nプラットフォームからプラットフォームへジャンプして高さと得点を稼ぎます。途中で翼のある敵を撃ちます。\n\n■ Drift  \n危険な道をハイオクタンでドリフト。ミスをすると落ちます。できるだけ長く生き残り、高得点を狙います。\n\n■ Cong  \n円形のポンのようなゲーム。デジタルクラウンを使ってパドルを動かし、ボールをプレイし続けます。\n\n■ Tower  \nカラフルなブロックを積み上げてタワーを作ります。完璧に配置してボーナスポイントを獲得。\n\n■ FLAP  \n翼を羽ばたかせて終わりのない森を鳥を導こう。\n\n■ FROG ROAD  \nかわいいカエルを助けて車を避け、道路を渡らせます。クラシックなFroggerゲームの3Dアップデートです。\n\n■ BLOCK RUN  \n走りたくなった？ボクセルのキャラクターを助けてカラフルな障害物をジャンプ、転がり、曲がって避けます。\n\n■ MATCHTRIS  \nテトリスとドクターマリオの融合。落ちてくるブロックを動かして4色以上を揃えて消します。\n\n■ DRONE  \nエイリアン宇宙船の無限の廊下をドローンで操縦します。\n\n■ THRUST  \nロケットブーツを装着し、暗い洞窟を突進。クラシックな洞窟フライヤーゲームとフラッピーバードの要素を組み合わせたゲームです。\n\n■ SUPER JUMP  \nプラットフォーマーゲームの楽しさを無限ランナーと融合。穴や敵をジャンプで避け、果物を集めて得点を稼ぎます。\n\n■ RETRO RACER  \nOutrunやPole Positionのような擬似3Dレースゲームにインスパイアされた現代的なグラフィック。スピード感を楽しみながらタイムを競います。\n\nこのゲームは、シリーズ4以降のApple Watchが必要です。\n\n■ CONTRA PANG  \nContraのシューティングアクションとPangのバブルポッピングの楽しさの融合。\n\n■ CIRCLE INVADERS  \nクラシックなスペースインベーダーの新しいひねり。ユニークな円形デザインと多くのパワーアップ。\n\n■ MOON SNAKE  \nクラシックな果物を食べるヘビを月に置きました。爆弾や自分の尾を避けて生き延びます。\n\n■ DUAL BREAK  \nクラシックなパドルゲームBreakoutの進化版。パワーアップと追加のパドルを使ってコントロール。\n\n■ CIRCLE BREAK  \n円の中のポンとブレイクアウトの融合。ボールが円を出ないようにし、すべての障害物を壊してステージをクリア。\n\n特徴：\n• 広告なし！\n• Apple Watch対応\n• スクリーンシェイク\n• バイブレーション\n• サウンドエフェクト \n• 音楽\n• リーダーボード",
-      "releaseNotes": "Cipherゲームのクラッシュを修正しました。",
+      "releaseNotes": "音響効果の標準化  \nGLIDEの丘を更新しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0-%E3%83%AC%E3%83%88%E3%83%AD%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%B2%E3%83%BC%E3%83%A0/id1519386476?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Rui Alho",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "MiniGames - Retro Uhren Spiele",
       "description": "MiniGames ist eine Sammlung neuer, retro und moderner Spiele. Spiele auf deiner Apple Watch, iPhone oder iPad ohne Werbung! Erlebe dein persönliches Spiel-Automaten-Erlebnis für unterwegs.\n\nDiese Sammlung umfasst 28 Spiele:\n\n■ GLIDE  \nHilf dem roten Vogel zu fliegen. Nutze Hügel, um Geschwindigkeit zu gewinnen.\n\n■ CIPHER  \nKnacke den Code. Errate den 4-Farben-Code anhand der Hinweise.\n\n■ SHAPES  \nPuzzle-Spiel, bei dem du Formen kombinierst.\n\n■ TIC TAC TOE  \nKlassisches Noughts und Crosses. Spiele im Einzelspieler-Modus oder gegen einen Freund.\n\n■ PONG  \nSpiele eines der ersten Videospiele. Ein Klassiker.\n\n■ BRICK BREAK  \nRetro-Spiel mit fallenden Steinen. Staple die Steine, um Punkte zu sammeln.\n\n■ INVADERS  \nArcade-Action. Schieße alle Raumfahrer ab, bevor sie dich erreichen.\n\n■ 2048  \nGenieße das süchtig machende 2048-Spiel. Wische die Zahlenkacheln, um 2048 zu erreichen.\n\n■ TUBE TWIST  \nFühre deinen Läufer durch ein endloses Rohr. Vermeide Löcher und Stacheln.\n\n■ BUBBLE  \n3-Gewinnt-Puzzle. Verbinde die Blasen nach Farbe.\n\n■ MISSILE  \nManövriere dein Flugzeug, um Raketen auszuweichen.\n\n■ HOP  \nSpringe von Plattform zu Plattform, um Punkte zu gewinnen.\n\n■ DRIFT  \nGenieße Driften auf einem gefährlichen Weg. Überlebe für die höchste Punktzahl.\n\n■ Cong  \nWie Pong, aber im Kreis. Bewege den Schläger mit der digitalen Krone.\n\n■ Tower  \nBaue deinen Turm, indem du bunte Blöcke stapelst.\n\n■ FLAP  \nFühre den Vogel durch einen endlosen Wald.\n\n■ FROG ROAD  \nHilf den Fröschen, die Straße zu überqueren. Ein 3D-Update von Frogger.\n\n■ BLOCK RUN  \nHilf dem Voxel-Typ, bunten Hindernissen auszuweichen.\n\n■ MATCHTRIS  \nEine Mischung aus Tetris und Dr. Mario. Kombiniere 4 oder mehr Farben.\n\n■ DRONE  \nSteuere deine Drohne durch endlose Gänge eines Alien-Raumschiffs.\n\n■ THRUST  \nFliege durch eine dunkle Höhle. Kombiniert klassisches Höhlenflugspiel mit Flappy Bird.\n\n■ SUPER JUMP  \nHalte deinen Spieler am Laufen, indem du über Hindernisse springst. Sammle Früchte für Punkte.\n\n■ RETRO RACER  \nInspiriert von 3D-Rennspielen, genieße das Gefühl von Geschwindigkeit.\n\nBitte beachte, dass dieses Spiel eine Apple Watch Series 4 oder neuer benötigt.\n\n■ CONTRA PANG  \nEine Mischung aus Contras Schießaction und Blasen-Popping-Spaß.\n\n■ CIRCLE INVADERS  \nEine neue Wendung des klassischen Space Invaders mit kreisförmigem Design.\n\n■ MOON SNAKE  \nDie klassische Schlange auf den Mond gebracht. Vermeide Bomben.\n\n■ DUAL BREAK  \nDas klassische Paddle-Spiel Breakout mit Power-Ups.\n\n■ CIRCLE BREAK  \nWie Pong im Kreis. Halte den Ball im Kreis und zerstöre Hindernisse.\n\nFunktionen:  \n• Keine Werbung!  \n• Apple Watch Unterstützung  \n• Bildschirmvibration  \n• Vibrationen  \n• Soundeffekte  \n• Musik  \n• Bestenlisten",
-      "releaseNotes": "Ein Absturz im Cipher-Spiel wurde behoben.",
+      "releaseNotes": "Normalisierte Soundeffekte  \nAktualisierte Hügel in GLIDE",
       "trackViewUrl": "https://apps.apple.com/de/app/minigames-retro-uhren-spiele/id1519386476?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Rui Alho",
@@ -104,15 +104,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/f8/35/6df8354f-109f-3853-a03c-69c69de78b80/AppIcon5-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.55263,
-  "userRatingCount": 266,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/01/5c11015f-bda9-1440-094e-961e5e166211/AppIcon5-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.55471,
+  "userRatingCount": 265,
   "price": 1.99,
-  "fileSizeBytes": "84595712",
+  "fileSizeBytes": "84612096",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
-  "version": "1.24.5",
-  "currentVersionReleaseDate": "2026-06-03T16:30:59Z",
+  "version": "1.24.6",
+  "currentVersionReleaseDate": "2026-08-20T16:19:49Z",
   "releaseDate": "2020-08-19T07:00:00Z",
   "artistId": 421687206,
   "artistName": "AlhoGames",
@@ -465,8 +465,13 @@
       "version": "1.24.5",
       "releaseNotes": "Fixed a crash in the Cipher game",
       "seenAt": "2026-06-03T16:30:59Z"
+    },
+    {
+      "version": "1.24.6",
+      "releaseNotes": "Normalised sound effects\nUpdated hills in GLIDE",
+      "seenAt": "2026-08-20T16:19:49Z"
     }
   ],
-  "updatedAt": "2026-08-20T07:20:05.604Z",
+  "updatedAt": "2026-08-21T07:08:38.165Z",
   "isOwnApp": false
 }
