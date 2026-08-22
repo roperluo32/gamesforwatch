@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Squickly",
       "description": "Squickly is fun and colorful endless runner. Quickly jump over spikes and last as long as you can for the high score!\n\nCollect tokens as you jump over spikes and avoid obstacles. There are a bunch of cool color schemes to unlock and many more to come that celebrate some awesome things going on!\n\nGame Modes:\n- Arcade\nEnjoy the same Squickly you've been used to, now in it's own dedicated game mode.\n\n- Blitz!\nEnjoy a more challenging experience as you dodge and survive more obstacles. Reach Gates to secure your rewards and increase your multiplier. Earn more rewards, gain higher scores, but be careful not to risk it all. Try out Blitz!",
-      "releaseNotes": "- Enhanced UI layout handling\n- Improved touch input detection\n- Minor fixes and improvements",
+      "releaseNotes": "What's New in 2.5.1\n\n  • More Games! There's a new button on the title screen — tap it to see what else Broken Walls Studios is making,\n  including our new game Abuga Warp Zone, and jump straight to its store page.\n  • Small fixes and behind-the-scenes improvements to keep things running smoothly.\n\n  Thanks for playing Squickly! If you're enjoying the game, leaving a review really helps.",
       "trackViewUrl": "https://apps.apple.com/us/app/squickly/id1299838625?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Brandon Roberts",
@@ -21,7 +21,7 @@
     "ja": {
       "trackName": "Squickly",
       "description": "Squickly is fun and colorful endless runner. Quickly jump over spikes and last as long as you can for the high score!\n\nCollect tokens as you jump over spikes and avoid obstacles. There are a bunch of cool color schemes to unlock and many more to come that celebrate some awesome things going on!\n\nGame Modes:\n- Arcade\nEnjoy the same Squickly you've been used to, now in it's own dedicated game mode.\n\n- Blitz!\nEnjoy a more challenging experience as you dodge and survive more obstacles. Reach Gates to secure your rewards and increase your multiplier. Earn more rewards, gain higher scores, but be careful not to risk it all. Try out Blitz!",
-      "releaseNotes": "- Enhanced UI layout handling\n- Improved touch input detection\n- Minor fixes and improvements",
+      "releaseNotes": "What's New in 2.5.1\n\n  • More Games! There's a new button on the title screen — tap it to see what else Broken Walls Studios is making,\n  including our new game Abuga Warp Zone, and jump straight to its store page.\n  • Small fixes and behind-the-scenes improvements to keep things running smoothly.\n\n  Thanks for playing Squickly! If you're enjoying the game, leaving a review really helps.",
       "trackViewUrl": "https://apps.apple.com/jp/app/squickly/id1299838625?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Brandon Roberts",
@@ -35,7 +35,7 @@
     "de": {
       "trackName": "Squickly",
       "description": "Squickly is fun and colorful endless runner. Quickly jump over spikes and last as long as you can for the high score!\n\nCollect tokens as you jump over spikes and avoid obstacles. There are a bunch of cool color schemes to unlock and many more to come that celebrate some awesome things going on!\n\nGame Modes:\n- Arcade\nEnjoy the same Squickly you've been used to, now in it's own dedicated game mode.\n\n- Blitz!\nEnjoy a more challenging experience as you dodge and survive more obstacles. Reach Gates to secure your rewards and increase your multiplier. Earn more rewards, gain higher scores, but be careful not to risk it all. Try out Blitz!",
-      "releaseNotes": "- Enhanced UI layout handling\n- Improved touch input detection\n- Minor fixes and improvements",
+      "releaseNotes": "What's New in 2.5.1\n\n  • More Games! There's a new button on the title screen — tap it to see what else Broken Walls Studios is making,\n  including our new game Abuga Warp Zone, and jump straight to its store page.\n  • Small fixes and behind-the-scenes improvements to keep things running smoothly.\n\n  Thanks for playing Squickly! If you're enjoying the game, leaving a review really helps.",
       "trackViewUrl": "https://apps.apple.com/de/app/squickly/id1299838625?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Brandon Roberts",
@@ -47,15 +47,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/04/7e7004f7-5bef-d55f-8fda-dda25dd80583/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/9d/a0/ad9da02c-af7d-a133-2a15-bf3a4e9443c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "227822592",
+  "fileSizeBytes": "229364736",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.4",
-  "version": "2.5.0",
-  "currentVersionReleaseDate": "2026-02-20T20:28:07Z",
+  "version": "2.5.1",
+  "currentVersionReleaseDate": "2026-08-21T17:30:12Z",
   "releaseDate": "2017-12-13T04:01:53Z",
   "artistId": 378487031,
   "artistName": "Broken Walls",
@@ -377,8 +377,13 @@
       "version": "2.5.0",
       "releaseNotes": "- Enhanced UI layout handling\n- Improved touch input detection\n- Minor fixes and improvements",
       "seenAt": "2026-02-20T20:28:07Z"
+    },
+    {
+      "version": "2.5.1",
+      "releaseNotes": "  What's New in 2.5.1\n\n  • More Games! There's a new button on the title screen — tap it to see what else Broken Walls Studios is making,\n  including our new game Abuga Warp Zone, and jump straight to its store page.\n  • Small fixes and behind-the-scenes improvements to keep things running smoothly.\n\n  Thanks for playing Squickly! If you're enjoying the game, leaving a review really helps.",
+      "seenAt": "2026-08-21T17:30:12Z"
     }
   ],
-  "updatedAt": "2026-08-21T07:28:03.220Z",
+  "updatedAt": "2026-08-22T07:21:10.901Z",
   "isOwnApp": false
 }

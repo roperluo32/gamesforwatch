@@ -7,7 +7,7 @@
     "en": {
       "trackName": "PupPatches: Puppy Puzzle Game",
       "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "PupPatches: Puppy Puzzle Game",
       "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/cn/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "PupPatches: Puppy Puzzle Game",
       "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "PupPatches: Puppy Puzzle Game",
       "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/02/06/02020673-44ee-8276-7897-2b48fafe135c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/24/61/d02461c2-10fa-c964-ba64-649f8e4a30af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "36885504",
+  "fileSizeBytes": "38335488",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.2.3",
-  "currentVersionReleaseDate": "2026-08-18T20:28:02Z",
+  "version": "1.2.4",
+  "currentVersionReleaseDate": "2026-08-21T22:05:22Z",
   "releaseDate": "2026-07-25T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -413,8 +413,13 @@
       "version": "1.2.3",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-08-18T20:28:02Z"
+    },
+    {
+      "version": "1.2.4",
+      "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "seenAt": "2026-08-21T22:05:22Z"
     }
   ],
-  "updatedAt": "2026-08-21T07:17:31.733Z",
+  "updatedAt": "2026-08-22T07:15:26.514Z",
   "isOwnApp": false
 }
