@@ -60,8 +60,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/45/84/be458404-0dfe-9f73-f385-7e3cc1a30cdf/swipe_new_iPhone-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-  "averageUserRating": 4.68122,
-  "userRatingCount": 229,
+  "averageUserRating": 4.68261,
+  "userRatingCount": 230,
   "price": 0,
   "fileSizeBytes": "32419840",
   "contentAdvisoryRating": "4+",
@@ -302,6 +302,6 @@
       "seenAt": "2022-09-14T19:32:58Z"
     }
   ],
-  "updatedAt": "2026-08-23T07:12:56.134Z",
+  "updatedAt": "2026-08-24T07:30:22.994Z",
   "isOwnApp": false
 }

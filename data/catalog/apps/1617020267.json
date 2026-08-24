@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Sudoku Puzzle - Watch & Phone",
-      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Easy to Hard.",
-      "releaseNotes": "- Optimized for new OS.",
+      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Daily challenge.",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "trackViewUrl": "https://apps.apple.com/us/app/sudoku-puzzle-watch-phone/id1617020267?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -20,12 +20,12 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Number Game - Watch Math"
+      "subtitle": "Daily Puzzles - Solve the Grid"
     },
     "ja": {
       "trackName": "Sudoku Puzzle - Watch & Phone",
-      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Easy to Hard.",
-      "releaseNotes": "- Optimized for new OS.",
+      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Daily challenge.",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "trackViewUrl": "https://apps.apple.com/jp/app/sudoku-puzzle-watch-phone/id1617020267?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Sudoku Puzzle - Watch & Phone",
-      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Easy to Hard.",
-      "releaseNotes": "- Optimized for new OS.",
+      "description": "A number puzzle Sudoku is now available on your Watch & Phone:\n- 6x6 sudoku game.\n- 9x9 sudoku game.\n- Jigsaw sudoku game.\n- Thousand levels.\n- Daily challenge.",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "trackViewUrl": "https://apps.apple.com/de/app/sudoku-puzzle-watch-phone/id1617020267?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/1e/f6/991ef698-b83e-c65d-7327-52dcb657e16c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/14/a9/7a14a9f3-4bd9-0e81-3855-46c7b1b426dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.82353,
   "userRatingCount": 17,
   "price": 0,
-  "fileSizeBytes": "80150528",
+  "fileSizeBytes": "70979584",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.0.6",
-  "currentVersionReleaseDate": "2026-04-01T16:32:14Z",
+  "version": "3.1.0",
+  "currentVersionReleaseDate": "2026-08-23T19:15:37Z",
   "releaseDate": "2022-03-31T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -206,6 +206,33 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/fe/dc/a1fedc7a-9f1d-dded-64e3-1a9c7991aede/91f43474-4c6e-4565-b234-01ba5b6e5260_ipad_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/45/44/ec454488-c794-4a69-8120-edbf0ac04e7b/ca583f51-7b48-4623-9ba8-2c3758505823_ipad_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/01/94/020194b5-9b71-e044-5932-357f2d24e080/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/35/48/7235488f-96d5-01ad-a71e-96a11c811042/d43ead49-16c7-442d-a92b-2974750c0ffb_ipad_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/7a/57/0c7a57c4-0114-a35c-2f73-6ffdf0fd8d61/08e18409-d713-4466-9968-8bb0535f79d3_ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/bf/43/f8bf4301-85cb-cbfa-282a-ff010111262f/8991376c-757e-4f7d-9ea1-e2e9135bd67a_ipad_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/2c/c9/6a2cc9cc-8309-851c-39b5-83ffdc1c43b7/ipad_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/64/ee/0664ee0b-4ffe-0eda-7952-f4f7e764281b/ipad_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/1f/23/dc1f23cb-f936-db1e-57ae-968d5fad6e82/ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/ad/c1/d8adc11c-0fa0-2b7f-23fd-f722d7f1c492/097e968e-1b23-4de7-b45c-32406c4bdecf_ip6_3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/bf/a8/32bfa88c-de4a-5a3e-fa4f-424e3bdc2dc7/f4f6c78f-2c11-4d49-9e9b-298f75101f1e_ip6_1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/6e/01/006e0144-299c-e8d4-06b3-af143ed1bfa2/dd229f0f-6e3f-4310-8d9a-a29d338c830f_ip6_2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/8e/0b/608e0ba3-ed62-5a7f-f563-48625df5276c/930817dd-d21a-476c-89cd-a0250919e9d6_ipx_3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f5/77/93f577eb-479e-9715-f03c-e549f2d6ae71/12024f20-54ac-4e65-9241-eead28557fb8_ipx_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/e7/5f/8be75f47-0aed-6e81-62ca-a6854f9cee07/5ff14e5b-1283-403a-b433-dddc177566f4_ipx_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/4b/62/6c4b62dd-39ba-cb8a-bd61-bfe1ad021865/ipx_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/70/5c/ac705cc4-9a60-e9c0-5cf9-5166842de492/ipx_3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/64/71/366471c8-1b71-7ca4-c421-c31870015185/ipx_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/53/71/26537181-8916-18b7-a857-5495885dd14e/7892a192-905e-45d5-b1da-85106561e1c3_ipxs_3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/df/59/f0df5903-c5d0-8a2b-519b-69840a9a397a/709df971-b92c-4160-bcba-356899c0f715_ipxs_1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/55/ea/0355ea0d-e9a7-1bb7-d92f-a205134fa83a/6d2b5904-3f03-40f2-966b-d6dab0a31f34_ipxs_2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/ad/c1/d8adc11c-0fa0-2b7f-23fd-f722d7f1c492/097e968e-1b23-4de7-b45c-32406c4bdecf_ip6_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/bf/a8/32bfa88c-de4a-5a3e-fa4f-424e3bdc2dc7/f4f6c78f-2c11-4d49-9e9b-298f75101f1e_ip6_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/6e/01/006e0144-299c-e8d4-06b3-af143ed1bfa2/dd229f0f-6e3f-4310-8d9a-a29d338c830f_ip6_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/fe/dc/a1fedc7a-9f1d-dded-64e3-1a9c7991aede/91f43474-4c6e-4565-b234-01ba5b6e5260_ipad_3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/45/44/ec454488-c794-4a69-8120-edbf0ac04e7b/ca583f51-7b48-4623-9ba8-2c3758505823_ipad_1.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/01/94/020194b5-9b71-e044-5932-357f2d24e080/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/01/ce/4b01ce85-41a0-2910-917f-e6fae4ac89ab/91f43474-4c6e-4565-b234-01ba5b6e5260_ipad_3.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/23/73/df23735e-b7e7-6cf2-d95f-cc2ef7bb1d01/ca583f51-7b48-4623-9ba8-2c3758505823_ipad_1.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/38/ce/5338cee7-d4ac-bd34-cc36-602e6b6e5a32/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/2048x2732bb.png",
@@ -229,6 +256,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/38/ce/5338cee7-d4ac-bd34-cc36-602e6b6e5a32/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/576x768bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/fa/23/65fa2343-550e-b52a-ea77-99d0505f2047/9c064bdb-0136-434f-84a7-40091cf219ac_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.38.47.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/8b/5d/138b5d03-5c2a-0ff1-638a-fd44a7a2d910/c365fc9a-06ed-45f6-8241-94b0c1c4e309_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.36.31.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/34/36/5a34367b-c5d6-27b3-06c6-97eb740c50c9/55ab3ea0-73e3-4baf-b239-047e0212b50f_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.35.59.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/cc/ff/5cccffbf-405e-7014-ce7c-b0dd99bcfd02/9c064bdb-0136-434f-84a7-40091cf219ac_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.38.47.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/b9/26/55b926d1-c647-29e8-99a9-f1cf30dd0af0/c365fc9a-06ed-45f6-8241-94b0c1c4e309_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.36.31.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/e6/fb/75e6fb56-1874-5c0c-8590-6e277d2eb447/55ab3ea0-73e3-4baf-b239-047e0212b50f_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.35.59.png/410x502bb.png"
@@ -358,8 +388,13 @@
       "version": "3.0.6",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-04-01T16:32:14Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
+      "seenAt": "2026-08-23T19:15:37Z"
     }
   ],
-  "updatedAt": "2026-08-23T07:03:28.153Z",
+  "updatedAt": "2026-08-24T07:21:08.225Z",
   "isOwnApp": false
 }

@@ -26,12 +26,12 @@
         "ZH",
         "TR"
       ],
-      "subtitle": "50+ Offline Games,  No WiFi"
+      "subtitle": "55+ Offline Games,  No WiFi"
     },
     "zh": {
       "trackName": "游戏合集 - 手表游戏",
       "description": "把 Apple Watch 变成随身游戏厅！精选 50+ 款腕上小游戏，从经典街机、益智解谜到数字合成与棋类对战，抬腕就能玩，轻松填满碎片时间。\n\n【热门游戏】\n• 跳一跳：长按蓄力，松手跃向下一座平台，精准落点挑战更远距离\n• 指尖投篮：点击左右控制篮球弹跳，连续穿过篮筐，挑战最高得分\n• 五子棋：落子布局，攻防博弈，率先五子连线赢得对局\n• 切水果：滑动手指切开飞来的水果，躲避炸弹，挑战连击高分\n• 台球进洞：推动彩球、规划路线，逐关破解台球谜题\n• 2048：滑动数字方块，合并相同数字，持续进阶挑战2048\n\n【全部游戏分类】\n动作冒险：跳了个跳、彩线穿越、像素小鸟、贪吃蛇、太空大战、像素赛车、吃豆豆\n手速挑战：守了个圈、打地鼠、见缝插针、叠砖块、盖了个楼、切水果、跳一跳、别踩白块\n球类街机：指尖投篮、经典乒乓、打砖块、台球进洞\n方块消除：俄罗斯方块、沙粒方块、方块拼图、星星消除、连连看、泡泡龙\n烧脑解谜：关了个灯、记忆匹配、数字华容道、扫雷、水排序、球排序、颜色连线、推箱子、迷宫逃脱、数独\n数字合成：合成星球、数字合成、合成7、2048、球球2048\n棋类牌桌：井字棋、五子棋、中国象棋、黑白棋、蜘蛛纸牌\n轻松休闲：摇骰子、电子木鱼、光影记忆、抓了个鱼、过河搭桥\n\n【游戏亮点】\n• 专为 Apple Watch 小屏幕与触控操作优化\n• 50+ 款游戏集中在一个应用中，随心切换\n• 部分游戏支持 AI 对战、关卡挑战与最高分记录\n• 无需联网，抬腕即可开始\n• 持续加入更多腕上小游戏\n\n【适合这些时刻】\n地铁通勤、排队等待、工作间隙或睡前放松，短短几分钟也能完成一局。\n\n现在就开启你的腕上游戏之旅，让 Apple Watch 不只是时间助手，也是随身携带的游戏机！\n\n会员自动续费订阅说明\n订阅周期：1 个月 / 1 年\n价格：具体价格请见 App 内部付费页面\n支付方式：用户确认购买并完成支付后，款项将计入 iTunes 账户\n续订规则：订阅到期前 24 小时内，Apple iTunes 账户将自动扣费，扣费成功后订阅周期顺延一个订阅期\n取消订阅：为避免自动续订，请在当前订阅周期结束前至少 24 小时取消订阅 \n服务条款：https://sites.google.com/view/game-collect-terms/\n隐私政策: https://sites.google.com/view/watchgame-collection/",
-      "releaseNotes": "修复已知问题",
+      "releaseNotes": "【三款新作，一次更新！】\n本次新增：\n《移出木块》\n《迷宫2》\n《箭头逃脱》",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6742131931?uo=4",
       "formattedPrice": "免费",
       "sellerName": "秀平 王",
@@ -101,15 +101,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/da/74/25da74f4-cec6-e38d-394e-41839e36120e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/9e/32/8d9e3220-a03b-3ceb-09b3-7748f89ee04f/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "34400256",
+  "fileSizeBytes": "37568512",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "2.2.6",
-  "currentVersionReleaseDate": "2026-08-08T10:22:30Z",
+  "version": "2.2.7",
+  "currentVersionReleaseDate": "2026-08-24T01:35:09Z",
   "releaseDate": "2025-02-19T08:00:00Z",
   "artistId": 1812138700,
   "artistName": "秀平 王",
@@ -416,8 +416,13 @@
       "version": "2.2.6",
       "releaseNotes": "Fix known issues",
       "seenAt": "2026-08-08T10:22:30Z"
+    },
+    {
+      "version": "2.2.7",
+      "releaseNotes": "Fix known issues",
+      "seenAt": "2026-08-24T01:35:09Z"
     }
   ],
-  "updatedAt": "2026-08-23T06:59:03.052Z",
+  "updatedAt": "2026-08-24T07:16:23.104Z",
   "isOwnApp": false
 }

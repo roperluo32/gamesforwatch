@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Bug Plague - Play on Watch",
-      "description": "For iPhone there are several challenges:\n- Protect the cheese (don't let any insects touch the cheese)\n- Realistic scenarios. Grass and sand ( more difficult to detect the insect)\n- In white background there are 3 levels, with 25, 50 and 100 insects. Each level insects go faster and are more difficult to hunt.\n\nFor Apple Watch the game is simpler. 3 levels available: 10, 25 and 50 insects. Hunt all the insects on the watch!\n\nThe insects are very slippery, maybe you will have to press several times on it to eliminate it! Spiders, ticks, mosquitoes, cockroaches, etc. may appear.\n\nControl the insect pest! (Assume you can never exterminate them completely).",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "description": "An unstoppable bug invasion has arrived! Test your speed, reflexes, and precision in this fast-paced arcade game where your main mission is to control the plague and defend your food.\n\nKey Features:\n- Protect the Cheese: Don't let a single insect reach your food! Keep your guard up at all times.\n- Challenging Environments: Hunt bugs across different surfaces—high-contrast white, grassy fields, or sandy grounds where insects easily camouflage.\n- Tricky Pests: Face spiders, ticks, mosquitoes, and cockroaches. Some bugs are slippery and take multiple taps to defeat!\n- Scalable Difficulty: Choose between levels with 25, 50, or 100 insects. As speed increases, chaos follows!\n- Play on Apple Watch: Enjoy quick bug-squishing action right from your wrist with exclusive watch levels (10, 25, and 50 insects).\n\nDo you have the fast fingers needed to clear the screen? Download now and stop the plague!",
+      "releaseNotes": "- Updated dependences\n- Implemente with SwiftUI",
       "trackViewUrl": "https://apps.apple.com/us/app/bug-plague-play-on-watch/id1468643311?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "Bug Plague - Play on Watch",
-      "description": "For iPhone there are several challenges:\n- Protect the cheese (don't let any insects touch the cheese)\n- Realistic scenarios. Grass and sand ( more difficult to detect the insect)\n- In white background there are 3 levels, with 25, 50 and 100 insects. Each level insects go faster and are more difficult to hunt.\n\nFor Apple Watch the game is simpler. 3 levels available: 10, 25 and 50 insects. Hunt all the insects on the watch!\n\nThe insects are very slippery, maybe you will have to press several times on it to eliminate it! Spiders, ticks, mosquitoes, cockroaches, etc. may appear.\n\nControl the insect pest! (Assume you can never exterminate them completely).",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "description": "An unstoppable bug invasion has arrived! Test your speed, reflexes, and precision in this fast-paced arcade game where your main mission is to control the plague and defend your food.\n\nKey Features:\n- Protect the Cheese: Don't let a single insect reach your food! Keep your guard up at all times.\n- Challenging Environments: Hunt bugs across different surfaces—high-contrast white, grassy fields, or sandy grounds where insects easily camouflage.\n- Tricky Pests: Face spiders, ticks, mosquitoes, and cockroaches. Some bugs are slippery and take multiple taps to defeat!\n- Scalable Difficulty: Choose between levels with 25, 50, or 100 insects. As speed increases, chaos follows!\n- Play on Apple Watch: Enjoy quick bug-squishing action right from your wrist with exclusive watch levels (10, 25, and 50 insects).\n\nDo you have the fast fingers needed to clear the screen? Download now and stop the plague!",
+      "releaseNotes": "- Updated dependences\n- Implemente with SwiftUI",
       "trackViewUrl": "https://apps.apple.com/jp/app/bug-plague-play-on-watch/id1468643311?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Bug Plague - Play on Watch",
-      "description": "For iPhone there are several challenges:\n- Protect the cheese (don't let any insects touch the cheese)\n- Realistic scenarios. Grass and sand ( more difficult to detect the insect)\n- In white background there are 3 levels, with 25, 50 and 100 insects. Each level insects go faster and are more difficult to hunt.\n\nFor Apple Watch the game is simpler. 3 levels available: 10, 25 and 50 insects. Hunt all the insects on the watch!\n\nThe insects are very slippery, maybe you will have to press several times on it to eliminate it! Spiders, ticks, mosquitoes, cockroaches, etc. may appear.\n\nControl the insect pest! (Assume you can never exterminate them completely).",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "description": "An unstoppable bug invasion has arrived! Test your speed, reflexes, and precision in this fast-paced arcade game where your main mission is to control the plague and defend your food.\n\nKey Features:\n- Protect the Cheese: Don't let a single insect reach your food! Keep your guard up at all times.\n- Challenging Environments: Hunt bugs across different surfaces—high-contrast white, grassy fields, or sandy grounds where insects easily camouflage.\n- Tricky Pests: Face spiders, ticks, mosquitoes, and cockroaches. Some bugs are slippery and take multiple taps to defeat!\n- Scalable Difficulty: Choose between levels with 25, 50, or 100 insects. As speed increases, chaos follows!\n- Play on Apple Watch: Enjoy quick bug-squishing action right from your wrist with exclusive watch levels (10, 25, and 50 insects).\n\nDo you have the fast fingers needed to clear the screen? Download now and stop the plague!",
+      "releaseNotes": "- Updated dependences\n- Implemente with SwiftUI",
       "trackViewUrl": "https://apps.apple.com/de/app/bug-plague-play-on-watch/id1468643311?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/bf/e8/3dbfe8ad-5839-875d-62e7-c0595935468f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/78/38/0c7838a4-9113-22fd-e430-2f10ec7a984c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "18941952",
+  "fileSizeBytes": "7318528",
   "contentAdvisoryRating": "12+",
-  "minimumOsVersion": "12.0",
-  "version": "2.1.3",
-  "currentVersionReleaseDate": "2024-04-10T07:45:24Z",
+  "minimumOsVersion": "16.6",
+  "version": "2.2.0",
+  "currentVersionReleaseDate": "2026-08-23T21:57:38Z",
   "releaseDate": "2019-06-18T06:27:44Z",
   "artistId": 1382683382,
   "artistName": "Tocapp Games S.L.",
@@ -303,8 +303,13 @@
       "version": "2.1.3",
       "releaseNotes": "- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-04-10T07:45:24Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "- Updated dependences\n- Implemente with SwiftUI",
+      "seenAt": "2026-08-23T21:57:38Z"
     }
   ],
-  "updatedAt": "2026-08-23T07:14:08.035Z",
+  "updatedAt": "2026-08-24T07:31:27.650Z",
   "isOwnApp": false
 }
