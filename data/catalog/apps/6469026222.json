@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Drift Zombie - idle car racing",
       "description": "So daddy said if you work hard and deliver Tofu everyday you gonna have a bright future. But look, now that the virus has wide spread... Zombies are blocking all roads. It's your duty to drift and crash those undeads for coins. On your way, make friends and unlock new crew members with powerful cars. Tandem together, your Initial D racing team will smash zombies to take back the streets. And the best thing is, you can save the world while being idle.",
-      "releaseNotes": "Add new skills Auto Tap and Golden Zombies.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/drift-zombie-idle-car-racing/id6469026222?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Drift Zombie - idle car racing",
       "description": "So daddy said if you work hard and deliver Tofu everyday you gonna have a bright future. But look, now that the virus has wide spread... Zombies are blocking all roads. It's your duty to drift and crash those undeads for coins. On your way, make friends and unlock new crew members with powerful cars. Tandem together, your Initial D racing team will smash zombies to take back the streets. And the best thing is, you can save the world while being idle.",
-      "releaseNotes": "Add new skills Auto Tap and Golden Zombies.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/drift-zombie-idle-car-racing/id6469026222?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Drift Zombie - idle car racing",
       "description": "So daddy said if you work hard and deliver Tofu everyday you gonna have a bright future. But look, now that the virus has wide spread... Zombies are blocking all roads. It's your duty to drift and crash those undeads for coins. On your way, make friends and unlock new crew members with powerful cars. Tandem together, your Initial D racing team will smash zombies to take back the streets. And the best thing is, you can save the world while being idle.",
-      "releaseNotes": "Add new skills Auto Tap and Golden Zombies.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/drift-zombie-idle-car-racing/id6469026222?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/dd/7b/afdd7b14-3127-4db5-6457-4bc7df5e802f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/51/4a/ba514a15-bbbc-d46c-8287-0b73999f72ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "117424128",
-  "contentAdvisoryRating": "12+",
+  "fileSizeBytes": "119269376",
+  "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.3",
-  "currentVersionReleaseDate": "2024-04-02T03:51:39Z",
+  "version": "1.8",
+  "currentVersionReleaseDate": "2026-08-24T18:34:09Z",
   "releaseDate": "2023-10-28T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -261,8 +261,13 @@
       "version": "1.3",
       "releaseNotes": "Add new skills Auto Tap and Golden Zombies.",
       "seenAt": "2024-04-02T03:51:39Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "Optimized for Apple Watch.",
+      "seenAt": "2026-08-24T18:34:09Z"
     }
   ],
-  "updatedAt": "2026-08-24T07:49:27.130Z",
+  "updatedAt": "2026-08-25T07:38:18.817Z",
   "isOwnApp": false
 }

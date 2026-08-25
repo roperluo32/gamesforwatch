@@ -6,7 +6,7 @@
   "locales": {
     "en": {
       "trackName": "PupPatches: Puppy Puzzle Game",
-      "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
+      "description": "Cozy puppy-themed logic puzzles for Watch & Phone:\n  - No timer, no stress. Quick, thoughtful gameplay\n  - New Daily Challenge every day\n  - Choose puzzles for your skill level\n  - Easy to play, rewarding to master",
       "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "Free",
@@ -24,7 +24,7 @@
     },
     "zh": {
       "trackName": "PupPatches: Puppy Puzzle Game",
-      "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
+      "description": "Cozy puppy-themed logic puzzles for Watch & Phone:\n  - No timer, no stress. Quick, thoughtful gameplay\n  - New Daily Challenge every day\n  - Choose puzzles for your skill level\n  - Easy to play, rewarding to master",
       "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/cn/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "免费",
@@ -42,7 +42,7 @@
     },
     "ja": {
       "trackName": "PupPatches: Puppy Puzzle Game",
-      "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
+      "description": "Cozy puppy-themed logic puzzles for Watch & Phone:\n  - No timer, no stress. Quick, thoughtful gameplay\n  - New Daily Challenge every day\n  - Choose puzzles for your skill level\n  - Easy to play, rewarding to master",
       "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "無料",
@@ -60,7 +60,7 @@
     },
     "de": {
       "trackName": "PupPatches: Puppy Puzzle Game",
-      "description": "Cozy collection of clever puzzle games for Watch & Phone:\n  - Cute puppy theme\n  - Quick, thoughtful puzzles\n  - No timer, no stress\n  - Easy to play, rewarding to master",
+      "description": "Cozy puppy-themed logic puzzles for Watch & Phone:\n  - No timer, no stress. Quick, thoughtful gameplay\n  - New Daily Challenge every day\n  - Choose puzzles for your skill level\n  - Easy to play, rewarding to master",
       "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/puppatches-puppy-puzzle-game/id6792665763?uo=4",
       "formattedPrice": "Gratis",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/24/61/d02461c2-10fa-c964-ba64-649f8e4a30af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/19/7e/fa197ee3-eb94-7cb1-534d-3aa0cf0f75ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "38335488",
+  "fileSizeBytes": "38368256",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.2.4",
-  "currentVersionReleaseDate": "2026-08-21T22:05:22Z",
+  "version": "1.2.5",
+  "currentVersionReleaseDate": "2026-08-24T20:36:57Z",
   "releaseDate": "2026-07-25T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -418,8 +418,13 @@
       "version": "1.2.4",
       "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "seenAt": "2026-08-21T22:05:22Z"
+    },
+    {
+      "version": "1.2.5",
+      "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "seenAt": "2026-08-24T20:36:57Z"
     }
   ],
-  "updatedAt": "2026-08-24T07:22:49.747Z",
+  "updatedAt": "2026-08-25T07:11:29.595Z",
   "isOwnApp": false
 }

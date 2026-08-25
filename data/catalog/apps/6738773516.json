@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mahjong: match puzzle",
       "description": "Everynight, the same dream... The same girl in the rain, ask you to play Mahjong. What are the meaning of all those? So much to be curious about and there is only one way to find out: Solve the puzzle and see what the girl want.\n* Match 2 pieces of Mahjong with same symbol.\n* You can match any 2 Mahjong pieces of the same set.\n* You can not use a blocked piece.\n* Avoid mistake to make combo.\n* Chill in rainy sound and low fi music with zero pressure.\n* Also play on smartwatch.\nGet the game, help the mysterious girl!",
-      "releaseNotes": "Improved performance on Apple Watch and iPhone.",
+      "releaseNotes": "Improved graphics.",
       "trackViewUrl": "https://apps.apple.com/us/app/mahjong-match-puzzle/id6738773516?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Mahjong: match puzzle",
       "description": "Everynight, the same dream... The same girl in the rain, ask you to play Mahjong. What are the meaning of all those? So much to be curious about and there is only one way to find out: Solve the puzzle and see what the girl want.\n* Match 2 pieces of Mahjong with same symbol.\n* You can match any 2 Mahjong pieces of the same set.\n* You can not use a blocked piece.\n* Avoid mistake to make combo.\n* Chill in rainy sound and low fi music with zero pressure.\n* Also play on smartwatch.\nGet the game, help the mysterious girl!",
-      "releaseNotes": "Improved performance on Apple Watch and iPhone.",
+      "releaseNotes": "Improved graphics.",
       "trackViewUrl": "https://apps.apple.com/cn/app/mahjong-match-puzzle/id6738773516?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Mahjong: match puzzle",
       "description": "Everynight, the same dream... The same girl in the rain, ask you to play Mahjong. What are the meaning of all those? So much to be curious about and there is only one way to find out: Solve the puzzle and see what the girl want.\n* Match 2 pieces of Mahjong with same symbol.\n* You can match any 2 Mahjong pieces of the same set.\n* You can not use a blocked piece.\n* Avoid mistake to make combo.\n* Chill in rainy sound and low fi music with zero pressure.\n* Also play on smartwatch.\nGet the game, help the mysterious girl!",
-      "releaseNotes": "Improved performance on Apple Watch and iPhone.",
+      "releaseNotes": "Improved graphics.",
       "trackViewUrl": "https://apps.apple.com/jp/app/mahjong-match-puzzle/id6738773516?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Mahjong: match puzzle",
       "description": "Everynight, the same dream... The same girl in the rain, ask you to play Mahjong. What are the meaning of all those? So much to be curious about and there is only one way to find out: Solve the puzzle and see what the girl want.\n* Match 2 pieces of Mahjong with same symbol.\n* You can match any 2 Mahjong pieces of the same set.\n* You can not use a blocked piece.\n* Avoid mistake to make combo.\n* Chill in rainy sound and low fi music with zero pressure.\n* Also play on smartwatch.\nGet the game, help the mysterious girl!",
-      "releaseNotes": "Improved performance on Apple Watch and iPhone.",
+      "releaseNotes": "Improved graphics.",
       "trackViewUrl": "https://apps.apple.com/de/app/mahjong-match-puzzle/id6738773516?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/71/bc/5f71bc0d-0872-76d7-ea54-8293df77d970/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/80/36/8b80365e-0b17-45d4-f703-3ec5f26c860a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "282899456",
+  "fileSizeBytes": "285629440",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.3",
-  "version": "1.24",
-  "currentVersionReleaseDate": "2026-08-17T05:27:50Z",
+  "version": "1.25",
+  "currentVersionReleaseDate": "2026-08-25T05:50:49Z",
   "releaseDate": "2025-02-28T08:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -392,8 +392,13 @@
       "version": "1.24",
       "releaseNotes": "Improved performance on Apple Watch and iPhone.",
       "seenAt": "2026-08-17T05:27:50Z"
+    },
+    {
+      "version": "1.25",
+      "releaseNotes": "Improved graphics.",
+      "seenAt": "2026-08-25T05:50:49Z"
     }
   ],
-  "updatedAt": "2026-08-24T07:28:36.810Z",
+  "updatedAt": "2026-08-25T07:17:32.089Z",
   "isOwnApp": false
 }

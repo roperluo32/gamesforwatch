@@ -1,87 +1,98 @@
 {
-  "trackId": "1534424915",
-  "bundleId": "com.mast3rsoft.nim",
-  "slug": "nim-watch",
-  "path": "/apps/1534424915-nim-watch/",
+  "trackId": "6804224679",
+  "bundleId": "com.numbertiles",
+  "slug": "number-tiles-watch-game",
+  "path": "/apps/6804224679-number-tiles-watch-game/",
   "locales": {
     "en": {
-      "trackName": "Nim Watch",
-      "description": "A game for the watch!\nNim is a classical board game from  china.\nClick one of the lines and click continue.\n\nThe computer will make his move. \n\nWho ever makes the last move losses",
-      "releaseNotes": "We fixed the restart the button and the 40 mm version works now!\n\nPlease tell us what you want us to fix",
-      "trackViewUrl": "https://apps.apple.com/us/app/nim-watch/id1534424915?uo=4",
+      "trackName": "Number Tiles - Watch Game",
+      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/us/app/number-tiles-watch-game/id6804224679?uo=4",
       "formattedPrice": "Free",
-      "sellerName": "Niko Neufeld",
+      "sellerName": "秀平 王",
       "genres": [
         "Games",
-        "Board"
+        "Puzzle",
+        "Casual"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
       ],
-      "subtitle": "Nim"
-    },
-    "zh": {
-      "trackName": "Nim Watch",
-      "description": "A game for the watch!\nNim is a classical board game from  china.\nClick one of the lines and click continue.\n\nThe computer will make his move. \n\nWho ever makes the last move losses",
-      "releaseNotes": "We fixed the restart the button and the 40 mm version works now!\n\nPlease tell us what you want us to fix",
-      "trackViewUrl": "https://apps.apple.com/cn/app/nim-watch/id1534424915?uo=4",
-      "formattedPrice": "免费",
-      "sellerName": "Niko Neufeld",
-      "genres": [
-        "游戏",
-        "桌面"
-      ],
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "subtitle": ""
+      "subtitle": "Match & Merge: 2048 Block Game"
     },
     "ja": {
-      "trackName": "Nim Watch",
-      "description": "A game for the watch!\nNim is a classical board game from  china.\nClick one of the lines and click continue.\n\nThe computer will make his move. \n\nWho ever makes the last move losses",
-      "releaseNotes": "We fixed the restart the button and the 40 mm version works now!\n\nPlease tell us what you want us to fix",
-      "trackViewUrl": "https://apps.apple.com/jp/app/nim-watch/id1534424915?uo=4",
+      "trackName": "Number Tiles - Watch Game",
+      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/jp/app/number-tiles-watch-game/id6804224679?uo=4",
       "formattedPrice": "無料",
-      "sellerName": "Niko Neufeld",
+      "sellerName": "秀平 王",
       "genres": [
         "ゲーム",
-        "ボード"
+        "パズル",
+        "カジュアル"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "Nim Watch",
-      "description": "A game for the watch!\nNim is a classical board game from  china.\nClick one of the lines and click continue.\n\nThe computer will make his move. \n\nWho ever makes the last move losses",
-      "releaseNotes": "We fixed the restart the button and the 40 mm version works now!\n\nPlease tell us what you want us to fix",
-      "trackViewUrl": "https://apps.apple.com/de/app/nim-watch/id1534424915?uo=4",
+      "trackName": "Number Tiles - Watch Game",
+      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/number-tiles-watch-game/id6804224679?uo=4",
       "formattedPrice": "Gratis",
-      "sellerName": "Niko Neufeld",
+      "sellerName": "秀平 王",
       "genres": [
         "Spiele",
-        "Brettspiele"
+        "Puzzle",
+        "Gelegenheits­spiele"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/43/fa/4e/43fa4efb-0f02-ae04-a5fe-1be2b7172e50/AppIcon-1x_U007emarketing-0-9-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/32/59/8b325913-9143-bd28-3b05-670e376b19f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1275904",
+  "fileSizeBytes": "10316800",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0.1",
-  "currentVersionReleaseDate": "2020-10-08T15:40:36Z",
-  "releaseDate": "2020-10-06T07:00:00Z",
-  "artistId": 1197873417,
-  "artistName": "Niko Neufeld",
-  "artistViewUrl": "https://apps.apple.com/de/developer/niko-neufeld/id1197873417?uo=4",
+  "minimumOsVersion": "16.0",
+  "version": "1.0",
+  "currentVersionReleaseDate": "2026-08-25T01:53:27Z",
+  "releaseDate": "2026-08-25T01:53:27Z",
+  "artistId": 1812138700,
+  "artistName": "秀平 王",
+  "artistViewUrl": "https://apps.apple.com/de/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -216,25 +227,34 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/42/fe/77/42fe7770-62f8-3205-49bc-0f93ddc2cf94/88dc3442-3449-44be-9352-4ee8236f4899_Webp.net-resizeimage-3.png/1242x2208bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/4a/33/c9/4a33c961-90d5-343e-8cb0-fbbb7d3f1b16/80323fa6-fade-4c9d-8d09-e3a8167111a8_Webp.net-resizeimage-2.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/42/fe/77/42fe7770-62f8-3205-49bc-0f93ddc2cf94/88dc3442-3449-44be-9352-4ee8236f4899_Webp.net-resizeimage-3.png/392x696bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7b/8e/607b8e40-8340-61e6-f819-7970e270a4e2/01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/5e/af/c75eaffd-31f2-52fa-278d-15c4019ec29a/02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/88/ee/1a88ee91-b7f4-ede1-c6e4-112959174837/04.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/56/a6/1556a671-adf0-0fcc-b232-82fc36fd4fdd/03.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/37/2d/c0372d74-f82b-03a7-7ebb-dfa4597b3264/05.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/45/ab/ad45ab07-6b25-43e3-06d9-f94a5e06dc07/07.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7b/8e/607b8e40-8340-61e6-f819-7970e270a4e2/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/5e/af/c75eaffd-31f2-52fa-278d-15c4019ec29a/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/88/ee/1a88ee91-b7f4-ede1-c6e4-112959174837/04.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/56/a6/1556a671-adf0-0fcc-b232-82fc36fd4fdd/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/37/2d/c0372d74-f82b-03a7-7ebb-dfa4597b3264/05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/45/ab/ad45ab07-6b25-43e3-06d9-f94a5e06dc07/07.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/4f/cb/19/4fcb1940-30ec-b29a-10bf-15bc06275a23/e57090af-b652-4e21-b994-060edef11dc9_Webp.net-resizeimage-4.png/312x390bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/78/78/9c7878d1-b7a7-a528-16d0-9091d2625214/01-home.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/2d/70/222d7087-c830-ea5a-7db4-b2977b23a663/02-five-tracks.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/6a/1a/076a1a80-b80b-1e5f-b96d-5bc3a7c91fad/03-combo.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/c7/8b/edc78b38-c8af-c735-29f5-6590d5c9adf9/04-high-score.png/416x496bb.png"
   ],
   "versionHistory": [
     {
       "version": "1.0",
       "releaseNotes": "",
-      "seenAt": "2020-10-06T19:49:05Z"
-    },
-    {
-      "version": "1.0.1",
-      "releaseNotes": "We fixed the restart the button and the 40 mm version works now!\n\nPlease tell us what you want us to fix",
-      "seenAt": "2020-10-08T15:40:36Z"
+      "seenAt": "2026-08-25T01:53:27Z"
     }
   ],
-  "updatedAt": "2026-08-25T07:15:27.314Z",
+  "updatedAt": "2026-08-25T07:18:58.259Z",
   "isOwnApp": false
 }
