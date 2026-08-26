@@ -36,7 +36,7 @@
     "zh": {
       "trackName": "划水摸鱼 - 手表游戏",
       "description": "专为Apple Watch打造，装机必备，全平台适配\n一个应用，畅玩20多款经典休闲小游戏\n上班、上学、开会、马桶、飞机、没网时，随时随地开玩\n\n每月更新新游戏，已上线游戏有：\n中国象棋\n外卖跑酷\n合成万物（合成大西瓜）\n黄金矿工\n2048\n俄罗斯方块\n打砖块\n跳一跳\n推箱子\n井字棋\n五子棋\n蜘蛛纸牌\nEmoji 串串（排序）\n华容道\n贪吃蛇\n扫雷\n24点\n数独\n谐音梗猜词\n寻找飞机头\n俄罗斯方块·坠落\n电子书（macOS)。\n\n设计清新简洁，玩法简单。\n多个难度等级，适合不同程度的玩家。\n不仅能够带给你欢乐，还能挑战你的智力和反应能力。\n\nmacOS客户端更有仿照Numbers风格的样式，上班时候玩或者看电子书，老板根本不会发现！\n\n快来下载吧，一起享受游戏的乐趣吧！\n\n隐私政策：https://antonhomebrew.github.io/page/goofoff/privacy_policy.html\n服务条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n: ) 意见反馈或有趣想法请联系：\n• 邮件: anton.homebrew@gmail.com\n• 小红书: http://xhslink.com/fH9wxeb",
-      "releaseNotes": "数独游戏：优化性能与按钮点击交互\n修复点击本周免费卡片，无法进入游戏的问题",
+      "releaseNotes": "跳一跳：修复上滑取消后卡顿的问题\n推箱子：手表添加滑动移动",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%88%92%E6%B0%B4%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id1602848605?uo=4",
       "formattedPrice": "免费",
       "sellerName": "旭东 刘",
@@ -58,15 +58,16 @@
         "ES",
         "TH",
         "ZH",
+        "TR",
         "VI"
       ],
       "subtitle": ""
     },
     "ja": {
-      "trackName": "GoofOff - Watch Games",
-      "description": "Enjoy a growing collection of fun and easy mini games designed for Apple Watch and iPhone.  \nTurn your Apple Watch into a pocket-sized arcade.  \n\nChallenge yourself, beat your high scores, and enjoy quick bursts of fun anytime, anywhere.\n\n• Designed for Apple Watch, also available on iPhone, iPad, and Mac  \n• 20+ mini games in one app, updated monthly  \n• Weekly Free Games — a new game free every week  \n• Fully offline — no Wi-Fi needed  \n• No ads, no tracking, no interruptions  \n• Compete on weekly and all-time leaderboards via Game Center, compete against players worldwide.\n• Play multiplayer games with friends or challenge invincible AI  \n• Smooth controls optimized for small screens, running at 60fps  \n• Haptic feedback and sound effects for an immersive experience  \n• Simple design — easy to play, hard to master  \n\nPerfect for quick play during:  \nCommuting · Waiting · Meetings · Breaks · Travel · Offline moments  \n\nNew games are updated monthly. \nLaunched Games:  \nChinese Chess!\nDelivery Run — Fast & Furious, Precision Dodge\nMerge Everything — Combine items to create higher-level objects  \nGold Miner — Aim true hook big, uncover treasures\nTetris — Stack blocks and clear lines  \n2048 — Slide tiles to reach 2048  \nBreakout — Bounce hard, smash every brick\nJumpJump — Tap to jump, rise higher and higher\nSokoban — Push boxes strategically to reach target spots  \nTic Tac Toe — Classic 3-in-a-row strategy game with infinite mode  \nGomoku — Get five in a row to win  \nSpider Solitaire — Clear the table by arranging cards in sequence  \nEmoji Skewers — Match and sort identical emojis  \nKlotski — Slide blocks to free the main piece  \nTetris Fall — A faster-paced falling block challenge  \nSnake — Grow longer while avoiding collisions  \nMinesweeper — Use logic to find all mines  \nSudoku — Fill the grid without repeating numbers  \nMath 24 — Use math operations to make 24  \nFind the Plane Heads — Locate hidden targets on the grid  \nChinese Word Riddles — Guess the word from its punny hints.\n...and more coming soon.\n\nOne-time purchase supported. Play across iPhone, Apple Watch, and Mac.\n\nDownload now and enjoy gaming on your wrist.\n\nPrivacy Policy: https://antonhomebrew.github.io/page/goofoff/privacy_policy.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nFollow us for more：\n• Email: anton.homebrew@gmail.com\n• rednote: http://xhslink.com/fH9wxeb\n• X: https://x.com/bigabilityliu\n• Facebook: https://www.facebook.com/share/18LqWJKavp/?mibextid=wwXIfr",
-      "releaseNotes": "Sudoku: improved performance and button tap interactions\nFixed an issue where tapping the Weekly Free card did not open the game",
-      "trackViewUrl": "https://apps.apple.com/jp/app/goofoff-watch-games/id1602848605?uo=4",
+      "trackName": "GoofOff - スマートウォッチゲーム",
+      "description": "Apple WatchとiPhoneのために作られた、楽しくて手軽なミニゲームのコレクションをお楽しみください。\nApple Watchをポケットサイズのアーケードに変えましょう。\n\n自分に挑戦してハイスコアを更新し、いつでもどこでも短時間で楽しめます。\n\n• Apple Watch向けに設計、iPhone、iPad、Macでも利用可能\n• 1つのアプリに20種類以上のミニゲーム、毎月更新\n• 今週の無料ゲーム — 毎週1つのゲームを無料で提供\n• 完全オフライン — Wi‑Fiは不要\n• 広告なし、トラッキングなし、中断なし\n• Game Centerの週間・総合ランキングで世界中のプレイヤーと競い合えます。\n• 友だちとマルチプレイを楽しむ、または無敵のAIに挑戦\n• 小さな画面向けに最適化された滑らかな操作、60fpsで動作\n• 没入感を高める触覚フィードバックと効果音\n• シンプルなデザイン — 遊びやすく、極めるのは難しい\n\n次のような短時間プレイにぴったり：\n通勤 · 待ち時間 · 会議 · 休憩 · 旅行 · オフラインの時間\n\n新しいゲームを毎月追加。\n配信中のゲーム：\nParkour Run — スピード感あふれる精密回避\nMerge Everything — アイテムを組み合わせて上位アイテムを作ろう\nGold Miner — フックを狙い定めて宝を掘り出そう\nTetris — ブロックを積んでラインを消そう\n2048 — タイルをスライドして2048を目指そう\nBreakout — ボールを跳ね返してすべてのブロックを壊そう\nJumpJump — タップでジャンプ、どんどん高く上がろう\nSokoban — 戦略的に箱を押して目標地点へ\nTic Tac Toe — 無限モードを備えた定番の三目並べ戦略ゲーム\nGomoku — 5つ並べて勝利\nSpider Solitaire — カードを順番に並べて場を片付けよう\nEmoji Skewers — 同じ絵文字を揃えて並べ替えよう\nKlotski — ブロックをスライドして主役の駒を脱出させよう\nTetris Fall — よりスピーディーな落下ブロックチャレンジ\nSnake — 衝突を避けながらどんどん長くなろう\nMinesweeper — ロジックで全ての地雷を見つけよう\nSudoku — 数字を重複させずにマスを埋めよう\nMath 24 — 四則演算で24を作ろう\nFind the Plane Heads — グリッド内に隠れた標的を見つけよう\nChinese Word Riddles — 言葉遊びのヒントから答えを当てよう。\nChinese Chess!\n...さらに多くのゲームを近日追加予定。\n\n買い切り購入に対応。iPhone、Apple Watch、Macでプレイできます。\n\n今すぐダウンロードして、手首でゲームを楽しもう。\n\nプライバシーポリシー: https://antonhomebrew.github.io/page/goofoff/privacy_policy.html\n利用規約: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nフォローはこちら：\n• メール: anton.homebrew@gmail.com\n• rednote: http://xhslink.com/fH9wxeb\n• X: https://x.com/bigabilityliu\n• Facebook: https://www.facebook.com/share/18LqWJKavp/?mibextid=wwXIfr",
+      "releaseNotes": "ジャンプジャンプ：上スワイプをキャンセルした後に動作がカクつく問題を修正しました\n倉庫番：Apple Watchにスワイプ操作を追加しました",
+      "trackViewUrl": "https://apps.apple.com/jp/app/goofoff-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%B2%E3%83%BC%E3%83%A0/id1602848605?uo=4",
       "formattedPrice": "無料",
       "sellerName": "旭东 刘",
       "genres": [
@@ -87,6 +88,7 @@
         "ES",
         "TH",
         "ZH",
+        "TR",
         "VI"
       ],
       "subtitle": ""
@@ -94,7 +96,7 @@
     "de": {
       "trackName": "GoofOff - Watch Games",
       "description": "Enjoy a growing collection of fun and easy mini games designed for Apple Watch and iPhone.  \nTurn your Apple Watch into a pocket-sized arcade.  \n\nChallenge yourself, beat your high scores, and enjoy quick bursts of fun anytime, anywhere.\n\n• Designed for Apple Watch, also available on iPhone, iPad, and Mac  \n• 20+ mini games in one app, updated monthly  \n• Weekly Free Games — a new game free every week  \n• Fully offline — no Wi-Fi needed  \n• No ads, no tracking, no interruptions  \n• Compete on weekly and all-time leaderboards via Game Center, compete against players worldwide.\n• Play multiplayer games with friends or challenge invincible AI  \n• Smooth controls optimized for small screens, running at 60fps  \n• Haptic feedback and sound effects for an immersive experience  \n• Simple design — easy to play, hard to master  \n\nPerfect for quick play during:  \nCommuting · Waiting · Meetings · Breaks · Travel · Offline moments  \n\nNew games are updated monthly. \nLaunched Games:  \nChinese Chess!\nDelivery Run — Fast & Furious, Precision Dodge\nMerge Everything — Combine items to create higher-level objects  \nGold Miner — Aim true hook big, uncover treasures\nTetris — Stack blocks and clear lines  \n2048 — Slide tiles to reach 2048  \nBreakout — Bounce hard, smash every brick\nJumpJump — Tap to jump, rise higher and higher\nSokoban — Push boxes strategically to reach target spots  \nTic Tac Toe — Classic 3-in-a-row strategy game with infinite mode  \nGomoku — Get five in a row to win  \nSpider Solitaire — Clear the table by arranging cards in sequence  \nEmoji Skewers — Match and sort identical emojis  \nKlotski — Slide blocks to free the main piece  \nTetris Fall — A faster-paced falling block challenge  \nSnake — Grow longer while avoiding collisions  \nMinesweeper — Use logic to find all mines  \nSudoku — Fill the grid without repeating numbers  \nMath 24 — Use math operations to make 24  \nFind the Plane Heads — Locate hidden targets on the grid  \nChinese Word Riddles — Guess the word from its punny hints.\n...and more coming soon.\n\nOne-time purchase supported. Play across iPhone, Apple Watch, and Mac.\n\nDownload now and enjoy gaming on your wrist.\n\nPrivacy Policy: https://antonhomebrew.github.io/page/goofoff/privacy_policy.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nFollow us for more：\n• Email: anton.homebrew@gmail.com\n• rednote: http://xhslink.com/fH9wxeb\n• X: https://x.com/bigabilityliu\n• Facebook: https://www.facebook.com/share/18LqWJKavp/?mibextid=wwXIfr",
-      "releaseNotes": "Sudoku: improved performance and button tap interactions\nFixed an issue where tapping the Weekly Free card did not open the game",
+      "releaseNotes": "Jump Jump: fixed stuttering after cancelling an upward swipe\nSokoban: added swipe controls on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/de/app/goofoff-watch-games/id1602848605?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "旭东 刘",
@@ -116,20 +118,21 @@
         "ES",
         "TH",
         "ZH",
+        "TR",
         "VI"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/be/66/14be666e-6df8-e24d-c65f-b3631f838f0b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/8a/d3/5f8ad3c9-e4e4-58df-b595-4372833bd165/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "84089856",
+  "fileSizeBytes": "85310464",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "11.2",
-  "currentVersionReleaseDate": "2026-08-19T01:48:19Z",
+  "version": "11.3",
+  "currentVersionReleaseDate": "2026-08-26T01:58:36Z",
   "releaseDate": "2022-08-07T07:00:00Z",
   "artistId": 1565635060,
   "artistName": "旭东 刘",
@@ -304,6 +307,16 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/31/f5/9131f534-ca63-9354-42c7-65704b3cf99c/75283d7e-1c05-41bb-917e-d3847cd89902_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-04-14_at_00.14.24.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/75/ee/ec75ee33-24b5-826b-3bb6-5bed14a5626f/bb835f0c-b225-46c7-8228-41c334daddad_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-03-29_at_23.06.34.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/06/a4/2506a4c6-479b-bd43-85a2-9fabf3b49062/db0334ed-753e-4003-a626-c16e25c04479_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-03-29_at_23.09.48.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/c1/81/c2c181b7-edf1-d134-e29a-53ce2776338b/en_iPhone__U9ed1_U8272_U4e3b_U9898.001.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/18/aa/e818aaa9-f6bc-0c1b-2633-21051a92533f/en_iPhone__U9ed1_U8272_U4e3b_U9898.002.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/a5/51/58a55123-fbd1-9559-4d93-75b7a8b9e8ad/en_iPhone__U9ed1_U8272_U4e3b_U9898.003.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/5d/6b/405d6b9a-d9fa-7750-24ba-8f35f67e79fc/en_iPhone__U9ed1_U8272_U4e3b_U9898.016.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/ad/6c/82ad6c0a-8e57-ec99-6735-660a553e7f08/en_iPhone__U9ed1_U8272_U4e3b_U9898.017.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/eb/a5/5aeba5e4-1edf-0cee-7b7e-b37f447b3cf6/en_iPhone__U9ed1_U8272_U4e3b_U9898.018.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/55/4e/72554e82-e9c4-a04c-d715-d2beaf116d7d/en_iPhone__U9ed1_U8272_U4e3b_U9898.019.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/d1/81/34d18134-ed52-ec91-20d5-1e038708c3fd/en_iPhone__U9ed1_U8272_U4e3b_U9898.021.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/0a/d6/d20ad699-1dd1-e77b-bcfe-f6593a131d36/en_iPhone__U9ed1_U8272_U4e3b_U9898.020.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fa/7d/b0fa7df6-e58f-c5a0-44e0-6e1f74597a49/en_iPhone__U9ed1_U8272_U4e3b_U9898.022.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/3d/02/ae3d0227-ef58-f9e9-161b-f11822c9f8f7/9ab72139-2e7c-4668-904e-b63f30ddb953_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-04-14_at_00.27.54.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/a1/7c/13a17cee-40cd-f0bb-0a5c-571fefb75a6a/47c95b5c-466d-4b43-8f40-125069af6ef3_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-04-14_at_00.27.53.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/f0/e1/0cf0e174-c7eb-fb94-a403-78b7f0f5d3c7/66f24bcf-ca34-4ff4-85eb-74c831833dbe_69c6dd6b-aa86-4a26-be49-586fbd3b06bb.png/392x696bb.png",
@@ -587,8 +600,13 @@
       "version": "11.2",
       "releaseNotes": "Sudoku: improved performance and button tap interactions\nFixed an issue where tapping the Weekly Free card did not open the game",
       "seenAt": "2026-08-19T01:48:19Z"
+    },
+    {
+      "version": "11.3",
+      "releaseNotes": "Jump Jump: fixed stuttering after cancelling an upward swipe\nSokoban: added swipe controls on Apple Watch\n",
+      "seenAt": "2026-08-26T01:58:36Z"
     }
   ],
-  "updatedAt": "2026-08-25T07:06:06.915Z",
+  "updatedAt": "2026-08-26T07:07:01.961Z",
   "isOwnApp": false
 }

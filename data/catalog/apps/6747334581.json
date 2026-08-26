@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Single Tap Games for Watch",
       "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "",
+      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
       "trackViewUrl": "https://apps.apple.com/us/app/single-tap-games-for-watch/id6747334581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Ran Kornfeld",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Single Tap Games for Watch",
       "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "",
+      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
       "trackViewUrl": "https://apps.apple.com/cn/app/single-tap-games-for-watch/id6747334581?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Ran Kornfeld",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Single Tap Games for Watch",
       "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "",
+      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
       "trackViewUrl": "https://apps.apple.com/jp/app/single-tap-games-for-watch/id6747334581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Ran Kornfeld",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/85/d1/4885d138-e862-d39d-4084-432d99bc336b/AppIcon-0-0-1x_U007ewatch-0-1-0-P3-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/06/d6/0106d65e-0203-ca44-2af7-b05b40da39cc/AppIcon-0-0-1x_U007ewatch-0-1-0-P3-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2618368",
+  "fileSizeBytes": "6046720",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2025-06-18T06:02:53Z",
+  "version": "3.0.0",
+  "currentVersionReleaseDate": "2026-08-26T05:16:35Z",
   "releaseDate": "2025-06-17T07:00:00Z",
   "artistId": 961958041,
   "artistName": "Ran Kornfeld",
@@ -204,6 +204,14 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/5f/76/5a5f76df-b1a3-24fd-54b7-b9886cc4156b/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.12.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/3b/e8/063be851-6717-809a-6c1f-915559745098/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.35.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/6d/26/266d26d8-5c38-0a20-f043-bb4e30af13b0/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.04.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/25/08/fc250811-733c-5298-2ed1-3cb1fc5ced4a/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.58.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/e6/01/76e6011e-0ccd-12f8-9b26-8d57dc6b94b0/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.38.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/04/26/2304261b-4b01-07e8-7056-b3bc2e146581/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.26.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/45/47/7a454799-3fe2-6f2b-a90e-20d7b93e4b5d/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.01.05.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/56/0a/9c560a2a-4331-797e-558a-535cecb45758/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.01.21.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/31/b0/f631b0e7-362e-df7d-8242-fa4d801ba146/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-06-17_at_11.10.04.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/7a/78/2a7a784f-0e2e-4e44-8b91-47f72e456db0/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-06-17_at_11.10.36.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/2f/6b/032f6b77-e997-5176-80f2-09a95842ac4d/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-06-17_at_11.11.11.png/410x502bb.png",
@@ -216,8 +224,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2025-06-18T06:02:53Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
+      "seenAt": "2026-08-26T05:16:35Z"
     }
   ],
-  "updatedAt": "2026-08-25T07:16:49.977Z",
+  "updatedAt": "2026-08-26T07:18:04.058Z",
   "isOwnApp": false
 }
