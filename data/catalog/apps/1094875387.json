@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Catch Me If You Cat: Puzzle Game for Apple Watch",
       "description": "NOW IT'S TOTALLY FREE! PLAY IT FOR FUN!\n\nIMPORTANT: This game is for Apple Watch only! WatchOS 2.0 or higher is required!\n\n\nMunch on the cheese without becoming kitty lunch! Play Catch Me If You Cat on your Apple Watch - Puzzle Game for Apple Watch!\n\nDo your best to survive and get out of the angry cats’ world! Play Catch Me If You Cat on your Apple Watch!\n\nYou are a mouse. Find the exit in order to escape a fatal feline encounter. Tap on the left, right, top or bottom sides of the screen to move in that direction. Be smart and think fast if you don’t want to become kitty kibble!\n\nTroubleshooting tips:\n- Remove Watch App\n- Reboot Apple Watch and iPhone\n- Re-install Watch App",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/catch-me-if-you-cat-puzzle-game-for-apple-watch/id1094875387?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jetdogs Oy",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Catch Me If You Cat: Puzzle Game for Apple Watch",
       "description": "NOW IT'S TOTALLY FREE! PLAY IT FOR FUN!\n\nIMPORTANT: This game is for Apple Watch only! WatchOS 2.0 or higher is required!\n\n\nMunch on the cheese without becoming kitty lunch! Play Catch Me If You Cat on your Apple Watch - Puzzle Game for Apple Watch!\n\nDo your best to survive and get out of the angry cats’ world! Play Catch Me If You Cat on your Apple Watch!\n\nYou are a mouse. Find the exit in order to escape a fatal feline encounter. Tap on the left, right, top or bottom sides of the screen to move in that direction. Be smart and think fast if you don’t want to become kitty kibble!\n\nTroubleshooting tips:\n- Remove Watch App\n- Reboot Apple Watch and iPhone\n- Re-install Watch App",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/catch-me-if-you-cat-puzzle-game-for-apple-watch/id1094875387?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Jetdogs Oy",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Catch Me If You Cat: Puzzle Game for Apple Watch",
       "description": "NOW IT'S TOTALLY FREE! PLAY IT FOR FUN!\n\nIMPORTANT: This game is for Apple Watch only! WatchOS 2.0 or higher is required!\n\n\nMunch on the cheese without becoming kitty lunch! Play Catch Me If You Cat on your Apple Watch - Puzzle Game for Apple Watch!\n\nDo your best to survive and get out of the angry cats’ world! Play Catch Me If You Cat on your Apple Watch!\n\nYou are a mouse. Find the exit in order to escape a fatal feline encounter. Tap on the left, right, top or bottom sides of the screen to move in that direction. Be smart and think fast if you don’t want to become kitty kibble!\n\nTroubleshooting tips:\n- Remove Watch App\n- Reboot Apple Watch and iPhone\n- Re-install Watch App",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/catch-me-if-you-cat-puzzle-game-for-apple-watch/id1094875387?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jetdogs Oy",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Catch Me If You Cat: Puzzle Game for Apple Watch",
       "description": "NOW IT'S TOTALLY FREE! PLAY IT FOR FUN!\n\nIMPORTANT: This game is for Apple Watch only! WatchOS 2.0 or higher is required!\n\n\nMunch on the cheese without becoming kitty lunch! Play Catch Me If You Cat on your Apple Watch - Puzzle Game for Apple Watch!\n\nDo your best to survive and get out of the angry cats’ world! Play Catch Me If You Cat on your Apple Watch!\n\nYou are a mouse. Find the exit in order to escape a fatal feline encounter. Tap on the left, right, top or bottom sides of the screen to move in that direction. Be smart and think fast if you don’t want to become kitty kibble!\n\nTroubleshooting tips:\n- Remove Watch App\n- Reboot Apple Watch and iPhone\n- Re-install Watch App",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/catch-me-if-you-cat-puzzle-game-for-apple-watch/id1094875387?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jetdogs Oy",
@@ -256,10 +256,10 @@
   "versionHistory": [
     {
       "version": "1.0.2",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2016-05-12T10:24:21Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:11:03.595Z",
+  "updatedAt": "2026-08-27T17:45:27.409Z",
   "isOwnApp": false
 }

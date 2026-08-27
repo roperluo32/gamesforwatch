@@ -128,15 +128,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/08/e9/5808e998-3e0d-b8e9-914b-0b2574bec127/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/88/f5/0f88f50e-d5ec-b0ec-8886-185af7bb2073/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.91667,
   "userRatingCount": 12,
   "price": 0,
-  "fileSizeBytes": "175908864",
+  "fileSizeBytes": "176211968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "12.0.0",
-  "currentVersionReleaseDate": "2026-08-21T14:22:04Z",
+  "version": "12.0.1",
+  "currentVersionReleaseDate": "2026-08-26T20:53:05Z",
   "releaseDate": "2015-04-11T21:31:04Z",
   "artistId": 563997356,
   "artistName": "Ignacio Soto Bustos",
@@ -417,7 +417,7 @@
     },
     {
       "version": "7.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- New Game Report allows you to analyze games using the new Game Report to find the critical moves.\n- Optimized for the upcoming version of iOS.\n",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- New Game Report allows you to analyze games using the new Game Report to find the critical moves.\n- Optimized for the upcoming version of iOS.\n",
       "seenAt": "2021-09-17T23:03:34Z"
     },
     {
@@ -509,8 +509,13 @@
       "version": "12.0.0",
       "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
       "seenAt": "2026-08-21T14:22:04Z"
+    },
+    {
+      "version": "12.0.1",
+      "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
+      "seenAt": "2026-08-26T20:53:05Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:30:06.705Z",
+  "updatedAt": "2026-08-27T18:03:52.503Z",
   "isOwnApp": false
 }

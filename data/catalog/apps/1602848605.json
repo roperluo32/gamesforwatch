@@ -7,7 +7,7 @@
     "en": {
       "trackName": "GoofOff - Watch Games",
       "description": "Enjoy a growing collection of fun and easy mini games designed for Apple Watch and iPhone.  \nTurn your Apple Watch into a pocket-sized arcade.  \n\nChallenge yourself, beat your high scores, and enjoy quick bursts of fun anytime, anywhere.\n\n• Designed for Apple Watch, also available on iPhone, iPad, and Mac  \n• 20+ mini games in one app, updated monthly  \n• Weekly Free Games — a new game free every week  \n• Fully offline — no Wi-Fi needed  \n• No ads, no tracking, no interruptions  \n• Compete on weekly and all-time leaderboards via Game Center, compete against players worldwide.\n• Play multiplayer games with friends or challenge invincible AI  \n• Smooth controls optimized for small screens, running at 60fps  \n• Haptic feedback and sound effects for an immersive experience  \n• Simple design — easy to play, hard to master  \n\nPerfect for quick play during:  \nCommuting · Waiting · Meetings · Breaks · Travel · Offline moments  \n\nNew games are updated monthly. \nLaunched Games:  \nChinese Chess!\nDelivery Run — Fast & Furious, Precision Dodge\nMerge Everything — Combine items to create higher-level objects  \nGold Miner — Aim true hook big, uncover treasures\nTetris — Stack blocks and clear lines  \n2048 — Slide tiles to reach 2048  \nBreakout — Bounce hard, smash every brick\nJumpJump — Tap to jump, rise higher and higher\nSokoban — Push boxes strategically to reach target spots  \nTic Tac Toe — Classic 3-in-a-row strategy game with infinite mode  \nGomoku — Get five in a row to win  \nSpider Solitaire — Clear the table by arranging cards in sequence  \nEmoji Skewers — Match and sort identical emojis  \nKlotski — Slide blocks to free the main piece  \nTetris Fall — A faster-paced falling block challenge  \nSnake — Grow longer while avoiding collisions  \nMinesweeper — Use logic to find all mines  \nSudoku — Fill the grid without repeating numbers  \nMath 24 — Use math operations to make 24  \nFind the Plane Heads — Locate hidden targets on the grid  \nChinese Word Riddles — Guess the word from its punny hints.\n...and more coming soon.\n\nOne-time purchase supported. Play across iPhone, Apple Watch, and Mac.\n\nDownload now and enjoy gaming on your wrist.\n\nPrivacy Policy: https://antonhomebrew.github.io/page/goofoff/privacy_policy.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nFollow us for more：\n• Email: anton.homebrew@gmail.com\n• rednote: http://xhslink.com/fH9wxeb\n• X: https://x.com/bigabilityliu\n• Facebook: https://www.facebook.com/share/18LqWJKavp/?mibextid=wwXIfr",
-      "releaseNotes": "Sudoku: improved performance and button tap interactions\nFixed an issue where tapping the Weekly Free card did not open the game",
+      "releaseNotes": "Jump Jump: fixed stuttering after cancelling an upward swipe\nSokoban: added swipe controls on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/us/app/goofoff-watch-games/id1602848605?uo=4",
       "formattedPrice": "Free",
       "sellerName": "旭东 刘",
@@ -29,6 +29,7 @@
         "ES",
         "TH",
         "ZH",
+        "TR",
         "VI"
       ],
       "subtitle": "20+ Offline Mini Games, NoAds"
@@ -607,6 +608,6 @@
       "seenAt": "2026-08-26T01:58:36Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:07:01.961Z",
+  "updatedAt": "2026-08-27T17:41:45.991Z",
   "isOwnApp": false
 }

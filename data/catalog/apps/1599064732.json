@@ -7,15 +7,15 @@
     "en": {
       "trackName": "Super Chess for Watch & Phone",
       "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "This update improves the chess experience, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
       "trackViewUrl": "https://apps.apple.com/us/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Entertainment",
-        "Family",
-        "Board"
+        "Board",
+        "Family"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -25,15 +25,15 @@
     "zh": {
       "trackName": "Super Chess for Watch & Phone",
       "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "This update improves the chess experience, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
       "trackViewUrl": "https://apps.apple.com/cn/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
       "genres": [
         "游戏",
         "娱乐",
-        "家庭聚会",
-        "桌面"
+        "桌面",
+        "家庭聚会"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -43,15 +43,15 @@
     "ja": {
       "trackName": "Super Chess for Watch & Phone",
       "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "This update improves the chess experience, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
       "trackViewUrl": "https://apps.apple.com/jp/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "エンターテインメント",
-        "ファミリー",
-        "ボード"
+        "ボード",
+        "ファミリー"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -61,15 +61,15 @@
     "de": {
       "trackName": "Super Chess for Watch & Phone",
       "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "This update improves the chess experience, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
+      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
       "trackViewUrl": "https://apps.apple.com/de/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Familie",
-        "Brettspiele"
+        "Brettspiele",
+        "Familie"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9b/80/f39b8097-e82c-d3e6-2f38-6ce9a45b15e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/ec/0b/b9ec0b7e-fe44-8301-0e73-8a2decfcbe3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "52492288",
+  "fileSizeBytes": "93655040",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.5.0",
-  "currentVersionReleaseDate": "2026-08-24T18:34:33Z",
+  "version": "3.6.0",
+  "currentVersionReleaseDate": "2026-08-26T20:50:20Z",
   "releaseDate": "2021-12-08T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -392,8 +392,13 @@
       "version": "3.5.0",
       "releaseNotes": "This update improves the chess experience, clearer move hints, new visual and sound effects, better check/checkmate feedback.",
       "seenAt": "2026-08-24T18:34:33Z"
+    },
+    {
+      "version": "3.6.0",
+      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience\n",
+      "seenAt": "2026-08-26T20:50:20Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:13:01.159Z",
+  "updatedAt": "2026-08-27T17:47:37.549Z",
   "isOwnApp": false
 }

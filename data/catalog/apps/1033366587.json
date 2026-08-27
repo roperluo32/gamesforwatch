@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fruitozzo: Fruits Sudoku Game for Apple Watch",
       "description": "Best Fruit Sudoku on Earth for the Apple Watch OS2!\n\n- Apple Watch optimized game!\n- Play it for Free!\n- Earn Fruitcoins!\n\nTap on the screen to move the fruit and get only one of each fruit in the same line, row or box! Frozen fruit cannot be moved.\n\nStart Fruitozzo on your Apple Watch OS2 to play!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nWatchOS2 support included, WatchOS1 support removed!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWatchOS2 support included, WatchOS1 support removed!",
       "trackViewUrl": "https://apps.apple.com/us/app/fruitozzo-fruits-sudoku-game-for-apple-watch/id1033366587?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jetdogs Oy",
@@ -31,7 +31,7 @@
     "zh": {
       "trackName": "Fruitozzo: Apple Watch 上的水果数独游戏",
       "description": "地球上最棒的 Apple Watch 水果数独游戏！\n\n- 游戏已针对 Apple Watch 进行了优化！\n- 免费游戏！\n- 赢取水果币！\n\n轻按屏幕，移动水果，并且确保同一条直线、同一行以及同一个方框上，每样水果只有一个！\n\n开始在 Apple Watch 上畅玩 Fruitozzo 吧！",
-      "releaseNotes": "此次的 Apple 更新将会改善该 App 的功能。 未包括任何新功能。\n\nWatchOS2包括，WatchOS1删除！",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\nWatchOS2包括，WatchOS1删除！",
       "trackViewUrl": "https://apps.apple.com/cn/app/fruitozzo-apple-watch-%E4%B8%8A%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%95%B0%E7%8B%AC%E6%B8%B8%E6%88%8F/id1033366587?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Jetdogs Oy",
@@ -55,7 +55,7 @@
     "ja": {
       "trackName": "Fruitozzo：Apple Watch用フルーツナンバープレースゲーム",
       "description": "世界最高のApple Watch用フルーツナンバープレースゲーム！\n\n・Apple Watchに最適化されたゲームです！\n・プレイは無料！\n・フルーツコインを獲得！\n\n画面をタップしてフルーツを動かし、縦の列、横の列、ボックスの中にそれぞれのフルーツを1個だけ置きましょう！\n\nFruitozzo をApple Watchで実行してプレイ！",
-      "releaseNotes": "Apple のアップデートにより、この App の機能が向上します。 新しく追加される機能はありません。\n\nWatchOS2含まは、WatchOS1は削除！",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nWatchOS2含まは、WatchOS1は削除！",
       "trackViewUrl": "https://apps.apple.com/jp/app/fruitozzo-apple-watch%E7%94%A8%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0/id1033366587?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jetdogs Oy",
@@ -79,7 +79,7 @@
     "de": {
       "trackName": "Fruitozzo: Früchte-Sudoku-Spiel für die Apple Watch",
       "description": "Das beste Früchte-Sudoku der Welt für die Apple Watch!\n\n- Ein für die Apple Watch optimiertes Spiel!\n- Das Spiel ist kostenlos!\n- Verdiene Früchtemünzen!\n\nTippe auf den Bildschirm, um die Frucht zu verschieben und versuche, nur je eine Fruchtsorte in derselben Linie, Spalte oder einem Feld zu haben!\n\nStarte Fruitozzo auf deiner Apple Watch zum Spielen!",
-      "releaseNotes": "Dieses Update von Apple wird die Funktionalität der App verbessern. Es enthält keine neuen Features.\n\nWatchOS2 enthalten, WatchOS1 entfernt!",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nWatchOS2 enthalten, WatchOS1 entfernt!",
       "trackViewUrl": "https://apps.apple.com/de/app/fruitozzo-fr%C3%BCchte-sudoku-spiel-f%C3%BCr-die-apple-watch/id1033366587?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jetdogs Oy",
@@ -315,10 +315,10 @@
     },
     {
       "version": "1.0.4",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nWatchOS2 support included, WatchOS1 support removed!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWatchOS2 support included, WatchOS1 support removed!",
       "seenAt": "2015-11-21T03:25:09Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:07:53.403Z",
+  "updatedAt": "2026-08-27T17:42:32.298Z",
   "isOwnApp": false
 }

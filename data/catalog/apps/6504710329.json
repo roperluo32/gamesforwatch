@@ -188,15 +188,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/a1/a5/5da1a5f1-0a76-e48d-d168-3553d757d26c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/16/aa/7316aafc-ecd3-72ab-f001-ad5f86f6bf88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "110372864",
+  "fileSizeBytes": "110422016",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "13.03.02",
-  "currentVersionReleaseDate": "2026-08-11T12:31:56Z",
+  "version": "14.01.01",
+  "currentVersionReleaseDate": "2026-08-26T10:56:56Z",
   "releaseDate": "2024-06-24T07:00:00Z",
   "artistId": 1716757352,
   "artistName": "DegerGames",
@@ -515,8 +515,13 @@
       "version": "13.03.02",
       "releaseNotes": "Bug fixes",
       "seenAt": "2026-08-11T12:31:56Z"
+    },
+    {
+      "version": "14.01.01",
+      "releaseNotes": "Bug fixes",
+      "seenAt": "2026-08-26T10:56:56Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:13:29.157Z",
+  "updatedAt": "2026-08-27T17:48:00.474Z",
   "isOwnApp": false
 }

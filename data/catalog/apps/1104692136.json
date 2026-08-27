@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e1/d5/b7e1d58a-4052-4a3d-432e-d9c0e0136c36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.56335,
-  "userRatingCount": 48052,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/73/42/d2734289-bc24-a9ec-12f9-abf8a113e794/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.56325,
+  "userRatingCount": 48067,
   "price": 0,
-  "fileSizeBytes": "305741824",
+  "fileSizeBytes": "305930240",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "2.0.7",
-  "currentVersionReleaseDate": "2026-08-17T08:48:55Z",
+  "version": "2.0.8",
+  "currentVersionReleaseDate": "2026-08-27T10:57:52Z",
   "releaseDate": "2016-04-21T17:58:47Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -492,8 +492,13 @@
       "version": "2.0.7",
       "releaseNotes": "Eat and battle snakes of all kinds in this exciting game!\n\nRelease Features:\n-Unique Skins: Unlock a variety of skins through different missions!\n-Monthly Live Events: Experience a new game mode during our monthly, themed live events.\n-Bug fixes and optimizations",
       "seenAt": "2026-08-17T08:48:55Z"
+    },
+    {
+      "version": "2.0.8",
+      "releaseNotes": "Eat and battle snakes of all kinds in this exciting game!\n\nRelease Features:\n-Unique Skins: Unlock a variety of skins through different missions!\n-Monthly Live Events: Experience a new game mode during our monthly, themed live events.\n-Bug fixes and optimizations",
+      "seenAt": "2026-08-27T10:57:52Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:06:03.936Z",
+  "updatedAt": "2026-08-27T17:40:41.839Z",
   "isOwnApp": false
 }

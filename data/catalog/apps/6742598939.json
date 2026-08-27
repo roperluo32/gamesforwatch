@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Brick Jam: color block",
       "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
-      "releaseNotes": "Fix a bug at level 1280.",
+      "releaseNotes": "Fixed a bug at level 1433 and improved some levels.",
       "trackViewUrl": "https://apps.apple.com/us/app/brick-jam-color-block/id6742598939?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Brick Jam: color block",
       "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
-      "releaseNotes": "Fix a bug at level 1280.",
+      "releaseNotes": "Fixed a bug at level 1433 and improved some levels.",
       "trackViewUrl": "https://apps.apple.com/cn/app/brick-jam-color-block/id6742598939?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Brick Jam: color block",
       "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
-      "releaseNotes": "Fix a bug at level 1280.",
+      "releaseNotes": "Fixed a bug at level 1433 and improved some levels.",
       "trackViewUrl": "https://apps.apple.com/jp/app/brick-jam-color-block/id6742598939?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Brick Jam: color block",
       "description": "Tired of stressful time limited puzzle? Try Brick Jam... This new game is the one you play while relaxing. Spend all the time you need to investigate the level then find solution.\nMove the blocks around until each fit to a wall with same color. As the game progress, there will be more themes and gameplays to unlock. Brick Jam can be played on phone, tablet or smart watch.\nGet the game and challenge your brain with thousands of jamming levels.",
-      "releaseNotes": "Fix a bug at level 1280.",
+      "releaseNotes": "Fixed a bug at level 1433 and improved some levels.",
       "trackViewUrl": "https://apps.apple.com/de/app/brick-jam-color-block/id6742598939?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/cb/6a/1fcb6a93-764a-eba0-7f1a-98f7233ded69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/86/86/ae868699-4947-c818-ef90-e3f82dd6430a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.04167,
   "userRatingCount": 24,
   "price": 0,
   "fileSizeBytes": "72787968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.8.6",
-  "currentVersionReleaseDate": "2026-08-18T19:00:45Z",
+  "version": "1.9.0",
+  "currentVersionReleaseDate": "2026-08-26T20:50:11Z",
   "releaseDate": "2025-03-19T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -480,7 +480,7 @@
     },
     {
       "version": "1.8.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFix a bug at level 1107.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a bug at level 1107.",
       "seenAt": "2026-03-26T23:00:52Z"
     },
     {
@@ -507,8 +507,13 @@
       "version": "1.8.6",
       "releaseNotes": "Fix a bug at level 1280.",
       "seenAt": "2026-08-18T19:00:45Z"
+    },
+    {
+      "version": "1.9.0",
+      "releaseNotes": "Fixed a bug at level 1433 and improved some levels.",
+      "seenAt": "2026-08-26T20:50:11Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:12:06.477Z",
+  "updatedAt": "2026-08-27T17:46:45.476Z",
   "isOwnApp": false
 }

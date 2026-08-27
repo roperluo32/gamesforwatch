@@ -263,7 +263,7 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "seenAt": "2021-10-15T17:49:05Z"
     },
     {
@@ -277,6 +277,6 @@
       "seenAt": "2021-12-22T10:49:27Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:40:33.917Z",
+  "updatedAt": "2026-08-27T18:05:30.380Z",
   "isOwnApp": false
 }

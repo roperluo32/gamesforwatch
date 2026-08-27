@@ -7,7 +7,7 @@
     "en": {
       "trackName": "ArcEmu",
       "description": "ArcEmu is the first emulator for Apple Watch.\nIt also works on iPhone, iPad and Apple TV, providing a comprehensive gaming experience across all your Apple devices.\n\nConsoles Supported\n- Game Boy (.gb)\n- Game Boy Color (.gbc)\n- Game Boy Advance (.gba)\n\nMain Features\n- Precise and fast emulation thanks to mGBA core\n- Game Link Cable support (Online Multiplayer for up to 4 players) *\n- Cheat support with a preloaded database of popular codes **\n- Frame independent emulation with 30 or 60 fps\n- All orientations support on iPhone and iPad\n- Precise and well-designed on-screen controls\n- Customizable controls (transparency and position) on iPhone and iPad\n- 8-directional or 4-directional D-Pad on iPhone and iPad\n- Fast-Forward (2x, 4x and Max)\n- Slow-mo (0.5x)\n- Color Palette modification for GB games\n- Button hold/sustain feature\n- Accelerometer support\n- Gyroscope support on iPhone and iPad, using the Digital Crown on Apple Watch\n- Rumble support on iPhone\n- Digital Crown support on Apple Watch\n- Game controllers support on iPhone, iPad and Apple TV\n- Zip file support\n- Auto-Save feature\n- Save State sharing between devices\n- iCloud support for ROMs and Save States\n- ROM sharing via iCloud with share codes\n- Family Setup support (standalone Apple Watch)\n\nCompatibility\n- Apple Watch Series 3 or later\n- Apple Watch SE or later\n- Apple Watch Ultra or later\n\nArcEmu does not include any games or ROMs.\nYou can import Game Boy ROMs directly from your iPhone and store them in iCloud.\nYour Apple Watch will download them directly from iCloud.\nOn standalone Apple Watch (Family Setup), ROMs can be downloaded from iCloud using share codes.\n\nThe games shown in the screenshots are:\n- Acorn Grove: https://gibbongl.itch.io/acorn-grove\n- Anguna: https://gauauu.itch.io/anguna\n- Hauntsfield: https://alliemackie.itch.io/hauntsfield\n- µCity Advance: https://skylyrac.itch.io/ucity-advance\n\n* Requires a Game Center account\n** Cheats may cause unexpected behavior or affect game stability and save data\n\nArcEmu is in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.",
-      "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
+      "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.\n- Implemented support for stickless pads with no extended profile (like 8BitDo FlipPad)\n- Improved button layout when resizing the app on iPadOS",
       "trackViewUrl": "https://apps.apple.com/us/app/arcemu/id6496282733?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Raffaele D'Amato",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "ArcEmu",
       "description": "ArcEmuは、Apple Watch向け初のエミュレータです。\niPhone、iPad、Apple TVにも対応し、すべてのAppleデバイスで充実したゲーム体験を提供します。\n\n対応ゲーム機\n- Game Boy（.gb）\n- Game Boy Color（.gbc）\n- Game Boy Advance（.gba）\n\n主な機能\n- mGBAコアによる高精度かつ高速なエミュレーション\n- Game Link Cable対応（最大4人までのオンラインマルチプレイ）*\n- 人気コードを収録したプリインストール済みデータベースによるチート対応 **\n- 30または60 fpsのフレームレート非依存エミュレーション\n- iPhoneとiPadのすべての画面方向に対応\n- 高精度で使いやすく設計された画面上の操作ボタン\n- iPhoneとiPadで操作ボタンの透明度と位置をカスタマイズ可能\n- iPhoneとiPadで8方向または4方向の十字キーに対応\n- 早送り（2倍速・4倍速・Max）\n- スローモーション（0.5倍速）\n- GBゲームのカラーパレット変更\n- ボタンの長押し／ホールド機能\n- 加速度センサー対応\n- iPhoneとiPadのジャイロスコープ、およびApple WatchのDigital Crownを利用した操作に対応\n- iPhoneのランブル機能に対応\n- Apple WatchのDigital Crownに対応\n- iPhone、iPad、Apple TVのゲームコントローラに対応\n- ZIPファイルに対応\n- オートセーブ機能\n- デバイス間でのセーブステート共有\n- ROMとセーブステートのiCloud保存に対応\n- 共有コードを使ったiCloud経由のROM共有\n- ファミリー共有設定に対応（Apple Watch単体）\n\n互換性\n- Apple Watch Series 3以降\n- Apple Watch SE以降\n- Apple Watch Ultra以降\n\nArcEmuにはゲームやROMは含まれていません。\nGame BoyのROMをiPhoneから直接読み込み、iCloudに保存できます。\nApple WatchはiCloudからROMを直接ダウンロードします。\nファミリー共有設定を使用した単体のApple Watchでは、共有コードを使ってiCloudからROMをダウンロードできます。\n\nスクリーンショットに表示されているゲーム：\n- Acorn Grove：https://gibbongl.itch.io/acorn-grove\n- Anguna：https://gauauu.itch.io/anguna\n- Hauntsfield：https://alliemackie.itch.io/hauntsfield\n- µCity Advance：https://skylyrac.itch.io/ucity-advance\n\n* Game Centerアカウントが必要です\n** チートを使用すると予期しない動作が発生したり、ゲームの安定性やセーブデータに影響したりする場合があります\n\nArcEmuは任天堂とは一切関係ありません。「Nintendo」および関連するすべてのゲーム機名は、Nintendo Co., Ltd.の登録商標です。",
-      "releaseNotes": "- Apple TVに対応しました。\n- Apple WatchでもiCloudセーブに対応しました。\n- セーブスロットにタイムスタンプを追加しました。\n- デバイスの性能に応じて可能な限り高速で動作する早送りオプション「Max」を追加しました。\n- 早送りオプションの3倍速を4倍速に変更しました。\n- ランブル機能のサポートと振動フィードバックを改善しました。\n- Apple Watchでショルダーボタン（L/R）を非表示にできるオプションを追加しました。",
+      "releaseNotes": "- Apple TVに対応しました。\n- Apple WatchでのiCloudセーブに対応しました。\n- セーブスロットにタイムスタンプを追加しました。\n- デバイスの処理能力が許す限りゲームを高速で動作させる、早送りの「Max」オプションを追加しました。\n- 早送りの3倍速オプションを4倍速に変更しました。\n- ランブル対応と振動フィードバックを改善しました。\n- Apple Watchでショルダーボタン（L/R）を非表示にできるオプションを追加しました。\n- 拡張プロファイルを持たないスティックレスゲームパッド（8BitDo FlipPadなど）に対応しました。\n- iPadOSでアプリのサイズを変更した際のボタン配置を改善しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/arcemu/id6496282733?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Raffaele D'Amato",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "ArcEmu",
       "description": "ArcEmu ist der erste Emulator für die Apple Watch.\nEr funktioniert auch auf iPhone, iPad und Apple TV und bietet ein umfassendes Spielerlebnis auf all deinen Apple-Geräten.\n\nUnterstützte Konsolen\n- Game Boy (.gb)\n- Game Boy Color (.gbc)\n- Game Boy Advance (.gba)\n\nHauptfunktionen\n- Präzise und schnelle Emulation dank des mGBA-Cores\n- Unterstützung für Game Link Cable (Online-Multiplayer für bis zu 4 Spieler) *\n- Cheat-Unterstützung mit einer vorinstallierten Datenbank beliebter Codes **\n- Bildratenunabhängige Emulation mit 30 oder 60 fps\n- Unterstützung aller Bildschirmausrichtungen auf iPhone und iPad\n- Präzise und sorgfältig gestaltete Bildschirmsteuerung\n- Anpassbare Steuerelemente (Transparenz und Position) auf iPhone und iPad\n- 8- oder 4-Wege-Steuerkreuz auf iPhone und iPad\n- Schnellvorlauf (2×, 4× und Max)\n- Zeitlupe (0,5×)\n- Anpassung der Farbpalette für GB-Spiele\n- Funktion zum Gedrückthalten von Tasten\n- Unterstützung des Beschleunigungssensors\n- Gyroskop-Unterstützung auf iPhone und iPad sowie Verwendung der Digital Crown auf der Apple Watch\n- Rumble-Unterstützung auf dem iPhone\n- Unterstützung der Digital Crown auf der Apple Watch\n- Unterstützung von Gamecontrollern auf iPhone, iPad und Apple TV\n- Unterstützung von ZIP-Dateien\n- Automatisches Speichern\n- Teilen von Spielständen zwischen Geräten\n- iCloud-Unterstützung für ROMs und Spielstände\n- Teilen von ROMs über iCloud mithilfe von Freigabecodes\n- Unterstützung der Familienkonfiguration (eigenständige Apple Watch)\n\nKompatibilität\n- Apple Watch Series 3 oder neuer\n- Apple Watch SE oder neuer\n- Apple Watch Ultra oder neuer\n\nArcEmu enthält keine Spiele oder ROMs.\nGame-Boy-ROMs können direkt vom iPhone importiert und in iCloud gespeichert werden.\nDie Apple Watch lädt sie anschließend direkt aus iCloud herunter.\nAuf einer eigenständig eingerichteten Apple Watch mit Familienkonfiguration können ROMs mithilfe von Freigabecodes aus iCloud heruntergeladen werden.\n\nDie in den Screenshots gezeigten Spiele sind:\n- Acorn Grove: https://gibbongl.itch.io/acorn-grove\n- Anguna: https://gauauu.itch.io/anguna\n- Hauntsfield: https://alliemackie.itch.io/hauntsfield\n- µCity Advance: https://skylyrac.itch.io/ucity-advance\n\n* Erfordert einen Game-Center-Account\n** Cheats können zu unerwartetem Verhalten führen oder die Spielstabilität und Speicherdaten beeinträchtigen\n\nArcEmu steht in keiner Verbindung zu Nintendo. Der Name „Nintendo“ und alle zugehörigen Namen von Spielkonsolen sind eingetragene Marken von Nintendo Co., Ltd.",
-      "releaseNotes": "- Unterstützung für Apple TV hinzugefügt.\n- iCloud-Spielstände werden jetzt auch auf der Apple Watch unterstützt.\n- Zeitstempel für Speicherplätze hinzugefügt.\n- Neue Schnellvorlaufoption „Max“, die das Spiel so schnell ausführt, wie es das Gerät ermöglicht.\n- Die Schnellvorlaufoption 3× wurde durch 4× ersetzt.\n- Rumble-Unterstützung und zugehöriges Vibrationsfeedback verbessert.\n- Option zum Ausblenden der Schultertasten (L und R) auf der Apple Watch hinzugefügt.",
+      "releaseNotes": "- Unterstützung für Apple TV hinzugefügt.\n- Unterstützung für iCloud-Spielstände auf der Apple Watch hinzugefügt.\n- Zeitstempel zu den Speicherplätzen hinzugefügt.\n- Eine „Max“-Option für den Schnellvorlauf hinzugefügt, mit der Spiele so schnell laufen, wie es das Gerät zulässt.\n- Die 3×-Option für den Schnellvorlauf durch 4× ersetzt.\n- Rumble-Unterstützung und Vibrationsfeedback verbessert.\n- Eine Option zum Ausblenden der Schultertasten (L und R) auf der Apple Watch hinzugefügt.\n- Unterstützung für Controller ohne Analogsticks und ohne erweitertes Profil implementiert (z. B. 8BitDo FlipPad).\n- Die Tastenanordnung beim Ändern der App-Größe unter iPadOS verbessert.",
       "trackViewUrl": "https://apps.apple.com/de/app/arcemu/id6496282733?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Raffaele D'Amato",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/2f/b8/cd2fb800-a08f-4488-c91e-1ab4bc5453bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.91579,
-  "userRatingCount": 570,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/b7/97/9bb7975b-164e-6415-2aea-0b8d6045ac5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.91594,
+  "userRatingCount": 571,
   "price": 1.99,
-  "fileSizeBytes": "67161088",
+  "fileSizeBytes": "67177472",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.5",
-  "version": "1.10.5",
-  "currentVersionReleaseDate": "2026-08-19T09:33:55Z",
+  "version": "1.10.6",
+  "currentVersionReleaseDate": "2026-08-26T10:29:13Z",
   "releaseDate": "2024-06-20T07:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -410,8 +410,13 @@
       "version": "1.10.5",
       "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.",
       "seenAt": "2026-08-19T09:33:55Z"
+    },
+    {
+      "version": "1.10.6",
+      "releaseNotes": "- Added Apple TV support\n- Added iCloud save support on Apple Watch.\n- Added timestamps to save slots.\n- Added a “Max” fast-forward option, which runs games as fast as your device allows.\n- Replaced the 3× fast-forward option with 4×.\n- Improved rumble support and vibration feedback.\n- Added the option to hide the shoulder buttons (L and R) on Apple Watch.\n- Implemented support for stickless pads with no extended profile (like 8BitDo FlipPad)\n- Improved button layout when resizing the app on iPadOS",
+      "seenAt": "2026-08-26T10:29:13Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:22:47.453Z",
+  "updatedAt": "2026-08-27T17:57:25.964Z",
   "isOwnApp": false
 }
