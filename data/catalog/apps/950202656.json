@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Marble Watchness",
       "description": "*** This game runs only on the Apple Watch ***\n\nFirst arcade game on Apple Watch ever!\n\nWith 3D isometrics levels, stunning graphics and world ranking to challenge everyone, this tribute to Marble Madness will enjoy your Apple Watch!\n\nGoal of the game is to move in the maze to collect the coloured balls.\n\n*** This game runs only on the Apple Watch ***",
-      "releaseNotes": "Fix minor bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix minor bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/marble-watchness/id950202656?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Alexandre Minard",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Marble Watchness",
       "description": "*** This game runs only on the Apple Watch ***\n\nFirst arcade game on Apple Watch ever!\n\nWith 3D isometrics levels, stunning graphics and world ranking to challenge everyone, this tribute to Marble Madness will enjoy your Apple Watch!\n\nGoal of the game is to move in the maze to collect the coloured balls.\n\n*** This game runs only on the Apple Watch ***",
-      "releaseNotes": "Fix minor bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix minor bugs",
       "trackViewUrl": "https://apps.apple.com/jp/app/marble-watchness/id950202656?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Alexandre Minard",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Marble Watchness",
       "description": "*** This game runs only on the Apple Watch ***\n\nFirst arcade game on Apple Watch ever!\n\nWith 3D isometrics levels, stunning graphics and world ranking to challenge everyone, this tribute to Marble Madness will enjoy your Apple Watch!\n\nGoal of the game is to move in the maze to collect the coloured balls.\n\n*** This game runs only on the Apple Watch ***",
-      "releaseNotes": "Fix minor bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix minor bugs",
       "trackViewUrl": "https://apps.apple.com/de/app/marble-watchness/id950202656?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Alexandre Minard",
@@ -63,7 +63,7 @@
   "averageUserRating": 1,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "16506880",
+  "fileSizeBytes": "16531456",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
   "version": "1.1",
@@ -226,10 +226,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "Fix minor bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix minor bugs",
       "seenAt": "2025-08-11T20:05:11Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:13:45.155Z",
+  "updatedAt": "2026-08-28T19:11:25.985Z",
   "isOwnApp": false
 }

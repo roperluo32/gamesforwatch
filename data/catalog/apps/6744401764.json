@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Would You Rather? - Game",
       "description": "Would You Rather! - Game offers the following:\n- 6 different unique categories\n- 1,000+ different questions\n- Polished and optimized experience\n- Submit your own questions\n- Realtime statistics powered by our backend\n- watchOS companion app\n\nDownload now for a fun would you rather experience or on your wrist!",
-      "releaseNotes": "Would You Rather has minor app improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWould You Rather has minor app improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/would-you-rather-game/id6744401764?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nils Steffmann",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Would You Rather? - Game",
       "description": "Would You Rather! - Game offers the following:\n- 6 different unique categories\n- 1,000+ different questions\n- Polished and optimized experience\n- Submit your own questions\n- Realtime statistics powered by our backend\n- watchOS companion app\n\nDownload now for a fun would you rather experience or on your wrist!",
-      "releaseNotes": "Would You Rather has minor app improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWould You Rather has minor app improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/would-you-rather-game/id6744401764?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nils Steffmann",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Would You Rather? - Game",
       "description": "Would You Rather! - Game offers the following:\n- 6 different unique categories\n- 1,000+ different questions\n- Polished and optimized experience\n- Submit your own questions\n- Realtime statistics powered by our backend\n- watchOS companion app\n\nDownload now for a fun would you rather experience or on your wrist!",
-      "releaseNotes": "Would You Rather has minor app improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWould You Rather has minor app improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/would-you-rather-game/id6744401764?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nils Steffmann",
@@ -63,7 +63,7 @@
   "averageUserRating": 4,
   "userRatingCount": 4,
   "price": 0,
-  "fileSizeBytes": "1879040",
+  "fileSizeBytes": "1911808",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
   "version": "1.1.2",
@@ -259,10 +259,10 @@
     },
     {
       "version": "1.1.2",
-      "releaseNotes": "Would You Rather has minor app improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWould You Rather has minor app improvements.",
       "seenAt": "2025-06-21T06:21:11Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:07:55.346Z",
+  "updatedAt": "2026-08-28T19:04:19.801Z",
   "isOwnApp": false
 }

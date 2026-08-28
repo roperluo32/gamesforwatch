@@ -368,7 +368,7 @@
     },
     {
       "version": "2.4.3",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2026-03-27T19:31:11Z"
     },
     {
@@ -377,6 +377,6 @@
       "seenAt": "2026-04-13T18:04:59Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:45:40.321Z",
+  "updatedAt": "2026-08-28T18:39:58.709Z",
   "isOwnApp": false
 }

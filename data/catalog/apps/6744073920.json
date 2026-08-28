@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mini Golf on Watch",
       "description": "Bring the fun of minigolf to your wrist! Mini Golf on Watch lets you play endlessly unique courses with just a flick of your finger. Perfect for short breaks, commutes, or waiting in line — quick, casual fun is always within reach.\n\nMini Golf on Watch brings the classic game of minigolf to your Apple Watch in a fun, intuitive package designed for quick play sessions.\nChallenge yourself with an endless variety of procedurally generated courses, each featuring unique obstacles like walls and water hazards. Every course is different, ensuring a fresh experience every time you play!\nFeatures:\n\nProcedurally generated courses for unlimited gameplay\nIntuitive drag-and-release controls designed specifically for Apple Watch\nWater hazards, walls, and other obstacles to test your skill\nQuick games perfect for short breaks\nTrack your strokes and try to beat each course under par\nClean, vibrant visuals optimized for the Apple Watch display\n\nPerfect for a quick gaming session during your commute, while waiting in line, or whenever you have a free moment.\nNo need for complicated setups or lengthy tutorials - just launch the app and start playing! Can you master each new course in three strokes or less?\nDownload Mini Golf on Watch today and carry a pocket-sized golf course everywhere you go!",
-      "releaseNotes": "New contries and localisations",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew contries and localisations",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-golf-on-watch/id6744073920?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Bo Kalvslund",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "ウォッチでミニゴルフ",
       "description": "手首でミニゴルフを楽しもう！「Mini Golf on Watch」は指のフリックで無限にユニークなコースをプレイできるアプリです。短い休憩、通勤、待ち時間にもぴったり — 手軽でカジュアルな楽しさがいつでも腕元に。\nApple Watch に最適化された直感的なミニゴルフ体験をお届け。\nプロシージャル生成される多彩なコースには、壁やウォーターハザードなどのギミックが満載。毎回新鮮な体験を！\n特徴：\n• 制限なしのプロシージャルコース\n• Apple Watch 専用のドラッグ＆リリース操作\n• 水たまりや壁など、技術を試す障害物\n• 短時間プレイに最適\n• ストロークを記録し、規定打数以内のクリアを目指そう\n• Watch 表示に合わせた鮮やかなグラフィック\n通勤中や行列の待ち時間、休憩中など、ちょっとした時間にぴったり。複雑な設定もチュートリアルも不要 — アプリを起動したらすぐプレイ可能！3打以内でマスターできるかな？\n今すぐ「Mini Golf on Watch」をダウンロードして、ポケットサイズのゴルフ場を腕に携えよう！",
-      "releaseNotes": "新しい国と言語対応",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n新しい国と言語対応",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%81%A7%E3%83%9F%E3%83%8B%E3%82%B4%E3%83%AB%E3%83%95/id6744073920?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Bo Kalvslund",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Minigolf für Watch",
       "description": "Minigolf für Watch bringt das klassische Minigolf-Spiel auf deine Apple Watch in einem unterhaltsamen, intuitiven Paket, das für schnelle Spielsitzungen entwickelt wurde.  \nFordere dich selbst mit einer endlosen Vielfalt an prozedural generierten Bahnen heraus, jede mit einzigartigen Hindernissen wie Mauern und Seen. Jede Bahn ist anders und sorgt für ein frisches Erlebnis bei jedem Spiel!  \n\nFunktionen:  \n- Prozedural generierte Bahnen für unbegrenztes Gameplay  \n- Intuitive Zieh-und-Lass-Steuerung, speziell für die Apple Watch entwickelt  \n- Seen, Mauern und andere Hindernisse, um deine Fähigkeiten zu testen  \n- Schnelle Spiele, perfekt für kurze Pausen  \n- Behalte deine Schläge im Blick und versuche, jede Bahn unter Par zu schaffen  \n- Klare, lebendige Grafik, optimiert für den Apple Watch-Bildschirm  \n\nPerfekt für eine schnelle Spielsitzung während der Pendelzeit, beim Warten in der Schlange oder wenn du einen freien Moment hast.  \nKeine komplizierten Einrichtungen oder langen Tutorials nötig – starte einfach die App und beginne zu spielen! Kannst du jede neue Bahn in drei Schlägen oder weniger meistern?  \nLade Minigolf für Watch noch heute herunter und trage eine Minigolfbahn in Taschengröße überall bei dir!",
-      "releaseNotes": "Neue Länder und Lokalisierungen",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nNeue Länder und Lokalisierungen",
       "trackViewUrl": "https://apps.apple.com/de/app/minigolf-f%C3%BCr-watch/id6744073920?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Bo Kalvslund",
@@ -63,7 +63,7 @@
   "averageUserRating": 1,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "979968",
+  "fileSizeBytes": "992256",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.4",
@@ -240,10 +240,10 @@
     },
     {
       "version": "1.4",
-      "releaseNotes": "New contries and localisations\n",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew contries and localisations\n",
       "seenAt": "2025-06-18T09:26:30Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:13:04.768Z",
+  "updatedAt": "2026-08-28T19:10:43.150Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Brick Sand",
       "description": "Help the turtle at the beach by clearing the sand and make way to the sea. Simple to start playing but it takes years to master...\nSolve this puzzle game while chilling with no pressure.\n\nGet the game and have fun.",
-      "releaseNotes": "Add haptic feedback.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd haptic feedback.",
       "trackViewUrl": "https://apps.apple.com/us/app/brick-sand/id6749035249?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Brick Sand",
       "description": "Help the turtle at the beach by clearing the sand and make way to the sea. Simple to start playing but it takes years to master...\nSolve this puzzle game while chilling with no pressure.\n\nGet the game and have fun.",
-      "releaseNotes": "Add haptic feedback.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd haptic feedback.",
       "trackViewUrl": "https://apps.apple.com/cn/app/brick-sand/id6749035249?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Brick Sand",
       "description": "Help the turtle at the beach by clearing the sand and make way to the sea. Simple to start playing but it takes years to master...\nSolve this puzzle game while chilling with no pressure.\n\nGet the game and have fun.",
-      "releaseNotes": "Add haptic feedback.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd haptic feedback.",
       "trackViewUrl": "https://apps.apple.com/jp/app/brick-sand/id6749035249?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Brick Sand",
       "description": "Help the turtle at the beach by clearing the sand and make way to the sea. Simple to start playing but it takes years to master...\nSolve this puzzle game while chilling with no pressure.\n\nGet the game and have fun.",
-      "releaseNotes": "Add haptic feedback.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd haptic feedback.",
       "trackViewUrl": "https://apps.apple.com/de/app/brick-sand/id6749035249?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "52188160",
+  "fileSizeBytes": "52253696",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.04",
@@ -260,10 +260,10 @@
     },
     {
       "version": "1.04",
-      "releaseNotes": "Add haptic feedback.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd haptic feedback.",
       "seenAt": "2025-08-11T17:26:51Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:05:55.437Z",
+  "updatedAt": "2026-08-28T19:09:47.895Z",
   "isOwnApp": false
 }

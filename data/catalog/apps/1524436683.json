@@ -7,7 +7,7 @@
     "en": {
       "trackName": "ShuffledTilesSmiley",
       "description": "This game makes tiles smiley.",
-      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
       "trackViewUrl": "https://apps.apple.com/us/app/shuffledtilessmiley/id1524436683?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Tomoharu Yoshida",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "ごちゃスマ",
       "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
-      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nより快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Tomoharu Yoshida",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "ごちゃスマ",
       "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
-      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nより快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Tomoharu Yoshida",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "ごちゃスマ",
       "description": "１枚のタイルに描かれた笑顔\n\n分割されて\nごちゃ混ぜになってしまった\n\nもう一度並べかえて、笑顔を取り戻そう！",
-      "releaseNotes": "より快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nより快適にご利用できるよう調整を行いました。\n================================\n・絵合わせパズルが追加されました！\n無料でお楽しみいただけます。",
       "trackViewUrl": "https://apps.apple.com/de/app/%E3%81%94%E3%81%A1%E3%82%83%E3%82%B9%E3%83%9E/id1524436683?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Tomoharu Yoshida",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27522048",
+  "fileSizeBytes": "27575296",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
   "version": "2.9",
@@ -385,10 +385,10 @@
     },
     {
       "version": "2.9",
-      "releaseNotes": "18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n18 puzzles of flower in photo type are added ! \nNEW game 'paired-images-game' added!",
       "seenAt": "2025-04-19T15:43:51Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:23:38.575Z",
+  "updatedAt": "2026-08-28T19:19:07.998Z",
   "isOwnApp": false
 }

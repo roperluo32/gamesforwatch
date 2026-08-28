@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Hops - Journey of Tree Spirit",
       "description": "Hops is a gamified activity tracker. It motivates you to be more active every day.\n\nThe spirits of trees called Hops live in the forest. And your everyday activities in the real world help them grow!\n\nYour activities, such as walking, running, exercising or climbing stairs, will be used as energy for exploring new areas and crafting materials for items. And you can collect Hops Friends by achieving missions!\n\nBe more active every day with Hops!\n\n\n------------------------------\n◎ FEATURES\n\n- Explore the beautiful forests with cute Hops\n- Get traveling energy by achieving daily goals\n- Get crafting materials from your steps\n- Change outfits and get cool effects\n- Collect Friends by completing missions\n- Glanceable recent activities and stats\n- Measure Walking workouts\n\n\n------------------------------\n◎ APPLE WATCH APP FEATURES\n(Requires watchOS 6 or later)\n\n- Stats for Today and Yesterday\nYou can see your stats for Activity, Steps, Floors (Flights Climbed), Distance, Workouts(minutes) instantly.\n\n- Measure Walking Workouts\nWhile measuring walking, Steps and Floors (Flights Climbed) will also be displayed in real time.\n\n------------------------------\n◎ DAILY GOALS\n\nYou will earn Energy by achieving the Daily Goals. And if you accomplish every daily goal, you'll get an extra bonus Energy!\n\nYou can choose 3 activities from the following:\n\n- Activity Rings (Apple Watch required)\n- Steps\n- Floors (Flights Climbed)\n- Workouts (minutes)\n- Distance\n- Stand (based on Steps)\n\n------------------------------\n◎ 500 STEPS = 1 MATERIAL\n\nOne crafting material appears every 500 steps. The app will display a maximum of 20 materials simultaneously.\n\nLet's walk a lot and get more materials!\n\n\n------------------------------\n◎ MISSIONS\n\nMissions are the challenging activity goals with a limited time period from 1 hour to 24 hours. By succeeding it, you will get Hops Friends!\n\n\n------------------------------\n◎ ABOUT ACTIVITY DATA\n\nThis app integrates with Apple's Health app and reads/writes activity data from it.\nOn iPhone, the Walking workout is measured using Core Motion, and Hops app writes the result in the Health app.\n\nThe Health data is saved only in your devices. It will never be sent to anywhere by the app without your permission.",
-      "releaseNotes": "Minor bug fixes and improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bug fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/hops-journey-of-tree-spirit/id1433717138?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Flask LLP",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Hops - 木霊の旅",
       "description": "Hopsは、ゲーム要素満載のアクティビティトラッカー。\n美しい森を旅しながら、小さな木霊（こだま）、Hopsを自分好みに育てよう！\n\n歩数だけではなく、階段を上ったり、エクササイズしたりというあなたの毎日の動きが、 Hopsの世界では、旅のエナジーや、クラフトの材料になります。\n\n着せ替えで能力アップしたり、旅の途中でフレンドHopsをゲットしたり、楽しみがいっぱい。\n\nHopsと一緒に、毎日をもっとアクティブに！\n\n\n------------------------------\n◎ 特徴\n------------------------------\n\n・デイリーゴールを達成でエナジーを手に入れ、美しい森を探検しよう！\n・あなたが現実世界での500歩が、クラフト材料に！\n・クラフトしたアイテムで着せ替え！ ホップ・スピード・エモートの効果あり\n・ミッションにチャレンジして、Hopsフレンドを集めよう\n・最近のアクティビティをわかりやすく表示\n・ウォーキングの計測\n\n\n------------------------------\n◎ Apple Watch App （watchOS 6以上）\n------------------------------\n\n・今日と昨日のスタッツ表示\nアクティビティリング、歩数、上った階数、距離、ワークアウト（分数）をすぐに確認できます。\n\n・ウォーキングの計測\nウォーキング中、気になる歩数や、上った階数も表示されます。\n\n------------------------------\n◎ デイリーゴール\n------------------------------\n\nデイリーゴールを達成すると、旅に必要なエナジーがもらえます。\nすべて達成した日は、パーフェクトボーナスも！\n\n以下の種類のアクティビティから、3つ選択できます。\n\n・アクティビティリング（Apple Watchご利用の方のみ）\n・歩数\n・上った階数\n・ワークアウト（分数）\n・距離\n・スタンド（歩数ベース）\n\n------------------------------\n◎ 500 歩 = 1 クラフト材料\n------------------------------\n\nあなたが現実世界で500歩あるくごとに、Hopsではひとつのクラフト材料が現れます。\n（同時に出現するのは20個まで）\n\nクラフト材料を使って、着せ替えアイテムを作ることができます。\n\n\n------------------------------\n◎ ミッション\n------------------------------\n\nミッションは1時間から24時間までの、短めのタイムリミットのあるチャレンジ！\nミッションを成功させて、Hopsフレンドを手に入れよう。\n\n\n------------------------------\n◎ データの読み込み・書き込みについて\n------------------------------\n\nHopsは、Appleのヘルスケアと連携し、各アクティビティデータを読み込んで利用します。\nワークアウトはコアモーションを使って計測し、結果はヘルスケアに書き込まれます。\n\n取得したデータは端末内のみに保存されます。勝手に弊社サーバ等へ送信されることはありません。",
-      "releaseNotes": "細かな修正や改善を行いました。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n細かな修正や改善を行いました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/hops-%E6%9C%A8%E9%9C%8A%E3%81%AE%E6%97%85/id1433717138?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Flask LLP",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Hops - Journey of Tree Spirit",
       "description": "Hops is a gamified activity tracker. It motivates you to be more active every day.\n\nThe spirits of trees called Hops live in the forest. And your everyday activities in the real world help them grow!\n\nYour activities, such as walking, running, exercising or climbing stairs, will be used as energy for exploring new areas and crafting materials for items. And you can collect Hops Friends by achieving missions!\n\nBe more active every day with Hops!\n\n\n------------------------------\n◎ FEATURES\n\n- Explore the beautiful forests with cute Hops\n- Get traveling energy by achieving daily goals\n- Get crafting materials from your steps\n- Change outfits and get cool effects\n- Collect Friends by completing missions\n- Glanceable recent activities and stats\n- Measure Walking workouts\n\n\n------------------------------\n◎ APPLE WATCH APP FEATURES\n(Requires watchOS 6 or later)\n\n- Stats for Today and Yesterday\nYou can see your stats for Activity, Steps, Floors (Flights Climbed), Distance, Workouts(minutes) instantly.\n\n- Measure Walking Workouts\nWhile measuring walking, Steps and Floors (Flights Climbed) will also be displayed in real time.\n\n------------------------------\n◎ DAILY GOALS\n\nYou will earn Energy by achieving the Daily Goals. And if you accomplish every daily goal, you'll get an extra bonus Energy!\n\nYou can choose 3 activities from the following:\n\n- Activity Rings (Apple Watch required)\n- Steps\n- Floors (Flights Climbed)\n- Workouts (minutes)\n- Distance\n- Stand (based on Steps)\n\n------------------------------\n◎ 500 STEPS = 1 MATERIAL\n\nOne crafting material appears every 500 steps. The app will display a maximum of 20 materials simultaneously.\n\nLet's walk a lot and get more materials!\n\n\n------------------------------\n◎ MISSIONS\n\nMissions are the challenging activity goals with a limited time period from 1 hour to 24 hours. By succeeding it, you will get Hops Friends!\n\n\n------------------------------\n◎ ABOUT ACTIVITY DATA\n\nThis app integrates with Apple's Health app and reads/writes activity data from it.\nOn iPhone, the Walking workout is measured using Core Motion, and Hops app writes the result in the Health app.\n\nThe Health data is saved only in your devices. It will never be sent to anywhere by the app without your permission.",
-      "releaseNotes": "Minor bug fixes and improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bug fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/hops-journey-of-tree-spirit/id1433717138?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Flask LLP",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.2,
   "userRatingCount": 15,
   "price": 0,
-  "fileSizeBytes": "106303488",
+  "fileSizeBytes": "106405888",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
   "version": "3.1.2",
@@ -256,10 +256,10 @@
     },
     {
       "version": "3.1.2",
-      "releaseNotes": "Minor bug fixes and improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bug fixes and improvements.",
       "seenAt": "2025-09-17T05:38:44Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:03:32.038Z",
+  "updatedAt": "2026-08-28T18:59:00.569Z",
   "isOwnApp": false
 }

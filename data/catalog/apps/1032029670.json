@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Doctor Surgery Simulator",
       "description": "The role of doctor is society is never being declined. They help us in recovery in any case of injury.  We often sufferer from many diseases and face many small accidents in our daily life. Then the only person who helps us is doctor. This game also provokes the profession of doctor among kids.\n\nWhat happened if you fell down and get injured your wrist. Don’t worry! Our perfect wrist doctor is here to help you. In this game, wrist doctor you can select a character of your choice and give him a proper treatment. So that, the patient gets cured and feels good. A large number of medical sterilized equipment’s are given for wrist surgery. It’s time to select the medical equipment’s which you required for treatment. This game provides you the opportunity to get familiar with different medical tools and makes you able to provide first aid in real world scenarios. The patient now in your hospital first removes the dirt so that germs couldn’t enter into the body. There is an awesome feature of bone x-ray. From this you can get the exact location from where the bone is fractured. Apply ornament, stitched the wound and put plaster on it. From this treatment the patient will recover soon and again able to live a healthy life.\n\nFeatures:\n=> 2 injured patients\n=> Several sterilized medical equipment’s\n=> X-ray features",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-doctor-surgery-simulator/id1032029670?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Abdul Mateen",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Wrist Doctor Surgery Simulator",
       "description": "The role of doctor is society is never being declined. They help us in recovery in any case of injury.  We often sufferer from many diseases and face many small accidents in our daily life. Then the only person who helps us is doctor. This game also provokes the profession of doctor among kids.\n\nWhat happened if you fell down and get injured your wrist. Don’t worry! Our perfect wrist doctor is here to help you. In this game, wrist doctor you can select a character of your choice and give him a proper treatment. So that, the patient gets cured and feels good. A large number of medical sterilized equipment’s are given for wrist surgery. It’s time to select the medical equipment’s which you required for treatment. This game provides you the opportunity to get familiar with different medical tools and makes you able to provide first aid in real world scenarios. The patient now in your hospital first removes the dirt so that germs couldn’t enter into the body. There is an awesome feature of bone x-ray. From this you can get the exact location from where the bone is fractured. Apply ornament, stitched the wound and put plaster on it. From this treatment the patient will recover soon and again able to live a healthy life.\n\nFeatures:\n=> 2 injured patients\n=> Several sterilized medical equipment’s\n=> X-ray features",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/wrist-doctor-surgery-simulator/id1032029670?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Abdul Mateen",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Wrist Doctor Surgery Simulator",
       "description": "医師の役割は、社会が低下していないされているんです。彼らは、損傷のいずれの場合にも回復に私たちを助けます。私たちはしばしば、多くの病気から患者と私たちの日常生活の中で多くの小さな事故に直面しています。そして、私たちを助け唯一の人は医者です。このゲームはまた、子供たちの間で医師の職業を引き起こします。\n\nあなたが倒れて手首を怪我場合何が起こりました。心配しないでください！私たちの完璧な手首の医者はあなたを助けるためにここにあります。このゲームでは、手首の医者、あなたの好みのキャラクターを選択し、彼に適切な治療を与えることができます。ようにするために、患者が硬化し、良い感じます。滅菌医療機器の多数の手首の手術のために与えられています。それはあなたが治療に必要な医療機器の選択をする時間です。このゲームはあなたに別の医療器具に慣れる機会を提供し、現実の世界のシナリオで応急処置を提供するあなたができるようになります。病原菌が体内に入ることができなかったように、今、あなたの病院で患者が最初の汚れを取り除きます。骨X線の素晴らしい機能があります。このことから、あなたは骨が骨折している場所から正確な位置を得ることができます。飾りを適用し、傷口を縫い付け、その上に石膏を置きます。この治療から患者をすぐにし、再び健康的な生活を送ることができる回復します。\n\n特徴：\n=> 2負傷した患者\n=>いくつかの滅菌医療機器の\n=> X線の特徴",
-      "releaseNotes": "Apple のアップデートにより、この App の機能が向上します。 新しく追加される機能はありません。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/wrist-doctor-surgery-simulator/id1032029670?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Abdul Mateen",
@@ -286,10 +286,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2015-10-11T11:56:06Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:52:28.337Z",
+  "updatedAt": "2026-08-28T18:46:22.769Z",
   "isOwnApp": false
 }

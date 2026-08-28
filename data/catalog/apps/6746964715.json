@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tiny Emoji Tap",
       "description": "Find and Tap the Emoji!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/tiny-emoji-tap/id6746964715?uo=4",
       "formattedPrice": "Free",
       "sellerName": "masataka aoki",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Tiny Emoji Tap",
       "description": "Find and Tap the Emoji!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/tiny-emoji-tap/id6746964715?uo=4",
       "formattedPrice": "免费",
       "sellerName": "masataka aoki",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "絵文字さがし",
       "description": "スクロールして絵文字を探すゲームです。",
-      "releaseNotes": "",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%B5%B5%E6%96%87%E5%AD%97%E3%81%95%E3%81%8C%E3%81%97/id6746964715?uo=4",
       "formattedPrice": "無料",
       "sellerName": "masataka aoki",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Tiny Emoji Tap",
       "description": "Find and Tap the Emoji!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/tiny-emoji-tap/id6746964715?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "masataka aoki",
@@ -77,7 +77,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "443392",
+  "fileSizeBytes": "455680",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -227,10 +227,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-12T07:41:25Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:59:55.702Z",
+  "updatedAt": "2026-08-28T18:54:31.092Z",
   "isOwnApp": false
 }

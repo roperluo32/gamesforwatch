@@ -262,7 +262,7 @@
     },
     {
       "version": "1.0.5",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- UNLOCK GUNS will also REMOVE ADS.\n- Minor bug fixed.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- UNLOCK GUNS will also REMOVE ADS.\n- Minor bug fixed.",
       "seenAt": "2018-09-06T00:19:45Z"
     },
     {
@@ -271,6 +271,6 @@
       "seenAt": "2021-07-09T21:25:44Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:04:16.827Z",
+  "updatedAt": "2026-08-28T19:08:18.543Z",
   "isOwnApp": false
 }

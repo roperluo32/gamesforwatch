@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Shaky Shapes",
       "description": "Combine shapes and reach the highest score in this physics based puzzle game! Works perfectly for both the iPhone and the Apple Watch!",
-      "releaseNotes": "Update to work with iOS 18 and watchOS 11.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate to work with iOS 18 and watchOS 11.",
       "trackViewUrl": "https://apps.apple.com/us/app/shaky-shapes/id1528137086?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Hesselbom Tech AB",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Shaky Shapes",
       "description": "Combine shapes and reach the highest score in this physics based puzzle game! Works perfectly for both the iPhone and the Apple Watch!",
-      "releaseNotes": "Update to work with iOS 18 and watchOS 11.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate to work with iOS 18 and watchOS 11.",
       "trackViewUrl": "https://apps.apple.com/jp/app/shaky-shapes/id1528137086?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Hesselbom Tech AB",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Shaky Shapes",
       "description": "Combine shapes and reach the highest score in this physics based puzzle game! Works perfectly for both the iPhone and the Apple Watch!",
-      "releaseNotes": "Update to work with iOS 18 and watchOS 11.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate to work with iOS 18 and watchOS 11.",
       "trackViewUrl": "https://apps.apple.com/de/app/shaky-shapes/id1528137086?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Hesselbom Tech AB",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "10644480",
+  "fileSizeBytes": "10677248",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.6",
   "version": "1.0.2",
@@ -231,10 +231,10 @@
     },
     {
       "version": "1.0.2",
-      "releaseNotes": "Update to work with iOS 18 and watchOS 11.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate to work with iOS 18 and watchOS 11.",
       "seenAt": "2025-01-28T15:43:20Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:23:56.773Z",
+  "updatedAt": "2026-08-28T19:19:26.193Z",
   "isOwnApp": false
 }

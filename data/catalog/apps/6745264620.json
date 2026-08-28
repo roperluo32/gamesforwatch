@@ -7,7 +7,7 @@
     "en": {
       "trackName": "BlockBlast Game For Watch",
       "description": "Block Blast for Watch — Your New Wrist-Worn Block Puzzle Adventure!\nKey Features\nIntuitive Touch Controls\nOptimized for your Apple Watch: simply tap and drag shapes right on the watch face—no phone needed.\nPlay Anywhere, Anytime\nFully offline—jump into a quick round on the subway, in line, or during a coffee break.\nRhythmic Sound & Feedback\nCrisp effects and pulsing beats make every line clear feel satisfyingly rhythmic.\nStress-Relieving Fun\nPerfect for a moment of calm: clear blocks to unwind, boost your mood, and banish boredom.\nHow to Play\n\nSelect & Place\nChoose from the upcoming block shapes in the bottom panel and drag them onto the 10×10 grid.\nClear Lines\nFill any row or column completely to explode blocks, earn points, and free up space.\nNew Shapes Incoming\nAfter each clear, a fresh set of blocks appears—plan ahead to keep your board tidy!\nStrategize for High Scores\nThink several moves ahead, anticipate shape patterns, and maximize clears for the ultimate challenge.\nDownload Block Blast on your Apple Watch today—wearable puzzle fun that fits right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/blockblast-game-for-watch/id6745264620?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "楠 唐",
@@ -22,7 +22,7 @@
     "ja": {
       "trackName": "BlockBlast Game For Watch",
       "description": "Block Blast for Watch — Your New Wrist-Worn Block Puzzle Adventure!\nKey Features\nIntuitive Touch Controls\nOptimized for your Apple Watch: simply tap and drag shapes right on the watch face—no phone needed.\nPlay Anywhere, Anytime\nFully offline—jump into a quick round on the subway, in line, or during a coffee break.\nRhythmic Sound & Feedback\nCrisp effects and pulsing beats make every line clear feel satisfyingly rhythmic.\nStress-Relieving Fun\nPerfect for a moment of calm: clear blocks to unwind, boost your mood, and banish boredom.\nHow to Play\n\nSelect & Place\nChoose from the upcoming block shapes in the bottom panel and drag them onto the 10×10 grid.\nClear Lines\nFill any row or column completely to explode blocks, earn points, and free up space.\nNew Shapes Incoming\nAfter each clear, a fresh set of blocks appears—plan ahead to keep your board tidy!\nStrategize for High Scores\nThink several moves ahead, anticipate shape patterns, and maximize clears for the ultimate challenge.\nDownload Block Blast on your Apple Watch today—wearable puzzle fun that fits right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/blockblast-game-for-watch/id6745264620?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "楠 唐",
@@ -37,7 +37,7 @@
     "de": {
       "trackName": "BlockBlast Game For Watch",
       "description": "Block Blast for Watch — Your New Wrist-Worn Block Puzzle Adventure!\nKey Features\nIntuitive Touch Controls\nOptimized for your Apple Watch: simply tap and drag shapes right on the watch face—no phone needed.\nPlay Anywhere, Anytime\nFully offline—jump into a quick round on the subway, in line, or during a coffee break.\nRhythmic Sound & Feedback\nCrisp effects and pulsing beats make every line clear feel satisfyingly rhythmic.\nStress-Relieving Fun\nPerfect for a moment of calm: clear blocks to unwind, boost your mood, and banish boredom.\nHow to Play\n\nSelect & Place\nChoose from the upcoming block shapes in the bottom panel and drag them onto the 10×10 grid.\nClear Lines\nFill any row or column completely to explode blocks, earn points, and free up space.\nNew Shapes Incoming\nAfter each clear, a fresh set of blocks appears—plan ahead to keep your board tidy!\nStrategize for High Scores\nThink several moves ahead, anticipate shape patterns, and maximize clears for the ultimate challenge.\nDownload Block Blast on your Apple Watch today—wearable puzzle fun that fits right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/blockblast-game-for-watch/id6745264620?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "楠 唐",
@@ -54,7 +54,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "4323328",
+  "fileSizeBytes": "4352000",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -207,10 +207,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-01T08:54:38Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:10:31.637Z",
+  "updatedAt": "2026-08-28T19:06:45.379Z",
   "isOwnApp": false
 }

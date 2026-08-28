@@ -26,7 +26,7 @@
     "zh": {
       "trackName": "电子投篮 - 空气投篮运动 手表网球 扔飞镖运动等",
       "description": "这是一款集篮球投篮、网球击球和飞镖投掷等运动于一体的虚拟体育应用。无论你身处何地，只需一部设备和手表，即可享受运动的乐趣，提升你的运动技巧。无论你是篮球的忠实粉丝，网球的狂热爱好者，还是飞镖的精准投手，这里都有属于你的一片天地。\n\n动作识别技术： 利用先进的传感器和算法，精确捕捉你的每一个动作，无论是投篮、击球还是投掷，都能得到真实反馈。\n沉浸式音频效果： 根据你的每一次动作，提供相应的音效反馈，让你感受到每一次得分的激动和满足。\n无障碍设计： 考虑到不同用户的需求，提供无障碍功能，确保每个人都能享受运动的乐趣。\n\n立即下载带你进入随时都可以运动的体育世界，让你的每一次挥动都充满激情。",
-      "releaseNotes": "修复了响应不够灵敏的问题。",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n修复了响应不够灵敏的问题。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E6%8A%95%E7%AF%AE-%E7%A9%BA%E6%B0%94%E6%8A%95%E7%AF%AE%E8%BF%90%E5%8A%A8-%E6%89%8B%E8%A1%A8%E7%BD%91%E7%90%83-%E6%89%94%E9%A3%9E%E9%95%96%E8%BF%90%E5%8A%A8%E7%AD%89/id6503431161?uo=4",
       "formattedPrice": "免费",
       "sellerName": "嘉良 雍",
@@ -45,7 +45,7 @@
     "ja": {
       "trackName": "エンターテインメント - AirFun フィンガーピストル",
       "description": "バスケットボールのシュート、テニスのバッティング、ダーツ投げなどのスポーツを一体化したバーチャルスポーツアプリケーションです。どこにいても、設備と腕時計だけで、運動を楽しむことができ、運動テクニックを高めることができます。バスケットボールの忠実なファンであれ、テニスのマニアであれ、ダーツの正確な投手であれ、ここにはあなたの天地があります。\n\n動作識別技術：先進的なセンサーとアルゴリズムを利用して、あなたのすべての動作を正確に捕捉して、シュート、打撃、投擲にかかわらず、真実のフィードバックを得ることができます。\n没入型オーディオ効果：あなたの動作に応じて、相応のサウンドフィードバックを提供して、あなたに毎回の得点の興奮と満足を感じさせます。\nバリアフリー設計：異なるユーザーのニーズを考慮して、バリアフリー機能を提供し、誰もがスポーツを楽しむことができるようにします。\n\nすぐにダウンロードして、いつでも運動できるスポーツの世界に連れて行って、あなたの振るたびに情熱に満ちています。",
-      "releaseNotes": "応答が不十分な問題を修正しました。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n応答が不十分な問題を修正しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88-airfun-%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%94%E3%82%B9%E3%83%88%E3%83%AB/id6503431161?uo=4",
       "formattedPrice": "無料",
       "sellerName": "嘉良 雍",
@@ -64,7 +64,7 @@
     "de": {
       "trackName": "Watch Games - Basketball Boxen",
       "description": "This is a virtual sports app that combines basketball shooting, tennis hitting and dart throwing. No matter where you are, you only need one device and watch to enjoy the fun of sports and improve your sports skills. Whether you are a loyal fan of basketball, a fanatic of tennis, or a precise dart thrower, there is a place for you here.\n\nMotion recognition technology: Using advanced sensors and algorithms, accurately capture every action of yours, whether it is shooting, hitting or throwing, you can get real feedback.\nImmersive audio effect: According to your every action, provide corresponding sound effect feedback, so that you can feel the excitement and satisfaction of every score.\nAccessible design: Considering the needs of different users, provide barrier-free functions to ensure that everyone can enjoy the fun of sports.\n\nDownload now to take you into the sports world where you can exercise at any time, so that every swing of yours is full of passion.",
-      "releaseNotes": "Das Problem der unzureichenden Reaktion wurde behoben.",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nDas Problem der unzureichenden Reaktion wurde behoben.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games-basketball-boxen/id6503431161?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "嘉良 雍",
@@ -85,7 +85,7 @@
   "averageUserRating": 2.57143,
   "userRatingCount": 7,
   "price": 0,
-  "fileSizeBytes": "170424320",
+  "fileSizeBytes": "171386880",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "12.0",
   "version": "2.0.9",
@@ -335,10 +335,10 @@
     },
     {
       "version": "2.0.9",
-      "releaseNotes": "Fixed the issue of insufficient response.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed the issue of insufficient response.",
       "seenAt": "2025-08-22T15:28:04Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:48:48.892Z",
+  "updatedAt": "2026-08-28T18:42:49.387Z",
   "isOwnApp": false
 }

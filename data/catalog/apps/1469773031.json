@@ -272,7 +272,7 @@
     },
     {
       "version": "2021.1",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n- Updated for iOS 15 and watchOS 8!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated for iOS 15 and watchOS 8!",
       "seenAt": "2021-09-22T13:01:26Z"
     },
     {
@@ -291,6 +291,6 @@
       "seenAt": "2025-03-30T13:02:41Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:01:10.771Z",
+  "updatedAt": "2026-08-28T18:55:46.333Z",
   "isOwnApp": false
 }

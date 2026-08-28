@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "We built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
+      "releaseNotes": "We made Arctic Mission free.",
       "trackViewUrl": "https://apps.apple.com/us/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Talking Chicken Friend OU",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "We built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
+      "releaseNotes": "We made Arctic Mission free.",
       "trackViewUrl": "https://apps.apple.com/jp/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Talking Chicken Friend OU",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "We built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
+      "releaseNotes": "We made Arctic Mission free.",
       "trackViewUrl": "https://apps.apple.com/de/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Talking Chicken Friend OU",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/b7/f1/5bb7f1db-e43f-ef28-7d70-976d8ce1fe98/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/3e/1b/ef3e1bae-5d73-7188-90a3-d2d54bda8681/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.66667,
   "userRatingCount": 6,
   "price": 0,
-  "fileSizeBytes": "8232960",
+  "fileSizeBytes": "29515776",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "2.1.0",
-  "currentVersionReleaseDate": "2024-11-12T09:49:41Z",
+  "version": "2.2.0",
+  "currentVersionReleaseDate": "2026-08-27T19:09:10Z",
   "releaseDate": "2021-03-28T07:00:00Z",
   "artistId": 1500965951,
   "artistName": "Talking Chicken Friend",
@@ -256,8 +256,13 @@
       "version": "2.1.0",
       "releaseNotes": "We built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
       "seenAt": "2024-11-12T09:49:41Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "We made Arctic Mission free.",
+      "seenAt": "2026-08-27T19:09:10Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:59:17.448Z",
+  "updatedAt": "2026-08-28T18:53:52.087Z",
   "isOwnApp": false
 }

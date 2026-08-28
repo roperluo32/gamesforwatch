@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/01/79/9b01793b-fad1-f877-470c-f09a77ef80f1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/76/75/5e7675f3-26b8-f396-bfac-10affa7733fc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.18519,
   "userRatingCount": 54,
   "price": 0,
-  "fileSizeBytes": "217668608",
+  "fileSizeBytes": "218095616",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "14.0",
-  "version": "6.27.1",
-  "currentVersionReleaseDate": "2026-06-03T15:31:26Z",
+  "minimumOsVersion": "15.0",
+  "version": "6.28.1",
+  "currentVersionReleaseDate": "2026-08-27T18:41:25Z",
   "releaseDate": "2011-03-17T03:00:42Z",
   "artistId": 425135293,
   "artistName": "x2line.com LLC",
@@ -407,8 +407,13 @@
       "version": "6.27.1",
       "releaseNotes": "Welcome to the latest update of Baby Adopter! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
       "seenAt": "2026-06-03T15:31:26Z"
+    },
+    {
+      "version": "6.28.1",
+      "releaseNotes": "Welcome to the latest update of Baby Adopter! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
+      "seenAt": "2026-08-27T18:41:25Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:01:42.073Z",
+  "updatedAt": "2026-08-28T18:58:16.010Z",
   "isOwnApp": false
 }

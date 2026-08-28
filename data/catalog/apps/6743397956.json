@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Crack the Code 4 Watch",
       "description": "Crack the Code 4 Watch\n\nCan you crack the code? Test your logic and deduction skills with Crack the Code 4 Watch, a classic code-breaking game designed for Apple Watch. Enjoy two timeless puzzle games: Mastermind and Bulls and Cows, perfect for quick brain challenges on the go\n\nTwo Games, One Challenge\n\t• Mastermind: Guess the secret code using color feedback. Every attempt brings you closer to the solution.\n\t• Bulls and Cows: A number-based deduction game where bulls mean correct digits in the right place and cows mean correct digits in the wrong place. Solve it in as few moves as possible.\n\nDesigned for Apple Watch\n\t• Quick, fun, and challenging logic puzzles\n\t• Play anytime, anywhere—right from your wrist\n\t• Minimalist interface optimized for small screens\n\nThink fast, strategize smart, and crack the code. Download Crack the Code 4 Watch now and put your logic to the test.",
-      "releaseNotes": "- Added game settings.\n- Minor bug fixes and performance improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Added game settings.\n- Minor bug fixes and performance improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/crack-the-code-4-watch/id6743397956?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Bolo mobile, Inc.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "解码大师：手表版",
       "description": "脑力解码：手表版\n\n你能破解密码吗？在 Apple Watch 上挑战你的逻辑推理能力，体验经典的解密游戏！《脑力解码：手表版》提供两种经典玩法：颜色解码和数字解码，让你随时随地享受烧脑乐趣。\n\n两种游戏，一样烧脑\n\t• 颜色解码：根据颜色反馈猜测隐藏密码，每次尝试都让你更接近答案。\n\t• 数字解码：基于数字的推理游戏，绿点表示正确数字且位置正确，白点表示正确数字但位置错误，尽可能用最少的步数破解密码。\n\n专为 Apple Watch 设计\n\t• 快速、有趣、富有挑战性的逻辑游戏\n\t• 随时随地畅玩，抬腕即开局\n\t• 简约界面，适配小屏操作\n\n开动脑筋，精准推理，破解密码！\n立即下载 《脑力解码：手表版》，挑战你的解密能力！",
-      "releaseNotes": "- 添加了游戏设置。\n- 修复了一些小错误并提高了性能。",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n- 添加了游戏设置。\n- 修复了一些小错误并提高了性能。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%A7%A3%E7%A0%81%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E7%89%88/id6743397956?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Bolo mobile, Inc.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Crack the Code 4 Watch",
       "description": "Crack the Code 4 Watch\n\nCan you crack the code? Test your logic and deduction skills with Crack the Code 4 Watch, a classic code-breaking game designed for Apple Watch. Enjoy two timeless puzzle games: Mastermind and Bulls and Cows, perfect for quick brain challenges on the go\n\nTwo Games, One Challenge\n\t• Mastermind: Guess the secret code using color feedback. Every attempt brings you closer to the solution.\n\t• Bulls and Cows: A number-based deduction game where bulls mean correct digits in the right place and cows mean correct digits in the wrong place. Solve it in as few moves as possible.\n\nDesigned for Apple Watch\n\t• Quick, fun, and challenging logic puzzles\n\t• Play anytime, anywhere—right from your wrist\n\t• Minimalist interface optimized for small screens\n\nThink fast, strategize smart, and crack the code. Download Crack the Code 4 Watch now and put your logic to the test.",
-      "releaseNotes": "- Added game settings.\n- Minor bug fixes and performance improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Added game settings.\n- Minor bug fixes and performance improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/crack-the-code-4-watch/id6743397956?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Bolo mobile, Inc.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Crack the Code 4 Watch",
       "description": "Crack the Code 4 Watch\n\nCan you crack the code? Test your logic and deduction skills with Crack the Code 4 Watch, a classic code-breaking game designed for Apple Watch. Enjoy two timeless puzzle games: Mastermind and Bulls and Cows, perfect for quick brain challenges on the go\n\nTwo Games, One Challenge\n\t• Mastermind: Guess the secret code using color feedback. Every attempt brings you closer to the solution.\n\t• Bulls and Cows: A number-based deduction game where bulls mean correct digits in the right place and cows mean correct digits in the wrong place. Solve it in as few moves as possible.\n\nDesigned for Apple Watch\n\t• Quick, fun, and challenging logic puzzles\n\t• Play anytime, anywhere—right from your wrist\n\t• Minimalist interface optimized for small screens\n\nThink fast, strategize smart, and crack the code. Download Crack the Code 4 Watch now and put your logic to the test.",
-      "releaseNotes": "- Added game settings.\n- Minor bug fixes and performance improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Added game settings.\n- Minor bug fixes and performance improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/crack-the-code-4-watch/id6743397956?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Bolo mobile, Inc.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1082368",
+  "fileSizeBytes": "1098752",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
   "version": "1.1",
@@ -239,10 +239,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "- Added game settings.\n- Minor bug fixes and performance improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Added game settings.\n- Minor bug fixes and performance improvements.",
       "seenAt": "2025-05-11T11:23:05Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:15:49.100Z",
+  "updatedAt": "2026-08-28T19:02:09.206Z",
   "isOwnApp": false
 }

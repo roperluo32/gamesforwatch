@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Stack - Watch Tetro",
       "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Stack - Watch Tetro",
       "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Stack - Watch Tetro",
       "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "9133056",
+  "fileSizeBytes": "9157632",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
   "version": "1.0",
@@ -238,10 +238,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-18T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:23:07.408Z",
+  "updatedAt": "2026-08-28T19:18:32.139Z",
   "isOwnApp": false
 }

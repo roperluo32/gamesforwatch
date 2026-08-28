@@ -86,7 +86,7 @@
   "minimumOsVersion": "16.6",
   "version": "1.0",
   "currentVersionReleaseDate": "2026-08-17T03:51:23Z",
-  "releaseDate": "2026-08-17T03:51:23Z",
+  "releaseDate": "2026-08-16T07:00:00Z",
   "artistId": 1850200463,
   "artistName": "Ariel Walters",
   "artistViewUrl": "https://apps.apple.com/de/developer/ariel-walters/id1850200463?uo=4",
@@ -243,6 +243,6 @@
       "seenAt": "2026-08-17T03:51:23Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:51:39.741Z",
+  "updatedAt": "2026-08-28T18:45:26.638Z",
   "isOwnApp": false
 }

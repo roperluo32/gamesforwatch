@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Space Jigsaw Puzzles",
       "description": "The app gives you space themed jigsaw puzzles with relaxing atmosphere and transcendent music. \n\nBring yourself away from your daily rush! \n\nFeatures: \n* Space journey themed jigsaw puzzles. \n* Transcendent ambient music. \n* 3 difficulty levels\n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support \n* Share completed puzzles with your friends! \n\nThe world is beautiful. Take your time and enjoy it! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Tonygers. Some of music and sound effects licensed from (c) StockMusicSite / David Bradley / AudioSparx.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "trackViewUrl": "https://apps.apple.com/us/app/space-jigsaw-puzzles/id647589181?uo=4",
       "formattedPrice": "Free",
       "sellerName": "UAB Target Works",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Space Jigsaw Puzzles",
       "description": "The app gives you space themed jigsaw puzzles with relaxing atmosphere and transcendent music. \n\nBring yourself away from your daily rush! \n\nFeatures: \n* Space journey themed jigsaw puzzles. \n* Transcendent ambient music. \n* 3 difficulty levels\n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support \n* Share completed puzzles with your friends! \n\nThe world is beautiful. Take your time and enjoy it! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Tonygers. Some of music and sound effects licensed from (c) StockMusicSite / David Bradley / AudioSparx.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "trackViewUrl": "https://apps.apple.com/jp/app/space-jigsaw-puzzles/id647589181?uo=4",
       "formattedPrice": "無料",
       "sellerName": "UAB Target Works",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Space Jigsaw Puzzles",
       "description": "The app gives you space themed jigsaw puzzles with relaxing atmosphere and transcendent music. \n\nBring yourself away from your daily rush! \n\nFeatures: \n* Space journey themed jigsaw puzzles. \n* Transcendent ambient music. \n* 3 difficulty levels\n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support \n* Share completed puzzles with your friends! \n\nThe world is beautiful. Take your time and enjoy it! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Tonygers. Some of music and sound effects licensed from (c) StockMusicSite / David Bradley / AudioSparx.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "trackViewUrl": "https://apps.apple.com/de/app/space-jigsaw-puzzles/id647589181?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "UAB Target Works",
@@ -305,10 +305,10 @@
     },
     {
       "version": "2.5",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "seenAt": "2016-11-29T23:14:48Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:27:28.374Z",
+  "updatedAt": "2026-08-28T19:22:53.138Z",
   "isOwnApp": false
 }

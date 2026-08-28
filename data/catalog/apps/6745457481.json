@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Beat-Saber",
       "description": "Beat-Saber is the official iPhone companion to the Apple Watch rhythm game where precision meets performance. Whether you’re slicing beats or chasing high scores, this app helps you stay on top of your game.\n\nAutomatically imports your game results from Apple Watch using secure shared storage — no pairing required.\n\nView your highest scores, total games played, average score, and milestones like games over 50 points.\n\n\nSee your streaks, track your improvement, and stay motivated with real-time stats.\nBeat-Saber helps you go beyond gameplay — it’s your insight engine to master the rhythm.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/beat-saber/id6745457481?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Beat-Saber",
       "description": "Beat-Saber is the official iPhone companion to the Apple Watch rhythm game where precision meets performance. Whether you’re slicing beats or chasing high scores, this app helps you stay on top of your game.\n\nAutomatically imports your game results from Apple Watch using secure shared storage — no pairing required.\n\nView your highest scores, total games played, average score, and milestones like games over 50 points.\n\n\nSee your streaks, track your improvement, and stay motivated with real-time stats.\nBeat-Saber helps you go beyond gameplay — it’s your insight engine to master the rhythm.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/beat-saber/id6745457481?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Beat-Saber",
       "description": "Beat-Saber is the official iPhone companion to the Apple Watch rhythm game where precision meets performance. Whether you’re slicing beats or chasing high scores, this app helps you stay on top of your game.\n\nAutomatically imports your game results from Apple Watch using secure shared storage — no pairing required.\n\nView your highest scores, total games played, average score, and milestones like games over 50 points.\n\n\nSee your streaks, track your improvement, and stay motivated with real-time stats.\nBeat-Saber helps you go beyond gameplay — it’s your insight engine to master the rhythm.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/beat-saber/id6745457481?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2968576",
+  "fileSizeBytes": "2980864",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -218,10 +218,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-05T14:50:04Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:23:23.276Z",
+  "updatedAt": "2026-08-28T19:18:44.052Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Game Box:Watch Game Collection",
       "description": "After months of hard work, I have successfully created a collection of games for the Apple Watch! Now, I am extremely excited to share this achievement with all of you!\nIn this collection called \"Watch Games\" you will discover a series of games with unique features. Whether you enjoy puzzles, challenges that test your reaction speed, or thrilling adventures, this collection surely has a game that suits you!\n\nI have invested a great deal of time and effort into carefully designing each game level, aiming to provide players with the best gaming experience. Every game has been meticulously optimized to ensure smooth operation on the Apple Watch, allowing you to enjoy the fun of gaming anytime, anywhere.\n\n\"Watch Games\" is not just a game, but also a great way for you to release stress and relax during your leisure time. Whether you are waiting for a bus, standing in line, or taking a break, you can open the game and enjoy the fun.\n\nAs an individual developer, I have always dreamed of creating an amazing game that allows players to feel my dedication and hard work. Now, \"Watch Games\" is ready, and I can't wait to share my achievement with players from all over the world.\n\nDear friends, join the world of \"Watch Games\" now! Let's challenge our intelligence and reaction limits together, unlock new levels, and create our own legends! This collection will bring you endless fun and surprises, and you will not be disappointed!\n\nCurrently, I have integrated 9 classic puzzle games into one watch application! It offers excellent value for money! Especially the simulated exam game, which allows you and your children to learn while playing. Come on, buddies, hop on!\n\nIf you enjoy this application, don't forget to leave a five-star review. Your encouragement will motivate me to continue adding more fun games!",
-      "releaseNotes": "Enhance the user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nEnhance the user experience.",
       "trackViewUrl": "https://apps.apple.com/us/app/game-box-watch-game-collection/id6467020213?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "长金 胡",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Game Box:Watch Game Collection",
       "description": "After months of hard work, I have successfully created a collection of games for the Apple Watch! Now, I am extremely excited to share this achievement with all of you!\nIn this collection called \"Watch Games\" you will discover a series of games with unique features. Whether you enjoy puzzles, challenges that test your reaction speed, or thrilling adventures, this collection surely has a game that suits you!\n\nI have invested a great deal of time and effort into carefully designing each game level, aiming to provide players with the best gaming experience. Every game has been meticulously optimized to ensure smooth operation on the Apple Watch, allowing you to enjoy the fun of gaming anytime, anywhere.\n\n\"Watch Games\" is not just a game, but also a great way for you to release stress and relax during your leisure time. Whether you are waiting for a bus, standing in line, or taking a break, you can open the game and enjoy the fun.\n\nAs an individual developer, I have always dreamed of creating an amazing game that allows players to feel my dedication and hard work. Now, \"Watch Games\" is ready, and I can't wait to share my achievement with players from all over the world.\n\nDear friends, join the world of \"Watch Games\" now! Let's challenge our intelligence and reaction limits together, unlock new levels, and create our own legends! This collection will bring you endless fun and surprises, and you will not be disappointed!\n\nCurrently, I have integrated 9 classic puzzle games into one watch application! It offers excellent value for money! Especially the simulated exam game, which allows you and your children to learn while playing. Come on, buddies, hop on!\n\nIf you enjoy this application, don't forget to leave a five-star review. Your encouragement will motivate me to continue adding more fun games!",
-      "releaseNotes": "Enhance the user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nEnhance the user experience.",
       "trackViewUrl": "https://apps.apple.com/jp/app/game-box-watch-game-collection/id6467020213?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "长金 胡",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Game Box:Watch Game Collection",
       "description": "After months of hard work, I have successfully created a collection of games for the Apple Watch! Now, I am extremely excited to share this achievement with all of you!\nIn this collection called \"Watch Games\" you will discover a series of games with unique features. Whether you enjoy puzzles, challenges that test your reaction speed, or thrilling adventures, this collection surely has a game that suits you!\n\nI have invested a great deal of time and effort into carefully designing each game level, aiming to provide players with the best gaming experience. Every game has been meticulously optimized to ensure smooth operation on the Apple Watch, allowing you to enjoy the fun of gaming anytime, anywhere.\n\n\"Watch Games\" is not just a game, but also a great way for you to release stress and relax during your leisure time. Whether you are waiting for a bus, standing in line, or taking a break, you can open the game and enjoy the fun.\n\nAs an individual developer, I have always dreamed of creating an amazing game that allows players to feel my dedication and hard work. Now, \"Watch Games\" is ready, and I can't wait to share my achievement with players from all over the world.\n\nDear friends, join the world of \"Watch Games\" now! Let's challenge our intelligence and reaction limits together, unlock new levels, and create our own legends! This collection will bring you endless fun and surprises, and you will not be disappointed!\n\nCurrently, I have integrated 9 classic puzzle games into one watch application! It offers excellent value for money! Especially the simulated exam game, which allows you and your children to learn while playing. Come on, buddies, hop on!\n\nIf you enjoy this application, don't forget to leave a five-star review. Your encouragement will motivate me to continue adding more fun games!",
-      "releaseNotes": "Enhance the user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nEnhance the user experience.",
       "trackViewUrl": "https://apps.apple.com/de/app/game-box-watch-game-collection/id6467020213?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "长金 胡",
@@ -57,7 +57,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "7418880",
+  "fileSizeBytes": "7455744",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.11",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.11",
-      "releaseNotes": "Enhance the user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nEnhance the user experience.",
       "seenAt": "2025-06-12T07:51:21Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:23:11.341Z",
+  "updatedAt": "2026-08-28T19:18:36.198Z",
   "isOwnApp": false
 }

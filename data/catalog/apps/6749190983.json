@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Gravity Shoot",
       "description": "GAME OVERVIEW\nGravity Shoot is a unique gravity-controlled shooting game that puts your physics skills to the test. Use the Digital Crown to adjust gravity and guide your projectile to hit the target. With simple controls and challenging gameplay, every shot requires perfect timing and precision.\n\nHOW TO PLAY\n- Rotate the Digital Crown to control gravity\n- Watch your projectile's trajectory in real-time\n- Hit the target to score points\n- Miss and the game ends\n- Challenge yourself to achieve the highest score!\n\nPERFECT FOR\n- 30-second gaming breaks that feel like 5 minutes of fun\n- Showing off your physics skills to friends\n- Beating your personal best (and bragging about it)\n- Stress relief with satisfying, tactile gameplay\n\n\nFEATURES\n- Intuitive Controls: Use the Digital Crown for precise gravity control\n- Real-time Physics: Watch your projectile's path with beautiful trail effects\n- Progressive Difficulty: Each successful hit makes the next shot more challenging\n- Beautiful Visuals: Smooth animations and particle effects\n- Offline Play: No internet connection required\n- Privacy Focused: No data collection, completely private",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/gravity-shoot/id6749190983?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Huanming Fang",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Gravity Shoot",
       "description": "GAME OVERVIEW\nGravity Shoot is a unique gravity-controlled shooting game that puts your physics skills to the test. Use the Digital Crown to adjust gravity and guide your projectile to hit the target. With simple controls and challenging gameplay, every shot requires perfect timing and precision.\n\nHOW TO PLAY\n- Rotate the Digital Crown to control gravity\n- Watch your projectile's trajectory in real-time\n- Hit the target to score points\n- Miss and the game ends\n- Challenge yourself to achieve the highest score!\n\nPERFECT FOR\n- 30-second gaming breaks that feel like 5 minutes of fun\n- Showing off your physics skills to friends\n- Beating your personal best (and bragging about it)\n- Stress relief with satisfying, tactile gameplay\n\n\nFEATURES\n- Intuitive Controls: Use the Digital Crown for precise gravity control\n- Real-time Physics: Watch your projectile's path with beautiful trail effects\n- Progressive Difficulty: Each successful hit makes the next shot more challenging\n- Beautiful Visuals: Smooth animations and particle effects\n- Offline Play: No internet connection required\n- Privacy Focused: No data collection, completely private",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/gravity-shoot/id6749190983?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Huanming Fang",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Gravity Shoot",
       "description": "GAME OVERVIEW\nGravity Shoot is a unique gravity-controlled shooting game that puts your physics skills to the test. Use the Digital Crown to adjust gravity and guide your projectile to hit the target. With simple controls and challenging gameplay, every shot requires perfect timing and precision.\n\nHOW TO PLAY\n- Rotate the Digital Crown to control gravity\n- Watch your projectile's trajectory in real-time\n- Hit the target to score points\n- Miss and the game ends\n- Challenge yourself to achieve the highest score!\n\nPERFECT FOR\n- 30-second gaming breaks that feel like 5 minutes of fun\n- Showing off your physics skills to friends\n- Beating your personal best (and bragging about it)\n- Stress relief with satisfying, tactile gameplay\n\n\nFEATURES\n- Intuitive Controls: Use the Digital Crown for precise gravity control\n- Real-time Physics: Watch your projectile's path with beautiful trail effects\n- Progressive Difficulty: Each successful hit makes the next shot more challenging\n- Beautiful Visuals: Smooth animations and particle effects\n- Offline Play: No internet connection required\n- Privacy Focused: No data collection, completely private",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/gravity-shoot/id6749190983?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Huanming Fang",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "932864",
+  "fileSizeBytes": "949248",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
   "version": "1.1",
@@ -215,10 +215,10 @@
   "versionHistory": [
     {
       "version": "1.1",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-07-30T08:47:59Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:12:52.960Z",
+  "updatedAt": "2026-08-28T19:10:30.980Z",
   "isOwnApp": false
 }

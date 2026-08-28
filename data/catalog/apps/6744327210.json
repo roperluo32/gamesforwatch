@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Block Blast for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "- crash fixed on some devices",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/us/app/block-blast-for-watch/id6744327210?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Federico Bigliocca",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Block Blast for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "- crash fixed on some devices",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-blast-for-watch/id6744327210?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Federico Bigliocca",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Block Blast for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "- crash fixed on some devices",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
       "trackViewUrl": "https://apps.apple.com/de/app/block-blast-for-watch/id6744327210?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Federico Bigliocca",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "13518848",
+  "fileSizeBytes": "13543424",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
   "version": "1.1",
@@ -251,10 +251,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "- crash fixed on some devices",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
       "seenAt": "2025-04-24T21:23:20Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:10:27.796Z",
+  "updatedAt": "2026-08-28T19:06:41.520Z",
   "isOwnApp": false
 }

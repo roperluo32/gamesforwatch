@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Stability",
       "description": "Experience Wrist Stability, a unique simulator designed for Apple Watch that offers engaging games to explore:\n\nAim Master - Test your precision and refine your wrist control.\nReaction Test - Tap quickly when targets appear to sharpen your reflexes.\nSteadiness Test - Keep your wrist steady and master smooth, controlled movements.\nBottle Breaker - Tilt to aim and tap to hit targets with pinpoint accuracy.\n\nWrist Stability is perfect for quick challenges or building focus, coordination, and wrist stability—all from your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-stability/id6740135743?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "程辉 赖",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "手首の安定性",
       "description": "リストスタビリティは、Apple Watch専用に設計されたユニークなシミュレーターで、楽しめるゲームが満載です：\n\nエイムマスター: 精度を試し、手首のコントロールを向上させましょう。\n反応テスト: ターゲットが現れたら素早くタップして反射神経を鍛えます。\n安定性テスト: 手首を安定させ、スムーズで正確な動きをマスターしましょう。\nボトルブレイカー: 傾けて狙いを定め、タップして正確にターゲットを撃ち抜きましょう。\n\nリストスタビリティは、短時間のチャレンジにも、集中力、協調性、手首の安定性を向上させるにも最適です。すべて手首から始まります！",
-      "releaseNotes": "",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%89%8B%E9%A6%96%E3%81%AE%E5%AE%89%E5%AE%9A%E6%80%A7/id6740135743?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "程辉 赖",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Handgelenkstabilität",
       "description": "Erleben Sie Handgelenkstabilität, einen einzigartigen Simulator für die Apple Watch, der spannende Spiele bietet:\n\nPräzisionsmeister: Testen Sie Ihre Präzision und verbessern Sie die Kontrolle über Ihr Handgelenk.\nReaktionstest: Tippen Sie schnell, wenn Ziele erscheinen, und schärfen Sie Ihre Reflexe.\nStabilitätstest: Halten Sie Ihr Handgelenk stabil und meistern Sie flüssige, kontrollierte Bewegungen.\nFlaschenbrecher: Neigen Sie zum Zielen und tippen Sie, um Ziele mit höchster Genauigkeit zu treffen.\n\nHandgelenkstabilität ist perfekt für kurze Herausforderungen oder zur Verbesserung Ihrer Konzentration, Koordination und Handgelenkstabilität – direkt von Ihrer Uhr aus!",
-      "releaseNotes": "",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.",
       "trackViewUrl": "https://apps.apple.com/de/app/handgelenkstabilit%C3%A4t/id6740135743?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "程辉 赖",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "2313216",
+  "fileSizeBytes": "2329600",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -219,10 +219,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-01-23T02:52:20Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:24:00.782Z",
+  "updatedAt": "2026-08-28T19:19:30.098Z",
   "isOwnApp": false
 }

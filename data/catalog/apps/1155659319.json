@@ -7,7 +7,7 @@
     "en": {
       "trackName": "A Ping Pong Game Lite",
       "description": "Experience Classic Arcade Fun on Your Wrist, in your hand or on the big screen.\n\nStep into the world of retro arcade gaming with a fresh twist! This modern PONG-inspired game brings the classic excitement of racket sports right to you.\n\nGame Modes: Choose from Squash, Tennis, and Soccer for a variety of gameplay.\n1 or 2 Players: Play solo or challenge a friend in thrilling head-to-head matches.\nThree Difficulty Levels: Test your skills and try to beat your high score!\nOptimized for Apple Watch:\n\nSeamlessly control the paddle with the digital crown, a game controller or touches.\nPerfectly balanced for quick, intense gaming sessions.\nDownload now and dive into the ultimate arcade experience, wherever you go!",
-      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "releaseNotes": "- Stability improvements.\n- Minor bug fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/a-ping-pong-game-lite/id1155659319?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Stefan JOSTEN",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "A Ping Pong Game Lite",
       "description": "Experience Classic Arcade Fun on Your Wrist, in your hand or on the big screen.\n\nStep into the world of retro arcade gaming with a fresh twist! This modern PONG-inspired game brings the classic excitement of racket sports right to you.\n\nGame Modes: Choose from Squash, Tennis, and Soccer for a variety of gameplay.\n1 or 2 Players: Play solo or challenge a friend in thrilling head-to-head matches.\nThree Difficulty Levels: Test your skills and try to beat your high score!\nOptimized for Apple Watch:\n\nSeamlessly control the paddle with the digital crown, a game controller or touches.\nPerfectly balanced for quick, intense gaming sessions.\nDownload now and dive into the ultimate arcade experience, wherever you go!",
-      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "releaseNotes": "- Stability improvements.\n- Minor bug fixes.",
       "trackViewUrl": "https://apps.apple.com/cn/app/a-ping-pong-game-lite/id1155659319?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Stefan JOSTEN",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "A Ping Pong Game Lite",
       "description": "Experience Classic Arcade Fun on Your Wrist, in your hand or on the big screen.\n\nStep into the world of retro arcade gaming with a fresh twist! This modern PONG-inspired game brings the classic excitement of racket sports right to you.\n\nGame Modes: Choose from Squash, Tennis, and Soccer for a variety of gameplay.\n1 or 2 Players: Play solo or challenge a friend in thrilling head-to-head matches.\nThree Difficulty Levels: Test your skills and try to beat your high score!\nOptimized for Apple Watch:\n\nSeamlessly control the paddle with the digital crown, a game controller or touches.\nPerfectly balanced for quick, intense gaming sessions.\nDownload now and dive into the ultimate arcade experience, wherever you go!",
-      "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
+      "releaseNotes": "- Stability improvements.\n- Minor bug fixes.",
       "trackViewUrl": "https://apps.apple.com/jp/app/a-ping-pong-game-lite/id1155659319?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Stefan JOSTEN",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "A Ping Pong Gamen Lite",
       "description": "Erlebe klassischen Arcade-Spaß an deinem Handgelenk, deinem Phone oder auf dem großen Bildschirm!\n\nTauche ein in die Welt des Retro-Arcade-Gamings mit einem modernen Twist! Dieses PONG-inspirierte Spiel bringt die klassische Aufregung direkt zu dir.\n\n\nSpielmodi: Wähle zwischen Squash, Tennis und Fußball für abwechslungsreiches Gameplay.\n1 oder 2 Spieler: Spiele allein oder fordere einen Freund in spannenden Duellen heraus.\nDrei Schwierigkeitsstufen: Teste deine Fähigkeiten und knacke deinen Highscore!\nOptimiert für die Apple Watch:\n\nSteuere den Schläger mühelos mit der Digital Crown, einem Game Controller oder per Touch.\nZwei Schwierigkeitsstufen: Perfekt für kurze, intensive Spielsessions.\nLade das Spiel jetzt herunter und erlebe ultimativen Arcade-Spaß, wo immer du bist!",
-      "releaseNotes": "- Anzeigefehler auf dem iPhone 17 Pro und anderen Geräten mit Dynamic Island behoben: Das Spielfeld wurde abgeschnitten, sodass die linke Wand nicht sichtbar war.\n- Verbesserte Stabilität.\n- Kleinere Fehlerbehebungen.",
+      "releaseNotes": "- Verbesserte Stabilität.\n- Kleinere Fehlerbehebungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/a-ping-pong-gamen-lite/id1155659319?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Stefan JOSTEN",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/1e/fc/1b1efc4d-4163-0d65-5fba-2945e6d1715a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/af/c3/45afc329-45a1-77b6-056c-10ebbf36ee43/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 1,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "5507072",
+  "fileSizeBytes": "5511168",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.0",
-  "version": "8.1",
-  "currentVersionReleaseDate": "2026-08-06T05:30:17Z",
+  "version": "8.1.1",
+  "currentVersionReleaseDate": "2026-08-27T19:17:22Z",
   "releaseDate": "2016-09-21T06:17:35Z",
   "artistId": 949662361,
   "artistName": "Stefan JOSTEN",
@@ -314,8 +314,13 @@
       "version": "8.1",
       "releaseNotes": "- Fixed a display issue on iPhone 17 Pro and other devices with a Dynamic Island: the playing field was cut off, so the left wall was not visible.\n- Stability improvements.\n- Minor bug fixes.",
       "seenAt": "2026-08-06T05:30:17Z"
+    },
+    {
+      "version": "8.1.1",
+      "releaseNotes": "- Stability improvements.\n- Minor bug fixes.",
+      "seenAt": "2026-08-27T19:17:22Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:17:56.443Z",
+  "updatedAt": "2026-08-28T19:12:26.035Z",
   "isOwnApp": false
 }

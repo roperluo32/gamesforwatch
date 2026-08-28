@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch - Dash",
       "description": "Chomp your way through a classic maze—right on your Apple Watch!\nWatch DotMan brings the timeless arcade action to your wrist. Swipe to guide your hungry hero through a retro maze, gobbling up dots, dodging ghosts, and grabbing power-ups for a high score. Compete with friends on the global leaderboard and see who’s the ultimate maze master!\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-dash/id6745512392?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch - Dash",
       "description": "Chomp your way through a classic maze—right on your Apple Watch!\nWatch DotMan brings the timeless arcade action to your wrist. Swipe to guide your hungry hero through a retro maze, gobbling up dots, dodging ghosts, and grabbing power-ups for a high score. Compete with friends on the global leaderboard and see who’s the ultimate maze master!\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-dash/id6745512392?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch - Dash",
       "description": "Chomp your way through a classic maze—right on your Apple Watch!\nWatch DotMan brings the timeless arcade action to your wrist. Swipe to guide your hungry hero through a retro maze, gobbling up dots, dodging ghosts, and grabbing power-ups for a high score. Compete with friends on the global leaderboard and see who’s the ultimate maze master!\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-dash/id6745512392?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2759680",
+  "fileSizeBytes": "2771968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -221,10 +221,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-18T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:59:46.288Z",
+  "updatedAt": "2026-08-28T18:54:21.223Z",
   "isOwnApp": false
 }

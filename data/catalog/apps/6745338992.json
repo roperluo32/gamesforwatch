@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pop Star Blast For Watch Game",
       "description": "Designed specifically for the iWatch, this is an innovative puzzle game that combines the best of classic gameplay with creative twists, offering you a double dose of fun!\n\nHere, you'll embark on a well - crafted three - match puzzle adventure. Each level is meticulously designed to deliver an unparalleled sense of satisfaction as you clear the board! With a rich variety of level mechanics and exciting star effects, the fun just keeps on escalating! The game features a fresh and vibrant interface, and the gameplay is incredibly easy to pick up. All you need to do is click on adjacent stars of the same color to eliminate them and score points. There are no level limits, so you can effortlessly start an addictive and intellectually stimulating journey!\n\nJoin now and enjoy the unrestricted pleasure of this puzzle game. Feel the exhilaration and surprise with every match you make!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/pop-star-blast-for-watch-game/id6745338992?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "柳 宋",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "消灭除星星-手表经典消消乐消除游戏",
       "description": "专为手表iWatch设计的创新消除玩法，经典与创意的双重乐趣！\n这里有精心设计的三消闯关体验，每一关都为你带来极致的消除快感！丰富多样的关卡玩法，搭配畅爽的星星特效，让快乐持续升级！游戏画面清新明快，玩法简单易上手——只需点击相邻同色星星即可消除得分，没有关卡限制，轻松开启停不下来的益智之旅！  \n即刻加入，享受无拘无束的消除乐趣，感受每一次消除带来的畅快与惊喜！",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B6%88%E7%81%AD%E9%99%A4%E6%98%9F%E6%98%9F-%E6%89%8B%E8%A1%A8%E7%BB%8F%E5%85%B8%E6%B6%88%E6%B6%88%E4%B9%90%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F/id6745338992?uo=4",
       "formattedPrice": "¥3.00",
       "sellerName": "柳 宋",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "Pop Star Blast For Watch Game",
       "description": "このアプリはiWatch専用の革新的な消しゲームで、クラシックな要素と独創的なアイデアが融合し、二重の楽しみをもたらします！\n\nここでは、入念にデザインされた三消クエストを体験できます。各ステージは、最高の消しゲームの快感をあなたに届けます！豊富なステージパターンと爽やかな星のエフェクトが組み合わさり、楽しみは絶え間なくアップグレードします！ゲーム画面は清新で明るく、操作方法も簡単です。隣り合った同じ色の星をクリックするだけで消去して得点でき、ステージ制限もありません。これで、簡単に止まらなくなる知育ゲームの旅を始められます！\n\n今すぐ参加して、自由な消しゲームの楽しみを満喫し、消去するたびの爽快感と驚きを体感してください！",
-      "releaseNotes": "",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/pop-star-blast-for-watch-game/id6745338992?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "柳 宋",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "Pop Star Blast For Watch Game",
       "description": "Designed specifically for the iWatch, this is an innovative puzzle game that combines the best of classic gameplay with creative twists, offering you a double dose of fun!\n\nHere, you'll embark on a well - crafted three - match puzzle adventure. Each level is meticulously designed to deliver an unparalleled sense of satisfaction as you clear the board! With a rich variety of level mechanics and exciting star effects, the fun just keeps on escalating! The game features a fresh and vibrant interface, and the gameplay is incredibly easy to pick up. All you need to do is click on adjacent stars of the same color to eliminate them and score points. There are no level limits, so you can effortlessly start an addictive and intellectually stimulating journey!\n\nJoin now and enjoy the unrestricted pleasure of this puzzle game. Feel the exhilaration and surprise with every match you make!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/pop-star-blast-for-watch-game/id6745338992?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "柳 宋",
@@ -69,7 +69,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3068928",
+  "fileSizeBytes": "3085312",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -220,10 +220,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-02T00:42:18Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:14:44.642Z",
+  "updatedAt": "2026-08-28T19:18:48.760Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cars Race!",
       "description": "You came to Hong Kong for a street race but unlucky, Zombie are everywhere. Drift your way out of trouble and go back home to save your big brother and your Tofu delivery friend. Don't forget to find some dudes with talent and form a dream racing team of your own. Time to touge and drift away the undeads!!!",
-      "releaseNotes": "Fix an UI bug.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/cars-race/id6471562509?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Cars Race!",
       "description": "You came to Hong Kong for a street race but unlucky, Zombie are everywhere. Drift your way out of trouble and go back home to save your big brother and your Tofu delivery friend. Don't forget to find some dudes with talent and form a dream racing team of your own. Time to touge and drift away the undeads!!!",
-      "releaseNotes": "Fix an UI bug.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/cn/app/cars-race/id6471562509?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Cars Race!",
       "description": "You came to Hong Kong for a street race but unlucky, Zombie are everywhere. Drift your way out of trouble and go back home to save your big brother and your Tofu delivery friend. Don't forget to find some dudes with talent and form a dream racing team of your own. Time to touge and drift away the undeads!!!",
-      "releaseNotes": "Fix an UI bug.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/cars-race/id6471562509?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Cars Race!",
       "description": "You came to Hong Kong for a street race but unlucky, Zombie are everywhere. Drift your way out of trouble and go back home to save your big brother and your Tofu delivery friend. Don't forget to find some dudes with talent and form a dream racing team of your own. Time to touge and drift away the undeads!!!",
-      "releaseNotes": "Fix an UI bug.",
+      "releaseNotes": "Optimized for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/cars-race/id6471562509?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ed/6e/98ed6e66-4dc4-72a4-110e-0d3dc096feaf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/93/88/a7938823-d0f7-21d8-2c88-ef791143726d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "127473664",
-  "contentAdvisoryRating": "12+",
-  "minimumOsVersion": "16.0",
-  "version": "1.7",
-  "currentVersionReleaseDate": "2024-07-19T21:22:06Z",
+  "fileSizeBytes": "129355776",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "1.8",
+  "currentVersionReleaseDate": "2026-08-27T21:31:08Z",
   "releaseDate": "2023-11-22T08:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -295,8 +295,13 @@
       "version": "1.7",
       "releaseNotes": "Fix an UI bug.",
       "seenAt": "2024-07-19T21:22:06Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "Optimized for Apple Watch.",
+      "seenAt": "2026-08-27T21:31:08Z"
     }
   ],
-  "updatedAt": "2026-08-27T17:57:52.545Z",
+  "updatedAt": "2026-08-28T18:52:21.160Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Save My Spaceship Lite",
       "description": "Simple, endless, free to play space shooter:\n\nTry to survive as long as possible:\nA laser is moving down to destroy your ship. Collect falling objects with the correct color to move him up again. Be careful collecting the wrong objects will move the laser down again.",
-      "releaseNotes": "Stability improvements, minor bugfixes and support for the latest devices, including iPhone 17 Pro.",
+      "releaseNotes": "Stability improvements, minor bugfixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/save-my-spaceship-lite/id1605724395?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Stefan JOSTEN",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Save My Spaceship Lite",
       "description": "Simple, endless, free to play space shooter:\n\nTry to survive as long as possible:\nA laser is moving down to destroy your ship. Collect falling objects with the correct color to move him up again. Be careful collecting the wrong objects will move the laser down again.",
-      "releaseNotes": "Stability improvements, minor bugfixes and support for the latest devices, including iPhone 17 Pro.",
+      "releaseNotes": "Stability improvements, minor bugfixes.",
       "trackViewUrl": "https://apps.apple.com/cn/app/save-my-spaceship-lite/id1605724395?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Stefan JOSTEN",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Save My Spaceship Lite",
       "description": "Simple, endless, free to play space shooter:\n\nTry to survive as long as possible:\nA laser is moving down to destroy your ship. Collect falling objects with the correct color to move him up again. Be careful collecting the wrong objects will move the laser down again.",
-      "releaseNotes": "Stability improvements, minor bugfixes and support for the latest devices, including iPhone 17 Pro.",
+      "releaseNotes": "Stability improvements, minor bugfixes.",
       "trackViewUrl": "https://apps.apple.com/jp/app/save-my-spaceship-lite/id1605724395?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Stefan JOSTEN",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Save My Spaceship Lite",
       "description": "Einfacher, per Touch Gesten gesteuerter Space Shooter:\n\nVersuche so lange wie möglich zu überleben:\nEin Laser kommt auf dich zu und versucht dein Raumschiff zu zerstören. Sammel die passenden Farben ein um den Abstand zu vergrößern. Aber Vorsicht! Wenn du die falschen Farben einsammelst kommt er schneller auf dich zu.",
-      "releaseNotes": "Stabilitätsverbesserungen, kleinere Fehlerbehebungen und Unterstützung für die neuesten Geräte, inklusive iPhone 17 Pro.",
+      "releaseNotes": "Stabilitätsverbesserungen, kleinere Fehlerbehebungen",
       "trackViewUrl": "https://apps.apple.com/de/app/save-my-spaceship-lite/id1605724395?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Stefan JOSTEN",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8d/dc/f38ddc4c-37a3-d36a-a8f1-5ca7c2b06964/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/b2/f3/5ab2f3ab-5984-01ba-4ef9-c90700bb2866/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "6687744",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.0",
-  "version": "3.2",
-  "currentVersionReleaseDate": "2026-08-06T05:28:10Z",
+  "version": "3.2.1",
+  "currentVersionReleaseDate": "2026-08-27T19:17:53Z",
   "releaseDate": "2022-01-27T08:00:00Z",
   "artistId": 949662361,
   "artistName": "Stefan JOSTEN",
@@ -275,8 +275,13 @@
       "version": "3.2",
       "releaseNotes": "Stability improvements, minor bugfixes and support for the latest devices, including iPhone 17 Pro.",
       "seenAt": "2026-08-06T05:28:10Z"
+    },
+    {
+      "version": "3.2.1",
+      "releaseNotes": "Stability improvements, minor bugfixes.",
+      "seenAt": "2026-08-27T19:17:53Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:18:01.300Z",
+  "updatedAt": "2026-08-28T19:12:30.810Z",
   "isOwnApp": false
 }
