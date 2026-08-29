@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Arcade 10-in-1",
       "description": "A portable gaming experience on your wrist. Compete with friends to grab the top spot on the global leaderboards.\n\nWrist Arcade is a collection of 10 stunning games spanning various genres. Included in the app are the following:\n\nSpace Wave:\nDefend Earth against an aggressive alien species\n\nOcean Escape:\nDodge incoming fish by swimming in this fast-paced side scroller\n\nCar Escape:\nRace past obstacles and other drivers - tilt screen to navigate your speedy vehicle!\n\nPlane Escape:\nSurvive an all out aerial attack from the enemy - tilt to maneuver! \n\nBounce Wars:\nDefeat your opponent with a combination of ping-pong and power-ups!\n\nColor Capture:\nRotate your crown to capture the incoming debris\n\nSigns:\nSharpen your mental math in this fast paced puzzle game\n\nBounce:\nModernized game of ping-pong with unique visuals\n\nColor Puzzle:\nTest your quickness in recognizing colors and words\n\nSpace Dash:\nDodge incoming space debris and collect stars in your speedy space ship\n\nWrist Trek (bonus game!):\ntraverse the tracks past the obstacles to the target!",
-      "releaseNotes": "-minor bug fixes\n-modern new icon",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n-minor bug fixes\n-modern new icon",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-arcade-10-in-1/id1549972981?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Vineet Patil",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Wrist Arcade 10-in-1",
       "description": "A portable gaming experience on your wrist. Compete with friends to grab the top spot on the global leaderboards.\n\nWrist Arcade is a collection of 10 stunning games spanning various genres. Included in the app are the following:\n\nSpace Wave:\nDefend Earth against an aggressive alien species\n\nOcean Escape:\nDodge incoming fish by swimming in this fast-paced side scroller\n\nCar Escape:\nRace past obstacles and other drivers - tilt screen to navigate your speedy vehicle!\n\nPlane Escape:\nSurvive an all out aerial attack from the enemy - tilt to maneuver! \n\nBounce Wars:\nDefeat your opponent with a combination of ping-pong and power-ups!\n\nColor Capture:\nRotate your crown to capture the incoming debris\n\nSigns:\nSharpen your mental math in this fast paced puzzle game\n\nBounce:\nModernized game of ping-pong with unique visuals\n\nColor Puzzle:\nTest your quickness in recognizing colors and words\n\nSpace Dash:\nDodge incoming space debris and collect stars in your speedy space ship\n\nWrist Trek (bonus game!):\ntraverse the tracks past the obstacles to the target!",
-      "releaseNotes": "-minor bug fixes\n-modern new icon",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n-minor bug fixes\n-modern new icon",
       "trackViewUrl": "https://apps.apple.com/jp/app/wrist-arcade-10-in-1/id1549972981?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Vineet Patil",
@@ -45,7 +45,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 150,
-  "fileSizeBytes": "40725504",
+  "fileSizeBytes": "40774656",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.5",
   "version": "8.0",
@@ -287,10 +287,10 @@
     },
     {
       "version": "8.0",
-      "releaseNotes": "-minor bug fixes\n-modern new icon",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n-minor bug fixes\n-modern new icon",
       "seenAt": "2023-01-29T09:32:35Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:38:51.139Z",
+  "updatedAt": "2026-08-29T12:45:35.638Z",
   "isOwnApp": false
 }

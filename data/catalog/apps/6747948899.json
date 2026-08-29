@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Arcade Games Vol. 1",
       "description": "Play Six Action-Packed Games on Your iPhone or Apple Watch!\n\nGet ready for nonstop fun with this collection of fast-paced mini-games—designed for both your iPhone and Apple Watch. Whether you’re waiting in line or on the go, there’s always time for a quick dash, jump, or shot!\n\nIncluded Games:\n\nSea Dash – Steer your ship between lighthouses, dodge deadly mines, and collect coins while the sea gets more dangerous with each run.\n\nNinja Run – Dash through enemy territory, leap over traps, collect shurikens, and defeat foes as the pace picks up.\n\nHop’n Dash – Jump between moving platforms, avoid falling, and grab coins as the speed ramps up in this quick-reflex challenge.\n\nSheep Shot – Launch normal sheep to safety while letting the blue sheep fall. One wrong move and it’s game over!\n\nFruit Pass – Rise higher and higher by tapping to stay afloat—only pass through berry walls that match your color!\n\nColor Cannon – Shoot the matching colored orb at the rotating target. Time it right or it’s game over!\n\n\nEach game is easy to learn but hard to master—perfect for short bursts of gameplay on your wrist or phone.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-arcade-games-vol-1/id6747948899?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "HamptonsTek LLC",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch Arcade Games Vol. 1",
       "description": "Play Six Action-Packed Games on Your iPhone or Apple Watch!\n\nGet ready for nonstop fun with this collection of fast-paced mini-games—designed for both your iPhone and Apple Watch. Whether you’re waiting in line or on the go, there’s always time for a quick dash, jump, or shot!\n\nIncluded Games:\n\nSea Dash – Steer your ship between lighthouses, dodge deadly mines, and collect coins while the sea gets more dangerous with each run.\n\nNinja Run – Dash through enemy territory, leap over traps, collect shurikens, and defeat foes as the pace picks up.\n\nHop’n Dash – Jump between moving platforms, avoid falling, and grab coins as the speed ramps up in this quick-reflex challenge.\n\nSheep Shot – Launch normal sheep to safety while letting the blue sheep fall. One wrong move and it’s game over!\n\nFruit Pass – Rise higher and higher by tapping to stay afloat—only pass through berry walls that match your color!\n\nColor Cannon – Shoot the matching colored orb at the rotating target. Time it right or it’s game over!\n\n\nEach game is easy to learn but hard to master—perfect for short bursts of gameplay on your wrist or phone.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-arcade-games-vol-1/id6747948899?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "HamptonsTek LLC",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch Arcade Games Vol. 1",
       "description": "Play Six Action-Packed Games on Your iPhone or Apple Watch!\n\nGet ready for nonstop fun with this collection of fast-paced mini-games—designed for both your iPhone and Apple Watch. Whether you’re waiting in line or on the go, there’s always time for a quick dash, jump, or shot!\n\nIncluded Games:\n\nSea Dash – Steer your ship between lighthouses, dodge deadly mines, and collect coins while the sea gets more dangerous with each run.\n\nNinja Run – Dash through enemy territory, leap over traps, collect shurikens, and defeat foes as the pace picks up.\n\nHop’n Dash – Jump between moving platforms, avoid falling, and grab coins as the speed ramps up in this quick-reflex challenge.\n\nSheep Shot – Launch normal sheep to safety while letting the blue sheep fall. One wrong move and it’s game over!\n\nFruit Pass – Rise higher and higher by tapping to stay afloat—only pass through berry walls that match your color!\n\nColor Cannon – Shoot the matching colored orb at the rotating target. Time it right or it’s game over!\n\n\nEach game is easy to learn but hard to master—perfect for short bursts of gameplay on your wrist or phone.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-arcade-games-vol-1/id6747948899?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "HamptonsTek LLC",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "13831168",
+  "fileSizeBytes": "13923328",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.2",
   "version": "1.0",
@@ -230,10 +230,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-07-03T08:38:35Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:18:28.162Z",
+  "updatedAt": "2026-08-29T13:24:49.556Z",
   "isOwnApp": false
 }

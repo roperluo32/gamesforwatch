@@ -7,7 +7,7 @@
     "en": {
       "trackName": "#OX - TicTacToe Anywhere",
       "description": "#OX is a simple Tic Tac Toe game where you can play against the iPhone, another player, or another player on the Apple Watch paired to the iPhone.\n\nYou can now SharePlay with others on a FaceTime call or over Messages, in addition to playing with other players nearby!\n\nOn iPhone you can play against iPhone, another player or a player on the paired Apple Watch.\n\nOn Apple Watch you can play against the watch or play against a player on the paired iPhone.\n\nHand your iPhone to a friend, family member or kids and challenge them to a game from your Apple Watch, fun for the whole family!",
-      "releaseNotes": "Added new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
       "trackViewUrl": "https://apps.apple.com/us/app/ox-tictactoe-anywhere/id980275374?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Sam Wang",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "#OX - TicTacToe Anywhere",
       "description": "#OX is a simple Tic Tac Toe game where you can play against the iPhone, another player, or another player on the Apple Watch paired to the iPhone.\n\nYou can now SharePlay with others on a FaceTime call or over Messages, in addition to playing with other players nearby!\n\nOn iPhone you can play against iPhone, another player or a player on the paired Apple Watch.\n\nOn Apple Watch you can play against the watch or play against a player on the paired iPhone.\n\nHand your iPhone to a friend, family member or kids and challenge them to a game from your Apple Watch, fun for the whole family!",
-      "releaseNotes": "Added new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
       "trackViewUrl": "https://apps.apple.com/cn/app/ox-tictactoe-anywhere/id980275374?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Sam Wang",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "#OX - TicTacToe Anywhere",
       "description": "#OX is a simple Tic Tac Toe game where you can play against the iPhone, another player, or another player on the Apple Watch paired to the iPhone.\n\nYou can now SharePlay with others on a FaceTime call or over Messages, in addition to playing with other players nearby!\n\nOn iPhone you can play against iPhone, another player or a player on the paired Apple Watch.\n\nOn Apple Watch you can play against the watch or play against a player on the paired iPhone.\n\nHand your iPhone to a friend, family member or kids and challenge them to a game from your Apple Watch, fun for the whole family!",
-      "releaseNotes": "Added new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
       "trackViewUrl": "https://apps.apple.com/jp/app/ox-tictactoe-anywhere/id980275374?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Sam Wang",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "#OX - TicTacToe Anywhere",
       "description": "#OX is a simple Tic Tac Toe game where you can play against the iPhone, another player, or another player on the Apple Watch paired to the iPhone.\n\nYou can now SharePlay with others on a FaceTime call or over Messages, in addition to playing with other players nearby!\n\nOn iPhone you can play against iPhone, another player or a player on the paired Apple Watch.\n\nOn Apple Watch you can play against the watch or play against a player on the paired iPhone.\n\nHand your iPhone to a friend, family member or kids and challenge them to a game from your Apple Watch, fun for the whole family!",
-      "releaseNotes": "Added new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
       "trackViewUrl": "https://apps.apple.com/de/app/ox-tictactoe-anywhere/id980275374?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Sam Wang",
@@ -69,7 +69,7 @@
   "averageUserRating": 4.42135,
   "userRatingCount": 178,
   "price": 0,
-  "fileSizeBytes": "32057344",
+  "fileSizeBytes": "32135168",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "3.3",
@@ -309,10 +309,10 @@
     },
     {
       "version": "3.3",
-      "releaseNotes": "Added new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded new ability for user to choose which player to play as when playing against AI (i.e. X to go first, O to go second)",
       "seenAt": "2024-06-09T11:30:17Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:53:07.380Z",
+  "updatedAt": "2026-08-29T12:59:33.104Z",
   "isOwnApp": false
 }

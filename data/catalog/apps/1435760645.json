@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tap To Dash Bird - Do Not Flap",
       "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/us/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Tap To Dash Bird - Do Not Flap",
       "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/cn/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Tap To Dash Bird - Do Not Flap",
       "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/jp/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Tap To Dash Bird - Do Not Flap",
       "description": "Tap to dash through obstacles then collect coins, use them to unlock new characters. Choose from sparrow to helicopter, parrot to robotic bird... Good luck on your adventure!!!\n\nKey features:\n\n# Tap only control: simple to start with, a life time to master!\n# Unlock new birds, aircraft, dragons... and get FREE town bonus\n# Challenge the world and your friends!!!\n\nLet's play Tap to Dash, on Phone, Tablet or Watch",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/de/app/tap-to-dash-bird-do-not-flap/id1435760645?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 4.19355,
   "userRatingCount": 31,
   "price": 0,
-  "fileSizeBytes": "37497856",
+  "fileSizeBytes": "37571584",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "1.6.0",
@@ -387,10 +387,10 @@
     },
     {
       "version": "1.6.0",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "seenAt": "2024-01-05T13:22:06Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:43:26.647Z",
+  "updatedAt": "2026-08-29T12:50:36.513Z",
   "isOwnApp": false
 }

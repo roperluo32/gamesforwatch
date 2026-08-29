@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tiles Match Puzzle for Watch",
       "description": "Tiles Match game is now available on your Watch & Phone:\n    - Connect 2 matching tiles with up to three straight lines without crossing other tiles.\n    - 5 different game types.\n    - 1000+ levels.\n    - Unlock themes.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/tiles-match-puzzle-for-watch/id6511233311?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Tiles Match Puzzle for Watch",
       "description": "Tiles Match game is now available on your Watch & Phone:\n    - Connect 2 matching tiles with up to three straight lines without crossing other tiles.\n    - 5 different game types.\n    - 1000+ levels.\n    - Unlock themes.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/tiles-match-puzzle-for-watch/id6511233311?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Tiles Match Puzzle for Watch",
       "description": "Tiles Match game is now available on your Watch & Phone:\n    - Connect 2 matching tiles with up to three straight lines without crossing other tiles.\n    - 5 different game types.\n    - 1000+ levels.\n    - Unlock themes.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tiles-match-puzzle-for-watch/id6511233311?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nguyen Huy Diep",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Tiles Match Puzzle for Watch",
       "description": "Tiles Match game is now available on your Watch & Phone:\n    - Connect 2 matching tiles with up to three straight lines without crossing other tiles.\n    - 5 different game types.\n    - 1000+ levels.\n    - Unlock themes.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/tiles-match-puzzle-for-watch/id6511233311?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nguyen Huy Diep",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "81325056",
+  "fileSizeBytes": "81394688",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.7.5",
@@ -325,10 +325,10 @@
     },
     {
       "version": "1.7.5",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2025-08-08T18:31:12Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:40:42.160Z",
+  "updatedAt": "2026-08-29T12:47:26.737Z",
   "isOwnApp": false
 }

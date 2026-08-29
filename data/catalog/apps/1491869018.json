@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Chess for Watch & Phone",
       "description": "An excellent board logic game CHESS, now available on your Watch & Phone:\n - Play with AI (easy, medium, hard).\n - Play with Friends (versus mode).\n - Play on your Watch or Phone.\n\nTips: drag your finger to highlight locations.",
-      "releaseNotes": "* Update game balance.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Update game balance.",
       "trackViewUrl": "https://apps.apple.com/us/app/chess-for-watch-phone/id1491869018?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thi Thuy Diu Le",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Chess for Watch & Phone",
       "description": "An excellent board logic game CHESS, now available on your Watch & Phone:\n - Play with AI (easy, medium, hard).\n - Play with Friends (versus mode).\n - Play on your Watch or Phone.\n\nTips: drag your finger to highlight locations.",
-      "releaseNotes": "* Update game balance.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Update game balance.",
       "trackViewUrl": "https://apps.apple.com/jp/app/chess-for-watch-phone/id1491869018?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thi Thuy Diu Le",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Chess for Watch & Phone",
       "description": "An excellent board logic game CHESS, now available on your Watch & Phone:\n - Play with AI (easy, medium, hard).\n - Play with Friends (versus mode).\n - Play on your Watch or Phone.\n\nTips: drag your finger to highlight locations.",
-      "releaseNotes": "* Update game balance.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Update game balance.",
       "trackViewUrl": "https://apps.apple.com/de/app/chess-for-watch-phone/id1491869018?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thi Thuy Diu Le",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.33333,
   "userRatingCount": 3,
   "price": 0.99,
-  "fileSizeBytes": "19409920",
+  "fileSizeBytes": "19446784",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.5.0",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.5.0",
-      "releaseNotes": "* Update game balance.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Update game balance.",
       "seenAt": "2024-12-17T08:41:57Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:00:41.410Z",
+  "updatedAt": "2026-08-29T13:07:03.562Z",
   "isOwnApp": false
 }

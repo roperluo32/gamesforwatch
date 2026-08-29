@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Red Baron 1917",
       "description": "Take to the skies in World War One!\n\nPlay as the Red Baron, battling  waves of enemy planes as you fly over the war ridden landscape of Europe.\n \n- Retro arcade graphics\n- Cool music and sound effects\n- Playable on Apple Watch\n\nEnjoy,\nJohnno and Pete",
-      "releaseNotes": "Update for latest Apple Watch.\nIncrease Score size text to be easier to read.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for latest Apple Watch.\nIncrease Score size text to be easier to read.",
       "trackViewUrl": "https://apps.apple.com/us/app/red-baron-1917/id1469773031?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Red Baron 1917",
       "description": "Take to the skies in World War One!\n\nPlay as the Red Baron, battling  waves of enemy planes as you fly over the war ridden landscape of Europe.\n \n- Retro arcade graphics\n- Cool music and sound effects\n- Playable on Apple Watch\n\nEnjoy,\nJohnno and Pete",
-      "releaseNotes": "Update for latest Apple Watch.\nIncrease Score size text to be easier to read.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for latest Apple Watch.\nIncrease Score size text to be easier to read.",
       "trackViewUrl": "https://apps.apple.com/jp/app/red-baron-1917/id1469773031?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Red Baron 1917",
       "description": "Take to the skies in World War One!\n\nPlay as the Red Baron, battling  waves of enemy planes as you fly over the war ridden landscape of Europe.\n \n- Retro arcade graphics\n- Cool music and sound effects\n- Playable on Apple Watch\n\nEnjoy,\nJohnno and Pete",
-      "releaseNotes": "Update for latest Apple Watch.\nIncrease Score size text to be easier to read.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for latest Apple Watch.\nIncrease Score size text to be easier to read.",
       "trackViewUrl": "https://apps.apple.com/de/app/red-baron-1917/id1469773031?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -63,7 +63,7 @@
   "averageUserRating": 4,
   "userRatingCount": 12,
   "price": 1.99,
-  "fileSizeBytes": "45254656",
+  "fileSizeBytes": "45291520",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "2025.1",
@@ -287,10 +287,10 @@
     },
     {
       "version": "2025.1",
-      "releaseNotes": "Update for latest Apple Watch.\nIncrease Score size text to be easier to read.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for latest Apple Watch.\nIncrease Score size text to be easier to read.",
       "seenAt": "2025-03-30T13:02:41Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:46.333Z",
+  "updatedAt": "2026-08-29T13:01:46.216Z",
   "isOwnApp": false
 }

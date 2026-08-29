@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Vegas Pool Lite Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Lite Watch plays on the Apple Watch.\n\nThis free 'lite' version plays games up to 4 points. For full games and a shot undo feature please buy the full version, Vegas Pool Sharks Watch.",
-      "releaseNotes": "Apple Watch Ultra support",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nApple Watch Ultra support",
       "trackViewUrl": "https://apps.apple.com/us/app/vegas-pool-lite-watch/id1441420525?uo=4",
       "formattedPrice": "Free",
       "sellerName": "RESETgame",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Vegas Pool Lite Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Lite Watch plays on the Apple Watch.\n\nThis free 'lite' version plays games up to 4 points. For full games and a shot undo feature please buy the full version, Vegas Pool Sharks Watch.",
-      "releaseNotes": "Apple Watch Ultra support",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nApple Watch Ultra support",
       "trackViewUrl": "https://apps.apple.com/cn/app/vegas-pool-lite-watch/id1441420525?uo=4",
       "formattedPrice": "免费",
       "sellerName": "RESETgame",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Vegas Pool Lite Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Lite Watch plays on the Apple Watch.\n\nThis free 'lite' version plays games up to 4 points. For full games and a shot undo feature please buy the full version, Vegas Pool Sharks Watch.",
-      "releaseNotes": "Apple Watch Ultra support",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nApple Watch Ultra support",
       "trackViewUrl": "https://apps.apple.com/jp/app/vegas-pool-lite-watch/id1441420525?uo=4",
       "formattedPrice": "無料",
       "sellerName": "RESETgame",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Vegas Pool Lite Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Lite Watch plays on the Apple Watch.\n\nThis free 'lite' version plays games up to 4 points. For full games and a shot undo feature please buy the full version, Vegas Pool Sharks Watch.",
-      "releaseNotes": "Apple Watch Ultra support",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nApple Watch Ultra support",
       "trackViewUrl": "https://apps.apple.com/de/app/vegas-pool-lite-watch/id1441420525?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "RESETgame",
@@ -77,7 +77,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "4848640",
+  "fileSizeBytes": "4885504",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "12.0",
   "version": "2.1.17",
@@ -262,10 +262,10 @@
     },
     {
       "version": "2.1.17",
-      "releaseNotes": "Apple Watch Ultra support",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nApple Watch Ultra support",
       "seenAt": "2022-09-16T16:58:26Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:42:35.675Z",
+  "updatedAt": "2026-08-29T12:49:15.324Z",
   "isOwnApp": false
 }

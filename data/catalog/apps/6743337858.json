@@ -7,7 +7,7 @@
     "en": {
       "trackName": "hex_teroids (Watch)",
       "description": "\"Hex_teroids\" brings the classic asteroid arcade experience to Apple Watch! Navigate your spaceship through an asteroid field, rotate in six directions, and blast incoming threats with your laser. The more you destroy, the faster the game gets—how long can you survive?\n\nFeatures:\n+ Retro LCD-inspired design – a throwback to '80s handheld games.\n+ Minimalist graphics – supports both light and dark themes.\n+ Fast-paced gameplay – perfect for quick sessions.\n+ Classic arcade sounds – immerse yourself in the action.\n\nTest your reflexes and push for the highest score in Hex_teroids!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/hex-teroids-watch/id6743337858?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Ivan Uspenskiy",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "hex_teroids (Watch)",
       "description": "\"Hex_teroids\" brings the classic asteroid arcade experience to Apple Watch! Navigate your spaceship through an asteroid field, rotate in six directions, and blast incoming threats with your laser. The more you destroy, the faster the game gets—how long can you survive?\n\nFeatures:\n+ Retro LCD-inspired design – a throwback to '80s handheld games.\n+ Minimalist graphics – supports both light and dark themes.\n+ Fast-paced gameplay – perfect for quick sessions.\n+ Classic arcade sounds – immerse yourself in the action.\n\nTest your reflexes and push for the highest score in Hex_teroids!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/hex-teroids-watch/id6743337858?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Ivan Uspenskiy",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "hex_teroids (Watch)",
       "description": "\"Hex_teroids\" brings the classic asteroid arcade experience to Apple Watch! Navigate your spaceship through an asteroid field, rotate in six directions, and blast incoming threats with your laser. The more you destroy, the faster the game gets—how long can you survive?\n\nFeatures:\n+ Retro LCD-inspired design – a throwback to '80s handheld games.\n+ Minimalist graphics – supports both light and dark themes.\n+ Fast-paced gameplay – perfect for quick sessions.\n+ Classic arcade sounds – immerse yourself in the action.\n\nTest your reflexes and push for the highest score in Hex_teroids!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/hex-teroids-watch/id6743337858?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Ivan Uspenskiy",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "hex_teroids (Watch)",
       "description": "\"Hex_teroids\" brings the classic asteroid arcade experience to Apple Watch! Navigate your spaceship through an asteroid field, rotate in six directions, and blast incoming threats with your laser. The more you destroy, the faster the game gets—how long can you survive?\n\nFeatures:\n+ Retro LCD-inspired design – a throwback to '80s handheld games.\n+ Minimalist graphics – supports both light and dark themes.\n+ Fast-paced gameplay – perfect for quick sessions.\n+ Classic arcade sounds – immerse yourself in the action.\n\nTest your reflexes and push for the highest score in Hex_teroids!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/hex-teroids-watch/id6743337858?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Ivan Uspenskiy",
@@ -69,7 +69,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "4721664",
+  "fileSizeBytes": "4733952",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.03",
@@ -219,10 +219,10 @@
   "versionHistory": [
     {
       "version": "1.03",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-03-28T12:57:32Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:01:51.808Z",
+  "updatedAt": "2026-08-29T13:10:06.610Z",
   "isOwnApp": false
 }

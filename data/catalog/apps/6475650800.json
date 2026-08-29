@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Maze For Watch",
       "description": "Play the maze game now on Apple Watch.\n\nTilt the watch to move the orange ball from upper left of the maze to the lower right of the maze.\n\nBeat your last completion time. Three levels of game difficulties.\n\nTo avoid the watch from falling asleep during the game, enable the Always On setting on the Apple Watch.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/maze-for-watch/id6475650800?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "HamptonsTek LLC",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Maze For Watch",
       "description": "Play the maze game now on Apple Watch.\n\nTilt the watch to move the orange ball from upper left of the maze to the lower right of the maze.\n\nBeat your last completion time. Three levels of game difficulties.\n\nTo avoid the watch from falling asleep during the game, enable the Always On setting on the Apple Watch.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/maze-for-watch/id6475650800?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "HamptonsTek LLC",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Maze For Watch",
       "description": "Play the maze game now on Apple Watch.\n\nTilt the watch to move the orange ball from upper left of the maze to the lower right of the maze.\n\nBeat your last completion time. Three levels of game difficulties.\n\nTo avoid the watch from falling asleep during the game, enable the Always On setting on the Apple Watch.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/maze-for-watch/id6475650800?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "HamptonsTek LLC",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "1387520",
+  "fileSizeBytes": "1416192",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
   "version": "1.0",
@@ -216,10 +216,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-01-08T09:49:04Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:20:22.262Z",
+  "updatedAt": "2026-08-29T13:26:20.836Z",
   "isOwnApp": false
 }

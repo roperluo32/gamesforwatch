@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Brick Breaker: Watch Arcade",
       "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Brick Breaker: Watch Arcade",
       "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Brick Breaker: Watch Arcade",
       "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3697664",
+  "fileSizeBytes": "3709952",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -221,10 +221,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-20T20:12:17Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:18:40.115Z",
+  "updatedAt": "2026-08-29T13:25:01.245Z",
   "isOwnApp": false
 }

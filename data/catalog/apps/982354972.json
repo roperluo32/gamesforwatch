@@ -323,7 +323,7 @@
     },
     {
       "version": "1.10.1",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nWe've updated Taylor's IEVA suit to show the right set of available languages.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe've updated Taylor's IEVA suit to show the right set of available languages.",
       "seenAt": "2016-05-19T23:20:05Z"
     },
     {
@@ -342,6 +342,6 @@
       "seenAt": "2022-06-13T23:20:38Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:56:33.093Z",
+  "updatedAt": "2026-08-29T12:43:54.989Z",
   "isOwnApp": false
 }

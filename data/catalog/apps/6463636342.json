@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Partywheel - Quick Party Games",
       "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "A complete makeover, have fun!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
       "trackViewUrl": "https://apps.apple.com/us/app/partywheel-quick-party-games/id6463636342?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Johannes Bauer",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Partywheel - Quick Party Games",
       "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "A complete makeover, have fun!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
       "trackViewUrl": "https://apps.apple.com/jp/app/partywheel-quick-party-games/id6463636342?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Johannes Bauer",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Partywheel - Quick Party Games",
       "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "A complete makeover, have fun!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
       "trackViewUrl": "https://apps.apple.com/de/app/partywheel-quick-party-games/id6463636342?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Johannes Bauer",
@@ -60,7 +60,7 @@
   "averageUserRating": 4.33333,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "6699008",
+  "fileSizeBytes": "6776832",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "17.0",
   "version": "1.4",
@@ -244,10 +244,10 @@
     },
     {
       "version": "1.4",
-      "releaseNotes": "A complete makeover, have fun!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
       "seenAt": "2024-04-17T10:04:31Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:04:11.165Z",
+  "updatedAt": "2026-08-29T13:09:48.983Z",
   "isOwnApp": false
 }

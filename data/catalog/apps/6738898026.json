@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Swipe Quest - Bubble Pop Rush",
       "description": "A fast-paced game, play on both Watch & Phone:\n   - Swipe to break colorful chains, race against the clock.\n   - Dynamic themes and challenges, every second counts.\n\nCan you complete the final chain in time?",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/swipe-quest-bubble-pop-rush/id6738898026?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Swipe Quest - Bubble Pop Rush",
       "description": "A fast-paced game, play on both Watch & Phone:\n   - Swipe to break colorful chains, race against the clock.\n   - Dynamic themes and challenges, every second counts.\n\nCan you complete the final chain in time?",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/swipe-quest-bubble-pop-rush/id6738898026?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Swipe Quest - Bubble Pop Rush",
       "description": "A fast-paced game, play on both Watch & Phone:\n   - Swipe to break colorful chains, race against the clock.\n   - Dynamic themes and challenges, every second counts.\n\nCan you complete the final chain in time?",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/swipe-quest-bubble-pop-rush/id6738898026?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Swipe Quest - Bubble Pop Rush",
       "description": "A fast-paced game, play on both Watch & Phone:\n   - Swipe to break colorful chains, race against the clock.\n   - Dynamic themes and challenges, every second counts.\n\nCan you complete the final chain in time?",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/swipe-quest-bubble-pop-rush/id6738898026?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "65903616",
+  "fileSizeBytes": "65973248",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.1.2",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.1.2",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2024-12-11T11:03:50Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:52:57.613Z",
+  "updatedAt": "2026-08-29T12:59:23.587Z",
   "isOwnApp": false
 }

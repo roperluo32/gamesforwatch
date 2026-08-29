@@ -7,7 +7,7 @@
     "en": {
       "trackName": "2048手錶限定",
       "description": "這是一個 Apple Watch 的2048遊戲，用樸素的畫面和生動的動畫讓整個遊戲有著療癒的輕鬆感，非常適合用來當作方便的打發遊戲--只要抬起手錶，就可以體驗有趣小遊戲！",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App，以為 watchOS 27 相容性作準備。這次更新不包含新功能。",
       "trackViewUrl": "https://apps.apple.com/us/app/2048%E6%89%8B%E9%8C%B6%E9%99%90%E5%AE%9A/id6747889371?uo=4",
       "formattedPrice": "Free",
       "sellerName": "YuChia Liu",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "2048手錶限定",
       "description": "這是一個 Apple Watch 的2048遊戲，用樸素的畫面和生動的動畫讓整個遊戲有著療癒的輕鬆感，非常適合用來當作方便的打發遊戲--只要抬起手錶，就可以體驗有趣小遊戲！",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App，以為 watchOS 27 相容性作準備。這次更新不包含新功能。",
       "trackViewUrl": "https://apps.apple.com/cn/app/2048%E6%89%8B%E9%8C%B6%E9%99%90%E5%AE%9A/id6747889371?uo=4",
       "formattedPrice": "免费",
       "sellerName": "YuChia Liu",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "2048手錶限定",
       "description": "這是一個 Apple Watch 的2048遊戲，用樸素的畫面和生動的動畫讓整個遊戲有著療癒的輕鬆感，非常適合用來當作方便的打發遊戲--只要抬起手錶，就可以體驗有趣小遊戲！",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App，以為 watchOS 27 相容性作準備。這次更新不包含新功能。",
       "trackViewUrl": "https://apps.apple.com/jp/app/2048%E6%89%8B%E9%8C%B6%E9%99%90%E5%AE%9A/id6747889371?uo=4",
       "formattedPrice": "無料",
       "sellerName": "YuChia Liu",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "2048手錶限定",
       "description": "這是一個 Apple Watch 的2048遊戲，用樸素的畫面和生動的動畫讓整個遊戲有著療癒的輕鬆感，非常適合用來當作方便的打發遊戲--只要抬起手錶，就可以體驗有趣小遊戲！",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App，以為 watchOS 27 相容性作準備。這次更新不包含新功能。",
       "trackViewUrl": "https://apps.apple.com/de/app/2048%E6%89%8B%E9%8C%B6%E9%99%90%E5%AE%9A/id6747889371?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "YuChia Liu",
@@ -69,7 +69,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2112512",
+  "fileSizeBytes": "2124800",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -220,10 +220,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "Apple 已更新此 App，以為 watchOS 27 相容性作準備。這次更新不包含新功能。",
       "seenAt": "2025-07-20T16:09:01Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:18:24.057Z",
+  "updatedAt": "2026-08-29T13:24:45.610Z",
   "isOwnApp": false
 }

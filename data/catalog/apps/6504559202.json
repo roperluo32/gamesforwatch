@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Dino Watch",
       "description": "Are you bored at school, on the bus or somewhere where you can't use your phone? So play our Dino right on your wrist! If you like the old classic called Dino, you've come to the right place! Dino will help you to occupy yourself in moments when you can't use your mobile phone so that you don't get bored.\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/dino-watch/id6504559202?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jakub Drozd",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Dino Watch",
       "description": "Are you bored at school, on the bus or somewhere where you can't use your phone? So play our Dino right on your wrist! If you like the old classic called Dino, you've come to the right place! Dino will help you to occupy yourself in moments when you can't use your mobile phone so that you don't get bored.\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/dino-watch/id6504559202?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Jakub Drozd",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Dino Watch",
       "description": "Are you bored at school, on the bus or somewhere where you can't use your phone? So play our Dino right on your wrist! If you like the old classic called Dino, you've come to the right place! Dino will help you to occupy yourself in moments when you can't use your mobile phone so that you don't get bored.\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/dino-watch/id6504559202?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jakub Drozd",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Dino Watch",
       "description": "Are you bored at school, on the bus or somewhere where you can't use your phone? So play our Dino right on your wrist! If you like the old classic called Dino, you've come to the right place! Dino will help you to occupy yourself in moments when you can't use your mobile phone so that you don't get bored.\n\nIf you have any questions, please contact us:\n\n• Our Email: support@jakub-developing.info\n\n• Our Discord: https://discord.gg/magic-universe",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/dino-watch/id6504559202?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jakub Drozd",
@@ -73,7 +73,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "613376",
+  "fileSizeBytes": "625664",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
   "version": "1.0",
@@ -225,10 +225,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-10-01T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:54:44.844Z",
+  "updatedAt": "2026-08-29T13:01:09.314Z",
   "isOwnApp": false
 }

@@ -254,7 +254,7 @@
     },
     {
       "version": "2.1.0",
-      "releaseNotes": "We built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe built the phone version of Arctic Mission! We hope you enjoy it as much as the original. The two apps are syncing progress so you can continue where you left off.",
       "seenAt": "2024-11-12T09:49:41Z"
     },
     {
@@ -263,6 +263,6 @@
       "seenAt": "2026-08-27T19:09:10Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:53:52.087Z",
+  "updatedAt": "2026-08-29T13:00:17.958Z",
   "isOwnApp": false
 }

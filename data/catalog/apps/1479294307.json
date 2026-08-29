@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Jellyfish Tap - Watch Game",
       "description": "Simple. Beautiful Colors. A Jellyfish. Let's Tap & Jump!\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked\n2- Apple Watch must be within range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press send from Apple Watch, a screen with the score ready to send to the leaderboard will appear on the iPhone.\n\nYou can already know who have the best score from the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Fixed bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Fixed bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/jellyfish-tap-watch-game/id1479294307?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Jellyfish Tap - Watch Game",
       "description": "Simple. Beautiful Colors. A Jellyfish. Let's Tap & Jump!\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked\n2- Apple Watch must be within range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press send from Apple Watch, a screen with the score ready to send to the leaderboard will appear on the iPhone.\n\nYou can already know who have the best score from the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Fixed bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Fixed bugs",
       "trackViewUrl": "https://apps.apple.com/jp/app/jellyfish-tap-watch-game/id1479294307?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Jellyfish Tap - Watch Game",
       "description": "Simple. Beautiful Colors. A Jellyfish. Let's Tap & Jump!\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked\n2- Apple Watch must be within range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press send from Apple Watch, a screen with the score ready to send to the leaderboard will appear on the iPhone.\n\nYou can already know who have the best score from the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Fixed bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Fixed bugs",
       "trackViewUrl": "https://apps.apple.com/de/app/jellyfish-tap-watch-game/id1479294307?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 3.975,
   "userRatingCount": 40,
   "price": 0,
-  "fileSizeBytes": "16863232",
+  "fileSizeBytes": "17002496",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "2.1.4",
@@ -313,10 +313,10 @@
     },
     {
       "version": "2.1.4",
-      "releaseNotes": "- Updated dependencies\n- Fixed bugs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Fixed bugs",
       "seenAt": "2023-12-14T14:58:04Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:36:01.166Z",
+  "updatedAt": "2026-08-29T12:42:44.278Z",
   "isOwnApp": false
 }

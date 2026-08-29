@@ -7,7 +7,7 @@
     "en": {
       "trackName": "8 Classic Games: Watch & Phone",
       "description": "A pack of 8 classic games for you to enjoy on your Apple Watch or Apple TV or your iPhone/iPad:\n\n◉ Block Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.\n\n◉ Maze Man\nSwipe to change direction, collect all things on the map but don't touch the ghost!\n\n◉ Line Puzzle\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Break Out\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Tappy Bird\nTap the screen to fly up. Avoid the pipes and get the highscore.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.\n\n=> On Apple Watch please use force touch to show game menu.\n\nWish you enjoy all! Thanks for all your feedback.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/us/app/8-classic-games-watch-phone/id1206212048?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "8 Classic Games: Watch & Phone",
       "description": "A pack of 8 classic games for you to enjoy on your Apple Watch or Apple TV or your iPhone/iPad:\n\n◉ Block Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.\n\n◉ Maze Man\nSwipe to change direction, collect all things on the map but don't touch the ghost!\n\n◉ Line Puzzle\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Break Out\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Tappy Bird\nTap the screen to fly up. Avoid the pipes and get the highscore.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.\n\n=> On Apple Watch please use force touch to show game menu.\n\nWish you enjoy all! Thanks for all your feedback.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/jp/app/8-classic-games-watch-phone/id1206212048?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "8 Classic Games: Watch & Phone",
       "description": "A pack of 8 classic games for you to enjoy on your Apple Watch or Apple TV or your iPhone/iPad:\n\n◉ Block Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.\n\n◉ Maze Man\nSwipe to change direction, collect all things on the map but don't touch the ghost!\n\n◉ Line Puzzle\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Break Out\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Tappy Bird\nTap the screen to fly up. Avoid the pipes and get the highscore.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.\n\n=> On Apple Watch please use force touch to show game menu.\n\nWish you enjoy all! Thanks for all your feedback.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/de/app/8-classic-games-watch-phone/id1206212048?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Nguyen Huy Diep",
@@ -63,7 +63,7 @@
   "averageUserRating": 1,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "22033408",
+  "fileSizeBytes": "22062080",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "3.0.0",
@@ -283,10 +283,10 @@
     },
     {
       "version": "3.0.0",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "seenAt": "2023-11-21T11:57:19Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:10:39.285Z",
+  "updatedAt": "2026-08-29T13:17:19.193Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Math Puzzle for Watch & Phone",
       "description": "An excellent math game, now available on your Watch & Phone:\n- 3 mode (easy, medium, hard).\n- Fun with Friends or Family.\n- Play on your Watch or Phone.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/math-puzzle-for-watch-phone/id1564850057?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Math Puzzle for Watch & Phone",
       "description": "An excellent math game, now available on your Watch & Phone:\n- 3 mode (easy, medium, hard).\n- Fun with Friends or Family.\n- Play on your Watch or Phone.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/math-puzzle-for-watch-phone/id1564850057?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Math Puzzle for Watch & Phone",
       "description": "An excellent math game, now available on your Watch & Phone:\n- 3 mode (easy, medium, hard).\n- Fun with Friends or Family.\n- Play on your Watch or Phone.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/math-puzzle-for-watch-phone/id1564850057?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Math Puzzle for Watch & Phone",
       "description": "An excellent math game, now available on your Watch & Phone:\n- 3 mode (easy, medium, hard).\n- Fun with Friends or Family.\n- Play on your Watch or Phone.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/math-puzzle-for-watch-phone/id1564850057?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "40719360",
+  "fileSizeBytes": "40784896",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.2.1",
@@ -285,10 +285,10 @@
     },
     {
       "version": "1.2.1",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2025-05-15T19:19:17Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:46:58.983Z",
+  "updatedAt": "2026-08-29T12:48:17.921Z",
   "isOwnApp": false
 }

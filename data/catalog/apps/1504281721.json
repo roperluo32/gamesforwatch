@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Impossible Basket - Watch Game",
       "description": "To play on Apple Watch, Roll the \"Digital Crown\" wheel to indicate direction. Tap the screen to launch. Dunk!\n\nTo play on iPhone and iPad, Slide to select force and direction, release to throw. Make a basket!\n\nEvery time you hit, it's harder to make a basket. 3 attempts. \n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/impossible-basket-watch-game/id1504281721?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Impossible Basket - Watch Game",
       "description": "To play on Apple Watch, Roll the \"Digital Crown\" wheel to indicate direction. Tap the screen to launch. Dunk!\n\nTo play on iPhone and iPad, Slide to select force and direction, release to throw. Make a basket!\n\nEvery time you hit, it's harder to make a basket. 3 attempts. \n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/impossible-basket-watch-game/id1504281721?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Impossible Basket - Watch Game",
       "description": "To play on Apple Watch, Roll the \"Digital Crown\" wheel to indicate direction. Tap the screen to launch. Dunk!\n\nTo play on iPhone and iPad, Slide to select force and direction, release to throw. Make a basket!\n\nEvery time you hit, it's harder to make a basket. 3 attempts. \n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/impossible-basket-watch-game/id1504281721?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0.99,
-  "fileSizeBytes": "13658112",
+  "fileSizeBytes": "13686784",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.3.3",
@@ -293,10 +293,10 @@
     },
     {
       "version": "1.3.3",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-01-30T16:43:00Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:37:09.591Z",
+  "updatedAt": "2026-08-29T12:43:58.856Z",
   "isOwnApp": false
 }

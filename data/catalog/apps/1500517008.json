@@ -7,7 +7,7 @@
     "en": {
       "trackName": "6 Classic Arcade Watch Games",
       "description": "A pack of 6 classic arcade games for you to enjoy on your Apple Watch, or your iPhone/iPad.\n\n◉ Galaxy\nShoot the aliens - defend your galaxy.\n\n◉ Whack Mole\nUse the hammer to strike a mole.\n\n◉ City Drift\nDrift car in a city, how far you can go.\n\n◉ Move The Box\nMove all box to the green pot.\n\n◉ Match Pair\nMatch all pair before timeout.\n\n◉ Rock Paper Scissors\nFind your best strategy to win 2 other computers.",
-      "releaseNotes": "* Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/6-classic-arcade-watch-games/id1500517008?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thi Thuy Diu Le",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "6 Classic Arcade Watch Games",
       "description": "A pack of 6 classic arcade games for you to enjoy on your Apple Watch, or your iPhone/iPad.\n\n◉ Galaxy\nShoot the aliens - defend your galaxy.\n\n◉ Whack Mole\nUse the hammer to strike a mole.\n\n◉ City Drift\nDrift car in a city, how far you can go.\n\n◉ Move The Box\nMove all box to the green pot.\n\n◉ Match Pair\nMatch all pair before timeout.\n\n◉ Rock Paper Scissors\nFind your best strategy to win 2 other computers.",
-      "releaseNotes": "* Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/6-classic-arcade-watch-games/id1500517008?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thi Thuy Diu Le",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "6 Classic Arcade Watch Games",
       "description": "A pack of 6 classic arcade games for you to enjoy on your Apple Watch, or your iPhone/iPad.\n\n◉ Galaxy\nShoot the aliens - defend your galaxy.\n\n◉ Whack Mole\nUse the hammer to strike a mole.\n\n◉ City Drift\nDrift car in a city, how far you can go.\n\n◉ Move The Box\nMove all box to the green pot.\n\n◉ Match Pair\nMatch all pair before timeout.\n\n◉ Rock Paper Scissors\nFind your best strategy to win 2 other computers.",
-      "releaseNotes": "* Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/6-classic-arcade-watch-games/id1500517008?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thi Thuy Diu Le",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "22209536",
+  "fileSizeBytes": "22238208",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "10.0",
   "version": "1.1.1",
@@ -271,10 +271,10 @@
     },
     {
       "version": "1.1.1",
-      "releaseNotes": "* Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Optimized for new OS.",
       "seenAt": "2024-12-18T03:22:05Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:00:45.421Z",
+  "updatedAt": "2026-08-29T13:07:07.470Z",
   "isOwnApp": false
 }

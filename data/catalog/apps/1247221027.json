@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pack 1",
       "description": "A pack of 6 mini games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Jewel Blitz\nA match 3 game style. Detonate as many gems as you can in 60s.\n\n◉ Power 2\nCombine numbers for 2048.\n\n◉ Sudoku (6x6)\nFill in all the empty squares without using the same number twice in each column, row, or box.\n\n◉ Find Word\nWith 4 letters, you have 10s to find a word. If time runs out, you lose.\n\n◉ Color Lines\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.",
-      "releaseNotes": "- Optimized for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new os.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pack-1/id1247221027?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch Games Pack 1",
       "description": "A pack of 6 mini games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Jewel Blitz\nA match 3 game style. Detonate as many gems as you can in 60s.\n\n◉ Power 2\nCombine numbers for 2048.\n\n◉ Sudoku (6x6)\nFill in all the empty squares without using the same number twice in each column, row, or box.\n\n◉ Find Word\nWith 4 letters, you have 10s to find a word. If time runs out, you lose.\n\n◉ Color Lines\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.",
-      "releaseNotes": "- Optimized for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new os.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games-pack-1/id1247221027?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch Games Pack 1",
       "description": "A pack of 6 mini games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Jewel Blitz\nA match 3 game style. Detonate as many gems as you can in 60s.\n\n◉ Power 2\nCombine numbers for 2048.\n\n◉ Sudoku (6x6)\nFill in all the empty squares without using the same number twice in each column, row, or box.\n\n◉ Find Word\nWith 4 letters, you have 10s to find a word. If time runs out, you lose.\n\n◉ Color Lines\nRemove balls by forming lines (horizontal, vertical or diagonal) of at least five balls of the same color. Get the highscore!\n\n◉ Tic-Tac-Toe\nChallenge your brain with the AI.",
-      "releaseNotes": "- Optimized for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new os.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games-pack-1/id1247221027?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Nguyen Huy Diep",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "20759552",
+  "fileSizeBytes": "20784128",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "10.0",
   "version": "3.0.0",
@@ -263,10 +263,10 @@
     },
     {
       "version": "3.0.0",
-      "releaseNotes": "- Optimized for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new os.",
       "seenAt": "2023-12-22T21:06:57Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:11:14.297Z",
+  "updatedAt": "2026-08-29T13:17:54.576Z",
   "isOwnApp": false
 }

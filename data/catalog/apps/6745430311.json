@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Word Search Puzzle For Watch",
       "description": "Note：This game is only available for watchOS.\n\nWord Search Puzzle Explorer – Embark on a thrilling Watch adventure where word discovery meets endless fun!\n\nDive into a world of brain-teasing puzzles designed to make learning new words effortless and entertaining. Swipe through hundreds of themed letter grids, connecting letters to form words, and watch your vocabulary—and confidence—grow with every challenge!\n\nEach solved puzzle brings you closer to exciting new destinations! Traverse stunning landscapes as you train your mind to become a word-search champion, all while enjoying the simplicity of intuitive touch controls.\n\nDon’t miss out—join thousands of players worldwide and start your word-search journey today!\n\nUncover hidden words related to unique themes by swiping across the letter grid. As you progress, puzzles grow trickier, rewarding sharp eyes and expanding knowledge!\nFEATURES\n\t•\tHELPFUL HINTS: Stuck? Use hints to navigate challenging puzzles with ease.\n\t•\tPLAY ANYWHERE: Enjoy offline, anytime—no internet needed!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/word-search-puzzle-for-watch/id6745430311?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "柳 宋",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Word Search Puzzle For Watch",
       "description": "Word Search Puzzle Explorer\n– ワードを見つける楽しさと果てしない愉快さが融合したスリリングなワードサーチ冒険に出発しましょう！\n\n新しい言葉を学ぶことが簡単かつ楽しい、脳を刺激するパズルの世界に浸りましょう。数百のテーマ別文字グリッドをスワイプし、文字を繋いでワードを作るうちに、問題ごとに語彙力と自信が育っていきます！\n\nパズルを解くたびに、刺激的な新たな目的地へと近づきます！美しい風景を移動しながら、ワードサーチチャンピオンになるため脳を鍛え、直感的なタッチ操作の簡便さを楽しみながら！\n\n世界中の数千人のプレイヤーと一緒に、今日すぐあなたのワードサーチの旅を始めましょう！決して逃してはいけません！\n\n文字グリッドをスワイプして、ユニークなテーマに関連する隠されたワードを発見しましょう。進むにつれてパズルはより難しくなり、鋭い視覚と広がる知識を報われます！\n\n機能\n• ヘルプヒント: 詰まったら？ ヒントを使って難しいパズルを簡単に進められます。\n• どこでもプレイ: インターネット不要！ オフラインでいつでも楽しめます！",
-      "releaseNotes": "",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/word-search-puzzle-for-watch/id6745430311?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "柳 宋",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Word Search Puzzle For Watch",
       "description": "Note：This game is only available for watchOS.\n\nWord Search Puzzle Explorer – Embark on a thrilling Watch adventure where word discovery meets endless fun!\n\nDive into a world of brain-teasing puzzles designed to make learning new words effortless and entertaining. Swipe through hundreds of themed letter grids, connecting letters to form words, and watch your vocabulary—and confidence—grow with every challenge!\n\nEach solved puzzle brings you closer to exciting new destinations! Traverse stunning landscapes as you train your mind to become a word-search champion, all while enjoying the simplicity of intuitive touch controls.\n\nDon’t miss out—join thousands of players worldwide and start your word-search journey today!\n\nUncover hidden words related to unique themes by swiping across the letter grid. As you progress, puzzles grow trickier, rewarding sharp eyes and expanding knowledge!\nFEATURES\n\t•\tHELPFUL HINTS: Stuck? Use hints to navigate challenging puzzles with ease.\n\t•\tPLAY ANYWHERE: Enjoy offline, anytime—no internet needed!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/word-search-puzzle-for-watch/id6745430311?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "柳 宋",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "16228352",
+  "fileSizeBytes": "16248832",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -211,10 +211,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-10T11:53:55Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:41:20.522Z",
+  "updatedAt": "2026-08-29T12:47:55.979Z",
   "isOwnApp": false
 }

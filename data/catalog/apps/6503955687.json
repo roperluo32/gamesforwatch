@@ -7,7 +7,7 @@
     "en": {
       "trackName": "BrainSwift",
       "description": "BrainSwift is a small game to practice your mental agility with mathematics! Solve small mathematical calculations and choose between 2 possible results until you simply lose! What will be your record in BrainSwift?",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/brainswift/id6503955687?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Alvaro Lopez",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "BrainSwift",
       "description": "BrainSwift es un pequeño juego para practicar tu agilidad mental con las matemáticas! Resuelve pequeños cálculos matemáticos y elige entre 2 posibles resultados hasta que pierdas sin mas! Cual sera tu record en BrainSwift?",
-      "releaseNotes": "",
+      "releaseNotes": "Apple ha actualizado esta app para que sea compatible con watchOS 27. No se incluyen nuevas prestaciones.",
       "trackViewUrl": "https://apps.apple.com/cn/app/brainswift/id6503955687?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Alvaro Lopez",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "BrainSwift",
       "description": "BrainSwift es un pequeño juego para practicar tu agilidad mental con las matemáticas! Resuelve pequeños cálculos matemáticos y elige entre 2 posibles resultados hasta que pierdas sin mas! Cual sera tu record en BrainSwift?",
-      "releaseNotes": "",
+      "releaseNotes": "Apple ha actualizado esta app para que sea compatible con watchOS 27. No se incluyen nuevas prestaciones.",
       "trackViewUrl": "https://apps.apple.com/jp/app/brainswift/id6503955687?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Alvaro Lopez",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "BrainSwift",
       "description": "BrainSwift es un pequeño juego para practicar tu agilidad mental con las matemáticas! Resuelve pequeños cálculos matemáticos y elige entre 2 posibles resultados hasta que pierdas sin mas! Cual sera tu record en BrainSwift?",
-      "releaseNotes": "",
+      "releaseNotes": "Apple ha actualizado esta app para que sea compatible con watchOS 27. No se incluyen nuevas prestaciones.",
       "trackViewUrl": "https://apps.apple.com/de/app/brainswift/id6503955687?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Alvaro Lopez",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "567296",
+  "fileSizeBytes": "579584",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -232,10 +232,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-07-18T07:19:11Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:08:06.786Z",
+  "updatedAt": "2026-08-29T13:13:45.614Z",
   "isOwnApp": false
 }

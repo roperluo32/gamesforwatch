@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Stickman Ski - winter sports",
       "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
-      "releaseNotes": "A new Hollow character.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA new Hollow character.",
       "trackViewUrl": "https://apps.apple.com/us/app/stickman-ski-winter-sports/id1435870735?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Stickman Ski - winter sports",
       "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
-      "releaseNotes": "A new Hollow character.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA new Hollow character.",
       "trackViewUrl": "https://apps.apple.com/jp/app/stickman-ski-winter-sports/id1435870735?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Stickman Ski - winter sports",
       "description": "Since the early days of the Snow Mountain, Stickmans and Yetis all love skiing...\nBut in this new competition, there can only be one SKIING KING of the land, could it be you? Try this zen-like Skiing game NOW\n...\n* Play by one finger\n* Tap to change direction\n* Pass pine trees to get golds\n* Use gold to unlock new Skiers\n\nGET the game, BEAT the Yeti !!!",
-      "releaseNotes": "A new Hollow character.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA new Hollow character.",
       "trackViewUrl": "https://apps.apple.com/de/app/stickman-ski-winter-sports/id1435870735?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 3.72727,
   "userRatingCount": 22,
   "price": 0,
-  "fileSizeBytes": "71480320",
+  "fileSizeBytes": "71631872",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "2.7",
@@ -329,10 +329,10 @@
     },
     {
       "version": "2.7",
-      "releaseNotes": "A new Hollow character.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA new Hollow character.",
       "seenAt": "2024-10-31T23:31:36Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:57:29.337Z",
+  "updatedAt": "2026-08-29T13:03:54.064Z",
   "isOwnApp": false
 }

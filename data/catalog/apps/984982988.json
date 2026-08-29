@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Checkers for Apple Watch",
       "description": "We present you classic Checkers game that you can play not only on your iPad/iPhone, but also on your new Apple Watch!\n\nThe game plays according to American Checkers / English Draughts / German Dame rules.\n\nEnjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
       "trackViewUrl": "https://apps.apple.com/us/app/checkers-for-apple-watch/id984982988?uo=4",
       "formattedPrice": "Free",
       "sellerName": "UAB Target Works",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Checkers for Apple Watch",
       "description": "We present you classic Checkers game that you can play not only on your iPad/iPhone, but also on your new Apple Watch!\n\nThe game plays according to American Checkers / English Draughts / German Dame rules.\n\nEnjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
       "trackViewUrl": "https://apps.apple.com/jp/app/checkers-for-apple-watch/id984982988?uo=4",
       "formattedPrice": "無料",
       "sellerName": "UAB Target Works",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Checkers for Apple Watch",
       "description": "We present you classic Checkers/Draughts game that you can play not only on your iPad/iPhone, but also on your new Apple Watch!\n\nThe game plays according to German Dame / American Checkers / English Draughts rules.\n\nEnjoy!",
-      "releaseNotes": "Dieses Update von Apple wird die Funktionalität der App verbessern. Es enthält keine neuen Features.\n\n* Enhanced for iOS 10 & watchOS 2/3",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\n* Enhanced for iOS 10 & watchOS 2/3",
       "trackViewUrl": "https://apps.apple.com/de/app/checkers-for-apple-watch/id984982988?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "UAB Target Works",
@@ -306,10 +306,10 @@
     },
     {
       "version": "2.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10 & watchOS 2/3",
       "seenAt": "2016-10-04T17:59:21Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:23:18.041Z",
+  "updatedAt": "2026-08-29T13:29:12.253Z",
   "isOwnApp": false
 }

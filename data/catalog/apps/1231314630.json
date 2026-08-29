@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cow Jump: The steaks are high",
       "description": "Moooooooooooo!\n\nThe steaks are high in Cow Jump as you guide Holstein the Cow on a jumping journey ever upwards towards the moon. Use the tilt controls on the Phone and Watch to move left and right. Jump from cloud to cloud to gain more height and points. Shoot the baddies with balls of green cud along the way.\n\nFEATURES:\n- Tilt controls on the Watch!\n- Jump over the moon for bonus points!\n- Jump on monsters to bring them down\n- Global leaderboard for Watch and Phone!\n\nHow to play:\nTilt to move left or right and tap the screen to shoot the baddie bats.",
-      "releaseNotes": "bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nbug fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/cow-jump-the-steaks-are-high/id1231314630?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Abel Alho",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Cow Jump: The steaks are high",
       "description": "Moooooooooooo!\n\nThe steaks are high in Cow Jump as you guide Holstein the Cow on a jumping journey ever upwards towards the moon. Use the tilt controls on the Phone and Watch to move left and right. Jump from cloud to cloud to gain more height and points. Shoot the baddies with balls of green cud along the way.\n\nFEATURES:\n- Tilt controls on the Watch!\n- Jump over the moon for bonus points!\n- Jump on monsters to bring them down\n- Global leaderboard for Watch and Phone!\n\nHow to play:\nTilt to move left or right and tap the screen to shoot the baddie bats.",
-      "releaseNotes": "bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nbug fixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/cow-jump-the-steaks-are-high/id1231314630?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Abel Alho",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Cow Jump: The steaks are high",
       "description": "Moooooooooooo!\n\nThe steaks are high in Cow Jump as you guide Holstein the Cow on a jumping journey ever upwards towards the moon. Use the tilt controls on the Phone and Watch to move left and right. Jump from cloud to cloud to gain more height and points. Shoot the baddies with balls of green cud along the way.\n\nFEATURES:\n- Tilt controls on the Watch!\n- Jump over the moon for bonus points!\n- Jump on monsters to bring them down\n- Global leaderboard for Watch and Phone!\n\nHow to play:\nTilt to move left or right and tap the screen to shoot the baddie bats.",
-      "releaseNotes": "bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nbug fixes",
       "trackViewUrl": "https://apps.apple.com/de/app/cow-jump-the-steaks-are-high/id1231314630?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Abel Alho",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "6800384",
+  "fileSizeBytes": "6824960",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.0.4",
@@ -251,10 +251,10 @@
     },
     {
       "version": "1.0.4",
-      "releaseNotes": "bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nbug fixes",
       "seenAt": "2025-03-26T12:56:31Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:57:41.134Z",
+  "updatedAt": "2026-08-29T13:04:05.700Z",
   "isOwnApp": false
 }

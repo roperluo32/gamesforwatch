@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Line: Rings Challenge",
       "description": "Quick game. React fast to go through all the rings. 30 seconds per level!\n\nSimple gameplay. For iPhone:\n- touch the left part of the ball to go left\n- touch the right part of the ball to go right\n\nFor Apple Watch:\n- Move the digital crown wheel\n\n25 levels. Each level more difficult. If you manage to reach level 25, please leave us a comment and we will add more levels!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-line-rings-challenge/id1580598342?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch Line: Rings Challenge",
       "description": "Quick game. React fast to go through all the rings. 30 seconds per level!\n\nSimple gameplay. For iPhone:\n- touch the left part of the ball to go left\n- touch the right part of the ball to go right\n\nFor Apple Watch:\n- Move the digital crown wheel\n\n25 levels. Each level more difficult. If you manage to reach level 25, please leave us a comment and we will add more levels!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-line-rings-challenge/id1580598342?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch Line: Rings Challenge",
       "description": "Quick game. React fast to go through all the rings. 30 seconds per level!\n\nSimple gameplay. For iPhone:\n- touch the left part of the ball to go left\n- touch the right part of the ball to go right\n\nFor Apple Watch:\n- Move the digital crown wheel\n\n25 levels. Each level more difficult. If you manage to reach level 25, please leave us a comment and we will add more levels!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-line-rings-challenge/id1580598342?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "15859712",
+  "fileSizeBytes": "15888384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.0.2",
@@ -271,10 +271,10 @@
     },
     {
       "version": "1.0.2",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-01-26T08:01:02Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:44.339Z",
+  "updatedAt": "2026-08-29T12:57:17.249Z",
   "isOwnApp": false
 }

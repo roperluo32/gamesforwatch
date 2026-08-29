@@ -7,7 +7,7 @@
     "en": {
       "trackName": "new Jetpack: pet race",
       "description": "Play with various pets to unlock new power ups and gameplays!!!\nYou start the game controlling a cute little rhino to avoid spike traps. Later in the game, you'll get other animals like fox, cow and sheep...\nEach gadgets you see on the way not only makes you faster but also adds new ways to enjoy the game.\nGet the game now and all the animal packs comes with unique themes will be free for you forever...",
-      "releaseNotes": "Improve graphics on Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/us/app/new-jetpack-pet-race/id6449525301?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "new Jetpack: pet race",
       "description": "Play with various pets to unlock new power ups and gameplays!!!\nYou start the game controlling a cute little rhino to avoid spike traps. Later in the game, you'll get other animals like fox, cow and sheep...\nEach gadgets you see on the way not only makes you faster but also adds new ways to enjoy the game.\nGet the game now and all the animal packs comes with unique themes will be free for you forever...",
-      "releaseNotes": "Improve graphics on Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/cn/app/new-jetpack-pet-race/id6449525301?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "new Jetpack: pet race",
       "description": "Play with various pets to unlock new power ups and gameplays!!!\nYou start the game controlling a cute little rhino to avoid spike traps. Later in the game, you'll get other animals like fox, cow and sheep...\nEach gadgets you see on the way not only makes you faster but also adds new ways to enjoy the game.\nGet the game now and all the animal packs comes with unique themes will be free for you forever...",
-      "releaseNotes": "Improve graphics on Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/jp/app/new-jetpack-pet-race/id6449525301?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "new Jetpack: pet race",
       "description": "Play with various pets to unlock new power ups and gameplays!!!\nYou start the game controlling a cute little rhino to avoid spike traps. Later in the game, you'll get other animals like fox, cow and sheep...\nEach gadgets you see on the way not only makes you faster but also adds new ways to enjoy the game.\nGet the game now and all the animal packs comes with unique themes will be free for you forever...",
-      "releaseNotes": "Improve graphics on Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics on Apple Watch",
       "trackViewUrl": "https://apps.apple.com/de/app/new-jetpack-pet-race/id6449525301?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "56664064",
+  "fileSizeBytes": "56729600",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.3.0",
@@ -280,10 +280,10 @@
     },
     {
       "version": "1.3.0",
-      "releaseNotes": "Improve graphics on Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics on Apple Watch",
       "seenAt": "2024-07-05T05:21:34Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:09:04.545Z",
+  "updatedAt": "2026-08-29T13:15:21.319Z",
   "isOwnApp": false
 }

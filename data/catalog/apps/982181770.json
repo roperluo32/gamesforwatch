@@ -7,7 +7,7 @@
     "en": {
       "trackName": "2048 Anywhere: TV, Watch and More",
       "description": "We present you amazing 2048 puzzle that you can play everywhere: on your iPhone, iPad, Apple TV and Apple Watch!\n\nGame rules:\n* Move all number tiles to one of four directions - collided tiles of the same value sum up and form a new double-value tile!\n* Reach number 2048!\n* After that - don't stop and compete with your friends in top charts!\n\nEnjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* iOS 10 compatibility",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* iOS 10 compatibility",
       "trackViewUrl": "https://apps.apple.com/us/app/2048-anywhere-tv-watch-and-more/id982181770?uo=4",
       "formattedPrice": "Free",
       "sellerName": "UAB Target Works",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "2048 Anywhere: TV, Watch and More",
       "description": "We present you amazing 2048 puzzle that you can play everywhere: on your iPhone, iPad, Apple TV and Apple Watch!\n\nGame rules:\n* Move all number tiles to one of four directions - collided tiles of the same value sum up and form a new double-value tile!\n* Reach number 2048!\n* After that - don't stop and compete with your friends in top charts!\n\nEnjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* iOS 10 compatibility",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* iOS 10 compatibility",
       "trackViewUrl": "https://apps.apple.com/jp/app/2048-anywhere-tv-watch-and-more/id982181770?uo=4",
       "formattedPrice": "無料",
       "sellerName": "UAB Target Works",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "2048 Anywhere: TV, Watch and More",
       "description": "We present you amazing 2048 puzzle that you can play everywhere: on your iPhone, iPad, Apple TV and Apple Watch!\n\nGame rules:\n* Move all number tiles to one of four directions - collided tiles of the same value sum up and form a new double-value tile!\n* Reach number 2048!\n* After that - don't stop and compete with your friends in top charts!\n\nEnjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* iOS 10 compatibility",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* iOS 10 compatibility",
       "trackViewUrl": "https://apps.apple.com/de/app/2048-anywhere-tv-watch-and-more/id982181770?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "UAB Target Works",
@@ -284,10 +284,10 @@
     },
     {
       "version": "3.5",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* iOS 10 compatibility",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* iOS 10 compatibility",
       "seenAt": "2016-09-30T17:59:21Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:23:37.917Z",
+  "updatedAt": "2026-08-29T13:29:29.719Z",
   "isOwnApp": false
 }

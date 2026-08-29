@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Warynth",
       "description": "With the newest release of watchOS 3, we developers were given the chance to make great and well performing Games for the Apple Watch. \nWarynth is the result of this possibility. \n\nIt’s a little time-killer arcade game for your watch. \nIt’s basically a very simple maze game, in which you control the player by rotating the digital crown.\n\nHave fun on your wrist!\n\nLabyrinth icon by freepik.com",
-      "releaseNotes": "Compatibility update",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCompatibility update",
       "trackViewUrl": "https://apps.apple.com/us/app/warynth/id1158722304?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Florian Schweizer",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Warynth",
       "description": "With the newest release of watchOS 3, we developers were given the chance to make great and well performing Games for the Apple Watch. \nWarynth is the result of this possibility. \n\nIt’s a little time-killer arcade game for your watch. \nIt’s basically a very simple maze game, in which you control the player by rotating the digital crown.\n\nHave fun on your wrist!\n\nLabyrinth icon by freepik.com",
-      "releaseNotes": "Compatibility update",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCompatibility update",
       "trackViewUrl": "https://apps.apple.com/jp/app/warynth/id1158722304?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Florian Schweizer",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Warynth",
       "description": "With the newest release of watchOS 3, we developers were given the chance to make great and well performing Games for the Apple Watch. \nWarynth is the result of this possibility. \n\nIt’s a little time-killer arcade game for your watch. \nIt’s basically a very simple maze game, in which you control the player by rotating the digital crown.\n\nHave fun on your wrist!\n\nLabyrinth icon by freepik.com",
-      "releaseNotes": "Compatibility update",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCompatibility update",
       "trackViewUrl": "https://apps.apple.com/de/app/warynth/id1158722304?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Florian Schweizer",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "18113536",
+  "fileSizeBytes": "18138112",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.3",
@@ -229,10 +229,10 @@
     },
     {
       "version": "1.3",
-      "releaseNotes": "Compatibility update",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCompatibility update",
       "seenAt": "2024-10-03T20:29:14Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:19:47.489Z",
+  "updatedAt": "2026-08-29T13:25:59.160Z",
   "isOwnApp": false
 }

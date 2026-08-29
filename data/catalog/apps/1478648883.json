@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Air Hockey Wear - Watch Game",
       "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Tocapp Games S.L.",
@@ -26,7 +26,7 @@
     "ja": {
       "trackName": "Air Hockey Wear - Watch Game",
       "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Tocapp Games S.L.",
@@ -45,7 +45,7 @@
     "de": {
       "trackName": "Air Hockey Wear - Watch Game",
       "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -66,7 +66,7 @@
   "averageUserRating": 3.76923,
   "userRatingCount": 26,
   "price": 1.99,
-  "fileSizeBytes": "32974848",
+  "fileSizeBytes": "33007616",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "2.3.2",
@@ -340,10 +340,10 @@
     },
     {
       "version": "2.3.2",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-02-12T08:57:21Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:36:58.232Z",
+  "updatedAt": "2026-08-29T12:43:39.299Z",
   "isOwnApp": false
 }

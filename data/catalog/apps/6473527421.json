@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Dodge - Watch Game",
       "description": "Dodge is an Apple Watch only game.  Use the crown to avoid the falling triangles.  Each triangle that you avoid gives you a point, but the triangles fall faster as the game progresses.  Touch the screen to pause.  Try to beat your high score!",
-      "releaseNotes": "Many new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMany new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
       "trackViewUrl": "https://apps.apple.com/us/app/dodge-watch-game/id6473527421?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gordon Lewis Maahs",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Dodge - Watch Game",
       "description": "Dodge is an Apple Watch only game.  Use the crown to avoid the falling triangles.  Each triangle that you avoid gives you a point, but the triangles fall faster as the game progresses.  Touch the screen to pause.  Try to beat your high score!",
-      "releaseNotes": "Many new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMany new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
       "trackViewUrl": "https://apps.apple.com/jp/app/dodge-watch-game/id6473527421?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gordon Lewis Maahs",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Dodge - Watch Game",
       "description": "Dodge is an Apple Watch only game.  Use the crown to avoid the falling triangles.  Each triangle that you avoid gives you a point, but the triangles fall faster as the game progresses.  Touch the screen to pause.  Try to beat your high score!",
-      "releaseNotes": "Many new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMany new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.",
       "trackViewUrl": "https://apps.apple.com/de/app/dodge-watch-game/id6473527421?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gordon Lewis Maahs",
@@ -57,7 +57,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "4742144",
+  "fileSizeBytes": "4762624",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "2",
@@ -231,10 +231,10 @@
     },
     {
       "version": "2",
-      "releaseNotes": "Many new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.\n",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMany new features!  Collect coins for extra points.  And upgrade to get access to the Skin Store as well as 3 PowerUps (slowing triangle, shield protection, and increase coin values) to play longer and reach higher scores.\n",
       "seenAt": "2024-02-08T08:12:05Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:20:18.300Z",
+  "updatedAt": "2026-08-29T13:26:16.937Z",
   "isOwnApp": false
 }

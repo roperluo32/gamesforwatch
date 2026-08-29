@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Zombie Car - fast gun shooting",
       "description": "They are billions! And they have captured the streets. Yes, those zombies are now looking for you and your cars. Drive like there is no tomorrow and shoot'em up on your way. Each zombie type has unique behaviors, so are your power up drones. And remember, this ride is gonna be pure fun!!!\nGet the game NOW - save the world by driving...",
-      "releaseNotes": "More road background.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore road background.",
       "trackViewUrl": "https://apps.apple.com/us/app/zombie-car-fast-gun-shooting/id6470772025?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Zombie Car - fast gun shooting",
       "description": "They are billions! And they have captured the streets. Yes, those zombies are now looking for you and your cars. Drive like there is no tomorrow and shoot'em up on your way. Each zombie type has unique behaviors, so are your power up drones. And remember, this ride is gonna be pure fun!!!\nGet the game NOW - save the world by driving...",
-      "releaseNotes": "More road background.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore road background.",
       "trackViewUrl": "https://apps.apple.com/cn/app/zombie-car-fast-gun-shooting/id6470772025?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Zombie Car - fast gun shooting",
       "description": "They are billions! And they have captured the streets. Yes, those zombies are now looking for you and your cars. Drive like there is no tomorrow and shoot'em up on your way. Each zombie type has unique behaviors, so are your power up drones. And remember, this ride is gonna be pure fun!!!\nGet the game NOW - save the world by driving...",
-      "releaseNotes": "More road background.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore road background.",
       "trackViewUrl": "https://apps.apple.com/jp/app/zombie-car-fast-gun-shooting/id6470772025?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Zombie Car - fast gun shooting",
       "description": "They are billions! And they have captured the streets. Yes, those zombies are now looking for you and your cars. Drive like there is no tomorrow and shoot'em up on your way. Each zombie type has unique behaviors, so are your power up drones. And remember, this ride is gonna be pure fun!!!\nGet the game NOW - save the world by driving...",
-      "releaseNotes": "More road background.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore road background.",
       "trackViewUrl": "https://apps.apple.com/de/app/zombie-car-fast-gun-shooting/id6470772025?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "78298112",
+  "fileSizeBytes": "78371840",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "12.0",
   "version": "1.2.1",
@@ -280,10 +280,10 @@
     },
     {
       "version": "1.2.1",
-      "releaseNotes": "More road background.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore road background.",
       "seenAt": "2023-12-24T14:03:48Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:08:55.434Z",
+  "updatedAt": "2026-08-29T13:15:08.000Z",
   "isOwnApp": false
 }

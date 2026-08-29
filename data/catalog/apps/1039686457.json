@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Happy Rise : No Wifi Games",
       "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
-      "releaseNotes": "Bug fix on the Bounce game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBug fix on the Bounce game.",
       "trackViewUrl": "https://apps.apple.com/us/app/happy-rise-no-wifi-games/id1039686457?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Deniz Kocoglu",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Happy Rise : No Wifi Games",
       "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
-      "releaseNotes": "Bug fix on the Bounce game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBug fix on the Bounce game.",
       "trackViewUrl": "https://apps.apple.com/jp/app/happy-rise-no-wifi-games/id1039686457?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Deniz Kocoglu",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Happy Rise : No Wifi Games",
       "description": "Happy Rise is a challenging obstacle course game that will keep you entertained.\n\nThe game is simple to learn but difficult to master, and you will find yourself coming back for more time and time again.\n\nYou don't need a wifi connection to play.",
-      "releaseNotes": "Bug fix on the Bounce game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBug fix on the Bounce game.",
       "trackViewUrl": "https://apps.apple.com/de/app/happy-rise-no-wifi-games/id1039686457?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Deniz Kocoglu",
@@ -60,10 +60,10 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/b5/cf/64b5cf60-0920-aa3d-1d9b-7077195dbcba/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.22337,
-  "userRatingCount": 676,
+  "averageUserRating": 4.22452,
+  "userRatingCount": 677,
   "price": 0,
-  "fileSizeBytes": "90212352",
+  "fileSizeBytes": "90331136",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "4.0.2",
@@ -399,10 +399,10 @@
     },
     {
       "version": "4.0.2",
-      "releaseNotes": "Bug fix on the Bounce game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBug fix on the Bounce game.",
       "seenAt": "2024-08-26T22:16:37Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:34:25.724Z",
+  "updatedAt": "2026-08-29T12:41:08.747Z",
   "isOwnApp": false
 }

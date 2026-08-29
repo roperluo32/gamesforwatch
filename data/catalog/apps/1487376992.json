@@ -7,7 +7,7 @@
     "en": {
       "trackName": "The Balls Game - Watch Game",
       "description": "Rotate to put 3 or more balls of same color. Balls appear constantly. Depending on the level, faster and more colors. A Match 3 Game!\n\nFor Apple Watch, use the \"Digital Crown\" wheel to rotate. For iPhone, touch the buttons.\n\nInnovation in Match 3 games! Innovation in Apple Watch Games!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/the-balls-game-watch-game/id1487376992?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "The Balls Game - Watch Game",
       "description": "Rotate to put 3 or more balls of same color. Balls appear constantly. Depending on the level, faster and more colors. A Match 3 Game!\n\nFor Apple Watch, use the \"Digital Crown\" wheel to rotate. For iPhone, touch the buttons.\n\nInnovation in Match 3 games! Innovation in Apple Watch Games!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/the-balls-game-watch-game/id1487376992?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "The Balls Game - Watch Game",
       "description": "Rotate to put 3 or more balls of same color. Balls appear constantly. Depending on the level, faster and more colors. A Match 3 Game!\n\nFor Apple Watch, use the \"Digital Crown\" wheel to rotate. For iPhone, touch the buttons.\n\nInnovation in Match 3 games! Innovation in Apple Watch Games!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/the-balls-game-watch-game/id1487376992?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 4,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "12417024",
+  "fileSizeBytes": "12449792",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.3.3",
@@ -285,10 +285,10 @@
     },
     {
       "version": "1.3.3",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-01-19T10:44:50Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:36.539Z",
+  "updatedAt": "2026-08-29T12:57:09.605Z",
   "isOwnApp": false
 }

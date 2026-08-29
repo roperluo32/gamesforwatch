@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Odyssey: Galaxy Fit Game",
       "description": "Set Your Sights on Fitness with Watch Odyssey!\n\nWatch Odyssey is an innovative health-centric game exclusively designed for your Apple Watch.\n\n- Harness the Power of Health Data: Your \"move, exercise, stand\" data transforms into fuel for your space adventure.\n\n- Explore a Thrilling Universe: Travel across a galaxy teeming with 100 unique planets and encounter over 10,000 different life forms.\n\n- Engaging Gameplay: Every step you take and every goal you reach propels your spaceship further into the cosmos.\n\n- Fitness Becomes Fun: Experience the thrill of space exploration while achieving your health goals.\n\n- Exclusive for Apple Watch: Unleash the full potential of your Apple Watch with this one-of-a-kind game.\n\nThis isn't just a game; it's a revolution in achieving health and wellness. Embark on your Watch Odyssey today and turn fitness into a thrilling interstellar journey. Every step counts in this cosmic adventure! Strap on your Apple Watch and launch into the fun. Your odyssey awaits!\n\nHEALTHKIT:\n\nWatch Odyssey uses HealthKit to read your activity data and goals from your Apple Watch. Make sure to grant all permissions when asked to make it work.",
-      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nThis update contains stability improvements and general bug fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-odyssey-galaxy-fit-game/id1665497224?uo=4",
       "formattedPrice": "$4.99",
       "sellerName": "Shikudo Co., Ltd.",
@@ -35,7 +35,7 @@
     "ja": {
       "trackName": "ウォッチの宇宙の旅: 活動で星々を探索しましょう",
       "description": "健康を目指して「ウォッチの宇宙の旅」で目標を設定しましょう！\n\n「ウォッチの宇宙の旅」は、Apple Watch専用に設計された革新的な健康中心のゲームです。\n\nヘルスデータの力を引き出す：あなたの「動く、運動する、立つ」データが宇宙冒険のための燃料に変わります。\n\nスリリングな宇宙を探索する：100個のユニークな惑星を横断し、10,000以上の異なる生命体と遭遇します。\n\n面白いゲームプレイ：あなたが歩く一歩、目標を達成するごとに、あなたの宇宙船はさらに宇宙へと推進します。\n\nフィットネスが楽しくなる：宇宙探査のスリルを体験しながら、あなたの健康目標を達成します。\n\nApple Watch専用：この唯一無二のゲームであなたのApple Watchの全潜在能力を解き放つ。\n\nこれはただのゲームではなく、健康とウェルネスを達成するための革命です。今日「ウォッチの宇宙の旅」に乗り出し、フィットネスをスリリングな星間旅行に変えてみませんか。この宇宙冒険では、一歩が大切です！ Apple Watchを装着して、楽しみに出発しましょう。あなたの冒険が待っています！\n\nHEALTHKIT：\n\n「ウォッチの宇宙の旅」は、あなたのApple Watchからアクティビティデータと目標を読み取るためにHealthKitを使用します。求められたときにすべての権限を許可するようにしてください。",
-      "releaseNotes": "このアップデートには安定性の向上と一般的なバグ修正が含まれています。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nこのアップデートには安定性の向上と一般的なバグ修正が含まれています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%81%AE%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85-%E6%B4%BB%E5%8B%95%E3%81%A7%E6%98%9F%E3%80%85%E3%82%92%E6%8E%A2%E7%B4%A2%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/id1665497224?uo=4",
       "formattedPrice": "¥800",
       "sellerName": "Shikudo Co., Ltd.",
@@ -63,7 +63,7 @@
     "de": {
       "trackName": "Watch Odyssey: Galaxy fit",
       "description": "Setzen Sie Ihre Fitnessziele mit Watch Odyssey!\n\nWatch Odyssey ist ein innovatives, gesundheitsorientiertes Spiel, das exklusiv für Ihre Apple Watch konzipiert wurde.\n\nNutzen Sie die Kraft der Gesundheitsdaten: Ihre \"Bewegungs-, Trainings-, Steh\"-Daten verwandeln sich in Treibstoff für Ihr Weltraumabenteuer.\n\nErkunden Sie ein aufregendes Universum: Reisen Sie durch eine Galaxie mit 100 einzigartigen Planeten und begegnen Sie über 10.000 verschiedenen Lebensformen.\n\nAnsprechendes Gameplay: Jeder Schritt, den Sie machen und jedes Ziel, das Sie erreichen, treibt Ihr Raumschiff weiter ins All.\n\nFitness macht Spaß: Erleben Sie den Nervenkitzel der Weltraumerkundung, während Sie Ihre Gesundheitsziele erreichen.\n\nExklusiv für die Apple Watch: Nutzen Sie das volle Potential Ihrer Apple Watch mit diesem einzigartigen Spiel.\n\nDies ist nicht nur ein Spiel; es ist eine Revolution in der Gesundheits- und Wellnessförderung. Starten Sie noch heute Ihre Watch Odyssey und machen Sie Fitness zu einer aufregenden interstellaren Reise. Jeder Schritt zählt in diesem kosmischen Abenteuer! Ziehen Sie Ihre Apple Watch an und starten Sie den Spaß. Ihre Odyssee erwartet Sie!\n\nHEALTHKIT:\n\nWatch Odyssey verwendet HealthKit, um Ihre Aktivitätsdaten und -ziele von Ihrer Apple Watch zu lesen. Stellen Sie sicher, dass Sie alle Berechtigungen gewähren, wenn Sie danach gefragt werden, damit es funktioniert.",
-      "releaseNotes": "Dieses Update enthält Stabilitätsverbesserungen und allgemeine Fehlerbehebungen.",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nDieses Update enthält Stabilitätsverbesserungen und allgemeine Fehlerbehebungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-odyssey-galaxy-fit/id1665497224?uo=4",
       "formattedPrice": "5,99 €",
       "sellerName": "Shikudo Co., Ltd.",
@@ -93,7 +93,7 @@
   "averageUserRating": 2,
   "userRatingCount": 1,
   "price": 5.99,
-  "fileSizeBytes": "50249728",
+  "fileSizeBytes": "50417664",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.0",
   "version": "1.0.7",
@@ -300,10 +300,10 @@
     },
     {
       "version": "1.0.7",
-      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nThis update contains stability improvements and general bug fixes.\n",
       "seenAt": "2024-01-11T08:30:21Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:59:08.254Z",
+  "updatedAt": "2026-08-29T13:04:59.332Z",
   "isOwnApp": false
 }

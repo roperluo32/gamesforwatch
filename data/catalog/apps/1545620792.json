@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Vaporwave Race 3D - Watch Game",
       "description": "Pass near the 3D figures without crashing. Accumulate the maximum number of points.\n\nTo play on Apple Watch:\n- Move the \"Digital Crown\" wheel to turn\n \nTo play on the iPhone / iPad:\n- Touch the left / right part of the screen to turn.\n\nA game inspired by the vaporwave style creating a bizarre 3D effect during the race.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/vaporwave-race-3d-watch-game/id1545620792?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Vaporwave Race 3D - Watch Game",
       "description": "Pass near the 3D figures without crashing. Accumulate the maximum number of points.\n\nTo play on Apple Watch:\n- Move the \"Digital Crown\" wheel to turn\n \nTo play on the iPhone / iPad:\n- Touch the left / right part of the screen to turn.\n\nA game inspired by the vaporwave style creating a bizarre 3D effect during the race.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/vaporwave-race-3d-watch-game/id1545620792?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Vaporwave Race 3D - Watch Game",
       "description": "Pass near the 3D figures without crashing. Accumulate the maximum number of points.\n\nTo play on Apple Watch:\n- Move the \"Digital Crown\" wheel to turn\n \nTo play on the iPhone / iPad:\n- Touch the left / right part of the screen to turn.\n\nA game inspired by the vaporwave style creating a bizarre 3D effect during the race.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/vaporwave-race-3d-watch-game/id1545620792?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "14563328",
+  "fileSizeBytes": "14592000",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.1.2",
@@ -279,10 +279,10 @@
     },
     {
       "version": "1.1.2",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-01-11T15:00:40Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:11.139Z",
+  "updatedAt": "2026-08-29T12:56:45.657Z",
   "isOwnApp": false
 }

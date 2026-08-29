@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Gun Force!",
       "description": "The world always need a hero. This time use your guns to blow away all evil forces.\nGo, fight for your country... loot the cash from terrorists and customize your GUN FORCE hero!!! \nEach hero now has UNIQUE skill :)))\n\nPlay on Phone, Tablet and Watch, GET THE GAME",
-      "releaseNotes": "Optimize performance on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimize performance on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/gun-force/id1494272438?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Gun Force!",
       "description": "The world always need a hero. This time use your guns to blow away all evil forces.\nGo, fight for your country... loot the cash from terrorists and customize your GUN FORCE hero!!! \nEach hero now has UNIQUE skill :)))\n\nPlay on Phone, Tablet and Watch, GET THE GAME",
-      "releaseNotes": "Optimize performance on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimize performance on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/gun-force/id1494272438?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Gun Force!",
       "description": "The world always need a hero. This time use your guns to blow away all evil forces.\nGo, fight for your country... loot the cash from terrorists and customize your GUN FORCE hero!!! \nEach hero now has UNIQUE skill :)))\n\nPlay on Phone, Tablet and Watch, GET THE GAME",
-      "releaseNotes": "Optimize performance on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimize performance on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/gun-force/id1494272438?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "61967360",
+  "fileSizeBytes": "62118912",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "12.1",
   "version": "1.12",
@@ -332,10 +332,10 @@
     },
     {
       "version": "1.12",
-      "releaseNotes": "Optimize performance on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimize performance on Apple Watch.",
       "seenAt": "2023-12-06T14:58:47Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:58:43.277Z",
+  "updatedAt": "2026-08-29T13:05:16.508Z",
   "isOwnApp": false
 }

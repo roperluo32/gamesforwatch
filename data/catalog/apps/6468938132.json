@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fiddle Game",
       "description": "Have fun and soothe your nerves with Fiddle, the digital fidget cube!\n\nFiddle offers several interactive screens to distract you from what's causing you anxiety and focus on your most important tasks. The app also teaches the Grounding technique, something often used during psychotherapeutic treatments to reduce anxiety.\n\nThe fidget cube, like a dice, has six different sides, each with a stimulus, noise and texture. Fiddle brings some of these interactions while remaining faithful to a physical fidget cube so that the experience is the same, if not better!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/fiddle-game/id6468938132?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Igor Samoel da Silva",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Fiddle Game",
       "description": "Have fun and soothe your nerves with Fiddle, the digital fidget cube!\n\nFiddle offers several interactive screens to distract you from what's causing you anxiety and focus on your most important tasks. The app also teaches the Grounding technique, something often used during psychotherapeutic treatments to reduce anxiety.\n\nThe fidget cube, like a dice, has six different sides, each with a stimulus, noise and texture. Fiddle brings some of these interactions while remaining faithful to a physical fidget cube so that the experience is the same, if not better!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/fiddle-game/id6468938132?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Igor Samoel da Silva",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Fiddle Game",
       "description": "Have fun and soothe your nerves with Fiddle, the digital fidget cube!\n\nFiddle offers several interactive screens to distract you from what's causing you anxiety and focus on your most important tasks. The app also teaches the Grounding technique, something often used during psychotherapeutic treatments to reduce anxiety.\n\nThe fidget cube, like a dice, has six different sides, each with a stimulus, noise and texture. Fiddle brings some of these interactions while remaining faithful to a physical fidget cube so that the experience is the same, if not better!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/fiddle-game/id6468938132?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Igor Samoel da Silva",
@@ -57,7 +57,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1894400",
+  "fileSizeBytes": "1910784",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0.0",
@@ -213,10 +213,10 @@
   "versionHistory": [
     {
       "version": "1.0.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2023-10-09T14:31:20Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:20:33.904Z",
+  "updatedAt": "2026-08-29T13:26:32.163Z",
   "isOwnApp": false
 }

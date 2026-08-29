@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Let Off - Pursuit car game",
       "description": "They are chasing you. Try to escape! Avoid the traffic or the elements that you find on the road, cause the accident of your pursuers.\n\nCircuit 1 and 2:\n- To change the direction, tap the screen.\n- To activate the turbo, touch the screen.\n\nCircuit 3:\n- Tap left or right part of the screen to turn.\n\nFor Apple Watch, roll the Digital Crown wheel to turn.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/let-off-pursuit-car-game/id1535646687?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Let Off - Pursuit car game",
       "description": "They are chasing you. Try to escape! Avoid the traffic or the elements that you find on the road, cause the accident of your pursuers.\n\nCircuit 1 and 2:\n- To change the direction, tap the screen.\n- To activate the turbo, touch the screen.\n\nCircuit 3:\n- Tap left or right part of the screen to turn.\n\nFor Apple Watch, roll the Digital Crown wheel to turn.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/let-off-pursuit-car-game/id1535646687?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Let Off - Pursuit car game",
       "description": "They are chasing you. Try to escape! Avoid the traffic or the elements that you find on the road, cause the accident of your pursuers.\n\nCircuit 1 and 2:\n- To change the direction, tap the screen.\n- To activate the turbo, touch the screen.\n\nCircuit 3:\n- Tap left or right part of the screen to turn.\n\nFor Apple Watch, roll the Digital Crown wheel to turn.\n\nHow far can you go?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/let-off-pursuit-car-game/id1535646687?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "12883968",
+  "fileSizeBytes": "12916736",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "12.0",
   "version": "1.3.1",
@@ -282,10 +282,10 @@
     },
     {
       "version": "1.3.1",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-03-14T15:58:35Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:49:30.174Z",
+  "updatedAt": "2026-08-29T12:56:06.496Z",
   "isOwnApp": false
 }

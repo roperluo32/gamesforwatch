@@ -7,7 +7,7 @@
     "en": {
       "trackName": "YAMatch",
       "description": "Yet Another Match three - or YAM is a new take on the classic game. The key differences are that matching fruit are not automatically cleared and swaps that don't result in a match stay, allowing you to move fruit towards a match. This does cost a star - and if all stars are gone - it's a game over. But don't despair, it is possible to reshuffle the board by a long press, but that also costs a star. But hey, you get a bonus star for every level you pass with less than 20 swaps and if you pass a level with less swaps than last time. \n\nSwap fruits to match 3 or more in a row. Matching fruits are cleared only if a swap produces a match, sometimes you will need to swap two identical fruit to clear the match. \nYou can make a swap that does not result in a match or long press to reshuffle. Both actions cost 1 star. \n If you lose all stars - the game is over. You get bonus stars for passing levels and for doing it with less swaps. Avoid top row.\n\n Good Luck!",
-      "releaseNotes": "More fruits!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore fruits!",
       "trackViewUrl": "https://apps.apple.com/us/app/yamatch/id6741829023?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Forward Game UG (haftungsbeschrankt)",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "YAMatch",
       "description": "Yet Another Match three - or YAM is a new take on the classic game. The key differences are that matching fruit are not automatically cleared and swaps that don't result in a match stay, allowing you to move fruit towards a match. This does cost a star - and if all stars are gone - it's a game over. But don't despair, it is possible to reshuffle the board by a long press, but that also costs a star. But hey, you get a bonus star for every level you pass with less than 20 swaps and if you pass a level with less swaps than last time. \n\nSwap fruits to match 3 or more in a row. Matching fruits are cleared only if a swap produces a match, sometimes you will need to swap two identical fruit to clear the match. \nYou can make a swap that does not result in a match or long press to reshuffle. Both actions cost 1 star. \n If you lose all stars - the game is over. You get bonus stars for passing levels and for doing it with less swaps. Avoid top row.\n\n Good Luck!",
-      "releaseNotes": "More fruits!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore fruits!",
       "trackViewUrl": "https://apps.apple.com/cn/app/yamatch/id6741829023?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Forward Game UG (haftungsbeschrankt)",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "YAMatch",
       "description": "Yet Another Match three - or YAM is a new take on the classic game. The key differences are that matching fruit are not automatically cleared and swaps that don't result in a match stay, allowing you to move fruit towards a match. This does cost a star - and if all stars are gone - it's a game over. But don't despair, it is possible to reshuffle the board by a long press, but that also costs a star. But hey, you get a bonus star for every level you pass with less than 20 swaps and if you pass a level with less swaps than last time. \n\nSwap fruits to match 3 or more in a row. Matching fruits are cleared only if a swap produces a match, sometimes you will need to swap two identical fruit to clear the match. \nYou can make a swap that does not result in a match or long press to reshuffle. Both actions cost 1 star. \n If you lose all stars - the game is over. You get bonus stars for passing levels and for doing it with less swaps. Avoid top row.\n\n Good Luck!",
-      "releaseNotes": "More fruits!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore fruits!",
       "trackViewUrl": "https://apps.apple.com/jp/app/yamatch/id6741829023?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Forward Game UG (haftungsbeschrankt)",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "YAMatch",
       "description": "Yet Another Match three - or YAM is a new take on the classic game. The key differences are that matching fruit are not automatically cleared and swaps that don't result in a match stay, allowing you to move fruit towards a match. This does cost a star - and if all stars are gone - it's a game over. But don't despair, it is possible to reshuffle the board by a long press, but that also costs a star. But hey, you get a bonus star for every level you pass with less than 20 swaps and if you pass a level with less swaps than last time. \n\nSwap fruits to match 3 or more in a row. Matching fruits are cleared only if a swap produces a match, sometimes you will need to swap two identical fruit to clear the match. \nYou can make a swap that does not result in a match or long press to reshuffle. Both actions cost 1 star. \n If you lose all stars - the game is over. You get bonus stars for passing levels and for doing it with less swaps. Avoid top row.\n\n Good Luck!",
-      "releaseNotes": "More fruits!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore fruits!",
       "trackViewUrl": "https://apps.apple.com/de/app/yamatch/id6741829023?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Forward Game UG (haftungsbeschrankt)",
@@ -77,7 +77,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1334272",
+  "fileSizeBytes": "1350656",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0.3",
@@ -245,10 +245,10 @@
     },
     {
       "version": "1.0.3",
-      "releaseNotes": "More fruits!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMore fruits!",
       "seenAt": "2025-03-06T23:18:03Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:05:02.003Z",
+  "updatedAt": "2026-08-29T13:11:44.439Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Dots & Boxes.",
       "description": "Classic game presented in luxury design and superb artificial intelligence. \n\n* Play against challenging computer opponent and with your friends. \n* Exclusive user interface and sound effects \n* Strong artificial intelligence engine \n* 5 board sizes and 5 levels of difficulty \n* iPhone, iPad and iPod touch support \n\nThe classic comes in new shape! Enjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
       "trackViewUrl": "https://apps.apple.com/us/app/dots-boxes/id684237978?uo=4",
       "formattedPrice": "Free",
       "sellerName": "UAB Target Works",
@@ -26,7 +26,7 @@
     "zh": {
       "trackName": "Dots & Boxes",
       "description": "Classic game presented in luxury design and superb artificial intelligence. \n\n* Play against challenging computer opponent and with your friends. \n* Exclusive user interface and sound effects \n* Strong artificial intelligence engine \n* 5 board sizes and 5 levels of difficulty \n* iPhone, iPad and iPod touch support \n\nThe classic comes in new shape! Enjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
       "trackViewUrl": "https://apps.apple.com/cn/app/dots-boxes/id684237978?uo=4",
       "formattedPrice": "免费",
       "sellerName": "UAB Target Works",
@@ -45,7 +45,7 @@
     "ja": {
       "trackName": "Dots & Boxes",
       "description": "Classic game presented in luxury design and superb artificial intelligence. \n\n* Play against challenging computer opponent and with your friends. \n* Exclusive user interface and sound effects \n* Strong artificial intelligence engine \n* 5 board sizes and 5 levels of difficulty \n* iPhone, iPad and iPod touch support \n\nThe classic comes in new shape! Enjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
       "trackViewUrl": "https://apps.apple.com/jp/app/dots-boxes/id684237978?uo=4",
       "formattedPrice": "無料",
       "sellerName": "UAB Target Works",
@@ -64,7 +64,7 @@
     "de": {
       "trackName": "Dots & Boxes",
       "description": "Classic game presented in luxury design and superb artificial intelligence. \n\n* Play against challenging computer opponent and with your friends. \n* Exclusive user interface and sound effects \n* Strong artificial intelligence engine \n* 5 board sizes and 5 levels of difficulty \n* iPhone, iPad and iPod touch support \n\nThe classic comes in new shape! Enjoy!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
       "trackViewUrl": "https://apps.apple.com/de/app/dots-boxes/id684237978?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "UAB Target Works",
@@ -328,10 +328,10 @@
     },
     {
       "version": "2.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Updated engine\n* Enhanced for iPhone 6S and iOS 9",
       "seenAt": "2016-07-25T20:10:36Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:23:56.657Z",
+  "updatedAt": "2026-08-29T13:29:47.795Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Magic 8 Watch",
       "description": "With a flick of your wrist, get instant responses to life’s questions. Quick, fun, and always ready, this app is your portable decision-making companion. Perfect for moments when you need a little guidance or just want to add a spark of fun to your day.\n\nTry it now and see what your wrist has to say!",
-      "releaseNotes": "Added an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
       "trackViewUrl": "https://apps.apple.com/us/app/magic-8-watch/id6739381888?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Carter Anderson",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Magic 8 Watch",
       "description": "With a flick of your wrist, get instant responses to life’s questions. Quick, fun, and always ready, this app is your portable decision-making companion. Perfect for moments when you need a little guidance or just want to add a spark of fun to your day.\n\nTry it now and see what your wrist has to say!",
-      "releaseNotes": "Added an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
       "trackViewUrl": "https://apps.apple.com/cn/app/magic-8-watch/id6739381888?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Carter Anderson",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Magic 8 Watch",
       "description": "With a flick of your wrist, get instant responses to life’s questions. Quick, fun, and always ready, this app is your portable decision-making companion. Perfect for moments when you need a little guidance or just want to add a spark of fun to your day.\n\nTry it now and see what your wrist has to say!",
-      "releaseNotes": "Added an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
       "trackViewUrl": "https://apps.apple.com/jp/app/magic-8-watch/id6739381888?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Carter Anderson",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Magic 8 Watch",
       "description": "With a flick of your wrist, get instant responses to life’s questions. Quick, fun, and always ready, this app is your portable decision-making companion. Perfect for moments when you need a little guidance or just want to add a spark of fun to your day.\n\nTry it now and see what your wrist has to say!",
-      "releaseNotes": "Added an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die.",
       "trackViewUrl": "https://apps.apple.com/de/app/magic-8-watch/id6739381888?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Carter Anderson",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1145856",
+  "fileSizeBytes": "1162240",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.1",
@@ -240,10 +240,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "Added an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die. ",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded an options page by holding down the blue die. In the options page, users can turn on or off haptics and motion. Users can turn on themed modes Dread Mode, Mystic Mode, and adjust the color of the blue die. ",
       "seenAt": "2024-12-20T04:56:25Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:04:37.331Z",
+  "updatedAt": "2026-08-29T13:11:20.340Z",
   "isOwnApp": false
 }

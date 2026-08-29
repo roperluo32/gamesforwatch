@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Black dice",
       "description": "One to eight beautifully rendered black dice on your phone — plus one more on your watch.\nCrisp visuals, responsive physics, and just the right amount of style.\nPerfect for board games, quick decisions, or simple fun.\n\nNow with:\n• Realistic 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs\n\nIf you like the app, please leave a rating!\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
       "trackViewUrl": "https://apps.apple.com/us/app/black-dice/id1510241951?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Vladislav Likh",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "骰子",
       "description": "スマートフォンに最大8個の黒いサイコロ、そして腕時計にも1つ追加。\nリアルなグラフィック、シンプルな操作、スタイリッシュな見た目。\nボードゲームや日常のちょっとした決定、気軽な遊びに最適です。\n\n新機能：\n• 本物のような3Dサイコロ\n• ドラマチックなエピックモード\n• 限定デザインのサイコロ\n\n気に入ったらレビューをお願いします！\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "• 3Dで美しく表現されたサイコロ\n• ドラマチックな「エピックモード」\n• 限定デザインのサイコロ",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n• 3Dで美しく表現されたサイコロ\n• ドラマチックな「エピックモード」\n• 限定デザインのサイコロ",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E9%AA%B0%E5%AD%90/id1510241951?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Vladislav Likh",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Schwarzer Würfel",
       "description": "Bis zu acht schwarze Würfel auf deinem Smartphone – und ein zusätzlicher Würfel für deine Uhr.\nRealistische Grafik, einfache Bedienung, schlanker Look.\nPerfekt für Brettspiele, Entscheidungen oder einfach zum Spaß.\n\nJetzt neu:\n• Realistische 3D-Optik\n• Epischer Modus für eindrucksvolle Würfe\n• Exklusive Würfeldesigns\n\nGefällt dir die App? Dann gib uns gern eine Bewertung!\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "• Realistische 3D-Grafik\n• Epischer Modus für eindrucksvolle Würfe\n• Exklusive Würfeldesigns",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\n• Realistische 3D-Grafik\n• Epischer Modus für eindrucksvolle Würfe\n• Exklusive Würfeldesigns",
       "trackViewUrl": "https://apps.apple.com/de/app/schwarzer-w%C3%BCrfel/id1510241951?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Vladislav Likh",
@@ -60,7 +60,7 @@
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "34974720",
+  "fileSizeBytes": "35003392",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
   "version": "2.0",
@@ -266,10 +266,10 @@
     },
     {
       "version": "2.0",
-      "releaseNotes": "• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
       "seenAt": "2025-07-28T14:01:59Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:04:32.345Z",
+  "updatedAt": "2026-08-29T13:11:14.392Z",
   "isOwnApp": false
 }

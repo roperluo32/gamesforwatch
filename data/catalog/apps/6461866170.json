@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Time Bomb! - Pass the Time",
       "description": "\"The most fun you can have staring at your wrist!\"\n\"The whole family can crowd around this tiny screen and have a blast!\"\n\"15 minutes to 100 hours of fun for the price of two gumballs!\"\n\"It's like the old game from that old phone (from the '90s), and the other old game from the personal organizer (from the early '00s), but combined, and with a dancing bear!\"\n\nThese are all real slogans I've thought of to describe this game.\n\nSpin the Apple Watch crown to spin the wheel, and keep the exploding ball inside! The green segment won't break. Each time you miss the green segment, a block breaks, and it gets harder to keep the ball. Plus the ball speeds up. So, you know, it gets difficult quickly.\n\nCompare your times against yourself!\n\nCompare your times against the world!\n\nBrag to your friends and loved ones about keeping the bomb in the tiny circle for a longer period of time!\n\nSure to be the hit of the party.\n\nJust keep track of the time, and don't let the bomb explode!",
-      "releaseNotes": "* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
       "trackViewUrl": "https://apps.apple.com/us/app/time-bomb-pass-the-time/id6461866170?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Andrew Lundeen",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Time Bomb! - Pass the Time",
       "description": "\"The most fun you can have staring at your wrist!\"\n\"The whole family can crowd around this tiny screen and have a blast!\"\n\"15 minutes to 100 hours of fun for the price of two gumballs!\"\n\"It's like the old game from that old phone (from the '90s), and the other old game from the personal organizer (from the early '00s), but combined, and with a dancing bear!\"\n\nThese are all real slogans I've thought of to describe this game.\n\nSpin the Apple Watch crown to spin the wheel, and keep the exploding ball inside! The green segment won't break. Each time you miss the green segment, a block breaks, and it gets harder to keep the ball. Plus the ball speeds up. So, you know, it gets difficult quickly.\n\nCompare your times against yourself!\n\nCompare your times against the world!\n\nBrag to your friends and loved ones about keeping the bomb in the tiny circle for a longer period of time!\n\nSure to be the hit of the party.\n\nJust keep track of the time, and don't let the bomb explode!",
-      "releaseNotes": "* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
       "trackViewUrl": "https://apps.apple.com/jp/app/time-bomb-pass-the-time/id6461866170?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Andrew Lundeen",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Time Bomb! - Pass the Time",
       "description": "\"The most fun you can have staring at your wrist!\"\n\"The whole family can crowd around this tiny screen and have a blast!\"\n\"15 minutes to 100 hours of fun for the price of two gumballs!\"\n\"It's like the old game from that old phone (from the '90s), and the other old game from the personal organizer (from the early '00s), but combined, and with a dancing bear!\"\n\nThese are all real slogans I've thought of to describe this game.\n\nSpin the Apple Watch crown to spin the wheel, and keep the exploding ball inside! The green segment won't break. Each time you miss the green segment, a block breaks, and it gets harder to keep the ball. Plus the ball speeds up. So, you know, it gets difficult quickly.\n\nCompare your times against yourself!\n\nCompare your times against the world!\n\nBrag to your friends and loved ones about keeping the bomb in the tiny circle for a longer period of time!\n\nSure to be the hit of the party.\n\nJust keep track of the time, and don't let the bomb explode!",
-      "releaseNotes": "* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
       "trackViewUrl": "https://apps.apple.com/de/app/time-bomb-pass-the-time/id6461866170?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Andrew Lundeen",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "40020992",
+  "fileSizeBytes": "40045568",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.2",
@@ -228,10 +228,10 @@
     },
     {
       "version": "1.2",
-      "releaseNotes": "* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* All new explosions!\n* 12 unlockable 'bombs' to choose from!\n* Challenges to complete (some easy, some very hard)!\n* Brand new physics engine!\n* ...it's new!",
       "seenAt": "2024-04-07T15:28:15Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:10:35.238Z",
+  "updatedAt": "2026-08-29T13:17:15.263Z",
   "isOwnApp": false
 }

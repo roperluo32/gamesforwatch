@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Absurd Monsters Puzzle - Wear",
       "description": "Fun puzzles about universe artist Mickael \"Patiño\" Brana. 50 puzzles of strange characters, strange animals and absurd monsters. All images are handmade with Doodle style.\n\nThe game transforms the images into a random 3x3 puzzle. The algorithm ensures that each generated puzzle has a solution. It's a difficult game to solve, but simple to play, just touch the cells near the hidden cell to slide and try to form the image. \n\nA game designed to play on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/absurd-monsters-puzzle-wear/id1474349467?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Absurd Monsters Puzzle - Wear",
       "description": "Fun puzzles about universe artist Mickael \"Patiño\" Brana. 50 puzzles of strange characters, strange animals and absurd monsters. All images are handmade with Doodle style.\n\nThe game transforms the images into a random 3x3 puzzle. The algorithm ensures that each generated puzzle has a solution. It's a difficult game to solve, but simple to play, just touch the cells near the hidden cell to slide and try to form the image. \n\nA game designed to play on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/absurd-monsters-puzzle-wear/id1474349467?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Absurd Monsters Puzzle - Wear",
       "description": "Fun puzzles about universe artist Mickael \"Patiño\" Brana. 50 puzzles of strange characters, strange animals and absurd monsters. All images are handmade with Doodle style.\n\nThe game transforms the images into a random 3x3 puzzle. The algorithm ensures that each generated puzzle has a solution. It's a difficult game to solve, but simple to play, just touch the cells near the hidden cell to slide and try to form the image. \n\nA game designed to play on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/absurd-monsters-puzzle-wear/id1474349467?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "12517376",
+  "fileSizeBytes": "12546048",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "12.0",
   "version": "1.2.1",
@@ -291,10 +291,10 @@
     },
     {
       "version": "1.2.1",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-02-21T15:51:35Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:48.610Z",
+  "updatedAt": "2026-08-29T12:57:21.125Z",
   "isOwnApp": false
 }

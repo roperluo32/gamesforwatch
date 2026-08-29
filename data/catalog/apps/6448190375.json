@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fidget Cube by Antsy Labs",
       "description": "Hey there, fidget fanatics!\n\nYou already know the global sensation that’s been sending your fingers into a frenzy since 2016. Well, the McLachlan brothers - the original fidget maestros from Antsy Labs - are back with a twist! Say hello to your very own virtual Fidget Cube - bringing the fidget icon right to your screens.\n\nClick it, spin it, flip it - all on your iPhone or - drumroll, please - your Apple Watch! Whether you’re in line for coffee or waiting for that ever-late friend (you know who you are…), give your fingers the fidgety outlet they crave and earn some sweet Fidget Energy while you're at it!\n\nFeatures? We got 'em!\n\n* Fidget to Fame: Every tap, roll, and click takes your Fidget Energy score higher. Watch it climb and flex those digits on our global leaderboard. Who knew being antsy could make you numero uno?\n\n* Style Points: Fidget in fashion! Choose a Fidget Cube colorway that screams you. And for the high-rollers? Unlock EVEN MORE chic designs with that glorious Fidget Energy (or unlock exclusive, never released colorways when friends download the app using your unique referral link). \n\n* Original Overload: We’re the real deal! Crafted by the brains behind the original Fidget Cube which kickstarted (literally, thanks Kickstarter) the global fidget toy craze. You know spinners? Yep, you can thank the Fidget Cube fixation for sparking that, too.\n\nSo, why twiddle your thumbs aimlessly when they could be having the time of their life with Fidget Cube? \n\nDive into the world of virtual fidgeting, and download Fidget Cube by Antsy Labs!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/fidget-cube-by-antsy-labs/id6448190375?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Antsy Labs LLC",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Fidget Cube by Antsy Labs",
       "description": "Hey there, fidget fanatics!\n\nYou already know the global sensation that’s been sending your fingers into a frenzy since 2016. Well, the McLachlan brothers - the original fidget maestros from Antsy Labs - are back with a twist! Say hello to your very own virtual Fidget Cube - bringing the fidget icon right to your screens.\n\nClick it, spin it, flip it - all on your iPhone or - drumroll, please - your Apple Watch! Whether you’re in line for coffee or waiting for that ever-late friend (you know who you are…), give your fingers the fidgety outlet they crave and earn some sweet Fidget Energy while you're at it!\n\nFeatures? We got 'em!\n\n* Fidget to Fame: Every tap, roll, and click takes your Fidget Energy score higher. Watch it climb and flex those digits on our global leaderboard. Who knew being antsy could make you numero uno?\n\n* Style Points: Fidget in fashion! Choose a Fidget Cube colorway that screams you. And for the high-rollers? Unlock EVEN MORE chic designs with that glorious Fidget Energy (or unlock exclusive, never released colorways when friends download the app using your unique referral link). \n\n* Original Overload: We’re the real deal! Crafted by the brains behind the original Fidget Cube which kickstarted (literally, thanks Kickstarter) the global fidget toy craze. You know spinners? Yep, you can thank the Fidget Cube fixation for sparking that, too.\n\nSo, why twiddle your thumbs aimlessly when they could be having the time of their life with Fidget Cube? \n\nDive into the world of virtual fidgeting, and download Fidget Cube by Antsy Labs!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/fidget-cube-by-antsy-labs/id6448190375?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Antsy Labs LLC",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Fidget Cube by Antsy Labs",
       "description": "Hey there, fidget fanatics!\n\nYou already know the global sensation that’s been sending your fingers into a frenzy since 2016. Well, the McLachlan brothers - the original fidget maestros from Antsy Labs - are back with a twist! Say hello to your very own virtual Fidget Cube - bringing the fidget icon right to your screens.\n\nClick it, spin it, flip it - all on your iPhone or - drumroll, please - your Apple Watch! Whether you’re in line for coffee or waiting for that ever-late friend (you know who you are…), give your fingers the fidgety outlet they crave and earn some sweet Fidget Energy while you're at it!\n\nFeatures? We got 'em!\n\n* Fidget to Fame: Every tap, roll, and click takes your Fidget Energy score higher. Watch it climb and flex those digits on our global leaderboard. Who knew being antsy could make you numero uno?\n\n* Style Points: Fidget in fashion! Choose a Fidget Cube colorway that screams you. And for the high-rollers? Unlock EVEN MORE chic designs with that glorious Fidget Energy (or unlock exclusive, never released colorways when friends download the app using your unique referral link). \n\n* Original Overload: We’re the real deal! Crafted by the brains behind the original Fidget Cube which kickstarted (literally, thanks Kickstarter) the global fidget toy craze. You know spinners? Yep, you can thank the Fidget Cube fixation for sparking that, too.\n\nSo, why twiddle your thumbs aimlessly when they could be having the time of their life with Fidget Cube? \n\nDive into the world of virtual fidgeting, and download Fidget Cube by Antsy Labs!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/fidget-cube-by-antsy-labs/id6448190375?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Antsy Labs LLC",
@@ -63,7 +63,7 @@
   "averageUserRating": 4,
   "userRatingCount": 4,
   "price": 0,
-  "fileSizeBytes": "207004672",
+  "fileSizeBytes": "207954944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.0",
   "version": "1.0",
@@ -237,10 +237,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2023-09-29T16:59:35Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:00:25.062Z",
+  "updatedAt": "2026-08-29T13:07:47.137Z",
   "isOwnApp": false
 }

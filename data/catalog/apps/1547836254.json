@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Kawaii Claw: tap watch game",
       "description": "Kawaii Claw is the ultimate infinite claw machine game—super easy to play, yet addictively challenging!\n\nJust tap at the perfect moment to launch your claw and grab as many adorable kawaii characters as you can. Sounds easy? Think again! As you progress, the game gets harder: kawaiis move faster and the claw might even start to roll.\n\nEach captured kawaii gives you stars, which you can use to unlock new joyful and cheerful characters. Every kawaii is unique, cute, and full of personality.\n\nThe best part?\nThere are no ads and no in-app purchases. All characters and rewards are unlocked just by playing. It's 100% skill-based.\n\nClimb the global Game Center leaderboard and show your skill to the world! How many kawaiis can you collect?\n\nFEATURES:\n- One-tap addictive gameplay\n- Dynamic rainbow-colored backgrounds\n- 20 cheerful kawaii characters to unlock\n- Game Center leaderboard integration\n- 100% unlockable content—no ads, no IAP\n- Works offline—play anywhere, anytime\n\nA joyful experience for players of all ages. Let the kawaii madness begin!",
-      "releaseNotes": "- Game available for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Game available for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/us/app/kawaii-claw-tap-watch-game/id1547836254?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Kawaii Claw: tap watch game",
       "description": "Kawaii Claw is the ultimate infinite claw machine game—super easy to play, yet addictively challenging!\n\nJust tap at the perfect moment to launch your claw and grab as many adorable kawaii characters as you can. Sounds easy? Think again! As you progress, the game gets harder: kawaiis move faster and the claw might even start to roll.\n\nEach captured kawaii gives you stars, which you can use to unlock new joyful and cheerful characters. Every kawaii is unique, cute, and full of personality.\n\nThe best part?\nThere are no ads and no in-app purchases. All characters and rewards are unlocked just by playing. It's 100% skill-based.\n\nClimb the global Game Center leaderboard and show your skill to the world! How many kawaiis can you collect?\n\nFEATURES:\n- One-tap addictive gameplay\n- Dynamic rainbow-colored backgrounds\n- 20 cheerful kawaii characters to unlock\n- Game Center leaderboard integration\n- 100% unlockable content—no ads, no IAP\n- Works offline—play anywhere, anytime\n\nA joyful experience for players of all ages. Let the kawaii madness begin!",
-      "releaseNotes": "- Game available for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Game available for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/jp/app/kawaii-claw-tap-watch-game/id1547836254?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Kawaii Claw: tap watch game",
       "description": "Kawaii Claw is the ultimate infinite claw machine game—super easy to play, yet addictively challenging!\n\nJust tap at the perfect moment to launch your claw and grab as many adorable kawaii characters as you can. Sounds easy? Think again! As you progress, the game gets harder: kawaiis move faster and the claw might even start to roll.\n\nEach captured kawaii gives you stars, which you can use to unlock new joyful and cheerful characters. Every kawaii is unique, cute, and full of personality.\n\nThe best part?\nThere are no ads and no in-app purchases. All characters and rewards are unlocked just by playing. It's 100% skill-based.\n\nClimb the global Game Center leaderboard and show your skill to the world! How many kawaiis can you collect?\n\nFEATURES:\n- One-tap addictive gameplay\n- Dynamic rainbow-colored backgrounds\n- 20 cheerful kawaii characters to unlock\n- Game Center leaderboard integration\n- 100% unlockable content—no ads, no IAP\n- Works offline—play anywhere, anytime\n\nA joyful experience for players of all ages. Let the kawaii madness begin!",
-      "releaseNotes": "- Game available for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Game available for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/de/app/kawaii-claw-tap-watch-game/id1547836254?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "6354944",
+  "fileSizeBytes": "6387712",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.4",
   "version": "2.0",
@@ -248,10 +248,10 @@
     },
     {
       "version": "2.0",
-      "releaseNotes": "- Game available for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Game available for Apple Watch",
       "seenAt": "2025-06-03T08:05:51Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:51:00.447Z",
+  "updatedAt": "2026-08-29T12:57:32.903Z",
   "isOwnApp": false
 }

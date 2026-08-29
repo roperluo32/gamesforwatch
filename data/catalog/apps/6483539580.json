@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tire Tornado Watch",
       "description": "Introducing the ultimate time-passing adventure on your Apple Watch! Strap in and rev up your engines for an exhilarating journey with our latest game, 'Tire Tornado.' In this addictive game, you take control of a speedy car and navigate through a challenging track. Your mission? Collect as many tires as you can to earn points and keep the wheels turning.",
-      "releaseNotes": "Cars & Truck Selection",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCars & Truck Selection",
       "trackViewUrl": "https://apps.apple.com/us/app/tire-tornado-watch/id6483539580?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Trisphere Apps LLC",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Tire Tornado Watch",
       "description": "Introducing the ultimate time-passing adventure on your Apple Watch! Strap in and rev up your engines for an exhilarating journey with our latest game, 'Tire Tornado.' In this addictive game, you take control of a speedy car and navigate through a challenging track. Your mission? Collect as many tires as you can to earn points and keep the wheels turning.",
-      "releaseNotes": "Cars & Truck Selection",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCars & Truck Selection",
       "trackViewUrl": "https://apps.apple.com/cn/app/tire-tornado-watch/id6483539580?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Trisphere Apps LLC",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Tire Tornado Watch",
       "description": "Introducing the ultimate time-passing adventure on your Apple Watch! Strap in and rev up your engines for an exhilarating journey with our latest game, 'Tire Tornado.' In this addictive game, you take control of a speedy car and navigate through a challenging track. Your mission? Collect as many tires as you can to earn points and keep the wheels turning.",
-      "releaseNotes": "Cars & Truck Selection",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCars & Truck Selection",
       "trackViewUrl": "https://apps.apple.com/jp/app/tire-tornado-watch/id6483539580?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Trisphere Apps LLC",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Tire Tornado Watch",
       "description": "Introducing the ultimate time-passing adventure on your Apple Watch! Strap in and rev up your engines for an exhilarating journey with our latest game, 'Tire Tornado.' In this addictive game, you take control of a speedy car and navigate through a challenging track. Your mission? Collect as many tires as you can to earn points and keep the wheels turning.",
-      "releaseNotes": "Cars & Truck Selection",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCars & Truck Selection",
       "trackViewUrl": "https://apps.apple.com/de/app/tire-tornado-watch/id6483539580?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Trisphere Apps LLC",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "9153536",
+  "fileSizeBytes": "9165824",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.6",
@@ -246,10 +246,10 @@
     },
     {
       "version": "1.6",
-      "releaseNotes": "Cars & Truck Selection",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nCars & Truck Selection",
       "seenAt": "2024-07-16T14:49:58Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:54:49.633Z",
+  "updatedAt": "2026-08-29T13:01:13.947Z",
   "isOwnApp": false
 }

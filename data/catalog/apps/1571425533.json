@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bird Gun",
       "description": "When you are a pixel bird, life is simple! Shoot fruits at other birds or being shot...\nHey, and don't you forget the Pig Boss that shoots sausage? the UFO cat that shoot fish bones...? Get the game and enjoy chaos!!!",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/us/app/bird-gun/id1571425533?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Bird Gun",
       "description": "When you are a pixel bird, life is simple! Shoot fruits at other birds or being shot...\nHey, and don't you forget the Pig Boss that shoots sausage? the UFO cat that shoot fish bones...? Get the game and enjoy chaos!!!",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/jp/app/bird-gun/id1571425533?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Bird Gun",
       "description": "When you are a pixel bird, life is simple! Shoot fruits at other birds or being shot...\nHey, and don't you forget the Pig Boss that shoots sausage? the UFO cat that shoot fish bones...? Get the game and enjoy chaos!!!",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "trackViewUrl": "https://apps.apple.com/de/app/bird-gun/id1571425533?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.59999,
   "userRatingCount": 15,
   "price": 0,
-  "fileSizeBytes": "40175616",
+  "fileSizeBytes": "40237056",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.4.0",
@@ -285,10 +285,10 @@
     },
     {
       "version": "1.4.0",
-      "releaseNotes": "* improve balancing for Apple Watch and iPhone\n* optimize game performance",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* improve balancing for Apple Watch and iPhone\n* optimize game performance",
       "seenAt": "2024-06-10T09:03:34Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:09.682Z",
+  "updatedAt": "2026-08-29T13:02:17.161Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Puzzle of 15",
       "description": "Puzzle of 15 is the famous sliding puzzle game playable on the Apple Watch. The game consists of 15 numbered square tiles in random order with one empty tile space. The goal of the puzzle is to arrange all tiles in ascending numerical order by performing tile moves that use the empty space.\n\nSupported Features:\n\n- Play the game on the Apple Watch\n- Glance on how many tiles are solved and how many tiles are missing to solve the puzzle\n- Automatic puzzle shuffling and puzzle solving\n- Automatic tracking of played games on the iPhone app grouped by day \n- Statistics on number of moves, times and solving successes\n- Information on best game played, with fewest moves or shortest time",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/puzzle-of-15/id972679492?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Oliver Klemenz",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Puzzle of 15",
       "description": "Puzzle of 15 is the famous sliding puzzle game playable on the Apple Watch. The game consists of 15 numbered square tiles in random order with one empty tile space. The goal of the puzzle is to arrange all tiles in ascending numerical order by performing tile moves that use the empty space.\n\nSupported Features:\n\n- Play the game on the Apple Watch\n- Glance on how many tiles are solved and how many tiles are missing to solve the puzzle\n- Automatic puzzle shuffling and puzzle solving\n- Automatic tracking of played games on the iPhone app grouped by day \n- Statistics on number of moves, times and solving successes\n- Information on best game played, with fewest moves or shortest time",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
       "trackViewUrl": "https://apps.apple.com/cn/app/puzzle-of-15/id972679492?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Oliver Klemenz",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Puzzle of 15",
       "description": "Puzzle of 15 is the famous sliding puzzle game playable on the Apple Watch. The game consists of 15 numbered square tiles in random order with one empty tile space. The goal of the puzzle is to arrange all tiles in ascending numerical order by performing tile moves that use the empty space.\n\nSupported Features:\n\n- Play the game on the Apple Watch\n- Glance on how many tiles are solved and how many tiles are missing to solve the puzzle\n- Automatic puzzle shuffling and puzzle solving\n- Automatic tracking of played games on the iPhone app grouped by day \n- Statistics on number of moves, times and solving successes\n- Information on best game played, with fewest moves or shortest time",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
       "trackViewUrl": "https://apps.apple.com/jp/app/puzzle-of-15/id972679492?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Oliver Klemenz",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Puzzle of 15",
       "description": "Puzzle of 15 is the famous sliding puzzle game playable on the Apple Watch. The game consists of 15 numbered square tiles in random order with one empty tile space. The goal of the puzzle is to arrange all tiles in ascending numerical order by performing tile moves that use the empty space.\n\nSupported Features:\n\n- Play the game on the Apple Watch\n- Glance on how many tiles are solved and how many tiles are missing to solve the puzzle\n- Automatic puzzle shuffling and puzzle solving\n- Automatic tracking of played games on the iPhone app grouped by day \n- Statistics on number of moves, times and solving successes\n- Information on best game played, with fewest moves or shortest time",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
       "trackViewUrl": "https://apps.apple.com/de/app/puzzle-of-15/id972679492?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Oliver Klemenz",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.2",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nUpdate for watchOS 4\nBug fixes and stability improvements",
       "seenAt": "2017-11-28T17:28:12Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:47:08.232Z",
+  "updatedAt": "2026-08-29T12:53:46.644Z",
   "isOwnApp": false
 }

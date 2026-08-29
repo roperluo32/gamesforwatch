@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Neon Breakout - Watch & Phone",
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/neon-breakout-watch-phone/id6449887741?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thi Thuy Diu Le",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Neon Breakout - Watch & Phone",
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/neon-breakout-watch-phone/id6449887741?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thi Thuy Diu Le",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Neon Breakout - Watch & Phone",
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/neon-breakout-watch-phone/id6449887741?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thi Thuy Diu Le",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "50420736",
+  "fileSizeBytes": "50437120",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.2.0",
@@ -255,10 +255,10 @@
     },
     {
       "version": "1.2.0",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2024-08-20T12:10:48Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:01:02.210Z",
+  "updatedAt": "2026-08-29T13:07:24.001Z",
   "isOwnApp": false
 }

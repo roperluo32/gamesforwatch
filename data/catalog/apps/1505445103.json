@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Milano Poker: Tien Len & Ta La",
       "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
-      "releaseNotes": "Improve graphics.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics.",
       "trackViewUrl": "https://apps.apple.com/us/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Milano Poker: Tien Len & Ta La",
       "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
-      "releaseNotes": "Improve graphics.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics.",
       "trackViewUrl": "https://apps.apple.com/jp/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Milano Poker: Tien Len & Ta La",
       "description": "***The game is made to play on Watch. But it is great on phone and tablet just as well ***\n\nNow you can enjoy Slot anywhere you go. Whether it's in your sweet home or waiting in a line. \n\n* Easy to play, tap on the machine screen to SPIN\n* Cyber space neon Slot with amazing lights\n* Sure BONUS everyday to grab.\n* Poker game with NEON light in the night of Milano city\n\nLive BIG, win BIG *** GET THE GAME ***",
-      "releaseNotes": "Improve graphics.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics.",
       "trackViewUrl": "https://apps.apple.com/de/app/milano-poker-tien-len-ta-la/id1505445103?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "186081280",
+  "fileSizeBytes": "186576896",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "15.6",
   "version": "2.11",
@@ -380,10 +380,10 @@
     },
     {
       "version": "2.11",
-      "releaseNotes": "Improve graphics.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove graphics.",
       "seenAt": "2025-03-24T13:41:26Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:07:14.707Z",
+  "updatedAt": "2026-08-29T13:14:45.098Z",
   "isOwnApp": false
 }

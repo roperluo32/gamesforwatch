@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Neon War - Defense The Galaxy",
       "description": "Space shooter - Galaxy attack game is now available on your Watch & Phone:\n - Unlock ship & unique skills.\n - Shoot ’em all.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/neon-war-defense-the-galaxy/id6463076545?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Neon War - Defense The Galaxy",
       "description": "Space shooter - Galaxy attack game is now available on your Watch & Phone:\n - Unlock ship & unique skills.\n - Shoot ’em all.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/neon-war-defense-the-galaxy/id6463076545?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Neon War - Defense The Galaxy",
       "description": "Space shooter - Galaxy attack game is now available on your Watch & Phone:\n - Unlock ship & unique skills.\n - Shoot ’em all.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/neon-war-defense-the-galaxy/id6463076545?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Neon War - Defense The Galaxy",
       "description": "Space shooter - Galaxy attack game is now available on your Watch & Phone:\n - Unlock ship & unique skills.\n - Shoot ’em all.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/neon-war-defense-the-galaxy/id6463076545?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -81,7 +81,7 @@
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "48131072",
+  "fileSizeBytes": "48225280",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.4.5",
@@ -295,10 +295,10 @@
     },
     {
       "version": "1.4.5",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "seenAt": "2025-03-11T14:03:57Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:52:52.744Z",
+  "updatedAt": "2026-08-29T12:59:18.918Z",
   "isOwnApp": false
 }

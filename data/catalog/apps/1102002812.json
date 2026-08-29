@@ -380,7 +380,7 @@
     },
     {
       "version": "9.0.2",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nClassic version of Dou Di Zhu, perfect standalone game!\nPowerful AI ready to start at any time, supports standalone play without internet connection!\nMultiplayer battles, a plethora of gameplay options!\nEnhance the artistic effect, optimize and boost the AI strength!\nFix known issues and optimize performance!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nClassic version of Dou Di Zhu, perfect standalone game!\nPowerful AI ready to start at any time, supports standalone play without internet connection!\nMultiplayer battles, a plethora of gameplay options!\nEnhance the artistic effect, optimize and boost the AI strength!\nFix known issues and optimize performance!",
       "seenAt": "2026-03-28T03:07:39Z"
     },
     {
@@ -414,6 +414,6 @@
       "seenAt": "2026-07-20T07:43:29Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:37:40.476Z",
+  "updatedAt": "2026-08-29T12:44:19.321Z",
   "isOwnApp": false
 }

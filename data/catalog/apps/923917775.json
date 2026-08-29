@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Neko Atsume: Kitty Collector",
       "description": "\"Playing Neko Atsume: Kitty Collector is as easy as one, two...and that's it!\nStep 1: Place playthings and snacks in your yard.\nStep 2: Wait for cats to visit!\n\nAttract cats with food and then watch them romp with your toys! More than 40 varieties of cats—white and black, tabby and calico—might stop by. Rare cats are rumored to roam the neighborhood too, but you'll need particular items to entice those elusive felines. Each visitor is logged in your Catbook. Become a master kitty collector and fill it up!\n\nYou can even make albums of your cat photos, or save them to your device and use them as wallpaper!\"\n\n\n\nIf you've found a bug or have other concerns, please contact our technical support team.\n\n[Technical Support]\nsupport-cat@hit-point.co.jp\n\n\nWe may wish to respond to your inquiry. If you're using an e-mail spam filter, please disable it before you contact us, or add @hit-point.co.jp to your list of allowed addresses.",
-      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n・Bugs have been fixd.\n・Changed specifications for video advertisement.",
       "trackViewUrl": "https://apps.apple.com/us/app/neko-atsume-kitty-collector/id923917775?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Hit-Point Co., Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "-ねこあつめ-",
       "description": "フカフカクッションに魅惑の猫缶！ご近所をうろつくねこたちを集めて観察！？ねこあつめアプリ「ねこあつめ」\n\nねこあつめの２ステップ！\n\n①遊び道具(グッズ)とゴハンを庭先に置く。\n②ねこがやってくるのを待つ。\n\nゴハンに惹かれてやってきたねこたちがグッズで遊んでいる姿を観察できます！\n白猫、黒猫、茶トラにキジトラ。ねこの種類は２０種類以上。\n中にはこだわりのグッズにしか興味をしめさないレアネコも！？\n遊びにきてくれたねこたちは「ねこ手帳」に記録されます。\nねこ手帳を完成させて目指せねこあつめマスター！\n\nねこたちの姿は写真としてアルバムに収めたり、壁紙用としてギャラリーに保存することもできます。\n\n\n\n【ねこあつめサポート】\nsupport-cat@hit-point.co.jp\n※お問い合わせいただいた後、弊社からご連絡させて頂く場合がございますので迷惑メール防止のためメールの受信設定をしている場合は、あらかじめ設定を解除、もしくはt@hit-point.co.jpからのメールの受信許可をお願いいたします。",
-      "releaseNotes": "・一部不具合を修正しました。\n・動画広告の仕様を変更しました。",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n・一部不具合を修正しました。\n・動画広告の仕様を変更しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%AD%E3%81%93%E3%81%82%E3%81%A4%E3%82%81/id923917775?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Hit-Point Co., Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Neko Atsume: Kitty Collector",
       "description": "\"Playing Neko Atsume: Kitty Collector is as easy as one, two...and that's it!\nStep 1: Place playthings and snacks in your yard.\nStep 2: Wait for cats to visit!\n\nAttract cats with food and then watch them romp with your toys! More than 40 varieties of cats—white and black, tabby and calico—might stop by. Rare cats are rumored to roam the neighborhood too, but you'll need particular items to entice those elusive felines. Each visitor is logged in your Catbook. Become a master kitty collector and fill it up!\n\nYou can even make albums of your cat photos, or save them to your device and use them as wallpaper!\"\n\n\n\nIf you've found a bug or have other concerns, please contact our technical support team.\n\n[Technical Support]\nsupport-cat@hit-point.co.jp\n\n\nWe may wish to respond to your inquiry. If you're using an e-mail spam filter, please disable it before you contact us, or add @hit-point.co.jp to your list of allowed addresses.",
-      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n・Bugs have been fixd.\n・Changed specifications for video advertisement.",
       "trackViewUrl": "https://apps.apple.com/de/app/neko-atsume-kitty-collector/id923917775?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Hit-Point Co., Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.6805,
   "userRatingCount": 241,
   "price": 0,
-  "fileSizeBytes": "55072768",
+  "fileSizeBytes": "55302144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "1.15.1",
@@ -395,10 +395,10 @@
     },
     {
       "version": "1.15.1",
-      "releaseNotes": "・Bugs have been fixd.\n・Changed specifications for video advertisement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n・Bugs have been fixd.\n・Changed specifications for video advertisement.",
       "seenAt": "2024-03-19T02:02:09Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:53:15.643Z",
+  "updatedAt": "2026-08-29T12:59:41.438Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Crown Defender",
       "description": "DEFEND. SURVIVE. CONQUER.\n\nCrown Defender transforms your Apple Watch into an action-packed arcade! Use the Digital Crown as your weapon and face waves of incoming threats in this fast-paced adventure.\n\nFEATURES\n• Innovative Digital Crown controls\n• Lightning-fast gameplay\n• Haptic feedback for immersive experience\n• Challenge friends with high scores\n• Perfect for quick gaming sessions\n• Free to play - no hidden costs!\n\nGAMEPLAY\nSimple to learn, hard to master! Turn the Digital Crown to position your defense and time your moves perfectly. Each level increases the challenge - how long can you survive?\n\nReady to become a Crown Defender champion? Download NOW and prove your skills!",
-      "releaseNotes": "Minor bugs have been fixed to enhance the gameplay experience and overall excitement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bugs have been fixed to enhance the gameplay experience and overall excitement.",
       "trackViewUrl": "https://apps.apple.com/us/app/crown-defender/id6741389283?uo=4",
       "formattedPrice": "Free",
       "sellerName": "swipe GmbH",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Crown Defender",
       "description": "DEFEND. SURVIVE. CONQUER.\n\nCrown Defender transforms your Apple Watch into an action-packed arcade! Use the Digital Crown as your weapon and face waves of incoming threats in this fast-paced adventure.\n\nFEATURES\n• Innovative Digital Crown controls\n• Lightning-fast gameplay\n• Haptic feedback for immersive experience\n• Challenge friends with high scores\n• Perfect for quick gaming sessions\n• Free to play - no hidden costs!\n\nGAMEPLAY\nSimple to learn, hard to master! Turn the Digital Crown to position your defense and time your moves perfectly. Each level increases the challenge - how long can you survive?\n\nReady to become a Crown Defender champion? Download NOW and prove your skills!",
-      "releaseNotes": "Minor bugs have been fixed to enhance the gameplay experience and overall excitement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bugs have been fixed to enhance the gameplay experience and overall excitement.",
       "trackViewUrl": "https://apps.apple.com/cn/app/crown-defender/id6741389283?uo=4",
       "formattedPrice": "免费",
       "sellerName": "swipe GmbH",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Crown Defender",
       "description": "DEFEND. SURVIVE. CONQUER.\n\nCrown Defender transforms your Apple Watch into an action-packed arcade! Use the Digital Crown as your weapon and face waves of incoming threats in this fast-paced adventure.\n\nFEATURES\n• Innovative Digital Crown controls\n• Lightning-fast gameplay\n• Haptic feedback for immersive experience\n• Challenge friends with high scores\n• Perfect for quick gaming sessions\n• Free to play - no hidden costs!\n\nGAMEPLAY\nSimple to learn, hard to master! Turn the Digital Crown to position your defense and time your moves perfectly. Each level increases the challenge - how long can you survive?\n\nReady to become a Crown Defender champion? Download NOW and prove your skills!",
-      "releaseNotes": "Minor bugs have been fixed to enhance the gameplay experience and overall excitement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bugs have been fixed to enhance the gameplay experience and overall excitement.",
       "trackViewUrl": "https://apps.apple.com/jp/app/crown-defender/id6741389283?uo=4",
       "formattedPrice": "無料",
       "sellerName": "swipe GmbH",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Crown Defender",
       "description": "DEFEND. SURVIVE. CONQUER.\n\nCrown Defender transforms your Apple Watch into an action-packed arcade! Use the Digital Crown as your weapon and face waves of incoming threats in this fast-paced adventure.\n\nFEATURES\n• Innovative Digital Crown controls\n• Lightning-fast gameplay\n• Haptic feedback for immersive experience\n• Challenge friends with high scores\n• Perfect for quick gaming sessions\n• Free to play - no hidden costs!\n\nGAMEPLAY\nSimple to learn, hard to master! Turn the Digital Crown to position your defense and time your moves perfectly. Each level increases the challenge - how long can you survive?\n\nReady to become a Crown Defender champion? Download NOW and prove your skills!",
-      "releaseNotes": "Minor bugs have been fixed to enhance the gameplay experience and overall excitement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bugs have been fixed to enhance the gameplay experience and overall excitement.",
       "trackViewUrl": "https://apps.apple.com/de/app/crown-defender/id6741389283?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "swipe GmbH",
@@ -73,7 +73,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "8211456",
+  "fileSizeBytes": "8223744",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.1",
@@ -232,10 +232,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "Minor bugs have been fixed to enhance the gameplay experience and overall excitement.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor bugs have been fixed to enhance the gameplay experience and overall excitement.",
       "seenAt": "2025-02-04T18:13:57Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:57:54.666Z",
+  "updatedAt": "2026-08-29T13:04:18.792Z",
   "isOwnApp": false
 }

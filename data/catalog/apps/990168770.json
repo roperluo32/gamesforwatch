@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Get 11+",
       "description": "Get 11+ is a number puzzle game. It's easy to start, but it's hard to get 11+. Just enjoy this funny game!\n\nEasy to play:\nClick the tiles with same number, and they will pop up. Click again to merge them together. Enjoy it and try to get 11+!\n\nFeatures:\n· Simple and beautiful design.\n· Allow to submit high score to Game Center.\n· Share your score with your friends via Facebook.",
-      "releaseNotes": "- Adjusted with latest iOS changes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Adjusted with latest iOS changes",
       "trackViewUrl": "https://apps.apple.com/us/app/get-11/id990168770?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Chaohsien Lee",
@@ -28,7 +28,7 @@
     "ja": {
       "trackName": "Get 11+",
       "description": "Get 11+ is a number puzzle game. It's easy to start, but it's hard to get 11+. Just enjoy this funny game!\n\nEasy to play:\nClick the tiles with same number, and they will pop up. Click again to merge them together. Enjoy it and try to get 11+!\n\nFeatures:\n· Simple and beautiful design.\n· Allow to submit high score to Game Center.\n· Share your score with your friends via Facebook.",
-      "releaseNotes": "- Adjusted with latest iOS changes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Adjusted with latest iOS changes",
       "trackViewUrl": "https://apps.apple.com/jp/app/get-11/id990168770?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Chaohsien Lee",
@@ -49,7 +49,7 @@
     "de": {
       "trackName": "Get 11+",
       "description": "Get 11+ is a number puzzle game. It's easy to start, but it's hard to get 11+. Just enjoy this funny game!\n\nEasy to play:\nClick the tiles with same number, and they will pop up. Click again to merge them together. Enjoy it and try to get 11+!\n\nFeatures:\n· Simple and beautiful design.\n· Allow to submit high score to Game Center.\n· Share your score with your friends via Facebook.",
-      "releaseNotes": "- Adjusted with latest iOS changes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Adjusted with latest iOS changes",
       "trackViewUrl": "https://apps.apple.com/de/app/get-11/id990168770?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Chaohsien Lee",
@@ -72,7 +72,7 @@
   "averageUserRating": 5,
   "userRatingCount": 3,
   "price": 0,
-  "fileSizeBytes": "24325120",
+  "fileSizeBytes": "24546304",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.0",
   "version": "1.18.1",
@@ -266,10 +266,10 @@
     },
     {
       "version": "1.18.1",
-      "releaseNotes": "- Adjusted with latest iOS changes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Adjusted with latest iOS changes",
       "seenAt": "2024-11-03T23:06:51Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:52:02.750Z",
+  "updatedAt": "2026-08-29T12:58:33.730Z",
   "isOwnApp": false
 }

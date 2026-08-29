@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Gold Miner (Game For Watch)",
       "description": "A classic Gold Miner game for you to enjoy on your Apple Watch:\n  - Aim on the gold while the hook swings.\n  - Tap on the screen to release the hook.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/us/app/gold-miner-game-for-watch/id1224525243?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Gold Miner (Game For Watch)",
       "description": "A classic Gold Miner game for you to enjoy on your Apple Watch:\n  - Aim on the gold while the hook swings.\n  - Tap on the screen to release the hook.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/jp/app/gold-miner-game-for-watch/id1224525243?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Gold Miner (Game For Watch)",
       "description": "A classic Gold Miner game for you to enjoy on your Apple Watch:\n  - Aim on the gold while the hook swings.\n  - Tap on the screen to release the hook.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/de/app/gold-miner-game-for-watch/id1224525243?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Nguyen Huy Diep",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "25222144",
+  "fileSizeBytes": "25250816",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "10.0",
   "version": "3.0.0",
@@ -255,10 +255,10 @@
     },
     {
       "version": "3.0.0",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "seenAt": "2023-11-21T07:23:51Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:11:10.406Z",
+  "updatedAt": "2026-08-29T13:17:50.698Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Air Basketball Gun",
       "description": "This is a virtual sports app that combines basketball shooting, tennis hitting and dart throwing. No matter where you are, you only need one device and watch to enjoy the fun of sports and improve your sports skills. Whether you are a loyal fan of basketball, a fanatic of tennis, or a precise dart thrower, there is a place for you here.\n\nMotion recognition technology: Using advanced sensors and algorithms, accurately capture every action of yours, whether it is shooting, hitting or throwing, you can get real feedback.\nImmersive audio effect: According to your every action, provide corresponding sound effect feedback, so that you can feel the excitement and satisfaction of every score.\nAccessible design: Considering the needs of different users, provide barrier-free functions to ensure that everyone can enjoy the fun of sports.\n\nDownload now to take you into the sports world where you can exercise at any time, so that every swing of yours is full of passion.",
-      "releaseNotes": "Fixed the issue of insufficient response.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed the issue of insufficient response.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-air-basketball-gun/id6503431161?uo=4",
       "formattedPrice": "Free",
       "sellerName": "嘉良 雍",
@@ -339,6 +339,6 @@
       "seenAt": "2025-08-22T15:28:04Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:42:49.387Z",
+  "updatedAt": "2026-08-29T12:49:23.944Z",
   "isOwnApp": false
 }

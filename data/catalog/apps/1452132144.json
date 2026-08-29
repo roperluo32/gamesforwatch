@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Poker Paris: danh bai online",
       "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
-      "releaseNotes": "Improve stability.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove stability.",
       "trackViewUrl": "https://apps.apple.com/us/app/poker-paris-danh-bai-online/id1452132144?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Poker Paris: danh bai online",
       "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
-      "releaseNotes": "Improve stability.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove stability.",
       "trackViewUrl": "https://apps.apple.com/jp/app/poker-paris-danh-bai-online/id1452132144?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Poker Paris: danh bai online",
       "description": "* Playing various Poker games with traditional or new Rules at your choice!\n** Amazing graphics of French luxury tables\n*** Large community of positive players worldwide\n-------------------------------------------------\nGET the game, SHOW your skills!!!",
-      "releaseNotes": "Improve stability.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove stability.",
       "trackViewUrl": "https://apps.apple.com/de/app/poker-paris-danh-bai-online/id1452132144?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.3,
   "userRatingCount": 90,
   "price": 0,
-  "fileSizeBytes": "185821184",
+  "fileSizeBytes": "186304512",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "12.4",
   "version": "1.41",
@@ -364,10 +364,10 @@
     },
     {
       "version": "1.41",
-      "releaseNotes": "Improve stability.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove stability.",
       "seenAt": "2025-03-19T17:35:15Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:08:27.633Z",
+  "updatedAt": "2026-08-29T13:14:37.117Z",
   "isOwnApp": false
 }

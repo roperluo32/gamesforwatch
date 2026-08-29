@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Balloon pop party",
       "description": "Only birds know how to fly... until the dogs learnt to use balloons to control the sky :(( We gotta pop their balloons. Just one notice, any miss will cost your life...\nP/S: BALLOONS are made for popping!!! Move out",
-      "releaseNotes": "Fix a graphics bug on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a graphics bug on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/balloon-pop-party/id1581074329?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Balloon pop party: 打爆气球",
       "description": "Only birds know how to fly... until the dogs learnt to use balloons to control the sky :(( We gotta pop their balloons. Just one notice, any miss will cost your life...\nP/S: BALLOONS are made for popping!!! Move out",
-      "releaseNotes": "Fix a graphics bug on Apple Watch.",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\nFix a graphics bug on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/cn/app/balloon-pop-party-%E6%89%93%E7%88%86%E6%B0%94%E7%90%83/id1581074329?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Balloon pop party",
       "description": "Only birds know how to fly... until the dogs learnt to use balloons to control the sky :(( We gotta pop their balloons. Just one notice, any miss will cost your life...\nP/S: BALLOONS are made for popping!!! Move out",
-      "releaseNotes": "Fix a graphics bug on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a graphics bug on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/balloon-pop-party/id1581074329?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Balloon pop party",
       "description": "Only birds know how to fly... until the dogs learnt to use balloons to control the sky :(( We gotta pop their balloons. Just one notice, any miss will cost your life...\nP/S: BALLOONS are made for popping!!! Move out",
-      "releaseNotes": "Fix a graphics bug on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a graphics bug on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/balloon-pop-party/id1581074329?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "42665984",
+  "fileSizeBytes": "42727424",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "1.4.0",
@@ -295,10 +295,10 @@
     },
     {
       "version": "1.4.0",
-      "releaseNotes": "Fix a graphics bug on Apple Watch.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a graphics bug on Apple Watch.",
       "seenAt": "2024-08-20T09:17:02Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:44:10.984Z",
+  "updatedAt": "2026-08-29T12:50:49.835Z",
   "isOwnApp": false
 }

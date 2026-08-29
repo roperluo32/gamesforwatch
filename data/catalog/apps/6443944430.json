@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Spindle - A word chain puzzle",
       "description": "Spindle is simple to play... but you need to think ahead!\nThe goal: make a chain of as many 4-letter words as possible, starting with a seed word and turning one letter spindle to create a new word.\nSound easy? Not so fast! Spindles lock with each new word; as more spindles lock, there are fewer playable words. You must turn each spindle once, to unlock them all and start the cycle again.\nFor example, you can play CAMP > CAME > COME > DOME > DONE. With DONE, all 4 spindles have been turned once; they unlock and the cycle starts again. But you can't play CAMP > DAMP > LAMP > RAMP, and so on.\nSpindle uses a dictionary of over 4,000 four-letter words. A game ends if a submitted word is not in the dictionary, OR if the word is accepted but there are no more words you can make with the remaining unturned spindles.\nScroll through the word chain at the top to see what you've played. The bar directly underneath represents how many (or how few) playable words are available for any given combination. Keep an eye on it to avoid breaking the chain!\nStuck in a jam? Each game gives you three chances to use a 'save.' There are two types of save:\nUndo: go back one word.\nUnlock: make all 4 spindles available to turn.\nHow long can you make your chain? That depends on your vocabulary and your gameplay strategy!\n\nSpindle is available for iPhone, iPad and Apple Watch, and via iCloud syncs gameplay, high scores & in-app purchasing across all your devices. Start a game on your phone, finish it on your watch - no problem!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/spindle-a-word-chain-puzzle/id6443944430?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Elizabeth Ashley",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Spindle - A word chain puzzle",
       "description": "Spindle is simple to play... but you need to think ahead!\nThe goal: make a chain of as many 4-letter words as possible, starting with a seed word and turning one letter spindle to create a new word.\nSound easy? Not so fast! Spindles lock with each new word; as more spindles lock, there are fewer playable words. You must turn each spindle once, to unlock them all and start the cycle again.\nFor example, you can play CAMP > CAME > COME > DOME > DONE. With DONE, all 4 spindles have been turned once; they unlock and the cycle starts again. But you can't play CAMP > DAMP > LAMP > RAMP, and so on.\nSpindle uses a dictionary of over 4,000 four-letter words. A game ends if a submitted word is not in the dictionary, OR if the word is accepted but there are no more words you can make with the remaining unturned spindles.\nScroll through the word chain at the top to see what you've played. The bar directly underneath represents how many (or how few) playable words are available for any given combination. Keep an eye on it to avoid breaking the chain!\nStuck in a jam? Each game gives you three chances to use a 'save.' There are two types of save:\nUndo: go back one word.\nUnlock: make all 4 spindles available to turn.\nHow long can you make your chain? That depends on your vocabulary and your gameplay strategy!\n\nSpindle is available for iPhone, iPad and Apple Watch, and via iCloud syncs gameplay, high scores & in-app purchasing across all your devices. Start a game on your phone, finish it on your watch - no problem!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/spindle-a-word-chain-puzzle/id6443944430?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Elizabeth Ashley",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Spindle - A word chain puzzle",
       "description": "Spindle is simple to play... but you need to think ahead!\nThe goal: make a chain of as many 4-letter words as possible, starting with a seed word and turning one letter spindle to create a new word.\nSound easy? Not so fast! Spindles lock with each new word; as more spindles lock, there are fewer playable words. You must turn each spindle once, to unlock them all and start the cycle again.\nFor example, you can play CAMP > CAME > COME > DOME > DONE. With DONE, all 4 spindles have been turned once; they unlock and the cycle starts again. But you can't play CAMP > DAMP > LAMP > RAMP, and so on.\nSpindle uses a dictionary of over 4,000 four-letter words. A game ends if a submitted word is not in the dictionary, OR if the word is accepted but there are no more words you can make with the remaining unturned spindles.\nScroll through the word chain at the top to see what you've played. The bar directly underneath represents how many (or how few) playable words are available for any given combination. Keep an eye on it to avoid breaking the chain!\nStuck in a jam? Each game gives you three chances to use a 'save.' There are two types of save:\nUndo: go back one word.\nUnlock: make all 4 spindles available to turn.\nHow long can you make your chain? That depends on your vocabulary and your gameplay strategy!\n\nSpindle is available for iPhone, iPad and Apple Watch, and via iCloud syncs gameplay, high scores & in-app purchasing across all your devices. Start a game on your phone, finish it on your watch - no problem!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/spindle-a-word-chain-puzzle/id6443944430?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Elizabeth Ashley",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "6856704",
+  "fileSizeBytes": "6979584",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
   "version": "1.0",
@@ -228,10 +228,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2022-11-19T09:35:21Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:20:45.334Z",
+  "updatedAt": "2026-08-29T13:26:39.786Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch and Solve",
       "description": "Watch And Solve brings bite-sized brain workouts to your wrist.\nIt’s not just another casual game—it's a daily mental boost, perfectly crafted for Apple Watch. Designed for clarity and simplicity, this puzzle app keeps your mind sharp with short, engaging logic challenges anytime, anywhere.\n\nWhether you're on the train, in a waiting room, or just want a mental stretch, Watch And Solve fits your time and focus.\n\n100 Handcrafted Puzzles\nEach level is carefully designed to challenge your reasoning without overwhelming you. If you get stuck, you can choose to reveal a helpful explanation—so you learn instead of hitting a wall.\n\nCategories Include:\n- Pattern Sequences – Spot the next number or item in logical progressions.\n- Word and Letter Logic – Rearranging, decoding, or interpreting letters.\n- Mathematical Puzzles – Simple calculations or abstract number logic.\n- Spatial Reasoning – Visual thinking and geometric relationships.\n- Logic Riddles – Classic-style puzzles that require lateral thinking.\n- Code & Cipher – Basic cryptography to crack simple encoded messages.\n\nMade for the Watch\nNo distractions. No complex UI. Just a clean, intuitive experience optimized for small screens. You can pick up where you left off with no friction—perfect for quick mental breaks.\n\nReplayable. Expandable. Thoughtful.\nStart with 100 levels and expect more as the app evolves. Each update will bring fresh challenges while staying true to the minimal experience.\n\nThink. Solve. Learn. Right from your wrist.\nDownload Watch And Solve and turn spare moments into brain-training sessions.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-and-solve/id6744606714?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Watch and Solve",
       "description": "Watch And Solve brings bite-sized brain workouts to your wrist.\nIt’s not just another casual game—it's a daily mental boost, perfectly crafted for Apple Watch. Designed for clarity and simplicity, this puzzle app keeps your mind sharp with short, engaging logic challenges anytime, anywhere.\n\nWhether you're on the train, in a waiting room, or just want a mental stretch, Watch And Solve fits your time and focus.\n\n100 Handcrafted Puzzles\nEach level is carefully designed to challenge your reasoning without overwhelming you. If you get stuck, you can choose to reveal a helpful explanation—so you learn instead of hitting a wall.\n\nCategories Include:\n- Pattern Sequences – Spot the next number or item in logical progressions.\n- Word and Letter Logic – Rearranging, decoding, or interpreting letters.\n- Mathematical Puzzles – Simple calculations or abstract number logic.\n- Spatial Reasoning – Visual thinking and geometric relationships.\n- Logic Riddles – Classic-style puzzles that require lateral thinking.\n- Code & Cipher – Basic cryptography to crack simple encoded messages.\n\nMade for the Watch\nNo distractions. No complex UI. Just a clean, intuitive experience optimized for small screens. You can pick up where you left off with no friction—perfect for quick mental breaks.\n\nReplayable. Expandable. Thoughtful.\nStart with 100 levels and expect more as the app evolves. Each update will bring fresh challenges while staying true to the minimal experience.\n\nThink. Solve. Learn. Right from your wrist.\nDownload Watch And Solve and turn spare moments into brain-training sessions.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-and-solve/id6744606714?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Watch and Solve",
       "description": "Watch And Solve brings bite-sized brain workouts to your wrist.\nIt’s not just another casual game—it's a daily mental boost, perfectly crafted for Apple Watch. Designed for clarity and simplicity, this puzzle app keeps your mind sharp with short, engaging logic challenges anytime, anywhere.\n\nWhether you're on the train, in a waiting room, or just want a mental stretch, Watch And Solve fits your time and focus.\n\n100 Handcrafted Puzzles\nEach level is carefully designed to challenge your reasoning without overwhelming you. If you get stuck, you can choose to reveal a helpful explanation—so you learn instead of hitting a wall.\n\nCategories Include:\n- Pattern Sequences – Spot the next number or item in logical progressions.\n- Word and Letter Logic – Rearranging, decoding, or interpreting letters.\n- Mathematical Puzzles – Simple calculations or abstract number logic.\n- Spatial Reasoning – Visual thinking and geometric relationships.\n- Logic Riddles – Classic-style puzzles that require lateral thinking.\n- Code & Cipher – Basic cryptography to crack simple encoded messages.\n\nMade for the Watch\nNo distractions. No complex UI. Just a clean, intuitive experience optimized for small screens. You can pick up where you left off with no friction—perfect for quick mental breaks.\n\nReplayable. Expandable. Thoughtful.\nStart with 100 levels and expect more as the app evolves. Each update will bring fresh challenges while staying true to the minimal experience.\n\nThink. Solve. Learn. Right from your wrist.\nDownload Watch And Solve and turn spare moments into brain-training sessions.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-and-solve/id6744606714?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3573760",
+  "fileSizeBytes": "3602432",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
   "version": "1.0",
@@ -223,10 +223,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-04-15T20:07:16Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:31.697Z",
+  "updatedAt": "2026-08-29T12:57:05.587Z",
   "isOwnApp": false
 }

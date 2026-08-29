@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mini Golf - Watch Game",
       "description": "How to play with the Apple Watch?\nMove the Digital Crown wheel to mark the direction, touch the screen to throw the ball.\n\nAnd to play on the iPhone / iPad?\nSwipe to mark the direction and power. Release to throw the ball.\n\n25 circuits available. In each of them there will be a High Score (Game Center) to see who makes the best score. There is also a high score for the Apple Watch.\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked.\n2- Play with the Apple Watch and before sending the score, open the app on the iPhone. When you press \"Send Score\" from Apple Watch, a screen on the iPhone with the score will be ready to send.\n\nNow you can know if you are the best on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-golf-watch-game/id1499311067?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Mini Golf - Watch Game",
       "description": "How to play with the Apple Watch?\nMove the Digital Crown wheel to mark the direction, touch the screen to throw the ball.\n\nAnd to play on the iPhone / iPad?\nSwipe to mark the direction and power. Release to throw the ball.\n\n25 circuits available. In each of them there will be a High Score (Game Center) to see who makes the best score. There is also a high score for the Apple Watch.\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked.\n2- Play with the Apple Watch and before sending the score, open the app on the iPhone. When you press \"Send Score\" from Apple Watch, a screen on the iPhone with the score will be ready to send.\n\nNow you can know if you are the best on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-golf-watch-game/id1499311067?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Mini Golf - Watch Game",
       "description": "How to play with the Apple Watch?\nMove the Digital Crown wheel to mark the direction, touch the screen to throw the ball.\n\nAnd to play on the iPhone / iPad?\nSwipe to mark the direction and power. Release to throw the ball.\n\n25 circuits available. In each of them there will be a High Score (Game Center) to see who makes the best score. There is also a high score for the Apple Watch.\n\nTo submit the Apple Watch score to the ranking:\n1- The iPhone and Apple Watch must be linked.\n2- Play with the Apple Watch and before sending the score, open the app on the iPhone. When you press \"Send Score\" from Apple Watch, a screen on the iPhone with the score will be ready to send.\n\nNow you can know if you are the best on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-golf-watch-game/id1499311067?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 3.28571,
   "userRatingCount": 7,
   "price": 0,
-  "fileSizeBytes": "54124544",
+  "fileSizeBytes": "54300672",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.4.1",
@@ -323,10 +323,10 @@
     },
     {
       "version": "1.4.1",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-01-22T19:13:45Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:34:41.333Z",
+  "updatedAt": "2026-08-29T12:41:23.473Z",
   "isOwnApp": false
 }

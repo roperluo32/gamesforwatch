@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tropical Jigsaw Puzzles - Imagine Your Vacation",
       "description": "Imagine yourself at a hot beach... sound of ocean... shiny blue sky and relaxing music... \n\nSo the app is all about it!! \n\nThe app gives you amazing tropical jigsaw puzzles with all the tropical mood, ocean sounds and relaxing guitar music. \n\nTake your time, ant the app brings you there! \n\nFeatures: \n* Relaxing jigsaw puzzles of tropics and holiday mood. \n* Ocean mood relaxing music and sounds. \n* 3 difficulty levels \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support. \n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Share completed puzzles with your friends! \n\nWe are very excited sharing vacation mood with you! \nEnjoy! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Violin. Some of music and sound effects licensed from (c) StockMusicSite / Lynne Publishing (PRS) / Soundelicious (BMI).",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "trackViewUrl": "https://apps.apple.com/us/app/tropical-jigsaw-puzzles-imagine-your-vacation/id559742131?uo=4",
       "formattedPrice": "Free",
       "sellerName": "UAB Target Works",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Tropical Jigsaw Puzzles - Imagine Your Vacation",
       "description": "Imagine yourself at a hot beach... sound of ocean... shiny blue sky and relaxing music... \n\nSo the app is all about it!! \n\nThe app gives you amazing tropical jigsaw puzzles with all the tropical mood, ocean sounds and relaxing guitar music. \n\nTake your time, ant the app brings you there! \n\nFeatures: \n* Relaxing jigsaw puzzles of tropics and holiday mood. \n* Ocean mood relaxing music and sounds. \n* 3 difficulty levels \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support. \n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Share completed puzzles with your friends! \n\nWe are very excited sharing vacation mood with you! \nEnjoy! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Violin. Some of music and sound effects licensed from (c) StockMusicSite / Lynne Publishing (PRS) / Soundelicious (BMI).",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "trackViewUrl": "https://apps.apple.com/jp/app/tropical-jigsaw-puzzles-imagine-your-vacation/id559742131?uo=4",
       "formattedPrice": "無料",
       "sellerName": "UAB Target Works",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Tropical Jigsaw Puzzles - Imagine Your Vacation",
       "description": "Imagine yourself at a hot beach... sound of ocean... shiny blue sky and relaxing music... \n\nSo the app is all about it!! \n\nThe app gives you amazing tropical jigsaw puzzles with all the tropical mood, ocean sounds and relaxing guitar music. \n\nTake your time, ant the app brings you there! \n\nFeatures: \n* Relaxing jigsaw puzzles of tropics and holiday mood. \n* Ocean mood relaxing music and sounds. \n* 3 difficulty levels \n* Convenient interface for your dedication to puzzle solving. \n* iPad, iPhone, iPod touch support. \n* Unlock locked puzzles by gathering stars. \n* Time-challenge mode for improving your best-times. \n* Share completed puzzles with your friends! \n\nWe are very excited sharing vacation mood with you! \nEnjoy! \n\n(c) UAB Target Works. Some of pictures licensed from (c) CanStockPhoto / Violin. Some of music and sound effects licensed from (c) StockMusicSite / Lynne Publishing (PRS) / Soundelicious (BMI).",
-      "releaseNotes": "Dieses Update von Apple wird die Funktionalität der App verbessern. Es enthält keine neuen Features.\n\n* Updated for iOS 10",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\n* Updated for iOS 10",
       "trackViewUrl": "https://apps.apple.com/de/app/tropical-jigsaw-puzzles-imagine-your-vacation/id559742131?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "UAB Target Works",
@@ -300,10 +300,10 @@
     },
     {
       "version": "3.5",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\n* Enhanced for iOS 10",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Enhanced for iOS 10",
       "seenAt": "2016-11-29T23:59:47Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:22:40.553Z",
+  "updatedAt": "2026-08-29T13:28:33.438Z",
   "isOwnApp": false
 }

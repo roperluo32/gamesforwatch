@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Guess The Word Game Classic",
       "description": "The first word guessing game that supports Apple watches is coming.\nIt can run independently without iPhone.\nIt supports 4, 5, 6 and 7 letters.\nThe original intention of developing this watch game: \nI wanted to play the word guessing on my Apple watch, but I didn't find any. \nSo I developed this watch game let you can play it on your Apple watch.\nHave fun!",
-      "releaseNotes": "Fixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
       "trackViewUrl": "https://apps.apple.com/us/app/guess-the-word-game-classic/id1622615056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "长金 胡",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Guess The Word Game Classic",
       "description": "The first word guessing game that supports Apple watches is coming.\nIt can run independently without iPhone.\nIt supports 4, 5, 6 and 7 letters.\nThe original intention of developing this watch game: \nI wanted to play the word guessing on my Apple watch, but I didn't find any. \nSo I developed this watch game let you can play it on your Apple watch.\nHave fun!",
-      "releaseNotes": "Fixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
       "trackViewUrl": "https://apps.apple.com/jp/app/guess-the-word-game-classic/id1622615056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "长金 胡",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Guess The Word Game Classic",
       "description": "The first word guessing game that supports Apple watches is coming.\nIt can run independently without iPhone.\nIt supports 4, 5, 6 and 7 letters.\nThe original intention of developing this watch game: \nI wanted to play the word guessing on my Apple watch, but I didn't find any. \nSo I developed this watch game let you can play it on your Apple watch.\nHave fun!",
-      "releaseNotes": "Fixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
       "trackViewUrl": "https://apps.apple.com/de/app/guess-the-word-game-classic/id1622615056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "长金 胡",
@@ -57,7 +57,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "6324224",
+  "fileSizeBytes": "6393856",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.0",
   "version": "2.3",
@@ -264,10 +264,10 @@
     },
     {
       "version": "2.3",
-      "releaseNotes": "Fixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where the pop-up box sometimes wouldn't appear at the end of the game.",
       "seenAt": "2025-04-08T00:13:40Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:52:06.732Z",
+  "updatedAt": "2026-08-29T12:58:25.161Z",
   "isOwnApp": false
 }

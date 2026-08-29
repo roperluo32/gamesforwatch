@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cards War for Watch",
       "description": "Reborn of the classic War card game!\n\nThis is very old card game, originally called \"War\". In this Cards War you can play vs AI on your watch.\n\nRules:\n\nIn the basic game there are two players and you use a standard 52 card pack. Cards rank as usual from high to low: A K Q J T 9 8 7 6 5 4 3 2. Suits are ignored in this game.\n\nDeal out all the cards, so that each player has 26. Players do not look at their cards, but keep them in a packet face down. The object of the game is to win all the cards.\n\nBoth players now turn their top card face up and put them on the table. Whoever turned the higher card takes both cards and adds them (face down) to the bottom of their packet. Then both players turn up their next card and so on.\n\nIf the turned up cards are equal there is a war. The tied cards stay on the table and both players play the next three cards on the table. Whoever has the higher of the third cards wins the war and adds all eight cards face-down to the bottom of their packet. If the third cards are equal as well, the war continues: each player puts another three cards on the table. The war goes on like this as long as the face-up cards continue to be equal. As soon as they are different the player of the higher card wins all the cards in the war.\n\nThe game continues until one player has all the cards and wins. This can take a long time.",
-      "releaseNotes": "- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/cards-war-for-watch/id6444686915?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Tihomir Radev",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Cards War for Watch",
       "description": "Reborn of the classic War card game!\n\nThis is very old card game, originally called \"War\". In this Cards War you can play vs AI on your watch.\n\nRules:\n\nIn the basic game there are two players and you use a standard 52 card pack. Cards rank as usual from high to low: A K Q J T 9 8 7 6 5 4 3 2. Suits are ignored in this game.\n\nDeal out all the cards, so that each player has 26. Players do not look at their cards, but keep them in a packet face down. The object of the game is to win all the cards.\n\nBoth players now turn their top card face up and put them on the table. Whoever turned the higher card takes both cards and adds them (face down) to the bottom of their packet. Then both players turn up their next card and so on.\n\nIf the turned up cards are equal there is a war. The tied cards stay on the table and both players play the next three cards on the table. Whoever has the higher of the third cards wins the war and adds all eight cards face-down to the bottom of their packet. If the third cards are equal as well, the war continues: each player puts another three cards on the table. The war goes on like this as long as the face-up cards continue to be equal. As soon as they are different the player of the higher card wins all the cards in the war.\n\nThe game continues until one player has all the cards and wins. This can take a long time.",
-      "releaseNotes": "- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/cards-war-for-watch/id6444686915?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Tihomir Radev",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Cards War for Watch",
       "description": "Reborn of the classic War card game!\n\nThis is very old card game, originally called \"War\". In this Cards War you can play vs AI on your watch.\n\nRules:\n\nIn the basic game there are two players and you use a standard 52 card pack. Cards rank as usual from high to low: A K Q J T 9 8 7 6 5 4 3 2. Suits are ignored in this game.\n\nDeal out all the cards, so that each player has 26. Players do not look at their cards, but keep them in a packet face down. The object of the game is to win all the cards.\n\nBoth players now turn their top card face up and put them on the table. Whoever turned the higher card takes both cards and adds them (face down) to the bottom of their packet. Then both players turn up their next card and so on.\n\nIf the turned up cards are equal there is a war. The tied cards stay on the table and both players play the next three cards on the table. Whoever has the higher of the third cards wins the war and adds all eight cards face-down to the bottom of their packet. If the third cards are equal as well, the war continues: each player puts another three cards on the table. The war goes on like this as long as the face-up cards continue to be equal. As soon as they are different the player of the higher card wins all the cards in the war.\n\nThe game continues until one player has all the cards and wins. This can take a long time.",
-      "releaseNotes": "- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/de/app/cards-war-for-watch/id6444686915?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Tihomir Radev",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "1678336",
+  "fileSizeBytes": "1690624",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
   "version": "1.1",
@@ -217,10 +217,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- minor fixes",
       "seenAt": "2024-11-11T01:40:26Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:19:43.741Z",
+  "updatedAt": "2026-08-29T13:25:55.135Z",
   "isOwnApp": false
 }

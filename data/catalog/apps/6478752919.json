@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Sudoku for Watch",
       "description": "Sudoku for Watch",
-      "releaseNotes": "Adjusted spacing of some buttons",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdjusted spacing of some buttons",
       "trackViewUrl": "https://apps.apple.com/us/app/sudoku-for-watch/id6478752919?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Park Sung Cheol",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "ウォッチ用数独",
       "description": "アップルウォッチ用数独",
-      "releaseNotes": "Adjusted spacing of some buttons",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nAdjusted spacing of some buttons",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E7%94%A8%E6%95%B0%E7%8B%AC/id6478752919?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Park Sung Cheol",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Sudoku für Watch",
       "description": "Sudoku für Watch",
-      "releaseNotes": "Adjusted spacing of some buttons",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nAdjusted spacing of some buttons",
       "trackViewUrl": "https://apps.apple.com/de/app/sudoku-f%C3%BCr-watch/id6478752919?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Park Sung Cheol",
@@ -60,7 +60,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "1111040",
+  "fileSizeBytes": "1127424",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.0.5",
@@ -238,10 +238,10 @@
     },
     {
       "version": "1.0.5",
-      "releaseNotes": "Adjusted spacing of some buttons",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdjusted spacing of some buttons",
       "seenAt": "2024-04-14T19:48:36Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:07:54.192Z",
+  "updatedAt": "2026-08-29T13:13:33.232Z",
   "isOwnApp": false
 }

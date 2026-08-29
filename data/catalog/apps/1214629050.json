@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bubble Shooter (Watch & Phone)",
       "description": "A great game for you to enjoy on your Apple Watch or your iPhone/iPad:\n\nHow to play:\n  - Match 3 or more bubble to make them burst.\n  - Tap to shoot a bubble.\n  - Drag your finger (or use Digital Crown) to aim , release to shoot.\n\n3 game modes:\n  - Classic: after 3 faults (shooting without making bubble explode) a  new row will appear.\n  - Challenge: every 5s a new row will appear, you must play like crazy.\n  - Impossible: just impossible, try your best!\n\n*** GET IT NOW ***",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/bubble-shooter-watch-phone/id1214629050?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Bubble Shooter (Watch & Phone)",
       "description": "A great game for you to enjoy on your Apple Watch or your iPhone/iPad:\n\nHow to play:\n  - Match 3 or more bubble to make them burst.\n  - Tap to shoot a bubble.\n  - Drag your finger (or use Digital Crown) to aim , release to shoot.\n\n3 game modes:\n  - Classic: after 3 faults (shooting without making bubble explode) a  new row will appear.\n  - Challenge: every 5s a new row will appear, you must play like crazy.\n  - Impossible: just impossible, try your best!\n\n*** GET IT NOW ***",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/bubble-shooter-watch-phone/id1214629050?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Bubble Shooter (Watch & Phone)",
       "description": "A great game for you to enjoy on your Apple Watch or your iPhone/iPad:\n\nHow to play:\n  - Match 3 or more bubble to make them burst.\n  - Tap to shoot a bubble.\n  - Drag your finger (or use Digital Crown) to aim , release to shoot.\n\n3 game modes:\n  - Classic: after 3 faults (shooting without making bubble explode) a  new row will appear.\n  - Challenge: every 5s a new row will appear, you must play like crazy.\n  - Impossible: just impossible, try your best!\n\n*** GET IT NOW ***",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/bubble-shooter-watch-phone/id1214629050?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Nguyen Huy Diep",
@@ -236,10 +236,10 @@
   "versionHistory": [
     {
       "version": "1.0.0",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2017-03-15T04:22:34Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:11:22.153Z",
+  "updatedAt": "2026-08-29T13:18:02.405Z",
   "isOwnApp": false
 }

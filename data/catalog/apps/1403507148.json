@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Ball Of Questions",
       "description": "Everyone knows how to use one of these. Just ask or think of your question and click the ball. The answer will be revealed immediately. The app will help you make easy decisions and choose your moves wisely.\n\nIn the latest update lucky starts will show you your fortune in different aspects of the day. Just swipe left to reveal your stars. The data updates every day.\n\nPut the ball widget on your home screen to get your answers as fast as possible!\nPut the ball app on your watch to get your answers as fast as possible!\n\nAttention! Do not rely on this app to make very important decisions!",
-      "releaseNotes": "- Apple Watch support\n- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Apple Watch support\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/ball-of-questions/id1403507148?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Tihomir Radev",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Ball Of Questions",
       "description": "Everyone knows how to use one of these. Just ask or think of your question and click the ball. The answer will be revealed immediately. The app will help you make easy decisions and choose your moves wisely.\n\nIn the latest update lucky starts will show you your fortune in different aspects of the day. Just swipe left to reveal your stars. The data updates every day.\n\nPut the ball widget on your home screen to get your answers as fast as possible!\nPut the ball app on your watch to get your answers as fast as possible!\n\nAttention! Do not rely on this app to make very important decisions!",
-      "releaseNotes": "- Apple Watch support\n- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Apple Watch support\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/cn/app/ball-of-questions/id1403507148?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Tihomir Radev",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Ball Of Questions",
       "description": "Everyone knows how to use one of these. Just ask or think of your question and click the ball. The answer will be revealed immediately. The app will help you make easy decisions and choose your moves wisely.\n\nIn the latest update lucky starts will show you your fortune in different aspects of the day. Just swipe left to reveal your stars. The data updates every day.\n\nPut the ball widget on your home screen to get your answers as fast as possible!\nPut the ball app on your watch to get your answers as fast as possible!\n\nAttention! Do not rely on this app to make very important decisions!",
-      "releaseNotes": "- Apple Watch support\n- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Apple Watch support\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/ball-of-questions/id1403507148?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Tihomir Radev",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Ball Of Questions",
       "description": "Everyone knows how to use one of these. Just ask or think of your question and click the ball. The answer will be revealed immediately. The app will help you make easy decisions and choose your moves wisely.\n\nIn the latest update lucky starts will show you your fortune in different aspects of the day. Just swipe left to reveal your stars. The data updates every day.\n\nPut the ball widget on your home screen to get your answers as fast as possible!\nPut the ball app on your watch to get your answers as fast as possible!\n\nAttention! Do not rely on this app to make very important decisions!",
-      "releaseNotes": "- Apple Watch support\n- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Apple Watch support\n- minor fixes",
       "trackViewUrl": "https://apps.apple.com/de/app/ball-of-questions/id1403507148?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Tihomir Radev",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "7241728",
+  "fileSizeBytes": "7319552",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "4.1",
@@ -289,10 +289,10 @@
     },
     {
       "version": "4.1",
-      "releaseNotes": "- Apple Watch support\n- minor fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Apple Watch support\n- minor fixes",
       "seenAt": "2024-08-07T00:42:22Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:04:16.014Z",
+  "updatedAt": "2026-08-29T13:10:58.010Z",
   "isOwnApp": false
 }

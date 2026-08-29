@@ -7,7 +7,7 @@
     "en": {
       "trackName": "TapGame!",
       "description": "TapGame is a fun and engaging game designed to test your reflexes and precision. Tap the correct shapes as quickly as possible to earn points and progress through exciting levels. \n\nKey Features:\n- Fast-paced gameplay to test your speed and reflexes.\n- Earn trophies: Bronze, Silver, Gold, and Platinum.\n- Unlock challenging levels with increasing difficulty.\n- Beautiful and minimalistic design.\n- Perfect for quick, casual gaming sessions or intense challenges.\n\nHow to Play:\n- Tap the correct shapes before time runs out.\n- Avoid red squares and grab bonus points by tapping blue squares.\n- Keep improving your score to unlock new levels and trophies!\n\nAre you ready to become the ultimate tapping champion? Download TapGame now and start your journey to the top of the leaderboard!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/tapgame/id6739852874?uo=4",
       "formattedPrice": "Free",
       "sellerName": "TIBOR BANKO",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "TapGame!",
       "description": "TapGame is a fun and engaging game designed to test your reflexes and precision. Tap the correct shapes as quickly as possible to earn points and progress through exciting levels. \n\nKey Features:\n- Fast-paced gameplay to test your speed and reflexes.\n- Earn trophies: Bronze, Silver, Gold, and Platinum.\n- Unlock challenging levels with increasing difficulty.\n- Beautiful and minimalistic design.\n- Perfect for quick, casual gaming sessions or intense challenges.\n\nHow to Play:\n- Tap the correct shapes before time runs out.\n- Avoid red squares and grab bonus points by tapping blue squares.\n- Keep improving your score to unlock new levels and trophies!\n\nAre you ready to become the ultimate tapping champion? Download TapGame now and start your journey to the top of the leaderboard!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/tapgame/id6739852874?uo=4",
       "formattedPrice": "免费",
       "sellerName": "TIBOR BANKO",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "TapGame!",
       "description": "TapGame is a fun and engaging game designed to test your reflexes and precision. Tap the correct shapes as quickly as possible to earn points and progress through exciting levels. \n\nKey Features:\n- Fast-paced gameplay to test your speed and reflexes.\n- Earn trophies: Bronze, Silver, Gold, and Platinum.\n- Unlock challenging levels with increasing difficulty.\n- Beautiful and minimalistic design.\n- Perfect for quick, casual gaming sessions or intense challenges.\n\nHow to Play:\n- Tap the correct shapes before time runs out.\n- Avoid red squares and grab bonus points by tapping blue squares.\n- Keep improving your score to unlock new levels and trophies!\n\nAre you ready to become the ultimate tapping champion? Download TapGame now and start your journey to the top of the leaderboard!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tapgame/id6739852874?uo=4",
       "formattedPrice": "無料",
       "sellerName": "TIBOR BANKO",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "TapGame!",
       "description": "TapGame is a fun and engaging game designed to test your reflexes and precision. Tap the correct shapes as quickly as possible to earn points and progress through exciting levels. \n\nKey Features:\n- Fast-paced gameplay to test your speed and reflexes.\n- Earn trophies: Bronze, Silver, Gold, and Platinum.\n- Unlock challenging levels with increasing difficulty.\n- Beautiful and minimalistic design.\n- Perfect for quick, casual gaming sessions or intense challenges.\n\nHow to Play:\n- Tap the correct shapes before time runs out.\n- Avoid red squares and grab bonus points by tapping blue squares.\n- Keep improving your score to unlock new levels and trophies!\n\nAre you ready to become the ultimate tapping champion? Download TapGame now and start your journey to the top of the leaderboard!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/tapgame/id6739852874?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "TIBOR BANKO",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2403328",
+  "fileSizeBytes": "2423808",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -239,10 +239,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-12-30T00:44:55Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:54:26.024Z",
+  "updatedAt": "2026-08-29T13:00:50.987Z",
   "isOwnApp": false
 }

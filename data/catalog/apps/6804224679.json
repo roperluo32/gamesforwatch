@@ -1,14 +1,14 @@
 {
   "trackId": "6804224679",
   "bundleId": "com.numbertiles",
-  "slug": "number-tiles-watch-game",
-  "path": "/apps/6804224679-number-tiles-watch-game/",
+  "slug": "number-tiles-2048-merge",
+  "path": "/apps/6804224679-number-tiles-2048-merge/",
   "locales": {
     "en": {
-      "trackName": "Number Tiles - Watch Game",
-      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/us/app/number-tiles-watch-game/id6804224679?uo=4",
+      "trackName": "Number Tiles: 2048 Merge",
+      "description": "Drop a number into one of five lanes. When two or more matching tiles touch, they merge into a higher value—and a well-planned move can trigger a satisfying chain reaction.\n\nNumber Tiles turns the familiar 2048 idea into a quick strategy puzzle made for both iPhone and Apple Watch. Every tile changes the board: choose a lane, set up your next merge, and keep space open as the numbers climb.\n\nWHY YOU’LL LIKE IT\n• Play on iPhone and Apple Watch\n• Simple tap-to-place controls\n• Five-lane strategy with chain combos\n• Quick sessions that fit any break\n• High-score chasing with colorful feedback\n• Sound and haptics you can control\n\nStart with a simple tile. Plan ahead, build bigger numbers, and beat your best score.",
+      "releaseNotes": "Fix known problems",
+      "trackViewUrl": "https://apps.apple.com/us/app/number-tiles-2048-merge/id6804224679?uo=4",
       "formattedPrice": "Free",
       "sellerName": "秀平 王",
       "genres": [
@@ -27,13 +27,13 @@
         "ES",
         "ZH"
       ],
-      "subtitle": "Match & Merge: 2048 Block Game"
+      "subtitle": "Drop & Match Puzzle on Watch"
     },
     "ja": {
-      "trackName": "Number Tiles - Watch Game",
-      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/jp/app/number-tiles-watch-game/id6804224679?uo=4",
+      "trackName": "Number Tiles: 2048 Merge",
+      "description": "Drop a number into one of five lanes. When two or more matching tiles touch, they merge into a higher value—and a well-planned move can trigger a satisfying chain reaction.\n\nNumber Tiles turns the familiar 2048 idea into a quick strategy puzzle made for both iPhone and Apple Watch. Every tile changes the board: choose a lane, set up your next merge, and keep space open as the numbers climb.\n\nWHY YOU’LL LIKE IT\n• Play on iPhone and Apple Watch\n• Simple tap-to-place controls\n• Five-lane strategy with chain combos\n• Quick sessions that fit any break\n• High-score chasing with colorful feedback\n• Sound and haptics you can control\n\nStart with a simple tile. Plan ahead, build bigger numbers, and beat your best score.",
+      "releaseNotes": "Fix known problems",
+      "trackViewUrl": "https://apps.apple.com/jp/app/number-tiles-2048-merge/id6804224679?uo=4",
       "formattedPrice": "無料",
       "sellerName": "秀平 王",
       "genres": [
@@ -55,10 +55,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Number Tiles - Watch Game",
-      "description": "This is a simple and addictive number game inspired by 2048. Place numbers on any of the five tracks. Create groups of two or more identical numbers to merge them. Merge as many numbers as you can and challenge yourself to achieve a higher score!",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/de/app/number-tiles-watch-game/id6804224679?uo=4",
+      "trackName": "Number Tiles: 2048 Merge",
+      "description": "Drop a number into one of five lanes. When two or more matching tiles touch, they merge into a higher value—and a well-planned move can trigger a satisfying chain reaction.\n\nNumber Tiles turns the familiar 2048 idea into a quick strategy puzzle made for both iPhone and Apple Watch. Every tile changes the board: choose a lane, set up your next merge, and keep space open as the numbers climb.\n\nWHY YOU’LL LIKE IT\n• Play on iPhone and Apple Watch\n• Simple tap-to-place controls\n• Five-lane strategy with chain combos\n• Quick sessions that fit any break\n• High-score chasing with colorful feedback\n• Sound and haptics you can control\n\nStart with a simple tile. Plan ahead, build bigger numbers, and beat your best score.",
+      "releaseNotes": "Fix known problems",
+      "trackViewUrl": "https://apps.apple.com/de/app/number-tiles-2048-merge/id6804224679?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "秀平 王",
       "genres": [
@@ -80,16 +80,16 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/32/59/8b325913-9143-bd28-3b05-670e376b19f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/94/49/e9944955-e07a-1303-9fb1-3cc706954c10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "10316800",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-08-25T01:53:27Z",
-  "releaseDate": "2026-08-25T01:53:27Z",
+  "version": "1.0.1",
+  "currentVersionReleaseDate": "2026-08-28T22:51:58Z",
+  "releaseDate": "2026-08-24T07:00:00Z",
   "artistId": 1812138700,
   "artistName": "秀平 王",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
@@ -253,8 +253,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2026-08-25T01:53:27Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "Fix known problems",
+      "seenAt": "2026-08-28T22:51:58Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:49:10.114Z",
+  "updatedAt": "2026-08-29T12:55:33.480Z",
   "isOwnApp": false
 }

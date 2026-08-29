@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Block Blast! For Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\n\nBlock Blast: A perfect mix of block puzzle and jigsaw puzzle games, combining creativity with the classics!\nWith simple controls, wonderful sound effects, and a great rhythm, Block Blast will leave you wanting more! The perfect app on your wrist to kill time and relax!\nBlock Puzzle Game Features:\nSimple and easy to play, an excellent choice to kill time.\nNo WIFI or internet connection is needed, you can enjoy the block puzzle game anytime, anywhere.\nHow to Play Block Puzzle Games:\nDrag and drop the blocks onto the board and clear the blocks when a column or row is filled.\nWe will continuously provide blocks of various shapes until there is no remaining space on the board.\nPlan your next move as you think about what blocks might show up.\nNo matter where you are, whether you’re tired, bored, or frustrated, this block puzzle game will always be by your side to sweep away boredom and help you relax and cheer up!\nSuggestions or Comments? Give us a shout at i@ztyuu.com",
-      "releaseNotes": "- Optimize user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize user experience.",
       "trackViewUrl": "https://apps.apple.com/us/app/block-blast-for-watch/id6745073529?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "太宇 左",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Block Blast! For Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\n\nBlock Blast: A perfect mix of block puzzle and jigsaw puzzle games, combining creativity with the classics!\nWith simple controls, wonderful sound effects, and a great rhythm, Block Blast will leave you wanting more! The perfect app on your wrist to kill time and relax!\nBlock Puzzle Game Features:\nSimple and easy to play, an excellent choice to kill time.\nNo WIFI or internet connection is needed, you can enjoy the block puzzle game anytime, anywhere.\nHow to Play Block Puzzle Games:\nDrag and drop the blocks onto the board and clear the blocks when a column or row is filled.\nWe will continuously provide blocks of various shapes until there is no remaining space on the board.\nPlan your next move as you think about what blocks might show up.\nNo matter where you are, whether you’re tired, bored, or frustrated, this block puzzle game will always be by your side to sweep away boredom and help you relax and cheer up!\nSuggestions or Comments? Give us a shout at i@ztyuu.com",
-      "releaseNotes": "- Optimize user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize user experience.",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-blast-for-watch/id6745073529?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "太宇 左",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Block Blast! For Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\n\nBlock Blast: A perfect mix of block puzzle and jigsaw puzzle games, combining creativity with the classics!\nWith simple controls, wonderful sound effects, and a great rhythm, Block Blast will leave you wanting more! The perfect app on your wrist to kill time and relax!\nBlock Puzzle Game Features:\nSimple and easy to play, an excellent choice to kill time.\nNo WIFI or internet connection is needed, you can enjoy the block puzzle game anytime, anywhere.\nHow to Play Block Puzzle Games:\nDrag and drop the blocks onto the board and clear the blocks when a column or row is filled.\nWe will continuously provide blocks of various shapes until there is no remaining space on the board.\nPlan your next move as you think about what blocks might show up.\nNo matter where you are, whether you’re tired, bored, or frustrated, this block puzzle game will always be by your side to sweep away boredom and help you relax and cheer up!\nSuggestions or Comments? Give us a shout at i@ztyuu.com",
-      "releaseNotes": "- Optimize user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize user experience.",
       "trackViewUrl": "https://apps.apple.com/de/app/block-blast-for-watch/id6745073529?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "太宇 左",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3916800",
+  "fileSizeBytes": "3941376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0.3",
@@ -231,10 +231,10 @@
     },
     {
       "version": "1.0.3",
-      "releaseNotes": "- Optimize user experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize user experience.",
       "seenAt": "2025-04-28T09:49:38Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:39:15.704Z",
+  "updatedAt": "2026-08-29T12:46:00.586Z",
   "isOwnApp": false
 }

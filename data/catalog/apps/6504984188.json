@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Sport King: collect gold medal",
       "description": "Athletes around the word have gathered to compete for medals. It's time for your to join and fight for your federation. Only you can bring the wins to your territory and people. There are many sport games to play. Starting with Archery, Tennis, Ping Pong, Hurdles Race and Soccer.",
-      "releaseNotes": "Add 2 new balls for tennis and ping pong.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd 2 new balls for tennis and ping pong.",
       "trackViewUrl": "https://apps.apple.com/us/app/sport-king-collect-gold-medal/id6504984188?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Sport King: collect gold medal",
       "description": "Athletes around the word have gathered to compete for medals. It's time for your to join and fight for your federation. Only you can bring the wins to your territory and people. There are many sport games to play. Starting with Archery, Tennis, Ping Pong, Hurdles Race and Soccer.",
-      "releaseNotes": "Add 2 new balls for tennis and ping pong.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd 2 new balls for tennis and ping pong.",
       "trackViewUrl": "https://apps.apple.com/cn/app/sport-king-collect-gold-medal/id6504984188?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Sport King: collect gold medal",
       "description": "Athletes around the word have gathered to compete for medals. It's time for your to join and fight for your federation. Only you can bring the wins to your territory and people. There are many sport games to play. Starting with Archery, Tennis, Ping Pong, Hurdles Race and Soccer.",
-      "releaseNotes": "Add 2 new balls for tennis and ping pong.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd 2 new balls for tennis and ping pong.",
       "trackViewUrl": "https://apps.apple.com/jp/app/sport-king-collect-gold-medal/id6504984188?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Sport King: collect gold medal",
       "description": "Athletes around the word have gathered to compete for medals. It's time for your to join and fight for your federation. Only you can bring the wins to your territory and people. There are many sport games to play. Starting with Archery, Tennis, Ping Pong, Hurdles Race and Soccer.",
-      "releaseNotes": "Add 2 new balls for tennis and ping pong.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd 2 new balls for tennis and ping pong.",
       "trackViewUrl": "https://apps.apple.com/de/app/sport-king-collect-gold-medal/id6504984188?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "19172352",
+  "fileSizeBytes": "19315712",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
   "version": "1.14",
@@ -339,10 +339,10 @@
     },
     {
       "version": "1.14",
-      "releaseNotes": "Add 2 new balls for tennis and ping pong.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd 2 new balls for tennis and ping pong.",
       "seenAt": "2025-04-11T16:32:30Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:43:22.005Z",
+  "updatedAt": "2026-08-29T12:49:56.480Z",
   "isOwnApp": false
 }

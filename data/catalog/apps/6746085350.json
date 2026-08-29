@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Robo Attack for Watch",
       "description": "Blast waves of rogue robots in this fast-paced retro arcade shooter for Apple Watch and iPhone!\n\nInspired by classics like Robotron and Berzerk, Robo Attack delivers thrilling gameplay in bite-sized bursts — right on your wrist or phone.\n\nFeatures\n• Retro arcade-style pixel graphics\n• Fast-paced enemy waves\n• Power-ups: Shield, Triple Shot, Rapid Fire & Time Freeze\n• Smooth 60fps performance on Apple Watch\n• Crown-based Watch controls + iPhone swipes\n• Retro sound effects, music & voiceovers\n• Short-burst gameplay perfect for mobile\n• Play anywhere, anytime — no internet needed\n• No ads and no IAP!\n\nRelive the glory days of the arcade — now on your wrist.\n\nThanks for playing\nJohnno & Pete",
-      "releaseNotes": "- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/us/app/robo-attack-for-watch/id6746085350?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Robo Attack for Watch",
       "description": "Blast waves of rogue robots in this fast-paced retro arcade shooter for Apple Watch and iPhone!\n\nInspired by classics like Robotron and Berzerk, Robo Attack delivers thrilling gameplay in bite-sized bursts — right on your wrist or phone.\n\nFeatures\n• Retro arcade-style pixel graphics\n• Fast-paced enemy waves\n• Power-ups: Shield, Triple Shot, Rapid Fire & Time Freeze\n• Smooth 60fps performance on Apple Watch\n• Crown-based Watch controls + iPhone swipes\n• Retro sound effects, music & voiceovers\n• Short-burst gameplay perfect for mobile\n• Play anywhere, anytime — no internet needed\n• No ads and no IAP!\n\nRelive the glory days of the arcade — now on your wrist.\n\nThanks for playing\nJohnno & Pete",
-      "releaseNotes": "- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/jp/app/robo-attack-for-watch/id6746085350?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Robo Attack for Watch",
       "description": "Blast waves of rogue robots in this fast-paced retro arcade shooter for Apple Watch and iPhone!\n\nInspired by classics like Robotron and Berzerk, Robo Attack delivers thrilling gameplay in bite-sized bursts — right on your wrist or phone.\n\nFeatures\n• Retro arcade-style pixel graphics\n• Fast-paced enemy waves\n• Power-ups: Shield, Triple Shot, Rapid Fire & Time Freeze\n• Smooth 60fps performance on Apple Watch\n• Crown-based Watch controls + iPhone swipes\n• Retro sound effects, music & voiceovers\n• Short-burst gameplay perfect for mobile\n• Play anywhere, anytime — no internet needed\n• No ads and no IAP!\n\nRelive the glory days of the arcade — now on your wrist.\n\nThanks for playing\nJohnno & Pete",
-      "releaseNotes": "- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/de/app/robo-attack-for-watch/id6746085350?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "25807872",
+  "fileSizeBytes": "25836544",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
   "version": "2025.5",
@@ -260,10 +260,10 @@
     },
     {
       "version": "2025.5",
-      "releaseNotes": "- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed up iPad start screen layout\n- Fixed an issue where sound and voices sometimes stopped playing\n- Modified laser sound so it is less jarring\n\nThanks for playing,\nJohnno and Pete",
       "seenAt": "2025-06-18T19:57:30Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:50.112Z",
+  "updatedAt": "2026-08-29T13:01:50.244Z",
   "isOwnApp": false
 }

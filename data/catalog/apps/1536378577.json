@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Knife Fall: Precision game",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/knife-fall-precision-game/id1536378577?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Knife Fall: Precision game",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/knife-fall-precision-game/id1536378577?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Knife Fall: Precision game",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/knife-fall-precision-game/id1536378577?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "17537024",
+  "fileSizeBytes": "17565696",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "12.0",
   "version": "1.2.3",
@@ -312,10 +312,10 @@
     },
     {
       "version": "1.2.3",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-04-12T07:26:57Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:40.327Z",
+  "updatedAt": "2026-08-29T12:57:13.388Z",
   "isOwnApp": false
 }

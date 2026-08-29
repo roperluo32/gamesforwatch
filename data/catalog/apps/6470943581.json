@@ -7,7 +7,7 @@
     "en": {
       "trackName": "RoundBall Game",
       "description": "Use the paddle to keep the ball in play for...ENDLESS ROUNDBALL ACTION",
-      "releaseNotes": "Improve ball starting position...for more endless roundball action!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove ball starting position...for more endless roundball action!",
       "trackViewUrl": "https://apps.apple.com/us/app/roundball-game/id6470943581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Harbour View Technologies LLC",
@@ -24,7 +24,7 @@
     "de": {
       "trackName": "RoundBall Game",
       "description": "Use the paddle to keep the ball in play for...ENDLESS ROUNDBALL ACTION",
-      "releaseNotes": "Improve ball starting position...for more endless roundball action!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove ball starting position...for more endless roundball action!",
       "trackViewUrl": "https://apps.apple.com/de/app/roundball-game/id6470943581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Harbour View Technologies LLC",
@@ -43,7 +43,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2911232",
+  "fileSizeBytes": "2935808",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
   "version": "1.01",
@@ -213,10 +213,10 @@
     },
     {
       "version": "1.01",
-      "releaseNotes": "Improve ball starting position...for more endless roundball action!",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nImprove ball starting position...for more endless roundball action!",
       "seenAt": "2023-11-02T23:26:15Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:05.606Z",
+  "updatedAt": "2026-08-29T13:02:13.328Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Balla Balla",
       "description": "Balla Balla: The ultimate color match challenge\n\nChallenge your reflexes with Balla Balla, the addictive color-matching game designed for your Apple Watch!\n\nHow to Play: Control a paddle and bounce falling balls into their matching color zones. The balls can be red, green, blue, or yellow - react quickly, aim precisely, and keep your streak alive!\n\nKey Features:\n\nFast-Paced Action: Quick reflexes and sharp focus are key to mastering the game.\nColor Matching Fun: A vibrant challenge for your eyes and mind.\nSkill Progression: Perfect your timing and precision as the game gets faster!\nDesigned for Apple Watch: A unique and immersive gaming experience right on your wrist.\nCompete & Achieve: Break your own records or challenge friends for the top score.\n\nWhether you’re waiting in line, taking a quick break, or just looking for some fun on the go, Balla Balla is the perfect way to sharpen your mind and reflexes while having a blast!\n\nDownload now and see how long you can keep the balls bouncing in their matching zones. Are you up for the challenge?",
-      "releaseNotes": "We’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
       "trackViewUrl": "https://apps.apple.com/us/app/balla-balla/id6740024721?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Daniel Dytert",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Balla Balla",
       "description": "Balla Balla: The ultimate color match challenge\n\nChallenge your reflexes with Balla Balla, the addictive color-matching game designed for your Apple Watch!\n\nHow to Play: Control a paddle and bounce falling balls into their matching color zones. The balls can be red, green, blue, or yellow - react quickly, aim precisely, and keep your streak alive!\n\nKey Features:\n\nFast-Paced Action: Quick reflexes and sharp focus are key to mastering the game.\nColor Matching Fun: A vibrant challenge for your eyes and mind.\nSkill Progression: Perfect your timing and precision as the game gets faster!\nDesigned for Apple Watch: A unique and immersive gaming experience right on your wrist.\nCompete & Achieve: Break your own records or challenge friends for the top score.\n\nWhether you’re waiting in line, taking a quick break, or just looking for some fun on the go, Balla Balla is the perfect way to sharpen your mind and reflexes while having a blast!\n\nDownload now and see how long you can keep the balls bouncing in their matching zones. Are you up for the challenge?",
-      "releaseNotes": "We’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
       "trackViewUrl": "https://apps.apple.com/cn/app/balla-balla/id6740024721?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Daniel Dytert",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Balla Balla",
       "description": "Balla Balla: The ultimate color match challenge\n\nChallenge your reflexes with Balla Balla, the addictive color-matching game designed for your Apple Watch!\n\nHow to Play: Control a paddle and bounce falling balls into their matching color zones. The balls can be red, green, blue, or yellow - react quickly, aim precisely, and keep your streak alive!\n\nKey Features:\n\nFast-Paced Action: Quick reflexes and sharp focus are key to mastering the game.\nColor Matching Fun: A vibrant challenge for your eyes and mind.\nSkill Progression: Perfect your timing and precision as the game gets faster!\nDesigned for Apple Watch: A unique and immersive gaming experience right on your wrist.\nCompete & Achieve: Break your own records or challenge friends for the top score.\n\nWhether you’re waiting in line, taking a quick break, or just looking for some fun on the go, Balla Balla is the perfect way to sharpen your mind and reflexes while having a blast!\n\nDownload now and see how long you can keep the balls bouncing in their matching zones. Are you up for the challenge?",
-      "releaseNotes": "We’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
       "trackViewUrl": "https://apps.apple.com/jp/app/balla-balla/id6740024721?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Daniel Dytert",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Balla Balla",
       "description": "Balla Balla: The ultimate color match challenge\n\nChallenge your reflexes with Balla Balla, the addictive color-matching game designed for your Apple Watch!\n\nHow to Play: Control a paddle and bounce falling balls into their matching color zones. The balls can be red, green, blue, or yellow - react quickly, aim precisely, and keep your streak alive!\n\nKey Features:\n\nFast-Paced Action: Quick reflexes and sharp focus are key to mastering the game.\nColor Matching Fun: A vibrant challenge for your eyes and mind.\nSkill Progression: Perfect your timing and precision as the game gets faster!\nDesigned for Apple Watch: A unique and immersive gaming experience right on your wrist.\nCompete & Achieve: Break your own records or challenge friends for the top score.\n\nWhether you’re waiting in line, taking a quick break, or just looking for some fun on the go, Balla Balla is the perfect way to sharpen your mind and reflexes while having a blast!\n\nDownload now and see how long you can keep the balls bouncing in their matching zones. Are you up for the challenge?",
-      "releaseNotes": "We’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
       "trackViewUrl": "https://apps.apple.com/de/app/balla-balla/id6740024721?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Daniel Dytert",
@@ -77,7 +77,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "1076224",
+  "fileSizeBytes": "1088512",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
   "version": "1.1",
@@ -236,10 +236,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "We’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe’ve upgraded the graphics to deliver a more immersive and visually captivating gaming experience.",
       "seenAt": "2025-01-13T10:25:01Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:58:04.568Z",
+  "updatedAt": "2026-08-29T13:04:28.314Z",
   "isOwnApp": false
 }

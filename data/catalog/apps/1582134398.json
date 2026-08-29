@@ -7,7 +7,7 @@
     "zh": {
       "trackName": "Jump Run Shoot - Watch & Phone",
       "description": "A shooter game now available on your Watch & Phone:\n- Unlock new Skills.\n- Boss fighting.\n- Collect emoji.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/cn/app/jump-run-shoot-watch-phone/id1582134398?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Jump Run Shoot - Watch & Phone",
       "description": "A shooter game now available on your Watch & Phone:\n- Unlock new Skills.\n- Boss fighting.\n- Collect emoji.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/jump-run-shoot-watch-phone/id1582134398?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Jump Run Shoot - Watch & Phone",
       "description": "A shooter game now available on your Watch & Phone:\n- Unlock new Skills.\n- Boss fighting.\n- Collect emoji.",
-      "releaseNotes": "- Optimized for new OS.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/jump-run-shoot-watch-phone/id1582134398?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -63,7 +63,7 @@
   "averageUserRating": 3.6,
   "userRatingCount": 5,
   "price": 0,
-  "fileSizeBytes": "48651264",
+  "fileSizeBytes": "48716800",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.6.2",
@@ -224,6 +224,6 @@
       "seenAt": "2024-12-11T11:26:11Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:44:25.367Z",
+  "updatedAt": "2026-08-29T12:50:58.326Z",
   "isOwnApp": false
 }

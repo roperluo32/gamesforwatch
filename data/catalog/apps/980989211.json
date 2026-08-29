@@ -128,15 +128,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/88/f5/0f88f50e-d5ec-b0ec-8886-185af7bb2073/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/70/71/5470714c-2aae-94b3-454d-ec24bfbb6311/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.91667,
   "userRatingCount": 12,
   "price": 0,
-  "fileSizeBytes": "176211968",
+  "fileSizeBytes": "176302080",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "12.0.1",
-  "currentVersionReleaseDate": "2026-08-26T20:53:05Z",
+  "version": "12.0.2",
+  "currentVersionReleaseDate": "2026-08-28T22:46:47Z",
   "releaseDate": "2015-04-11T21:31:04Z",
   "artistId": 563997356,
   "artistName": "Ignacio Soto Bustos",
@@ -514,8 +514,13 @@
       "version": "12.0.1",
       "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
       "seenAt": "2026-08-26T20:53:05Z"
+    },
+    {
+      "version": "12.0.2",
+      "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
+      "seenAt": "2026-08-28T22:46:47Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:59:16.267Z",
+  "updatedAt": "2026-08-29T13:05:32.789Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Neon brick breaker PRO",
       "description": "Blast away the glowing blocks in style. An amazing world of Neon awaits you to start crashing...\nRotate digital crown to play on watch!!!\n\n---------------------------------------\n* Classic gameplay comes with modern neon graphics\n* Hundreds of well crafted levels\n* Power ups you have never seen before!\n* Various ball choices for max fun...\n\n---------------------------------------\nNow break neon bricks like a PRO with:\n* No ads\n* No in app purchase\n* improved graphics\n* new paddle colors\n* x2 gold earned compare to Neon Brick Breaker\n* New backgrounds\n---------------------------------------\nGet the game!!! Time do smash...",
-      "releaseNotes": "Add ten more balls",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd ten more balls",
       "trackViewUrl": "https://apps.apple.com/us/app/neon-brick-breaker-pro/id1480236275?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Neon brick breaker PRO",
       "description": "Blast away the glowing blocks in style. An amazing world of Neon awaits you to start crashing...\nRotate digital crown to play on watch!!!\n\n---------------------------------------\n* Classic gameplay comes with modern neon graphics\n* Hundreds of well crafted levels\n* Power ups you have never seen before!\n* Various ball choices for max fun...\n\n---------------------------------------\nNow break neon bricks like a PRO with:\n* No ads\n* No in app purchase\n* improved graphics\n* new paddle colors\n* x2 gold earned compare to Neon Brick Breaker\n* New backgrounds\n---------------------------------------\nGet the game!!! Time do smash...",
-      "releaseNotes": "Add ten more balls",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd ten more balls",
       "trackViewUrl": "https://apps.apple.com/jp/app/neon-brick-breaker-pro/id1480236275?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Neon brick breaker PRO",
       "description": "Blast away the glowing blocks in style. An amazing world of Neon awaits you to start crashing...\nRotate digital crown to play on watch!!!\n\n---------------------------------------\n* Classic gameplay comes with modern neon graphics\n* Hundreds of well crafted levels\n* Power ups you have never seen before!\n* Various ball choices for max fun...\n\n---------------------------------------\nNow break neon bricks like a PRO with:\n* No ads\n* No in app purchase\n* improved graphics\n* new paddle colors\n* x2 gold earned compare to Neon Brick Breaker\n* New backgrounds\n---------------------------------------\nGet the game!!! Time do smash...",
-      "releaseNotes": "Add ten more balls",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd ten more balls",
       "trackViewUrl": "https://apps.apple.com/de/app/neon-brick-breaker-pro/id1480236275?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "157223936",
+  "fileSizeBytes": "157264896",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "1.11",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.11",
-      "releaseNotes": "Add ten more balls",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd ten more balls",
       "seenAt": "2024-06-10T09:29:04Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:09:31.619Z",
+  "updatedAt": "2026-08-29T13:15:47.893Z",
   "isOwnApp": false
 }

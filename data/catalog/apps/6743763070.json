@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Game: Arcade WatchBash",
       "description": "WatchBash is an arcade game for watchOS similar to soccer.\n\nYou control a blue paddle and protect your goal while trying to score on your opponents.\n\nAfter an opponent is eliminated, its goal becomes a wall that makes the gameplay even more intense!\n\nEach ball color gets a boost if a paddle with the same color hits it, making the game more fast-paced and fun.\n\nCan you score 12 goals on all of your opponents and win a match? Try it out now!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-game-arcade-watchbash/id6743763070?uo=4",
       "formattedPrice": "Free",
       "sellerName": "CAIO FARIA PEDROSO",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Watch Game: Arcade WatchBash",
       "description": "WatchBash is an arcade game for watchOS similar to soccer.\n\nYou control a blue paddle and protect your goal while trying to score on your opponents.\n\nAfter an opponent is eliminated, its goal becomes a wall that makes the gameplay even more intense!\n\nEach ball color gets a boost if a paddle with the same color hits it, making the game more fast-paced and fun.\n\nCan you score 12 goals on all of your opponents and win a match? Try it out now!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/watch-game-arcade-watchbash/id6743763070?uo=4",
       "formattedPrice": "免费",
       "sellerName": "CAIO FARIA PEDROSO",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Watch Game: Arcade WatchBash",
       "description": "WatchBash is an arcade game for watchOS similar to soccer.\n\nYou control a blue paddle and protect your goal while trying to score on your opponents.\n\nAfter an opponent is eliminated, its goal becomes a wall that makes the gameplay even more intense!\n\nEach ball color gets a boost if a paddle with the same color hits it, making the game more fast-paced and fun.\n\nCan you score 12 goals on all of your opponents and win a match? Try it out now!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-game-arcade-watchbash/id6743763070?uo=4",
       "formattedPrice": "無料",
       "sellerName": "CAIO FARIA PEDROSO",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Watch Game: Arcade WatchBash",
       "description": "WatchBash is an arcade game for watchOS similar to soccer.\n\nYou control a blue paddle and protect your goal while trying to score on your opponents.\n\nAfter an opponent is eliminated, its goal becomes a wall that makes the gameplay even more intense!\n\nEach ball color gets a boost if a paddle with the same color hits it, making the game more fast-paced and fun.\n\nCan you score 12 goals on all of your opponents and win a match? Try it out now!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-game-arcade-watchbash/id6743763070?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "CAIO FARIA PEDROSO",
@@ -73,7 +73,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "773120",
+  "fileSizeBytes": "785408",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -233,10 +233,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-03-27T00:53:49Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:44:52.544Z",
+  "updatedAt": "2026-08-29T12:51:30.896Z",
   "isOwnApp": false
 }

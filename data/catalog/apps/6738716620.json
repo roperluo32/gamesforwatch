@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cat fly!",
       "description": "In a land where all cats could fly, what would a cat warrior do when his only sister is captured by a Boss? Find out the answer in this epic cat side scrolling adventure...\nOn the way rescuing his sister, Cat knight will get to jail break many cat fellows. Select the cat you want to slay the evil bosses. But with great meow power comes great meow responsibility, you need to master all the gadgets that you unlock on the way and prepare for what will come.\nGood luck and have load of meow fun,",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/cat-fly/id6738716620?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Cat fly!",
       "description": "In a land where all cats could fly, what would a cat warrior do when his only sister is captured by a Boss? Find out the answer in this epic cat side scrolling adventure...\nOn the way rescuing his sister, Cat knight will get to jail break many cat fellows. Select the cat you want to slay the evil bosses. But with great meow power comes great meow responsibility, you need to master all the gadgets that you unlock on the way and prepare for what will come.\nGood luck and have load of meow fun,",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/cat-fly/id6738716620?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Cat fly!",
       "description": "In a land where all cats could fly, what would a cat warrior do when his only sister is captured by a Boss? Find out the answer in this epic cat side scrolling adventure...\nOn the way rescuing his sister, Cat knight will get to jail break many cat fellows. Select the cat you want to slay the evil bosses. But with great meow power comes great meow responsibility, you need to master all the gadgets that you unlock on the way and prepare for what will come.\nGood luck and have load of meow fun,",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/cat-fly/id6738716620?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Cat fly!",
       "description": "In a land where all cats could fly, what would a cat warrior do when his only sister is captured by a Boss? Find out the answer in this epic cat side scrolling adventure...\nOn the way rescuing his sister, Cat knight will get to jail break many cat fellows. Select the cat you want to slay the evil bosses. But with great meow power comes great meow responsibility, you need to master all the gadgets that you unlock on the way and prepare for what will come.\nGood luck and have load of meow fun,",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/cat-fly/id6738716620?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "32340992",
+  "fileSizeBytes": "32402432",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.0",
@@ -250,10 +250,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-12-27T08:00:00Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:09:13.928Z",
+  "updatedAt": "2026-08-29T13:15:30.771Z",
   "isOwnApp": false
 }

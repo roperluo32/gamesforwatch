@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Jupiter Attack",
       "description": "Prepare to enter bullet hell...\n\nThe 2nd in the Space Watch Trilogy, Jupiter Attack pits you against an onslaught of merciless space invaders, intent on destroying Earth!\n\nUse the Digital Crown on Watch and touch screen on iPhone to move your ship and destroy the oncoming alien menace. Collect power-ups as you compete to earn the highest score in this retro inspired arcade classic.\n\n• Playable on Apple Watch and iOS devices!\n• Power-ups include multi-shot, shield and rapid fire!\n• High-score leaderboard on Apple Watch and iPhone!\n• Intuitive and simple controls using the Digital Crown  on Apple Watch!\n• Swipe to move on iPhone!\n• Retro sound effects on the iPhone!\n• Runs at 60fps on the Apple Watch!\n• Play anywhere, anytime!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nFor the first in the Space Watch Trilogy download Kepler Attack!\n\nThanks for playing\n- Johnno",
-      "releaseNotes": "Added a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/us/app/jupiter-attack/id1475755775?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Jupiter Attack",
       "description": "Prepare to enter bullet hell...\n\nThe 2nd in the Space Watch Trilogy, Jupiter Attack pits you against an onslaught of merciless space invaders, intent on destroying Earth!\n\nUse the Digital Crown on Watch and touch screen on iPhone to move your ship and destroy the oncoming alien menace. Collect power-ups as you compete to earn the highest score in this retro inspired arcade classic.\n\n• Playable on Apple Watch and iOS devices!\n• Power-ups include multi-shot, shield and rapid fire!\n• High-score leaderboard on Apple Watch and iPhone!\n• Intuitive and simple controls using the Digital Crown  on Apple Watch!\n• Swipe to move on iPhone!\n• Retro sound effects on the iPhone!\n• Runs at 60fps on the Apple Watch!\n• Play anywhere, anytime!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nFor the first in the Space Watch Trilogy download Kepler Attack!\n\nThanks for playing\n- Johnno",
-      "releaseNotes": "Added a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/jp/app/jupiter-attack/id1475755775?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Jupiter Attack",
       "description": "Prepare to enter bullet hell...\n\nThe 2nd in the Space Watch Trilogy, Jupiter Attack pits you against an onslaught of merciless space invaders, intent on destroying Earth!\n\nUse the Digital Crown on Watch and touch screen on iPhone to move your ship and destroy the oncoming alien menace. Collect power-ups as you compete to earn the highest score in this retro inspired arcade classic.\n\n• Playable on Apple Watch and iOS devices!\n• Power-ups include multi-shot, shield and rapid fire!\n• High-score leaderboard on Apple Watch and iPhone!\n• Intuitive and simple controls using the Digital Crown  on Apple Watch!\n• Swipe to move on iPhone!\n• Retro sound effects on the iPhone!\n• Runs at 60fps on the Apple Watch!\n• Play anywhere, anytime!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nFor the first in the Space Watch Trilogy download Kepler Attack!\n\nThanks for playing\n- Johnno",
-      "releaseNotes": "Added a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
       "trackViewUrl": "https://apps.apple.com/de/app/jupiter-attack/id1475755775?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -60,7 +60,7 @@
   "averageUserRating": 4.18519,
   "userRatingCount": 27,
   "price": 1.99,
-  "fileSizeBytes": "19226624",
+  "fileSizeBytes": "19255296",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "2025.4",
@@ -318,10 +318,10 @@
     },
     {
       "version": "2025.4",
-      "releaseNotes": "Added a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdded a link to all games including our latest - Robo Attack!\n\nThanks for playing,\nJohnno and Pete",
       "seenAt": "2025-06-20T23:19:39Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:51:22.723Z",
+  "updatedAt": "2026-08-29T12:57:54.110Z",
   "isOwnApp": false
 }

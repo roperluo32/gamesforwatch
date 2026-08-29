@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cylinders",
       "description": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
-      "releaseNotes": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuild up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
       "trackViewUrl": "https://apps.apple.com/us/app/cylinders/id1123511564?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Khang Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Cylinders",
       "description": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
-      "releaseNotes": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuild up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
       "trackViewUrl": "https://apps.apple.com/cn/app/cylinders/id1123511564?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Khang Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Cylinders",
       "description": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
-      "releaseNotes": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuild up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
       "trackViewUrl": "https://apps.apple.com/jp/app/cylinders/id1123511564?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Khang Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Cylinders",
       "description": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
-      "releaseNotes": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuild up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
       "trackViewUrl": "https://apps.apple.com/de/app/cylinders/id1123511564?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Khang Le",
@@ -81,7 +81,7 @@
   "averageUserRating": 4.375,
   "userRatingCount": 8,
   "price": 0,
-  "fileSizeBytes": "56497152",
+  "fileSizeBytes": "56611840",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.9",
@@ -312,10 +312,10 @@
     },
     {
       "version": "1.9",
-      "releaseNotes": "Build up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuild up the cylinders as high as you can!\n\nReach the highest score and challenge your friends.",
       "seenAt": "2024-01-21T17:27:04Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:51:58.722Z",
+  "updatedAt": "2026-08-29T12:58:29.829Z",
   "isOwnApp": false
 }

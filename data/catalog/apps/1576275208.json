@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Solar Dash",
       "description": "Dodge incoming space junk and collect stars as you dash through the galaxy in your speedy ship! A beautiful and addictive gaming experience on your wrist!",
-      "releaseNotes": "iOS splash screen added!\nMinor bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\niOS splash screen added!\nMinor bug fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/solar-dash/id1576275208?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Vineet Patil",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Solar Dash",
       "description": "Dodge incoming space junk and collect stars as you dash through the galaxy in your speedy ship! A beautiful and addictive gaming experience on your wrist!",
-      "releaseNotes": "iOS splash screen added!\nMinor bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\niOS splash screen added!\nMinor bug fixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/solar-dash/id1576275208?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Vineet Patil",
@@ -43,7 +43,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 150,
-  "fileSizeBytes": "12003328",
+  "fileSizeBytes": "12040192",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
   "version": "3.0",
@@ -214,10 +214,10 @@
     },
     {
       "version": "3.0",
-      "releaseNotes": "iOS splash screen added!\nMinor bug fixes",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\niOS splash screen added!\nMinor bug fixes",
       "seenAt": "2023-01-03T17:28:37Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:04:45.104Z",
+  "updatedAt": "2026-08-29T13:11:27.999Z",
   "isOwnApp": false
 }

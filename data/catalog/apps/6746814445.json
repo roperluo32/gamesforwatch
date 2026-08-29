@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Color Block for Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\n\nColor Block for Watch\nRediscover the classic falling block puzzle game, now beautifully reimagined for your Apple Watch! Color Block for Watch brings you a fun and addictive block-stacking experience with vibrant visuals and smooth controls.\nKEY FEATURES:\nClassic block puzzle gameplay, easy to learn and hard to master\nBeautiful starry backgrounds and dynamic animations\nIntuitive touch controls: swipe to move, tap to rotate, swipe down to drop\nGhost piece preview to help you plan your moves\nExciting particle effects when you clear lines\nScore tracking and high score system\nOptimized for Apple Watch display\nSatisfying sound effects and smooth performance\nHOW TO PLAY:\nTap to rotate blocks\nSwipe left or right to move blocks\nSwipe down for a quick drop\nClear lines to score points\nTry to beat your high score!\nPerfect for quick gaming sessions anytime, anywhere. Challenge yourself, improve your skills, and enjoy the timeless fun of block puzzles on your wrist!\nDownload Color Block for Watch now and enjoy the ultimate block puzzle experience on your Apple Watch!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/color-block-for-watch/id6746814445?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "太宇 左",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Color Block for Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\nColor Block for Watch\nApple Watchで美しく生まれ変わったクラシックな落ち物ブロックパズルを再発見！Color Block for Watchは、鮮やかなビジュアルとスムーズな操作で楽しく中毒性のあるブロック積み体験をお届けします。\n主な特徴：\nクラシックなブロックパズル、簡単操作で奥深い\n美しい星空背景とダイナミックなアニメーション\n直感的なタッチ操作：スワイプで移動、タップで回転、下スワイプで落下\nゴーストピースで先読みサポート\nライン消去時のエフェクト\nスコア記録とハイスコア\nApple Watchに最適化\n満足感のあるサウンドと滑らかな動作\n遊び方：\nタップで回転\n左右スワイプで移動\n下スワイプで一気に落下\nラインを消してスコアアップ\nハイスコアに挑戦！\nいつでもどこでも手軽にプレイ。自分の腕でパズルの楽しさを体験しよう！\n今すぐColor Block for Watchをダウンロード！",
-      "releaseNotes": "",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
       "trackViewUrl": "https://apps.apple.com/jp/app/color-block-for-watch/id6746814445?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "太宇 左",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Color Block for Watch",
       "description": "Important Note: This app can only be downloaded from the App Store on Apple Watch. Here's how:\n1. Press the Digital Crown on your watch to open the app list\n2. Find and open the App Store\n3. Scroll to the bottom and tap [Account]\n4. Find [Purchased] to download the app\n\nColor Block for Watch\nErleben Sie das klassische Blockpuzzle neu – jetzt wunderschön für Ihre Apple Watch gestaltet! Color Block for Watch bietet ein farbenfrohes, süchtig machendes Spielerlebnis mit flüssigen Animationen und einfacher Steuerung.\nHauptfunktionen:\nKlassisches Blockpuzzle-Gameplay, leicht zu lernen, schwer zu meistern\nWunderschöner Sternenhimmel und dynamische Animationen\nIntuitive Touch-Steuerung: Wischen zum Bewegen, Tippen zum Drehen, nach unten wischen zum Fallenlassen\nVorschau des Geisterblocks zur besseren Planung\nPartikeleffekte beim Linienlöschen\nPunktestand und Highscore-System\nFür die Apple Watch optimiert\nZufriedenstellende Soundeffekte und flüssige Performance\nSo wird gespielt:\nTippen zum Drehen\nWischen nach links/rechts zum Bewegen\nNach unten wischen für schnellen Drop\nLinien löschen für Punkte\nVersuchen Sie, Ihren Highscore zu schlagen!\nPerfekt für kurze Spielrunden zwischendurch.\nJetzt Color Block for Watch herunterladen und das beste Blockpuzzle am Handgelenk genießen!",
-      "releaseNotes": "",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.",
       "trackViewUrl": "https://apps.apple.com/de/app/color-block-for-watch/id6746814445?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "太宇 左",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2499584",
+  "fileSizeBytes": "2515968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -215,10 +215,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-04T18:06:02Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:48:41.868Z",
+  "updatedAt": "2026-08-29T12:55:21.143Z",
   "isOwnApp": false
 }

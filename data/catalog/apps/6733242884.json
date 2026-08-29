@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tank Commando",
       "description": "Step into the boots of a fearless tank commander in Tank Commando, a thrilling World War 2-inspired game designed for both Apple Watch and iPhone! \n\nCommand your tank across dangerous battlefields, avoid deadly enemy tanks, and embark on daring rescue missions to save stranded paratroopers.\n\nFeatures:\n* Fast-Paced Tank Action: Navigate war-torn environments while dodging enemy fire and hazards\n* Retro 8 Bit Graphics\n* Paratrooper Rescues: It’s not just about survival—rescue fallen soldiers behind enemy lines and bring them to safety!\n* Dynamic Gameplay on Apple Watch and iPhone: Enjoy the full gaming experience right on your wrist or take command with the larger screen on your iPhone. Score is shared between devices\n* Historical Setting: Immerse yourself in epic WW2 battlefields where your decisions impact the outcome of your mission\n* From the creators of Jupiter Attack, Asteroid Command and Kepler Attack\n\nDo you have what it takes to be the ultimate tank commander? Download Tank Commando now and show your skills on the battlefield!\n\nThanks for playing,\nJohnno and Pete",
-      "releaseNotes": "Introducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nIntroducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
       "trackViewUrl": "https://apps.apple.com/us/app/tank-commando/id6733242884?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Tank Commando",
       "description": "Step into the boots of a fearless tank commander in Tank Commando, a thrilling World War 2-inspired game designed for both Apple Watch and iPhone! \n\nCommand your tank across dangerous battlefields, avoid deadly enemy tanks, and embark on daring rescue missions to save stranded paratroopers.\n\nFeatures:\n* Fast-Paced Tank Action: Navigate war-torn environments while dodging enemy fire and hazards\n* Retro 8 Bit Graphics\n* Paratrooper Rescues: It’s not just about survival—rescue fallen soldiers behind enemy lines and bring them to safety!\n* Dynamic Gameplay on Apple Watch and iPhone: Enjoy the full gaming experience right on your wrist or take command with the larger screen on your iPhone. Score is shared between devices\n* Historical Setting: Immerse yourself in epic WW2 battlefields where your decisions impact the outcome of your mission\n* From the creators of Jupiter Attack, Asteroid Command and Kepler Attack\n\nDo you have what it takes to be the ultimate tank commander? Download Tank Commando now and show your skills on the battlefield!\n\nThanks for playing,\nJohnno and Pete",
-      "releaseNotes": "Introducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nIntroducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tank-commando/id6733242884?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Tank Commando",
       "description": "Step into the boots of a fearless tank commander in Tank Commando, a thrilling World War 2-inspired game designed for both Apple Watch and iPhone! \n\nCommand your tank across dangerous battlefields, avoid deadly enemy tanks, and embark on daring rescue missions to save stranded paratroopers.\n\nFeatures:\n* Fast-Paced Tank Action: Navigate war-torn environments while dodging enemy fire and hazards\n* Retro 8 Bit Graphics\n* Paratrooper Rescues: It’s not just about survival—rescue fallen soldiers behind enemy lines and bring them to safety!\n* Dynamic Gameplay on Apple Watch and iPhone: Enjoy the full gaming experience right on your wrist or take command with the larger screen on your iPhone. Score is shared between devices\n* Historical Setting: Immerse yourself in epic WW2 battlefields where your decisions impact the outcome of your mission\n* From the creators of Jupiter Attack, Asteroid Command and Kepler Attack\n\nDo you have what it takes to be the ultimate tank commander? Download Tank Commando now and show your skills on the battlefield!\n\nThanks for playing,\nJohnno and Pete",
-      "releaseNotes": "Introducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nIntroducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
       "trackViewUrl": "https://apps.apple.com/de/app/tank-commando/id6733242884?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "14461952",
+  "fileSizeBytes": "14490624",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
   "version": "2025.1",
@@ -266,10 +266,10 @@
     },
     {
       "version": "2025.1",
-      "releaseNotes": "Introducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nIntroducing music on Watch and Phone!\nYou can turn music on/off from the Settings screen.",
       "seenAt": "2025-04-29T11:51:55Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:57.760Z",
+  "updatedAt": "2026-08-29T13:01:57.853Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Gymkhana Watch: Drifting game",
       "description": "Game of driving skills. You must overcome different urban circuits making drifts. A Gymkhana or Motorkhana racing.\n\nTo play on the iPhone, touch the left side to drift to the left. Touch the right side, to drift to the right.\n\nTo play with the Apple Watch, move the \"Digital Crown\" wheel.\n\nAccumulate points to unlock new vehicles. Points are earned by passing near the cones, overcoming levels and burning wheels. To burn wheels, make a long drift!\n\nIt's not an easy game, maybe you will need several attempts to overcome the circuits. But it's the racing spirit!\n\nDo you want to compete against your friends? You can send your fastest time from iPhone and Apple Watch to the Game Center leaderboards.\n\nTo send the Apple Watch score to the leaderboard:\n1- The iPhone and the Apple Watch must be linked\n2- Apple Watch must be within the range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press share from Apple Watch, a screen will appear on your iPhone with the score ready to send to the leaderboard.\n\nNow you can know if you are the fastest player on Apple Watch!",
-      "releaseNotes": "- Fixed error after updating to iOS 17.4\n- Updated dependencies",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed error after updating to iOS 17.4\n- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/us/app/gymkhana-watch-drifting-game/id1512191894?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Tocapp Games S.L.",
@@ -26,7 +26,7 @@
     "ja": {
       "trackName": "Gymkhana Watch: Drifting game",
       "description": "Game of driving skills. You must overcome different urban circuits making drifts. A Gymkhana or Motorkhana racing.\n\nTo play on the iPhone, touch the left side to drift to the left. Touch the right side, to drift to the right.\n\nTo play with the Apple Watch, move the \"Digital Crown\" wheel.\n\nAccumulate points to unlock new vehicles. Points are earned by passing near the cones, overcoming levels and burning wheels. To burn wheels, make a long drift!\n\nIt's not an easy game, maybe you will need several attempts to overcome the circuits. But it's the racing spirit!\n\nDo you want to compete against your friends? You can send your fastest time from iPhone and Apple Watch to the Game Center leaderboards.\n\nTo send the Apple Watch score to the leaderboard:\n1- The iPhone and the Apple Watch must be linked\n2- Apple Watch must be within the range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press share from Apple Watch, a screen will appear on your iPhone with the score ready to send to the leaderboard.\n\nNow you can know if you are the fastest player on Apple Watch!",
-      "releaseNotes": "- Fixed error after updating to iOS 17.4\n- Updated dependencies",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed error after updating to iOS 17.4\n- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/jp/app/gymkhana-watch-drifting-game/id1512191894?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Tocapp Games S.L.",
@@ -45,7 +45,7 @@
     "de": {
       "trackName": "Gymkhana Watch: Drifting game",
       "description": "Game of driving skills. You must overcome different urban circuits making drifts. A Gymkhana or Motorkhana racing.\n\nTo play on the iPhone, touch the left side to drift to the left. Touch the right side, to drift to the right.\n\nTo play with the Apple Watch, move the \"Digital Crown\" wheel.\n\nAccumulate points to unlock new vehicles. Points are earned by passing near the cones, overcoming levels and burning wheels. To burn wheels, make a long drift!\n\nIt's not an easy game, maybe you will need several attempts to overcome the circuits. But it's the racing spirit!\n\nDo you want to compete against your friends? You can send your fastest time from iPhone and Apple Watch to the Game Center leaderboards.\n\nTo send the Apple Watch score to the leaderboard:\n1- The iPhone and the Apple Watch must be linked\n2- Apple Watch must be within the range of the iPhone.\n3- Play with the Apple Watch and before sending the score, open the game application on the iPhone. When you press share from Apple Watch, a screen will appear on your iPhone with the score ready to send to the leaderboard.\n\nNow you can know if you are the fastest player on Apple Watch!",
-      "releaseNotes": "- Fixed error after updating to iOS 17.4\n- Updated dependencies",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed error after updating to iOS 17.4\n- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/de/app/gymkhana-watch-drifting-game/id1512191894?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -66,7 +66,7 @@
   "averageUserRating": 4.75,
   "userRatingCount": 4,
   "price": 1.99,
-  "fileSizeBytes": "32353280",
+  "fileSizeBytes": "32390144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.1.5",
@@ -304,10 +304,10 @@
     },
     {
       "version": "1.1.5",
-      "releaseNotes": "- Fixed error after updating to iOS 17.4\n- Updated dependencies",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed error after updating to iOS 17.4\n- Updated dependencies",
       "seenAt": "2024-04-04T20:12:58Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:49:42.091Z",
+  "updatedAt": "2026-08-29T12:56:18.420Z",
   "isOwnApp": false
 }

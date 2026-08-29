@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fish Buddies",
       "description": "Fishy Friends is a gentle, touch-responsive underwater experience designed for babies and toddlers to enjoy on Apple Watch.\n\nTap and hold to make your fishy pal swim toward your finger. Watch as bubbles rise and the ocean shimmers in a calming sea of motion. Fishy Friends is intuitive, engaging, and built with care to promote early interaction with minimal overstimulation.\n\nFeatures:\n\nAdorable animated fish that follows your touch\n\nRealistic bubbles and ambient underwater lighting\n\nGentle sound effects with Digital Crown volume control\n\nFully contained experience — no ads, no menus\n\nDesigned for babies and toddlers to safely explore on Apple Watch\n\nFishy Friends is perfect for short moments of calm, entertainment during stroller time, or baby’s first digital play.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/fish-buddies/id6744852524?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Damion Stevenson",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "Fish Buddies",
       "description": "Fishy Friends is a gentle, touch-responsive underwater experience designed for babies and toddlers to enjoy on Apple Watch.\n\nTap and hold to make your fishy pal swim toward your finger. Watch as bubbles rise and the ocean shimmers in a calming sea of motion. Fishy Friends is intuitive, engaging, and built with care to promote early interaction with minimal overstimulation.\n\nFeatures:\n\nAdorable animated fish that follows your touch\n\nRealistic bubbles and ambient underwater lighting\n\nGentle sound effects with Digital Crown volume control\n\nFully contained experience — no ads, no menus\n\nDesigned for babies and toddlers to safely explore on Apple Watch\n\nFishy Friends is perfect for short moments of calm, entertainment during stroller time, or baby’s first digital play.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/fish-buddies/id6744852524?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Damion Stevenson",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "Fish Buddies",
       "description": "Fishy Friends is a gentle, touch-responsive underwater experience designed for babies and toddlers to enjoy on Apple Watch.\n\nTap and hold to make your fishy pal swim toward your finger. Watch as bubbles rise and the ocean shimmers in a calming sea of motion. Fishy Friends is intuitive, engaging, and built with care to promote early interaction with minimal overstimulation.\n\nFeatures:\n\nAdorable animated fish that follows your touch\n\nRealistic bubbles and ambient underwater lighting\n\nGentle sound effects with Digital Crown volume control\n\nFully contained experience — no ads, no menus\n\nDesigned for babies and toddlers to safely explore on Apple Watch\n\nFishy Friends is perfect for short moments of calm, entertainment during stroller time, or baby’s first digital play.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/fish-buddies/id6744852524?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Damion Stevenson",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "Fish Buddies",
       "description": "Fishy Friends is a gentle, touch-responsive underwater experience designed for babies and toddlers to enjoy on Apple Watch.\n\nTap and hold to make your fishy pal swim toward your finger. Watch as bubbles rise and the ocean shimmers in a calming sea of motion. Fishy Friends is intuitive, engaging, and built with care to promote early interaction with minimal overstimulation.\n\nFeatures:\n\nAdorable animated fish that follows your touch\n\nRealistic bubbles and ambient underwater lighting\n\nGentle sound effects with Digital Crown volume control\n\nFully contained experience — no ads, no menus\n\nDesigned for babies and toddlers to safely explore on Apple Watch\n\nFishy Friends is perfect for short moments of calm, entertainment during stroller time, or baby’s first digital play.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/fish-buddies/id6744852524?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Damion Stevenson",
@@ -69,7 +69,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "1084416",
+  "fileSizeBytes": "1108992",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.4",
   "version": "1.0",
@@ -227,10 +227,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-04-22T00:39:50Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:18:58.452Z",
+  "updatedAt": "2026-08-29T13:25:14.649Z",
   "isOwnApp": false
 }

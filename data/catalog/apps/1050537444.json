@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Break the Balloon: ghost & cat",
       "description": "Ghost Town is a perfect kingdom for all kind of fears and horrors until...\n\nThe Cats came. And they can detect Ghosts, disturb them, hunt them...\n\nYou, the new Ghost hero in Town, lead us to destroy all Cat's balloons to drop them, bring back fear to the land!!!\n\n-------------------------------\n***NEW GHOSTS UPDATED***\n\nGet the game!",
-      "releaseNotes": "Halloween update.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nHalloween update.",
       "trackViewUrl": "https://apps.apple.com/us/app/break-the-balloon-ghost-cat/id1050537444?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Break the Balloon: ghost & cat",
       "description": "Ghost Town is a perfect kingdom for all kind of fears and horrors until...\n\nThe Cats came. And they can detect Ghosts, disturb them, hunt them...\n\nYou, the new Ghost hero in Town, lead us to destroy all Cat's balloons to drop them, bring back fear to the land!!!\n\n-------------------------------\n***NEW GHOSTS UPDATED***\n\nGet the game!",
-      "releaseNotes": "Halloween update.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nHalloween update.",
       "trackViewUrl": "https://apps.apple.com/jp/app/break-the-balloon-ghost-cat/id1050537444?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Break the Balloon: ghost & cat",
       "description": "Ghost Town is a perfect kingdom for all kind of fears and horrors until...\n\nThe Cats came. And they can detect Ghosts, disturb them, hunt them...\n\nYou, the new Ghost hero in Town, lead us to destroy all Cat's balloons to drop them, bring back fear to the land!!!\n\n-------------------------------\n***NEW GHOSTS UPDATED***\n\nGet the game!",
-      "releaseNotes": "Halloween update.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nHalloween update.",
       "trackViewUrl": "https://apps.apple.com/de/app/break-the-balloon-ghost-cat/id1050537444?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.38372,
   "userRatingCount": 86,
   "price": 0,
-  "fileSizeBytes": "33786880",
+  "fileSizeBytes": "33827840",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "3.1.1",
@@ -326,10 +326,10 @@
     },
     {
       "version": "3.1.1",
-      "releaseNotes": "Halloween update.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nHalloween update.",
       "seenAt": "2024-08-25T19:49:26Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:21.700Z",
+  "updatedAt": "2026-08-29T13:01:21.770Z",
   "isOwnApp": false
 }

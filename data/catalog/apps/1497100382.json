@@ -7,7 +7,7 @@
     "en": {
       "trackName": "NationalFlagQuiz -watch game-",
       "description": "Have you ever challenged your national flag knowledge before?\nHow many countries do you know about their flag?\n\nHere is national flag quiz for you!\nWhile you have time outside and need to kill time, try this!\nThis game is not only for fun, it will help your knowledge of national flag!\n\nYou probably will realise how much you didn't know about world country.\nTry and have fun!",
-      "releaseNotes": "Built on newest XCode and tested on latest apple watch. everything is working fine as expected.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuilt on newest XCode and tested on latest apple watch. everything is working fine as expected.",
       "trackViewUrl": "https://apps.apple.com/us/app/nationalflagquiz-watch-game/id1497100382?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "satoshi goto",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "NationalFlagQuiz -watch game-",
       "description": "Have you ever challenged your national flag knowledge before?\nHow many countries do you know about their flag?\n\nHere is national flag quiz for you!\nWhile you have time outside and need to kill time, try this!\nThis game is not only for fun, it will help your knowledge of national flag!\n\nYou probably will realise how much you didn't know about world country.\nTry and have fun!",
-      "releaseNotes": "Built on newest XCode and tested on latest apple watch. everything is working fine as expected.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuilt on newest XCode and tested on latest apple watch. everything is working fine as expected.",
       "trackViewUrl": "https://apps.apple.com/jp/app/nationalflagquiz-watch-game/id1497100382?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "satoshi goto",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "NationalFlagQuiz -watch game-",
       "description": "Have you ever challenged your national flag knowledge before?\nHow many countries do you know about their flag?\n\nHere is national flag quiz for you!\nWhile you have time outside and need to kill time, try this!\nThis game is not only for fun, it will help your knowledge of national flag!\n\nYou probably will realise how much you didn't know about world country.\nTry and have fun!",
-      "releaseNotes": "Built on newest XCode and tested on latest apple watch. everything is working fine as expected.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuilt on newest XCode and tested on latest apple watch. everything is working fine as expected.",
       "trackViewUrl": "https://apps.apple.com/de/app/nationalflagquiz-watch-game/id1497100382?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "satoshi goto",
@@ -57,7 +57,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "14632960",
+  "fileSizeBytes": "14649344",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.1",
@@ -220,10 +220,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "Built on newest XCode and tested on latest apple watch. everything is working fine as expected.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nBuilt on newest XCode and tested on latest apple watch. everything is working fine as expected.",
       "seenAt": "2024-02-28T13:53:10Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:08:02.108Z",
+  "updatedAt": "2026-08-29T13:13:40.872Z",
   "isOwnApp": false
 }

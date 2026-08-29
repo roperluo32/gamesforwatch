@@ -7,7 +7,7 @@
     "en": {
       "trackName": "US Football PRO for watch",
       "description": "NEW STUFFS in this PRO-premium version:\n* None of the annoying ads\n* Exclusive default character\n* More rewards\n------------------------------------------------------\nBe the MVP in tonight match. Play US football on your watch or phone:\n* Tap to change direction.\n* Bump in your opponents as a true warrior.\n* Kick the ball curve through the gooooal!!!\nSee ya on the field. GET THE GAME NOW",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd more levels.",
       "trackViewUrl": "https://apps.apple.com/us/app/us-football-pro-for-watch/id1539633277?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "US Football PRO for watch",
       "description": "NEW STUFFS in this PRO-premium version:\n* None of the annoying ads\n* Exclusive default character\n* More rewards\n------------------------------------------------------\nBe the MVP in tonight match. Play US football on your watch or phone:\n* Tap to change direction.\n* Bump in your opponents as a true warrior.\n* Kick the ball curve through the gooooal!!!\nSee ya on the field. GET THE GAME NOW",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd more levels.",
       "trackViewUrl": "https://apps.apple.com/jp/app/us-football-pro-for-watch/id1539633277?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "US Football PRO for watch",
       "description": "NEW STUFFS in this PRO-premium version:\n* None of the annoying ads\n* Exclusive default character\n* More rewards\n------------------------------------------------------\nBe the MVP in tonight match. Play US football on your watch or phone:\n* Tap to change direction.\n* Bump in your opponents as a true warrior.\n* Kick the ball curve through the gooooal!!!\nSee ya on the field. GET THE GAME NOW",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd more levels.",
       "trackViewUrl": "https://apps.apple.com/de/app/us-football-pro-for-watch/id1539633277?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -63,7 +63,7 @@
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0.99,
-  "fileSizeBytes": "20476928",
+  "fileSizeBytes": "20542464",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "1.2",
@@ -250,10 +250,10 @@
     },
     {
       "version": "1.2",
-      "releaseNotes": "Add more levels.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd more levels.",
       "seenAt": "2023-03-06T19:29:34Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:09:43.235Z",
+  "updatedAt": "2026-08-29T13:15:59.639Z",
   "isOwnApp": false
 }

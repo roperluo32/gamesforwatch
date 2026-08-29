@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Reaction Timer Game",
       "description": "Think YOU can beat Reaction Timer?\nDo you have lightning-fast reflexes? Prove it with the Reaction Timer game that will have you tapping, gasping, and celebrating (or groaning) every time you try to land exactly on zero.\n\nWith multiple levels from “I Got This” to “Seriously?!” Start off simple with one timer, then rise through the challenges with two or three timers.\n\nSuper-Short Rounds mean you can pick-up-and-play anytime you’ve got a spare moment, while you're on the train, waiting for a bus, or at a boring family event!\n\nLand a perfect zero for instant bragging rights and show off to your friends… or watch them crumble under the pressure!\n\nNo WiFi or internet connection needed, perfect for killing time on the go - anywhere, anytime.\n\nGet ready for heart-pounding moments, frantic taps, and endless attempts to hit the elusive zero. Download now to discover if you have the reflexes of a ninja, or if you’ll be left chasing that perfect stop forever!",
-      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
       "trackViewUrl": "https://apps.apple.com/us/app/reaction-timer-game/id572319874?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Thomas Coomer",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "Reaction Timer Game",
       "description": "Think YOU can beat Reaction Timer?\nDo you have lightning-fast reflexes? Prove it with the Reaction Timer game that will have you tapping, gasping, and celebrating (or groaning) every time you try to land exactly on zero.\n\nWith multiple levels from “I Got This” to “Seriously?!” Start off simple with one timer, then rise through the challenges with two or three timers.\n\nSuper-Short Rounds mean you can pick-up-and-play anytime you’ve got a spare moment, while you're on the train, waiting for a bus, or at a boring family event!\n\nLand a perfect zero for instant bragging rights and show off to your friends… or watch them crumble under the pressure!\n\nNo WiFi or internet connection needed, perfect for killing time on the go - anywhere, anytime.\n\nGet ready for heart-pounding moments, frantic taps, and endless attempts to hit the elusive zero. Download now to discover if you have the reflexes of a ninja, or if you’ll be left chasing that perfect stop forever!",
-      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
       "trackViewUrl": "https://apps.apple.com/jp/app/reaction-timer-game/id572319874?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Thomas Coomer",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "Reaction Timer Game",
       "description": "Glaubst du, dass DU Reaction Timer schlagen kannst?\n\nHast du blitzschnelle Reflexe? Beweise es mit Reaction Timer – dem Spiel, das dich tippen, staunen und jubeln (oder frustriert aufstöhnen) lässt, wenn du versuchst, genau bei null zu stoppen.\n\nMit mehreren Leveln von „Locker!“ bis „Ernsthaft?!“ Starte einfach mit einem Timer und steigere dich durch die Herausforderungen mit zwei oder drei Timern.\n\nSuperkurze Runden ermöglichen es dir, jederzeit eine schnelle Partie zu spielen – ob im Zug, beim Warten auf den Bus oder bei einer langweiligen Familienfeier!\n\nTreffe eine perfekte Null und sichere dir sofortige Angeberrechte, um deine Freunde zu beeindrucken… oder sie dabei zu beobachten, wie sie unter Druck scheitern!\n\nKein WLAN oder Internetverbindung erforderlich – ideal, um unterwegs die Zeit zu vertreiben, überall und jederzeit.\n\nMach dich bereit für spannende Momente, hektisches Tippen und endlose Versuche, die schwer fassbare Null zu treffen. Lade das Spiel jetzt herunter und finde heraus, ob du die Reflexe eines Ninjas hast – oder ob du für immer der perfekten Null hinterherjagst!",
-      "releaseNotes": "• Kleine UI/UX-Verbesserungen.\n• Unterstützung für Französisch, Italienisch, Deutsch, Spanisch und Portugiesisch (Brasilien) hinzugefügt.",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\n• Kleine UI/UX-Verbesserungen.\n• Unterstützung für Französisch, Italienisch, Deutsch, Spanisch und Portugiesisch (Brasilien) hinzugefügt.",
       "trackViewUrl": "https://apps.apple.com/de/app/reaction-timer-game/id572319874?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Thomas Coomer",
@@ -75,7 +75,7 @@
   "averageUserRating": 4.5,
   "userRatingCount": 4,
   "price": 0,
-  "fileSizeBytes": "19550208",
+  "fileSizeBytes": "19648512",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
   "version": "5.5.1",
@@ -368,10 +368,10 @@
     },
     {
       "version": "5.5.1",
-      "releaseNotes": "• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Minor UI/UX improvements.\n• Added support for French, Italian, German, Spanish and Portuguese (Brazil).",
       "seenAt": "2025-02-10T09:42:20Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:19:22.428Z",
+  "updatedAt": "2026-08-29T13:25:33.321Z",
   "isOwnApp": false
 }

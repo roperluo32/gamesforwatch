@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Football USA 3 in 1 watch game",
       "description": "Sell your soul to score the TOUCHDOWN and be MVP of the match!!!\nTap to pass the ball when your way is blocked. Keep on passing to bump through enemy defense...\nCross the last line of the field to Win the game. No mercy for losers.",
-      "releaseNotes": "Optimized for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimized for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/us/app/football-usa-3-in-1-watch-game/id1662062263?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Football USA 3 in 1 watch game",
       "description": "Sell your soul to score the TOUCHDOWN and be MVP of the match!!!\nTap to pass the ball when your way is blocked. Keep on passing to bump through enemy defense...\nCross the last line of the field to Win the game. No mercy for losers.",
-      "releaseNotes": "Optimized for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimized for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/cn/app/football-usa-3-in-1-watch-game/id1662062263?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Football USA 3 in 1 watch game",
       "description": "Sell your soul to score the TOUCHDOWN and be MVP of the match!!!\nTap to pass the ball when your way is blocked. Keep on passing to bump through enemy defense...\nCross the last line of the field to Win the game. No mercy for losers.",
-      "releaseNotes": "Optimized for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimized for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/jp/app/football-usa-3-in-1-watch-game/id1662062263?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Football USA 3 in 1 watch game",
       "description": "Sell your soul to score the TOUCHDOWN and be MVP of the match!!!\nTap to pass the ball when your way is blocked. Keep on passing to bump through enemy defense...\nCross the last line of the field to Win the game. No mercy for losers.",
-      "releaseNotes": "Optimized for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimized for Apple Watch",
       "trackViewUrl": "https://apps.apple.com/de/app/football-usa-3-in-1-watch-game/id1662062263?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -81,7 +81,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27115520",
+  "fileSizeBytes": "27226112",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "1.6",
@@ -295,10 +295,10 @@
     },
     {
       "version": "1.6",
-      "releaseNotes": "Optimized for Apple Watch",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nOptimized for Apple Watch",
       "seenAt": "2024-06-13T12:22:24Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:52:16.484Z",
+  "updatedAt": "2026-08-29T12:58:43.105Z",
   "isOwnApp": false
 }

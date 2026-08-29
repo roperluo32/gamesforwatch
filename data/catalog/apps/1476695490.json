@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Asteroid Commando",
       "description": "Asteroid Commando is a vector graphics arcade game for your iPhone and Apple Watch. Pilot your ship as you blast asteroids in search of priceless gems. Battle alien pirates and avoid deadly space mines!\n\n• Choose between Modern Tron inspired graphics or original arcade Vector graphics \n• Vector style asteroids, enemies and mines!\n• Power-ups include Shield, Triple Shot, Rapid Fire and Time Freeze!\n• Intuitive and simple controls using the Crown on the Watch!\n• Swipe to move on the iPhone!\n• Short burst gameplay is perfect for the Watch and iPhone!\n• Daily rank to see how you compare to the rest of the world!\n• Retro sound effects on the iPhone and Watch!\n• Play anywhere, anytime!\n• Runs at 60fps on the Watch!\n• Watch features stylish Complications!\n• Ability to invert Crown controls on the Watch!\n• TouchArcade Game of the Week!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nThanks for playing\n-Johnno and Pete",
-      "releaseNotes": "Make sure daily rank updates when you beat someone else's score.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMake sure daily rank updates when you beat someone else's score.",
       "trackViewUrl": "https://apps.apple.com/us/app/asteroid-commando/id1476695490?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Asteroid Commando",
       "description": "Asteroid Commando is a vector graphics arcade game for your iPhone and Apple Watch. Pilot your ship as you blast asteroids in search of priceless gems. Battle alien pirates and avoid deadly space mines!\n\n• Choose between Modern Tron inspired graphics or original arcade Vector graphics \n• Vector style asteroids, enemies and mines!\n• Power-ups include Shield, Triple Shot, Rapid Fire and Time Freeze!\n• Intuitive and simple controls using the Crown on the Watch!\n• Swipe to move on the iPhone!\n• Short burst gameplay is perfect for the Watch and iPhone!\n• Daily rank to see how you compare to the rest of the world!\n• Retro sound effects on the iPhone and Watch!\n• Play anywhere, anytime!\n• Runs at 60fps on the Watch!\n• Watch features stylish Complications!\n• Ability to invert Crown controls on the Watch!\n• TouchArcade Game of the Week!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nThanks for playing\n-Johnno and Pete",
-      "releaseNotes": "Make sure daily rank updates when you beat someone else's score.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMake sure daily rank updates when you beat someone else's score.",
       "trackViewUrl": "https://apps.apple.com/jp/app/asteroid-commando/id1476695490?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Asteroid Commando",
       "description": "Asteroid Commando is a vector graphics arcade game for your iPhone and Apple Watch. Pilot your ship as you blast asteroids in search of priceless gems. Battle alien pirates and avoid deadly space mines!\n\n• Choose between Modern Tron inspired graphics or original arcade Vector graphics \n• Vector style asteroids, enemies and mines!\n• Power-ups include Shield, Triple Shot, Rapid Fire and Time Freeze!\n• Intuitive and simple controls using the Crown on the Watch!\n• Swipe to move on the iPhone!\n• Short burst gameplay is perfect for the Watch and iPhone!\n• Daily rank to see how you compare to the rest of the world!\n• Retro sound effects on the iPhone and Watch!\n• Play anywhere, anytime!\n• Runs at 60fps on the Watch!\n• Watch features stylish Complications!\n• Ability to invert Crown controls on the Watch!\n• TouchArcade Game of the Week!\n\nRelive the glory days of the arcade on your Apple Watch and iPhone.\n\nThanks for playing\n-Johnno and Pete",
-      "releaseNotes": "Make sure daily rank updates when you beat someone else's score.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMake sure daily rank updates when you beat someone else's score.",
       "trackViewUrl": "https://apps.apple.com/de/app/asteroid-commando/id1476695490?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "RED SPRITE STUDIOS PTY LTD",
@@ -63,7 +63,7 @@
   "averageUserRating": 4.72727,
   "userRatingCount": 11,
   "price": 1.99,
-  "fileSizeBytes": "42233856",
+  "fileSizeBytes": "42270720",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.1",
   "version": "2025.3",
@@ -367,10 +367,10 @@
     },
     {
       "version": "2025.3",
-      "releaseNotes": "Make sure daily rank updates when you beat someone else's score.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMake sure daily rank updates when you beat someone else's score.",
       "seenAt": "2025-04-28T09:10:09Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:55:42.418Z",
+  "updatedAt": "2026-08-29T13:01:42.292Z",
   "isOwnApp": false
 }

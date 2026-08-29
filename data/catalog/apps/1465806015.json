@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Super Ping Pong : Offline Game",
       "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
-      "releaseNotes": "Minor improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/super-ping-pong-offline-game/id1465806015?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Deniz Kocoglu",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Super Ping Pong : Offline Game",
       "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
-      "releaseNotes": "Minor improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/super-ping-pong-offline-game/id1465806015?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Deniz Kocoglu",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Super Ping Pong : Offline Game",
       "description": "Super Ping Pong : Featuring 3 game modes.\n\n- CLASSIC : A fast action challenging game play.\n\n- SUPER : Innovative gameplay with cool PowerUps.\n\n- PINGPONG : A unique way playing PingPong. Swipe the paddle to hit the ball fast. Need to have good reflex skills.\n\nGame Music by s2325\nwww.youtube.com/channel/UCKrErjK1UDNA4szHmmTEsPQ",
-      "releaseNotes": "Minor improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/super-ping-pong-offline-game/id1465806015?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Deniz Kocoglu",
@@ -60,7 +60,7 @@
   "averageUserRating": 4.41558,
   "userRatingCount": 385,
   "price": 0,
-  "fileSizeBytes": "53747712",
+  "fileSizeBytes": "53837824",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "11.0",
   "version": "4.9.6",
@@ -368,10 +368,10 @@
     },
     {
       "version": "4.9.6",
-      "releaseNotes": "Minor improvements.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor improvements.",
       "seenAt": "2023-11-27T23:14:38Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:38:19.278Z",
+  "updatedAt": "2026-08-29T12:44:59.159Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Haypi Pirates",
       "description": "Fight alongside legendary pirates in your search of lost treasure, laying waste to all who cross your path. Haypi Pirates is a multiplayer strategy game where only the bravest and most resourceful players survive. Defeat the Spanish Armada, seize riches, join forces with other players, and dominate the high seas!\n\nWhat you can find in the game:\nTurn the seas into your very own kingdom!\nFive treacherous waters hold a PVP showdown!\nRecruit over 10 pirate officers to fight for you!\nArmor your officers with powerful equipment!\nVanquish over a hundred enemies!\nFight through hundreds of levels!\n\nFeatures\n...Free to download! No registration required.\n...Irresistible rewards for attendance, the Pirate Tourney, and infamy!\n...Recruit notorious officers, give them amazing specialties, and forge powerful weapons! The sea is yours to command!\n...5 levels of treacherous PVP waters are waiting. Only the strongest players can master them and conquer the seas. The more dangerous the waters, the better rewards you can get!\n...Surprises everywhere: rare sea monsters that pop out of nowhere, merchant ships loaded with cargo, and drifting islands full of hidden treasure.\n...Multiplayer interaction! Enter the Pirate Tourney, pillage other players, plunder their cargo ships, or join a guild...There are plenty of ways to reach the top!\n\nBuild a home base and perform frequent trades to create your pirate kingdom!\nBecome infamous with notorious officers and powerful equipment at your side!\nMake your pirate kingdom impenetrable with advanced technology and wall reinforcements!\nArrange your officers and join a pirate guild to conquer the seas!\n\nThe grand adventure awaits you. Download the game and create your very own kingdom of pirates!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nminor bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nminor bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/haypi-pirates/id676030326?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Shanghai Haypi Computers Technology Co., Ltd.",
@@ -26,7 +26,7 @@
     "ja": {
       "trackName": "Haypi Pirates",
       "description": "Fight alongside legendary pirates in your search of lost treasure, laying waste to all who cross your path. Haypi Pirates is a multiplayer strategy game where only the bravest and most resourceful players survive. Defeat the Spanish Armada, seize riches, join forces with other players, and dominate the high seas!\n\nWhat you can find in the game:\nTurn the seas into your very own kingdom!\nFive treacherous waters hold a PVP showdown!\nRecruit over 10 pirate officers to fight for you!\nArmor your officers with powerful equipment!\nVanquish over a hundred enemies!\nFight through hundreds of levels!\n\nFeatures\n...Free to download! No registration required.\n...Irresistible rewards for attendance, the Pirate Tourney, and infamy!\n...Recruit notorious officers, give them amazing specialties, and forge powerful weapons! The sea is yours to command!\n...5 levels of treacherous PVP waters are waiting. Only the strongest players can master them and conquer the seas. The more dangerous the waters, the better rewards you can get!\n...Surprises everywhere: rare sea monsters that pop out of nowhere, merchant ships loaded with cargo, and drifting islands full of hidden treasure.\n...Multiplayer interaction! Enter the Pirate Tourney, pillage other players, plunder their cargo ships, or join a guild...There are plenty of ways to reach the top!\n\nBuild a home base and perform frequent trades to create your pirate kingdom!\nBecome infamous with notorious officers and powerful equipment at your side!\nMake your pirate kingdom impenetrable with advanced technology and wall reinforcements!\nArrange your officers and join a pirate guild to conquer the seas!\n\nThe grand adventure awaits you. Download the game and create your very own kingdom of pirates!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nminor bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nminor bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/haypi-pirates/id676030326?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Shanghai Haypi Computers Technology Co., Ltd.",
@@ -45,7 +45,7 @@
     "de": {
       "trackName": "Haypi Pirates",
       "description": "Fight alongside legendary pirates in your search of lost treasure, laying waste to all who cross your path. Haypi Pirates is a multiplayer strategy game where only the bravest and most resourceful players survive. Defeat the Spanish Armada, seize riches, join forces with other players, and dominate the high seas!\n\nWhat you can find in the game:\nTurn the seas into your very own kingdom!\nFive treacherous waters hold a PVP showdown!\nRecruit over 10 pirate officers to fight for you!\nArmor your officers with powerful equipment!\nVanquish over a hundred enemies!\nFight through hundreds of levels!\n\nFeatures\n...Free to download! No registration required.\n...Irresistible rewards for attendance, the Pirate Tourney, and infamy!\n...Recruit notorious officers, give them amazing specialties, and forge powerful weapons! The sea is yours to command!\n...5 levels of treacherous PVP waters are waiting. Only the strongest players can master them and conquer the seas. The more dangerous the waters, the better rewards you can get!\n...Surprises everywhere: rare sea monsters that pop out of nowhere, merchant ships loaded with cargo, and drifting islands full of hidden treasure.\n...Multiplayer interaction! Enter the Pirate Tourney, pillage other players, plunder their cargo ships, or join a guild...There are plenty of ways to reach the top!\n\nBuild a home base and perform frequent trades to create your pirate kingdom!\nBecome infamous with notorious officers and powerful equipment at your side!\nMake your pirate kingdom impenetrable with advanced technology and wall reinforcements!\nArrange your officers and join a pirate guild to conquer the seas!\n\nThe grand adventure awaits you. Download the game and create your very own kingdom of pirates!",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nminor bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nminor bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/haypi-pirates/id676030326?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Shanghai Haypi Computers Technology Co., Ltd.",
@@ -351,10 +351,10 @@
     },
     {
       "version": "1.6.5",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nminor bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nminor bugs fixed",
       "seenAt": "2015-10-26T04:21:00Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:00:02.786Z",
+  "updatedAt": "2026-08-29T13:06:13.279Z",
   "isOwnApp": false
 }

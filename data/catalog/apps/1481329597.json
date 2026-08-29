@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Colors Together - Watch Game",
       "description": "#1 Match 3 puzzle game for Apple Watch.\n\nJoin 3 or more colors vertically or horizontally.\n\nTo play on Apple Watch, select a cell and then any of the adjacent to match 3 or more colors.\n\nTo play on iPhone, slide the colors with the nearby boxes to form 3 or more colors.\n\nPlay a game on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/colors-together-watch-game/id1481329597?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Colors Together - Watch Game",
       "description": "#1 Match 3 puzzle game for Apple Watch.\n\nJoin 3 or more colors vertically or horizontally.\n\nTo play on Apple Watch, select a cell and then any of the adjacent to match 3 or more colors.\n\nTo play on iPhone, slide the colors with the nearby boxes to form 3 or more colors.\n\nPlay a game on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/colors-together-watch-game/id1481329597?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Colors Together - Watch Game",
       "description": "#1 Match 3 puzzle game for Apple Watch.\n\nJoin 3 or more colors vertically or horizontally.\n\nTo play on Apple Watch, select a cell and then any of the adjacent to match 3 or more colors.\n\nTo play on iPhone, slide the colors with the nearby boxes to form 3 or more colors.\n\nPlay a game on the Apple Watch!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/colors-together-watch-game/id1481329597?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 1,
   "userRatingCount": 1,
   "price": 1.99,
-  "fileSizeBytes": "11227136",
+  "fileSizeBytes": "11255808",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.2.2",
@@ -278,10 +278,10 @@
     },
     {
       "version": "1.2.2",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-03-18T17:26:29Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:49:38.073Z",
+  "updatedAt": "2026-08-29T12:56:14.532Z",
   "isOwnApp": false
 }

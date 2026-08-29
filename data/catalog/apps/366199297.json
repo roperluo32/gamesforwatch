@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Vegas Pool Sharks HD Lite",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool Sharks, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n\nThis is the free Lite version that plays up to four points and contains advertising. For full ad-free games with shot undo feature please upgrade using In-App Purchase, or buy the full version.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFull screen iPhone X support.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFull screen iPhone X support.",
       "trackViewUrl": "https://apps.apple.com/us/app/vegas-pool-sharks-hd-lite/id366199297?uo=4",
       "formattedPrice": "Free",
       "sellerName": "RESETgame",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Vegas Pool Sharks HD Lite",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool Sharks, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n\nThis is the free Lite version that plays up to four points and contains advertising. For full ad-free games with shot undo feature please upgrade using In-App Purchase, or buy the full version.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFull screen iPhone X support.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFull screen iPhone X support.",
       "trackViewUrl": "https://apps.apple.com/jp/app/vegas-pool-sharks-hd-lite/id366199297?uo=4",
       "formattedPrice": "無料",
       "sellerName": "RESETgame",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Vegas Pool Sharks HD Lite",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool Sharks, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n\nThis is the free Lite version that plays up to four points and contains advertising. For full ad-free games with shot undo feature please upgrade using In-App Purchase, or buy the full version.",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFull screen iPhone X support.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFull screen iPhone X support.",
       "trackViewUrl": "https://apps.apple.com/de/app/vegas-pool-sharks-hd-lite/id366199297?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "RESETgame",
@@ -319,10 +319,10 @@
     },
     {
       "version": "2.1.12",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nFull screen iPhone X support.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFull screen iPhone X support.",
       "seenAt": "2017-12-02T16:29:16Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:22:18.409Z",
+  "updatedAt": "2026-08-29T13:28:11.577Z",
   "isOwnApp": false
 }

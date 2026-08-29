@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Star Duster",
       "description": "***** \"A rare Apple Watch game that's actually worth playing\" - iMore\n***** \"A game you’ll return to\" - GQ Magazine\n***** \"Travel back to the 80s\" - AppAdvice\n\nStar Duster for iPhone and Apple Watch takes handheld games (and you) back to their origins:\n- Two game modes with different challenges, gameplay and high score lists!\n- Let's get physical! Get exercise and a new type of challenge by controlling Star Duster with your head through push ups (iOS)\n- A Beep-boop-ity soundscape that will get stuck on your brain!\n\nStar Duster is a prequel to the mobile arcade mayhem that is Star Jolt. Can it explain why the space junk is lined up so neatly?",
-      "releaseNotes": "Minor fixes and optimizations",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor fixes and optimizations",
       "trackViewUrl": "https://apps.apple.com/us/app/star-duster/id1539341529?uo=4",
       "formattedPrice": "$2.99",
       "sellerName": "Beardybird AB",
@@ -32,7 +32,7 @@
     "ja": {
       "trackName": "Star Duster",
       "description": "***** \"A rare Apple Watch game that's actually worth playing\" - iMore\n***** \"A game you’ll return to\" - GQ Magazine\n***** \"Travel back to the 80s\" - AppAdvice\n\nStar Duster for iPhone and Apple Watch takes handheld games (and you) back to their origins:\n- Two game modes with different challenges, gameplay and high score lists!\n- Let's get physical! Get exercise and a new type of challenge by controlling Star Duster with your head through push ups (iOS)\n- A Beep-boop-ity soundscape that will get stuck on your brain!\n\nStar Duster is a prequel to the mobile arcade mayhem that is Star Jolt. Can it explain why the space junk is lined up so neatly?",
-      "releaseNotes": "Minor fixes and optimizations",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor fixes and optimizations",
       "trackViewUrl": "https://apps.apple.com/jp/app/star-duster/id1539341529?uo=4",
       "formattedPrice": "¥500",
       "sellerName": "Beardybird AB",
@@ -57,7 +57,7 @@
     "de": {
       "trackName": "Star Duster",
       "description": "***** \"Ein seltenes Apple Watch Spiel, das tatsächlich lohnenswert ist\" - iMore\n***** \"Ein Spiel, zu dem Sie zurückkehren werden\" - GQ Magazine\n***** \"Reisen Sie zurück in die 80er\" - AppAdvice\n\nStar Duster für iPhone und Apple Watch bringt Handheld-Spiele (und dich) zurück zu ihrem Ursprung:\n- Zwei Spielmodi mit unterschiedlichen Herausforderungen und Gameplay!\n- Körpereinsatz gefragt! Erlebe Bewegung und eine neue Art von Herausforderung, indem du Star Duster mit deinem Kopf durch Liegestütze steuerst iOS 14+)\n- Eine Beep-boop-ity-Soundkulisse, die dir im Kopf bleiben wird!\n\nStar Duster ist ein Prequel des mobilen Arcade-Chaos-Spiels Star Jolt. Kann es erklären, warum der Weltraumschrott so ordentlich aufgereiht ist?",
-      "releaseNotes": "Minor fixes and optimizations",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nMinor fixes and optimizations",
       "trackViewUrl": "https://apps.apple.com/de/app/star-duster/id1539341529?uo=4",
       "formattedPrice": "2,99 €",
       "sellerName": "Beardybird AB",
@@ -84,7 +84,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 2.99,
-  "fileSizeBytes": "32312320",
+  "fileSizeBytes": "32353280",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "14.0",
   "version": "2.2.2",
@@ -312,10 +312,10 @@
     },
     {
       "version": "2.2.2",
-      "releaseNotes": "Minor fixes and optimizations",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nMinor fixes and optimizations",
       "seenAt": "2024-04-05T09:04:11Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:10:47.036Z",
+  "updatedAt": "2026-08-29T13:17:27.052Z",
   "isOwnApp": false
 }

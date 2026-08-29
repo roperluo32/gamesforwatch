@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Thirteen Two",
       "description": "Thirteen Two is a puzzle game based on the infamous clock puzzle from the game Final Fantasy XIII-2.\n\nThirteen Two contains 4 different difficulty levels and offers endless fun or annoyance depending on what type of person you are. The game tracks winning streaks, total puzzles played and how many times you've solved a puzzle in any of the difficulties. Detailed instructions for how to play the game can be found in the game.",
-      "releaseNotes": "v1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nv1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
       "trackViewUrl": "https://apps.apple.com/us/app/thirteen-two/id6476457797?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Patrik Ell",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Thirteen Two",
       "description": "Thirteen Two is a puzzle game based on the infamous clock puzzle from the game Final Fantasy XIII-2.\n\nThirteen Two contains 4 different difficulty levels and offers endless fun or annoyance depending on what type of person you are. The game tracks winning streaks, total puzzles played and how many times you've solved a puzzle in any of the difficulties. Detailed instructions for how to play the game can be found in the game.",
-      "releaseNotes": "v1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nv1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
       "trackViewUrl": "https://apps.apple.com/cn/app/thirteen-two/id6476457797?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Patrik Ell",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Thirteen Two",
       "description": "Thirteen Two is a puzzle game based on the infamous clock puzzle from the game Final Fantasy XIII-2.\n\nThirteen Two contains 4 different difficulty levels and offers endless fun or annoyance depending on what type of person you are. The game tracks winning streaks, total puzzles played and how many times you've solved a puzzle in any of the difficulties. Detailed instructions for how to play the game can be found in the game.",
-      "releaseNotes": "v1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nv1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
       "trackViewUrl": "https://apps.apple.com/jp/app/thirteen-two/id6476457797?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Patrik Ell",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Thirteen Two",
       "description": "Thirteen Two is a puzzle game based on the infamous clock puzzle from the game Final Fantasy XIII-2.\n\nThirteen Two contains 4 different difficulty levels and offers endless fun or annoyance depending on what type of person you are. The game tracks winning streaks, total puzzles played and how many times you've solved a puzzle in any of the difficulties. Detailed instructions for how to play the game can be found in the game.",
-      "releaseNotes": "v1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nv1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
       "trackViewUrl": "https://apps.apple.com/de/app/thirteen-two/id6476457797?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Patrik Ell",
@@ -77,7 +77,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27786240",
+  "fileSizeBytes": "27814912",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.4",
   "version": "1.1",
@@ -272,10 +272,10 @@
     },
     {
       "version": "1.1",
-      "releaseNotes": "v1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nv1.1 - Added Apple Watch version and fixed a bug that made the app crash in rare cases.",
       "seenAt": "2025-01-07T19:50:19Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:19:34.705Z",
+  "updatedAt": "2026-08-29T13:25:45.891Z",
   "isOwnApp": false
 }

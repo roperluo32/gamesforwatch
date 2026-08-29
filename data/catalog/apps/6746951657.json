@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Maze Escape for Watch",
       "description": "Can you master the maze? Get ready for Maze Escape, an addictive puzzle adventure designed exclusively for your Apple Watch!\n\nNavigate your character through intricate, procedurally generated labyrinths with intuitive swipe controls. Each level you conquer presents a new, more complex challenge, pushing your problem-solving skills to the limit. With charming pixel-art graphics and smooth character animations, Maze Escape offers a classic gaming experience right on your wrist.\n\nWhether you have a minute to spare or want to dive into a longer session, the endless levels will keep you entertained. Track your progress, beat your own high score, and see how deep into the labyrinth you can go!\n\nFeatures:\n- Endless, procedurally generated mazes for infinite replayability.\n- Simple and intuitive swipe-to-move controls, perfect for the Apple Watch.\n- Engaging pixel-art style and fluid animations.\n- Progressive difficulty that challenges you more with each level.\n- Lightweight and fast-loading for a seamless on-the-go experience.\n\nDownload Maze Escape for Watch today and start your wrist-sized adventure!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/maze-escape-for-watch/id6746951657?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "太宇 左",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Maze Escape for Watch",
       "description": "Can you master the maze? Get ready for Maze Escape, an addictive puzzle adventure designed exclusively for your Apple Watch!\n\nNavigate your character through intricate, procedurally generated labyrinths with intuitive swipe controls. Each level you conquer presents a new, more complex challenge, pushing your problem-solving skills to the limit. With charming pixel-art graphics and smooth character animations, Maze Escape offers a classic gaming experience right on your wrist.\n\nWhether you have a minute to spare or want to dive into a longer session, the endless levels will keep you entertained. Track your progress, beat your own high score, and see how deep into the labyrinth you can go!\n\nFeatures:\n- Endless, procedurally generated mazes for infinite replayability.\n- Simple and intuitive swipe-to-move controls, perfect for the Apple Watch.\n- Engaging pixel-art style and fluid animations.\n- Progressive difficulty that challenges you more with each level.\n- Lightweight and fast-loading for a seamless on-the-go experience.\n\nDownload Maze Escape for Watch today and start your wrist-sized adventure!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/maze-escape-for-watch/id6746951657?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "太宇 左",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Maze Escape for Watch",
       "description": "Can you master the maze? Get ready for Maze Escape, an addictive puzzle adventure designed exclusively for your Apple Watch!\n\nNavigate your character through intricate, procedurally generated labyrinths with intuitive swipe controls. Each level you conquer presents a new, more complex challenge, pushing your problem-solving skills to the limit. With charming pixel-art graphics and smooth character animations, Maze Escape offers a classic gaming experience right on your wrist.\n\nWhether you have a minute to spare or want to dive into a longer session, the endless levels will keep you entertained. Track your progress, beat your own high score, and see how deep into the labyrinth you can go!\n\nFeatures:\n- Endless, procedurally generated mazes for infinite replayability.\n- Simple and intuitive swipe-to-move controls, perfect for the Apple Watch.\n- Engaging pixel-art style and fluid animations.\n- Progressive difficulty that challenges you more with each level.\n- Lightweight and fast-loading for a seamless on-the-go experience.\n\nDownload Maze Escape for Watch today and start your wrist-sized adventure!",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/maze-escape-for-watch/id6746951657?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "太宇 左",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2993152",
+  "fileSizeBytes": "3009536",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
@@ -214,10 +214,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-10T13:25:40Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:48:50.960Z",
+  "updatedAt": "2026-08-29T12:55:29.612Z",
   "isOwnApp": false
 }

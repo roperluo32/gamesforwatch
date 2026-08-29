@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Dog Face Puzzles",
       "description": "Introducing Dog Face Puzzles – an exciting new puzzle game for pet lovers!\n\nChoose from over 125 professional photos of beautiful dogs and solve over 1500 puzzles ranging from easy to difficult. Relax your brain with Square’s Slide, a mindless game great for passing the time or test your focus with the medium difficulty puzzle, Honeycomb Jungle. Think you’re a puzzle expert? Prove your skills with Saturn’s Twist, a challenging circular puzzle built specially for the pros. \n\nDog Face Puzzles is available on all handheld Apple devices from iPhones to iPads and Apple Watches. For an added bonus – Set your watch face with any of the adorable dog images from the app’s massive photo library.\n\nPlay now and discover the cutest and cuddliest puzzles on the App store!",
-      "releaseNotes": "New puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
       "trackViewUrl": "https://apps.apple.com/us/app/dog-face-puzzles/id6499178234?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Alexander Perelberg DBA Coding Art",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Dog Face Puzzles",
       "description": "Introducing Dog Face Puzzles – an exciting new puzzle game for pet lovers!\n\nChoose from over 125 professional photos of beautiful dogs and solve over 1500 puzzles ranging from easy to difficult. Relax your brain with Square’s Slide, a mindless game great for passing the time or test your focus with the medium difficulty puzzle, Honeycomb Jungle. Think you’re a puzzle expert? Prove your skills with Saturn’s Twist, a challenging circular puzzle built specially for the pros. \n\nDog Face Puzzles is available on all handheld Apple devices from iPhones to iPads and Apple Watches. For an added bonus – Set your watch face with any of the adorable dog images from the app’s massive photo library.\n\nPlay now and discover the cutest and cuddliest puzzles on the App store!",
-      "releaseNotes": "New puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
       "trackViewUrl": "https://apps.apple.com/jp/app/dog-face-puzzles/id6499178234?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Alexander Perelberg DBA Coding Art",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Dog Face Puzzles",
       "description": "Introducing Dog Face Puzzles – an exciting new puzzle game for pet lovers!\n\nChoose from over 125 professional photos of beautiful dogs and solve over 1500 puzzles ranging from easy to difficult. Relax your brain with Square’s Slide, a mindless game great for passing the time or test your focus with the medium difficulty puzzle, Honeycomb Jungle. Think you’re a puzzle expert? Prove your skills with Saturn’s Twist, a challenging circular puzzle built specially for the pros. \n\nDog Face Puzzles is available on all handheld Apple devices from iPhones to iPads and Apple Watches. For an added bonus – Set your watch face with any of the adorable dog images from the app’s massive photo library.\n\nPlay now and discover the cutest and cuddliest puzzles on the App store!",
-      "releaseNotes": "New puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
       "trackViewUrl": "https://apps.apple.com/de/app/dog-face-puzzles/id6499178234?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Alexander Perelberg DBA Coding Art",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "44026880",
+  "fileSizeBytes": "44121088",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
   "version": "1.10",
@@ -265,10 +265,10 @@
     },
     {
       "version": "1.10",
-      "releaseNotes": "New puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew puzzle!\nHoneycomb Jungle, a medium difficulty puzzle for all ages.",
       "seenAt": "2024-06-12T02:28:13Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:09:56.836Z",
+  "updatedAt": "2026-08-29T13:16:12.984Z",
   "isOwnApp": false
 }

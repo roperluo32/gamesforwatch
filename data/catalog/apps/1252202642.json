@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pack 2",
       "description": "A pack of 6 classic games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Brick Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Brick Breaker\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Block Ninja\nControl the ninja to avoid all spikes and get best score.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Bubble Shooter\nTap to shoot or use Digital Crown to aim , release to shoot.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pack-2/id1252202642?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Nguyen Huy Diep",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch Games Pack 2",
       "description": "A pack of 6 classic games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Brick Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Brick Breaker\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Block Ninja\nControl the ninja to avoid all spikes and get best score.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Bubble Shooter\nTap to shoot or use Digital Crown to aim , release to shoot.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games-pack-2/id1252202642?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Nguyen Huy Diep",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch Games Pack 2",
       "description": "A pack of 6 classic games for you to enjoy on your Apple Watch or your iPhone/iPad.\n\n◉ Brick Puzzle\nUse the Digital crown or your finger to move the bricks around. Tap to rotate and swipe down to drop.\n\n◉ Brick Breaker\nUse the Digital Crown or your finger to move your paddle and hit the ball. Destroy all the blocks to finish levels. \n\n◉ Block Ninja\nControl the ninja to avoid all spikes and get best score.\n\n◉ Snake\nSwipe to change snake direction.\n\n◉ Bubble Shooter\nTap to shoot or use Digital Crown to aim , release to shoot.\n\n◉ Mine Sweeper\nTap to reveal a square. If a square containing a mine, you lose. Reveal all square to win.",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games-pack-2/id1252202642?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Nguyen Huy Diep",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "20415488",
+  "fileSizeBytes": "20444160",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "10.0",
   "version": "3.0.0",
@@ -264,10 +264,10 @@
     },
     {
       "version": "3.0.0",
-      "releaseNotes": "- Optimize for new os.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimize for new os.",
       "seenAt": "2023-12-22T21:17:56Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:11:02.697Z",
+  "updatedAt": "2026-08-29T13:17:42.817Z",
   "isOwnApp": false
 }

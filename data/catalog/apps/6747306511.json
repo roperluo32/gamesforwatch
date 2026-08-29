@@ -7,7 +7,7 @@
     "en": {
       "trackName": "WristTetris",
       "description": "Play the classic block puzzle game — reimagined for your Apple Watch!\nFeatures:\n • Built for the wrist: Optimized for Apple Watch with intuitive controls and smooth gameplay.\n • Color combo scoring: Clear blocks of the same color for bonus points!\n • Multi-line clears: Clear 2, 3, or 4 lines at once and rack up combos!\n • Pixel-perfect visuals: Retro-inspired design that looks crisp on the small screen.\n • No ads, no hassle: One-time purchase, no interruptions.\n\nCan you master the game and set new wrist-high scores?",
-      "releaseNotes": "Fixed an issue where Tetris blocks could not be rotated when positioned on the far right.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where Tetris blocks could not be rotated when positioned on the far right.",
       "trackViewUrl": "https://apps.apple.com/us/app/wristtetris/id6747306511?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "旭东 刘",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "腕动方块",
       "description": "在 Apple Watch 上畅玩你熟悉又新鲜的俄罗斯方块游戏！\n【游戏特色】\n• 专为 Apple Watch 打造：抬手即玩，极简操作，随时随地挑战极限。\n• 彩块同消，更高得分：只要同色方块一起消除，就能获得加倍奖励！\n• 连消连击，爽感爆棚：一口气消掉多行？系统自动加分，轻松刷新纪录。\n• 精致像素风：小屏幕上也不妥协的美术与动效。\n• 离线畅玩，无广告：一次购买，永久免费更新。\n\n你能否在手腕上打出属于你的方块高分传奇？",
-      "releaseNotes": "修复了俄罗斯方块在最右侧时，不能旋转的问题",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n修复了俄罗斯方块在最右侧时，不能旋转的问题",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E5%8A%A8%E6%96%B9%E5%9D%97/id6747306511?uo=4",
       "formattedPrice": "¥8.00",
       "sellerName": "旭东 刘",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "腕动方块",
       "description": "在 Apple Watch 上畅玩你熟悉又新鲜的俄罗斯方块游戏！\n【游戏特色】\n• 专为 Apple Watch 打造：抬手即玩，极简操作，随时随地挑战极限。\n• 彩块同消，更高得分：只要同色方块一起消除，就能获得加倍奖励！\n• 连消连击，爽感爆棚：一口气消掉多行？系统自动加分，轻松刷新纪录。\n• 精致像素风：小屏幕上也不妥协的美术与动效。\n• 离线畅玩，无广告：一次购买，永久免费更新。\n\n你能否在手腕上打出属于你的方块高分传奇？",
-      "releaseNotes": "修复了俄罗斯方块在最右侧时，不能旋转的问题",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n修复了俄罗斯方块在最右侧时，不能旋转的问题",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E5%8A%A8%E6%96%B9%E5%9D%97/id6747306511?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "旭东 刘",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "腕动方块",
       "description": "在 Apple Watch 上畅玩你熟悉又新鲜的俄罗斯方块游戏！\n【游戏特色】\n• 专为 Apple Watch 打造：抬手即玩，极简操作，随时随地挑战极限。\n• 彩块同消，更高得分：只要同色方块一起消除，就能获得加倍奖励！\n• 连消连击，爽感爆棚：一口气消掉多行？系统自动加分，轻松刷新纪录。\n• 精致像素风：小屏幕上也不妥协的美术与动效。\n• 离线畅玩，无广告：一次购买，永久免费更新。\n\n你能否在手腕上打出属于你的方块高分传奇？",
-      "releaseNotes": "修复了俄罗斯方块在最右侧时，不能旋转的问题",
+      "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n修复了俄罗斯方块在最右侧时，不能旋转的问题",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E5%8A%A8%E6%96%B9%E5%9D%97/id6747306511?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "旭东 刘",
@@ -73,7 +73,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "1018880",
+  "fileSizeBytes": "1035264",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.6",
@@ -253,10 +253,10 @@
     },
     {
       "version": "1.6",
-      "releaseNotes": "Fixed an issue where Tetris blocks could not be rotated when positioned on the far right.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed an issue where Tetris blocks could not be rotated when positioned on the far right.",
       "seenAt": "2025-09-09T11:11:34Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:54:54.367Z",
+  "updatedAt": "2026-08-29T13:02:02.428Z",
   "isOwnApp": false
 }

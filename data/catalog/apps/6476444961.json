@@ -7,7 +7,7 @@
     "en": {
       "trackName": "The Steam Punk Labyrinth Game",
       "description": "Embark on a Steampunk Odyssey:\n\"The Labyrinth Game\" redefines wrist gaming by blending intricate Steampunk aesthetics with captivating labyrinth puzzles. Navigate your way through a maze of copper and bronze, where each turn reveals new mechanical wonders and challenges.\n\nTilt, Twist, Triumph:\nUtilize the precision of your gyro sensors to guide a gleaming metallic ball through a series of ever-evolving mazes. With each tilt of your wrist, embark on a dance of dexterity and strategy, weaving through the labyrinth's entangled paths.\n\nLeaderboards\nBeat your friends or the global high score, through the leaderboards in Game Center.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/us/app/the-steam-punk-labyrinth-game/id6476444961?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Soon Up GmbH",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "The Steam Punk Labyrinth Game",
       "description": "Embark on a Steampunk Odyssey:\n\"The Labyrinth Game\" redefines wrist gaming by blending intricate Steampunk aesthetics with captivating labyrinth puzzles. Navigate your way through a maze of copper and bronze, where each turn reveals new mechanical wonders and challenges.\n\nTilt, Twist, Triumph:\nUtilize the precision of your gyro sensors to guide a gleaming metallic ball through a series of ever-evolving mazes. With each tilt of your wrist, embark on a dance of dexterity and strategy, weaving through the labyrinth's entangled paths.\n\nLeaderboards\nBeat your friends or the global high score, through the leaderboards in Game Center.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/cn/app/the-steam-punk-labyrinth-game/id6476444961?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Soon Up GmbH",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "The Steam Punk Labyrinth Game",
       "description": "Embark on a Steampunk Odyssey:\n\"The Labyrinth Game\" redefines wrist gaming by blending intricate Steampunk aesthetics with captivating labyrinth puzzles. Navigate your way through a maze of copper and bronze, where each turn reveals new mechanical wonders and challenges.\n\nTilt, Twist, Triumph:\nUtilize the precision of your gyro sensors to guide a gleaming metallic ball through a series of ever-evolving mazes. With each tilt of your wrist, embark on a dance of dexterity and strategy, weaving through the labyrinth's entangled paths.\n\nLeaderboards\nBeat your friends or the global high score, through the leaderboards in Game Center.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/jp/app/the-steam-punk-labyrinth-game/id6476444961?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Soon Up GmbH",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "The Steam Punk Labyrinth Game",
       "description": "Embark on a Steampunk Odyssey:\n\"The Labyrinth Game\" redefines wrist gaming by blending intricate Steampunk aesthetics with captivating labyrinth puzzles. Navigate your way through a maze of copper and bronze, where each turn reveals new mechanical wonders and challenges.\n\nTilt, Twist, Triumph:\nUtilize the precision of your gyro sensors to guide a gleaming metallic ball through a series of ever-evolving mazes. With each tilt of your wrist, embark on a dance of dexterity and strategy, weaving through the labyrinth's entangled paths.\n\nLeaderboards\nBeat your friends or the global high score, through the leaderboards in Game Center.",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "trackViewUrl": "https://apps.apple.com/de/app/the-steam-punk-labyrinth-game/id6476444961?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Soon Up GmbH",
@@ -81,7 +81,7 @@
   "averageUserRating": 5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "13263872",
+  "fileSizeBytes": "13288448",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
   "version": "1.0",
@@ -251,10 +251,10 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2024-04-02T13:59:17Z"
     }
   ],
-  "updatedAt": "2026-08-28T19:20:14.209Z",
+  "updatedAt": "2026-08-29T13:26:13.013Z",
   "isOwnApp": false
 }

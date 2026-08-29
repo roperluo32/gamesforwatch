@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tessellate 360 - Watch Game",
       "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Tessellate 360 - Watch Game",
       "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Tessellate 360 - Watch Game",
       "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -63,7 +63,7 @@
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "11413504",
+  "fileSizeBytes": "11442176",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
   "version": "1.1.3",
@@ -264,10 +264,10 @@
     },
     {
       "version": "1.1.3",
-      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-03-12T16:52:49Z"
     }
   ],
-  "updatedAt": "2026-08-28T18:50:02.974Z",
+  "updatedAt": "2026-08-29T12:56:37.797Z",
   "isOwnApp": false
 }
