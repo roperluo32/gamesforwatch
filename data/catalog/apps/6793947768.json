@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Jump on the wrist-watch game",
       "description": "Jump — Rhythmic jumping on your wrist\n\nPress and hold on Apple Watch to charge your jump, release to leap, and chase a higher score.\nThe iPhone companion app is free to play, with stats and Game Center leaderboards.\n\n• Precise charging, land to score\n• Game Center global leaderboard\n• Try it on Watch, then unlock Premium for unlimited play\n• iPhone is free with no round limit\n\n订阅条款 Terms of Use: https://gamepark.online/tiaoyitiao/terms",
-      "releaseNotes": "Fixed known issues.",
+      "releaseNotes": "Bug fixes and improved user experience",
       "trackViewUrl": "https://apps.apple.com/us/app/jump-on-the-wrist-watch-game/id6793947768?uo=4",
       "formattedPrice": "Free",
       "sellerName": "启韬 陈",
@@ -31,7 +31,7 @@
     "zh": {
       "trackName": "手表跳一跳-手机手表双端游戏",
       "description": "跳一跳 — 腕上节奏跳跃\n\n在 Apple Watch 上长按蓄力、松手起跳，挑战更高分。\niPhone 端可免费畅玩，并查看统计与 Game Center 排行榜。\n\n• 精准蓄力，落地得分\n• Game Center 全球排行\n• 手表试玩后可开通会员无限畅玩\n• iPhone 免费不限局数\n\n订阅条款 Terms of Use: https://gamepark.online/tiaoyitiao/terms",
-      "releaseNotes": "修复已知问题。",
+      "releaseNotes": "修复已知bug，提升用户体验",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E8%B7%B3%E4%B8%80%E8%B7%B3-%E6%89%8B%E6%9C%BA%E6%89%8B%E8%A1%A8%E5%8F%8C%E7%AB%AF%E6%B8%B8%E6%88%8F/id6793947768?uo=4",
       "formattedPrice": "免费",
       "sellerName": "启韬 陈",
@@ -55,7 +55,7 @@
     "ja": {
       "trackName": "Jump on the wrist",
       "description": "ジャンプ — 手首でリズムジャンプ\n\nApple Watch で長押ししてジャンプをチャージし、離して跳び、最高得点を目指そう。\niPhone アプリは無料でプレイでき、統計や Game Center ランキングも確認できます。\n\n• 正確なチャージ、着地で得点\n• Game Center 世界ランキング\n• Watch でお試しプレイ後、プレミアムで無制限プレイ\n• iPhone はラウンド制限なしで無料\n\n订阅条款 Terms of Use: https://gamepark.online/tiaoyitiao/terms",
-      "releaseNotes": "既知の不具合を修正しました。",
+      "releaseNotes": "既知の不具合を修正し、ユーザー体験を向上しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/jump-on-the-wrist/id6793947768?uo=4",
       "formattedPrice": "無料",
       "sellerName": "启韬 陈",
@@ -79,7 +79,7 @@
     "de": {
       "trackName": "Jump on the wrist",
       "description": "Jump – Rhythmisches Springen am Handgelenk\n\nDrücke auf der Apple Watch lange, um deinen Sprung aufzuladen, und lass los, um zu springen – jage nach der höchsten Punktzahl.\nDie iPhone-Begleit-App ist kostenlos spielbar, mit Statistiken und Game-Center-Bestenlisten.\n\n• Präzises Aufladen, landen für Punkte\n• Game-Center-Weltrangliste\n• Auf der Watch ausprobieren, dann Premium für unbegrenztes Spielen freischalten\n• iPhone kostenlos ohne Rundenlimit\n\n订阅条款 Terms of Use: https://gamepark.online/tiaoyitiao/terms",
-      "releaseNotes": "Behebung bekannter Fehler.",
+      "releaseNotes": "Fehlerbehebungen und verbesserte Benutzererfahrung",
       "trackViewUrl": "https://apps.apple.com/de/app/jump-on-the-wrist/id6793947768?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "启韬 陈",
@@ -101,15 +101,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/75/0b/e3750bc9-eec1-f218-bb42-93b8eef4b66a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/06/7d/e2067d2a-2b7f-de80-203f-1715a1c30fea/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "29168640",
+  "fileSizeBytes": "30340096",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17",
-  "version": "1.1",
-  "currentVersionReleaseDate": "2026-08-19T16:30:15Z",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-08-29T18:07:30Z",
   "releaseDate": "2026-08-15T07:00:00Z",
   "artistId": 1879937348,
   "artistName": "启韬 陈",
@@ -277,8 +277,13 @@
       "version": "1.1",
       "releaseNotes": "Fixed known issues.",
       "seenAt": "2026-08-19T16:30:15Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Bug fixes and improved user experience",
+      "seenAt": "2026-08-29T18:07:30Z"
     }
   ],
-  "updatedAt": "2026-08-29T12:49:28.630Z",
+  "updatedAt": "2026-08-30T11:54:43.807Z",
   "isOwnApp": false
 }

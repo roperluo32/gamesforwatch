@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cozy Fishing Game & Simulator",
       "description": "Cast into a lake that runs on your real clock. When the sun sets outside your window, it sets on the water too — and the night fish start biting.\n\nREEL WITH YOUR FINGER — OR YOUR CROWN\n• iPhone: hold the rod, watch the tension, drag the ReelPad to fight the fish\n• Apple Watch: crank the Digital Crown to reel — the full game lives on your wrist\n• Haptic ticks count every meter of line you win back\n\nA LAKE THAT KEEPS REAL TIME\n• Dawn, day, dusk and night follow your actual clock — no fake day cycles\n• Every species keeps its own hours: miss the dusk bite, wait for tomorrow's\n• The sun and moon cross the sky in real time; check the water to know the hour\n\n20 SPECIES TO OUTSMART\n• 7 common, 6 rare, 4 epic and 3 legendary fish\n• Each one gets a Trophies card with its depth, hours and favorite bait\n• Legendaries hide deep — upgrade your line from 10 m all the way to 200 m\n\nGEAR THAT CHANGES HOW YOU FISH\n• 6 baits, from plain Bread for the shallows to Glowworm for the midnight deep\n• 4 upgrade tracks: line length, line strength, rod power, reel speed\n• Let the line scream in the red zone too long and it snaps — reel smart, not fast\n\nCATCH A FRENZY\n• Feeding frenzies double the bite rate for a short window\n• Optional notifications ping you when the water starts to boil\n\nCOZY BY DESIGN\n• No ads. No internet needed. No energy timers.\n• Sessions fit between two sips of coffee — or stretch into a quiet evening\n• Soft water, slow waves, and a rod that wobbles when a big one takes the hook\n\nOne lake, twenty fish, and whatever time your watch says it is. Good luck with the legendaries after dark.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "A polish pass between catches.\n• Cleaner, more readable text across all 36 languages\n• Sharper in-game hints and labels\n• Minor fixes and stability tweaks\nMore fish and deeper water are on the way.",
+      "releaseNotes": "Cleaner screen, bigger fish.\n• Fish, tackle and boat drawn larger on Apple Watch\n• Reel moved to the center, easier to reach mid-fight\n• Tension gauge sits closer to the action, not the far edge\n• Daily goal moved to the top of the screen\n• Hints step aside once you've landed your first few fish\nMore fish and deeper water are on the way.",
       "trackViewUrl": "https://apps.apple.com/us/app/cozy-fishing-game-simulator/id6790124371?uo=4",
       "formattedPrice": "Free",
       "sellerName": "MIKHAIL MANEV YURII, IE",
@@ -107,7 +107,7 @@
     "ja": {
       "trackName": "釣りゲーム - のんびり魚釣り",
       "description": "実際の時刻で動く湖に、ラインをキャスト。窓の外で日が沈めば湖も夕暮れに変わり、夜の魚たちが動き出します。\n\n指で巻くか、Digital Crownで巻くか\n• iPhone：ロッドを握り、張力を見ながらReelPadをドラッグして魚とファイト\n• Apple Watch：Digital Crownを回して巻き上げ。ゲームのすべてが手首の上に\n• 巻き取った1mごとに、ハプティックがカチカチと刻みます\n\n湖は現実の時間で動く\n• 明け方・昼・夕方・夜はあなたの時計と同じ。偽物の昼夜サイクルはありません\n• 魚ごとに活性時間が違います。夕方の時合いを逃したら、また明日\n• 太陽と月はリアルタイムで空を渡ります。水面を見れば今の時刻が分かります\n\n出し抜きたい20種の魚\n• コモン7種、レア6種、エピック4種、レジェンド3種\n• 釣った魚はトロフィーのカードに。水深・活性時間・好みのエサが記録されます\n• レジェンドは深場に潜んでいます。ラインを10mから200mまで強化しましょう\n\n装備で釣りが変わる\n• エサは6種類。浅瀬向けのパンから、真夜中の深場に効く光るエサまで\n• 強化は4系統：ラインの長さ、ラインの強度、ロッド、リール\n• レッドゾーンで粘りすぎるとライン切れ。速さより賢さで巻きましょう\n\n入れ食いを見逃すな\n• 入れ食い中は、しばらくの間食いつきが2倍になります\n• 通知をオンにすれば、水面が沸き立った瞬間にお知らせ（通知は任意です）\n\nのんびり遊べる設計\n• 広告なし。ネット不要。スタミナ制限もなし\n• コーヒー2口の間のひと釣りも、静かな夜の長釣りも\n• やわらかな水面、ゆったりした波。大物が掛かるとロッドがしなります\n\nひとつの湖、20種の魚、そしてあなたの時計が示す時間。日が暮れてからのレジェンド釣り、健闘を祈ります。\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "A polish pass between catches.\n• Cleaner, more readable text across all 36 languages\n• Sharper in-game hints and labels\n• Minor fixes and stability tweaks\nMore fish and deeper water are on the way.",
+      "releaseNotes": "Cleaner screen, bigger fish.\n• Fish, tackle and boat drawn larger on Apple Watch\n• Reel moved to the center, easier to reach mid-fight\n• Tension gauge sits closer to the action, not the far edge\n• Daily goal moved to the top of the screen\n• Hints step aside once you've landed your first few fish\nMore fish and deeper water are on the way.",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E9%87%A3%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0-%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E9%AD%9A%E9%87%A3%E3%82%8A/id6790124371?uo=4",
       "formattedPrice": "無料",
       "sellerName": "MIKHAIL MANEV YURII, IE",
@@ -157,7 +157,7 @@
     "de": {
       "trackName": "Angel Spiele: Entspannt Angeln",
       "description": "Wirf deine Angel in einen See aus, der nach deiner echten Uhr läuft. Wenn draußen vor deinem Fenster die Sonne untergeht, versinkt sie auch im Wasser — und die Nachtfische beginnen zu beißen.\n\nKURBELN MIT DEM FINGER — ODER MIT DER KRONE\n• iPhone: Halte die Rute, behalte die Spannung im Blick und zieh am ReelPad, um den Fisch zu drillen\n• Apple Watch: Dreh die Digital Crown zum Kurbeln — das ganze Spiel lebt an deinem Handgelenk\n• Haptische Ticks zählen jeden Meter Schnur, den du zurückgewinnst\n\nEIN SEE, DER ECHTE ZEIT HÄLT\n• Morgengrauen, Tag, Dämmerung und Nacht folgen deiner echten Uhr — keine künstlichen Tageszyklen\n• Jede Art hat ihre eigenen Zeiten: Verpasst du den Biss in der Dämmerung, wartest du bis morgen\n• Sonne und Mond ziehen in Echtzeit über den Himmel; ein Blick aufs Wasser verrät dir die Stunde\n\n20 ARTEN ZUM ÜBERLISTEN\n• 7 gewöhnliche, 6 seltene, 4 epische und 3 legendäre Fische\n• Jeder bekommt eine Karte in den Trophäen — mit Tiefe, Beißzeiten und Lieblingsköder\n• Legendäre verstecken sich tief unten — rüste deine Schnur von 10 m bis auf 200 m auf\n\nAUSRÜSTUNG, DIE DEIN ANGELN VERÄNDERT\n• 6 Köder, vom schlichten Brot fürs Flachwasser bis zum Leuchtwurm für die Mitternachtstiefe\n• 4 Upgrade-Pfade: Schnurlänge, Schnurstärke, Rute, Rolle\n• Lässt du die Schnur zu lange im roten Bereich kreischen, reißt sie — kurbel schlau statt schnell\n\nERWISCH DIE BEISSZEIT\n• In der Beißzeit beißen die Fische für ein kurzes Fenster doppelt so oft\n• Optionale Mitteilungen melden sich, wenn das Wasser zu brodeln beginnt\n\nGEMÜTLICH AUS PRINZIP\n• Keine Werbung. Kein Internet nötig. Keine Energie-Timer.\n• Eine Runde passt zwischen zwei Schlucke Kaffee — oder wird zu einem ruhigen Abend\n• Sanftes Wasser, träge Wellen und eine Rute, die wackelt, wenn ein Großer anbeißt\n\nEin See, zwanzig Fische und genau die Zeit, die deine Uhr anzeigt. Viel Glück mit den Legendären nach Einbruch der Dunkelheit.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "A polish pass between catches.\n• Cleaner, more readable text across all 36 languages\n• Sharper in-game hints and labels\n• Minor fixes and stability tweaks\nMore fish and deeper water are on the way.",
+      "releaseNotes": "Cleaner screen, bigger fish.\n• Fish, tackle and boat drawn larger on Apple Watch\n• Reel moved to the center, easier to reach mid-fight\n• Tension gauge sits closer to the action, not the far edge\n• Daily goal moved to the top of the screen\n• Hints step aside once you've landed your first few fish\nMore fish and deeper water are on the way.",
       "trackViewUrl": "https://apps.apple.com/de/app/angel-spiele-entspannt-angeln/id6790124371?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "MIKHAIL MANEV YURII, IE",
@@ -205,15 +205,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/9d/99/cb9d990c-df71-aa74-817c-3f2e8df124c8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 0,
-  "userRatingCount": 0,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/7f/8d/c77f8d0f-29fb-f0fc-1b47-42ec25f36183/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 5,
+  "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "42454016",
+  "fileSizeBytes": "42490880",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "1.0.7",
-  "currentVersionReleaseDate": "2026-08-29T03:37:22Z",
+  "version": "1.0.8",
+  "currentVersionReleaseDate": "2026-08-29T18:07:32Z",
   "releaseDate": "2026-07-20T07:00:00Z",
   "artistId": 1576742601,
   "artistName": "Mikhail Manev",
@@ -435,8 +435,13 @@
       "version": "1.0.7",
       "releaseNotes": "A polish pass between catches.\n• Cleaner, more readable text across all 36 languages\n• Sharper in-game hints and labels\n• Minor fixes and stability tweaks\nMore fish and deeper water are on the way.",
       "seenAt": "2026-08-29T03:37:22Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "Cleaner screen, bigger fish.\n• Fish, tackle and boat drawn larger on Apple Watch\n• Reel moved to the center, easier to reach mid-fight\n• Tension gauge sits closer to the action, not the far edge\n• Daily goal moved to the top of the screen\n• Hints step aside once you've landed your first few fish\nMore fish and deeper water are on the way.",
+      "seenAt": "2026-08-29T18:07:32Z"
     }
   ],
-  "updatedAt": "2026-08-29T12:43:12.328Z",
+  "updatedAt": "2026-08-30T11:48:13.677Z",
   "isOwnApp": false
 }
