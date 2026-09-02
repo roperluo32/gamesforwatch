@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pixel",
       "description": "Watch Games — A pixel arcade on your wrist\n\nNo phone handy? Between swim sets, on your commute, or in a short queue—raise your wrist and start a round. Watch Games is built for Apple Watch: retro pixel art, simple controls, perfect for spare moments, and most titles run independently on the Watch.\n\n【Why it fits the Watch】\n• Short sessions with a complete feel\n• Crown, tap, and swipe—big, readable pixel UI\n• Most games play on Watch alone—no constant phone staring\n• The iPhone companion covers the library, categories, records, how-to guides, and Watch hub order/visibility\n\n【Card highlights】\n• Watch Mahjong: four-player draw play; self-draw & discard wins; Chi/Pong/Kong on one contextual button\n• Watch Big Two: SE Asia shedding; the player with a 3 leads; same count + higher rank to beat; 2 is highest\n• Watch Dou Dizhu: bid Landlord, play or pass; bombs & rockets multiply; you vs two AIs\n• Watch President: four-player shedding; multi-select same ranks; first out becomes President\n\n【And more】\nShoot lane, link-match, pool, Tetris-style blocks, coin merge, bottle logic, parking exit puzzle, screw dig, huge maze, sushi belt, tea pour, café bar, produce cut, slot fever, slap faces, mouth toss, spit aim, plot grow, traveler pet, life-sim CCTV, punch SFX, and more—casual, puzzle, action, and lifestyle bites.\n\n【iPhone companion】\nBrowse games and detailed “How to Play,” sync scores, explore categories, and edit which games appear on the Watch hub—and in what order—with automatic sync to Apple Watch.\n\nRaise your wrist. Play a pixel round.",
-      "releaseNotes": "Shop & Coins\n\nNew Shop in Settings: spend coins on marbles and card-table chips\nEarn coins by beating personal-best score milestones in any game\nCoin-earning guide and spending history in the Shop\nCard Stakes\n\nBig Two, Dou Dizhu, President, Mahjong: choose a chip stake before each hand\nFever Spin uses the shared chip balance for bets\nQuitting mid-hand forfeits your stake; re-enter to place a new bet\nPolish\n\nMarble tips updated: buy marbles with coins in Settings → Shop\nEndless games now show Mode ∞ instead of Clears / Wins",
+      "releaseNotes": "• Home: switch between Default and Newest sorting; pin multiple games so they stay on top; first-launch tip for pinning\n• Pool: unlock and equip table, cue, and aim styles with coins in the Shop\n• Fever Spin: clearer layout and controls; open the Shop when you need more chips\n• Broader localization for Outdoor Traveler and other games\n• Stability and UI polish\n\nThanks for playing. Feedback is always welcome.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pixel/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "商城与金币\n\n设置页新增「商城」：用金币兑换弹珠、牌局筹码\n任意游戏刷新历史最佳分数里程碑可获得金币\n商城支持查看金币获取说明与消费记录\n牌局押注\n\n大老二、斗地主、总统、麻将：开局先选筹码押注再开打\n狂热转继续使用共用筹码下注\n对局中退出将放弃本局已押筹码；再次进入需重新选注\n体验优化\n\n弹珠补充说明：可在设置 → 商城用金币兑换弹珠\n无限玩法成绩页改为「模式 ∞」，不再误显示通关",
+      "releaseNotes": "• 大厅：新增「默认 / 最新」排序切换；支持同时置顶多款游戏，置顶不受排序影响；首次进入有置顶指引\n• 台球：多款球桌、球杆与瞄准样式可在商城用金币兑换并装备\n• 狂热转：界面与操作体验优化，筹码不足时可前往商城兑换\n• 户外旅行家等玩法完善多语言文案\n• 稳定性与界面细节优化\n\n感谢游玩。如有建议，欢迎在 App 内反馈。",
       "trackViewUrl": "https://apps.apple.com/cn/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "商城与金币\n\n设置页新增「商城」：用金币兑换弹珠、牌局筹码\n任意游戏刷新历史最佳分数里程碑可获得金币\n商城支持查看金币获取说明与消费记录\n牌局押注\n\n大老二、斗地主、总统、麻将：开局先选筹码押注再开打\n狂热转继续使用共用筹码下注\n对局中退出将放弃本局已押筹码；再次进入需重新选注\n体验优化\n\n弹珠补充说明：可在设置 → 商城用金币兑换弹珠\n无限玩法成绩页改为「模式 ∞」，不再误显示通关",
+      "releaseNotes": "• 大厅：新增「默认 / 最新」排序切换；支持同时置顶多款游戏，置顶不受排序影响；首次进入有置顶指引\n• 台球：多款球桌、球杆与瞄准样式可在商城用金币兑换并装备\n• 狂热转：界面与操作体验优化，筹码不足时可前往商城兑换\n• 户外旅行家等玩法完善多语言文案\n• 稳定性与界面细节优化\n\n感谢游玩。如有建议，欢迎在 App 内反馈。",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "商城与金币\n\n设置页新增「商城」：用金币兑换弹珠、牌局筹码\n任意游戏刷新历史最佳分数里程碑可获得金币\n商城支持查看金币获取说明与消费记录\n牌局押注\n\n大老二、斗地主、总统、麻将：开局先选筹码押注再开打\n狂热转继续使用共用筹码下注\n对局中退出将放弃本局已押筹码；再次进入需重新选注\n体验优化\n\n弹珠补充说明：可在设置 → 商城用金币兑换弹珠\n无限玩法成绩页改为「模式 ∞」，不再误显示通关",
+      "releaseNotes": "• 大厅：新增「默认 / 最新」排序切换；支持同时置顶多款游戏，置顶不受排序影响；首次进入有置顶指引\n• 台球：多款球桌、球杆与瞄准样式可在商城用金币兑换并装备\n• 狂热转：界面与操作体验优化，筹码不足时可前往商城兑换\n• 户外旅行家等玩法完善多语言文案\n• 稳定性与界面细节优化\n\n感谢游玩。如有建议，欢迎在 App 内反馈。",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -69,15 +69,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/e7/58/24e75824-49a2-1e49-f6fa-69393a4d80c6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/0e/be/fd0ebec4-2893-5f31-7a26-a5a88760700b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "86490112",
+  "fileSizeBytes": "102042624",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.7",
-  "currentVersionReleaseDate": "2026-08-26T22:17:05Z",
+  "version": "1.0.8",
+  "currentVersionReleaseDate": "2026-09-02T07:19:59Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -270,8 +270,13 @@
       "version": "1.0.7",
       "releaseNotes": "Shop & Coins\n\nNew Shop in Settings: spend coins on marbles and card-table chips\nEarn coins by beating personal-best score milestones in any game\nCoin-earning guide and spending history in the Shop\nCard Stakes\n\nBig Two, Dou Dizhu, President, Mahjong: choose a chip stake before each hand\nFever Spin uses the shared chip balance for bets\nQuitting mid-hand forfeits your stake; re-enter to place a new bet\nPolish\n\nMarble tips updated: buy marbles with coins in Settings → Shop\nEndless games now show Mode ∞ instead of Clears / Wins",
       "seenAt": "2026-08-26T22:17:05Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "• Home: switch between Default and Newest sorting; pin multiple games so they stay on top; first-launch tip for pinning\n• Pool: unlock and equip table, cue, and aim styles with coins in the Shop\n• Fever Spin: clearer layout and controls; open the Shop when you need more chips\n• Broader localization for Outdoor Traveler and other games\n• Stability and UI polish\n\nThanks for playing. Feedback is always welcome.",
+      "seenAt": "2026-09-02T07:19:59Z"
     }
   ],
-  "updatedAt": "2026-09-01T11:37:48.742Z",
+  "updatedAt": "2026-09-02T11:10:50.149Z",
   "isOwnApp": false
 }

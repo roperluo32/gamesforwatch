@@ -13,9 +13,9 @@
       "sellerName": "Diem Le",
       "genres": [
         "Games",
-        "Puzzle",
+        "Board",
         "Entertainment",
-        "Casual"
+        "Puzzle"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -31,9 +31,9 @@
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
-        "パズル",
+        "ボード",
         "エンターテインメント",
-        "カジュアル"
+        "パズル"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -49,9 +49,9 @@
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
-        "Puzzle",
+        "Brettspiele",
         "Unterhaltung",
-        "Gelegenheits­spiele"
+        "Puzzle"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/14/a9/7a14a9f3-4bd9-0e81-3855-46c7b1b426dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fc/6d/1dfc6d1a-bef6-4430-8bad-b15945b1d19f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.83333,
   "userRatingCount": 18,
   "price": 0,
-  "fileSizeBytes": "70979584",
+  "fileSizeBytes": "71920640",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.1.0",
-  "currentVersionReleaseDate": "2026-08-23T19:15:37Z",
+  "version": "3.1.1",
+  "currentVersionReleaseDate": "2026-09-01T21:48:52Z",
   "releaseDate": "2022-03-31T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -393,8 +393,13 @@
       "version": "3.1.0",
       "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "seenAt": "2026-08-23T19:15:37Z"
+    },
+    {
+      "version": "3.1.1",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
+      "seenAt": "2026-09-01T21:48:52Z"
     }
   ],
-  "updatedAt": "2026-09-01T11:39:46.599Z",
+  "updatedAt": "2026-09-02T11:13:04.895Z",
   "isOwnApp": false
 }
