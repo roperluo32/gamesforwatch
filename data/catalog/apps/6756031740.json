@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Chess by Staple Games",
       "description": "Chess. Nothing more. Nothing less.\n\nWe built the chess app we always wanted—one that respects the game and respects your time. No subscriptions. No ads interrupting your concentration. No bloated features you'll never use. Just chess, beautifully crafted for every Apple device you own.\n\nPLAY YOUR WAY\n\n• Solo Practice — Challenge our AI across 6 difficulty levels, from casual beginner to near-unbeatable expert.\n\n• Pass & Play — Hand your device to a friend and play face to face.\n\n• Online Multiplayer — Connect through Game Center to challenge friends or get matched with players worldwide.\n\n• Local Wireless — Play with someone nearby over Bluetooth or Wi-Fi. No internet required.\n\nREAL CHESS. ALL THE RULES.\n\nEvery rule, implemented correctly:\n• Castling (kingside and queenside)\n• En passant captures\n• Pawn promotion to any piece\n• Check, checkmate, and stalemate\n• Threefold repetition draws\n• Fifty-move rule\n\nONE APP. EVERY APPLE DEVICE.\n\niPhone. iPad. Mac. Apple TV. Apple Watch. Vision Pro.\n\nDESIGNED FOR EVERYONE\n\n• Full VoiceOver support with voice-guided gameplay\n• High contrast and colorblind modes\n• Large text and zoomed display options\n• 5 beautiful board themes\n• Dark mode\n\nTRACK YOUR JOURNEY\n\n• Climb through 10 ranks from Beginner to Mythic\n• Track your win streaks and daily play habits\n• Game Center achievements and leaderboards\n\nTHE STAPLE GAMES PROMISE\n\nWe make games the way they should be made. Simple interfaces. Thoughtful design. No dark patterns. Just quality software you can rely on.\n\nDownload Chess by Staple Games. Play a match. That's it.",
-      "releaseNotes": "",
+      "releaseNotes": "Minor improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/chess-by-staple-games/id6756031740?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Staple Games, LLC",
@@ -339,9 +339,14 @@
     {
       "version": "1.0",
       "releaseNotes": "",
-      "seenAt": "2026-04-01T07:00:00Z"
+      "seenAt": "2025-12-22T15:46:04Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Minor improvements",
+      "seenAt": "2026-09-02T13:39:29Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:11:49.737Z",
+  "updatedAt": "2026-09-03T11:09:13.769Z",
   "isOwnApp": false
 }

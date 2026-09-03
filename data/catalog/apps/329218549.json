@@ -644,8 +644,13 @@
       "version": "4.10.27",
       "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
       "seenAt": "2026-08-31T17:54:01Z"
+    },
+    {
+      "version": "4.10.28",
+      "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
+      "seenAt": "2026-09-02T19:15:22Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:11:45.234Z",
+  "updatedAt": "2026-09-03T11:09:09.497Z",
   "isOwnApp": false
 }

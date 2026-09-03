@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pixel",
       "description": "Watch Games — A pixel arcade on your wrist\n\nNo phone handy? Between swim sets, on your commute, or in a short queue—raise your wrist and start a round. Watch Games is built for Apple Watch: retro pixel art, simple controls, perfect for spare moments, and most titles run independently on the Watch.\n\n【Why it fits the Watch】\n• Short sessions with a complete feel\n• Crown, tap, and swipe—big, readable pixel UI\n• Most games play on Watch alone—no constant phone staring\n• The iPhone companion covers the library, categories, records, how-to guides, and Watch hub order/visibility\n\n【Card highlights】\n• Watch Mahjong: four-player draw play; self-draw & discard wins; Chi/Pong/Kong on one contextual button\n• Watch Big Two: SE Asia shedding; the player with a 3 leads; same count + higher rank to beat; 2 is highest\n• Watch Dou Dizhu: bid Landlord, play or pass; bombs & rockets multiply; you vs two AIs\n• Watch President: four-player shedding; multi-select same ranks; first out becomes President\n\n【And more】\nShoot lane, link-match, pool, Tetris-style blocks, coin merge, bottle logic, parking exit puzzle, screw dig, huge maze, sushi belt, tea pour, café bar, produce cut, slot fever, slap faces, mouth toss, spit aim, plot grow, traveler pet, life-sim CCTV, punch SFX, and more—casual, puzzle, action, and lifestyle bites.\n\n【iPhone companion】\nBrowse games and detailed “How to Play,” sync scores, explore categories, and edit which games appear on the Watch hub—and in what order—with automatic sync to Apple Watch.\n\nRaise your wrist. Play a pixel round.",
-      "releaseNotes": "• Home: switch between Default and Newest sorting; pin multiple games so they stay on top; first-launch tip for pinning\n• Pool: unlock and equip table, cue, and aim styles with coins in the Shop\n• Fever Spin: clearer layout and controls; open the Shop when you need more chips\n• Broader localization for Outdoor Traveler and other games\n• Stability and UI polish\n\nThanks for playing. Feedback is always welcome.",
+      "releaseNotes": "• Auction Time: morning, hot, mystery, and street sessions. Listings may hide cracks or fakes—spend auction coins to scratch or appraise before you bid. Sell lots or wait on the market. Add the Auction Market watch face widget, and optionally get a reminder before a session starts (Settings).\n• Peak Memory: watch the lit path, then slide it from memory. 15 levels with longer, twistier routes. A short hint after a few misses. You can reset level progress.\n• Twin Link: red tiles appear one by one; then connect the two green tiles on the outer ring without touching the reds. 15 levels. You can reset level progress.\n• Outdoor Traveler: refreshed shop gear art.\n• Stability and localization polish.\n\nThanks for playing. Feedback is always welcome.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pixel/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -275,8 +275,13 @@
       "version": "1.0.8",
       "releaseNotes": "• Home: switch between Default and Newest sorting; pin multiple games so they stay on top; first-launch tip for pinning\n• Pool: unlock and equip table, cue, and aim styles with coins in the Shop\n• Fever Spin: clearer layout and controls; open the Shop when you need more chips\n• Broader localization for Outdoor Traveler and other games\n• Stability and UI polish\n\nThanks for playing. Feedback is always welcome.",
       "seenAt": "2026-09-02T07:19:59Z"
+    },
+    {
+      "version": "1.0.9",
+      "releaseNotes": "• Auction Time: morning, hot, mystery, and street sessions. Listings may hide cracks or fakes—spend auction coins to scratch or appraise before you bid. Sell lots or wait on the market. Add the Auction Market watch face widget, and optionally get a reminder before a session starts (Settings).\n• Peak Memory: watch the lit path, then slide it from memory. 15 levels with longer, twistier routes. A short hint after a few misses. You can reset level progress.\n• Twin Link: red tiles appear one by one; then connect the two green tiles on the outer ring without touching the reds. 15 levels. You can reset level progress.\n• Outdoor Traveler: refreshed shop gear art.\n• Stability and localization polish.\n\nThanks for playing. Feedback is always welcome.",
+      "seenAt": "2026-09-03T04:59:46Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:10:50.149Z",
+  "updatedAt": "2026-09-03T11:08:18.338Z",
   "isOwnApp": false
 }

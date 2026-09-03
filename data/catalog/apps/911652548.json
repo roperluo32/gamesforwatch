@@ -396,8 +396,13 @@
       "version": "2.2.22",
       "releaseNotes": "--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n--2.2.21--\nNow supports iOS26.\nMinor bug fixes.\n\n--2.2.20--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n\n",
       "seenAt": "2026-05-01T13:29:47Z"
+    },
+    {
+      "version": "2.2.23",
+      "releaseNotes": "--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.\n",
+      "seenAt": "2026-09-03T05:45:29Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:47:17.512Z",
+  "updatedAt": "2026-09-03T11:42:18.755Z",
   "isOwnApp": false
 }

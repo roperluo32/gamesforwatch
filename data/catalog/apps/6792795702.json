@@ -20,7 +20,7 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Code Breaker, Unlock the Dial"
+      "subtitle": "Spin the Dial, Escape a Vault"
     },
     "zh": {
       "trackName": "Crack Safe: Heist Lock Puzzle",
@@ -255,8 +255,13 @@
       "version": "1.1",
       "releaseNotes": "New\n- Get set up in seconds with a quick first-launch walkthrough and a live demo.\n- Turn on reminders to keep your streak going.\n\nImproved & Fixed\n- Share cards now fit Instagram Stories perfectly — no more cropped edges.",
       "seenAt": "2026-08-08T22:03:57Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "New\n- Fresh app icon and launch screen.\n\nImproved & Fixed\n- Share cards now export in full-screen format, so Instagram Stories no longer crops the sides.\n- Groundwork for faster fixes: rare issues are now reported more reliably.",
+      "seenAt": "2026-09-02T17:01:58Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:44:48.468Z",
+  "updatedAt": "2026-09-03T11:40:03.664Z",
   "isOwnApp": false
 }

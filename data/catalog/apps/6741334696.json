@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Game Box - Games for Watch",
       "description": "【Game Box】 - 53 Offline Games for Apple Watch and iPhone\n\nGame Box is a premium casual game collection built for quick play on Apple Watch and deeper sessions on iPhone. Enjoy offline puzzle games, arcade classics, brain training, board games, card games, runners and relaxing time killers in one compact app.\n\nWhy players love Game Box:\n• 53 games in one app, from Sudoku and 2048 to Snooker and Kitty Sudoku.\n• Works offline, no Wi-Fi or internet required.\n• Optimized for Apple Watch and iPhone, with smooth touch and Digital Crown controls where they fit best.\n• Game Center leaderboards for selected games on both iPhone and Apple Watch.\n• VIP unlocks the full collection and removes ads for uninterrupted play.\n\nAll games included\n• Puzzle & Logic: Sudoku, Kitty Sudoku, Number Slide 2048, Number Puzzle, Number Connect, Number Merge, One Stroke, Sokoban, Water Sort, Maze Escape, Minesweeper, Arrow Puzzle, Hexa Away\n• Casual & Match: Mahjong Solitaire, Fruit Pop, Star Pop, Link Link, Block Blast, Sand Blast, Tap Match, Bubble Shooter, Animal Merge, Drop Number\n• Arcade & Action: Pacman, Snake, Spherical Snake, Tetris, Breakout, Dino Run, Flight Rush, Ski Adventure, Jump Alien, Circle Jump, Bounce, Bridge Cross, Jump Jump, Tower Stack, Ball Run, Last Stand\n• Board, Card & Sports: Tic Tac Toe, Gomoku, Reversi, Chinese Chess, Chess, Jungle Chess, Landlords, Billiards, Snooker, Spider Solitaire\n• Unique Fun: Gold Miner, Electronic Wooden Fish, Air Gun\n\nPerfect for commuting, waiting in line, short breaks, bedtime relaxation, and any moment when you want a quick game that is easy to start and satisfying to master.\n\nPrivacy Policy: https://sites.google.com/view/gamebox--privacy-policy\nTerms of Service: https://sites.google.com/view/gamebox-terms-of-service\nApple EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nContact: i@ztyuu.com",
-      "releaseNotes": "New game: Bird Stack, now on iPhone and Apple Watch. Stack bricks, travel through outdoor stages and dungeons, collect coins, gems and keys, and unlock new bird skins. We also improved game saves, leaderboard score submission, sound, haptics, and stability.",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "trackViewUrl": "https://apps.apple.com/us/app/game-box-games-for-watch/id6741334696?uo=4",
       "formattedPrice": "Free",
       "sellerName": "太宇 左",
@@ -463,8 +463,18 @@
       "version": "2.6.1",
       "releaseNotes": "New game: Bird Stack, now on iPhone and Apple Watch. Stack bricks, travel through outdoor stages and dungeons, collect coins, gems and keys, and unlock new bird skins. We also improved game saves, leaderboard score submission, sound, haptics, and stability.",
       "seenAt": "2026-08-27T22:20:38Z"
+    },
+    {
+      "version": "2.6.2",
+      "releaseNotes": "Two new games: G-Switch on iPhone and Apple Watch, plus Rift Racer on iPhone. We also refreshed menus and controls, improved Game Center guidance and leaderboard states, and fixed stability issues.",
+      "seenAt": "2026-09-02T17:03:07Z"
+    },
+    {
+      "version": "2.6.3",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-09-03T05:06:02Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:08:04.627Z",
+  "updatedAt": "2026-09-03T11:05:39.920Z",
   "isOwnApp": false
 }

@@ -519,8 +519,13 @@
       "version": "12.0.2",
       "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
       "seenAt": "2026-08-28T22:46:47Z"
+    },
+    {
+      "version": "12.1.0",
+      "releaseNotes": "• Get alerts when top games reach critical moments, including blunders, brilliant moves, forced mates, time pressure, and hard-to-find moves.\n• Improved tournament schedules and player cards.\n• Bug fixes and performance improvements.",
+      "seenAt": "2026-09-02T15:30:58Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:31:11.921Z",
+  "updatedAt": "2026-09-03T11:27:20.406Z",
   "isOwnApp": false
 }
