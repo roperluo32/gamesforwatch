@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Games for Watch",
       "description": "Ultimate Games for Apple Watch\nTurn your Apple Watch into a pocket-sized arcade!\nEnjoy a growing collection of fun and easy mini-games made for quick breaks, waiting lines, or just relaxing moments during your day.\n\nEnjoy a growing collection of fun and easy mini-games made just for Apple Watch.\nChallenge yourself, beat your own scores, and have quick bursts of fun wherever you are.\n\nHighlights include:\n\nTic Tac Toe\n\nPong\n\nTricky Circle\n\nWhack A Bug\n\nSpace Defender\n\nGround Defense\n\nPass the Ball\n\nFast Match\n\nMatch’em\n\nSliding Blocks\n\nWatch & Repeat\n\n…and many more!\n\nSubscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscription with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of the free trial period. The cancellation will take effect the day after the last day of the current subscription period and you will be downgraded to the free service. \n— Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.\n— Terms of Use (EULA) https://argames.in/terms.html\n— Privacy Policy: https://argames.in/privacy.html",
-      "releaseNotes": "Became a captain of a warship! Command it in an intense naval battle and lead it the a win\n- Dodge enemies that try to ram you\n- Shoot powerful enemies with you supreme cannons\n- Survive as long as you can and push your reflexes to the limit",
+      "releaseNotes": "- Critical bug fixed\n- Stability improvements\n- Overall app performance improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/games-for-watch/id987241690?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Agroross Trading Gida Anonim Sirketi",
@@ -34,7 +34,7 @@
     "ja": {
       "trackName": "Games for Watch",
       "description": "Ultimate Games for Apple Watch\nTurn your Apple Watch into a pocket-sized arcade!\nEnjoy a growing collection of fun and easy mini-games made for quick breaks, waiting lines, or just relaxing moments during your day.\n\nEnjoy a growing collection of fun and easy mini-games made just for Apple Watch.\nChallenge yourself, beat your own scores, and have quick bursts of fun wherever you are.\n\nHighlights include:\n\nTic Tac Toe\n\nPong\n\nTricky Circle\n\nWhack A Bug\n\nSpace Defender\n\nGround Defense\n\nPass the Ball\n\nFast Match\n\nMatch’em\n\nSliding Blocks\n\nWatch & Repeat\n\n…and many more!\n\nSubscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscription with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of the free trial period. The cancellation will take effect the day after the last day of the current subscription period and you will be downgraded to the free service. \n— Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.\n— Terms of Use (EULA) https://argames.in/terms.html\n— Privacy Policy: https://argames.in/privacy.html",
-      "releaseNotes": "Became a captain of a warship! Command it in an intense naval battle and lead it the a win\n- Dodge enemies that try to ram you\n- Shoot powerful enemies with you supreme cannons\n- Survive as long as you can and push your reflexes to the limit",
+      "releaseNotes": "- Critical bug fixed\n- Stability improvements\n- Overall app performance improvements",
       "trackViewUrl": "https://apps.apple.com/jp/app/games-for-watch/id987241690?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Agroross Trading Gida Anonim Sirketi",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Spiele für die Uhr",
       "description": "Ultimate Games for Apple Watch\nTurn your Apple Watch into a pocket-sized arcade!\nEnjoy a growing collection of fun and easy mini-games made for quick breaks, waiting lines, or just relaxing moments during your day.\n\nEnjoy a growing collection of fun and easy mini-games made just for Apple Watch.\nChallenge yourself, beat your own scores, and have quick bursts of fun wherever you are.\n\nHighlights include:\n\nTic Tac Toe\n\nPong\n\nTricky Circle\n\nWhack A Bug\n\nSpace Defender\n\nGround Defense\n\nPass the Ball\n\nFast Match\n\nMatch’em\n\nSliding Blocks\n\nWatch & Repeat\n\n…and many more!\n\nSubscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscription with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of the free trial period. The cancellation will take effect the day after the last day of the current subscription period and you will be downgraded to the free service. \n— Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.\n— Terms of Use (EULA) https://argames.in/terms.html\n— Privacy Policy: https://argames.in/privacy.html",
-      "releaseNotes": "Became a captain of a warship! Command it in an intense naval battle and lead it the a win\n- Dodge enemies that try to ram you\n- Shoot powerful enemies with you supreme cannons\n- Survive as long as you can and push your reflexes to the limit",
+      "releaseNotes": "- Critical bug fixed\n- Stability improvements\n- Overall app performance improvements",
       "trackViewUrl": "https://apps.apple.com/de/app/spiele-f%C3%BCr-die-uhr/id987241690?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Agroross Trading Gida Anonim Sirketi",
@@ -86,15 +86,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/eb/5f/ebeb5f32-a659-020c-d966-9f80e89979b2/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/47/37/ef473752-e01f-1c4f-e171-25e16fe37291/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.10938,
   "userRatingCount": 384,
   "price": 0,
-  "fileSizeBytes": "340614144",
+  "fileSizeBytes": "340581376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.2.4",
-  "currentVersionReleaseDate": "2026-01-27T12:15:24Z",
+  "version": "3.2.5",
+  "currentVersionReleaseDate": "2026-09-03T16:24:14Z",
   "releaseDate": "2015-08-20T19:18:09Z",
   "artistId": 1810651723,
   "artistName": "ArGames",
@@ -386,8 +386,13 @@
       "version": "3.2.4",
       "releaseNotes": "Became a captain of a warship! Command it in an intense naval battle and lead it the a win\n- Dodge enemies that try to ram you\n- Shoot powerful enemies with you supreme cannons\n- Survive as long as you can and push your reflexes to the limit",
       "seenAt": "2026-01-27T12:15:24Z"
+    },
+    {
+      "version": "3.2.5",
+      "releaseNotes": "- Critical bug fixed\n- Stability improvements\n- Overall app performance improvements",
+      "seenAt": "2026-09-03T16:24:14Z"
     }
   ],
-  "updatedAt": "2026-09-03T11:05:10.691Z",
+  "updatedAt": "2026-09-04T11:06:46.561Z",
   "isOwnApp": false
 }

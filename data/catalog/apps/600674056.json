@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b4/7b/58b47b28-3f6f-83bb-f5c0-069ddae096a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/5e/8b/705e8b49-ef7a-914a-c25d-3f6915e11362/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.13265,
   "userRatingCount": 98,
   "price": 0,
   "fileSizeBytes": "242411520",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "2.7.67",
-  "currentVersionReleaseDate": "2026-08-15T15:41:28Z",
+  "version": "2.7.68",
+  "currentVersionReleaseDate": "2026-09-03T15:55:34Z",
   "releaseDate": "2013-03-01T21:48:30Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -442,8 +442,13 @@
       "version": "2.7.67",
       "releaseNotes": "Play and train your brain with new features:\n\n- End the year with puzzles and the Dazzling Light Festival!\n- Bug fixes for smoother play!",
       "seenAt": "2026-08-15T15:41:28Z"
+    },
+    {
+      "version": "2.7.68",
+      "releaseNotes": "Play and train your brain with new features:\n\n- End the year with puzzles and the Dazzling Light Festival!\n- Bug fixes for smoother play!",
+      "seenAt": "2026-09-03T15:55:34Z"
     }
   ],
-  "updatedAt": "2026-09-03T11:09:06.027Z",
+  "updatedAt": "2026-09-04T11:11:03.884Z",
   "isOwnApp": false
 }

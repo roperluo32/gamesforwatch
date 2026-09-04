@@ -5,10 +5,10 @@
   "path": "/apps/6772752265-app/",
   "locales": {
     "en": {
-      "trackName": "少摸鱼-手表游戏",
-      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "新增watch雷霆游戏；\n页面一些优化；",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "trackName": "星球玩具",
+      "description": "星球玩具 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1.更新图标",
+      "trackViewUrl": "https://apps.apple.com/us/app/%E6%98%9F%E7%90%83%E7%8E%A9%E5%85%B7/id6772752265?uo=4",
       "formattedPrice": "Free",
       "sellerName": "少雄 许",
       "genres": [
@@ -20,10 +20,10 @@
       "subtitle": ""
     },
     "zh": {
-      "trackName": "少摸鱼-手表游戏",
-      "description": "少摸鱼 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "新增watch雷霆游戏；\n页面一些优化；",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%91%E6%91%B8%E9%B1%BC-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6772752265?uo=4",
+      "trackName": "星球玩具",
+      "description": "星球玩具 是一款轻松有趣的益智策略娱乐应用。玩家需要完成不同关卡挑战。\n\n应用操作简单直观，适合碎片时间操作。随着关卡推进，难度会逐步提升，需要玩家运用观察力、空间想象力和策略思维，找到最佳折叠方案。\n\n主要特色：\n- 简洁清爽的界面\n- 易上手但具有挑战性的玩法\n- 多个关卡带来持续的解谜体验\n- 适合喜欢休闲、益智和策略应用的玩家\n\n 立即开始挑战，探索属于你的折纸领地！\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "1.更新图标",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%9F%E7%90%83%E7%8E%A9%E5%85%B7/id6772752265?uo=4",
       "formattedPrice": "免费",
       "sellerName": "少雄 许",
       "genres": [
@@ -65,19 +65,19 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/fe/03/ddfe0396-957e-889b-9c50-bbb2e4f6bd2e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-  "averageUserRating": 0,
-  "userRatingCount": 0,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/be/67/44be67b8-d19c-56cb-6523-ad92f62de87d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4,
+  "userRatingCount": 4,
   "price": 0,
-  "fileSizeBytes": "50459648",
+  "fileSizeBytes": "51864576",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "5.7",
-  "currentVersionReleaseDate": "2026-08-13T12:02:31Z",
+  "version": "6.1",
+  "currentVersionReleaseDate": "2026-09-04T01:45:22Z",
   "releaseDate": "2026-05-27T07:00:00Z",
   "artistId": 6771846066,
   "artistName": "少雄 许",
-  "artistViewUrl": "https://apps.apple.com/de/developer/%E5%B0%91%E9%9B%84-%E8%AE%B8/id6771846066?uo=4",
+  "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B0%91%E9%9B%84-%E8%AE%B8/id6771846066?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -212,6 +212,40 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/63/15/a2631593-83f0-7ff0-9004-2177b3d1ad99/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.32.52.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/44/fe/8844fe9f-e7d8-4ce6-f4c8-df952ecb5a15/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.27.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/6d/27/196d27ba-8328-3807-575d-3eb8a55e758b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.33.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/02/3c/9e023c62-f7eb-f10c-fb7b-65c548983d71/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.41.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/4c/95/214c9542-3701-d0fe-ed42-65765ee687f9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.58.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/50/ad/7a50ade2-3d20-a263-69fb-b493fa2a8a16/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.50.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/40/c3/d640c395-25bc-708c-1d26-0291f2793790/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.18.09.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/3c/73/3a3c73f1-3069-39bd-cde0-65492609a21c/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.23.12.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/1e/d2/4e1ed2fa-4bf7-e6d2-c0a6-197ef4898682/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.13.05.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/63/5d/aa635d5e-48b2-2e1d-8b39-e21cb1ae11c1/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.50.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/6b/7e/8f6b7ebd-c729-6d79-14f1-9e07c526df2b/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.17.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/48/70/31487063-539a-088b-9556-89b02acbdc44/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.21.55.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/ea/6b/daea6b2c-b5ce-af28-df5d-e6c3cc9cea17/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.33.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/5c/8d/b75c8d4f-3bac-f3cc-944f-e52e4f6f4ecb/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.55.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/dd/fa/ffddfa7e-4849-428d-a61c-eebacf30dbb2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.32.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/56/2c/62562cab-697d-a92a-8c69-3e279c6c4b93/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.43.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/d6/13/fed613df-d132-3c77-05e8-7c502a7751b8/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.21.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/3c/73/3a3c73f1-3069-39bd-cde0-65492609a21c/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.23.12.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/1e/d2/4e1ed2fa-4bf7-e6d2-c0a6-197ef4898682/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.13.05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/63/5d/aa635d5e-48b2-2e1d-8b39-e21cb1ae11c1/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.50.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/6b/7e/8f6b7ebd-c729-6d79-14f1-9e07c526df2b/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.22.17.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/48/70/31487063-539a-088b-9556-89b02acbdc44/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-09_at_01.21.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/ea/6b/daea6b2c-b5ce-af28-df5d-e6c3cc9cea17/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.33.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/5c/8d/b75c8d4f-3bac-f3cc-944f-e52e4f6f4ecb/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/dd/fa/ffddfa7e-4849-428d-a61c-eebacf30dbb2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.32.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/56/2c/62562cab-697d-a92a-8c69-3e279c6c4b93/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-06-01_at_22.12.43.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/d6/13/fed613df-d132-3c77-05e8-7c502a7751b8/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-07-28_at_18.38.21.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/63/15/a2631593-83f0-7ff0-9004-2177b3d1ad99/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.32.52.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/44/fe/8844fe9f-e7d8-4ce6-f4c8-df952ecb5a15/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.27.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/6d/27/196d27ba-8328-3807-575d-3eb8a55e758b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.33.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/02/3c/9e023c62-f7eb-f10c-fb7b-65c548983d71/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.41.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/4c/95/214c9542-3701-d0fe-ed42-65765ee687f9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.58.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/50/ad/7a50ade2-3d20-a263-69fb-b493fa2a8a16/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.50.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/40/c3/d640c395-25bc-708c-1d26-0291f2793790/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.18.09.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/19/b3/6319b306-28df-89bc-a07c-3bdb12286dd3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.32.52.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/cb/fe/e6cbfe6b-907c-efdc-22b7-3527470472a5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.27.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/9d/f6/cf9df6cc-b403-a401-afd0-8c8fe832ba5c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.17.33.png/2064x2752bb.png",
@@ -248,6 +282,15 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/75/5a/ab755a1e-76e7-79be-a83a-8c37437ae749/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-01_at_22.18.09.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/95/26/049526c7-57ae-bce7-d367-d8e633f6f9f8/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.25.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/43/8a/3d438a69-264c-8a2a-3fa8-c61b7da17159/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.50.08.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/73/dc/c873dc7a-69ce-5175-fd3d-267681f4edbb/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.18.30.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/29/15/68291575-4228-be03-a773-3c37e498f239/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.46.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/66/a6/da66a6ca-32b5-80f2-5db2-508cb4c4e25d/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.31.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/a4/d2/a6a4d27d-b9f3-6f7b-2791-1363031e7fdd/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.18.19.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/a0/99/baa09933-16ff-55b0-3947-35c4e8e91f5c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-06-01_at_22.21.18.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/50/e1/3a50e1dc-af31-8c8d-d719-801d864547c9/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.51.49.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/eb/67/01eb678b-3363-ed8f-18cc-25544156c810/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.52.44.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9a/5f/999a5f9d-a71d-e8c6-2cfe-b2440a980ab2/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.17.25.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/4f/25/f94f25a7-3192-be81-565d-d181f57fcb36/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-09_at_00.50.08.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/9d/70/4d9d706c-8867-4706-7a9d-5b290f61f11c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-07-29_at_20.18.30.png/422x514bb.png",
@@ -389,8 +432,23 @@
       "version": "5.7",
       "releaseNotes": "新增watch雷霆游戏；\n页面一些优化；",
       "seenAt": "2026-08-13T12:02:31Z"
+    },
+    {
+      "version": "5.8",
+      "releaseNotes": "新增游戏苹果蛇；\n新增游戏火箭着落；\n新增永久买断订阅模式，取消单品订阅模式；\n备注：之前购买单品如果不能继续使用，请私信联系\n",
+      "seenAt": "2026-08-15T01:17:10Z"
+    },
+    {
+      "version": "6.0",
+      "releaseNotes": "卡片风格调整",
+      "seenAt": "2026-08-23T12:37:37Z"
+    },
+    {
+      "version": "6.1",
+      "releaseNotes": "1.更新图标",
+      "seenAt": "2026-09-04T01:45:22Z"
     }
   ],
-  "updatedAt": "2026-08-14T08:08:14.835Z",
+  "updatedAt": "2026-09-04T11:46:08.207Z",
   "isOwnApp": false
 }

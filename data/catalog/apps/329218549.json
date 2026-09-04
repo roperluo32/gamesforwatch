@@ -212,15 +212,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/a6/f6/48a6f6f2-8415-3627-5906-ab74b892c7ec/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.72767,
-  "userRatingCount": 89730,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4e/f0/d04ef011-68b4-b8f1-b224-aa1dfe24b586/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.72766,
+  "userRatingCount": 89891,
   "price": 0,
-  "fileSizeBytes": "449752064",
+  "fileSizeBytes": "449788928",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "4.10.27",
-  "currentVersionReleaseDate": "2026-08-31T17:54:01Z",
+  "version": "4.10.28",
+  "currentVersionReleaseDate": "2026-09-02T19:15:22Z",
   "releaseDate": "2009-10-29T03:18:55Z",
   "artistId": 329218552,
   "artistName": "Chess.com",
@@ -651,6 +651,6 @@
       "seenAt": "2026-09-02T19:15:22Z"
     }
   ],
-  "updatedAt": "2026-09-03T11:09:09.497Z",
+  "updatedAt": "2026-09-04T11:11:07.721Z",
   "isOwnApp": false
 }
