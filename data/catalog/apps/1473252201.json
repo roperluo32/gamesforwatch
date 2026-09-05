@@ -93,8 +93,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/01/74/e501744c-390d-eb05-5a66-77f67a8b1a4a/AppIcon_iOS-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-  "averageUserRating": 3.82222,
-  "userRatingCount": 45,
+  "averageUserRating": 3.80435,
+  "userRatingCount": 46,
   "price": 0,
   "fileSizeBytes": "326843392",
   "contentAdvisoryRating": "12+",
@@ -325,6 +325,6 @@
       "seenAt": "2025-12-05T16:45:30Z"
     }
   ],
-  "updatedAt": "2026-09-04T11:32:16.522Z",
+  "updatedAt": "2026-09-05T11:10:23.395Z",
   "isOwnApp": false
 }

@@ -1,14 +1,14 @@
 {
   "trackId": "6792776898",
   "bundleId": "com.buildFor.PerfectPour",
-  "slug": "aesthetic-game-perfect-pour",
-  "path": "/apps/6792776898-aesthetic-game-perfect-pour/",
+  "slug": "cozy-pouring-simulator-game",
+  "path": "/apps/6792776898-cozy-pouring-simulator-game/",
   "locales": {
     "en": {
-      "trackName": "Aesthetic Game: Perfect Pour",
+      "trackName": "Cozy Pouring Simulator Game",
       "description": "The tiny pouring game made for your wrist. Serve ice-cold root beer, hit the line, earn tips, and chase your high score in satisfying 60-second rounds.\n\nTURN THE CROWN, POUR THE SODA\nThe Digital Crown is your tap. Roll it forward to pour, roll it back to shut off. No taps, no buttons: the whole game plays with one finger.\n\nRESPECT THE FOAM\nPour fast and the foam piles up. Close the tap and watch it settle. The real level shows only after the fizz calms down, so every pour is a tiny prediction. Nail the line for a Perfect pour and double tips.\n\nEVERY GLASS IS A NEW PUZZLE\nSmall shots fill in a blink. Tall glasses tempt you to rush. Wide pints crawl. Four shapes, random target lines, sixty seconds on the clock. How much can you earn before time runs out?\n\nREGULARS WITH ATTITUDE\nA picky baron who accepts nothing less than perfection. A rabbit in a hurry (fast. faster. FASTER!). A mysterious stranger who never says a word. Keep them happy and watch the tip jar grow.\n\nFEELS AS GOOD AS IT LOOKS\nCozy, aesthetic art built for the watch screen, with rich haptics for every drop: you can feel the glass filling under your finger. Sound optional, satisfaction guaranteed.\n\nMADE FOR REAL LIFE\nA full round takes one minute. In line, on the couch, between meetings: raise your wrist, pour a few glasses, beat your record.\n\nFamily-friendly and completely alcohol-free: nothing in the glass but frosty root beer.\n\nPrivacy Policy: https://telegra.ph/Privacy-Policy-07-20-101\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "NOW ON IPHONE\nThe bar moved to your phone. Turn it sideways, pull the tap handle with your thumb, let the foam settle, and stop right on the line. On Apple Watch it still plays with the Digital Crown alone.\n\nA HAND-DRAWN BAR\nGlasses, taps, the counter and every regular were redrawn by hand. Pick the look you like: New, Mixed or Classic.\n\nREGULARS TALK BACK\nYour customers have a lot more to say about your pour now, and they notice when you miss the line by a hair.\n\nALSO IN THIS UPDATE\n- Brand new app icon\n- More accurate root beer and foam levels in every glass shape\n- Lifetime Pour: a one-time unlock, no subscriptions",
-      "trackViewUrl": "https://apps.apple.com/us/app/aesthetic-game-perfect-pour/id6792776898?uo=4",
+      "releaseNotes": "Five new regulars walk into the bar: a fox, an owl, a pig, a frog and a turtle.\nRepainted the bar. New backdrop, new glassware details.\nThe app now speaks 18 languages, including right-to-left ones.\nCustomers react to your pour with a lot more lines than before.\nFixed: the baron no longer shows up twice in the same round.",
+      "trackViewUrl": "https://apps.apple.com/us/app/cozy-pouring-simulator-game/id6792776898?uo=4",
       "formattedPrice": "Free",
       "sellerName": "MIKHAIL MANEV YURII, IE",
       "genres": [
@@ -38,7 +38,7 @@
         "TR",
         "VI"
       ],
-      "subtitle": "Satisfying & Cozy Cafe Barista"
+      "subtitle": "Satisfying Bar & Cafe Barista"
     },
     "zh": {
       "trackName": "Aesthetic Game: Perfect Pour",
@@ -59,10 +59,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Aesthetic Game: Perfect Pour",
+      "trackName": "カフェゲーム：癒しのバーで注ぐ",
       "description": "手首のために作られた、小さな注ぎゲーム。キンキンに冷えたルートビアを注ぎ、ラインぴったりで止め、チップを集めて、60秒ラウンドでハイスコアを狙おう。\n\nクラウンを回して、ソーダを注ぐ\nDigital Crownがそのままタップになります。前に回せば注がれ、戻せば止まる。タップもボタンも不要、指ひとつで最後まで遊べます。\n\n泡を甘く見ない\n勢いよく注げば泡が盛り上がる。タップを閉じて、泡が落ち着くのを見守ろう。本当の液面は泡が静まってから見えるので、一杯ごとが小さな予測になります。ラインぴったりならPerfect、チップは倍。\n\nグラスごとに新しいパズル\nショットグラスは一瞬で満タン。細長いグラスは急ぎたくなる。幅広のジョッキはじれったい。4つの形、ランダムな目標ライン、時計は60秒。時間切れまでにいくら稼げる？\n\n個性ゆたかな常連たち\n完璧しか認めない気むずかしい男爵。いつも急いでいるウサギ（速く。もっと速く。おそい！！）。ひと言も話さない謎の常連。みんなを満足させれば、チップの瓶はどんどん重くなる。\n\n見た目どおりの気持ちよさ\n時計の画面に合わせた、あたたかみのある手描きアート。ひと粒ごとに返る細やかな触覚フィードバックで、指の下でグラスが満ちていくのが伝わります。サウンドはお好みで、満足感は確実に。\n\n日常のために作られた\n1ラウンドはちょうど1分。レジ待ち、ソファの上、打ち合わせの合間に。手首を上げて、数杯注いで、記録を更新。\n\n家族みんなで遊べて、アルコールは一切なし。グラスにあるのは冷たいルートビアだけです。\n\nPrivacy Policy: https://telegra.ph/Privacy-Policy-07-20-101\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "IPHONEに登場\nバーがiPhoneに引っ越しました。横向きにして、親指でタップハンドルを引き、泡が落ち着くのを待って、ラインぴったりで止める。Apple WatchではこれまでどおりDigital Crownだけで遊べます。\n\n手描きのバー\nグラス、タップ、カウンター、そして常連ひとりひとりを手描きで描き直しました。好みの見た目を選べます：新／ミックス／クラシック。\n\n常連がしゃべる\nお客さんの注ぎへのコメントが大幅に増え、ラインを髪一本ぶん外したことにも気づくようになりました。\n\nこのアップデートではほかに\n- 新しいアプリアイコン\n- どのグラス形状でもルートビアと泡の量がより正確に\n- Lifetime Pour：買い切りのみ、サブスクなし",
-      "trackViewUrl": "https://apps.apple.com/jp/app/aesthetic-game-perfect-pour/id6792776898?uo=4",
+      "releaseNotes": "Five new regulars walk into the bar: a fox, an owl, a pig, a frog and a turtle.\nRepainted the bar. New backdrop, new glassware details.\nThe app now speaks 18 languages, including right-to-left ones.\nCustomers react to your pour with a lot more lines than before.\nFixed: the baron no longer shows up twice in the same round.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%B2%E3%83%BC%E3%83%A0-%E7%99%92%E3%81%97%E3%81%AE%E3%83%90%E3%83%BC%E3%81%A7%E6%B3%A8%E3%81%90/id6792776898?uo=4",
       "formattedPrice": "無料",
       "sellerName": "MIKHAIL MANEV YURII, IE",
       "genres": [
@@ -95,10 +95,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Aesthetic Game: Perfect Pour",
+      "trackName": "Cozy Cafe Simulator: Bar Game",
       "description": "Das kleine Zapfspiel fürs Handgelenk. Schenk eiskaltes Root Beer aus, triff die Linie, sammle Trinkgeld und jag deinen Rekord in 60-Sekunden-Runden.\n\nDREH DIE CROWN, ZAPF DIE BRAUSE\nDie Digital Crown ist dein Zapfhahn. Nach vorne drehen heißt zapfen, zurück heißt zu. Kein Tippen, keine Buttons: das ganze Spiel läuft mit einem Finger.\n\nRESPEKTIERE DEN SCHAUM\nSchnell gezapft heißt viel Schaum. Hahn zu und zusehen, wie er sich setzt. Der echte Füllstand zeigt sich erst, wenn die Bläschen zur Ruhe kommen — jeder Zug ist also eine kleine Vorhersage. Genau auf der Linie gibt es Perfect und doppeltes Trinkgeld.\n\nJEDES GLAS IST EIN NEUES RÄTSEL\nKleine Gläser sind im Nu voll. Hohe Gläser verführen zur Eile. Breite Krüge brauchen ewig. Vier Formen, zufällige Ziellinien, sechzig Sekunden auf der Uhr. Wie viel schaffst du?\n\nSTAMMGÄSTE MIT CHARAKTER\nEin pingeliger Baron, dem nur Perfektion reicht. Ein Hase in Eile (schnell. schneller. SCHNELLER!). Ein schweigsamer Fremder, der nie ein Wort sagt. Halt sie bei Laune und sieh dem Trinkgeldglas beim Wachsen zu.\n\nFÜHLT SICH SO GUT AN, WIE ES AUSSIEHT\nGemütliche, handgezeichnete Grafik für den Uhrenbildschirm, mit sattem Haptik-Feedback für jeden Tropfen: Du spürst, wie sich das Glas unter deinem Finger füllt. Ton optional, Zufriedenheit garantiert.\n\nFÜR DEN ECHTEN ALLTAG GEMACHT\nEine ganze Runde dauert eine Minute. In der Schlange, auf dem Sofa, zwischen zwei Terminen: Arm heben, ein paar Gläser zapfen, Rekord brechen.\n\nFamilienfreundlich und völlig alkoholfrei: im Glas ist nichts als eiskaltes Root Beer.\n\nPrivacy Policy: https://telegra.ph/Privacy-Policy-07-20-101\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "JETZT AUF DEM IPHONE\nDie Bar ist aufs Telefon umgezogen. Quer halten, den Zapfhahn mit dem Daumen ziehen, den Schaum setzen lassen und genau auf der Linie stoppen. Auf der Apple Watch spielt sich alles weiterhin allein mit der Digital Crown.\n\nEINE HANDGEZEICHNETE BAR\nGläser, Zapfhähne, der Tresen und jeder Stammgast wurden von Hand neu gezeichnet. Wähl den Look, der dir gefällt: Neu, Gemischt oder Klassisch.\n\nSTAMMGÄSTE REDEN MIT\nDeine Gäste haben jetzt viel mehr zu deinem Zapfen zu sagen — und sie merken, wenn du die Linie um Haaresbreite verfehlst.\n\nAUSSERDEM IN DIESEM UPDATE\n- Komplett neues App-Symbol\n- Genauere Root-Beer- und Schaumstände in jeder Glasform\n- Lifetime Pour: einmalig freischalten, keine Abos",
-      "trackViewUrl": "https://apps.apple.com/de/app/aesthetic-game-perfect-pour/id6792776898?uo=4",
+      "releaseNotes": "Five new regulars walk into the bar: a fox, an owl, a pig, a frog and a turtle.\nRepainted the bar. New backdrop, new glassware details.\nThe app now speaks 18 languages, including right-to-left ones.\nCustomers react to your pour with a lot more lines than before.\nFixed: the baron no longer shows up twice in the same round.",
+      "trackViewUrl": "https://apps.apple.com/de/app/cozy-cafe-simulator-bar-game/id6792776898?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "MIKHAIL MANEV YURII, IE",
       "genres": [
@@ -131,15 +131,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/e4/ab/31e4ab26-13a7-f6b2-7077-17b511e8001d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/86/d8/9386d851-d892-1a90-e27f-62112c4f89ab/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "20560896",
+  "fileSizeBytes": "24718336",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.1.0",
-  "currentVersionReleaseDate": "2026-08-31T23:57:19Z",
+  "version": "1.1.1",
+  "currentVersionReleaseDate": "2026-09-04T22:27:20Z",
   "releaseDate": "2026-08-04T07:00:00Z",
   "artistId": 1576742601,
   "artistName": "Mikhail Manev",
@@ -278,6 +278,30 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/32/cb/db32cbab-eca4-6fa8-b92b-63706a811a68/01-perfect.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/34/08/f2340818-fb9e-abf9-2840-05a8a1138c74/02-baron.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/50/df/9250df56-46f6-ad15-3dbd-670d087ea693/03-hasty.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/f8/13/32f8133a-af75-6452-f50c-eed358cdee64/04-overflow.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/98/8a/93988ad1-8be4-e711-e4e1-e35b165ff1e2/05-incognito.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/45/d6/f745d648-1212-c1a7-f1ed-8d4cd76d0334/06-nervous.png/2868x1320bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/78/20/d07820fd-df8e-b100-f970-0ccb87567aa0/01-perfect.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/8f/50/058f500d-0d6b-9a8a-0a9e-96eb95e52d72/02-baron.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/b7/be/c6b7be5a-c3e0-847b-143a-3c5630151a26/03-hasty.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/4e/dd/9c4eddbb-88b7-f32f-2c1b-b7341c403732/04-overflow.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/39/30/7b39308e-0d67-290d-16f5-2c7c261859c8/05-incognito.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/25/28/eb2528de-320f-2784-2f6a-2c23caf1c0d8/06-nervous.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b6/ce/d7b6ce8b-8157-0b9c-ee6a-0c7c53d5b571/01-perfect.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/5d/46/b25d46ed-e629-10c9-ad79-847d367817ea/02-baron.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/f7/1e/c3f71e1b-d906-0883-e3c9-cb8a34b52786/03-hasty.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/17/0f/7d170f25-8a4c-9eda-dd68-5e488df55550/04-overflow.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/77/fb/b077fb31-200d-a8c2-93e6-577ade7d0f04/05-incognito.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/43/56/694356bf-ac7b-686c-9380-cfe400845c96/06-nervous.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/32/cb/db32cbab-eca4-6fa8-b92b-63706a811a68/01-perfect.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/34/08/f2340818-fb9e-abf9-2840-05a8a1138c74/02-baron.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/50/df/9250df56-46f6-ad15-3dbd-670d087ea693/03-hasty.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/f8/13/32f8133a-af75-6452-f50c-eed358cdee64/04-overflow.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/98/8a/93988ad1-8be4-e711-e4e1-e35b165ff1e2/05-incognito.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/45/d6/f745d648-1212-c1a7-f1ed-8d4cd76d0334/06-nervous.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/88/b8/4f88b83a-55d9-45a1-15dc-e39d5f7cb262/03-baron.png/2868x1320bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/27/d9/7427d935-f54a-f169-1cc4-f344b3e48acf/04-hasty.png/2868x1320bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/9e/d5/a69ed578-2b8f-e5bb-7957-569c0c125191/01-perfect.png/2868x1320bb.png",
@@ -304,6 +328,16 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d8/15/74d815b4-0228-4272-cd60-c30b37871f5d/02-nervous.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/9e/87/0b9e87bf-7815-8cfb-7abb-fc1d34bf8fca/09_happy.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/7d/c3/ad7dc39b-1532-3f46-8f41-81eabc4a2d01/03_nervous.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/96/b3/be96b3f0-1fed-d50b-0333-5806c2383e2c/05_overflow.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/70/95/2c709585-3251-5ce8-6854-1d5e0fd08c35/04_perfect.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/a6/95/62a6957c-cc4e-3cf0-e41f-75cbada98b80/02_pour_start.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/15/09/1b15093f-a209-679e-6299-8f61a8dc8180/10_cheers.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/ee/f0/95eef056-373a-02cf-0f11-906044d2865f/07_hasty.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/15/1f/cd151fef-75c9-6d0a-30dc-b2c0db86e57e/08_incognito.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/8b/9f/5c8b9f90-003b-a92e-57c6-74f77e508edf/06_baron.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/9a/51/219a517c-f500-242d-375b-39e3e46cc6e8/11_results.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/04/b7/a504b7f8-05b7-e19f-e0bd-d619b0086cc3/09_happy.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/be/cb/eabecbd6-5025-38a4-93f0-eaf7349fc50a/03_nervous.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/a8/05/e5a8054a-0e5d-682b-b0b3-fbbf8cf7b35f/05_overflow.png/416x496bb.png",
@@ -335,8 +369,13 @@
       "version": "1.1.0",
       "releaseNotes": "NOW ON IPHONE\nThe bar moved to your phone. Turn it sideways, pull the tap handle with your thumb, let the foam settle, and stop right on the line. On Apple Watch it still plays with the Digital Crown alone.\n\nA HAND-DRAWN BAR\nGlasses, taps, the counter and every regular were redrawn by hand. Pick the look you like: New, Mixed or Classic.\n\nREGULARS TALK BACK\nYour customers have a lot more to say about your pour now, and they notice when you miss the line by a hair.\n\nALSO IN THIS UPDATE\n- Brand new app icon\n- More accurate root beer and foam levels in every glass shape\n- Lifetime Pour: a one-time unlock, no subscriptions",
       "seenAt": "2026-08-31T23:57:19Z"
+    },
+    {
+      "version": "1.1.1",
+      "releaseNotes": "Five new regulars walk into the bar: a fox, an owl, a pig, a frog and a turtle.\nRepainted the bar. New backdrop, new glassware details.\nThe app now speaks 18 languages, including right-to-left ones.\nCustomers react to your pour with a lot more lines than before.\nFixed: the baron no longer shows up twice in the same round.",
+      "seenAt": "2026-09-04T22:27:20Z"
     }
   ],
-  "updatedAt": "2026-09-04T11:26:16.538Z",
+  "updatedAt": "2026-09-05T10:46:48.266Z",
   "isOwnApp": false
 }
