@@ -9,7 +9,7 @@
       "description": "An Invading Horde has been spotted to the west of the Kingdom. The King has selected a lucky random subject to defend the Realm. \nYou take on the role of the unfortunate farmer tasked with this great undertaking.\n\nBuild defensive Towers to defeat the Invading Horde. \nComplete levels to earn Stars to upgrade your Weapons, Obstacles and Magic.\nEarn Gems to unlock more Towers, Obstacles and Magic. \n\nFeatures\n● Fast paced Tower Defense action\n● Quirky story line\n● Pause the action to plan your strategy\n● Cast Magic spells to smite the Horde\n● Drop Obstacles in the road to slow down the Horde\n● Unlock powerful new Towers, Obstacles, Items and Magic",
       "releaseNotes": "bug fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/invading-horde-td/id1577762239?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "Free",
       "sellerName": "Rui Alho",
       "genres": [
         "Games",
@@ -26,7 +26,7 @@
       "description": "An Invading Horde has been spotted to the west of the Kingdom. The King has selected a lucky random subject to defend the Realm. \nYou take on the role of the unfortunate farmer tasked with this great undertaking.\n\nBuild defensive Towers to defeat the Invading Horde. \nComplete levels to earn Stars to upgrade your Weapons, Obstacles and Magic.\nEarn Gems to unlock more Towers, Obstacles and Magic. \n\nFeatures\n● Fast paced Tower Defense action\n● Quirky story line\n● Pause the action to plan your strategy\n● Cast Magic spells to smite the Horde\n● Drop Obstacles in the road to slow down the Horde\n● Unlock powerful new Towers, Obstacles, Items and Magic",
       "releaseNotes": "bug fixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/invading-horde-td/id1577762239?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "無料",
       "sellerName": "Rui Alho",
       "genres": [
         "ゲーム",
@@ -43,7 +43,7 @@
       "description": "An Invading Horde has been spotted to the west of the Kingdom. The King has selected a lucky random subject to defend the Realm. \nYou take on the role of the unfortunate farmer tasked with this great undertaking.\n\nBuild defensive Towers to defeat the Invading Horde. \nComplete levels to earn Stars to upgrade your Weapons, Obstacles and Magic.\nEarn Gems to unlock more Towers, Obstacles and Magic. \n\nFeatures\n● Fast paced Tower Defense action\n● Quirky story line\n● Pause the action to plan your strategy\n● Cast Magic spells to smite the Horde\n● Drop Obstacles in the road to slow down the Horde\n● Unlock powerful new Towers, Obstacles, Items and Magic",
       "releaseNotes": "bug fixes",
       "trackViewUrl": "https://apps.apple.com/de/app/invading-horde-td/id1577762239?uo=4",
-      "formattedPrice": "1,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Rui Alho",
       "genres": [
         "Spiele",
@@ -59,7 +59,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/ec/0a/2dec0a21-5313-90b8-70a6-b47657cdf892/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.18182,
   "userRatingCount": 11,
-  "price": 1.99,
+  "price": 0,
   "fileSizeBytes": "151040000",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "12.1",
@@ -373,6 +373,6 @@
       "seenAt": "2026-02-27T20:04:59Z"
     }
   ],
-  "updatedAt": "2026-09-06T11:08:49.497Z",
+  "updatedAt": "2026-09-07T12:34:31.128Z",
   "isOwnApp": false
 }
