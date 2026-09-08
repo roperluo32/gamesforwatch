@@ -14,7 +14,7 @@
       "genres": [
         "Games",
         "Puzzle",
-        "Casual",
+        "Family",
         "Entertainment"
       ],
       "languageCodesISO2A": [
@@ -32,7 +32,7 @@
       "genres": [
         "游戏",
         "益智解谜",
-        "休闲",
+        "家庭聚会",
         "娱乐"
       ],
       "languageCodesISO2A": [
@@ -50,7 +50,7 @@
       "genres": [
         "ゲーム",
         "パズル",
-        "カジュアル",
+        "ファミリー",
         "エンターテインメント"
       ],
       "languageCodesISO2A": [
@@ -68,7 +68,7 @@
       "genres": [
         "Spiele",
         "Puzzle",
-        "Gelegenheits­spiele",
+        "Familie",
         "Unterhaltung"
       ],
       "languageCodesISO2A": [
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/76/84/1e768405-f9a5-d532-7ee5-4b227fc43683/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/27/80/a327807c-a26e-5b11-2c70-e70ed612e7b2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.49123,
   "userRatingCount": 57,
   "price": 0,
-  "fileSizeBytes": "75483136",
+  "fileSizeBytes": "65883136",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.4.4",
-  "currentVersionReleaseDate": "2026-04-13T18:04:59Z",
+  "version": "2.5.0",
+  "currentVersionReleaseDate": "2026-09-07T18:13:46Z",
   "releaseDate": "2024-08-29T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -375,8 +375,13 @@
       "version": "2.4.4",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-04-13T18:04:59Z"
+    },
+    {
+      "version": "2.5.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-09-07T18:13:46Z"
     }
   ],
-  "updatedAt": "2026-09-07T12:18:52.131Z",
+  "updatedAt": "2026-09-08T11:11:44.691Z",
   "isOwnApp": false
 }

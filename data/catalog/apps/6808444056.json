@@ -7,7 +7,7 @@
     "en": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "",
+      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
       "trackViewUrl": "https://apps.apple.com/us/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "",
+      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "",
+      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "",
+      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
       "trackViewUrl": "https://apps.apple.com/de/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/23/39/3b233934-678a-1ec2-8c4f-04decc1148e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/c4/54/63c45426-4755-cbab-9df3-4f6294d9ba40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "8506368",
+  "fileSizeBytes": "18398208",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-09-05T12:38:34Z",
+  "version": "1.4",
+  "currentVersionReleaseDate": "2026-09-07T21:23:22Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -232,8 +232,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2026-09-05T12:38:34Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
+      "seenAt": "2026-09-07T21:23:22Z"
     }
   ],
-  "updatedAt": "2026-09-07T12:20:59.415Z",
+  "updatedAt": "2026-09-08T11:14:13.612Z",
   "isOwnApp": false
 }

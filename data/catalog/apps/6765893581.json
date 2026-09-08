@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori is a calm nonogram puzzle game. Solve logic grids using number clues — no time pressure, no ads, no in-app pestering.\n\n• Today's puzzle delivered daily\n• Sizes from 5×5 to 15×15\n• Easy, Medium, Hard, Expert difficulty\n• Streak heatmap and personal stats\n• Apple Watch companion\n• Light and dark themes\n• Fully offline — your progress stays on your device\n\nDesigned for the moments you want to put your phone on Do Not Disturb but still keep your mind moving. If you like Picross, Griddlers, or Sudoku, you'll feel at home.",
-      "releaseNotes": "Housekeeping update.\n\n• Store search information refreshed\n• Small stability fixes\n\nPricing and how your data is handled are unchanged.",
+      "releaseNotes": "Your puzzle in progress is now saved. Close the app mid-solve and the board comes back exactly as you left it, with your hint count intact.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jung Soon Shin",
@@ -35,7 +35,7 @@
     "ja": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomoriは静かな時間のためのノノグラムです。数字のヒントだけでマス目を解いていく日本生まれのパズル。広告も急かしも一切ありません。\n\n• 毎日届く「今日のパズル」\n• 5×5から15×15までのサイズ\n• 易しい・普通・難しい・エキスパートの4段階\n• 連続記録のヒートマップ\n• Apple Watch対応\n• ライト・ダークテーマ\n• 完全オフライン — 記録は端末に保存\n\nスマホを「おやすみモード」にしながらも頭は使いたい時間に。ピクロス、お絵かきロジック、ナンプレが好きな方にぴったり。",
-      "releaseNotes": "整備アップデートです。\n\n• ストアの検索情報を整えました\n• 細かな安定性の修正\n\n価格とデータの取り扱いに変更はありません。",
+      "releaseNotes": "解きかけのパズルが保存されるようになりました。途中でアプリを閉じても盤面はそのまま戻り、ヒントの使用回数も保持されます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jung Soon Shin",
@@ -63,7 +63,7 @@
     "de": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori ist ein ruhiges Nonogramm-Spiel. Löse Logikgitter mit Zahlenhinweisen — ohne Zeitdruck, ohne Werbung, ohne nervige In-App-Käufe.\n\n• Tägliches Rätsel\n• Größen von 5×5 bis 15×15\n• Vier Schwierigkeitsgrade\n• Streak-Heatmap mit persönlichen Statistiken\n• Apple Watch Begleiter\n• Helles und dunkles Design\n• Vollständig offline — deine Daten bleiben auf deinem Gerät\n\nFür die Momente, in denen du dein iPhone auf \"Nicht stören\" stellst, aber dein Kopf wach bleiben soll.",
-      "releaseNotes": "Wartungsupdate.\n\n• Suchinformationen im Store aufgefrischt\n• Kleine Stabilitätskorrekturen\n\nKeine Änderungen an Preisen oder der Datenverarbeitung.",
+      "releaseNotes": "Dein laufendes Rätsel wird jetzt gespeichert. Schließe die App mittendrin – das Feld kommt genauso zurück, samt deiner Tipp-Anzahl.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jung Soon Shin",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a8/0d/7aa80d8e-687c-dfb9-c885-e8a7f2170e54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/11/68/2511683b-2725-96bd-2058-9f52a433db38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "13215744",
+  "fileSizeBytes": "13232128",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.4",
-  "version": "1.5.1",
-  "currentVersionReleaseDate": "2026-09-02T16:58:55Z",
+  "version": "1.5.2",
+  "currentVersionReleaseDate": "2026-09-07T18:20:37Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
   "artistName": "Jung Soon Shin",
@@ -361,8 +361,13 @@
       "version": "1.5.1",
       "releaseNotes": "Housekeeping update.\n\n• Store search information refreshed\n• Small stability fixes\n\nPricing and how your data is handled are unchanged.",
       "seenAt": "2026-09-02T16:58:55Z"
+    },
+    {
+      "version": "1.5.2",
+      "releaseNotes": "Your puzzle in progress is now saved. Close the app mid-solve and the board comes back exactly as you left it, with your hint count intact.",
+      "seenAt": "2026-09-07T18:20:37Z"
     }
   ],
-  "updatedAt": "2026-09-07T12:49:31.544Z",
+  "updatedAt": "2026-09-08T11:42:07.314Z",
   "isOwnApp": false
 }
