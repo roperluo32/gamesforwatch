@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nFriends now show online players first, with ten friends per page.\nAdded the Discord invite code to Profile on Apple Watch.\nBadges now show descriptions on your profile and other players' profiles\n\nElderblade\nFixed mobs not disappearing after being defeated.\nMade game loading slower only for those who set Graphics Quality to Low.\n\nSki Rush\nFixed restoring last finish.\nSmoother multiplayer rivals and more natural turns, especially on Watch.\nImproved race reconnection and recovery.",
+      "releaseNotes": "Elderblade\nAdded sounds.\nUpdated Frostbound Kingdom minimap.\nOptimized game loading for lower end watches.\n\nSki Rush\nFixed game recovery.",
       "trackViewUrl": "https://apps.apple.com/us/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nFriends now show online players first, with ten friends per page.\nAdded the Discord invite code to Profile on Apple Watch.\nBadges now show descriptions on your profile and other players' profiles\n\nElderblade\nFixed mobs not disappearing after being defeated.\nMade game loading slower only for those who set Graphics Quality to Low.\n\nSki Rush\nFixed restoring last finish.\nSmoother multiplayer rivals and more natural turns, especially on Watch.\nImproved race reconnection and recovery.",
+      "releaseNotes": "Elderblade\nAdded sounds.\nUpdated Frostbound Kingdom minimap.\nOptimized game loading for lower end watches.\n\nSki Rush\nFixed game recovery.",
       "trackViewUrl": "https://apps.apple.com/jp/app/pankora/id6782357594?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Catalin Berta",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nFriends now show online players first, with ten friends per page.\nAdded the Discord invite code to Profile on Apple Watch.\nBadges now show descriptions on your profile and other players' profiles\n\nElderblade\nFixed mobs not disappearing after being defeated.\nMade game loading slower only for those who set Graphics Quality to Low.\n\nSki Rush\nFixed restoring last finish.\nSmoother multiplayer rivals and more natural turns, especially on Watch.\nImproved race reconnection and recovery.",
+      "releaseNotes": "Elderblade\nAdded sounds.\nUpdated Frostbound Kingdom minimap.\nOptimized game loading for lower end watches.\n\nSki Rush\nFixed game recovery.",
       "trackViewUrl": "https://apps.apple.com/de/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Catalin Berta",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/dc/2d/a2dc2db1-749f-64c8-d200-160380caf63e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d7/73/70d773e7-a24b-cac7-eadd-0bcb38c0c7eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "76753920",
+  "fileSizeBytes": "83938304",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "4.2",
-  "currentVersionReleaseDate": "2026-09-07T18:22:54Z",
+  "version": "4.5",
+  "currentVersionReleaseDate": "2026-09-09T05:37:07Z",
   "releaseDate": "2026-06-30T07:00:00Z",
   "artistId": 1592833249,
   "artistName": "Catalin Berta",
@@ -383,8 +383,13 @@
       "version": "4.2",
       "releaseNotes": "Pankora\nFriends now show online players first, with ten friends per page.\nAdded the Discord invite code to Profile on Apple Watch.\nBadges now show descriptions on your profile and other players' profiles\n\nElderblade\nFixed mobs not disappearing after being defeated.\nMade game loading slower only for those who set Graphics Quality to Low.\n\nSki Rush\nFixed restoring last finish.\nSmoother multiplayer rivals and more natural turns, especially on Watch.\nImproved race reconnection and recovery.",
       "seenAt": "2026-09-07T18:22:54Z"
+    },
+    {
+      "version": "4.5",
+      "releaseNotes": "Elderblade\nAdded sounds.\nUpdated Frostbound Kingdom minimap.\nOptimized game loading for lower end watches.\n\nSki Rush\nFixed game recovery.",
+      "seenAt": "2026-09-09T05:37:07Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:41:58.855Z",
+  "updatedAt": "2026-09-09T11:49:00.139Z",
   "isOwnApp": false
 }

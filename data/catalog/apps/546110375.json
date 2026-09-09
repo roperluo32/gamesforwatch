@@ -363,7 +363,7 @@
     },
     {
       "version": "1.188.3",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Prepares MouseHunt for the Spring Egg Hunt!\n- Added a more convenient way to access the app rating section\n- Reduced the amount of storage the app takes up on a device",
+      "releaseNotes": "- Prepares MouseHunt for the Spring Egg Hunt!\n- Added a more convenient way to access the app rating section\n- Reduced the amount of storage the app takes up on a device",
       "seenAt": "2026-03-31T14:01:35Z"
     },
     {
@@ -407,6 +407,6 @@
       "seenAt": "2026-08-26T04:26:13Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:27:35.148Z",
+  "updatedAt": "2026-09-09T11:33:53.752Z",
   "isOwnApp": false
 }

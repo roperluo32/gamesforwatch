@@ -60,8 +60,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/8d/30/348d3069-ed2f-a9c5-0f8a-5f04aae8540e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-  "averageUserRating": 4.45807,
-  "userRatingCount": 799,
+  "averageUserRating": 4.45875,
+  "userRatingCount": 800,
   "price": 2.99,
   "fileSizeBytes": "79877120",
   "contentAdvisoryRating": "9+",
@@ -323,7 +323,7 @@
     },
     {
       "version": "1.10.1",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nWe've updated Taylor's IEVA suit to show the right set of available languages.",
+      "releaseNotes": "We've updated Taylor's IEVA suit to show the right set of available languages.",
       "seenAt": "2016-05-19T23:20:05Z"
     },
     {
@@ -342,6 +342,6 @@
       "seenAt": "2022-06-13T23:20:38Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:08:37.303Z",
+  "updatedAt": "2026-09-09T11:14:08.196Z",
   "isOwnApp": false
 }

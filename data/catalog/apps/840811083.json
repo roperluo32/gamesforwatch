@@ -388,7 +388,7 @@
     },
     {
       "version": "4.1.2",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Fixed a bug with statistics on Apple Watch\n• Fixed a bug with share sheets on high density screens",
+      "releaseNotes": "• Fixed a bug with statistics on Apple Watch\n• Fixed a bug with share sheets on high density screens",
       "seenAt": "2017-11-28T07:01:02Z"
     },
     {
@@ -397,6 +397,6 @@
       "seenAt": "2024-03-29T19:59:20Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:12:21.291Z",
+  "updatedAt": "2026-09-09T11:17:59.105Z",
   "isOwnApp": false
 }

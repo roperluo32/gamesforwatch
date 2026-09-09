@@ -480,7 +480,7 @@
     },
     {
       "version": "1.8.0",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFix a bug at level 1107.",
+      "releaseNotes": "Fix a bug at level 1107.",
       "seenAt": "2026-03-26T23:00:52Z"
     },
     {
@@ -514,6 +514,6 @@
       "seenAt": "2026-08-26T20:50:11Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:12:25.904Z",
+  "updatedAt": "2026-09-09T11:18:13.732Z",
   "isOwnApp": false
 }
