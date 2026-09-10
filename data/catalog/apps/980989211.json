@@ -417,7 +417,7 @@
     },
     {
       "version": "7.0",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- New Game Report allows you to analyze games using the new Game Report to find the critical moves.\n- Optimized for the upcoming version of iOS.\n",
+      "releaseNotes": "- New Game Report allows you to analyze games using the new Game Report to find the critical moves.\n- Optimized for the upcoming version of iOS.\n",
       "seenAt": "2021-09-17T23:03:34Z"
     },
     {
@@ -526,6 +526,6 @@
       "seenAt": "2026-09-02T15:30:58Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:42:16.069Z",
+  "updatedAt": "2026-09-10T11:37:38.099Z",
   "isOwnApp": false
 }

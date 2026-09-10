@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Soccer Dribble Cup - PRO shoot",
       "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
-      "releaseNotes": "Improved some levels.",
+      "releaseNotes": "Added a new star player.",
       "trackViewUrl": "https://apps.apple.com/us/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Soccer Dribble Cup - PRO shoot",
       "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
-      "releaseNotes": "Improved some levels.",
+      "releaseNotes": "Added a new star player.",
       "trackViewUrl": "https://apps.apple.com/jp/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Soccer Dribble Cup - PRO shoot",
       "description": "Only 3 rules:\n* Dribble through all defenders\n* Reach opponent goal\n* Shoot to score!!!\n\n***Play on Phone, Tablet or Watch***\n\nPRO compares to normal version:\n* No ads\n* More balls\n* More fields\n* Super team outfits\n\n***When play on watch, sound on for extra fun***",
-      "releaseNotes": "Improved some levels.",
+      "releaseNotes": "Added a new star player.",
       "trackViewUrl": "https://apps.apple.com/de/app/soccer-dribble-cup-pro-shoot/id1487402810?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/8e/cf/448ecf1f-690f-5514-1b96-48d5d6afcc2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/8c/8e/3f8c8efb-0af8-aff6-e659-50bde13a44e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "16406528",
+  "fileSizeBytes": "17316864",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "15.3",
-  "version": "2.42",
-  "currentVersionReleaseDate": "2026-08-10T15:39:42Z",
+  "minimumOsVersion": "15.0",
+  "version": "2.43",
+  "currentVersionReleaseDate": "2026-09-09T15:07:49Z",
   "releaseDate": "2019-11-12T08:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -376,8 +376,13 @@
       "version": "2.42",
       "releaseNotes": "Improved some levels.",
       "seenAt": "2026-08-10T15:39:42Z"
+    },
+    {
+      "version": "2.43",
+      "releaseNotes": "Added a new star player.",
+      "seenAt": "2026-09-09T15:07:49Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:46:18.563Z",
+  "updatedAt": "2026-09-10T11:42:02.980Z",
   "isOwnApp": false
 }

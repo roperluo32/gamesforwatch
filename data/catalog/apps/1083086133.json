@@ -239,7 +239,7 @@
     },
     {
       "version": "2.0",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- new design\n- offers Apple Watch App",
+      "releaseNotes": "- new design\n- offers Apple Watch App",
       "seenAt": "2018-01-12T10:51:53Z"
     },
     {
@@ -288,6 +288,6 @@
       "seenAt": "2026-02-28T21:03:11Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:25:09.598Z",
+  "updatedAt": "2026-09-10T11:50:41.110Z",
   "isOwnApp": false
 }

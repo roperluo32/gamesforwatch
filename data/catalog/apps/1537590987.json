@@ -234,7 +234,7 @@
     },
     {
       "version": "1.0.2",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nSupport for new Apple Watch sizes (41mm and 45mm)",
+      "releaseNotes": "Support for new Apple Watch sizes (41mm and 45mm)",
       "seenAt": "2021-09-19T17:11:16Z"
     },
     {
@@ -263,6 +263,6 @@
       "seenAt": "2026-08-27T19:09:10Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:31:28.888Z",
+  "updatedAt": "2026-09-10T11:26:38.060Z",
   "isOwnApp": false
 }

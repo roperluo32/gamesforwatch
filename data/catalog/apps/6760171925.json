@@ -285,7 +285,7 @@
     },
     {
       "version": "1.0.6",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nAdd new levels and improve graphics.",
+      "releaseNotes": "Add new levels and improve graphics.",
       "seenAt": "2026-03-30T20:20:53Z"
     },
     {
@@ -309,6 +309,6 @@
       "seenAt": "2026-07-28T18:19:53Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:46:28.462Z",
+  "updatedAt": "2026-09-10T11:42:07.877Z",
   "isOwnApp": false
 }

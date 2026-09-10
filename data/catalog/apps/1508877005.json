@@ -258,7 +258,7 @@
     },
     {
       "version": "1.1.2",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nFixed icons on some Apple Watch sizes running WatchOS8.",
+      "releaseNotes": "Fixed icons on some Apple Watch sizes running WatchOS8.",
       "seenAt": "2021-10-07T19:37:29Z"
     },
     {
@@ -267,6 +267,6 @@
       "seenAt": "2022-04-19T00:45:03Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:12:35.315Z",
+  "updatedAt": "2026-09-10T11:08:57.337Z",
   "isOwnApp": false
 }

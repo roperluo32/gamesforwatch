@@ -69,20 +69,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/82/df/6982df1f-5ebc-821f-7bb1-fa7e0c5579bc/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/af/ad/f3afad97-63f7-9e95-fb05-760ddd1ef500/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "75715584",
+  "fileSizeBytes": "75793408",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.12",
-  "currentVersionReleaseDate": "2026-09-08T18:54:31Z",
+  "version": "1.0.13",
+  "currentVersionReleaseDate": "2026-09-09T17:44:18Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E6%99%93%E7%BB%B4-%E5%90%B4/id1887145600?uo=4",
-  "sellerUrl": "",
+  "sellerUrl": "https://juqingwanhuatong.top/watchgames",
   "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -295,8 +295,13 @@
       "version": "1.0.12",
       "releaseNotes": "1. Improved stability on Apple Watch Series 6 and similar models, reducing crashes shortly after launch\n2. New game Double Luck: a target symbol on top, scratch 15 cells below—match to win; 20 mall coins per ticket, 200 on a win\n3. Neighborhood Pet: mall-to-pet coin exchange is now 1:10; cleaner hub blurb, plus more UI and play polish\n4. Hub and assorted mini-game UX refinements",
       "seenAt": "2026-09-08T18:54:31Z"
+    },
+    {
+      "version": "1.0.13",
+      "releaseNotes": "1. Improved stability on Apple Watch Series 6 and similar models, reducing crashes shortly after launch\n2. New game Double Luck: a target symbol on top, scratch 15 cells below—match to win; 20 mall coins per ticket, 200 on a win\n3. Neighborhood Pet: mall-to-pet coin exchange is now 1:10; cleaner hub blurb, plus more UI and play polish\n4. Hub and assorted mini-game UX refinements",
+      "seenAt": "2026-09-09T17:44:18Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:14:49.824Z",
+  "updatedAt": "2026-09-10T11:11:13.874Z",
   "isOwnApp": false
 }

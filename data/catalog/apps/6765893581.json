@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori is a calm nonogram puzzle game. Solve logic grids using number clues — no time pressure, no ads, no in-app pestering.\n\n• Today's puzzle delivered daily\n• Sizes from 5×5 to 15×15\n• Easy, Medium, Hard, Expert difficulty\n• Streak heatmap and personal stats\n• Apple Watch companion\n• Light and dark themes\n• Fully offline — your progress stays on your device\n\nDesigned for the moments you want to put your phone on Do Not Disturb but still keep your mind moving. If you like Picross, Griddlers, or Sudoku, you'll feel at home.",
-      "releaseNotes": "Your puzzle in progress is now saved. Close the app mid-solve and the board comes back exactly as you left it, with your hint count intact.",
+      "releaseNotes": "• Undo and redo, unlimited for everyone — free and Pro.\n• Fixed X marks disappearing when you reopened a puzzle. Your crossed-out cells are now saved along with the filled ones, so you can leave a puzzle mid-solve and come back to exactly where you were.\n• “Drag to paint” now actually works. The setting was there but the board ignored it, so turning it on changed nothing.\n• If a solved puzzle can’t be saved, the board stays put and offers a retry instead of losing the record quietly.\n• Screen reader now says what the mode and hint buttons do.\n• The board now works with VoiceOver. Before, it read as an empty rectangle — you couldn’t check or tap a cell. Each cell announces its position and state, and clues are read one line at a time.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jung Soon Shin",
@@ -35,7 +35,7 @@
     "ja": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomoriは静かな時間のためのノノグラムです。数字のヒントだけでマス目を解いていく日本生まれのパズル。広告も急かしも一切ありません。\n\n• 毎日届く「今日のパズル」\n• 5×5から15×15までのサイズ\n• 易しい・普通・難しい・エキスパートの4段階\n• 連続記録のヒートマップ\n• Apple Watch対応\n• ライト・ダークテーマ\n• 完全オフライン — 記録は端末に保存\n\nスマホを「おやすみモード」にしながらも頭は使いたい時間に。ピクロス、お絵かきロジック、ナンプレが好きな方にぴったり。",
-      "releaseNotes": "解きかけのパズルが保存されるようになりました。途中でアプリを閉じても盤面はそのまま戻り、ヒントの使用回数も保持されます。",
+      "releaseNotes": "• 「元に戻す」「やり直す」を追加しました。無料・Pro とも無制限です。\n• パズルを再度開くとX印が消えてしまう問題を修正しました。塗ったマスと一緒にX印も保存されるので、途中で中断しても続きから再開できます。\n•「ドラッグで塗る」が実際に機能します。設定はあったのに盤面が参照しておらず、オンにしても何も変わりませんでした。\n• 完成した記録を保存できなかったとき、盤面を残して再試行を表示します。以前は黙って失われていました。\n• スクリーンリーダーがモード・ヒントボタンの動作を読み上げます。\n• 画面読み上げ（VoiceOver）で盤面が使えます。以前は空の四角として読まれ、マスの確認も操作もできませんでした。各マスの位置と状態を読み上げ、ヒントは行・列ごとに読みます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jung Soon Shin",
@@ -63,7 +63,7 @@
     "de": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori ist ein ruhiges Nonogramm-Spiel. Löse Logikgitter mit Zahlenhinweisen — ohne Zeitdruck, ohne Werbung, ohne nervige In-App-Käufe.\n\n• Tägliches Rätsel\n• Größen von 5×5 bis 15×15\n• Vier Schwierigkeitsgrade\n• Streak-Heatmap mit persönlichen Statistiken\n• Apple Watch Begleiter\n• Helles und dunkles Design\n• Vollständig offline — deine Daten bleiben auf deinem Gerät\n\nFür die Momente, in denen du dein iPhone auf \"Nicht stören\" stellst, aber dein Kopf wach bleiben soll.",
-      "releaseNotes": "Dein laufendes Rätsel wird jetzt gespeichert. Schließe die App mittendrin – das Feld kommt genauso zurück, samt deiner Tipp-Anzahl.",
+      "releaseNotes": "• Rückgängig und Wiederholen, unbegrenzt für alle — kostenlos und Pro.\n• Behoben: X-Markierungen verschwanden, wenn ein Rätsel erneut geöffnet wurde. Ausgeschlossene Felder werden nun mit den gefüllten gespeichert — du machst genau dort weiter, wo du aufgehört hast.\n• „Zum Malen ziehen“ funktioniert jetzt wirklich. Die Einstellung war vorhanden, aber das Spielfeld hat sie ignoriert.\n• Lässt sich ein gelöstes Rätsel nicht speichern, bleibt das Feld erhalten und bietet einen neuen Versuch an, statt den Eintrag stillschweigend zu verlieren.\n• Der Screenreader nennt jetzt die Funktion der Modus- und Tipp-Schaltflächen.\n• Das Spielfeld funktioniert jetzt mit VoiceOver. Vorher wurde es als leeres Rechteck gelesen — Felder ließen sich weder prüfen noch antippen. Jedes Feld nennt Position und Zustand, Hinweise werden zeilenweise gelesen.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jung Soon Shin",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/11/68/2511683b-2725-96bd-2058-9f52a433db38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/39/e3b23973-9549-b508-597b-6ed053c99f71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "13232128",
+  "fileSizeBytes": "13297664",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.4",
-  "version": "1.5.2",
-  "currentVersionReleaseDate": "2026-09-07T18:20:37Z",
+  "version": "1.5.3",
+  "currentVersionReleaseDate": "2026-09-09T15:15:05Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
   "artistName": "Jung Soon Shin",
@@ -366,8 +366,13 @@
       "version": "1.5.2",
       "releaseNotes": "Your puzzle in progress is now saved. Close the app mid-solve and the board comes back exactly as you left it, with your hint count intact.",
       "seenAt": "2026-09-07T18:20:37Z"
+    },
+    {
+      "version": "1.5.3",
+      "releaseNotes": "• Undo and redo, unlimited for everyone — free and Pro.\n• Fixed X marks disappearing when you reopened a puzzle. Your crossed-out cells are now saved along with the filled ones, so you can leave a puzzle mid-solve and come back to exactly where you were.\n• “Drag to paint” now actually works. The setting was there but the board ignored it, so turning it on changed nothing.\n• If a solved puzzle can’t be saved, the board stays put and offers a retry instead of losing the record quietly.\n• Screen reader now says what the mode and hint buttons do.\n• The board now works with VoiceOver. Before, it read as an empty rectangle — you couldn’t check or tap a cell. Each cell announces its position and state, and clues are read one line at a time.",
+      "seenAt": "2026-09-09T15:15:05Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:49:04.189Z",
+  "updatedAt": "2026-09-10T11:44:52.293Z",
   "isOwnApp": false
 }

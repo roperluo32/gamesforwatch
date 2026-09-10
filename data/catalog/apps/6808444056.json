@@ -1,28 +1,35 @@
 {
   "trackId": "6808444056",
   "bundleId": "com.ningyue.chaidoumaster.ios",
-  "slug": "app",
-  "path": "/apps/6808444056-app/",
+  "slug": "bean-break-master-watch-game",
+  "path": "/apps/6808444056-bean-break-master-watch-game/",
   "locales": {
     "en": {
-      "trackName": "拆豆大师-手表游戏",
-      "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
+      "trackName": "Bean Break Master-Watch Game",
+      "description": "Bean Break Master is a casual puzzle game available on both iPhone and Apple Watch.\n\nObserve the arrangement of the beans in each level and use simple, intuitive controls to complete the bean-breaking objective. Every level features a different layout, requiring careful observation and thoughtful planning to find the right solution.\n\nGame Features:\n\nSupports both iPhone and Apple Watch\nIncludes 100 fun levels on Apple Watch\nSimple controls and easy to play\nShort levels, perfect for quick play sessions\nNo registration or login required\nClean and easy-to-understand interface\n\nWhether you're taking a break or commuting, you can open Bean Break Master anytime and enjoy a relaxing and engaging puzzle challenge.",
+      "releaseNotes": "Add Language",
+      "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
         "Entertainment"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
       ],
-      "subtitle": ""
+      "subtitle": "Match Beans, Clear Levels"
     },
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
+      "releaseNotes": "新增本地化语言",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -30,14 +37,21 @@
         "娱乐"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
       ],
       "subtitle": ""
     },
     "ja": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
+      "releaseNotes": "新增本地化语言",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -45,14 +59,21 @@
         "エンターテインメント"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
       ],
       "subtitle": ""
     },
     "de": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
+      "releaseNotes": "新增本地化语言",
       "trackViewUrl": "https://apps.apple.com/de/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -60,20 +81,27 @@
         "Unterhaltung"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/c4/54/63c45426-4755-cbab-9df3-4f6294d9ba40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1f/3d/241f3d9f-9f78-e1b5-c57e-2b39375af155/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "18398208",
+  "fileSizeBytes": "18803712",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.4",
-  "currentVersionReleaseDate": "2026-09-07T21:23:22Z",
+  "version": "1.5",
+  "currentVersionReleaseDate": "2026-09-09T15:12:21Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -212,6 +240,29 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/a6/9b/e2a69b4b-0f87-acfc-c8e3-3ea9402ba311/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.53.49.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/71/ff/da71ff89-69bc-3640-0d32-c020cbbc14c4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.53.54.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/a5/4d/5ea54d68-0059-1678-90e1-edd7a7e0f81c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.54.09.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/52/35/07523598-1629-0559-8543-710a9a61d875/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.54.17.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/b2/54/acb25486-0452-14de-ea49-310b7aa6bc01/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.56.24.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/df/c5/87dfc51f-8c1e-6686-f378-8fc0d992d3d7/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.33.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/85/31/378531a7-0deb-cec1-194e-56bf3c7238e2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.47.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/27/28/90272851-98fc-63fe-c023-e720393bc03b/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.22.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f7/28/65f7282e-7ea3-2c4a-fb48-df8c93da5f78/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-04_at_14.37.12.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/39/dc/7f39dc34-a3f5-20bb-050a-c1c722415d9e/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_21.06.40.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/91/3c/bc913c5d-35c1-9563-fa2c-bd2890466bd1/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_21.06.47.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/84/83/588483a8-6ed6-54b8-79f2-5d4130cb6bb4/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_21.06.53.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/5f/de/835fde9c-9e2c-82ca-b818-8e62056435fc/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_21.07.09.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/f6/ee/5cf6eef5-2048-9f6b-b36c-bf56639a9b8c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.21.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/80/04/0d800483-ed06-569f-9e68-5f706f0e4e99/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.29.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/b2/54/acb25486-0452-14de-ea49-310b7aa6bc01/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.56.24.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/df/c5/87dfc51f-8c1e-6686-f378-8fc0d992d3d7/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.33.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/85/31/378531a7-0deb-cec1-194e-56bf3c7238e2/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.47.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/27/28/90272851-98fc-63fe-c023-e720393bc03b/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-08_at_20.51.22.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/a6/9b/e2a69b4b-0f87-acfc-c8e3-3ea9402ba311/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.53.49.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/71/ff/da71ff89-69bc-3640-0d32-c020cbbc14c4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.53.54.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/a5/4d/5ea54d68-0059-1678-90e1-edd7a7e0f81c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.54.09.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/52/35/07523598-1629-0559-8543-710a9a61d875/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-08_at_20.54.17.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/95/ca/6b95cabd-16a7-53b8-909b-efcbb496f84c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.21.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/0b/58/4e0b5854-1f43-846d-e020-d0a20ef3363a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.29.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/e2/e7/50e2e793-ca49-a8c8-6e6c-77d625a7e10f/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-09-04_at_14.37.12.png/1284x2778bb.png",
@@ -222,6 +273,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/0b/58/4e0b5854-1f43-846d-e020-d0a20ef3363a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.29.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/dd/ce/46ddcebc-9911-326d-6dde-dc561cda9efd/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-08_at_21.02.00.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/e3/70/07e37097-abd7-f976-089e-1c65372a3155/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-08_at_21.02.17.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/7a/2b/187a2b99-3c90-a66b-74c1-c59e4070056e/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-08_at_21.02.23.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/29/99/f02999b3-3bfd-ad0f-8d43-3e44780aa545/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-08_at_21.02.55.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/98/d8/0b98d809-b04e-d253-a582-61539893cf64/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-04_at_14.23.28.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/8a/2e/1d8a2efc-d8fc-2d2e-2a1f-98e71ce3baac/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-04_at_14.23.34.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/6a/d7/5f6ad718-3313-0d74-2410-af205e60bea4/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-04_at_14.26.14.png/422x514bb.png",
@@ -237,8 +292,13 @@
       "version": "1.4",
       "releaseNotes": "1.新增 iPhone 与 Apple Watch 关卡选择页面，区分已解锁和未解锁关卡，并自动记录解锁进度。\n2.优化豆子颗粒大小，使游戏图案更加细腻。\n3.调整搬运规则：一只螃蟹每次只能搬运一颗豆子。\n4.优化螃蟹出发队列，前后间距约为 8pt，搬运过程更加连贯。\n5.加深暂存区域边框，提高区域辨识度。\n6.iOS 新增分层箱子排队区：第 1 关为 1 层、第 2 关为 2 层、第 3 关起为 3 层；所有箱子都会显示，只能先选择每列最上方的箱子，下层会依次上移。\n7.根据每关豆子数量和拆解顺序自动分配箱内螃蟹数量，降低卡关概率。\n8.页面底部新增少量装饰性豆粒和沙粒，不参与搬运。\n9.优化“撰写评论”入口，默认显示空心星，点击后直接打开苹果系统评分窗口。",
       "seenAt": "2026-09-07T21:23:22Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Add Language",
+      "seenAt": "2026-09-09T15:12:21Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:20:01.425Z",
+  "updatedAt": "2026-09-10T11:16:19.719Z",
   "isOwnApp": false
 }

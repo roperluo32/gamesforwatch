@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Simulation",
-        "Roleplaying",
-        "Entertainment"
+        "Entertainment",
+        "Roleplaying"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -42,8 +42,8 @@
       "genres": [
         "ゲーム",
         "シミュレーション",
-        "ロールプレイング",
-        "エンターテインメント"
+        "エンターテインメント",
+        "ロールプレイング"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -70,8 +70,8 @@
       "genres": [
         "Spiele",
         "Simulation",
-        "Rollenspiel",
-        "Unterhaltung"
+        "Unterhaltung",
+        "Rollenspiel"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -414,6 +414,6 @@
       "seenAt": "2026-08-27T18:41:25Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:35:13.602Z",
+  "updatedAt": "2026-09-10T11:29:15.309Z",
   "isOwnApp": false
 }

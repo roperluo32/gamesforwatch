@@ -332,7 +332,7 @@
     },
     {
       "version": "2021.7",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated for new OS\n- Fixed a bug where daily gift may not always appear",
+      "releaseNotes": "- Updated for new OS\n- Fixed a bug where daily gift may not always appear",
       "seenAt": "2021-09-19T10:54:06Z"
     },
     {
@@ -351,6 +351,6 @@
       "seenAt": "2025-04-01T00:19:13Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:33:10.987Z",
+  "updatedAt": "2026-09-10T11:28:26.310Z",
   "isOwnApp": false
 }
