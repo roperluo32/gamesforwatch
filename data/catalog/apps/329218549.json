@@ -212,15 +212,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4e/f0/d04ef011-68b4-b8f1-b224-aa1dfe24b586/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.72753,
-  "userRatingCount": 90411,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d7/79/64d7793c-87a8-3ad6-95bb-be55a5a278c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.72767,
+  "userRatingCount": 90479,
   "price": 0,
-  "fileSizeBytes": "449788928",
+  "fileSizeBytes": "454981632",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "4.10.28",
-  "currentVersionReleaseDate": "2026-09-02T19:15:22Z",
+  "version": "4.10.29",
+  "currentVersionReleaseDate": "2026-09-10T18:44:49Z",
   "releaseDate": "2009-10-29T03:18:55Z",
   "artistId": 329218552,
   "artistName": "Chess.com",
@@ -355,7 +355,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -649,8 +652,13 @@
       "version": "4.10.28",
       "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
       "seenAt": "2026-09-02T19:15:22Z"
+    },
+    {
+      "version": "4.10.29",
+      "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
+      "seenAt": "2026-09-10T18:44:49Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:11:54.713Z",
+  "updatedAt": "2026-09-11T11:10:17.223Z",
   "isOwnApp": false
 }

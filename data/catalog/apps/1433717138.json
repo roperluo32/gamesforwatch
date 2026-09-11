@@ -122,7 +122,10 @@
     "iPhone17ProMax-iPhone17ProMax",
     "iPhone17-iPhone17",
     "iPhoneAir-iPhoneAir",
-    "iPhone17e-iPhone17e"
+    "iPhone17e-iPhone17e",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -260,6 +263,6 @@
       "seenAt": "2025-09-17T05:38:44Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:31:44.269Z",
+  "updatedAt": "2026-09-11T11:30:46.950Z",
   "isOwnApp": false
 }

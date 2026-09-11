@@ -206,7 +206,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -374,6 +377,6 @@
       "seenAt": "2021-04-21T02:39:14Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:10:25.574Z",
+  "updatedAt": "2026-09-11T11:08:46.150Z",
   "isOwnApp": false
 }

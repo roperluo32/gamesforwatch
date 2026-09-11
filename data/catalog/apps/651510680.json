@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/85/61/e6856180-3431-d546-ad6b-9599ca40396f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e3/1c/91e31c28-1060-1fec-a730-ada4ef73f7f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28871,
   "userRatingCount": 1621,
   "price": 0,
-  "fileSizeBytes": "416970752",
+  "fileSizeBytes": "412390400",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.386.0",
-  "currentVersionReleaseDate": "2026-09-07T20:01:19Z",
+  "version": "3.386.1",
+  "currentVersionReleaseDate": "2026-09-11T01:37:33Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -238,7 +238,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -462,8 +465,13 @@
       "version": "3.386.0",
       "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
       "seenAt": "2026-09-07T20:01:19Z"
+    },
+    {
+      "version": "3.386.1",
+      "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
+      "seenAt": "2026-09-11T01:37:33Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:10:52.744Z",
+  "updatedAt": "2026-09-11T11:09:14.634Z",
   "isOwnApp": false
 }

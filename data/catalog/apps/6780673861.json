@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pixel",
       "description": "Watch Games — A pixel arcade on your wrist\n\nNo phone handy? Between swim sets, on your commute, or in a short queue—raise your wrist and start a round. Watch Games is built for Apple Watch: retro pixel art, simple controls, perfect for spare moments, and most titles run independently on the Watch.\n\n【Why it fits the Watch】\n• Short sessions with a complete feel\n• Crown, tap, and swipe—big, readable pixel UI\n• Most games play on Watch alone—no constant phone staring\n• The iPhone companion covers the library, categories, records, how-to guides, and Watch hub order/visibility\n\n【Card highlights】\n• Watch Mahjong: four-player draw play; self-draw & discard wins; Chi/Pong/Kong on one contextual button\n• Watch Big Two: SE Asia shedding; the player with a 3 leads; same count + higher rank to beat; 2 is highest\n• Watch Dou Dizhu: bid Landlord, play or pass; bombs & rockets multiply; you vs two AIs\n• Watch President: four-player shedding; multi-select same ranks; first out becomes President\n\n【And more】\nShoot lane, link-match, pool, Tetris-style blocks, coin merge, bottle logic, parking exit puzzle, screw dig, huge maze, sushi belt, tea pour, café bar, produce cut, slot fever, slap faces, mouth toss, spit aim, plot grow, traveler pet, life-sim CCTV, punch SFX, and more—casual, puzzle, action, and lifestyle bites.\n\n【iPhone companion】\nBrowse games and detailed “How to Play,” sync scores, explore categories, and edit which games appear on the Watch hub—and in what order—with automatic sync to Apple Watch.\n\nRaise your wrist. Play a pixel round.",
-      "releaseNotes": "1. Improved stability on Apple Watch Series 6 and similar models, reducing crashes shortly after launch\n2. New game Double Luck: a target symbol on top, scratch 15 cells below—match to win; 20 mall coins per ticket, 200 on a win\n3. Neighborhood Pet: mall-to-pet coin exchange is now 1:10; cleaner hub blurb, plus more UI and play polish\n4. Hub and assorted mini-game UX refinements",
+      "releaseNotes": "• New in-app polls — help decide what we build next\n• Polls include a countdown and close automatically when time’s up\n• System message inbox for timely updates\n• Home popup to join polls — one vote per device\n• Clearer privacy disclosures\n• Performance and stability improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pixel/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -23,7 +23,7 @@
     "zh": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "1. 针对 Apple Watch Series 6 等机型优化稳定性，改善打开后不久闪退的问题\n2. 新游戏「好运翻倍」：上方挂出目标图案，下方刮开 15 格，对上即中；20 商城币购票，中奖领 200\n3. 「社邻小宠」：商城币兑换宠物币调整为 1:10；首页说明更干净，界面与互动继续打磨\n4. 大厅与多款小游戏体验细节优化",
+      "releaseNotes": "• 新增应用内投票，一起决定下一款游戏方向\n• 投票支持倒计时，结束后自动关闭\n• 新增系统消息中心，重要通知及时送达\n• 首页可弹窗参与投票，一机一票\n• 优化隐私说明\n• 体验与稳定性改进",
       "trackViewUrl": "https://apps.apple.com/cn/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "1. 针对 Apple Watch Series 6 等机型优化稳定性，改善打开后不久闪退的问题\n2. 新游戏「好运翻倍」：上方挂出目标图案，下方刮开 15 格，对上即中；20 商城币购票，中奖领 200\n3. 「社邻小宠」：商城币兑换宠物币调整为 1:10；首页说明更干净，界面与互动继续打磨\n4. 大厅与多款小游戏体验细节优化",
+      "releaseNotes": "• 新增应用内投票，一起决定下一款游戏方向\n• 投票支持倒计时，结束后自动关闭\n• 新增系统消息中心，重要通知及时送达\n• 首页可弹窗参与投票，一机一票\n• 优化隐私说明\n• 体验与稳定性改进",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Watch Games",
       "description": "Watch Games —— 戴在手腕上的像素游戏厅\n\n没带手机？游泳组间休息、通勤路上、排队片刻，抬起手腕就能开一局。Watch Games 专为 Apple Watch 设计，像素复古风格，操作简洁，适合碎片时间畅玩，并可在手表上独立运行。\n\n【为什么适合手表】\n• 一局短、节奏快，碎片时间也能完整体验\n• 表冠、点按、滑动即可上手，界面为大字素像素风\n• 多数游戏在手表上独立运行，不必一直盯着手机\n• iPhone 配套 App 可浏览游戏库、分类、战绩与玩法说明，并可调整手表大厅顺序与显隐\n\n【热门牌局】\n• 手表麻将：四人摸打；可自摸与点炮；吃/碰/杠合一键响应\n• 手表大老二：东南亚流行出牌去手；有 3 先出；同张更高点才能压；2 最大\n• 手表斗地主：叫地主、出牌过牌；炸弹与王炸翻倍；你打两家 AI\n• 手表总统：四人去手升职；同点数多选压制；先出完当总统\n\n【更多玩法】\n射击冲刺、像素连连、台球、方块、零用钱合成、猜瓶子、停车场出车、螺丝解压、超大迷宫、寿司分拣、一盏茶、咖啡大师、分割大师、狂热转、出气脸、投进嘴、吐准了、腕上田、旅行家、现实监控观察、出气音效等——休闲、益智、动作、生活小品一应俱全。\n\n【手机配套】\n在 iPhone 上查看游戏介绍与「怎么玩」、同步成绩，按分类浏览，编辑手表大厅里游戏的排序与显隐，并自动同步到 Apple Watch。\n\n抬起手腕，开一局像素小游戏。",
-      "releaseNotes": "1. 针对 Apple Watch Series 6 等机型优化稳定性，改善打开后不久闪退的问题\n2. 新游戏「好运翻倍」：上方挂出目标图案，下方刮开 15 格，对上即中；20 商城币购票，中奖领 200\n3. 「社邻小宠」：商城币兑换宠物币调整为 1:10；首页说明更干净，界面与互动继续打磨\n4. 大厅与多款小游戏体验细节优化",
+      "releaseNotes": "• 新增应用内投票，一起决定下一款游戏方向\n• 投票支持倒计时，结束后自动关闭\n• 新增系统消息中心，重要通知及时送达\n• 首页可弹窗参与投票，一机一票\n• 优化隐私说明\n• 体验与稳定性改进",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -69,15 +69,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/af/ad/f3afad97-63f7-9e95-fb05-760ddd1ef500/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/97/a2/6597a2a7-9924-378b-87e1-26ff7c093f16/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "75793408",
+  "fileSizeBytes": "76010496",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.13",
-  "currentVersionReleaseDate": "2026-09-09T17:44:18Z",
+  "version": "1.0.14",
+  "currentVersionReleaseDate": "2026-09-10T23:53:25Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -212,10 +212,25 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/4d/5a/b94d5a0a-1878-3efb-7fb6-f1945d2b7348/8U8VrGbs.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/d4/d1/7cd4d1fc-5318-cc07-b519-6d54106aa4db/promo-04-en-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/f0/a8/30f0a83f-7518-02fb-c69d-cf4380abe8f6/ilPYNeIR.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/4c/10/894c1052-f0d6-7b3b-70fc-fc5352c9ddc7/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-29_at_05.41.52.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/7d/f5/f67df577-f49b-5e8f-6a73-f6aae5c8a1e3/8U8VrGbs.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/51/7b/60517bb8-d030-6610-517a-56cfe8929281/promo-04-zh-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9c/cc/409ccc55-efcd-2853-d7b0-1889d49d5737/ucVhKbym.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/fa/99/9efa99ee-eee6-c8eb-e8a6-7d6e25cef773/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-27_at_21.53.00.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/4d/5a/b94d5a0a-1878-3efb-7fb6-f1945d2b7348/8U8VrGbs.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/d4/d1/7cd4d1fc-5318-cc07-b519-6d54106aa4db/promo-04-en-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/f0/a8/30f0a83f-7518-02fb-c69d-cf4380abe8f6/ilPYNeIR.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/4c/10/894c1052-f0d6-7b3b-70fc-fc5352c9ddc7/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-29_at_05.41.52.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/29/9d/01299d71-8c06-4d9b-140e-29bb058ca2ce/8U8VrGbs.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/9e/b1/f19eb15f-a5c6-9d08-a8cc-df49c1f276dc/ilPYNeIR.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/cc/22/10cc22c8-707c-6041-f9e9-51fe96530282/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-29_at_05.41.52.png/1242x2688bb.png",
@@ -227,6 +242,11 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/cc/22/10cc22c8-707c-6041-f9e9-51fe96530282/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-29_at_05.41.52.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/d5/67/65d567cf-e1d4-ba8e-7ac9-51450fa47359/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.16.38.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/88/a0/8e88a06d-2eb6-2abc-1fdd-1d3a8b2e3a98/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.16.47.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/29/a0/c329a0ea-4d20-df16-27ec-61cb183ecc34/Simulator_Screenshot_-_Apple_Watch_Ultra_3_-_2026-07-29_at_05.21.59.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/16/7f/15167f0d-ccb0-4d99-95e3-e1777ee4bd4a/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.16.56.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/3f/36/473f36f4-3e29-6ae5-ec01-27cf03cdaa3f/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.17.05.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/62/f7/5e62f7b6-0ec1-2e08-7358-59aca5365cb6/Simulator_Screenshot_-_Apple_Watch_Ultra_3_-_2026-07-29_at_05.21.59.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/d7/ad/9cd7ad85-cb15-6e21-69c0-0e961eb2f2f0/Simulator_Screenshot_-_Apple_Watch_Ultra_3_-_2026-07-29_at_05.22.23.png/422x514bb.png"
   ],
@@ -300,8 +320,13 @@
       "version": "1.0.13",
       "releaseNotes": "1. Improved stability on Apple Watch Series 6 and similar models, reducing crashes shortly after launch\n2. New game Double Luck: a target symbol on top, scratch 15 cells below—match to win; 20 mall coins per ticket, 200 on a win\n3. Neighborhood Pet: mall-to-pet coin exchange is now 1:10; cleaner hub blurb, plus more UI and play polish\n4. Hub and assorted mini-game UX refinements",
       "seenAt": "2026-09-09T17:44:18Z"
+    },
+    {
+      "version": "1.0.14",
+      "releaseNotes": "• New in-app polls — help decide what we build next\n• Polls include a countdown and close automatically when time’s up\n• System message inbox for timely updates\n• Home popup to join polls — one vote per device\n• Clearer privacy disclosures\n• Performance and stability improvements",
+      "seenAt": "2026-09-10T23:53:25Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:11:13.874Z",
+  "updatedAt": "2026-09-11T11:09:31.998Z",
   "isOwnApp": false
 }

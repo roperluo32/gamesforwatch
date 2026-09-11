@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Handgelenkstabilität",
       "description": "Erleben Sie Handgelenkstabilität, einen einzigartigen Simulator für die Apple Watch, der spannende Spiele bietet:\n\nPräzisionsmeister: Testen Sie Ihre Präzision und verbessern Sie die Kontrolle über Ihr Handgelenk.\nReaktionstest: Tippen Sie schnell, wenn Ziele erscheinen, und schärfen Sie Ihre Reflexe.\nStabilitätstest: Halten Sie Ihr Handgelenk stabil und meistern Sie flüssige, kontrollierte Bewegungen.\nFlaschenbrecher: Neigen Sie zum Zielen und tippen Sie, um Ziele mit höchster Genauigkeit zu treffen.\n\nHandgelenkstabilität ist perfekt für kurze Herausforderungen oder zur Verbesserung Ihrer Konzentration, Koordination und Handgelenkstabilität – direkt von Ihrer Uhr aus!",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.",
       "trackViewUrl": "https://apps.apple.com/de/app/handgelenkstabilit%C3%A4t/id6740135743?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "程辉 赖",
@@ -202,7 +202,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [],
@@ -223,6 +226,6 @@
       "seenAt": "2025-01-23T02:52:20Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:55:48.629Z",
+  "updatedAt": "2026-09-11T11:55:19.154Z",
   "isOwnApp": false
 }

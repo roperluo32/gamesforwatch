@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/73/42/d2734289-bc24-a9ec-12f9-abf8a113e794/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.56276,
-  "userRatingCount": 48205,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/6b/4e/116b4e3f-3196-fa39-01e8-bc656b6e3d46/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.56278,
+  "userRatingCount": 48210,
   "price": 0,
-  "fileSizeBytes": "305930240",
+  "fileSizeBytes": "312287232",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "2.0.8",
-  "currentVersionReleaseDate": "2026-08-27T10:57:52Z",
+  "version": "2.0.9",
+  "currentVersionReleaseDate": "2026-09-11T08:02:50Z",
   "releaseDate": "2016-04-21T17:58:47Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -268,7 +268,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -497,8 +500,13 @@
       "version": "2.0.8",
       "releaseNotes": "Eat and battle snakes of all kinds in this exciting game!\n\nRelease Features:\n-Unique Skins: Unlock a variety of skins through different missions!\n-Monthly Live Events: Experience a new game mode during our monthly, themed live events.\n-Bug fixes and optimizations",
       "seenAt": "2026-08-27T10:57:52Z"
+    },
+    {
+      "version": "2.0.9",
+      "releaseNotes": "Eat and battle snakes of all kinds in this exciting game!\n\nRelease Features:\n-Unique Skins: Unlock a variety of skins through different missions!\n-Monthly Live Events: Experience a new game mode during our monthly, themed live events.\n-Bug fixes and optimizations",
+      "seenAt": "2026-09-11T08:02:50Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:08:07.914Z",
+  "updatedAt": "2026-09-11T11:06:24.576Z",
   "isOwnApp": false
 }

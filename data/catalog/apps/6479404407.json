@@ -78,8 +78,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/61/47/01614786-2cd6-1293-969b-2ae8bffd2f1b/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-  "averageUserRating": 4.89078,
-  "userRatingCount": 412,
+  "averageUserRating": 4.89104,
+  "userRatingCount": 413,
   "price": 0,
   "fileSizeBytes": "275850240",
   "contentAdvisoryRating": "17+",
@@ -220,7 +220,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -394,6 +397,6 @@
       "seenAt": "2026-04-05T19:10:20Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:35:52.399Z",
+  "updatedAt": "2026-09-11T11:34:53.528Z",
   "isOwnApp": false
 }

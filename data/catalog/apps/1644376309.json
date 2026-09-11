@@ -98,15 +98,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/ba/e8/bdbae8b6-c141-f21a-fbbd-114b3a5b0b0b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/91/01/759101e6-a86c-92a8-213c-e588983c6ec8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.42806,
   "userRatingCount": 1404,
   "price": 0,
-  "fileSizeBytes": "394206208",
-  "contentAdvisoryRating": "9+",
+  "fileSizeBytes": "396590080",
+  "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.5.9",
-  "currentVersionReleaseDate": "2026-08-10T22:23:05Z",
+  "version": "4.0",
+  "currentVersionReleaseDate": "2026-09-10T17:58:19Z",
   "releaseDate": "2022-09-16T07:00:00Z",
   "artistId": 646811578,
   "artistName": "Funn Media, LLC",
@@ -241,7 +241,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -457,8 +460,13 @@
       "version": "3.5.9",
       "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
       "seenAt": "2026-08-10T22:23:05Z"
+    },
+    {
+      "version": "4.0",
+      "releaseNotes": "Bug fixes and performance improvements.\n\nThanks for playing! If you’re enjoying the game, please consider leaving us a review on the App Store—it really helps us out.",
+      "seenAt": "2026-09-10T17:58:19Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:08:52.816Z",
+  "updatedAt": "2026-09-11T11:07:10.676Z",
   "isOwnApp": false
 }
