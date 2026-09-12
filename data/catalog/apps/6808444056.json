@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Improved localization support.",
+      "releaseNotes": "Added and improved multilingual localization support.",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "1.完善相关本地化语言配置",
+      "releaseNotes": "新增修改本地主要语言",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -51,7 +51,7 @@
     "ja": {
       "trackName": "豆分けマスター - Watchゲーム",
       "description": "「豆分けマスター」は、iPhoneとApple Watchに対応したカジュアルパズルゲームです。\n\nステージ内の豆の配置を観察し、シンプルで直感的な操作で目標を達成しましょう。ステージごとに配置が異なるため、よく観察して最適な解決方法を考える必要があります。\n\nゲームの特徴：\n• iPhoneとApple Watchに対応\n• Apple Watch版に100の楽しいステージを収録\n• シンプルな操作で簡単に遊べる\n• 短時間で楽しめるステージ\n• 登録やログインは不要\n• シンプルで見やすいゲーム画面\n\n休憩中や通勤中など、いつでも「豆分けマスター」を開いて、気軽に楽しめるパズルに挑戦しましょう。",
-      "releaseNotes": "ローカライズ言語設定を改善しました。",
+      "releaseNotes": "多言語ローカライズ対応を追加・改善しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%B1%86%E5%88%86%E3%81%91%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-watch%E3%82%B2%E3%83%BC%E3%83%A0/id6808444056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "Bohnenmeister - Watch-Spiel",
       "description": "Bohnenmeister ist ein Gelegenheitspuzzlespiel für iPhone und Apple Watch.\nBeobachte die Anordnung der Bohnen in jedem Level und erreiche das Ziel mit einfacher, intuitiver Steuerung. Jedes Level hat einen anderen Aufbau, daher musst du genau hinsehen und die passende Lösung finden.\nSpielfunktionen: • Unterstützt iPhone und Apple Watch • 100 unterhaltsame Level in der Apple-Watch-Version • Einfache, leicht verständliche Steuerung • Kurze Level, ideal für zwischendurch • Keine Registrierung oder Anmeldung erforderlich • Klare und übersichtliche Benutzeroberfläche\nOb in der Pause oder unterwegs: Öffne Bohnenmeister jederzeit und genieße entspannte, unterhaltsame Puzzle-Herausforderungen.",
-      "releaseNotes": "Die Einstellungen für lokalisierte Sprachen wurden verbessert.",
+      "releaseNotes": "Die Unterstützung mehrerer Sprachen wurde hinzugefügt und verbessert.",
       "trackViewUrl": "https://apps.apple.com/de/app/bohnenmeister-watch-spiel/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/20/3d/c4203dd6-f22f-7835-738f-2e8376601c78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/d4/ee/78d4ee1b-235e-dfc7-aeb7-5061c9d86474/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "19069952",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.6",
-  "currentVersionReleaseDate": "2026-09-10T21:50:54Z",
+  "version": "1.7",
+  "currentVersionReleaseDate": "2026-09-11T17:38:10Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -326,8 +326,13 @@
       "version": "1.6",
       "releaseNotes": "Improved localization support.",
       "seenAt": "2026-09-10T21:50:54Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Added and improved multilingual localization support.\n",
+      "seenAt": "2026-09-11T17:38:10Z"
     }
   ],
-  "updatedAt": "2026-09-11T11:14:49.853Z",
+  "updatedAt": "2026-09-12T10:41:56.513Z",
   "isOwnApp": false
 }

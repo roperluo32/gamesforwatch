@@ -1,14 +1,14 @@
 {
   "trackId": "6760209351",
   "bundleId": "com.formidablestudio.watchingcrafting",
-  "slug": "watchblocks-sandbox-game",
-  "path": "/apps/6760209351-watchblocks-sandbox-game/",
+  "slug": "watchblocks-craft-build",
+  "path": "/apps/6760209351-watchblocks-craft-build/",
   "locales": {
     "en": {
-      "trackName": "WatchBlocks: Sandbox Game",
-      "description": "Build a world you can carry with you.\n\nWatchBlocks is a pixel-art crafting and survival sandbox built for Apple Watch, iPhone, and iPad. Mine an endless block world, gather resources, craft tools and gear, grow food, explore varied biomes, battle creatures, and build something worth coming back to.\n\nCHOOSE YOUR WAY TO PLAY\n\nSURVIVAL\n\nGather wood, stone, ore, and food. Craft tools, weapons, armor, and machines. Explore forests, deserts, wastelands, snow, and volcanic regions as day turns to night. Discover structures, tame companions, fight dangerous mobs, and recover your belongings from gravestones when you fall.\n\nCREATIVE\n\nBuild without survival limits. Use the Creative inventory, spawn creatures, fly through your creations, and shape an entire world around your ideas. [Requires Full Access]\n\nDAILY MINI GAMES\n\nTake on four daily challenges: Parkour, Dungeon Descent, Attack, and Excavate. Use the same worlds, blocks, mobs, and controls as the main game. Chase personal bests and Game Center leaderboard scores, then replay the last 30 days with Full Game.\n\nCREATE YOUR OWN CONTENT\n\nDesign custom skins and make the game your own. Full Game unlocks Mod Creator, where you can build custom blocks, items, mobs, biomes, recipes, loot, textures, and playable mod packs. [Requires Full Access]\n\nPLAY TOGETHER\n\nHost or join multiplayer worlds over the local network, play with Game Center on supported Apple devices, or pair your iPhone and Apple Watch for Watch Co-op.\n\nKEEP EXPLORING\n\nWater flows, crops grow, worlds change with time, and every adventure can become something bigger. Sync your worlds across your Apple devices and keep building wherever you are.\n\nSTART FREE\n\nPlay the core survival experience free. Try the Full Game free for 3 days, then unlock Creative Mode, unlimited worlds, custom world types, custom skins, Mod Creator, world settings, and more with a single purchase. No subscription.",
-      "releaseNotes": "WatchBlocks v1.5.8\n- Fixed some collection bugs\n- Fixed slime launched\n- Fixed background issue",
-      "trackViewUrl": "https://apps.apple.com/us/app/watchblocks-sandbox-game/id6760209351?uo=4",
+      "trackName": "WatchBlocks: Craft & Build",
+      "description": "Build a world that feels like yours.\n\nWatchBlocks is a block-building adventure for iPhone, iPad, and Apple Watch. Gather materials, craft tools, build shelters, explore distinct biomes, and decide what happens next. Start with a quiet base, follow the terrain underground, or wait for nightfall and defend what you built.\n\nPlay your way:\n- Survival: gather, craft, farm, explore, and protect your world.\n- Creative: build freely with an open palette of blocks.\n- Daily challenges: take on short skill-based mini games and chase personal bests.\n- Multiplayer: build and explore together over nearby networks or online play.\n- Skins: customize your character and keep your look with you.\n- Mods: create custom blocks, creatures, biomes, structures, and modpacks.\n\niPhone and iPad give you room for longer sessions and detailed building. Apple Watch keeps the adventure close for quick sessions, world checks, and companion play. Continue on supported Apple devices when you want to take your world with you.\n\nMade by Formidable Studio.\n\nContact Us: formidablegamesstudio@gmail.com\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://formidable-studio.com#privacy",
+      "releaseNotes": "WatchBlocks v1.5.9 - The Cloudreach\n* Cloudreach Biome: A new biome high above the clouds. Staying up there too long can freeze you; wear some armor to help protect you\n* Cloud Blocks: These make up the new Cloudreach Biome\n* 2 new mobs: Cloudling (friendly) and Storm Wisp (hostile)\n* Thunderbolt: Dropped from Storm Wisp, and can be launched with the launcher item\n* Cloudrunner: A new vehicular item you can use to traverse your world\n* New weapon: Boomerang. Throw it at enemies, and it comes right back\n* 5 new languages supported: Spanish, German, French, Japanese, and Chinese (Simplified). More languages to come in the future\n* Full access now grants the ability to create 3D worlds, a new early access feature\n* Mod creator has expanded with new options to make mods\n* Visual improvements in world creation and mod creation UI\n* Brand new looks on the horizon and in the background\n* A lot better performance\n* Enjoy new stickers to use in Messages",
+      "trackViewUrl": "https://apps.apple.com/us/app/watchblocks-craft-build/id6760209351?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Keaton Rozema",
       "genres": [
@@ -18,15 +18,20 @@
         "Adventure"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "ZH",
+        "ES"
       ],
-      "subtitle": "Mine, Build, Explore & Survive"
+      "subtitle": "Mine & Survive on Every Device"
     },
     "ja": {
-      "trackName": "WatchBlocks: Sandbox Game",
-      "description": "Build a world you can carry with you.\n\nWatchBlocks is a pixel-art crafting and survival sandbox built for Apple Watch, iPhone, and iPad. Mine an endless block world, gather resources, craft tools and gear, grow food, explore varied biomes, battle creatures, and build something worth coming back to.\n\nCHOOSE YOUR WAY TO PLAY\n\nSURVIVAL\n\nGather wood, stone, ore, and food. Craft tools, weapons, armor, and machines. Explore forests, deserts, wastelands, snow, and volcanic regions as day turns to night. Discover structures, tame companions, fight dangerous mobs, and recover your belongings from gravestones when you fall.\n\nCREATIVE\n\nBuild without survival limits. Use the Creative inventory, spawn creatures, fly through your creations, and shape an entire world around your ideas. [Requires Full Access]\n\nDAILY MINI GAMES\n\nTake on four daily challenges: Parkour, Dungeon Descent, Attack, and Excavate. Use the same worlds, blocks, mobs, and controls as the main game. Chase personal bests and Game Center leaderboard scores, then replay the last 30 days with Full Game.\n\nCREATE YOUR OWN CONTENT\n\nDesign custom skins and make the game your own. Full Game unlocks Mod Creator, where you can build custom blocks, items, mobs, biomes, recipes, loot, textures, and playable mod packs. [Requires Full Access]\n\nPLAY TOGETHER\n\nHost or join multiplayer worlds over the local network, play with Game Center on supported Apple devices, or pair your iPhone and Apple Watch for Watch Co-op.\n\nKEEP EXPLORING\n\nWater flows, crops grow, worlds change with time, and every adventure can become something bigger. Sync your worlds across your Apple devices and keep building wherever you are.\n\nSTART FREE\n\nPlay the core survival experience free. Try the Full Game free for 3 days, then unlock Creative Mode, unlimited worlds, custom world types, custom skins, Mod Creator, world settings, and more with a single purchase. No subscription.",
-      "releaseNotes": "WatchBlocks v1.5.8\n- Fixed some collection bugs\n- Fixed slime launched\n- Fixed background issue",
-      "trackViewUrl": "https://apps.apple.com/jp/app/watchblocks-sandbox-game/id6760209351?uo=4",
+      "trackName": "WatchBlocks: Craft & Build",
+      "description": "Build a world that feels like yours.\n\nWatchBlocks is a block-building adventure for iPhone, iPad, and Apple Watch. Gather materials, craft tools, build shelters, explore distinct biomes, and decide what happens next. Start with a quiet base, follow the terrain underground, or wait for nightfall and defend what you built.\n\nPlay your way:\n- Survival: gather, craft, farm, explore, and protect your world.\n- Creative: build freely with an open palette of blocks.\n- Daily challenges: take on short skill-based mini games and chase personal bests.\n- Multiplayer: build and explore together over nearby networks or online play.\n- Skins: customize your character and keep your look with you.\n- Mods: create custom blocks, creatures, biomes, structures, and modpacks.\n\niPhone and iPad give you room for longer sessions and detailed building. Apple Watch keeps the adventure close for quick sessions, world checks, and companion play. Continue on supported Apple devices when you want to take your world with you.\n\nMade by Formidable Studio.\n\nContact Us: formidablegamesstudio@gmail.com\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://formidable-studio.com#privacy",
+      "releaseNotes": "WatchBlocks v1.5.9 - The Cloudreach\n* Cloudreach Biome: A new biome high above the clouds. Staying up there too long can freeze you; wear some armor to help protect you\n* Cloud Blocks: These make up the new Cloudreach Biome\n* 2 new mobs: Cloudling (friendly) and Storm Wisp (hostile)\n* Thunderbolt: Dropped from Storm Wisp, and can be launched with the launcher item\n* Cloudrunner: A new vehicular item you can use to traverse your world\n* New weapon: Boomerang. Throw it at enemies, and it comes right back\n* 5 new languages supported: Spanish, German, French, Japanese, and Chinese (Simplified). More languages to come in the future\n* Full access now grants the ability to create 3D worlds, a new early access feature\n* Mod creator has expanded with new options to make mods\n* Visual improvements in world creation and mod creation UI\n* Brand new looks on the horizon and in the background\n* A lot better performance\n* Enjoy new stickers to use in Messages",
+      "trackViewUrl": "https://apps.apple.com/jp/app/watchblocks-craft-build/id6760209351?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Keaton Rozema",
       "genres": [
@@ -36,15 +41,20 @@
         "アドベンチャー"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "ZH",
+        "ES"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "WatchBlocks: Sandbox Game",
-      "description": "Build a world you can carry with you.\n\nWatchBlocks is a pixel-art crafting and survival sandbox built for Apple Watch, iPhone, and iPad. Mine an endless block world, gather resources, craft tools and gear, grow food, explore varied biomes, battle creatures, and build something worth coming back to.\n\nCHOOSE YOUR WAY TO PLAY\n\nSURVIVAL\n\nGather wood, stone, ore, and food. Craft tools, weapons, armor, and machines. Explore forests, deserts, wastelands, snow, and volcanic regions as day turns to night. Discover structures, tame companions, fight dangerous mobs, and recover your belongings from gravestones when you fall.\n\nCREATIVE\n\nBuild without survival limits. Use the Creative inventory, spawn creatures, fly through your creations, and shape an entire world around your ideas. [Requires Full Access]\n\nDAILY MINI GAMES\n\nTake on four daily challenges: Parkour, Dungeon Descent, Attack, and Excavate. Use the same worlds, blocks, mobs, and controls as the main game. Chase personal bests and Game Center leaderboard scores, then replay the last 30 days with Full Game.\n\nCREATE YOUR OWN CONTENT\n\nDesign custom skins and make the game your own. Full Game unlocks Mod Creator, where you can build custom blocks, items, mobs, biomes, recipes, loot, textures, and playable mod packs. [Requires Full Access]\n\nPLAY TOGETHER\n\nHost or join multiplayer worlds over the local network, play with Game Center on supported Apple devices, or pair your iPhone and Apple Watch for Watch Co-op.\n\nKEEP EXPLORING\n\nWater flows, crops grow, worlds change with time, and every adventure can become something bigger. Sync your worlds across your Apple devices and keep building wherever you are.\n\nSTART FREE\n\nPlay the core survival experience free. Try the Full Game free for 3 days, then unlock Creative Mode, unlimited worlds, custom world types, custom skins, Mod Creator, world settings, and more with a single purchase. No subscription.",
-      "releaseNotes": "WatchBlocks v1.5.8\n- Fixed some collection bugs\n- Fixed slime launched\n- Fixed background issue",
-      "trackViewUrl": "https://apps.apple.com/de/app/watchblocks-sandbox-game/id6760209351?uo=4",
+      "trackName": "WatchBlocks: Craft & Build",
+      "description": "Build a world that feels like yours.\n\nWatchBlocks is a block-building adventure for iPhone, iPad, and Apple Watch. Gather materials, craft tools, build shelters, explore distinct biomes, and decide what happens next. Start with a quiet base, follow the terrain underground, or wait for nightfall and defend what you built.\n\nPlay your way:\n- Survival: gather, craft, farm, explore, and protect your world.\n- Creative: build freely with an open palette of blocks.\n- Daily challenges: take on short skill-based mini games and chase personal bests.\n- Multiplayer: build and explore together over nearby networks or online play.\n- Skins: customize your character and keep your look with you.\n- Mods: create custom blocks, creatures, biomes, structures, and modpacks.\n\niPhone and iPad give you room for longer sessions and detailed building. Apple Watch keeps the adventure close for quick sessions, world checks, and companion play. Continue on supported Apple devices when you want to take your world with you.\n\nMade by Formidable Studio.\n\nContact Us: formidablegamesstudio@gmail.com\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://formidable-studio.com#privacy",
+      "releaseNotes": "WatchBlocks v1.5.9 - The Cloudreach\n* Cloudreach Biome: A new biome high above the clouds. Staying up there too long can freeze you; wear some armor to help protect you\n* Cloud Blocks: These make up the new Cloudreach Biome\n* 2 new mobs: Cloudling (friendly) and Storm Wisp (hostile)\n* Thunderbolt: Dropped from Storm Wisp, and can be launched with the launcher item\n* Cloudrunner: A new vehicular item you can use to traverse your world\n* New weapon: Boomerang. Throw it at enemies, and it comes right back\n* 5 new languages supported: Spanish, German, French, Japanese, and Chinese (Simplified). More languages to come in the future\n* Full access now grants the ability to create 3D worlds, a new early access feature\n* Mod creator has expanded with new options to make mods\n* Visual improvements in world creation and mod creation UI\n* Brand new looks on the horizon and in the background\n* A lot better performance\n* Enjoy new stickers to use in Messages",
+      "trackViewUrl": "https://apps.apple.com/de/app/watchblocks-craft-build/id6760209351?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Keaton Rozema",
       "genres": [
@@ -54,20 +64,25 @@
         "Abenteuer"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "ZH",
+        "ES"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/f9/ce/e0f9ce54-2af8-6ed6-7fff-7e18fe36cfcb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/d4/7d/cdd47de4-5a5d-2183-08f4-114ce7e2c2d5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.66667,
   "userRatingCount": 3,
   "price": 0,
-  "fileSizeBytes": "117453824",
+  "fileSizeBytes": "124966912",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.5.8",
-  "currentVersionReleaseDate": "2026-09-07T06:27:48Z",
+  "version": "1.6",
+  "currentVersionReleaseDate": "2026-09-12T04:15:42Z",
   "releaseDate": "2026-04-16T07:00:00Z",
   "artistId": 1822173952,
   "artistName": "Keaton Rozema",
@@ -210,6 +225,46 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/9b/62/079b62a9-05b9-7b6a-a653-c5e98b953304/01-house.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/fb/03/38fb03bb-2a71-2e66-7b00-bffe880541a0/07-multiplayer.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4e/96/804e9681-2784-9fff-6dfd-6cb719e3f02c/05-snow.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/d3/6e/a1d36e2b-99c3-42e6-6427-4621ad84c345/03-mobs.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/6a/72936a4d-81ad-30f3-b00f-4c2e2b366529/06-creative.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/db/39/4ddb39b4-fb56-03f5-7548-7fecbc24a970/04-combat.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/41/5e/f6415e9a-c5f1-d665-5490-32c0d6dd7c2f/02-mining.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/28/dd/8b28ddb5-b341-c95e-cb12-129dfc337713/09-parkour.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/6f/65/3d6f65a5-b9c1-743e-824c-27ee39ed1ba3/08-crafting.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/66/54/0d66545d-a341-208a-29ab-f91e85e4e549/10-platform-specific.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/0f/86/f90f866d-eab3-1c5f-8e95-35d064887cb3/10-platform-specific.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/95/9c/97959cb0-4fc2-e6e4-a0cc-8120f412ce2a/07-multiplayer.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/34/47/00344718-385f-4a96-a65c-e506489fa13e/01-house.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/9c/77/609c77e0-8acd-83b9-4b44-819c88e253e3/03-mobs.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/0a/93/210a93ac-2ff6-5f82-9e5c-0723e71462cf/04-combat.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/00/54/60005407-9e4c-34ee-f0f7-4d389bedd77e/05-snow.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/60/b4/1d60b45c-6aac-b362-d842-ef0431a20e07/06-creative.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/dc/62/efdc624f-cc21-2eef-f5de-2f1e59f74689/02-mining.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/90/1a/c3901ae9-e31f-1929-eccd-f240f5f834b1/09-parkour.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d5/e5/e1d5e557-0470-c120-53a6-6ddf994c7971/08-crafting.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/0f/86/f90f866d-eab3-1c5f-8e95-35d064887cb3/10-platform-specific.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/95/9c/97959cb0-4fc2-e6e4-a0cc-8120f412ce2a/07-multiplayer.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/34/47/00344718-385f-4a96-a65c-e506489fa13e/01-house.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/9c/77/609c77e0-8acd-83b9-4b44-819c88e253e3/03-mobs.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/0a/93/210a93ac-2ff6-5f82-9e5c-0723e71462cf/04-combat.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/00/54/60005407-9e4c-34ee-f0f7-4d389bedd77e/05-snow.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/60/b4/1d60b45c-6aac-b362-d842-ef0431a20e07/06-creative.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/dc/62/efdc624f-cc21-2eef-f5de-2f1e59f74689/02-mining.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/90/1a/c3901ae9-e31f-1929-eccd-f240f5f834b1/09-parkour.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d5/e5/e1d5e557-0470-c120-53a6-6ddf994c7971/08-crafting.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/9b/62/079b62a9-05b9-7b6a-a653-c5e98b953304/01-house.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/fb/03/38fb03bb-2a71-2e66-7b00-bffe880541a0/07-multiplayer.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4e/96/804e9681-2784-9fff-6dfd-6cb719e3f02c/05-snow.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/d3/6e/a1d36e2b-99c3-42e6-6427-4621ad84c345/03-mobs.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/93/6a/72936a4d-81ad-30f3-b00f-4c2e2b366529/06-creative.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/db/39/4ddb39b4-fb56-03f5-7548-7fecbc24a970/04-combat.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/41/5e/f6415e9a-c5f1-d665-5490-32c0d6dd7c2f/02-mining.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/28/dd/8b28ddb5-b341-c95e-cb12-129dfc337713/09-parkour.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/6f/65/3d6f65a5-b9c1-743e-824c-27ee39ed1ba3/08-crafting.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/66/54/0d66545d-a341-208a-29ab-f91e85e4e549/10-platform-specific.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/43/35/20433505-4bc1-0013-fe6b-2c02186f6620/01-house.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/21/49/2221495e-7ceb-3513-a5a6-48e874fecdf9/06-multiplayer.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/88/0e/df880e5e-a4b7-a7ab-f158-e58d381e989d/02-mobs.png/2064x2752bb.png",
@@ -250,6 +305,14 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/c7/7f/d6c77f77-da27-d8c3-5206-765f6563f060/09-skins.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/04/a9/5004a978-1eb7-1323-1048-770627664e2a/01-house.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/39/bb/5339bb83-41c9-63b4-b633-635338e7e141/07-multiplayer.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/b0/d4/a4b0d4a2-0e46-9289-7cb0-64132b81089a/03-mobs.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/c1/f1/f9c1f1dd-af31-535d-8cfc-3d455a5d8d6c/05-snow.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/85/3c/61853c04-876c-dd86-27c2-6151ca80cb1c/02-mining.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/13/2c/cd132c7f-5dfe-5036-d0d8-ec6c65c1232c/09-parkour.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/02/f1/7802f1e2-948d-d00d-9c2f-6e1730acf519/10-platform-specific.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/cf/28/c3cf285b-f206-9b17-2011-0df89208c9e7/08-crafting.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/b8/c0/16b8c0c2-aad9-2deb-f86c-3b8f831d36fc/01-house.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/a1/41/baa141cb-40b3-74dd-0201-4d1fee7e3ed5/02-mobs.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/02/c0/c702c00e-d7ce-5b49-b436-1415e3ad54bb/06-multiplayer.png/416x496bb.png",
@@ -365,8 +428,13 @@
       "version": "1.5.8",
       "releaseNotes": "WatchBlocks v1.5.8\n- Fixed some collection bugs\n- Fixed slime launched\n- Fixed background issue\n",
       "seenAt": "2026-09-07T06:27:48Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "WatchBlocks v1.5.9 - The Cloudreach\n* Cloudreach Biome: A new biome high above the clouds. Staying up there too long can freeze you; wear some armor to help protect you\n* Cloud Blocks: These make up the new Cloudreach Biome\n* 2 new mobs: Cloudling (friendly) and Storm Wisp (hostile)\n* Thunderbolt: Dropped from Storm Wisp, and can be launched with the launcher item\n* Cloudrunner: A new vehicular item you can use to traverse your world\n* New weapon: Boomerang. Throw it at enemies, and it comes right back\n* 5 new languages supported: Spanish, German, French, Japanese, and Chinese (Simplified). More languages to come in the future\n* Full access now grants the ability to create 3D worlds, a new early access feature\n* Mod creator has expanded with new options to make mods\n* Visual improvements in world creation and mod creation UI\n* Brand new looks on the horizon and in the background\n* A lot better performance\n* Enjoy new stickers to use in Messages",
+      "seenAt": "2026-09-12T04:15:42Z"
     }
   ],
-  "updatedAt": "2026-09-11T11:09:02.855Z",
+  "updatedAt": "2026-09-12T11:10:42.007Z",
   "isOwnApp": false
 }
