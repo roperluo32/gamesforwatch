@@ -10,7 +10,7 @@
       "releaseNotes": "1、修复已知的bug",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%8D%E6%80%9D%E8%AE%AE%E8%BF%B7%E5%AE%AB/id1156084215?uo=4",
       "formattedPrice": "免费",
-      "sellerName": "Xiamen Leiting Network Technology Co., Ltd.",
+      "sellerName": "Shenzhen Leiting Information Technology Co., Ltd.",
       "genres": [
         "游戏",
         "策略",
@@ -27,19 +27,19 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/5d/63/945d63e5-3cf2-a128-3fad-6b69581b75fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.82306,
-  "userRatingCount": 107961,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/a2/a1/f1a2a154-42be-233f-e9a1-b85ac5f0df9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.82298,
+  "userRatingCount": 107977,
   "price": 0,
-  "fileSizeBytes": "677276672",
+  "fileSizeBytes": "697475072",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "12.0",
-  "version": "0.0.165",
-  "currentVersionReleaseDate": "2026-07-29T06:56:41Z",
+  "version": "0.0.166",
+  "currentVersionReleaseDate": "2026-09-03T09:17:43Z",
   "releaseDate": "2016-12-07T08:37:47Z",
-  "artistId": 1031897588,
-  "artistName": "雷霆游戏",
-  "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%9B%B7%E9%9C%86%E6%B8%B8%E6%88%8F/id1031897588?uo=4",
+  "artistId": 1279687519,
+  "artistName": "雷霆信息",
+  "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%9B%B7%E9%9C%86%E4%BF%A1%E6%81%AF/id1279687519?uo=4",
   "sellerUrl": "http://gumballs.leiting.com/",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -170,7 +170,10 @@
     "iPadAir11M4-iPadAir11M4",
     "iPadAir11M4Cellular-iPadAir11M4Cellular",
     "iPadAir13M4-iPadAir13M4",
-    "iPadAir13M4Cellular-iPadAir13M4Cellular"
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -191,8 +194,13 @@
       "version": "0.0.165",
       "releaseNotes": "1、修复已知的bug",
       "seenAt": "2026-07-29T06:56:41Z"
+    },
+    {
+      "version": "0.0.166",
+      "releaseNotes": "1、修复已知的bug",
+      "seenAt": "2026-09-03T09:17:43Z"
     }
   ],
-  "updatedAt": "2026-08-31T13:36:57.856Z",
+  "updatedAt": "2026-09-14T12:37:47.117Z",
   "isOwnApp": false
 }

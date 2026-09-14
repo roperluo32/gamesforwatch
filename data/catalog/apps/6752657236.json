@@ -1,48 +1,39 @@
 {
-  "trackId": "6757192358",
-  "bundleId": "com.watchtecx.XTetris",
-  "slug": "wristblock-block-puzzle-game",
-  "path": "/apps/6757192358-wristblock-block-puzzle-game/",
+  "trackId": "6752657236",
+  "bundleId": "com.ColorCircle.mustafa.Color-Circles",
+  "slug": "color-circles-watch",
+  "path": "/apps/6752657236-color-circles-watch/",
   "locales": {
     "en": {
-      "trackName": "WristBlock: Block Puzzle Game",
-      "description": "WatchTetris: Block Puzzle Games\nWatchTetris brings the most beloved block puzzle challenges to your smartwatch. Designed specifically for wearable devices, this collection features:\n\t•\tClassic Mode: The timeless block stacking and clearing experience.\n\t•\tSand Mode: A unique twist where blocks turn into sand upon landing.\n\t•\tMatch-up Mode: A block-themed connection game to test your logic. Focus on the core gameplay and challenge your own high score. Stay tuned for future updates featuring even more block-themed game modes. Perfect for quick entertainment on your wrist anytime, anywhere.",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/us/app/wristblock-block-puzzle-game/id6757192358?uo=4",
+      "trackName": "Color Circles – Watch",
+      "description": "Color Circles is a fun and addictive reflex game designed specifically for   Watch.\nTap the colorful rings at the right time, collect points and reach the highest score.\nA simple and enjoyable gaming experience optimized for the small screen awaits you!\n\nFeatures:\n• Simple but addictive gameplay\n• Specially designed for Apple Watch\n• Play again and again to beat your high score\n• Fast, fun and playable anywhere",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "trackViewUrl": "https://apps.apple.com/us/app/color-circles-watch/id6752657236?uo=4",
       "formattedPrice": "$0.99",
-      "sellerName": "柳 宋",
+      "sellerName": "Simge Ceylan Akyuz",
       "genres": [
-        "Entertainment"
+        "Games",
+        "Casual",
+        "Puzzle",
+        "Utilities"
       ],
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Retro Classic Arcade for Wear"
-    },
-    "zh": {
-      "trackName": "罗斯方块-手表游戏",
-      "description": "一款专门为智能手表设计的方块主题游戏合集。您可以在手腕上随时随地体验经典消除的乐趣。\n应用包含以下模式：\n\t•\t经典模式：原汁原味的方块堆叠与消除。\n\t•\t沙子模式：创新的沙子物理玩法，方块落地即化为沙。\n\t•\t连连看模式：以方块为主题的经典连线消除。 本作专注于最纯粹的游戏体验，让您在碎片时间内不断挑战自己的最高分纪录。我们将在后续更新中加入更多有趣的方块主题游戏。",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6757192358?uo=4",
-      "formattedPrice": "¥8.00",
-      "sellerName": "柳 宋",
-      "genres": [
-        "娱乐"
-      ],
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "subtitle": ""
+      "subtitle": "Colorful circle game"
     },
     "ja": {
-      "trackName": "WristBlock - ブロックパズル",
-      "description": "WatchTetris - ブロックパズル\nWatchTetrisは、スマートウォッチ専用に設計されたブロックパズルゲーム集です。手首でいつでもクラシックなパズルを楽しめます。\n収録モード：\n\t•\tクラシックモード：伝統的なブロック積み上げと消去。\n\t•\tサンドモード：ブロックが着地すると砂に変わるユニークな物理パズル。\n\t•\t二角取りモード：ブロックをテーマにしたマッチングパズル。 純粋に自分のベストスコアに挑戦するスタイルです。今後も新しいブロックテーマのゲームを追加予定です。",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/jp/app/wristblock-%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB/id6757192358?uo=4",
+      "trackName": "Color Circles – Watch",
+      "description": "Color CirclesはApple Watch専用に設計された楽しくて中毒性のある反射神経ゲームです。\n適切なタイミングでカラフルなリングをタップし、ポイントを集めて最高スコアを目指しましょう。\n小さな画面に最適化されたシンプルで楽しいゲーム体験があなたを待っています！\n\n特徴：\n• シンプルだが中毒性のあるゲームプレイ\n• Apple Watch専用設計\n• ハイスコアを更新するために何度でもプレイ\n• 高速で楽しく、どこでもプレイ可能",
+      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/color-circles-watch/id6752657236?uo=4",
       "formattedPrice": "¥150",
-      "sellerName": "柳 宋",
+      "sellerName": "Simge Ceylan Akyuz",
       "genres": [
-        "エンターテインメント"
+        "ゲーム",
+        "カジュアル",
+        "パズル",
+        "ユーティリティ"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,14 +41,17 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "WristBlock: Block Puzzle",
-      "description": "WatchTetris: Block Puzzle\nWatchTetris ist eine Spielesammlung für Smartwatches. Erleben Sie den klassischen Rätselspaß direkt an Ihrem Handgelenk.\nEnthaltene Modi:\n\t•\tKlassischer Modus: Das zeitlose Stapeln und Löschen von Blöcken.\n\t•\tSand-Modus: Blöcke verwandeln sich beim Aufprall in Sand.\n\t•\tMatch-up-Modus: Ein Verbindungsspiel mit Blockthematik. Konzentrieren Sie sich auf den reinen Spielspaß und verbessern Sie Ihren eigenen Highscore. Weitere Block-Themen folgen in Kürze.",
-      "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/de/app/wristblock-block-puzzle/id6757192358?uo=4",
+      "trackName": "Color Circles – Watch",
+      "description": "Color Circles ist ein lustiges und süchtig machendes Reflexspiel, das speziell für die Apple Watch entwickelt wurde.\nTippe zur richtigen Zeit auf die bunten Ringe, sammle Punkte und erreiche die höchste Punktzahl.\nEin einfaches und unterhaltsames Spielerlebnis, das für den kleinen Bildschirm optimiert ist, erwartet Sie!\n\nEigenschaften:\n• Einfaches aber süchtig machendes Gameplay\n• Speziell für Apple Watch entwickelt\n• Spiele immer wieder, um deinen Highscore zu schlagen\n• Schnell, lustig und überall spielbar",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.",
+      "trackViewUrl": "https://apps.apple.com/de/app/color-circles-watch/id6752657236?uo=4",
       "formattedPrice": "0,99 €",
-      "sellerName": "柳 宋",
+      "sellerName": "Simge Ceylan Akyuz",
       "genres": [
-        "Unterhaltung"
+        "Spiele",
+        "Gelegenheits­spiele",
+        "Puzzle",
+        "Dienst­programme"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -65,20 +59,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/d6/3d/1fd63d54-5d01-ce5e-fd8f-c26ab1858a38/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/c2/9361c290-fec5-8c7c-64d4-cd74ce7ed306/AppIcon-0-0-1x_U007emarketing-0-16-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "1982464",
+  "fileSizeBytes": "2822144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
-  "currentVersionReleaseDate": "2026-01-08T16:14:46Z",
-  "releaseDate": "2026-01-08T08:00:00Z",
-  "artistId": 1806542860,
-  "artistName": "柳 宋",
-  "artistViewUrl": "https://apps.apple.com/de/developer/%E6%9F%B3-%E5%AE%8B/id1806542860?uo=4",
-  "sellerUrl": "",
+  "currentVersionReleaseDate": "2025-09-22T16:12:01Z",
+  "releaseDate": "2025-09-22T07:00:00Z",
+  "artistId": 1468643938,
+  "artistName": "Simge Ceylan Akyuz",
+  "artistViewUrl": "https://apps.apple.com/de/developer/simge-ceylan-akyuz/id1468643938?uo=4",
+  "sellerUrl": "https://ozlusozler.com/iletisim/",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -216,17 +210,20 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/52/dd/dc52dd07-c327-d4c5-8634-d81132bb1aa7/1.png/416x496bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/03/f9/8d03f95b-36d1-4c55-4a6b-c8b92377f033/2.png/416x496bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/97/00/cb9700db-b873-7c52-472c-abf94abfc619/3.png/416x496bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/a4/42/28a44281-4939-120e-0250-fb98ea7ff47e/ChatGPT_Image_17_Eyl_2025_10_01_30.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/03/bc/f903bc13-4a2a-d2a5-e99a-ec74f6bdb414/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-09-16_at_12.26.33.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/5d/65/155d655b-c9c4-f537-04e4-5e7dc571dd07/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-09-16_at_12.25.52.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/bb/67/87bb67d5-4e17-add7-3eee-a8a6761cf1c9/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-09-16_at_12.25.59.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/85/e8/3585e884-80e7-146b-bd56-a708f592e940/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-09-16_at_12.26.11.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/f8/4e/96f84eeb-7b3c-be66-b784-ef6169a86d81/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-09-16_at_12.25.57.png/410x502bb.png"
   ],
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "",
-      "seenAt": "2026-01-08T16:14:46Z"
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "seenAt": "2025-09-22T16:12:01Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:40:06.940Z",
+  "updatedAt": "2026-09-14T12:59:55.562Z",
   "isOwnApp": false
 }
