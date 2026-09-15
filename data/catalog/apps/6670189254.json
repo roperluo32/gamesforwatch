@@ -6,7 +6,7 @@
   "locales": {
     "en": {
       "trackName": "Block Puzzle - Match The Board",
-      "description": "Blocks Puzzle Games (5 in 1) is now available on your Watch & Phone:\n  - 5 Puzzle Games.\n  - 1000+ levels - Easy to Hard.\n  - Unlock themes & more games.",
+      "description": "Blocks Puzzle Games (5 in 1) is now available on your Watch & Phone:\n  - 6 Puzzle Games.\n  - 1000+ levels - Easy to Hard.\n  - Unlock themes & more games.",
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-match-the-board/id6670189254?uo=4",
       "formattedPrice": "Free",
@@ -413,6 +413,6 @@
       "seenAt": "2026-09-13T21:40:23Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:34:01.114Z",
+  "updatedAt": "2026-09-15T11:41:49.206Z",
   "isOwnApp": false
 }

@@ -14,13 +14,13 @@
       "genres": [
         "Games",
         "Puzzle",
-        "Family",
+        "Board",
         "Entertainment"
       ],
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Unblock 3D Car & Clear Traffic"
+      "subtitle": "Unblock Car - Daily Challenge"
     },
     "ja": {
       "trackName": "Traffic Jam Escape: Car Puzzle",
@@ -32,7 +32,7 @@
       "genres": [
         "ゲーム",
         "パズル",
-        "ファミリー",
+        "ボード",
         "エンターテインメント"
       ],
       "languageCodesISO2A": [
@@ -50,7 +50,7 @@
       "genres": [
         "Spiele",
         "Puzzle",
-        "Familie",
+        "Brettspiele",
         "Unterhaltung"
       ],
       "languageCodesISO2A": [
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/f5/a3/5af5a3a1-6d46-307e-ed4f-df3edfab1ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/38/2e/ca382eed-2d63-f92e-258a-095756200795/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77778,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "66464768",
+  "fileSizeBytes": "66546688",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.5.2",
-  "currentVersionReleaseDate": "2026-09-04T22:08:00Z",
+  "version": "2.5.3",
+  "currentVersionReleaseDate": "2026-09-14T17:55:09Z",
   "releaseDate": "2022-11-30T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -385,8 +385,13 @@
       "version": "2.5.2",
       "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "seenAt": "2026-09-04T22:08:00Z"
+    },
+    {
+      "version": "2.5.3",
+      "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "seenAt": "2026-09-14T17:55:09Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:33:07.215Z",
+  "updatedAt": "2026-09-15T11:40:59.697Z",
   "isOwnApp": false
 }

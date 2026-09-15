@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/98/7f/cb987f36-4737-b91f-14bc-c654b9fd0e88/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/9c/41/979c4197-03a4-0ef2-1a3a-435f3a244ced/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.70833,
   "userRatingCount": 48,
   "price": 0,
-  "fileSizeBytes": "156802048",
+  "fileSizeBytes": "158354432",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "16.0",
-  "version": "2.6.5",
-  "currentVersionReleaseDate": "2026-09-08T00:23:59Z",
+  "version": "2.6.6",
+  "currentVersionReleaseDate": "2026-09-14T13:02:02Z",
   "releaseDate": "2025-02-04T08:00:00Z",
   "artistId": 1545635894,
   "artistName": "太宇 左",
@@ -486,8 +486,13 @@
       "version": "2.6.5",
       "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "seenAt": "2026-09-08T00:23:59Z"
+    },
+    {
+      "version": "2.6.6",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-09-14T13:02:02Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:28:44.160Z",
+  "updatedAt": "2026-09-15T11:36:11.087Z",
   "isOwnApp": false
 }

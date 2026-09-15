@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Chess Cats",
       "description": "Welcome to \"Chess Cats\" - the ultimate chess experience with cats! Go on a journey to rediscover the beauty of chess as you challenge our adorable cats, each with their own unique look and personality. Dive into a world of strategy and intellect, where you'll not only improve your chess game but also make some furry friends along the way!\n\nFeatures:\n\n* Play against a variety of charming cats\n* Solve engaging chess puzzles to sharpen your skills\n* Get access to video tutorials on the fundamentals of chess\n\nGet ready to pounce on the opportunity of a lifetime - download \"Chess Cats\" today and let the whiskered games begin!",
-      "releaseNotes": "fixes",
+      "releaseNotes": "Chess Cats now takes up less storage space",
       "trackViewUrl": "https://apps.apple.com/us/app/chess-cats/id1667653038?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Thomas Schranz",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Chess Cats",
       "description": "Welcome to \"Chess Cats\" - the ultimate chess experience with cats! Go on a journey to rediscover the beauty of chess as you challenge our adorable cats, each with their own unique look and personality. Dive into a world of strategy and intellect, where you'll not only improve your chess game but also make some furry friends along the way!\n\nFeatures:\n\n* Play against a variety of charming cats\n* Solve engaging chess puzzles to sharpen your skills\n* Get access to video tutorials on the fundamentals of chess\n\nGet ready to pounce on the opportunity of a lifetime - download \"Chess Cats\" today and let the whiskered games begin!",
-      "releaseNotes": "fixes",
+      "releaseNotes": "Chess Cats now takes up less storage space",
       "trackViewUrl": "https://apps.apple.com/cn/app/chess-cats/id1667653038?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Thomas Schranz",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Chess Cats",
       "description": "Welcome to \"Chess Cats\" - the ultimate chess experience with cats! Go on a journey to rediscover the beauty of chess as you challenge our adorable cats, each with their own unique look and personality. Dive into a world of strategy and intellect, where you'll not only improve your chess game but also make some furry friends along the way!\n\nFeatures:\n\n* Play against a variety of charming cats\n* Solve engaging chess puzzles to sharpen your skills\n* Get access to video tutorials on the fundamentals of chess\n\nGet ready to pounce on the opportunity of a lifetime - download \"Chess Cats\" today and let the whiskered games begin!",
-      "releaseNotes": "fixes",
+      "releaseNotes": "Chess Cats now takes up less storage space",
       "trackViewUrl": "https://apps.apple.com/jp/app/chess-cats/id1667653038?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Thomas Schranz",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Chess Cats",
       "description": "Welcome to \"Chess Cats\" - the ultimate chess experience with cats! Go on a journey to rediscover the beauty of chess as you challenge our adorable cats, each with their own unique look and personality. Dive into a world of strategy and intellect, where you'll not only improve your chess game but also make some furry friends along the way!\n\nFeatures:\n\n* Play against a variety of charming cats\n* Solve engaging chess puzzles to sharpen your skills\n* Get access to video tutorials on the fundamentals of chess\n\nGet ready to pounce on the opportunity of a lifetime - download \"Chess Cats\" today and let the whiskered games begin!",
-      "releaseNotes": "fixes",
+      "releaseNotes": "Chess Cats now takes up less storage space",
       "trackViewUrl": "https://apps.apple.com/de/app/chess-cats/id1667653038?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Thomas Schranz",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c1/52/23c15225-988d-424a-d701-dbc297e436f3/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/b7/d9/52b7d9ec-871b-f0a8-575a-6c3e9334abd0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 3,
   "price": 0,
-  "fileSizeBytes": "6413312",
+  "fileSizeBytes": "3552256",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.2.13",
-  "currentVersionReleaseDate": "2026-05-11T02:56:19Z",
+  "version": "1.2.14",
+  "currentVersionReleaseDate": "2026-09-14T17:54:03Z",
   "releaseDate": "2023-04-19T07:00:00Z",
   "artistId": 1663503739,
   "artistName": "Thomas Schranz",
@@ -311,8 +311,13 @@
       "version": "1.2.13",
       "releaseNotes": "fixes",
       "seenAt": "2026-05-11T02:56:19Z"
+    },
+    {
+      "version": "1.2.14",
+      "releaseNotes": "Chess Cats now takes up less storage space",
+      "seenAt": "2026-09-14T17:54:03Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:07:48.499Z",
+  "updatedAt": "2026-09-15T12:15:38.472Z",
   "isOwnApp": false
 }
