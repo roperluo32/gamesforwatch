@@ -20,7 +20,7 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Breakout Arkanoid"
+      "subtitle": "Retro Paddle Ball for Wrist"
     },
     "ja": {
       "trackName": "Brick Breaker: Watch Arcade",
@@ -226,8 +226,13 @@
       "version": "1.0",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-05-20T20:12:17Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "New Endless mode: flip the toggle on the start screen and every cleared board respawns a faster wave.\nLive wave counter while you play, plus a score and wave summary when your run ends.\nFinished runs are now saved to the Leaderboard.\nClassic mode now gives you a proper 'Cleared!' finish when the board is empty.\nBuilt with the latest watchOS SDK.",
+      "seenAt": "2026-09-15T23:22:18Z"
     }
   ],
-  "updatedAt": "2026-09-15T12:21:38.861Z",
+  "updatedAt": "2026-09-16T12:03:17.315Z",
   "isOwnApp": false
 }

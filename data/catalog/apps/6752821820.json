@@ -420,8 +420,13 @@
       "version": "1.6.0",
       "releaseNotes": "1. Improved in-game UI experience",
       "seenAt": "2026-08-11T01:39:47Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "1. Added a new game: PentaFall\n2. Improved gameplay and fixed known issues",
+      "seenAt": "2026-09-16T00:13:09Z"
     }
   ],
-  "updatedAt": "2026-09-15T11:37:41.921Z",
+  "updatedAt": "2026-09-16T11:22:00.527Z",
   "isOwnApp": true
 }

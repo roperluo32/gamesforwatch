@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Added and improved multilingual localization support.",
+      "releaseNotes": "Fixed a new scoring bug",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -331,8 +331,13 @@
       "version": "1.7",
       "releaseNotes": "Added and improved multilingual localization support.\n",
       "seenAt": "2026-09-11T17:38:10Z"
+    },
+    {
+      "version": "1.9",
+      "releaseNotes": "Fixed a new scoring bug",
+      "seenAt": "2026-09-15T23:23:53Z"
     }
   ],
-  "updatedAt": "2026-09-15T11:44:04.176Z",
+  "updatedAt": "2026-09-16T11:28:00.766Z",
   "isOwnApp": false
 }

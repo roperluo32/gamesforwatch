@@ -19,7 +19,7 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Tic Tac Toe Watch Game"
+      "subtitle": "Offline Two-Player Strategy"
     },
     "ja": {
       "trackName": "TikTocToe",
@@ -288,8 +288,13 @@
       "version": "2.2",
       "releaseNotes": "Making iOS 26 compatible. ",
       "seenAt": "2025-10-01T18:04:56Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
+      "seenAt": "2026-09-15T23:21:59Z"
     }
   ],
-  "updatedAt": "2026-09-15T12:20:54.917Z",
+  "updatedAt": "2026-09-16T12:02:35.279Z",
   "isOwnApp": false
 }

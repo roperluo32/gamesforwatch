@@ -20,7 +20,7 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Watch DotMan"
+      "subtitle": "Maze Muncher & Ghost Chase"
     },
     "ja": {
       "trackName": "Watch - Dash",
@@ -225,9 +225,14 @@
     {
       "version": "1.0",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
-      "seenAt": "2025-06-18T07:00:00Z"
+      "seenAt": "2025-06-11T19:19:19Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Choose your speed: a new Easy / Normal / Fast picker right on the start screen.\nEach speed keeps its own best score, shown under the picker and when a run ends.\nFaster settings speed up the maze and the ghosts; Easy gives you slower ghosts.\nBuilt with the latest watchOS SDK.",
+      "seenAt": "2026-09-16T08:36:44Z"
     }
   ],
-  "updatedAt": "2026-09-15T11:56:04.344Z",
+  "updatedAt": "2026-09-16T11:39:18.543Z",
   "isOwnApp": false
 }

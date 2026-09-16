@@ -491,8 +491,13 @@
       "version": "2.6.6",
       "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "seenAt": "2026-09-14T13:02:02Z"
+    },
+    {
+      "version": "2.6.7",
+      "releaseNotes": "Fixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-09-15T14:03:54Z"
     }
   ],
-  "updatedAt": "2026-09-15T11:36:11.087Z",
+  "updatedAt": "2026-09-16T11:20:34.902Z",
   "isOwnApp": false
 }
