@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "TikTocToe",
-      "description": "TikTacToe app to play with your watch OS, It's very easy to play.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Making iOS 26 compatible.",
+      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
+      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/tiktoctoe/id1522356749?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -23,8 +23,8 @@
     },
     "ja": {
       "trackName": "TikTocToe",
-      "description": "TikTacToe app to play with your watch OS, It's very easy to play.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Making iOS 26 compatible.",
+      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
+      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tiktoctoe/id1522356749?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -40,8 +40,8 @@
     },
     "de": {
       "trackName": "TikTocToe",
-      "description": "TikTacToe app to play with your watch OS, It's very easy to play.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Making iOS 26 compatible.",
+      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
+      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/tiktoctoe/id1522356749?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/88/94/4e8894c3-83c7-e72f-114f-2870597a8c11/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/59/5d/a4595d5e-6d20-b226-7030-a5696c1e19f0/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "4094976",
+  "fileSizeBytes": "3857408",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "2.2",
-  "currentVersionReleaseDate": "2025-10-01T18:04:56Z",
+  "minimumOsVersion": "15.0",
+  "version": "2.3",
+  "currentVersionReleaseDate": "2026-09-15T23:21:59Z",
   "releaseDate": "2020-08-15T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -295,6 +295,6 @@
       "seenAt": "2026-09-15T23:21:59Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:02:35.279Z",
+  "updatedAt": "2026-09-17T12:15:44.395Z",
   "isOwnApp": false
 }

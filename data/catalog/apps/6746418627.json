@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Stack - Watch Tetro",
-      "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Drop, match, and blast your way to the top in this falling-block puzzle arcade crafted for Apple Watch! Chase a new high score with bomb power-ups, a global leaderboard, and smooth Digital Crown controls—no phone needed.\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
+      "releaseNotes": "New: ghost piece preview shows exactly where your piece will land.\nToggle it on or off right from the start screen - it remembers your choice.\nRebuilt with the latest iOS/watchOS SDK for the newest Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/us/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "Stack - Watch Tetro",
-      "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Drop, match, and blast your way to the top in this falling-block puzzle arcade crafted for Apple Watch! Chase a new high score with bomb power-ups, a global leaderboard, and smooth Digital Crown controls—no phone needed.\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
+      "releaseNotes": "New: ghost piece preview shows exactly where your piece will land.\nToggle it on or off right from the start screen - it remembers your choice.\nRebuilt with the latest iOS/watchOS SDK for the newest Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/jp/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Stack - Watch Tetro",
-      "description": "Drop, match, and blast your way to the top in Watch Tetro, the ultimate Tetris-inspired arcade game crafted for Apple Watch!\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Drop, match, and blast your way to the top in this falling-block puzzle arcade crafted for Apple Watch! Chase a new high score with bomb power-ups, a global leaderboard, and smooth Digital Crown controls—no phone needed.\n\nGameplay Highlights\n• Classic falling-block mechanics\n• Neon bomb power-ups for explosive clears\n• Crown your score on the leaderboard\n• Smooth Digital Crown controls\n• Quick, satisfying rounds for on-the-go play\n\nPower-Up Fun\nCollect and activate bomb blocks to wipe rows in style with glowing effects and satisfying haptics.\n\nCompete & Conquer\nChase the high score and earn your crown! Track progress with Game Center support.\n\nDesigned for Watch\nFully playable on your wrist, optimized for Apple Watch Series 4 and above. No iPhone required during gameplay.",
+      "releaseNotes": "New: ghost piece preview shows exactly where your piece will land.\nToggle it on or off right from the start screen - it remembers your choice.\nRebuilt with the latest iOS/watchOS SDK for the newest Apple Watch and iPhone.",
       "trackViewUrl": "https://apps.apple.com/de/app/stack-watch-tetro/id6746418627?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/80/80/b9808063-e5b0-f66a-4f84-965100cc2433/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/bd/0b/a7bd0b8b-842f-eec8-aa65-0ee2c7fbf0ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "9157632",
+  "fileSizeBytes": "9194496",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2025-06-18T07:00:00Z",
+  "version": "1.1",
+  "currentVersionReleaseDate": "2026-09-15T23:24:12Z",
   "releaseDate": "2025-06-18T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -250,6 +250,6 @@
       "seenAt": "2026-09-15T23:24:12Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:03:09.946Z",
+  "updatedAt": "2026-09-17T12:16:25.702Z",
   "isOwnApp": false
 }

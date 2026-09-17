@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Vegas Pool Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Watch plays on the Apple Watch.",
-      "releaseNotes": "iOS 27 support.",
+      "releaseNotes": "Maintenance release",
       "trackViewUrl": "https://apps.apple.com/us/app/vegas-pool-watch/id1439234398?uo=4",
       "formattedPrice": "$4.99",
       "sellerName": "RESETgame",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Vegas Pool Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Watch plays on the Apple Watch.",
-      "releaseNotes": "iOS 27 support.",
+      "releaseNotes": "Maintenance release",
       "trackViewUrl": "https://apps.apple.com/jp/app/vegas-pool-watch/id1439234398?uo=4",
       "formattedPrice": "¥800",
       "sellerName": "RESETgame",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Vegas Pool Watch",
       "description": "Welcome to Vegas. How about a nice little game of pool? But soon those friendly locals you met in the casino are showing a certain predatory side. Congratulations, you are now playing Vegas Pool, with your car title, mortgage, and kids' college fund on the table.\n\n- Four opponents with increasing skill levels.\n- Four game types: Straight pool, 8 Ball, 9 Ball, and Practice.\n- Realistic physics.\n- Full 3d viewing with tilt and zoom.\n- Aim assist.\n- Save / Resume game.\n- 'English' spin.\n- Tally sheet showing wins and losses.\n- Vegas Pool Watch plays on the Apple Watch.",
-      "releaseNotes": "iOS 27 support.",
+      "releaseNotes": "Maintenance release",
       "trackViewUrl": "https://apps.apple.com/de/app/vegas-pool-watch/id1439234398?uo=4",
       "formattedPrice": "5,99 €",
       "sellerName": "RESETgame",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/9c/63/7e9c63f5-9a37-5081-7e7a-2e41e855e944/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/c4/92/28c4920c-3f2d-109f-8ffb-4317bd0c87da/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 5.99,
-  "fileSizeBytes": "4193280",
+  "fileSizeBytes": "4289536",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.6",
-  "version": "2.1.18",
-  "currentVersionReleaseDate": "2026-07-08T00:49:13Z",
+  "version": "2.1.19",
+  "currentVersionReleaseDate": "2026-09-16T20:58:51Z",
   "releaseDate": "2018-10-27T20:18:29Z",
   "artistId": 341062330,
   "artistName": "RESETgame",
@@ -255,8 +255,13 @@
       "version": "2.1.18",
       "releaseNotes": "iOS 27 support.",
       "seenAt": "2026-07-08T00:49:13Z"
+    },
+    {
+      "version": "2.1.19",
+      "releaseNotes": "Maintenance release",
+      "seenAt": "2026-09-16T20:58:51Z"
     }
   ],
-  "updatedAt": "2026-09-16T11:56:21.867Z",
+  "updatedAt": "2026-09-17T12:09:01.189Z",
   "isOwnApp": false
 }

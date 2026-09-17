@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Brick Breaker: Watch Arcade",
-      "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Experience classic brick-breaking action reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit paddle gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks for a new high score—no phone required.\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
+      "releaseNotes": "New Endless mode: flip the toggle on the start screen and every cleared board respawns a faster wave.\nLive wave counter while you play, plus a score and wave summary when your run ends.\nFinished runs are now saved to the Leaderboard.\nClassic mode now gives you a proper 'Cleared!' finish when the board is empty.\nBuilt with the latest watchOS SDK.",
       "trackViewUrl": "https://apps.apple.com/us/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "Brick Breaker: Watch Arcade",
-      "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Experience classic brick-breaking action reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit paddle gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks for a new high score—no phone required.\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
+      "releaseNotes": "New Endless mode: flip the toggle on the start screen and every cleared board respawns a faster wave.\nLive wave counter while you play, plus a score and wave summary when your run ends.\nFinished runs are now saved to the Leaderboard.\nClassic mode now gives you a proper 'Cleared!' finish when the board is empty.\nBuilt with the latest watchOS SDK.",
       "trackViewUrl": "https://apps.apple.com/jp/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Brick Breaker: Watch Arcade",
-      "description": "> Experience the thrill of classic brick-breaking action, reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks. Perfect for quick play sessions, this game is easy to pick up and impossible to put down!\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
+      "description": "Experience classic brick-breaking action reimagined for your wrist! Brick Breaker: Watch Arcade brings fast-paced, neon-lit paddle gameplay to your Apple Watch. Use the Digital Crown to control your paddle, bounce the ball, and smash through colorful bricks for a new high score—no phone required.\n\n> Features:\n> - Intuitive Digital Crown paddle control\n> - Vibrant neon graphics and smooth animations\n> - Score tracking and multiple lives\n> - Game Over and Replay for endless fun\n> - Optimized for all Apple Watch sizes\n\n> Whether you’re a retro arcade fan or new to brick breakers, you’ll love the challenge and excitement—right on your wrist!",
+      "releaseNotes": "New Endless mode: flip the toggle on the start screen and every cleared board respawns a faster wave.\nLive wave counter while you play, plus a score and wave summary when your run ends.\nFinished runs are now saved to the Leaderboard.\nClassic mode now gives you a proper 'Cleared!' finish when the board is empty.\nBuilt with the latest watchOS SDK.",
       "trackViewUrl": "https://apps.apple.com/de/app/brick-breaker-watch-arcade/id6745496008?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ed/7d/a5ed7d29-0a5c-86f3-4690-27d2e3e58443/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/31/30/5a3130d9-405b-0e7c-c3af-684511f903a6/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3709952",
+  "fileSizeBytes": "3755008",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2025-05-20T20:12:17Z",
+  "minimumOsVersion": "15.0",
+  "version": "1.5",
+  "currentVersionReleaseDate": "2026-09-15T23:22:18Z",
   "releaseDate": "2025-05-20T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -233,6 +233,6 @@
       "seenAt": "2026-09-15T23:22:18Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:03:17.315Z",
+  "updatedAt": "2026-09-17T12:16:37.454Z",
   "isOwnApp": false
 }
