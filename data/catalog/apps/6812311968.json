@@ -1,33 +1,39 @@
 {
-  "trackId": "6757006632",
-  "bundleId": "com.glendgame.GSki",
-  "slug": "ski-dash-for-watch-games",
-  "path": "/apps/6757006632-ski-dash-for-watch-games/",
+  "trackId": "6812311968",
+  "bundleId": "com.dt.chineseChess",
+  "slug": "chinese-chess-watch-phone",
+  "path": "/apps/6812311968-chinese-chess-watch-phone/",
   "locales": {
     "en": {
-      "trackName": "Ski Dash for Watch Games",
-      "description": "Experience an adrenaline-pumping skiing adventure right on your wrist. Navigate down treacherous snowy slopes, avoiding rocks and obstacles to stay ahead of the chasing danger. Use the digital crown to precisely adjust your ski board's angle for perfect landings and maneuvers.\nKey Features:\n\t•\tPrecise Control: Rotate the crown to tilt your board and maintain balance.\n\t•\tSpeed Boosts: Collect special power-ups for an instant burst of velocity.\n\t•\tFlight Mode: Grab flight items to soar through the air and bypass difficult terrain.\n\t•\tEndless Challenge: Test your reflexes in a fast-paced survival race.",
+      "trackName": "Chinese Chess - Watch & Phone",
+      "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
       "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/us/app/ski-dash-for-watch-games/id6757006632?uo=4",
-      "formattedPrice": "$0.99",
-      "sellerName": "玥铮 李",
+      "trackViewUrl": "https://apps.apple.com/us/app/chinese-chess-watch-phone/id6812311968?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Diem Le",
       "genres": [
-        "Entertainment"
+        "Games",
+        "Education",
+        "Family",
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Downhill Snow Endless Runner"
+      "subtitle": "Xiangqi Offline & With Friends"
     },
     "zh": {
-      "trackName": "滑雪大作战-手表版冰雪跑酷-手表游戏",
-      "description": "在您的手腕上开启一场惊心动魄的滑雪逃亡。穿梭于险峻的雪山之间，躲避岩石与障碍。通过旋转表冠精准调节滑雪板角度，掌控平衡。\n核心特色：\n\t•\t精准操作：旋转表冠控制滑行角度，应对复杂地形。\n\t•\t极速冲刺：拾取加速道具，瞬间提升滑行速度。\n\t•\t冲云九霄：获取飞行道具，在空中滑翔一段距离。\n\t•\t无尽挑战：在快节奏的追逐中磨炼你的反应极限。",
+      "trackName": "Chinese Chess - Watch & Phone",
+      "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
       "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%BB%91%E9%9B%AA%E5%A4%A7%E4%BD%9C%E6%88%98-%E6%89%8B%E8%A1%A8%E7%89%88%E5%86%B0%E9%9B%AA%E8%B7%91%E9%85%B7-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6757006632?uo=4",
-      "formattedPrice": "¥8.00",
-      "sellerName": "玥铮 李",
+      "trackViewUrl": "https://apps.apple.com/cn/app/chinese-chess-watch-phone/id6812311968?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
       "genres": [
-        "娱乐"
+        "游戏",
+        "教育",
+        "家庭聚会",
+        "桌面"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -35,14 +41,17 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Ski Dash: ウォッチで滑雪",
-      "description": "手首の上でスリリングなスキーアドベンチャーを体験しましょう。険しい雪山を滑り降り、岩や障害物を避けて逃げ切りましょう。クラウンを回してスキー板の角度を精密に調整し、バランスを保ちます。\n主な特徴：\n\t•\t精密な操作：クラウンで角度を調整し、地形に合わせて滑走。\n\t•\tスピードアップ：加速アイテムを拾って、瞬時に速度を向上。\n\t•\t飛行モード：飛行アイテムで空中を滑空し、障害物を一気に突破。\n\t•\t無限の挑戦：ハイスピードな追跡劇で反射神経を試しましょう。",
+      "trackName": "Chinese Chess - Watch & Phone",
+      "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
       "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/jp/app/ski-dash-%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%81%A7%E6%BB%91%E9%9B%AA/id6757006632?uo=4",
-      "formattedPrice": "¥150",
-      "sellerName": "玥铮 李",
+      "trackViewUrl": "https://apps.apple.com/jp/app/chinese-chess-watch-phone/id6812311968?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Diem Le",
       "genres": [
-        "エンターテインメント"
+        "ゲーム",
+        "教育",
+        "ファミリー",
+        "ボード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,14 +59,17 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Ski Dash für Watch Games",
-      "description": "Erleben Sie ein packendes Ski-Abenteuer direkt an Ihrem Handgelenk. Fahren Sie gefährliche verschneite Hänge hinunter und weichen Sie Felsen und Hindernissen aus. Nutzen Sie die Krone, um den Winkel Ihres Skibretts präzise einzustellen.\nHighlights:\n\t•\tPräzise Steuerung: Drehen Sie die Krone, um das Brett zu neigen.\n\t•\tGeschwindigkeitsschub: Sammeln Sie Booster für eine sofortige Beschleunigung.\n\t•\tFlugmodus: Nutzen Sie Flug-Items, um über Hindernisse hinwegzugleiten.\n\t•\tEndlose Herausforderung: Testen Sie Ihre Reflexe in einer rasanten Verfolgungsjagd.",
+      "trackName": "Chinese Chess - Watch & Phone",
+      "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
       "releaseNotes": "",
-      "trackViewUrl": "https://apps.apple.com/de/app/ski-dash-f%C3%BCr-watch-games/id6757006632?uo=4",
-      "formattedPrice": "0,99 €",
-      "sellerName": "玥铮 李",
+      "trackViewUrl": "https://apps.apple.com/de/app/chinese-chess-watch-phone/id6812311968?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Diem Le",
       "genres": [
-        "Unterhaltung"
+        "Spiele",
+        "Bildung",
+        "Familie",
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -65,20 +77,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2f/6b/cf2f6bdc-b321-4102-d297-79a7d263acc3/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c3/37/03c33774-3dd8-3fdc-43a0-6548872a6d3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
-  "fileSizeBytes": "1855488",
+  "price": 0,
+  "fileSizeBytes": "64890880",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-01-06T11:58:20Z",
-  "releaseDate": "2026-01-06T08:00:00Z",
-  "artistId": 1814853486,
-  "artistName": "玥铮 李",
-  "artistViewUrl": "https://apps.apple.com/de/developer/%E7%8E%A5%E9%93%AE-%E6%9D%8E/id1814853486?uo=4",
-  "sellerUrl": "",
+  "minimumOsVersion": "15.6",
+  "version": "1.0.0",
+  "currentVersionReleaseDate": "2026-09-18T00:41:41Z",
+  "releaseDate": "2026-09-17T07:00:00Z",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
+  "sellerUrl": "https://mywatchgame.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -214,19 +226,32 @@
     "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
-  "phoneScreenshots": [],
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/fa/b6/13fab6b0-15d7-63a6-aa70-bab2d06afefa/ipad1.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/32/4c/36324cbe-afed-4bda-e640-ee7521a5630e/ipad2.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8b/f8/bf8bf8b1-8472-28cf-c6f5-1eb8062a8b67/ipad3.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/26/42/86264211-bd12-814a-c868-0560550c6070/ip1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d1/61/32d161b7-4020-5639-9aa3-e6e6d85bcd6c/ip2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/cb/23/f3cb2334-32ee-851d-dd15-0c02e7d0b21b/ip3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/26/42/86264211-bd12-814a-c868-0560550c6070/ip1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d1/61/32d161b7-4020-5639-9aa3-e6e6d85bcd6c/ip2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/cb/23/f3cb2334-32ee-851d-dd15-0c02e7d0b21b/ip3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/fa/b6/13fab6b0-15d7-63a6-aa70-bab2d06afefa/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/32/4c/36324cbe-afed-4bda-e640-ee7521a5630e/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8b/f8/bf8bf8b1-8472-28cf-c6f5-1eb8062a8b67/ipad3.png/360x480bb.jpg"
+  ],
   "watchScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/df/48/02df4883-4475-0e4d-4ee8-f9ff9d2a9903/ski2.png/416x496bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/7b/f5/0c7bf582-6b32-25fb-2855-368359e4a609/ski1.png/416x496bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/d7/d5/79d7d52e-2ce1-90e1-a7ea-8b479df35ef1/ski3.png/416x496bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/29/c7/0129c746-fc66-0164-72d0-b70551000aa0/w2.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/50/d7/fe50d79d-ad6e-c70b-ec5f-3d0cd610d47c/w1.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/8b/8a/368b8a7c-65e4-1869-e749-590113410b47/w3.png/422x514bb.png"
   ],
   "versionHistory": [
     {
-      "version": "1.0",
+      "version": "1.0.0",
       "releaseNotes": "",
-      "seenAt": "2026-01-06T11:58:20Z"
+      "seenAt": "2026-09-18T00:41:41Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:15:54.498Z",
+  "updatedAt": "2026-09-18T11:22:07.400Z",
   "isOwnApp": false
 }
