@@ -266,8 +266,13 @@
       "version": "2.0",
       "releaseNotes": "Added two players mode.",
       "seenAt": "2026-05-21T00:25:53Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Supports landscape mode.",
+      "seenAt": "2026-09-18T14:57:06Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:44:41.149Z",
+  "updatedAt": "2026-09-19T11:25:56.746Z",
   "isOwnApp": false
 }

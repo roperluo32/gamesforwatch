@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nUpdated game loading.\n\nSki Rush\nUpdated HUD.\nPrepared realtime multiplayer.",
+      "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
       "trackViewUrl": "https://apps.apple.com/us/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -401,8 +401,13 @@
       "version": "4.9",
       "releaseNotes": "Pankora\nUpdated game loading.\n\nSki Rush\nUpdated HUD.\nPrepared realtime multiplayer.\n",
       "seenAt": "2026-09-15T14:05:45Z"
+    },
+    {
+      "version": "5.2",
+      "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
+      "seenAt": "2026-09-19T04:30:29Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:40:49.485Z",
+  "updatedAt": "2026-09-19T11:22:07.662Z",
   "isOwnApp": false
 }

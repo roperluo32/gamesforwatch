@@ -50,8 +50,8 @@
       "genres": [
         "Spiele",
         "Puzzle",
-        "Brettspiele",
-        "Unterhaltung"
+        "Unterhaltung",
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -392,6 +392,6 @@
       "seenAt": "2026-09-14T17:55:09Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:07:56.051Z",
+  "updatedAt": "2026-09-19T10:50:17.870Z",
   "isOwnApp": false
 }

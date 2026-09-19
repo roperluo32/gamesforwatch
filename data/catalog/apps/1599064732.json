@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Entertainment",
-        "Board",
-        "Family"
+        "Family",
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Brettspiele",
-        "Familie"
+        "Familie",
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -519,6 +519,6 @@
       "seenAt": "2026-09-04T17:45:01Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:10:26.309Z",
+  "updatedAt": "2026-09-19T10:52:45.985Z",
   "isOwnApp": false
 }

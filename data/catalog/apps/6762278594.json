@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Watch Trivia Game",
       "description": "Test your knowledge right from your wrist! Watch Trivia brings fast and fun trivia questions directly to your Apple Watch — no phone needed.\nAnswer questions across a variety of topics, race against the clock, and challenge yourself to beat your high score. Each game is a new shuffle, so no two rounds feel the same.\n\nHOW TO PLAY\nEach question comes with two answer choices. Tap the correct answer before time runs out. One wrong answer or timeout ends your game — stay sharp and keep your streak alive!\n\nFEATURES\nQuick trivia sessions designed for Apple Watch\n20 seconds to answer each question\nTwo choices per question for fast gameplay\nHigh score tracking to keep you motivated\nInstant visual feedback on every answer\nNew question order every game\n\nPERFECT FOR\nCommuters looking to make the most of downtime\nTrivia lovers who want a quick daily brain challenge\nAnyone who wants a fun and lightweight watch game",
-      "releaseNotes": "Bug fixes.",
+      "releaseNotes": "Performance improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-trivia-game/id6762278594?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Alper Vural",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Watch Trivia Game",
       "description": "Test your knowledge right from your wrist! Watch Trivia brings fast and fun trivia questions directly to your Apple Watch — no phone needed.\nAnswer questions across a variety of topics, race against the clock, and challenge yourself to beat your high score. Each game is a new shuffle, so no two rounds feel the same.\n\nHOW TO PLAY\nEach question comes with two answer choices. Tap the correct answer before time runs out. One wrong answer or timeout ends your game — stay sharp and keep your streak alive!\n\nFEATURES\nQuick trivia sessions designed for Apple Watch\n20 seconds to answer each question\nTwo choices per question for fast gameplay\nHigh score tracking to keep you motivated\nInstant visual feedback on every answer\nNew question order every game\n\nPERFECT FOR\nCommuters looking to make the most of downtime\nTrivia lovers who want a quick daily brain challenge\nAnyone who wants a fun and lightweight watch game",
-      "releaseNotes": "Bug fixes.",
+      "releaseNotes": "Performance improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-trivia-game/id6762278594?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Alper Vural",
@@ -59,21 +59,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/af/be/6fafbefd-e591-e60a-3907-656ef169df68/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/81/f9/f081f9f6-164b-d6ce-6cfc-2d554d6cd05c/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "8332288",
+  "fileSizeBytes": "9401344",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
-  "version": "1.0.2",
-  "currentVersionReleaseDate": "2026-05-21T17:23:42Z",
+  "version": "1.0.3",
+  "currentVersionReleaseDate": "2026-09-18T14:54:24Z",
   "releaseDate": "2026-04-27T07:00:00Z",
   "artistId": 1728214585,
   "artistName": "Alper Vural",
   "artistViewUrl": "https://apps.apple.com/de/developer/alper-vural/id1728214585?uo=4",
   "sellerUrl": "",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -230,8 +230,13 @@
       "version": "1.0.2",
       "releaseNotes": "Bug fixes.",
       "seenAt": "2026-05-21T17:23:42Z"
+    },
+    {
+      "version": "1.0.3",
+      "releaseNotes": "Performance improvements.",
+      "seenAt": "2026-09-18T14:54:24Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:44:37.207Z",
+  "updatedAt": "2026-09-19T11:25:53.028Z",
   "isOwnApp": false
 }

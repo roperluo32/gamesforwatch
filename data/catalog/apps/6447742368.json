@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Place Guesser: World Map Quiz",
       "description": "You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\n\nEmbark on a thrilling global adventure with our immersive travel game!\n\nExplore the world like never before with our two exciting game modes: Quick Play and Country Streak.\nIn Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360° panorama look around view images.\n\nWant to challenge your geographical knowledge even further?\nDive into Country Streak and guess the correct country based on stunning street view scenes. \nImmerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.\n\nReady to become a world-class explorer? Download our app now and embark on a thrilling journey of discovery!\n\n------------------------------------------------------------\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Bug fixes and performance improvements. New locations coming soon!",
+      "releaseNotes": "Bug fixes and performance improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-world-map-quiz/id6447742368?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -59,7 +59,7 @@
     "de": {
       "trackName": "Place Guesser: Weltkarten-Quiz",
       "description": "Du wirst irgendwo auf der Welt abgesetzt und musst Hinweise finden, um deinen Standort auf der Weltkarte zu erraten.\n\nBegib dich auf ein spannendes, weltweites Abenteuer mit unserem immersiven Reisespiel!\n\nEntdecke die Welt wie nie zuvor mit unseren zwei aufregenden Spielmodi: Schnellspiel und Länder-Serie.\nIm Schnellspiel stellst du deine Beobachtungsgabe unter Beweis und trittst gegen die Zeit an, um anhand faszinierender 360°-Panorama-Ansichten deinen Standort zu erraten.\n\nMöchtest du dein geografisches Wissen noch weiter herausfordern?\nTauche ein in die Länder-Serie und errate das richtige Land anhand beeindruckender Street-View-Szenen.\nLass dich von atemberaubenden Landschaften, ikonischen Wahrzeichen und lebendigen Stadtstraßen aus aller Welt mitreißen. Egal, ob du ein gelegentlicher Entdecker oder ein erfahrener Globetrotter bist – unsere App fesselt dich mit süchtig machendem Gameplay und faszinierenden Bildern.\n\nBereit, ein Weltklasse-Entdecker zu werden? Lade unsere App jetzt herunter und begib dich auf eine spannende Entdeckungsreise!\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nDatenschutzerklärung: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen. Neue Orte kommen bald!",
+      "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen",
       "trackViewUrl": "https://apps.apple.com/de/app/place-guesser-weltkarten-quiz/id6447742368?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -83,15 +83,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/7b/4d/4b7b4d75-8167-e1e4-1cba-becc7abbdc85/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/9c/b8/b79cb858-1412-8f15-55ce-d688da1f39ab/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.68103,
   "userRatingCount": 348,
   "price": 0,
-  "fileSizeBytes": "87958528",
+  "fileSizeBytes": "86635520",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "17.6",
-  "version": "1.60.0",
-  "currentVersionReleaseDate": "2026-08-19T04:24:19Z",
+  "minimumOsVersion": "18.6",
+  "version": "1.61.0",
+  "currentVersionReleaseDate": "2026-09-18T14:52:56Z",
   "releaseDate": "2023-04-15T07:00:00Z",
   "artistId": 1701006912,
   "artistName": "Mobivalley",
@@ -426,8 +426,13 @@
       "version": "1.60.0",
       "releaseNotes": "Bug fixes and performance improvements. New locations coming soon!",
       "seenAt": "2026-08-19T04:24:19Z"
+    },
+    {
+      "version": "1.61.0",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "seenAt": "2026-09-18T14:52:56Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:41:59.631Z",
+  "updatedAt": "2026-09-19T11:23:14.817Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Discover a refreshed Halloween arcade look, a new app icon, and switchable themes.\n• Choose between the Playful Ghost and the Little Cyclops. Each helper matches the color of its bead box.\n• Place multiple boxes of the same color in the holding area whenever space is available.\n• Enjoy slower carrying animations, with helpers setting off one after another in a closely spaced line.\n• Character selections are saved instantly. The panel closes automatically so you can continue playing without an extra confirmation.",
+      "releaseNotes": "Added a beginner tutorial with an animated finger icon pointing to the color box to help players get started quickly.\nAfter the first successful placement into the box, the tutorial automatically disappears and saves the completion status, so it will not appear again.\nBeginner guidance is now supported on both iPhone and Apple Watch, while keeping the existing game layout, gameplay, and level progress unchanged.",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "• 焕新万圣节街机风格界面与 App 图标，支持主题切换。\n• 新增调皮幽灵、独眼小怪两种搬运角色，角色颜色随豆子箱变化。\n• 同色箱子也能同时放入暂存区，空位利用更灵活。\n• 放缓角色搬运速度，连续紧凑地排队出发，动画更从容。\n• 选择角色后自动保存并关闭弹框，继续当前游戏，无需再次确认。",
+      "releaseNotes": "新增新手操作指引，动态手指图标指向颜色箱，帮助玩家快速上手。\n首次成功放入箱子后，指引自动消失并保存完成状态，后续进入不再重复提示。\niPhone 与 Apple Watch 同步支持新手指引，保持原有游戏布局、玩法与关卡进度不变",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "Bohnenmeister - Watch-Spiel",
       "description": "Bohnenmeister ist ein Gelegenheitspuzzlespiel für iPhone und Apple Watch.\nBeobachte die Anordnung der Bohnen in jedem Level und erreiche das Ziel mit einfacher, intuitiver Steuerung. Jedes Level hat einen anderen Aufbau, daher musst du genau hinsehen und die passende Lösung finden.\nSpielfunktionen: • Unterstützt iPhone und Apple Watch • 100 unterhaltsame Level in der Apple-Watch-Version • Einfache, leicht verständliche Steuerung • Kurze Level, ideal für zwischendurch • Keine Registrierung oder Anmeldung erforderlich • Klare und übersichtliche Benutzeroberfläche\nOb in der Pause oder unterwegs: Öffne Bohnenmeister jederzeit und genieße entspannte, unterhaltsame Puzzle-Herausforderungen.",
-      "releaseNotes": "• Neuer Halloween-Arcade-Look, neues App-Symbol und wechselbare Designs.\n• Wähle zwischen dem verspielten Geist und dem kleinen Zyklopen. Jeder Helfer übernimmt die Farbe seiner Perlenbox.\n• Lege mehrere gleichfarbige Boxen im Zwischenlager ab, solange Platz frei ist.\n• Die Helfer bewegen sich jetzt langsamer und starten mit kurzem Abstand nacheinander.\n• Deine Figurenwahl wird sofort gespeichert und das Auswahlfenster automatisch geschlossen. Spiele ohne zusätzliche Bestätigung weiter.",
+      "releaseNotes": "Eine Einsteigerhilfe mit einem animierten Fingersymbol wurde hinzugefügt, das auf die Farbbox zeigt und den Einstieg erleichtert.\nNach dem ersten erfolgreichen Platzieren in der Box verschwindet die Anleitung automatisch und speichert den Abschlussstatus, sodass sie später nicht erneut angezeigt wird.\nDie Einsteigerhilfe wird sowohl auf dem iPhone als auch auf der Apple Watch unterstützt, während das bestehende Spiellayout, Gameplay und der Level-Fortschritt unverändert bleiben.",
       "trackViewUrl": "https://apps.apple.com/de/app/bohnenmeister-watch-spiel/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/eb/cd/e3ebcd4c-593c-f403-1c95-135744b266cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ac/4e/e8ac4e0f-5b1b-1750-0d44-d569fa353e35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27409408",
+  "fileSizeBytes": "27446272",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.1",
-  "currentVersionReleaseDate": "2026-09-17T22:35:39Z",
+  "version": "2.2",
+  "currentVersionReleaseDate": "2026-09-18T18:18:41Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -373,8 +373,13 @@
       "version": "2.1",
       "releaseNotes": "Discover a refreshed Halloween arcade look, a new app icon, and switchable themes.\n• Choose between the Playful Ghost and the Little Cyclops. Each helper matches the color of its bead box.\n• Place multiple boxes of the same color in the holding area whenever space is available.\n• Enjoy slower carrying animations, with helpers setting off one after another in a closely spaced line.\n• Character selections are saved instantly. The panel closes automatically so you can continue playing without an extra confirmation.",
       "seenAt": "2026-09-17T22:35:39Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Added a beginner tutorial with an animated finger icon pointing to the color box to help players get started quickly.\nAfter the first successful placement into the box, the tutorial automatically disappears and saves the completion status, so it will not appear again.\nBeginner guidance is now supported on both iPhone and Apple Watch, while keeping the existing game layout, gameplay, and level progress unchanged.",
+      "seenAt": "2026-09-18T18:18:41Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:11:19.362Z",
+  "updatedAt": "2026-09-19T10:53:49.729Z",
   "isOwnApp": false
 }
