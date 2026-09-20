@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Puzzle",
-        "Board",
-        "Entertainment"
+        "Entertainment",
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "ゲーム",
         "パズル",
-        "ボード",
-        "エンターテインメント"
+        "エンターテインメント",
+        "ボード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/38/2e/ca382eed-2d63-f92e-258a-095756200795/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/34/3d/9f343df4-9f94-b007-4b79-d9b3836216a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77778,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "66546688",
+  "fileSizeBytes": "65343488",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.5.3",
-  "currentVersionReleaseDate": "2026-09-14T17:55:09Z",
+  "version": "2.5.4",
+  "currentVersionReleaseDate": "2026-09-19T14:26:50Z",
   "releaseDate": "2022-11-30T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -390,8 +390,13 @@
       "version": "2.5.3",
       "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "seenAt": "2026-09-14T17:55:09Z"
+    },
+    {
+      "version": "2.5.4",
+      "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "seenAt": "2026-09-19T14:26:50Z"
     }
   ],
-  "updatedAt": "2026-09-19T10:50:17.870Z",
+  "updatedAt": "2026-09-20T11:15:04.258Z",
   "isOwnApp": false
 }

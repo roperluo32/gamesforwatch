@@ -7,7 +7,7 @@
     "en": {
       "trackName": "NeonFlip: Board Game",
       "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels - which one is yours?",
-      "releaseNotes": "Added two players mode.",
+      "releaseNotes": "Supports landscape mode.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "NeonFlip: Board Game",
       "description": "未来的なネオンシティでリバーシをプレイしよう！\nApple Watch、iPhone、iPad、Macに対応。\n\n1人プレイまたは2人プレイ、3段階の難易度設定。あなたにぴったりの難易度はどれ？",
-      "releaseNotes": "2人プレイモードを追加しました。",
+      "releaseNotes": "横向きモードに対応しています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "NeonFlip: Board Game",
       "description": "Spiele Reversi... in einer futuristischen Neonstadt! \nFunktioniert auf Apple Watch, iPhone, iPad und Mac.\n\nEinzel- oder Zweispielermodus, 3 Schwierigkeitsgrade – welcher ist deiner?",
-      "releaseNotes": "Zwei-Spieler-Modus hinzugefügt.",
+      "releaseNotes": "Unterstützt den Querformat-Modus.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/2e/1c/412e1c00-1c50-2e19-2b86-3d6e05b4b38f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5b/46/1f5b460d-68fb-51fc-7082-9ee4549e72e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "10814464",
+  "fileSizeBytes": "11056128",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "17.0",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2026-05-21T00:25:53Z",
+  "minimumOsVersion": "18.0",
+  "version": "2.1",
+  "currentVersionReleaseDate": "2026-09-18T14:57:06Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -273,6 +273,6 @@
       "seenAt": "2026-09-18T14:57:06Z"
     }
   ],
-  "updatedAt": "2026-09-19T11:25:56.746Z",
+  "updatedAt": "2026-09-20T11:39:30.209Z",
   "isOwnApp": false
 }

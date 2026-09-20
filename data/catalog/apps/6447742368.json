@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Place Guesser: World Map Quiz",
       "description": "You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\n\nEmbark on a thrilling global adventure with our immersive travel game!\n\nExplore the world like never before with our two exciting game modes: Quick Play and Country Streak.\nIn Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360° panorama look around view images.\n\nWant to challenge your geographical knowledge even further?\nDive into Country Streak and guess the correct country based on stunning street view scenes. \nImmerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.\n\nReady to become a world-class explorer? Download our app now and embark on a thrilling journey of discovery!\n\n------------------------------------------------------------\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Bug fixes and performance improvements",
+      "releaseNotes": "Improved onboarding experience: getting started is now simpler and more intuitive. We’ve streamlined the onboarding flow to help new users understand the product, discover key features, and get up and running faster.",
       "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-world-map-quiz/id6447742368?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -33,7 +33,7 @@
     "ja": {
       "trackName": "Place Guesser: 世界地図クイズ",
       "description": "あなたは世界のどこかに突然降ろされ、手がかりを探して自分の現在地を世界地図上で当てなければなりません。\n\n没入感たっぷりのトラベルゲームで、スリリングな世界の冒険へ出かけましょう！\n\n「クイックプレイ」と「カントリーストリーク」の2つのエキサイティングなゲームモードで、これまでにない形で世界を探索できます。\nクイックプレイでは、観察力を試しながら制限時間内に360°パノラマ画像を手がかりに現在地を当ててみましょう。\n\nさらに地理の知識を試したいですか？\nカントリーストリークでは、美しいストリートビューの風景から正しい国を当てていきます。\n世界中の絶景や有名なランドマーク、活気ある街並みに没入しながら楽しめます。カジュアルな探検家も、経験豊富な旅人も、このアプリの中毒性のあるゲームプレイと魅力的なビジュアルに夢中になること間違いなしです。\n\n世界クラスの探検家になる準備はできましたか？今すぐアプリをダウンロードして、ワクワクする発見の旅に出かけましょう！\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー：https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "バグ修正とパフォーマンス改善。新しい場所が近日公開！",
+      "releaseNotes": "オンボーディング体験を改善：よりシンプルで直感的に始められるようになりました。オンボーディングの流れを見直し、新しいユーザーがプロダクトを理解し、主要な機能を見つけ、より早く使い始められるようにしました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/place-guesser-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%82%AF%E3%82%A4%E3%82%BA/id6447742368?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -59,7 +59,7 @@
     "de": {
       "trackName": "Place Guesser: Weltkarten-Quiz",
       "description": "Du wirst irgendwo auf der Welt abgesetzt und musst Hinweise finden, um deinen Standort auf der Weltkarte zu erraten.\n\nBegib dich auf ein spannendes, weltweites Abenteuer mit unserem immersiven Reisespiel!\n\nEntdecke die Welt wie nie zuvor mit unseren zwei aufregenden Spielmodi: Schnellspiel und Länder-Serie.\nIm Schnellspiel stellst du deine Beobachtungsgabe unter Beweis und trittst gegen die Zeit an, um anhand faszinierender 360°-Panorama-Ansichten deinen Standort zu erraten.\n\nMöchtest du dein geografisches Wissen noch weiter herausfordern?\nTauche ein in die Länder-Serie und errate das richtige Land anhand beeindruckender Street-View-Szenen.\nLass dich von atemberaubenden Landschaften, ikonischen Wahrzeichen und lebendigen Stadtstraßen aus aller Welt mitreißen. Egal, ob du ein gelegentlicher Entdecker oder ein erfahrener Globetrotter bist – unsere App fesselt dich mit süchtig machendem Gameplay und faszinierenden Bildern.\n\nBereit, ein Weltklasse-Entdecker zu werden? Lade unsere App jetzt herunter und begib dich auf eine spannende Entdeckungsreise!\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nDatenschutzerklärung: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen",
+      "releaseNotes": "Verbessertes Onboarding: Der Einstieg ist jetzt einfacher und intuitiver. Wir haben den Onboarding-Prozess optimiert, damit neue Nutzer das Produkt schneller verstehen, wichtige Funktionen entdecken und schneller loslegen können.",
       "trackViewUrl": "https://apps.apple.com/de/app/place-guesser-weltkarten-quiz/id6447742368?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -83,15 +83,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/9c/b8/b79cb858-1412-8f15-55ce-d688da1f39ab/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.68103,
-  "userRatingCount": 348,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/1b/60/991b6070-cfce-3e2d-c392-9f0b80c1df83/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.68286,
+  "userRatingCount": 350,
   "price": 0,
-  "fileSizeBytes": "86635520",
+  "fileSizeBytes": "86844416",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.6",
-  "version": "1.61.0",
-  "currentVersionReleaseDate": "2026-09-18T14:52:56Z",
+  "version": "1.61.1",
+  "currentVersionReleaseDate": "2026-09-19T14:29:42Z",
   "releaseDate": "2023-04-15T07:00:00Z",
   "artistId": 1701006912,
   "artistName": "Mobivalley",
@@ -431,8 +431,13 @@
       "version": "1.61.0",
       "releaseNotes": "Bug fixes and performance improvements",
       "seenAt": "2026-09-18T14:52:56Z"
+    },
+    {
+      "version": "1.61.1",
+      "releaseNotes": "Improved onboarding experience: getting started is now simpler and more intuitive. We’ve streamlined the onboarding flow to help new users understand the product, discover key features, and get up and running faster.",
+      "seenAt": "2026-09-19T14:29:42Z"
     }
   ],
-  "updatedAt": "2026-09-19T11:23:14.817Z",
+  "updatedAt": "2026-09-20T11:40:36.419Z",
   "isOwnApp": false
 }

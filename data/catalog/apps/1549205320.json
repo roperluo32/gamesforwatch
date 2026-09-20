@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Alien Breakout",
       "description": "Alien Breakout - A familiar classic with a twist!\nBattle against aliens by sliding the shield. The aliens will fire back!\nAvailable on Apple Watch, iPhone and iPad.\n\nControl the shield with digital crown or touch screen. \n3 types of powerup and difficulty levels.\n\nINSTALLATION\n• Once downloaded to your iPhone, game icon will automatically appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for the game icon, make sure “Show App on Apple Watch” is toggled on.",
-      "releaseNotes": "Improve design.",
+      "releaseNotes": "Supports landscape mode.",
       "trackViewUrl": "https://apps.apple.com/us/app/alien-breakout/id1549205320?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "Alien Breakout",
       "description": "エイリアンブレイクアウト ― お馴染みの名作に新たなひねりを加えた！\nシールドをスライドさせてエイリアンと戦おう。エイリアンも反撃してくるぞ！\nApple Watch、iPhone、iPadでプレイ可能。\n\nデジタルクラウンまたはタッチスクリーンでシールドを操作。\n3種類のパワーアップアイテムと難易度レベルを用意。",
-      "releaseNotes": "デザインを改善する。",
+      "releaseNotes": "横向きモードに対応しています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/alien-breakout/id1549205320?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "Alien Breakout",
       "description": "Alien Breakout - A familiar classic with a twist!\nBattle against aliens by sliding the shield. The aliens will fire back!\nAvailable on Apple Watch, iPhone and iPad.\n\nControl the shield with digital crown or touch screen. \n3 types of powerup and difficulty levels.\n\nINSTALLATION\n• Once downloaded to your iPhone, game icon will automatically appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for the game icon, make sure “Show App on Apple Watch” is toggled on.",
-      "releaseNotes": "Improve design.",
+      "releaseNotes": "Supports landscape mode.",
       "trackViewUrl": "https://apps.apple.com/de/app/alien-breakout/id1549205320?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3b/77/5e3b777a-443a-1866-8293-00c93bad9558/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/33/11/8a33116a-6d71-2b4a-fbcc-1ba99544a934/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
   "fileSizeBytes": "19566592",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "4.0",
-  "currentVersionReleaseDate": "2026-09-16T13:35:17Z",
+  "version": "4.1",
+  "currentVersionReleaseDate": "2026-09-19T14:27:14Z",
   "releaseDate": "2021-01-19T08:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -375,8 +375,13 @@
       "version": "4.0",
       "releaseNotes": "Improve design.",
       "seenAt": "2026-09-16T13:35:17Z"
+    },
+    {
+      "version": "4.1",
+      "releaseNotes": "Supports landscape mode.",
+      "seenAt": "2026-09-19T14:27:14Z"
     }
   ],
-  "updatedAt": "2026-09-19T11:04:24.505Z",
+  "updatedAt": "2026-09-20T11:28:36.071Z",
   "isOwnApp": false
 }

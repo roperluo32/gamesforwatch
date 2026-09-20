@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Tangram Puzzle - Kids & Brain",
-      "description": "The classic game: Shape Puzzle — now on iPhone & Apple Watch.\n - Drag the pieces, fill the shape, no overlaps. Simple rules, endless challenge.\n - Perfect for kids building spatial skills and adults looking for a mindful brain workout.\n - 100+ levels -> easy to expert\n - No timer, no pressure\n - Syncs across iPhone & Apple Watch\n - Safe for all ages\nDownload free and place your first piece in seconds.",
-      "releaseNotes": "- Optimized for new OS.",
+      "description": "The classic game: Shape Puzzle — now on iPhone & Apple Watch.\n - Drag the pieces, fill the shape, no overlaps. Simple rules, endless challenge.\n - Perfect for kids building spatial skills and adults looking for a mindful brain workout.\n - 1000+ levels -> easy to expert\n - No timer, no pressure\nDownload free and place your first piece in seconds.",
+      "releaseNotes": "- Improved graphics, animations, and visual polish throughout the game.\n  - Added Shape Lab, a creative mode where you can explore tangram puzzles and name your own creations.",
       "trackViewUrl": "https://apps.apple.com/us/app/tangram-puzzle-kids-brain/id6443597289?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -24,8 +24,8 @@
     },
     "zh": {
       "trackName": "Tangram Puzzle - Kids & Brain",
-      "description": "The classic game: Shape Puzzle — now on iPhone & Apple Watch.\n - Drag the pieces, fill the shape, no overlaps. Simple rules, endless challenge.\n - Perfect for kids building spatial skills and adults looking for a mindful brain workout.\n - 100+ levels -> easy to expert\n - No timer, no pressure\n - Syncs across iPhone & Apple Watch\n - Safe for all ages\nDownload free and place your first piece in seconds.",
-      "releaseNotes": "- Optimized for new OS.",
+      "description": "The classic game: Shape Puzzle — now on iPhone & Apple Watch.\n - Drag the pieces, fill the shape, no overlaps. Simple rules, endless challenge.\n - Perfect for kids building spatial skills and adults looking for a mindful brain workout.\n - 1000+ levels -> easy to expert\n - No timer, no pressure\nDownload free and place your first piece in seconds.",
+      "releaseNotes": "- Improved graphics, animations, and visual polish throughout the game.\n  - Added Shape Lab, a creative mode where you can explore tangram puzzles and name your own creations.",
       "trackViewUrl": "https://apps.apple.com/cn/app/tangram-puzzle-kids-brain/id6443597289?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -78,8 +78,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/77/c4/e377c40f-ce4d-8626-4b7e-c41943db3b76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.25,
-  "userRatingCount": 16,
+  "averageUserRating": 4.29412,
+  "userRatingCount": 17,
   "price": 0,
   "fileSizeBytes": "39587840",
   "contentAdvisoryRating": "4+",
@@ -431,6 +431,6 @@
       "seenAt": "2026-09-18T14:55:02Z"
     }
   ],
-  "updatedAt": "2026-09-19T10:51:11.474Z",
+  "updatedAt": "2026-09-20T11:16:12.528Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Trivia Game",
       "description": "Test your knowledge right from your wrist! Watch Trivia brings fast and fun trivia questions directly to your Apple Watch — no phone needed.\nAnswer questions across a variety of topics, race against the clock, and challenge yourself to beat your high score. Each game is a new shuffle, so no two rounds feel the same.\n\nHOW TO PLAY\nEach question comes with two answer choices. Tap the correct answer before time runs out. One wrong answer or timeout ends your game — stay sharp and keep your streak alive!\n\nFEATURES\nQuick trivia sessions designed for Apple Watch\n20 seconds to answer each question\nTwo choices per question for fast gameplay\nHigh score tracking to keep you motivated\nInstant visual feedback on every answer\nNew question order every game\n\nPERFECT FOR\nCommuters looking to make the most of downtime\nTrivia lovers who want a quick daily brain challenge\nAnyone who wants a fun and lightweight watch game",
-      "releaseNotes": "Bug fixes.",
+      "releaseNotes": "Performance improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-trivia-game/id6762278594?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Alper Vural",
@@ -237,6 +237,6 @@
       "seenAt": "2026-09-18T14:54:24Z"
     }
   ],
-  "updatedAt": "2026-09-19T11:25:53.028Z",
+  "updatedAt": "2026-09-20T11:40:44.392Z",
   "isOwnApp": false
 }
