@@ -1,0 +1,328 @@
+{
+  "trackId": "6502221824",
+  "bundleId": "com.tiller.WidgetEgg",
+  "slug": "widgetegg",
+  "path": "/apps/6502221824-widgetegg/",
+  "locales": {
+    "en": {
+      "trackName": "WidgetEgg",
+      "description": "View your Egg, Inc.¹ stats at a glance!\n- Check active and fueling missions on home and virtue farms\n- Get notified when you've forgotten to hit launch\n- View your contracts' stats and goals\n- Get an overview of your own profile and stats\n\n[1]WidgetEgg is an independent app and is not affiliated with or endorsed by Auxbrain, Inc. All trademarks, service marks, and logos pertaining to Egg, Inc are the exclusive property of Auxbrain, Inc.",
+      "releaseNotes": "- Added Contract widgets!\n- Added Colleggtible support!\n- Resolved recent API issue.\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Notification bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/widgetegg/id6502221824?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Tyler Smith",
+      "genres": [
+        "Games",
+        "Utilities"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Track your ships with widgets!"
+    },
+    "zh": {
+      "trackName": "WidgetEgg",
+      "description": "View your Egg, Inc.¹ stats at a glance!\n- Check active and fueling missions on home and virtue farms\n- Get notified when you've forgotten to hit launch\n- View your contracts' stats and goals\n- Get an overview of your own profile and stats\n\n[1]WidgetEgg is an independent app and is not affiliated with or endorsed by Auxbrain, Inc. All trademarks, service marks, and logos pertaining to Egg, Inc are the exclusive property of Auxbrain, Inc.",
+      "releaseNotes": "- Added Contract widgets!\n- Added Colleggtible support!\n- Resolved recent API issue.\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Notification bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/widgetegg/id6502221824?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Tyler Smith",
+      "genres": [
+        "游戏",
+        "工具"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "WidgetEgg",
+      "description": "View your Egg, Inc.¹ stats at a glance!\n- Check active and fueling missions on home and virtue farms\n- Get notified when you've forgotten to hit launch\n- View your contracts' stats and goals\n- Get an overview of your own profile and stats\n\n[1]WidgetEgg is an independent app and is not affiliated with or endorsed by Auxbrain, Inc. All trademarks, service marks, and logos pertaining to Egg, Inc are the exclusive property of Auxbrain, Inc.",
+      "releaseNotes": "- Added Contract widgets!\n- Added Colleggtible support!\n- Resolved recent API issue.\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Notification bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/widgetegg/id6502221824?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Tyler Smith",
+      "genres": [
+        "ゲーム",
+        "ユーティリティ"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "WidgetEgg",
+      "description": "View your Egg, Inc.¹ stats at a glance!\n- Check active and fueling missions on home and virtue farms\n- Get notified when you've forgotten to hit launch\n- View your contracts' stats and goals\n- Get an overview of your own profile and stats\n\n[1]WidgetEgg is an independent app and is not affiliated with or endorsed by Auxbrain, Inc. All trademarks, service marks, and logos pertaining to Egg, Inc are the exclusive property of Auxbrain, Inc.",
+      "releaseNotes": "- Added Contract widgets!\n- Added Colleggtible support!\n- Resolved recent API issue.\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Notification bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/de/app/widgetegg/id6502221824?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Tyler Smith",
+      "genres": [
+        "Spiele",
+        "Dienst­programme"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/04/1e/11041efa-9186-c309-815c-338586d20713/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "121310208",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "16.0",
+  "version": "3.0.3",
+  "currentVersionReleaseDate": "2026-05-26T18:17:18Z",
+  "releaseDate": "2024-05-04T07:00:00Z",
+  "artistId": 1724893086,
+  "artistName": "Tyler Smith",
+  "artistViewUrl": "https://apps.apple.com/de/developer/tyler-smith/id1724893086?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/32/22/723222e1-0d35-d4b1-ba04-988ba7cbd77f/0ea90fdd-e9b5-4881-8b5b-41d73fecf705_Frame_5.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/13/a4/ae13a4cb-e97d-e345-e0a9-364e3d9c25b7/363f97d2-a33b-431e-b73e-f3b45cc2a131_Frame_9.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/49/74/62497419-1247-8584-237b-63b5569cf62f/5a693db4-11e2-450e-934b-fd12092eb58a_Frame_6.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/3f/fe/ef3ffe26-4046-145d-00de-140525c9b4b6/1c8dd848-c330-432f-8508-9ef622e9cbbe_Frame_5.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/5a/22/b85a22bb-fa0b-b818-579f-e9139d6210da/1dc023a2-d302-40f1-a247-96a2fd88252a_Frame_9.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/63/af/0963af64-3ab0-cd8f-2ae4-704e5d6eda68/12496817-deb5-4837-b45c-b8c01841a9a3_Frame_6.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/39/2c/04392c44-9e14-ba9b-a399-79a795bd6669/5284b0c5-8244-4af3-a61c-fa1573b8c548_Frame_3.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/b1/fa/e9b1faf2-affe-3d9b-e9c4-9919bbe18f7f/a91460f3-1265-4eaa-8699-f7ea97231ec6_Frame_8.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/00/5a/ea005af9-ad7c-8748-deed-a7b986c0849e/eee64b5c-9598-48b7-8e6f-bd3bd45090eb_Frame_4.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/d1/7a/38d17adb-338d-76de-1c64-f603f2a711d2/3c5d334f-ab8f-4cb6-9a45-31e7b1a438eb_Frame_1.jpg/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ee/19/f9ee19f5-b296-d70f-db76-529ce13ab788/cefd34f5-8550-4615-9f57-eea72bbd5cf8_Frame_7.jpg/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/12/3f/e5123fc0-4c16-ec87-13c3-79b62ca85448/3a0c4830-261c-48e0-a822-9e4b993c57dc_Frame_2.jpg/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/39/2c/04392c44-9e14-ba9b-a399-79a795bd6669/5284b0c5-8244-4af3-a61c-fa1573b8c548_Frame_3.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/b1/fa/e9b1faf2-affe-3d9b-e9c4-9919bbe18f7f/a91460f3-1265-4eaa-8699-f7ea97231ec6_Frame_8.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/00/5a/ea005af9-ad7c-8748-deed-a7b986c0849e/eee64b5c-9598-48b7-8e6f-bd3bd45090eb_Frame_4.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/32/22/723222e1-0d35-d4b1-ba04-988ba7cbd77f/0ea90fdd-e9b5-4881-8b5b-41d73fecf705_Frame_5.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/13/a4/ae13a4cb-e97d-e345-e0a9-364e3d9c25b7/363f97d2-a33b-431e-b73e-f3b45cc2a131_Frame_9.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/49/74/62497419-1247-8584-237b-63b5569cf62f/5a693db4-11e2-450e-934b-fd12092eb58a_Frame_6.jpg/576x768bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/a3/cb/82a3cb54-388f-4f5e-ed9b-5e1ade5bcb07/210db586-f258-4e73-83b5-1effc2b022ab_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-12_at_15.22.05.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/dd/ce/30ddce52-d323-a171-16c0-52ae2f5751ee/211905fa-c254-4f28-a6c0-b199c9c8d7bb_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-12_at_15.21.43.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/48/af/c748af05-0ff0-7084-6d16-b5c68e5bf6c3/447b67be-5253-4abf-88b8-bf18de5b89cb_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-12_at_15.21.48.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/f4/b6/73f4b6e6-845d-30a6-ac09-7affdbafbc79/bc859b39-0469-478d-831b-20ab91943631_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-12_at_15.21.38.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/81/fb/a181fb03-fc25-acf2-9dfc-bf1bf551f7b0/9f85fe7e-60c3-46a0-86ec-16ee2443f9e3_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-11_at_21.40.16.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/e1/01/17e101d1-c98d-e90d-6f0f-e9366822f826/9d822260-e479-49d8-ba9f-04baaaf518b5_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-06-11_at_21.40.21.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2024-05-05T03:17:57Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "- Added targeted artifact to mission views\n- Added option for absolute time in the medium ship widget\n- Added low-opacity duration color to fueling mission\n- Added total mission time to fueling mission\n- Fixed various visual bugs",
+      "seenAt": "2024-05-05T17:43:29Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "- Added support for iOS 15 and above\n- Added widget instructions available after signing in\n- Fixed various interface bugs with the login window",
+      "seenAt": "2024-05-07T22:37:19Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "- Added option to show fuel tank levels in medium widget (Enable this in the settings tab!)\n- Fixed various interface bugs",
+      "seenAt": "2024-05-09T06:02:28Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "Egg, Inc. redirect, Lock Screen widgets & Apple Watch app!\n- (iOS) Widgets will automatically open Egg, Inc. with the settings turned on.\n- (iOS) Added rectangular widget to show up to three active missions on lock screen.\n- (iOS) Added circular widget to show the earliest returning mission on lock screen.\n- (watchOS) Added rectangular widget to smart stack, showing up to three active missions.\n- (watchOS) Added circular and corner complications for watch faces to show the earliest returning mission.\n- Pressing the \"Sign Out\" button will bring up a confirmation dialog.",
+      "seenAt": "2024-06-13T00:07:40Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Minor Fixes\n- Added missing SIAB image",
+      "seenAt": "2024-10-15T13:03:47Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "- Updated settings menu with better descriptions.\n- Fuel tank levels are now sorted by the egg, while still showing the top four in quantity.\n- Fuel tank levels can now be scaled to the limits set in-game (optional, can be enabled in settings).\n- Contracts widget coming soon.",
+      "seenAt": "2025-05-14T01:27:47Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "- Added user info widget for profile statistics.\n- Updated settings menu with more options.\n- Contracts widget coming soon.",
+      "seenAt": "2025-05-14T05:35:20Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Changed UserInfo widget minimum iOS version to iOS 16.0.",
+      "seenAt": "2025-05-19T15:09:20Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "Notifications!\n- Get a notification when you've forgotten to launch a ship! (Optional, on by default)\n- Get a notification when your ship returns! (Optional, off by default)\nUser Stats bug fixes.",
+      "seenAt": "2025-08-05T11:12:28Z"
+    },
+    {
+      "version": "2.2.1",
+      "releaseNotes": "Notifications!\n- Get a notification when you've forgotten to launch a ship! (Optional, on by default)\n- Get a notification when your ship returns! (Optional, off by default)\n- Added small delay for ship launch reminders (2.2.1)\n",
+      "seenAt": "2025-08-06T12:01:55Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "Virtue and Contract Update!\n- Added contract widgets!\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Removed Virtue ships from the normal Mission Info widget.\n",
+      "seenAt": "2026-01-05T23:56:31Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "- Added Contract widgets!\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Minor bug fixes (3.0.1)",
+      "seenAt": "2026-01-06T17:24:28Z"
+    },
+    {
+      "version": "3.0.2",
+      "releaseNotes": "- Added Contract widgets!\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Minor bug fixes (3.0.2)\n",
+      "seenAt": "2026-02-16T00:52:27Z"
+    },
+    {
+      "version": "3.0.3",
+      "releaseNotes": "- Added Contract widgets!\n- Added Colleggtible support!\n- Resolved recent API issue.\n- Added Eggs of Truth to User Stats widget.\n- Added separate Virtue Mission Info widgets.\n- Notification bug fixes.\n",
+      "seenAt": "2026-05-26T18:17:18Z"
+    }
+  ],
+  "updatedAt": "2026-09-21T13:11:47.423Z",
+  "isOwnApp": false
+}

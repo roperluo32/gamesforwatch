@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Eat Chess: Royal Merge",
       "description": "Royal Merge is a chess merge puzzle played on a compact 4×4 board. Pick one piece, move it by simplified chess rules, and merge it with a matching piece of the same type and level. Pawns become Knights, then Bishops, Rooks, Queens, Kings, and higher-level Pawns.\n\nThe board fills fast. A quiet setup move can matter as much as the merge it opens.\n\nHOW IT PLAYS\n\nSelect a piece. Legal squares light up. Move to an empty square, merge with a match, or use Castle Swap when a same-level King and Rook line up with a clear path.\n\nEvery legal move into empty space and every Castle Swap adds a new Pawn. Pawn Spawn adds a Pawn on every second merge. Royal Reserve drops a Level 1 Pawn, Knight, Bishop, or Rook after every five successful actions. Every arrival can help, and every arrival takes space.\n\nBack-to-back merges build a combo multiplier. A move into empty space or a Castle Swap breaks the chain, so timing matters.\n\nSOLO\n\nPlay without a clock, add a Player Clock, set an Increment, or cap the run with a Turn Limit. Official Solo runs can count toward local records, Game Center leaderboards, and achievements.\n\nSolo also includes Hint. It points out possible moves, costs part of your current score, and never plays the move for you.\n\nVERSUS\n\nTwo players share one board on the same device. Player 1 starts. After each legal action, the turn passes and the board switches to the active player's chosen chess set. Pieces are shared, not owned. The active player scores only when they make a merge.\n\nVersus supports per-player clocks, Increment, a shared Game Clock, and Turn Limit. If a timed player clock hits zero, Clock Collapse keeps 20% of that player's score, resets the clock, and leaves that player on turn. The match continues.\n\nCOSMETIC OPTIONS\n\nStart with free chess sets and the Quiet Royal theme, or add optional cosmetic sets, themes, and the Royal Patron badge. Purchases do not change movement, scores, spawns, hints, timers, Castle Swap, leaderboards, or match results.\n\nAPPLE WATCH\n\nPlay Solo or Battle from the Watch app with the same 4×4 board, local save and resume, time controls, Solo undo, direct tap controls, optional Digital Crown selection, ten free board presets, and ten free piece styles. Watch play is standalone and does not require an iPhone connection.",
-      "releaseNotes": "Royal Merge now includes more Apple Watch board styles. Play Solo or Battle standalone on watchOS with the same 4×4 board, local save and resume, time controls, Solo undo, direct tap controls, optional Digital Crown selection, and ten free Watch board presets.",
+      "releaseNotes": "Version 1.2 corrects clock and Undo behavior and improves saved-game recovery. Board controls work more reliably, with clearer score displays and better support for screen readers and larger text. Player Clocks are capped at 999 minutes.",
       "trackViewUrl": "https://apps.apple.com/us/app/eat-chess-royal-merge/id6767652526?uo=4",
       "formattedPrice": "Free",
       "sellerName": "David Lew",
@@ -35,7 +35,7 @@
     "ja": {
       "trackName": "Eat Chess: Royal Merge",
       "description": "Royal Merge は、コンパクトな4×4ボードで遊ぶチェス合体パズルです。1つの駒を選び、簡略化したチェスのルールで動かし、同じ種類・同じレベルの駒と合体させます。ポーンはナイトになり、続いてビショップ、ルーク、クイーン、キング、そしてより高レベルのポーンへと進みます。\n\nボードはすぐに埋まります。静かな仕込みの一手が、それが生む合体と同じくらい重要になることもあります。\n\n遊び方\n\n駒を選ぶと合法マスが光ります。空きマスへ動かす、同じ駒と合体する、または同じレベルのキングとルークが空いた道で並んだときにキャッスル交換を使います。\n\n空きマスへの合法手とキャッスル交換のたびに、新しいポーンが1つ加わります。ポーン出現は2回の合体ごとにポーンを1つ追加します。Royal Reserve は、成功した行動5回ごとにレベル1のポーン、ナイト、ビショップ、またはルークを1つ落とします。どの登場も役立つことがあり、どの登場もスペースを取ります。\n\n連続した合体はコンボ倍率を高めます。空きマスへの移動やキャッスル交換は連鎖を断ち切るため、タイミングが重要です。\n\nソロ\n\n時計なしで遊ぶ、プレイヤー時計を追加する、加算時間を設定する、またはターン制限でプレイを区切ることができます。公式のソロプレイは、ローカル記録、Game Center のランキング、実績の対象になります。\n\nソロにはヒントもあります。可能な手を示し、現在のスコアの一部を消費しますが、代わりに手を指すことはありません。\n\n対戦\n\n2人のプレイヤーが同じ端末で1つのボードを共有します。プレイヤー1から始まります。合法な行動のたびに手番が移り、ボードはアクティブなプレイヤーが選んだチェスセットに切り替わります。駒は共有で、所有はしません。アクティブなプレイヤーは合体したときだけ得点します。\n\n対戦はプレイヤーごとの時計、加算時間、共有のゲーム時計、ターン制限に対応します。プレイヤーの時計が0になると、クロック崩壊がそのプレイヤーのスコアの20%を残し、時計をリセットし、そのプレイヤーの手番のままにします。対局は続きます。\n\n外観オプション\n\n無料のチェスセットと静かなロイヤルのテーマで始められます。任意で外観用のセット、テーマ、Royal Patron バッジを追加できます。購入しても、移動、スコア、駒の出現、ヒント、タイマー、キャッスル交換、ランキング、対局結果は変わりません。",
-      "releaseNotes": "Royal Merge に Apple Watch アプリが加わりました。watchOS で Solo または Battle を単独でプレイできます。同じ 4×4 ボード、ローカル保存と再開、時間設定、Solo の取り消し、直接タップ操作、Digital Crown での任意選択、無料のボードと駒カラーに対応しています。",
+      "releaseNotes": "バージョン1.2では、時計と「元に戻す」の動作を修正し、保存したゲームの復元を改善しました。盤面操作の安定性とスコア表示の読みやすさを向上させ、スクリーンリーダーと大きな文字への対応を改善しました。プレイヤー時計の上限は999分です。",
       "trackViewUrl": "https://apps.apple.com/jp/app/eat-chess-royal-merge/id6767652526?uo=4",
       "formattedPrice": "無料",
       "sellerName": "David Lew",
@@ -63,7 +63,7 @@
     "de": {
       "trackName": "Eat Chess: Royal Merge",
       "description": "Royal Merge ist ein Schach-Merge-Puzzle auf einem kompakten 4×4-Brett. Wähle eine Figur, bewege sie nach vereinfachten Schachregeln und füge sie mit einer passenden Figur gleichen Typs und gleicher Stufe zusammen. Aus Bauern werden Springer, dann Läufer, Türme, Damen, Könige und Bauern höherer Stufe.\n\nDas Brett füllt sich schnell. Ein ruhiger Vorbereitungszug kann genauso wichtig sein wie die Verschmelzung, die er ermöglicht.\n\nSO WIRD GESPIELT\n\nWähle eine Figur. Erlaubte Felder leuchten auf. Ziehe auf ein leeres Feld, verschmilz mit einem passenden Stück oder nutze Castle Swap, wenn ein König und ein Turm gleicher Stufe mit freiem Weg in einer Linie stehen.\n\nJeder erlaubte Zug auf ein leeres Feld und jeder Castle Swap fügt einen neuen Bauern hinzu. Pawn Spawn fügt bei jeder zweiten Verschmelzung einen Bauern hinzu. Royal Reserve lässt nach je fünf erfolgreichen Aktionen einen Bauern, Springer, Läufer oder Turm der Stufe 1 fallen. Jede Ankunft kann helfen, und jede Ankunft nimmt Platz weg.\n\nAufeinanderfolgende Verschmelzungen bauen einen Combo-Multiplikator auf. Ein Zug auf ein leeres Feld oder ein Castle Swap unterbricht die Kette – Timing zählt also.\n\nSOLO\n\nSpiele ohne Uhr, füge eine Spieleruhr hinzu, stelle einen Zuwachs ein oder begrenze die Partie mit einem Zug-Limit. Offizielle Solo-Partien können zu lokalen Rekorden, Game-Center-Bestenlisten und Erfolgen zählen.\n\nSolo enthält auch Tipp. Er weist auf mögliche Züge hin, kostet einen Teil deiner aktuellen Punktzahl und macht den Zug nie für dich.\n\nVERSUS\n\nZwei Spieler teilen sich ein Brett auf demselben Gerät. Spieler 1 beginnt. Nach jeder erlaubten Aktion wechselt der Zug und das Brett wechselt zum gewählten Schachset des aktiven Spielers. Figuren sind geteilt, nicht im Besitz. Der aktive Spieler punktet nur, wenn er eine Verschmelzung macht.\n\nVersus unterstützt Uhren pro Spieler, Zuwachs, eine gemeinsame Spieluhr und ein Zug-Limit. Erreicht eine getaktete Spieleruhr null, behält Clock Collapse 20 % der Punktzahl dieses Spielers, setzt die Uhr zurück und lässt diesen Spieler am Zug. Die Partie geht weiter.\n\nKOSMETISCHE OPTIONEN\n\nStarte mit kostenlosen Schachsets und dem Thema Quiet Royal oder füge optionale kosmetische Sets, Themes und das Royal-Patron-Abzeichen hinzu. Käufe ändern nichts an Bewegung, Punkten, Erzeugungen, Tipps, Timern, Castle Swap, Bestenlisten oder Partieergebnissen.",
-      "releaseNotes": "Royal Merge enthält jetzt eine Apple Watch App. Spiele Solo oder Battle eigenständig auf watchOS mit demselben 4×4-Brett, lokalem Speichern und Fortsetzen, Zeitsteuerung, Rückgängig in Solo, direkter Tippsteuerung, optionaler Auswahl über die Digital Crown und kostenlosen Brett- und Figurenfarben.",
+      "releaseNotes": "Version 1.2 korrigiert das Verhalten der Uhren und der Rückgängig-Funktion und verbessert die Wiederherstellung gespeicherter Spiele. Die Brettsteuerung ist zuverlässiger und die Punkteanzeige übersichtlicher. Screenreader und größere Schrift werden besser unterstützt. Spieleruhren sind auf 999 Minuten begrenzt.",
       "trackViewUrl": "https://apps.apple.com/de/app/eat-chess-royal-merge/id6767652526?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "David Lew",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/e0/8f/cce08fcd-c8db-c929-4fb4-e672cd144f4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/39/af/fd39af5d-256d-9159-9aa7-d06e18e91a5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "49566720",
+  "fileSizeBytes": "51094528",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.0.9",
-  "currentVersionReleaseDate": "2026-06-19T16:00:58Z",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-09-20T22:18:43Z",
   "releaseDate": "2026-05-13T07:00:00Z",
   "artistId": 1890623920,
   "artistName": "David Lew",
@@ -332,8 +332,13 @@
       "version": "1.0.9",
       "releaseNotes": "Royal Merge now includes more Apple Watch board styles. Play Solo or Battle standalone on watchOS with the same 4×4 board, local save and resume, time controls, Solo undo, direct tap controls, optional Digital Crown selection, and ten free Watch board presets.",
       "seenAt": "2026-06-19T16:00:58Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Version 1.2 corrects clock and Undo behavior and improves saved-game recovery. Board controls work more reliably, with clearer score displays and better support for screen readers and larger text. Player Clocks are capped at 999 minutes.",
+      "seenAt": "2026-09-20T22:18:43Z"
     }
   ],
-  "updatedAt": "2026-09-20T11:49:46.553Z",
+  "updatedAt": "2026-09-21T13:16:38.028Z",
   "isOwnApp": false
 }

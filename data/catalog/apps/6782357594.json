@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
+      "releaseNotes": "Elderblade\nPrepared new dungeon: The shattered realms\n\nSki Rush\nStabilized realtime matchmaking.\n\nQuiet Cast\nImproved initial loading time.",
       "trackViewUrl": "https://apps.apple.com/us/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
+      "releaseNotes": "Elderblade\nPrepared new dungeon: The shattered realms\n\nSki Rush\nStabilized realtime matchmaking.\n\nQuiet Cast\nImproved initial loading time.",
       "trackViewUrl": "https://apps.apple.com/jp/app/pankora/id6782357594?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Catalin Berta",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
+      "releaseNotes": "Elderblade\nPrepared new dungeon: The shattered realms\n\nSki Rush\nStabilized realtime matchmaking.\n\nQuiet Cast\nImproved initial loading time.",
       "trackViewUrl": "https://apps.apple.com/de/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Catalin Berta",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/a9/28/22a928aa-efbe-10f3-1339-de352d7bac3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/6e/71/206e710c-040b-6c08-5a42-0e941f092022/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "116608000",
+  "fileSizeBytes": "121232384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "5.2",
-  "currentVersionReleaseDate": "2026-09-19T04:30:29Z",
+  "version": "5.3",
+  "currentVersionReleaseDate": "2026-09-20T22:22:35Z",
   "releaseDate": "2026-06-30T07:00:00Z",
   "artistId": 1592833249,
   "artistName": "Catalin Berta",
@@ -406,8 +406,13 @@
       "version": "5.2",
       "releaseNotes": "Pankora\nAdded global contact option.\nImproved game loading.\nAnnounced deprecation for older Apple Watch models.\n\nElderblade\nReduced loading time.\n\nSki Rush\nPrepared new cosmetics for release.\n\nQuiet Cast\nNew cosmetics tier: Legendary.\nBalance catch rewards.",
       "seenAt": "2026-09-19T04:30:29Z"
+    },
+    {
+      "version": "5.3",
+      "releaseNotes": "Elderblade\nPrepared new dungeon: The shattered realms\n\nSki Rush\nStabilized realtime matchmaking.\n\nQuiet Cast\nImproved initial loading time.",
+      "seenAt": "2026-09-20T22:22:35Z"
     }
   ],
-  "updatedAt": "2026-09-20T11:46:49.608Z",
+  "updatedAt": "2026-09-21T12:54:57.484Z",
   "isOwnApp": false
 }
