@@ -1,0 +1,398 @@
+{
+  "trackId": "1580269211",
+  "bundleId": "com.NUTSWorks.SocialGameTimer",
+  "slug": "mobilegametimer",
+  "path": "/apps/1580269211-mobilegametimer/",
+  "locales": {
+    "en": {
+      "trackName": "MobileGameTimer",
+      "description": "It is an application that efficiently manages the stamina of social games.\nThis app has the following features:\n\n- Multiple game management function\n  You can register multiple games for which you want to manage your stamina.\n- Notification function when the stamina is full or set value\n  Local notification is sent when the stamina is full or when the stamina is set value. Notification settings can be made from the OS Settings app.\n- Widget support\n  You can display the stamina of one game in the regular version and four games in the full version in the widget.\n  The initials of each game, current stamina, maximum stamina, approximate time to fill, and gauge graph are displayed, so if you place the widget on the home screen, lock screen and Apple Watch, you can check the recovery status of stamina without opening the game.\n- Apple Watch compatible(watchOS9 or later)\n  You can check your game status in the Apple Watch app. Place a complication on your watch face to see your stamina recovery at any time.",
+      "releaseNotes": "- Design update \n- Internal operation improvement",
+      "trackViewUrl": "https://apps.apple.com/us/app/mobilegametimer/id1580269211?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Nagisa Kasuga",
+      "genres": [
+        "Utilities"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": "manage the stamina of games"
+    },
+    "zh": {
+      "trackName": "手机游戏计时器",
+      "description": "它是一种有效管理社交游戏耐力的应用程序。\n此应用程序具有以下功能：\n\n● 多种游戏管理功能\n您可以注册多个游戏来管理您的体力。\n● 体力满或有体力时的通知功能\n体力满时和体力设定值时发送本地通知。可以从操作系统设置应用程序进行通知设置。\n● 小工具支持\n您可以在小部件中显示普通版中的一款游戏和完整版中的四款游戏的耐力。\n显示每场比赛的首字母、当前体力、最大体力和仪表图，大概填满时间，因此如果您将小部件放在主屏幕或锁定屏幕上，您可以在不打开游戏的情况下检查体力的恢复状态。\n● 兼容 Apple Watch（watchOS9 或更高版本）\n您可以在 Apple Watch 应用中查看您的游戏状态。在您的表盘上放置一个复杂功能，以随时查看您的体力恢复情况。",
+      "releaseNotes": "・更新设计 \n・改善内部动作",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F%E8%AE%A1%E6%97%B6%E5%99%A8/id1580269211?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Nagisa Kasuga",
+      "genres": [
+        "工具"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "ソーシャルゲームタイマー スタミナを効率よく管理!",
+      "description": "ソーシャルゲームのスタミナを効率的に管理するAppです。\nこのAppには、次の機能があります。\n\n●複数ゲームの管理機能\nスタミナを管理したいゲームを複数登録することができます。\n●満タン時・任意のスタミナ時の通知機能\nスタミナが満タンになった時と、任意に設定したスタミナになった時に、ローカル通知を行います。通知の設定は、OSの設定Appから行えます。\n●ウィジェット対応\nウィジェットに、通常版では1つ、完全版では4つのゲームのスタミナを表示できます。\n各ゲームの頭文字、現在のスタミナ、最大スタミナ、満タンまでのおよその時間、ゲージグラフが表示されるので、ウィジェットをホーム画面やロック画面に配置すれば、ゲームを開かなくてもスタミナの回復状況を確認することができます。\n●Apple Watch対応(watchOS9以降)\nApple WatchのAppでゲームのステータスを確認できます。コンプリケーションを文字盤に配置すれば、いつでもスタミナの回復状況を確認することができます。",
+      "releaseNotes": "・デザインを更新しました。\n・内部動作を改善しました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%82%B9%E3%82%BF%E3%83%9F%E3%83%8A%E3%82%92%E5%8A%B9%E7%8E%87%E3%82%88%E3%81%8F%E7%AE%A1%E7%90%86/id1580269211?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Nagisa Kasuga",
+      "genres": [
+        "ユーティリティ"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "ソーシャルゲームタイマー スタミナを効率よく管理!",
+      "description": "ソーシャルゲームのスタミナを効率的に管理するAppです。\nこのAppには、次の機能があります。\n\n●複数ゲームの管理機能\nスタミナを管理したいゲームを複数登録することができます。\n●満タン時・任意のスタミナ時の通知機能\nスタミナが満タンになった時と、任意に設定したスタミナになった時に、ローカル通知を行います。通知の設定は、OSの設定Appから行えます。\n●ウィジェット対応\nウィジェットに、通常版では1つ、完全版では4つのゲームのスタミナを表示できます。\n各ゲームの頭文字、現在のスタミナ、最大スタミナ、満タンまでのおよその時間、ゲージグラフが表示されるので、ウィジェットをホーム画面やロック画面に配置すれば、ゲームを開かなくてもスタミナの回復状況を確認することができます。\n●Apple Watch対応(watchOS9以降)\nApple WatchのAppでゲームのステータスを確認できます。コンプリケーションを文字盤に配置すれば、いつでもスタミナの回復状況を確認することができます。",
+      "releaseNotes": "・デザインを更新しました。\n・内部動作を改善しました。",
+      "trackViewUrl": "https://apps.apple.com/de/app/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%82%B9%E3%82%BF%E3%83%9F%E3%83%8A%E3%82%92%E5%8A%B9%E7%8E%87%E3%82%88%E3%81%8F%E7%AE%A1%E7%90%86/id1580269211?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Nagisa Kasuga",
+      "genres": [
+        "Dienst­programme"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/67/df/ca67dfa7-4645-462d-147f-242c15420c73/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "29855744",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "17.0",
+  "version": "3.0.0",
+  "currentVersionReleaseDate": "2026-06-01T16:00:38Z",
+  "releaseDate": "2021-09-01T07:00:00Z",
+  "artistId": 1580269213,
+  "artistName": "CHEER UP",
+  "artistViewUrl": "https://apps.apple.com/de/developer/cheer-up/id1580269213?uo=4",
+  "sellerUrl": "http://www.cheerupworks.com/",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/94/e4/9d94e49d-32be-c291-97fb-38e40f16f5bf/a8e760b5-e661-4cf0-9e96-0c02888b0221_iPadPro.001.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/10/9a/cd109a03-8472-4c6e-22ed-0661ca9ce059/f1855f4a-6fc1-4971-81b2-8c52c6077145_iPadPro.002.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/20/12/762012a6-81a4-903a-5689-1cc8ab91f3e7/0006b56c-e82f-4f9e-9b32-1911972fc290_iPadPro.003.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6c/8d/e4/6c8de4a8-d7fa-3e34-e1d1-77bafbe29645/c596bcf2-079c-402b-85a5-885fe7ede0d8_iPadPro.001.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/9a/2f/b39a2f83-fb32-cfd5-a64d-1506e0b084ee/f4f4ffce-5f58-4447-a270-7b164c6b914c_iPadPro.002.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/a3/6b/7aa36b0c-396e-e81e-cea5-c13da69aeef9/e231aefc-7273-4da0-8a73-3e51f7128663_iPadPro.003.jpeg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/9b/27/cb9b27ac-2792-e669-4db2-ea24950d24a0/94090a9d-b065-4c4f-90f6-4cc4712ba731_iPhone8Plus.001.jpeg/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/3c/f7/e63cf7e3-26bb-fdfc-965f-0a4dcdd27aa6/a42b7c57-364d-4ba8-b77b-30cb803bec82_iPhone8Plus.002.jpeg/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/51/20/3d5120e2-30bc-3c55-b633-19db1a6607f3/5a23ac4a-9c0c-4bc2-b042-c53a6a70c170_iPhone8Plus.003.jpeg/2208x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/16/e5/ac16e5f2-09dd-e552-e288-457a48d2c35f/cbd6bfb4-641b-4fbe-b8c5-c02588af108f_iPhone12ProMax.001.jpeg/2778x1284bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/af/b7/efafb742-56c7-0484-33a2-36f634e69f6d/afeab59d-6453-4bff-82ba-de7f9b2e4ff3_iPhone12ProMax.002.jpeg/2778x1284bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/f2/85/c7f2851c-7276-1f89-e02b-eed718c0cd43/28c8caf4-7336-4858-b33d-06e307e884ca_iPhone12ProMax.003.jpeg/2778x1284bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/d1/d8/83d1d8c3-b7c4-c84b-f0c0-abef6736299e/f66dea30-90df-4f04-866c-bf8223d5f5f7_iPhone8Plus.001.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/81/ed/4d81ede3-d953-822d-b942-ece7ebcaadfc/dba4f49d-c354-4dec-a472-530c4b966989_iPhone8Plus.002.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/45/05/4b/45054b38-9140-527a-c0be-ab57cf63f644/dca8f56b-c3cd-42da-bca6-936565ee340c_iPhone8Plus.003.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/9f/72/c39f72cd-1d17-046c-5dc5-82346b8f6a0a/56c75260-eab7-450a-aa7e-5bbcf5085a67_iPadPro.001.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/82/5a/41825a42-5ede-07d5-68a7-e49dc44140cb/dd41b997-4ff5-4c8b-8cc9-76c3ac9a2260_iPadPro.002.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/86/1a/33/861a3303-ffc2-7485-5624-5af00c7fdd98/255625a8-aa25-4cb4-910f-2a9b17d5acf8_iPadPro.003.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4c/65/a8/4c65a876-e10a-9f8d-383a-a40640adbd18/9d6cb28b-b032-40a6-b6f1-4dbf6e912fc6_iPhone8Plus.001.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/26/5b/ef/265bef8d-bbee-dd2b-d4c1-6943d5bbdf9c/80af7932-3f84-454b-9af9-ffb6c6057ec1_iPhone8Plus.002.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/60/c5/7d60c54a-779a-62ee-9637-10941d4c04ed/d4abbc47-9163-46c0-b5b7-e7b7ebcbbcdd_iPhone8Plus.003.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/19/41/c019414b-cb92-ecea-d0bd-b5446d3cc167/fb7a3df3-f25c-4d51-8a44-e522f2464612_iPadPro.001.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/10/32/cc/1032cc69-8894-2c0b-198a-0c629c7a487d/5c4319c2-d96d-4550-bfd1-c0c57847137b_iPadPro.002.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/53/8a/6f538a86-d590-a425-ebcc-bb3a4e121945/280a4d53-1fdb-400d-967d-54dc9ae999a7_iPadPro.003.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/9b/27/cb9b27ac-2792-e669-4db2-ea24950d24a0/94090a9d-b065-4c4f-90f6-4cc4712ba731_iPhone8Plus.001.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/3c/f7/e63cf7e3-26bb-fdfc-965f-0a4dcdd27aa6/a42b7c57-364d-4ba8-b77b-30cb803bec82_iPhone8Plus.002.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/51/20/3d5120e2-30bc-3c55-b633-19db1a6607f3/5a23ac4a-9c0c-4bc2-b042-c53a6a70c170_iPhone8Plus.003.jpeg/406x228bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/94/e4/9d94e49d-32be-c291-97fb-38e40f16f5bf/a8e760b5-e661-4cf0-9e96-0c02888b0221_iPadPro.001.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/10/9a/cd109a03-8472-4c6e-22ed-0661ca9ce059/f1855f4a-6fc1-4971-81b2-8c52c6077145_iPadPro.002.jpeg/552x414bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/20/12/762012a6-81a4-903a-5689-1cc8ab91f3e7/0006b56c-e82f-4f9e-9b32-1911972fc290_iPadPro.003.jpeg/552x414bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d3/97/fd/d397fd51-6dac-6bea-f04e-b636381c99c7/73d6710a-0358-4728-a75a-19db7ca6a690_apple_watch.001.jpeg/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ee/db/99/eedb9947-b2e6-3b15-41cd-9446276ba203/6b295c10-5399-4894-bc17-72aade5c7b51_apple_watch.002.jpeg/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.3.2",
+      "releaseNotes": "● Version 1.3.2\n-Fixed bugs.",
+      "seenAt": "2021-10-18T14:00:49Z"
+    },
+    {
+      "version": "1.3.3",
+      "releaseNotes": "● Version 1.3.3\n-Fixed bugs.",
+      "seenAt": "2021-11-14T03:34:14Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "●Version 1.4\n-Implemented a stamina reset button.\n-Improved the UI for detailed settings.\n-The upper limit of the recovery interval has been increased to 60 minutes.\n-Improved advertising.",
+      "seenAt": "2021-12-19T09:53:39Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "● Version 1.5\n-The required OS has been changed to iOS 15 or higher.\n-The notification has been changed to \"Time-Sensitive Notifications\".",
+      "seenAt": "2022-06-12T13:03:58Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "● Version 1.5.1\n-Fixed a bug.\n",
+      "seenAt": "2022-07-07T00:48:54Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "● Version 1.6\n-Added the display of full tank time.\n-Added the kind of widgets.\n* Please delete the old widget.",
+      "seenAt": "2022-07-10T15:54:13Z"
+    },
+    {
+      "version": "1.6.1",
+      "releaseNotes": "● Version 1.6.1\n-Fixed bugs.",
+      "seenAt": "2022-07-13T22:55:55Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "● Version 1.7\n- Added support for widgets on the lock screen on iOS16.",
+      "seenAt": "2022-09-20T11:26:03Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "●Version 2.0\n- Compatible with Apple Watch (watchOS9 or later).\n- Added support for watchOS complications.",
+      "seenAt": "2022-10-23T21:13:51Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "●Version 2.0.1\n- Improved internal operation.",
+      "seenAt": "2022-11-03T09:53:10Z"
+    },
+    {
+      "version": "2.0.2",
+      "releaseNotes": "●Version 2.0.2\n-It is now possible to directly enter values ​​such as stamina in the advanced game settings.",
+      "seenAt": "2022-11-27T15:13:25Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "●version2.0.3\n・Improved internal behavior.",
+      "seenAt": "2023-05-23T02:19:48Z"
+    },
+    {
+      "version": "2.1.0",
+      "releaseNotes": "Version 2.1.0\n- Added new lock screen widgets and complications.\n- Redesigned the interface.\n- Improved stability.\n- Enhanced internal performance.",
+      "seenAt": "2023-06-12T14:59:58Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Version 2.1.1:\n\nAdjusted the UI.\nImproved internal operations.\n",
+      "seenAt": "2023-07-08T06:30:58Z"
+    },
+    {
+      "version": "2.1.2",
+      "releaseNotes": "Version 2.1.2:\n\nAdjuste the UI.\nImprove internal operations.\nImprove the widget.\n",
+      "seenAt": "2023-07-25T17:38:16Z"
+    },
+    {
+      "version": "2.1.3",
+      "releaseNotes": "Version 2.1.3:\n- Fixed bugs.",
+      "seenAt": "2023-07-31T14:54:38Z"
+    },
+    {
+      "version": "2.2.0",
+      "releaseNotes": "Version 2.2.0\n- Adjusted widget display.\n- Fixed bugs.",
+      "seenAt": "2024-05-03T17:23:44Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "- Implemented interactive widgets.\n- Improved internal operations.\n",
+      "seenAt": "2024-05-06T06:54:06Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "- Fixed bugs.",
+      "seenAt": "2024-05-12T23:11:33Z"
+    },
+    {
+      "version": "2.3.2",
+      "releaseNotes": "- Fixed bugs.\n",
+      "seenAt": "2024-05-13T15:20:16Z"
+    },
+    {
+      "version": "2.4.0",
+      "releaseNotes": "- Fixed the widget bug.\n",
+      "seenAt": "2024-05-27T15:35:20Z"
+    },
+    {
+      "version": "2.5.0",
+      "releaseNotes": "Version 2.5.0\n\n- Added the ability to change the value of the stamina decrease button from the settings screen.\n- Increased the number of widget types.\n- Improved internal operations.",
+      "seenAt": "2024-07-07T08:27:37Z"
+    },
+    {
+      "version": "2.6.0",
+      "releaseNotes": "- Updated supported OS to iOS 17 or later.\n- Improved internal operations.",
+      "seenAt": "2025-06-23T16:13:51Z"
+    },
+    {
+      "version": "2.6.1",
+      "releaseNotes": "- Compatible with iOS26.\n- Improved internal operation.",
+      "seenAt": "2026-05-07T01:23:16Z"
+    },
+    {
+      "version": "3.0.0",
+      "releaseNotes": "- Design update \n- Internal operation improvement",
+      "seenAt": "2026-06-01T16:00:38Z"
+    }
+  ],
+  "updatedAt": "2026-09-23T11:51:50.592Z",
+  "isOwnApp": false
+}

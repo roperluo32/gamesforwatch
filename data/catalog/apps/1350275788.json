@@ -95,7 +95,7 @@
     "de": {
       "trackName": "Magische 8 Ball Schicksal Poll",
       "description": "Entdecken Sie Ihr Schicksal mit Magic 8 Ball!\n\nSind Sie bereit, die Geheimnisse des Universums zu lüften? Der Magic 8 Ball steht Ihnen zur Seite, um Ihre drängendsten Ja/Nein-Fragen zu beantworten. Stellen Sie eine Frage, schütteln Sie Ihr Telefon, und lassen Sie das Schicksal seinen Lauf nehmen. Egal ob Liebe, Arbeit oder wichtige Lebensentscheidungen – der Magic 8 Ball ist Ihr ultimativer Führer ins Unbekannte!\n\nMagische Funktionen von Magic 8 Ball:\n• 13 Einzigartige Themen: Tauchen Sie ein in eine Welt voller Wunder mit 13 einzigartigen Themen, jedes mit eigener Hintergrundmusik und Soundeffekten. Wählen Sie aus Optionen wie Valentinstag, Weihnachten, Halloween, Fußball, Yin-Yang, Schneemann, Galaxie, Discokugel, 8-Bit und mehr. Jedes Thema verleiht Ihrem Erlebnis eine besondere magische Note!\n\n• Interaktive Widgets: Antworten immer griffbereit? Fügen Sie anpassbare Widgets zu Ihrem Startbildschirm hinzu und entdecken Sie Ihr Schicksal, ohne die App zu öffnen!\n\n• Erlebnis auf der Apple Watch: Nehmen Sie das Geheimnis mit an Ihr Handgelenk. Mit Magic 8 Ball für die Apple Watch können Sie einfach auf den Bildschirm tippen, eine Frage stellen und eine Antwort erhalten.\n\n• iMessage-Spaß: Teilen Sie die Magie mit Freunden und Familie! Senden Sie Antworten direkt über iMessage und wählen Sie dabei aus allen Themen der App. Verleihen Sie Ihren Nachrichten mit lustigen und mystischen Antworten eine persönliche Note!\n\nBereiten Sie sich darauf vor, jede Entscheidung mit Zuversicht zu treffen, und lassen Sie den Magic 8 Ball Ihren Weg enthüllen! Ob Sie über Ihren nächsten Schritt nachdenken oder kosmische Führung suchen – diese App hat alle Antworten, die Sie brauchen. Lassen Sie das Abenteuer beginnen!\n\nHaben Sie eine Idee oder einen Vorschlag für Magic 8 Ball?\n\nKontaktieren Sie uns:\ninfo@mobilegion.com.tr\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nDatenschutzrichtlinie: https://www.mobilegion.com.tr/mobilegionapps.pdf",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nWir verbessern 8 Ball immer in Bezug auf Ihr Feedback. Teilen Sie uns Ihre neuen Wünsche mit!",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.\n\nWir verbessern 8 Ball immer in Bezug auf Ihr Feedback. Teilen Sie uns Ihre neuen Wünsche mit!",
       "trackViewUrl": "https://apps.apple.com/de/app/magische-8-ball-schicksal-poll/id1350275788?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mobilegion Yazılım Tasarım Ve Bilisim Sanayi Ticaret Limited Sirketi",
@@ -474,6 +474,6 @@
       "seenAt": "2025-03-28T08:35:52Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:12:56.905Z",
+  "updatedAt": "2026-09-23T12:08:09.557Z",
   "isOwnApp": false
 }

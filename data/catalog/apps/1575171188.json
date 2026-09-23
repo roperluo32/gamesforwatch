@@ -10,7 +10,7 @@
       "releaseNotes": "- Update game balance.",
       "trackViewUrl": "https://apps.apple.com/us/app/perfect-balance-watch-phone/id1575171188?uo=4",
       "formattedPrice": "Free",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Entertainment",
@@ -28,7 +28,7 @@
       "releaseNotes": "- Update game balance.",
       "trackViewUrl": "https://apps.apple.com/cn/app/perfect-balance-watch-phone/id1575171188?uo=4",
       "formattedPrice": "免费",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "游戏",
         "娱乐",
@@ -46,7 +46,7 @@
       "releaseNotes": "- Update game balance.",
       "trackViewUrl": "https://apps.apple.com/jp/app/perfect-balance-watch-phone/id1575171188?uo=4",
       "formattedPrice": "無料",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "エンターテインメント",
@@ -64,7 +64,7 @@
       "releaseNotes": "- Update game balance.",
       "trackViewUrl": "https://apps.apple.com/de/app/perfect-balance-watch-phone/id1575171188?uo=4",
       "formattedPrice": "Gratis",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Unterhaltung",
@@ -87,9 +87,9 @@
   "version": "2.3.2",
   "currentVersionReleaseDate": "2026-04-07T16:51:07Z",
   "releaseDate": "2021-07-06T07:00:00Z",
-  "artistId": 6784075781,
-  "artistName": "Thi Thuy Diu Le",
-  "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
   "sellerUrl": "https://mywatchgame.web.app",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -372,6 +372,6 @@
       "seenAt": "2026-04-07T16:51:07Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:30:20.283Z",
+  "updatedAt": "2026-09-23T11:23:41.477Z",
   "isOwnApp": false
 }

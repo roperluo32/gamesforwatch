@@ -10,7 +10,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/solitaire-collection-4-in-1/id6474651588?uo=4",
       "formattedPrice": "$0.99",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Family",
@@ -28,7 +28,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/solitaire-collection-4-in-1/id6474651588?uo=4",
       "formattedPrice": "¥150",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "ファミリー",
@@ -46,7 +46,7 @@
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/solitaire-collection-4-in-1/id6474651588?uo=4",
       "formattedPrice": "0,99 €",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Familie",
@@ -69,9 +69,9 @@
   "version": "1.4.0",
   "currentVersionReleaseDate": "2025-12-16T23:02:56Z",
   "releaseDate": "2023-12-20T08:00:00Z",
-  "artistId": 6784075781,
-  "artistName": "Thi Thuy Diu Le",
-  "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
   "sellerUrl": "https://mywatchgame.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -274,6 +274,6 @@
       "seenAt": "2025-12-16T23:02:56Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:54:56.323Z",
+  "updatedAt": "2026-09-23T11:37:23.299Z",
   "isOwnApp": false
 }

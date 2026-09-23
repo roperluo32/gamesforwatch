@@ -28,7 +28,7 @@
       "releaseNotes": "* Optimized for new OS.\n* Major visual update.",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-dash-watch/id1102818928?uo=4",
       "formattedPrice": "¥150",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "レーシング",
@@ -46,7 +46,7 @@
       "releaseNotes": "* Optimized for new OS.\n* Major visual update.",
       "trackViewUrl": "https://apps.apple.com/de/app/block-dash-watch/id1102818928?uo=4",
       "formattedPrice": "0,99 €",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Rennsport",
@@ -69,9 +69,9 @@
   "version": "3.3.1",
   "currentVersionReleaseDate": "2026-06-24T16:54:49Z",
   "releaseDate": "2016-04-19T20:13:32Z",
-  "artistId": 6784075781,
-  "artistName": "Thi Thuy Diu Le",
-  "artistViewUrl": "https://apps.apple.com/de/developer/thi-thuy-diu-le/id6784075781?uo=4",
+  "artistId": 1544402650,
+  "artistName": "Diem Le",
+  "artistViewUrl": "https://apps.apple.com/de/developer/diem-le/id1544402650?uo=4",
   "sellerUrl": "https://mywatchgame.web.app",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -284,6 +284,6 @@
       "seenAt": "2026-06-24T16:54:49Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:54:41.137Z",
+  "updatedAt": "2026-09-23T11:36:37.078Z",
   "isOwnApp": false
 }

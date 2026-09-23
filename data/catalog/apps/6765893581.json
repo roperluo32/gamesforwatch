@@ -10,7 +10,7 @@
       "releaseNotes": "• Undo and redo, unlimited for everyone — free and Pro.\n• Fixed X marks disappearing when you reopened a puzzle. Your crossed-out cells are now saved along with the filled ones, so you can leave a puzzle mid-solve and come back to exactly where you were.\n• “Drag to paint” now actually works. The setting was there but the board ignored it, so turning it on changed nothing.\n• If a solved puzzle can’t be saved, the board stays put and offers a retry instead of losing the record quietly.\n• Screen reader now says what the mode and hint buttons do.\n• The board now works with VoiceOver. Before, it read as an empty rectangle — you couldn’t check or tap a cell. Each cell announces its position and state, and clues are read one line at a time.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
-      "sellerName": "Jung Soon Shin",
+      "sellerName": "JIYULMOM",
       "genres": [
         "Games",
         "Puzzle"
@@ -38,7 +38,7 @@
       "releaseNotes": "• 「元に戻す」「やり直す」を追加しました。無料・Pro とも無制限です。\n• パズルを再度開くとX印が消えてしまう問題を修正しました。塗ったマスと一緒にX印も保存されるので、途中で中断しても続きから再開できます。\n•「ドラッグで塗る」が実際に機能します。設定はあったのに盤面が参照しておらず、オンにしても何も変わりませんでした。\n• 完成した記録を保存できなかったとき、盤面を残して再試行を表示します。以前は黙って失われていました。\n• スクリーンリーダーがモード・ヒントボタンの動作を読み上げます。\n• 画面読み上げ（VoiceOver）で盤面が使えます。以前は空の四角として読まれ、マスの確認も操作もできませんでした。各マスの位置と状態を読み上げ、ヒントは行・列ごとに読みます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
-      "sellerName": "Jung Soon Shin",
+      "sellerName": "JIYULMOM",
       "genres": [
         "ゲーム",
         "パズル"
@@ -66,7 +66,7 @@
       "releaseNotes": "• Rückgängig und Wiederholen, unbegrenzt für alle — kostenlos und Pro.\n• Behoben: X-Markierungen verschwanden, wenn ein Rätsel erneut geöffnet wurde. Ausgeschlossene Felder werden nun mit den gefüllten gespeichert — du machst genau dort weiter, wo du aufgehört hast.\n• „Zum Malen ziehen“ funktioniert jetzt wirklich. Die Einstellung war vorhanden, aber das Spielfeld hat sie ignoriert.\n• Lässt sich ein gelöstes Rätsel nicht speichern, bleibt das Feld erhalten und bietet einen neuen Versuch an, statt den Eintrag stillschweigend zu verlieren.\n• Der Screenreader nennt jetzt die Funktion der Modus- und Tipp-Schaltflächen.\n• Das Spielfeld funktioniert jetzt mit VoiceOver. Vorher wurde es als leeres Rechteck gelesen — Felder ließen sich weder prüfen noch antippen. Jedes Feld nennt Position und Zustand, Hinweise werden zeilenweise gelesen.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
-      "sellerName": "Jung Soon Shin",
+      "sellerName": "JIYULMOM",
       "genres": [
         "Spiele",
         "Puzzle"
@@ -100,8 +100,8 @@
   "currentVersionReleaseDate": "2026-09-09T15:15:05Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
-  "artistName": "Jung Soon Shin",
-  "artistViewUrl": "https://apps.apple.com/de/developer/jung-soon-shin/id379186743?uo=4",
+  "artistName": "JIYULMOM",
+  "artistViewUrl": "https://apps.apple.com/de/developer/jiyulmom/id379186743?uo=4",
   "sellerUrl": "https://ootssu.com/apps",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -376,6 +376,6 @@
       "seenAt": "2026-09-09T15:15:05Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:01:37.985Z",
+  "updatedAt": "2026-09-23T11:56:21.199Z",
   "isOwnApp": false
 }
