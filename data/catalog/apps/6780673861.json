@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games Pixel",
       "description": "Watch Games — A pixel arcade on your wrist\n\nNo phone handy? Between swim sets, on your commute, or in a short queue—raise your wrist and start a round. Watch Games is built for Apple Watch: retro pixel art, simple controls, perfect for spare moments, and most titles run independently on the Watch.\n\n【Why it fits the Watch】\n• Short sessions with a complete feel\n• Crown, tap, and swipe—big, readable pixel UI\n• Most games play on Watch alone—no constant phone staring\n• The iPhone companion covers the library, categories, records, how-to guides, and Watch hub order/visibility\n\n【Card highlights】\n• Watch Mahjong: four-player draw play; self-draw & discard wins; Chi/Pong/Kong on one contextual button\n• Watch Big Two: SE Asia shedding; the player with a 3 leads; same count + higher rank to beat; 2 is highest\n• Watch Dou Dizhu: bid Landlord, play or pass; bombs & rockets multiply; you vs two AIs\n• Watch President: four-player shedding; multi-select same ranks; first out becomes President\n\n【And more】\nShoot lane, link-match, pool, Tetris-style blocks, coin merge, bottle logic, parking exit puzzle, screw dig, huge maze, sushi belt, tea pour, café bar, produce cut, slot fever, slap faces, mouth toss, spit aim, plot grow, traveler pet, life-sim CCTV, punch SFX, and more—casual, puzzle, action, and lifestyle bites.\n\n【iPhone companion】\nBrowse games and detailed “How to Play,” sync scores, explore categories, and edit which games appear on the Watch hub—and in what order—with automatic sync to Apple Watch.\n\nRaise your wrist. Play a pixel round.",
-      "releaseNotes": "Pixel fun on your wrist. Watch Games — mini-games you can play in seconds.",
+      "releaseNotes": "1. Added two new mini-games\n2. Fixed and improved the experience",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-pixel/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -69,15 +69,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/12/03/31120306-6607-8b36-a487-18a532ef7a17/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/92/85/57928506-ee0d-ef28-dc28-2f4342066e9f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "81013760",
+  "fileSizeBytes": "81036288",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.18",
-  "currentVersionReleaseDate": "2026-09-22T20:43:34Z",
+  "version": "1.0.19",
+  "currentVersionReleaseDate": "2026-09-23T18:43:33Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -345,8 +345,13 @@
       "version": "1.0.18",
       "releaseNotes": "Pixel fun on your wrist. Watch Games — mini-games you can play in seconds.",
       "seenAt": "2026-09-22T20:43:34Z"
+    },
+    {
+      "version": "1.0.19",
+      "releaseNotes": "1. Added two new mini-games\n2. Fixed and improved the experience",
+      "seenAt": "2026-09-23T18:43:33Z"
     }
   ],
-  "updatedAt": "2026-09-23T11:21:45.814Z",
+  "updatedAt": "2026-09-24T11:38:31.027Z",
   "isOwnApp": false
 }

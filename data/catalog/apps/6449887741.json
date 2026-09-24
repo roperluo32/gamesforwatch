@@ -10,7 +10,7 @@
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/neon-breakout-watch-phone/id6449887741?uo=4",
       "formattedPrice": "$0.99",
-      "sellerName": "Thi Thuy Diu Le",
+      "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Family",
@@ -27,7 +27,7 @@
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/neon-breakout-watch-phone/id6449887741?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
@@ -45,7 +45,7 @@
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/neon-breakout-watch-phone/id6449887741?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
@@ -57,12 +57,30 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "Neon Breakout - Watch & Phone",
+      "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/neon-breakout-watch-phone/id6449887741?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
+      "genres": [
+        "游戏",
+        "家庭聚会",
+        "娱乐",
+        "桌面"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d3/42/05d342ee-aee2-1c18-3c5a-f7420a93f274/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "50437120",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
@@ -262,6 +280,6 @@
       "seenAt": "2024-08-20T12:10:48Z"
     }
   ],
-  "updatedAt": "2026-09-23T11:37:31.949Z",
+  "updatedAt": "2026-09-24T11:54:10.826Z",
   "isOwnApp": false
 }

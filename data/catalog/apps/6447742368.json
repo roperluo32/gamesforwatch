@@ -1,14 +1,14 @@
 {
   "trackId": "6447742368",
   "bundleId": "com.mobivalley.LookAroundApp",
-  "slug": "place-guesser-world-map-quiz",
-  "path": "/apps/6447742368-place-guesser-world-map-quiz/",
+  "slug": "place-guesser-street-view-geo",
+  "path": "/apps/6447742368-place-guesser-street-view-geo/",
   "locales": {
     "en": {
-      "trackName": "Place Guesser: World Map Quiz",
-      "description": "You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\n\nEmbark on a thrilling global adventure with our immersive travel game!\n\nExplore the world like never before with our two exciting game modes: Quick Play and Country Streak.\nIn Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360° panorama look around view images.\n\nWant to challenge your geographical knowledge even further?\nDive into Country Streak and guess the correct country based on stunning street view scenes. \nImmerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.\n\nReady to become a world-class explorer? Download our app now and embark on a thrilling journey of discovery!\n\n------------------------------------------------------------\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Improved onboarding experience: getting started is now simpler and more intuitive. We’ve streamlined the onboarding flow to help new users understand the product, discover key features, and get up and running faster.",
-      "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-world-map-quiz/id6447742368?uo=4",
+      "trackName": "Place Guesser: Street View Geo",
+      "description": "Drop into a street somewhere in the world, look around, and guess where you are on the map. The closer your guess, the more points you score.\n\nPlace Guesser is a geography game played through real street-level imagery from Apple Look Around and Google Street View.\n\nHOW YOU PLAY\n• Play now: five rounds around the world, three minutes each, one tap from the home screen.\n• Daily Challenge: the same mystery places for everyone, every day, with a global leaderboard. Keep your streak alive.\n• Country Streak: how many countries can you name in a row before you miss?\n• Guess The Spot: a close-up that zooms out with every wrong answer. Fewer clues, more points.\n• Infinite Mode: keep going as long as you like.\n• Custom games: pick the timer, the number of rounds and how you're allowed to move.\n\nPLAY WITH FRIENDS\n• Real-time multiplayer: play the same places at the same time.\n• Async challenges: send a challenge and let friends play whenever they like.\n• Game Center leaderboards, achievements and friends boards.\n\nTRACK YOUR PROGRESS\n• A Passport of every country you've visited, with bronze, silver and gold medals.\n• Day streaks with streak freezes, so one busy day doesn't cost you everything.\n• Stats, personal bests and shareable result cards.\n\nMORE WAYS TO PLAY\n• Home screen widgets.\n• Apple Watch and Apple TV apps.\n\nPLACE GUESSER PRO\n• Choose a country and play only there.\n• Worldwide Pro: the full location pool, including Street View locations.\n• No Move and NMPZ rules (no move, no pan, no zoom).\n• The Daily Challenge archive: replay the last 30 days.\n• Longer timers, extra streak freezes and streak repair.\n\nPro is an auto-renewing subscription. Payment is charged to your Apple Account at confirmation. It renews automatically unless you cancel at least 24 hours before the end of the current period. Manage or cancel in your App Store account settings.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "What's new in Place Guesser\n\n• More variety: fixed a bug that could repeat the same country within a single game.\n• New rules: No Move and NMPZ (no move, no pan, no zoom) for players who want a real challenge.\n• Daily Challenge archive: missed a day? Replay the last 30 challenges.\n• Streak freezes: a missed day no longer wipes out your streak. You can repair a recently lost streak, too.\n• Panorama-first layout: the street view fills the screen, and you open the map when you're ready to guess.\n• Country medals in your Passport: bronze, silver and gold for every country you play.\n• Share your results, compare with friends in Game Center, and unlock new achievements.\n• Country Streak now scores correct guesses reliably, plus other fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
       "genres": [
@@ -28,13 +28,13 @@
         "RU",
         "ES"
       ],
-      "subtitle": "Multiplayer Geography Game"
+      "subtitle": "Guess where you are · Daily"
     },
     "ja": {
-      "trackName": "Place Guesser: 世界地図クイズ",
+      "trackName": "Place Guesser: Street View Geo",
       "description": "あなたは世界のどこかに突然降ろされ、手がかりを探して自分の現在地を世界地図上で当てなければなりません。\n\n没入感たっぷりのトラベルゲームで、スリリングな世界の冒険へ出かけましょう！\n\n「クイックプレイ」と「カントリーストリーク」の2つのエキサイティングなゲームモードで、これまでにない形で世界を探索できます。\nクイックプレイでは、観察力を試しながら制限時間内に360°パノラマ画像を手がかりに現在地を当ててみましょう。\n\nさらに地理の知識を試したいですか？\nカントリーストリークでは、美しいストリートビューの風景から正しい国を当てていきます。\n世界中の絶景や有名なランドマーク、活気ある街並みに没入しながら楽しめます。カジュアルな探検家も、経験豊富な旅人も、このアプリの中毒性のあるゲームプレイと魅力的なビジュアルに夢中になること間違いなしです。\n\n世界クラスの探検家になる準備はできましたか？今すぐアプリをダウンロードして、ワクワクする発見の旅に出かけましょう！\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー：https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "オンボーディング体験を改善：よりシンプルで直感的に始められるようになりました。オンボーディングの流れを見直し、新しいユーザーがプロダクトを理解し、主要な機能を見つけ、より早く使い始められるようにしました。",
-      "trackViewUrl": "https://apps.apple.com/jp/app/place-guesser-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%82%AF%E3%82%A4%E3%82%BA/id6447742368?uo=4",
+      "releaseNotes": "Place Guesser の新機能\n\n• バラエティ向上：1回のゲームで同じ国が繰り返し出ることがある不具合を修正しました。\n• 新ルール：本気で挑みたい人向けの No Move と NMPZ（移動・回転・ズームなし）。\n• デイリーチャレンジのアーカイブ：過去30日分のチャレンジを遊び直せます。\n• ストリーク保護：1日休んでも連続記録がリセットされません。最近途切れた記録の修復もできます。\n• パノラマ優先レイアウト：ストリートビューが画面いっぱいに表示され、回答するときに地図を開きます。\n• パスポートに国別メダル：プレイした国ごとに銅・銀・金。\n• 結果をシェアし、Game Center で友達と比べて、新しい達成項目を解除しましょう。\n• Country Streak で正解が正しく判定されるようになりました。そのほかの修正と改善も含まれています。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
       "genres": [
@@ -57,10 +57,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Place Guesser: Weltkarten-Quiz",
+      "trackName": "Place Guesser: Street View Geo",
       "description": "Du wirst irgendwo auf der Welt abgesetzt und musst Hinweise finden, um deinen Standort auf der Weltkarte zu erraten.\n\nBegib dich auf ein spannendes, weltweites Abenteuer mit unserem immersiven Reisespiel!\n\nEntdecke die Welt wie nie zuvor mit unseren zwei aufregenden Spielmodi: Schnellspiel und Länder-Serie.\nIm Schnellspiel stellst du deine Beobachtungsgabe unter Beweis und trittst gegen die Zeit an, um anhand faszinierender 360°-Panorama-Ansichten deinen Standort zu erraten.\n\nMöchtest du dein geografisches Wissen noch weiter herausfordern?\nTauche ein in die Länder-Serie und errate das richtige Land anhand beeindruckender Street-View-Szenen.\nLass dich von atemberaubenden Landschaften, ikonischen Wahrzeichen und lebendigen Stadtstraßen aus aller Welt mitreißen. Egal, ob du ein gelegentlicher Entdecker oder ein erfahrener Globetrotter bist – unsere App fesselt dich mit süchtig machendem Gameplay und faszinierenden Bildern.\n\nBereit, ein Weltklasse-Entdecker zu werden? Lade unsere App jetzt herunter und begib dich auf eine spannende Entdeckungsreise!\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nDatenschutzerklärung: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Verbessertes Onboarding: Der Einstieg ist jetzt einfacher und intuitiver. Wir haben den Onboarding-Prozess optimiert, damit neue Nutzer das Produkt schneller verstehen, wichtige Funktionen entdecken und schneller loslegen können.",
-      "trackViewUrl": "https://apps.apple.com/de/app/place-guesser-weltkarten-quiz/id6447742368?uo=4",
+      "releaseNotes": "Neu in Place Guesser\n\n• Mehr Abwechslung: Ein Fehler, durch den sich dasselbe Land in einer Partie wiederholen konnte, ist behoben.\n• Neue Regeln: No Move und NMPZ (nicht bewegen, nicht drehen, nicht zoomen) für echte Profis.\n• Archiv der täglichen Challenge: Einen Tag verpasst? Spiele die letzten 30 Challenges nach.\n• Serienschutz: Ein verpasster Tag setzt deine Serie nicht mehr zurück. Eine kürzlich verlorene Serie kannst du auch reparieren.\n• Panorama zuerst: Die Straßenansicht füllt den Bildschirm, die Karte öffnest du, wenn du raten willst.\n• Ländermedaillen im Reisepass: Bronze, Silber und Gold für jedes Land, das du spielst.\n• Teile deine Ergebnisse, vergleiche dich mit Freunden im Game Center und schalte neue Erfolge frei.\n• Country Streak wertet richtige Tipps jetzt zuverlässig, dazu weitere Korrekturen und Verbesserungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
       "genres": [
@@ -83,15 +83,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/1b/60/991b6070-cfce-3e2d-c392-9f0b80c1df83/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/7b/90/d87b90c1-440c-899c-19ff-c736e97f4e9e/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.68376,
   "userRatingCount": 351,
   "price": 0,
-  "fileSizeBytes": "86844416",
+  "fileSizeBytes": "87268352",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.6",
-  "version": "1.61.1",
-  "currentVersionReleaseDate": "2026-09-19T14:29:42Z",
+  "version": "1.62.0",
+  "currentVersionReleaseDate": "2026-09-23T11:42:24Z",
   "releaseDate": "2023-04-15T07:00:00Z",
   "artistId": 1701006912,
   "artistName": "Mobivalley",
@@ -436,8 +436,13 @@
       "version": "1.61.1",
       "releaseNotes": "Improved onboarding experience: getting started is now simpler and more intuitive. We’ve streamlined the onboarding flow to help new users understand the product, discover key features, and get up and running faster.",
       "seenAt": "2026-09-19T14:29:42Z"
+    },
+    {
+      "version": "1.62.0",
+      "releaseNotes": "What's new in Place Guesser\n\n• More variety: fixed a bug that could repeat the same country within a single game.\n• New rules: No Move and NMPZ (no move, no pan, no zoom) for players who want a real challenge.\n• Daily Challenge archive: missed a day? Replay the last 30 challenges.\n• Streak freezes: a missed day no longer wipes out your streak. You can repair a recently lost streak, too.\n• Panorama-first layout: the street view fills the screen, and you open the map when you're ready to guess.\n• Country medals in your Passport: bronze, silver and gold for every country you play.\n• Share your results, compare with friends in Game Center, and unlock new achievements.\n• Country Streak now scores correct guesses reliably, plus other fixes and improvements.",
+      "seenAt": "2026-09-23T11:42:24Z"
     }
   ],
-  "updatedAt": "2026-09-23T11:50:28.707Z",
+  "updatedAt": "2026-09-24T12:12:21.092Z",
   "isOwnApp": false
 }

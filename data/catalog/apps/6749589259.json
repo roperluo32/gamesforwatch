@@ -35,12 +35,28 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "WatchCarGame",
+      "description": "Get ready for the ultimate wrist-racing experience!\nControl your mini car using the Apple Watch’s Digital Crown in this addictive arcade-style racing game. Twist to steer, dodge tricky obstacles, and collect shiny coins to boost your score. The longer you survive, the faster it gets – how far can you go?\nWhether you're waiting in line or just want a quick adrenaline rush, this game is perfect for quick plays anytime, anywhere.\n\nFeatures:\n• Intuitive Digital Crown controls\n• Endless gameplay with increasing difficulty\n• Collect coins and beat your high score\n• Simple, fun, and incredibly addictive\n• Optimized for Apple Watch\n\nStart racing now — your wrist is the steering wheel!",
+      "releaseNotes": "Fixed an issue where oncoming cars appeared to drive backwards. Traffic now faces the correct direction in all game modes.",
+      "trackViewUrl": "https://apps.apple.com/de/app/watchcargame/id6749589259?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Kostya Blokhin",
+      "genres": [
+        "Spiele",
+        "Rennsport"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/fe/de/98fedec2-bd7b-bd1a-1236-c15a4d6da4b5/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 150,
+  "price": 0.99,
   "fileSizeBytes": "4742144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
@@ -49,7 +65,7 @@
   "releaseDate": "2025-08-06T07:00:00Z",
   "artistId": 829724783,
   "artistName": "Kostya Blokhin",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/kostya-blokhin/id829724783?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/kostya-blokhin/id829724783?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -210,6 +226,6 @@
       "seenAt": "2026-09-13T00:41:16Z"
     }
   ],
-  "updatedAt": "2026-09-23T11:52:55.905Z",
+  "updatedAt": "2026-09-24T12:07:45.971Z",
   "isOwnApp": false
 }
