@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "ArcEmu",
       "description": "ArcEmuは、Apple Watchでレトロゲームのエミュレーションを楽しめるアプリです。\niPhone、iPad、Apple TVにも対応し、さまざまなAppleデバイスで快適にプレイできます。\n\n対応ゲーム機\n\n- ゲームボーイ（.gb）\n- ゲームボーイカラー（.gbc）\n- ゲームボーイアドバンス（.gba）\n- ポケモンミニ（.min）\n- ファミリーコンピュータ（.nes）\n- スーパーファミコン（.sfc、.smc）\n- アタリ2600（.a26、.bin）\n\n主な機能\n\n- mGBAとAresのコアによる高精度・高性能なエミュレーション\n- 通信ケーブル機能による最大4人のオンラインマルチプレイ*\n- チートコードに対応。よく使われるコードのデータベースを内蔵**\n- 30または60 FPSでのエミュレーション（ゲーム速度はフレームレートに依存しません）\n- Apple WatchでのマルチタッチとDigital Crown操作に対応\n- iPhoneとiPadで、すべての画面の向きに対応\n- 精度と使いやすさにこだわった画面上のコントローラー\n- iPhoneとiPadで画面上のコントローラーの位置と透明度をカスタマイズ\n- 2倍速・4倍速・最大速度の早送り\n- 0.5倍速のスローモーション\n- ファミコン・スーパーファミコンの光線銃操作をタッチで再現\n- ゲームボーイ用のカスタムカラーパレット\n- ボタンの押しっぱなし機能\n- 加速度センサーに対応\n- iPhoneとiPadのジャイロセンサーに対応。Apple WatchではDigital Crownで操作\n- iPhoneでの触覚フィードバック\n- ゲームコントローラーに対応し、ボタンの割り当てをカスタマイズ可能\n- ZIPファイルに対応\n- 自動セーブ\n- デバイス間でのステートセーブの共有\n- ROMとステートセーブのiCloud保存に対応\n- 共有コードを使ったiCloud経由のROM共有\n- ファミリー共有設定を利用しているApple Watchに対応\n- ROMの並べ替えと検索\n\n対応するApple Watch\n\n- Apple Watch Series 4以降\n- Apple Watch SE以降\n- Apple Watch Ultra以降\n\nArcEmuにはゲームやROMは含まれていません。\n互換性のあるROMファイルをiPhoneから読み込み、iCloudに保存できます。Apple Watchでは、iCloudからROMを直接ダウンロードできます。\nファミリー共有設定を利用しているApple Watchでも、共有コードを使ってiCloudからROMをダウンロードできます。\n\nスクリーンショットに登場するゲーム\n\n- Acorn Grove: https://gibbongl.itch.io/acorn-grove\n- Anguna: https://gauauu.itch.io/anguna\n- Hauntsfield: https://alliemackie.itch.io/hauntsfield\n- µCity Advance: https://skylyrac.itch.io/ucity-advance\n\n* Game Centerアカウントが必要です。\n** チートコードを使用すると、予期しない動作が発生したり、ゲームの安定性やセーブデータに影響が出たりする場合があります。\n\nArcEmuは任天堂とは提携しておらず、任天堂による承認や後援も受けていません。任天堂および同社のゲーム機の名称は、任天堂株式会社の商標です。",
-      "releaseNotes": "- アタリ2600に対応。Digital Crownをパドルコントローラーとして使えます\n- Apple Watchでマルチタッチに対応し、操作機能を拡充\n- ポケットカメラ（Nintendo Game Boy Camera）に対応\n- NESとSNESのライトガンゲームがタッチ操作に対応\n- ホーム画面をリニューアル\n- ROMの並べ替え・検索機能を追加\n- コントローラーのボタン割り当てをカスタマイズ可能に",
+      "releaseNotes": "- watchOSのボタン長押し（ホールド）機能を復活。\n- iCloudのROM管理を改善。\n- 各種バグ修正。",
       "trackViewUrl": "https://apps.apple.com/jp/app/arcemu/id6496282733?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Raffaele D'Amato",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "ArcEmu",
       "description": "ArcEmu bringt die Emulation von Retro-Spielen auf die Apple Watch.\nDie App funktioniert auch auf iPhone, iPad und Apple TV und bietet dir ein nahtloses Spielerlebnis auf deinen Apple-Geräten.\n\nUnterstützte Konsolen\n\n- Game Boy (.gb)\n- Game Boy Color (.gbc)\n- Game Boy Advance (.gba)\n- Pokémon Mini (.min)\n- Nintendo Entertainment System (.nes)\n- Super Nintendo Entertainment System (.sfc und .smc)\n- Atari 2600 (.a26 und .bin)\n\nHauptfunktionen\n\n- Präzise, leistungsstarke Emulation mit den Emulationskernen mGBA und Ares\n- Unterstützung für das Game-Link-Kabel mit Online-Multiplayer für bis zu vier Spieler*\n- Unterstützung für Cheat-Codes mit integrierter Datenbank beliebter Codes**\n- Emulation mit 30 oder 60 FPS und einer von der Bildrate unabhängigen Spielgeschwindigkeit\n- Unterstützung für Multi-Touch und die Digital Crown auf der Apple Watch\n- Unterstützung aller Bildschirmausrichtungen auf iPhone und iPad\n- Präzise, durchdachte Bildschirmsteuerung\n- Anpassbare Position und Transparenz der Bedienelemente auf iPhone und iPad\n- Schnellvorlauf mit 2×, 4× oder maximaler Geschwindigkeit\n- Zeitlupe mit halber Geschwindigkeit (0,5×)\n- Touch-Steuerung für Lightguns auf NES und SNES\n- Eigene Farbpaletten für Game-Boy-Spiele\n- Funktion zum dauerhaften Gedrückthalten von Tasten\n- Unterstützung des Beschleunigungssensors\n- Unterstützung des Gyroskops auf iPhone und iPad, mit Steuerung über die Digital Crown auf der Apple Watch\n- Haptisches Feedback auf dem iPhone\n- Unterstützung für Gamecontroller mit anpassbarer Tastenbelegung\n- Unterstützung für ZIP-Archive\n- Automatisches Speichern\n- Teilen von Speicherständen (Save States) zwischen Geräten\n- iCloud-Unterstützung für ROMs und Speicherstände\n- Teilen von ROMs über iCloud mithilfe von Freigabecodes\n- Unterstützung für per Familienkonfiguration eingerichtete Apple Watch-Modelle\n- ROMs sortieren und durchsuchen\n\nApple Watch-Kompatibilität\n\n- Apple Watch Series 4 oder neuer\n- Apple Watch SE oder neuer\n- Apple Watch Ultra oder neuer\n\nArcEmu enthält keine Spiele oder ROMs.\nDu kannst kompatible ROM-Dateien von deinem iPhone importieren und in iCloud speichern. Deine Apple Watch kann sie anschließend direkt aus iCloud herunterladen.\nAuf einer Apple Watch, die mit der Familienkonfiguration eingerichtet wurde, lassen sich ROMs mithilfe von Freigabecodes aus iCloud herunterladen.\n\nSpiele auf den Screenshots\n\n- Acorn Grove: https://gibbongl.itch.io/acorn-grove\n- Anguna: https://gauauu.itch.io/anguna\n- Hauntsfield: https://alliemackie.itch.io/hauntsfield\n- µCity Advance: https://skylyrac.itch.io/ucity-advance\n\n* Ein Game Center-Account ist erforderlich.\n** Cheat-Codes können zu unerwartetem Verhalten führen oder die Stabilität der Spiele und die Speicherdaten beeinträchtigen.\n\nArcEmu ist nicht mit Nintendo verbunden und wird von Nintendo weder unterstützt noch gesponsert. Nintendo und die Namen seiner Spielkonsolen sind Marken von Nintendo Co., Ltd.",
-      "releaseNotes": "- Unterstützung für Atari 2600 hinzugefügt: Nutze die Digital Crown als Paddle-Controller\n- Multi-Touch-Unterstützung und erweiterte Steuerungsoptionen auf der Apple Watch hinzugefügt\n- Unterstützung für die Nintendo Game Boy Camera hinzugefügt\n- Touch-Steuerung für Lightgun-Spiele auf NES und SNES hinzugefügt\n- Neuen Startbildschirm eingeführt\n- Sortier- und Suchfunktionen für ROMs hinzugefügt\n- Anpassbare Controller-Tastenbelegung hinzugefügt",
+      "releaseNotes": "- Halten/Sustain-Funktion für Tasten auf watchOS wiederhergestellt.\n- Verbesserte Verwaltung der iCloud-ROMs.\n- Diverse Fehlerbehebungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/arcemu/id6496282733?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Raffaele D'Amato",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/db/3d/1edb3da1-0c4b-9816-125f-0bec2fd0c410/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/8d/39/ec8d39c4-dcc4-e294-0408-a7063bfe1b29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.91207,
   "userRatingCount": 580,
   "price": 1.99,
-  "fileSizeBytes": "180137984",
+  "fileSizeBytes": "180516864",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.5",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2026-09-16T08:45:25Z",
+  "version": "2.0.1",
+  "currentVersionReleaseDate": "2026-09-24T22:15:21Z",
   "releaseDate": "2024-06-20T07:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -497,8 +497,13 @@
       "version": "2.0",
       "releaseNotes": "- Added Atari 2600 support, use the Digital Crown as a paddle controller\n- Added Multi-touch support and expanded controls on Apple Watch\n- Added Nintendo Game Boy Camera support\n- Added touch-based light gun controls for NES and SNES\n- Introduced a new home screen\n- Added ROM sorting and search\n- Added customizable controller button mappings",
       "seenAt": "2026-09-16T08:45:25Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "- Restored the button hold/sustain feature on watchOS.\n- Improved iCloud ROM management.\n- Various bug fixes.",
+      "seenAt": "2026-09-24T22:15:21Z"
     }
   ],
-  "updatedAt": "2026-09-24T11:52:37.323Z",
+  "updatedAt": "2026-09-25T11:57:18.979Z",
   "isOwnApp": false
 }

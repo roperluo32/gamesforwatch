@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Jigsaw Girls: puzzle for Watch",
       "description": "Looking for a new jigsaw gameplay? Try Jigsaw Watch now! All Jigsaw puzzles in the game are ANIMATED. In addition, the Low Fi music is relaxing and chilling to the core. The levels are various from lovely princesses to adorable explorers... They are amazing but not so easy to solve.\nJigsaw Watch runs well on phone or smartwatch. New levels are crafted and added everyday. It's so easy to start with and have load of fun right away. Get the game to enjoy!\n\nMusic:\nWish You Were Mine · Sarcastic Sounds",
-      "releaseNotes": "New events and free coins added.",
+      "releaseNotes": "Improved events.",
       "trackViewUrl": "https://apps.apple.com/us/app/jigsaw-girls-puzzle-for-watch/id6760379038?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Jigsaw Girls: puzzle for Watch",
       "description": "Looking for a new jigsaw gameplay? Try Jigsaw Watch now! All Jigsaw puzzles in the game are ANIMATED. In addition, the Low Fi music is relaxing and chilling to the core. The levels are various from lovely princesses to adorable explorers... They are amazing but not so easy to solve.\nJigsaw Watch runs well on phone or smartwatch. New levels are crafted and added everyday. It's so easy to start with and have load of fun right away. Get the game to enjoy!\n\nMusic:\nWish You Were Mine · Sarcastic Sounds",
-      "releaseNotes": "New events and free coins added.",
+      "releaseNotes": "Improved events.",
       "trackViewUrl": "https://apps.apple.com/cn/app/jigsaw-girls-puzzle-for-watch/id6760379038?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Jigsaw Girls: puzzle for Watch",
       "description": "Looking for a new jigsaw gameplay? Try Jigsaw Watch now! All Jigsaw puzzles in the game are ANIMATED. In addition, the Low Fi music is relaxing and chilling to the core. The levels are various from lovely princesses to adorable explorers... They are amazing but not so easy to solve.\nJigsaw Watch runs well on phone or smartwatch. New levels are crafted and added everyday. It's so easy to start with and have load of fun right away. Get the game to enjoy!\n\nMusic:\nWish You Were Mine · Sarcastic Sounds",
-      "releaseNotes": "New events and free coins added.",
+      "releaseNotes": "Improved events.",
       "trackViewUrl": "https://apps.apple.com/jp/app/jigsaw-girls-puzzle-for-watch/id6760379038?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Jigsaw Girls: puzzle for Watch",
       "description": "Looking for a new jigsaw gameplay? Try Jigsaw Watch now! All Jigsaw puzzles in the game are ANIMATED. In addition, the Low Fi music is relaxing and chilling to the core. The levels are various from lovely princesses to adorable explorers... They are amazing but not so easy to solve.\nJigsaw Watch runs well on phone or smartwatch. New levels are crafted and added everyday. It's so easy to start with and have load of fun right away. Get the game to enjoy!\n\nMusic:\nWish You Were Mine · Sarcastic Sounds",
-      "releaseNotes": "New events and free coins added.",
+      "releaseNotes": "Improved events.",
       "trackViewUrl": "https://apps.apple.com/de/app/jigsaw-girls-puzzle-for-watch/id6760379038?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/45/82/7b458249-e331-7a5e-a8ca-8a0d89f37a79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fa/a5/e5faa562-f20c-eb1d-e78a-ead967d79715/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "96622592",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "15.0",
-  "version": "1.33",
-  "currentVersionReleaseDate": "2026-09-23T18:34:34Z",
+  "version": "1.34",
+  "currentVersionReleaseDate": "2026-09-24T14:48:37Z",
   "releaseDate": "2026-03-17T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -450,8 +450,13 @@
       "version": "1.33",
       "releaseNotes": "New events and free coins added.",
       "seenAt": "2026-09-23T18:34:34Z"
+    },
+    {
+      "version": "1.34",
+      "releaseNotes": "Improved events.",
+      "seenAt": "2026-09-24T14:48:37Z"
     }
   ],
-  "updatedAt": "2026-09-24T12:02:47.338Z",
+  "updatedAt": "2026-09-25T12:06:52.354Z",
   "isOwnApp": false
 }

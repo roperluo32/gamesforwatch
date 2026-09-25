@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f8/26/a4f82672-34c8-880e-b53e-64bd2b736810/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.79545,
-  "userRatingCount": 660,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/c0/f2/2ec0f268-f8fb-93b0-227b-e4c51b27070c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.79575,
+  "userRatingCount": 661,
   "price": 1.99,
-  "fileSizeBytes": "34240512",
+  "fileSizeBytes": "34598912",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.22",
-  "currentVersionReleaseDate": "2026-09-11T18:06:21Z",
+  "version": "1.22.1",
+  "currentVersionReleaseDate": "2026-09-25T02:48:07Z",
   "releaseDate": "2019-12-18T08:00:00Z",
   "artistId": 529947655,
   "artistName": "Raffaele D'Amato",
@@ -460,8 +460,13 @@
       "version": "1.22",
       "releaseNotes": "- Added support for the latest operating systems and devices\n- Added multi-touch support to CandyBall on Apple Watch\n- Improved Digital Crown feedback in Bricko and MineHound\n- Fixed various bugs and improved overall stability",
       "seenAt": "2026-09-11T18:06:21Z"
+    },
+    {
+      "version": "1.22.1",
+      "releaseNotes": "- Added support for the latest operating systems and devices\n- Added multi-touch support to CandyBall on Apple Watch\n- Improved Digital Crown feedback in Bricko and MineHound\n- Fixed various bugs and improved overall stability",
+      "seenAt": "2026-09-25T02:48:07Z"
     }
   ],
-  "updatedAt": "2026-09-24T11:35:33.723Z",
+  "updatedAt": "2026-09-25T11:40:23.916Z",
   "isOwnApp": false
 }

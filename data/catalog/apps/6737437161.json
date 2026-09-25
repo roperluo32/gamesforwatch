@@ -1,0 +1,349 @@
+{
+  "trackId": "6737437161",
+  "bundleId": "mile150studios.CookieTapperRC",
+  "slug": "cookie-tapper",
+  "path": "/apps/6737437161-cookie-tapper/",
+  "locales": {
+    "en": {
+      "trackName": "Cookie Tapper!",
+      "description": "Cookie Tapper - The iconic cookie-clicking experience, now on your wrist!\n\nThis super polished and fully optimized for Apple Watch app brings the iconic game to your wrist. Enjoy the following features:\n\n- Satisfying click animations\n- Tons of upgrades to buy\n- Variety of cookie skins\n- Global leaderboard\n- Support for 7 languages\n- Constant updates and bug fixes\n- Friendly community\n\nDownload now and start tapping cookies!",
+      "releaseNotes": "Bug fixes and app improvements. Thanks for playing!",
+      "trackViewUrl": "https://apps.apple.com/us/app/cookie-tapper/id6737437161?uo=4",
+      "formattedPrice": "$2.99",
+      "sellerName": "Nils Steffmann",
+      "genres": [
+        "Games",
+        "Strategy",
+        "Simulation",
+        "Entertainment"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": "Cookie Clicker Game"
+    },
+    "ja": {
+      "trackName": "Cookie Tapper!",
+      "description": "クッキー・タッパー – あの伝説のクッキークリック体験が、ついに手首に登場！\n\nApple Watch に完全最適化されたこの高品質アプリで、あの名作ゲームを手首で楽しもう。主な特徴はこちら：\n\n気持ちいいクリックアニメーション\n購入できる多数のアップグレード\nバラエティ豊かなクッキースキン\nグローバルランキング\n7言語対応\n定期的なアップデートとバグ修正\nフレンドリーなコミュニティ\n今すぐダウンロードして、クッキーをタップしよう！",
+      "releaseNotes": "バグ修正とアプリの改善。プレイしていただき、ありがとうございます！",
+      "trackViewUrl": "https://apps.apple.com/jp/app/cookie-tapper/id6737437161?uo=4",
+      "formattedPrice": "¥500",
+      "sellerName": "Nils Steffmann",
+      "genres": [
+        "ゲーム",
+        "ストラテジー",
+        "シミュレーション",
+        "エンターテインメント"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Cookie Tapper!",
+      "description": "Cookie Tapper – Das ikonische Cookie-Klick-Erlebnis, jetzt an deinem Handgelenk!\n\nDiese hochpolierte und vollständig für die Apple Watch optimierte App bringt das Kultspiel direkt auf dein Handgelenk. Freu dich auf folgende Features:\n\nZufriedenstellende Klick-Animationen\nZahlreiche Upgrades zum Kaufen\nVerschiedene Cookie-Designs\nGlobale Rangliste\nUnterstützung für 7 Sprachen\nStändige Updates und Bugfixes\nFreundliche Community\nJetzt herunterladen und losklicken!",
+      "releaseNotes": "Fehlerbehebungen und App-Verbesserungen. Danke fürs Spielen!",
+      "trackViewUrl": "https://apps.apple.com/de/app/cookie-tapper/id6737437161?uo=4",
+      "formattedPrice": "2,99 €",
+      "sellerName": "Nils Steffmann",
+      "genres": [
+        "Spiele",
+        "Strategie",
+        "Simulation",
+        "Unterhaltung"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/04/d0/9104d006-d011-cd16-4e80-dd7d76f8e841/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 2.99,
+  "fileSizeBytes": "31303680",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "13.0",
+  "version": "1.5.5",
+  "currentVersionReleaseDate": "2026-04-09T17:34:47Z",
+  "releaseDate": "2024-11-01T07:00:00Z",
+  "artistId": 1729068286,
+  "artistName": "Nils Steffmann",
+  "artistViewUrl": "https://apps.apple.com/de/developer/nils-steffmann/id1729068286?uo=4",
+  "sellerUrl": "https://mile150apps.com",
+  "isGameCenterEnabled": false,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/05/0b/06050b08-38bc-a33e-bba8-c5b1dc28c4a1/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.00.19.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e6/d2/05e6d2c3-465c-1e2e-5710-eccbf65d8681/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.00.53.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/e7/09/97e709a8-a6b9-20a2-d551-a0bd5dc61719/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.01.46.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/88/d1/1d88d187-ffa4-f224-fd31-2604a126dae3/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.01.14.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/c2/53/92c253e5-a0e9-88e1-e2d4-55ae1fe3c40e/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.01.20.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/a5/ba/e5a5bad3-b448-db27-231e-dd8ce6249a08/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.02.12.png/422x514bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.3.1",
+      "releaseNotes": "Multiple bug fixes. Some items were removed in order to ensure a stabile and enjoyable experience for all players.",
+      "seenAt": "2025-05-31T18:17:57Z"
+    },
+    {
+      "version": "1.3.2",
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "seenAt": "2025-06-29T20:25:50Z"
+    },
+    {
+      "version": "1.3.3",
+      "releaseNotes": "Multiple app improvements and bug fixes.",
+      "seenAt": "2025-07-29T00:25:58Z"
+    },
+    {
+      "version": "1.3.4",
+      "releaseNotes": "Support for watchOS 26.",
+      "seenAt": "2025-09-18T14:55:08Z"
+    },
+    {
+      "version": "1.3.5",
+      "releaseNotes": "Data is now saved in iCloud.",
+      "seenAt": "2025-10-10T00:25:53Z"
+    },
+    {
+      "version": "1.3.6",
+      "releaseNotes": "Stock market has been introduced and the app is now localized into French.",
+      "seenAt": "2025-10-20T16:49:51Z"
+    },
+    {
+      "version": "1.3.7",
+      "releaseNotes": "Global chat feature and multiple bug fixes. Thank you for playing.",
+      "seenAt": "2025-11-10T18:35:19Z"
+    },
+    {
+      "version": "1.3.8",
+      "releaseNotes": "Multiple bug fixes and minor app improvements. Thank you for playing.",
+      "seenAt": "2025-11-11T20:45:27Z"
+    },
+    {
+      "version": "1.3.9",
+      "releaseNotes": "Important bug fixes and app improvements. Thanks for playing!",
+      "seenAt": "2025-11-12T21:47:55Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "Minor app improvements and bug fixes. Thank you for playing!",
+      "seenAt": "2025-11-16T00:06:12Z"
+    },
+    {
+      "version": "1.4.1",
+      "releaseNotes": "New holiday event, 10 new upgrades, and minor app improvements. Thank you for playing and happy holidays!",
+      "seenAt": "2025-11-27T17:06:44Z"
+    },
+    {
+      "version": "1.4.2",
+      "releaseNotes": "Minor app improvements and bug fixes.",
+      "seenAt": "2025-12-08T15:26:50Z"
+    },
+    {
+      "version": "1.4.3",
+      "releaseNotes": "Minor app improvements and bug fixes. Thank you for playing.",
+      "seenAt": "2025-12-12T06:28:08Z"
+    },
+    {
+      "version": "1.4.4",
+      "releaseNotes": "Minor app improvements and bug fixes. Thank you for playing!",
+      "seenAt": "2025-12-27T14:55:17Z"
+    },
+    {
+      "version": "1.4.5",
+      "releaseNotes": "New research upgrades, revamped stock market, app improvements, and bug fixes. Thank you for playing!",
+      "seenAt": "2026-01-13T02:25:11Z"
+    },
+    {
+      "version": "1.4.6",
+      "releaseNotes": "Bug fixes and minor app improvements. Thanks for playing!",
+      "seenAt": "2026-01-15T23:41:51Z"
+    },
+    {
+      "version": "1.4.7",
+      "releaseNotes": "Updated rebirth multipliers, better support system, minor app improvements, and bug fixes. Thank you for playing!",
+      "seenAt": "2026-01-25T22:21:19Z"
+    },
+    {
+      "version": "1.4.8",
+      "releaseNotes": "Minor app improvements and bug fixes. Thank you for playing!",
+      "seenAt": "2026-02-02T17:00:07Z"
+    },
+    {
+      "version": "1.4.9",
+      "releaseNotes": "Minor app improvements and bug fixes. Thanks for playing!",
+      "seenAt": "2026-02-08T19:08:56Z"
+    },
+    {
+      "version": "1.5.0",
+      "releaseNotes": "Bug fixes and app improvements. Thanks for playing!",
+      "seenAt": "2026-02-11T03:05:27Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "New app content, bug fixes, and minor app improvements. Thanks for playing!",
+      "seenAt": "2026-02-28T04:23:27Z"
+    },
+    {
+      "version": "1.5.2",
+      "releaseNotes": "Minor app improvements and bug fixes. Thanks for playing!",
+      "seenAt": "2026-03-22T23:25:48Z"
+    },
+    {
+      "version": "1.5.3",
+      "releaseNotes": "New app content, bug fixes, and minor app improvements. Thanks for playing!",
+      "seenAt": "2026-03-30T15:25:20Z"
+    },
+    {
+      "version": "1.5.4",
+      "releaseNotes": "You can now challenge Grandma to a game of ping pong. Additionally, we've fixed numerous bugs and made multiple minor app improvements. Thanks for playing!",
+      "seenAt": "2026-04-07T14:24:35Z"
+    },
+    {
+      "version": "1.5.5",
+      "releaseNotes": "Bug fixes and app improvements. Thanks for playing!",
+      "seenAt": "2026-04-09T17:34:47Z"
+    }
+  ],
+  "updatedAt": "2026-09-25T12:16:10.116Z",
+  "isOwnApp": false
+}

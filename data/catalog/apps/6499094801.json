@@ -9,7 +9,7 @@
       "description": "Play ping pong (table tennis) against the computer or against up to three friend on your phone, tablet or watch!\n\nFeatures: \n- Play alone or against one to three friends on the same device\n- Fun and easy to play\n- Awesome retro design\n- No internet connection required for playing (play offline)\n- Unlock more fun games",
       "releaseNotes": "Updated start screen",
       "trackViewUrl": "https://apps.apple.com/us/app/1-2-3-4-player-ping-pong/id6499094801?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -34,7 +34,7 @@
       "description": "Play ping pong (table tennis) against the computer or against up to three friend on your phone, tablet or watch!\n\nFeatures: \n- Play alone or against one to three friends on the same device\n- Fun and easy to play\n- Awesome retro design\n- No internet connection required for playing (play offline)\n- Unlock more fun games",
       "releaseNotes": "Updated start screen",
       "trackViewUrl": "https://apps.apple.com/jp/app/1-2-3-4-player-ping-pong/id6499094801?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -59,7 +59,7 @@
       "description": "Spiele Tischtennis gegen den Computer oder gegen bis zu drei Freunde auf Ihrem Telefon, Tablet oder Ihrer Uhr!\n\nFunktionen:\n- Spiele allein oder gegen ein bis drei Freunde auf demselben Gerät\n- Macht Spaß und ist einfach zu spielen\n- Tolles Retro-Design\n- Zum Spielen ist keine Internetverbindung erforderlich (offline spielen)\n- Schalte weitere unterhaltsame Spiele frei",
       "releaseNotes": "Neuer Start-Bildschirm",
       "trackViewUrl": "https://apps.apple.com/de/app/1-2-3-4-player-ping-pong/id6499094801?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -83,7 +83,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/04/6b/4f046b92-d36e-3581-496e-bbbff8923d8b/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "42168320",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -326,6 +326,6 @@
       "seenAt": "2025-12-06T03:43:39Z"
     }
   ],
-  "updatedAt": "2026-09-24T12:04:04.312Z",
+  "updatedAt": "2026-09-25T12:10:02.216Z",
   "isOwnApp": false
 }
