@@ -65,7 +65,7 @@
     "de": {
       "trackName": "Puzzledrome",
       "description": "\"Puzzledrome weiß zu gefallen und wird kontinuierlich komplizierter.\" - appgefahren.de\n\nWische Fliesen und kreiere fantastische Symmetrien in diesem visuellen Puzzle.  Fordere deinen Intellekt mit einem Spiel heraus, bei dem du logisch und kreativ denken sowie flink sein musst, um einzigartige Palindrome-Puzzles zu lösen. Inspiriert von Symmetrie, Sudoku und ähnlichen Spielen, ist dieses Spiel von Puzzledrome die neue Art, Puzzles zu lösen!\n\nPalindrom (palin Drōm) Nomen. 1.ein Wort, Ausdruck oder Sequenz, die sich vorwärts sowie rückwärts gleich liest, z. B. Radar, Anna oder 2002.\n\n* 303 herausfordernde Rätsel\n* Spielen Sie gegen die Zeit im Arcade-Modus\n* Wählen Sie eine Größe und spielen Sie den ganzen Tag im freien Spielmodus\n* Spezielle Spielsteine steigern die Schwierigkeit wenn Sie fortschreiten\n* Game Center Bestenlisten\n\nPuzzledrome bietet die perfekte Balance zwischen der Herausforderung Ihres Gehirns und leicht zu erlernenden Spielen, für eine fesselnde Spielerfahrung, die Sie immer wieder genießen werden wollen. Schieben Sie die Spielsteine herum, bis alles richtig angeordnet ist und Sie ein perfektes Palindrom sehen, wo sich die Spielsteine von links nach rechts und von oben nach unten gleich lesen lassen.\n\nAngefangen mit einer einzelnen Reihe von farbigen Symbolen, lernen Sie mit der Zeit mehr und mehr und Ihre Kreativität wird gefördert während Sie die Spielsteine nach rechts und links bewegen und alles an seinen richtigen Platz verschieben. Das Spiel wird schwieriger je weiter Sie fortschreiten. Puzzledrome bietet einzigartige Herausforderungen wie Shape Shifter, Stein und Gefahren-Spielsteine, die dem Spiel Schwierigkeit und Anspruch verleihen.",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\n– Updates für die neuesten iOS-Versionen\n– Fehlerbehebungen, darunter Layoutprobleme auf neueren Geräten",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.\n\n– Updates für die neuesten iOS-Versionen\n– Fehlerbehebungen, darunter Layoutprobleme auf neueren Geräten",
       "trackViewUrl": "https://apps.apple.com/de/app/puzzledrome/id848784144?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Asinine Games Inc",
@@ -376,6 +376,6 @@
       "seenAt": "2025-06-04T15:15:44Z"
     }
   ],
-  "updatedAt": "2026-09-25T12:29:08.911Z",
+  "updatedAt": "2026-09-26T12:05:22.524Z",
   "isOwnApp": false
 }
