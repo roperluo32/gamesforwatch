@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Added a beginner tutorial with an animated finger icon pointing to the color box to help players get started quickly.\nAfter the first successful placement into the box, the tutorial automatically disappears and saves the completion status, so it will not appear again.\nBeginner guidance is now supported on both iPhone and Apple Watch, while keeping the existing game layout, gameplay, and level progress unchanged.",
+      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "新增新手操作指引，动态手指图标指向颜色箱，帮助玩家快速上手。\n首次成功放入箱子后，指引自动消失并保存完成状态，后续进入不再重复提示。\niPhone 与 Apple Watch 同步支持新手指引，保持原有游戏布局、玩法与关卡进度不变",
+      "releaseNotes": "展示水果、小动物、工具、钱币、花卉与美食六大主题。\n更新 Apple Watch 游戏宣传画面，呈现丰富多彩的关卡图案。\n新增中英文宣传素材，让游戏特色一目了然。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -49,10 +49,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "豆分けマスター - Watchゲーム",
-      "description": "「豆分けマスター」は、iPhoneとApple Watchに対応したカジュアルパズルゲームです。\n\nステージ内の豆の配置を観察し、シンプルで直感的な操作で目標を達成しましょう。ステージごとに配置が異なるため、よく観察して最適な解決方法を考える必要があります。\n\nゲームの特徴：\n• iPhoneとApple Watchに対応\n• Apple Watch版に100の楽しいステージを収録\n• シンプルな操作で簡単に遊べる\n• 短時間で楽しめるステージ\n• 登録やログインは不要\n• シンプルで見やすいゲーム画面\n\n休憩中や通勤中など、いつでも「豆分けマスター」を開いて、気軽に楽しめるパズルに挑戦しましょう。",
-      "releaseNotes": "初心者向け操作ガイドを追加し、アニメーションする指アイコンがカラーボックスを示すことで、すぐに操作を覚えられるようになりました。\n初めてボックスへの配置に成功するとガイドが自動的に消え、完了状態が保存されるため、次回以降は表示されません。\niPhoneとApple Watchの両方で初心者ガイドに対応し、従来のゲームレイアウト、遊び方、ステージ進行状況はそのまま維持されます。",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%B1%86%E5%88%86%E3%81%91%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-watch%E3%82%B2%E3%83%BC%E3%83%A0/id6808444056?uo=4",
+      "trackName": "Bean Break Master-Watch Game",
+      "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
+      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
@@ -71,10 +71,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Bohnenmeister - Watch-Spiel",
-      "description": "Bohnenmeister ist ein Gelegenheitspuzzlespiel für iPhone und Apple Watch.\nBeobachte die Anordnung der Bohnen in jedem Level und erreiche das Ziel mit einfacher, intuitiver Steuerung. Jedes Level hat einen anderen Aufbau, daher musst du genau hinsehen und die passende Lösung finden.\nSpielfunktionen: • Unterstützt iPhone und Apple Watch • 100 unterhaltsame Level in der Apple-Watch-Version • Einfache, leicht verständliche Steuerung • Kurze Level, ideal für zwischendurch • Keine Registrierung oder Anmeldung erforderlich • Klare und übersichtliche Benutzeroberfläche\nOb in der Pause oder unterwegs: Öffne Bohnenmeister jederzeit und genieße entspannte, unterhaltsame Puzzle-Herausforderungen.",
-      "releaseNotes": "Eine Einsteigerhilfe mit einem animierten Fingersymbol wurde hinzugefügt, das auf die Farbbox zeigt und den Einstieg erleichtert.\nNach dem ersten erfolgreichen Platzieren in der Box verschwindet die Anleitung automatisch und speichert den Abschlussstatus, sodass sie später nicht erneut angezeigt wird.\nDie Einsteigerhilfe wird sowohl auf dem iPhone als auch auf der Apple Watch unterstützt, während das bestehende Spiellayout, Gameplay und der Level-Fortschritt unverändert bleiben.",
-      "trackViewUrl": "https://apps.apple.com/de/app/bohnenmeister-watch-spiel/id6808444056?uo=4",
+      "trackName": "Bean Break Master-Watch Game",
+      "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
+      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
+      "trackViewUrl": "https://apps.apple.com/de/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ac/4e/e8ac4e0f-5b1b-1750-0d44-d569fa353e35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/84/12/8684122b-c5cb-97be-abfa-93da0eb58a18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27446272",
+  "fileSizeBytes": "19090432",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.2",
-  "currentVersionReleaseDate": "2026-09-18T18:18:41Z",
+  "version": "2.3",
+  "currentVersionReleaseDate": "2026-09-26T16:58:50Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -243,6 +243,27 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/2f/c8/512fc886-bd37-bc7e-9ec2-c5d0003ced5c/ipad13-en-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/3e/ed/183eedfe-9e73-8453-faa7-886c35718c92/04-coins.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a5/9d/68a59da6-2ece-a662-f0f7-1d4793274473/06-food.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/79/66/137966f5-3f5a-b788-44db-72d20312c184/03-tools.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8f/f0/728ff0bb-4128-7c73-39f8-292d807731c2/05-flowers.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/88/9a/97889a99-7933-de60-c606-84b2bbea24ab/02-animals.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/ea/4c/91ea4cff-d87f-f325-d93a-3f5c25530f1d/01-watermelon.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/3e/ed/183eedfe-9e73-8453-faa7-886c35718c92/04-coins.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a5/9d/68a59da6-2ece-a662-f0f7-1d4793274473/06-food.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/79/66/137966f5-3f5a-b788-44db-72d20312c184/03-tools.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8f/f0/728ff0bb-4128-7c73-39f8-292d807731c2/05-flowers.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/88/9a/97889a99-7933-de60-c606-84b2bbea24ab/02-animals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/ea/4c/91ea4cff-d87f-f325-d93a-3f5c25530f1d/01-watermelon.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/2f/c8/512fc886-bd37-bc7e-9ec2-c5d0003ced5c/ipad13-en-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/b1/ce/9cb1ce1b-61cf-c44a-a985-d5d9a7d41d6c/02-animals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/86/13/e186133c-6e9b-dec8-a77c-13a73d80c766/06-food.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/45/e1/5b45e15d-00b0-7903-94c2-dbcc2aba204e/03-tools.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/6c/ba/c66cbae6-e008-7be4-cfd5-38a874cc393f/04-coins.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/17/fd/3117fd7e-81bf-637b-c98d-6bf9f944cdcb/01-watermelon.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/30/39/673039f3-50e9-acb7-4669-caccb5f44f1d/05-flowers.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/e1/f1/84e1f17d-606d-1a75-213f-44e5d8cb524c/ipad13-zh-Hans-2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/fc/19/a8fc1959-81a7-cb36-2ee7-fb283d6a78ae/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-17_at_11.13.45.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/7a/42/947a428d-4a2b-841a-158f-0e63914fb927/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-17_at_11.14.08.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/cb/e2/39cbe28b-82cb-0551-0681-849ad2c0ea5a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-17_at_11.19.07.png/2064x2752bb.png",
@@ -321,6 +342,7 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/0b/58/4e0b5854-1f43-846d-e020-d0a20ef3363a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-04_at_14.33.29.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/d1/32/35d1325f-0dea-356c-029a-d4a306736fa2/watch-ultra3-en-422x514.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/a7/27/02a7272d-5024-26b1-5963-b316a360da97/simulator_screenshot_2AEAF8C1-AF42-4E38-8890-E2F3E06C6450.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/7c/aa/b07caae5-fd6f-8140-df09-796c46b00cd2/simulator_screenshot_9D0319C1-E565-4FE9-ACC9-9423BAD11036.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/6d/56/3c6d5630-40eb-578b-bf92-25e57bd7c2f2/simulator_screenshot_19BC8713-B300-4989-A7BF-A1237442FF84.png/422x514bb.png",
@@ -378,8 +400,13 @@
       "version": "2.2",
       "releaseNotes": "Added a beginner tutorial with an animated finger icon pointing to the color box to help players get started quickly.\nAfter the first successful placement into the box, the tutorial automatically disappears and saves the completion status, so it will not appear again.\nBeginner guidance is now supported on both iPhone and Apple Watch, while keeping the existing game layout, gameplay, and level progress unchanged.",
       "seenAt": "2026-09-18T18:18:41Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
+      "seenAt": "2026-09-26T16:58:50Z"
     }
   ],
-  "updatedAt": "2026-09-26T11:28:36.867Z",
+  "updatedAt": "2026-09-27T12:06:53.323Z",
   "isOwnApp": false
 }
