@@ -9,7 +9,7 @@
       "description": "Cactus Run - finally available on iOS and WatchOS!\n\nFor years, the cactuses have been terrorizing the dinosaurs.\nBut now the tides have turned and the dinos want their revenge...\nThere is only one way for you to survive: RUN\n\nFun and easy game for watch and phone.\n\nFeatures:\n- No ads\n- Play offline\n- Light and dark mode\n- Minimalist retro design\n- Endless levels\n- More games inside you can unlock",
       "releaseNotes": "Updated start screen",
       "trackViewUrl": "https://apps.apple.com/us/app/cactus-run-the-dinos-revenge/id6738305728?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -34,7 +34,7 @@
       "description": "Cactus Run - finally available on iOS and WatchOS!\n\nFor years, the cactuses have been terrorizing the dinosaurs.\nBut now the tides have turned and the dinos want their revenge...\nThere is only one way for you to survive: RUN\n\nFun and easy game for watch and phone.\n\nFeatures:\n- No ads\n- Play offline\n- Light and dark mode\n- Minimalist retro design\n- Endless levels\n- More games inside you can unlock",
       "releaseNotes": "Updated start screen",
       "trackViewUrl": "https://apps.apple.com/jp/app/cactus-run-the-dinos-revenge/id6738305728?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -59,7 +59,7 @@
       "description": "Cactus Run - finally available on iOS and WatchOS!\n\nFor years, the cactuses have been terrorizing the dinosaurs.\nBut now the tides have turned and the dinos want their revenge...\nThere is only one way for you to survive: RUN\n\nFun and easy game for watch and phone.\n\nFeatures:\n- No ads\n- Play offline\n- Light and dark mode\n- Minimalist retro design\n- Endless levels\n- More games inside you can unlock",
       "releaseNotes": "Updated start screen",
       "trackViewUrl": "https://apps.apple.com/de/app/cactus-run-the-dinos-revenge/id6738305728?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -83,7 +83,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/59/d5/eb59d5f1-8422-3166-bb65-16dd0be2dc81/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "24579072",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -303,6 +303,6 @@
       "seenAt": "2025-12-04T19:23:56Z"
     }
   ],
-  "updatedAt": "2026-09-27T12:21:09.134Z",
+  "updatedAt": "2026-09-28T14:05:43.153Z",
   "isOwnApp": false
 }

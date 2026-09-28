@@ -1,14 +1,14 @@
 {
   "trackId": "6745512392",
   "bundleId": "com.hemal.WristPacMan",
-  "slug": "watch-dash",
-  "path": "/apps/6745512392-watch-dash/",
+  "slug": "watch-dash-maze-arcade",
+  "path": "/apps/6745512392-watch-dash-maze-arcade/",
   "locales": {
     "en": {
-      "trackName": "Watch - Dash",
-      "description": "Chomp your way through a classic maze arcade game—right on your Apple Watch! Swipe to guide your hungry hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Choose your speed: a new Easy / Normal / Fast picker right on the start screen.\nEach speed keeps its own best score, shown under the picker and when a run ends.\nFaster settings speed up the maze and the ghosts; Easy gives you slower ghosts.\nBuilt with the latest watchOS SDK.",
-      "trackViewUrl": "https://apps.apple.com/us/app/watch-dash/id6745512392?uo=4",
+      "trackName": "Watch - Dash: Maze Arcade",
+      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "Watch - Dash gets a brand-new look and three real ways to play smarter:\n\n• Game Center leaderboards and achievements, difficulty by difficulty — with a full on-device leaderboard when you're offline or signed out\n• Siri support: say \"Play Watch - Dash\" to jump into a new run, or ask for your best score without opening the app\n• Steer with a swipe or the Digital Crown — pick whichever feels best\n• A hand-drawn, living redesign: sketch-style cards, a calmer new look, and ambient touches throughout\n• Bigger, easier-to-tap buttons on the start screen\n\nThanks for playing — keep chasing that high score!",
+      "trackViewUrl": "https://apps.apple.com/us/app/watch-dash-maze-arcade/id6745512392?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -20,13 +20,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Maze Muncher & Ghost Chase"
+      "subtitle": "Retro Ghost Chase + Siri Play"
     },
     "ja": {
-      "trackName": "Watch - Dash",
-      "description": "Chomp your way through a classic maze arcade game—right on your Apple Watch! Swipe to guide your hungry hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Choose your speed: a new Easy / Normal / Fast picker right on the start screen.\nEach speed keeps its own best score, shown under the picker and when a run ends.\nFaster settings speed up the maze and the ghosts; Easy gives you slower ghosts.\nBuilt with the latest watchOS SDK.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/watch-dash/id6745512392?uo=4",
+      "trackName": "Watch - Dash: Maze Arcade",
+      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "Watch - Dash gets a brand-new look and three real ways to play smarter:\n\n• Game Center leaderboards and achievements, difficulty by difficulty — with a full on-device leaderboard when you're offline or signed out\n• Siri support: say \"Play Watch - Dash\" to jump into a new run, or ask for your best score without opening the app\n• Steer with a swipe or the Digital Crown — pick whichever feels best\n• A hand-drawn, living redesign: sketch-style cards, a calmer new look, and ambient touches throughout\n• Bigger, easier-to-tap buttons on the start screen\n\nThanks for playing — keep chasing that high score!",
+      "trackViewUrl": "https://apps.apple.com/jp/app/watch-dash-maze-arcade/id6745512392?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -41,10 +41,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Watch - Dash",
-      "description": "Chomp your way through a classic maze arcade game—right on your Apple Watch! Swipe to guide your hungry hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nFeatures:\nIntuitive swipe controls designed for Apple Watch\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nTrack your best scores and climb the leaderboard\nQuick, fun sessions—perfect for on-the-go gaming\n\nWhether you’re a retro arcade fan or new to maze games, Watch DotMan is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Choose your speed: a new Easy / Normal / Fast picker right on the start screen.\nEach speed keeps its own best score, shown under the picker and when a run ends.\nFaster settings speed up the maze and the ghosts; Easy gives you slower ghosts.\nBuilt with the latest watchOS SDK.",
-      "trackViewUrl": "https://apps.apple.com/de/app/watch-dash/id6745512392?uo=4",
+      "trackName": "Watch - Dash: Maze Arcade",
+      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "Watch - Dash gets a brand-new look and three real ways to play smarter:\n\n• Game Center leaderboards and achievements, difficulty by difficulty — with a full on-device leaderboard when you're offline or signed out\n• Siri support: say \"Play Watch - Dash\" to jump into a new run, or ask for your best score without opening the app\n• Steer with a swipe or the Digital Crown — pick whichever feels best\n• A hand-drawn, living redesign: sketch-style cards, a calmer new look, and ambient touches throughout\n• Bigger, easier-to-tap buttons on the start screen\n\nThanks for playing — keep chasing that high score!",
+      "trackViewUrl": "https://apps.apple.com/de/app/watch-dash-maze-arcade/id6745512392?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -59,21 +59,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2d/99/892d99e8-68a3-a1b4-00f4-bce260cc767f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/16/da/7b16daa5-98c3-c974-9670-1aa12423f121/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2804736",
+  "fileSizeBytes": "5233664",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.1",
-  "currentVersionReleaseDate": "2026-09-16T08:36:44Z",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-09-28T14:09:12Z",
   "releaseDate": "2025-06-18T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
   "artistViewUrl": "https://apps.apple.com/de/developer/hemal-modi/id1522352514?uo=4",
   "sellerUrl": "",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -210,6 +210,16 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/03/e3/8503e363-dadb-1cdd-0546-9a64377da7eb/01_maze_chase.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/ec/eb/6fecebb8-508e-185b-6786-a0b845156fb8/02_power_mode.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/a1/38/d2a1387f-098a-16a0-609c-e95ae5b0c6f3/03_difficulty_picker.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/bd/79/86bd7958-6397-357c-f85d-2099736a543f/04_new_best_achievements.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/27/a8/0127a8ff-6c6a-5293-c110-b4e3f3f986ae/05_on_wrist_leaderboard.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/5f/1e/a15f1e86-59ea-ba22-52bf-95642dc1a58f/06_fast_mode.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/4d/23/284d2350-37e9-fd32-66f8-c6d8735db03a/07_game_center_leaderboards.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/26/6b/02266b8d-4135-e6be-60f1-d9fe0995d3bc/08_first_run_game_center.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/68/9c/f0689c99-4de5-63a7-6b84-d1379dad145c/09_easy_mode.jpg/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ed/5d/eced5d77-c8cf-d90a-e414-7eb7467d21fc/10_play_double_tap.jpg/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/09/32/4e09327f-5aac-371a-0c45-b9134fe14718/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-05-16_at_13.37.45.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/7f/5a/497f5aac-9769-5177-6f3d-28db3d8b626b/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-05-16_at_13.37.47.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/53/3f/d1533fde-82ba-be21-bd89-eafaab519663/Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2025-05-06_at_14.36.47.png/410x502bb.png",
@@ -231,8 +241,13 @@
       "version": "1.1",
       "releaseNotes": "Choose your speed: a new Easy / Normal / Fast picker right on the start screen.\nEach speed keeps its own best score, shown under the picker and when a run ends.\nFaster settings speed up the maze and the ghosts; Easy gives you slower ghosts.\nBuilt with the latest watchOS SDK.",
       "seenAt": "2026-09-16T08:36:44Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Watch - Dash gets a brand-new look and three real ways to play smarter:\n\n• Game Center leaderboards and achievements, difficulty by difficulty — with a full on-device leaderboard when you're offline or signed out\n• Siri support: say \"Play Watch - Dash\" to jump into a new run, or ask for your best score without opening the app\n• Steer with a swipe or the Digital Crown — pick whichever feels best\n• A hand-drawn, living redesign: sketch-style cards, a calmer new look, and ambient touches throughout\n• Bigger, easier-to-tap buttons on the start screen\n\nThanks for playing — keep chasing that high score!",
+      "seenAt": "2026-09-28T14:09:12Z"
     }
   ],
-  "updatedAt": "2026-09-27T12:30:47.438Z",
+  "updatedAt": "2026-09-28T14:13:51.356Z",
   "isOwnApp": false
 }
