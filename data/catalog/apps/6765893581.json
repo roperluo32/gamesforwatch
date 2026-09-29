@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori is a calm nonogram puzzle game. Solve logic grids using number clues — no time pressure, no ads, no in-app pestering.\n\n• Today's puzzle delivered daily\n• Sizes from 5×5 to 15×15\n• Easy, Medium, Hard, Expert difficulty\n• Streak heatmap and personal stats\n• Apple Watch companion\n• Light and dark themes\n• Fully offline — your progress stays on your device\n\nDesigned for the moments you want to put your phone on Do Not Disturb but still keep your mind moving. If you enjoy logic grids and number puzzles, you'll feel at home.",
-      "releaseNotes": "Housekeeping update.\n\n• Store search information refreshed\n• Small stability fixes\n\nPricing and how your data is handled are unchanged.",
+      "releaseNotes": "Small improvements and bug fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "JIYULMOM",
@@ -36,7 +36,7 @@
     "ja": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomoriは静かな時間のためのノノグラム（お絵かきロジック）です。行と列の数字ヒントだけを頼りにマスを塗り、隠れた絵を完成させるロジックパズル。制限時間も広告もなく、自分のペースで解けます。\n\n■ 毎日の「今日のパズル」\n毎日新しい一問が届きます。解ける答えが一つだけになるよう作られているので、当て推量なしで論理だけで進めます。\n\n■ サイズと難易度\n5×5の短い一問から15×15のじっくり解く一問まで。易しい・普通・難しい・エキスパートの4段階。\n\n■ 続けたくなる記録\n連続記録のヒートマップと個人統計で、毎日の積み重ねが見えます。\n\n■ どこでも・静かに\n• 完全オフライン — 記録は端末にだけ保存\n• ライト／ダークテーマ\n• Apple Watchから今日のパズルへすぐアクセス\n• やさしい効果音と触覚フィードバック\n\n■ Nomori Pro（買い切り）\n一度の購入でずっと使えます。\n• ヒント無制限（無料版は1問につき1回）\n• 過去の「今日のパズル」をいつでも再挑戦\n• 3回ミスでやり直しになるストリクトモード\n• Proパズルパック\n\nスマホを「おやすみモード」にしても、頭は動かしていたい時間に。",
-      "releaseNotes": "整備アップデートです。\n\n• ストアの検索情報を整えました\n• 細かな安定性の修正\n\n価格とデータの取り扱いに変更はありません。",
+      "releaseNotes": "細かな改善と不具合の修正を行いました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "JIYULMOM",
@@ -65,7 +65,7 @@
     "de": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori ist ein ruhiges Nonogramm-Spiel. Löse Logikgitter mit Zahlenhinweisen — ohne Zeitdruck, ohne Werbung, ohne nervige In-App-Käufe.\n\n• Tägliches Rätsel\n• Größen von 5×5 bis 15×15\n• Vier Schwierigkeitsgrade\n• Streak-Heatmap mit persönlichen Statistiken\n• Apple Watch Begleiter\n• Helles und dunkles Design\n• Vollständig offline — deine Daten bleiben auf deinem Gerät\n\nFür die Momente, in denen du dein iPhone auf \"Nicht stören\" stellst, aber dein Kopf wach bleiben soll.",
-      "releaseNotes": "Wartungsupdate.\n\n• Suchinformationen im Store aufgefrischt\n• Kleine Stabilitätskorrekturen\n\nKeine Änderungen an Preisen oder der Datenverarbeitung.",
+      "releaseNotes": "Kleine Verbesserungen und Fehlerbehebungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "JIYULMOM",
@@ -92,15 +92,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/2b/49/dd2b4951-778a-8def-d625-5147aa14a01e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/af/8e/44af8e37-8f24-8aa8-1750-2034a4093c26/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "12920832",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.4",
-  "version": "1.5.4",
-  "currentVersionReleaseDate": "2026-09-24T05:46:20Z",
+  "version": "1.5.5",
+  "currentVersionReleaseDate": "2026-09-28T19:09:25Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
   "artistName": "JIYULMOM",
@@ -382,8 +382,13 @@
       "version": "1.5.4",
       "releaseNotes": "Housekeeping update.\n\n• Store search information refreshed\n• Small stability fixes\n\nPricing and how your data is handled are unchanged.",
       "seenAt": "2026-09-24T05:46:20Z"
+    },
+    {
+      "version": "1.5.5",
+      "releaseNotes": "Small improvements and bug fixes.",
+      "seenAt": "2026-09-28T19:09:25Z"
     }
   ],
-  "updatedAt": "2026-09-28T14:13:08.165Z",
+  "updatedAt": "2026-09-29T13:15:36.110Z",
   "isOwnApp": false
 }

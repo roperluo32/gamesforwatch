@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Redesigned the finish line with cool-white and dark-blue checkers and subtle cyan accents to better match the arcade racing style.\nImproved finish line alignment on bends and narrowing sections, adapting its angle and width to the road.\nRefined display proportions on iPhone, iPad, and Apple Watch for a clearer, more consistent look.",
+      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -30,7 +30,7 @@
     "zh": {
       "trackName": "迷你赛车-手表竞速游戏",
       "description": "极速9527是一款日式霓虹街机风格的赛车游戏。驾驶赛车穿过城市道路，灵活变道，躲避车流与施工路障，在倒计时结束前冲过终点！\n\n游戏特色\n\n• 霓虹街机画风\n深色街景、像素赛车与醒目的霓虹色彩，营造复古街机氛围。\n\n• 30关竞速挑战\n逐步解锁关卡，应对越来越密集的车流与障碍，挑战自己的反应和操控。\n\n• 指尖与腕上驾驶\n支持 iPhone、iPad 和 Apple Watch。手机和平板左右拖动转向，手表支持滑动屏幕或旋转数码表冠操控。\n\n• 挑战个人纪录\n本机排行榜保存已结束比赛的前10名成绩，记录分数、关卡与日期。\n选择关卡，开始赛车，向终点出发！\n\n说明：关卡进度和排行榜成绩分别保存在各自设备上，当前不提供全球排名或跨设备同步。",
-      "releaseNotes": "焕新终点线设计，采用冷白与深蓝小方格，搭配细青色边线，与街机赛道风格更加统一。\n优化终点线在弯道和变窄路段的显示，随道路方向调整角度与宽度。\n改善 iPhone、iPad 和 Apple Watch 上的显示比例，让终点标线更清晰、协调",
+      "releaseNotes": "调整赛道车流，车辆数量减少至原来的三分之一，驾驶节奏更加从容。\n更新行驶与撞击音效，增强赛车临场感。\n重制严重撞击效果，加入车身震动、碎屑及车头受损表现。\n发车倒计时调整为 3 秒，冲过终点时新增撒花庆祝效果。\n简化操控，取消长按加速，保留拖动转向及 Apple Watch 数码表冠控制。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%BF%B7%E4%BD%A0%E8%B5%9B%E8%BD%A6-%E6%89%8B%E8%A1%A8%E7%AB%9E%E9%80%9F%E6%B8%B8%E6%88%8F/id6810125888?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Redesigned the finish line with cool-white and dark-blue checkers and subtle cyan accents to better match the arcade racing style.\nImproved finish line alignment on bends and narrowing sections, adapting its angle and width to the road.\nRefined display proportions on iPhone, iPad, and Apple Watch for a clearer, more consistent look.",
+      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -76,7 +76,7 @@
     "de": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Redesigned the finish line with cool-white and dark-blue checkers and subtle cyan accents to better match the arcade racing style.\nImproved finish line alignment on bends and narrowing sections, adapting its angle and width to the road.\nRefined display proportions on iPhone, iPad, and Apple Watch for a clearer, more consistent look.",
+      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -97,15 +97,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/41/24/75412487-c709-d2e7-30cb-ea4a350be0a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/5e/de/f65ede71-9c5e-fb21-efef-bcbf27f7002c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "25416704",
+  "fileSizeBytes": "27280384",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2026-09-26T15:37:04Z",
+  "version": "2.1",
+  "currentVersionReleaseDate": "2026-09-28T21:40:08Z",
   "releaseDate": "2026-09-15T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -307,8 +307,13 @@
       "version": "2.0",
       "releaseNotes": "Redesigned the finish line with cool-white and dark-blue checkers and subtle cyan accents to better match the arcade racing style.\nImproved finish line alignment on bends and narrowing sections, adapting its angle and width to the road.\nRefined display proportions on iPhone, iPad, and Apple Watch for a clearer, more consistent look.",
       "seenAt": "2026-09-26T15:37:04Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
+      "seenAt": "2026-09-28T21:40:08Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:42:31.132Z",
+  "updatedAt": "2026-09-29T12:46:04.634Z",
   "isOwnApp": false
 }

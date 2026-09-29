@@ -23,12 +23,12 @@
         "ZH",
         "ZH"
       ],
-      "subtitle": "Arcade game for Apple Watch!"
+      "subtitle": "Arcade game for iPhone & Watch"
     },
     "ja": {
       "trackName": "宇宙戦争 Space War",
       "description": "宇宙戦争はレトロなアーケードゲームファンのための縦型シューティングゲームです。宇宙空間で次々に襲ってくるエイリアンたちを撃破する!\n最後の戦いに備えろ!\n \n＊高難度の22ステージゲーム\n＊フルスクリーン\n＊高速エイリアンの戦術と攻防!\n \nゲーム「宇宙戦争」は 300 万件以上のダウンロードがある、多くのモバイルプラットフォーム向けトップクラスのシューティングゲームです。",
-      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\nSupports Apple Watch Ultra.\nImproved design for iPhone 14 Pro.",
+      "releaseNotes": "iOS 17にアップグレードしました。\nApple Watchのゲームを簡素化しました。\niPadの横向き表示に対応しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%87%E5%AE%99%E6%88%A6%E4%BA%89-space-war/id363486833?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Thye Chean Lim",
@@ -48,8 +48,8 @@
     },
     "de": {
       "trackName": "Space War GS",
-      "description": "Space War GS (previously Space War DX) is the space arcade game for iPhone, iPad and Apple Watch! \nFly through the space and destroy waves of attacking aliens! Be prepared for the final battle!\n\n• retro-style space game for iPhone, iPad and Apple Watch!\n• supports Apple Watch Series 7 large display!\n• multiple stages of continuous game play!\n• innovative touch screen control\n• supports iCade controller\n• fast full screen alien formations and attacks!\n• excellent soundtracks from Apple IIGS legend FTA!\n\n•• Reviews ••\n\"Fun game! Give it a try, everyone.\" \n- No Quarter Podcast\n\n\"This game is simply fantastic.\"\n- BriefMobile\n\n\"I miss Galaxian.  This has great graphics and action. I even play it with a stylus.\" \n- app review\n\n\"My husband love this game - He really like this game, hew said is similar to a game he used to play when he was 10.\" \n- app review\n\n\"Amazing app! I love it! You have to download this! Very fun and smooth!\" \n- app review\n\n•• Special Thanks! ••\n• Olivier Goguel of FTA and Hameed for background image\n\nNote: Space War DX is the old name for Space War GS.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nSupports Apple Watch Ultra large screen!\nImproved design for iPhone 14 Pro.",
+      "description": "Space War GS is the space arcade game for iPhone, iPad and Apple Watch! \nFly through the space and destroy waves of attacking aliens! Be prepared for the final battle!\n\n• retro-style space game for iPhone, iPad and Apple Watch!\n• multiple stages of continuous game play!\n• innovative touch screen control\n• supports iCade controller\n• fast full screen alien formations and attacks!\n• excellent soundtracks from Apple IIGS legend FTA!\n\n•• Reviews ••\n\"Fun game! Give it a try, everyone.\" \n- No Quarter Podcast\n\n\"This game is simply fantastic.\"\n- BriefMobile\n\n\"I miss Galaxian.  This has great graphics and action. I even play it with a stylus.\" \n- app review\n\n\"My husband love this game - He really like this game, hew said is similar to a game he used to play when he was 10.\" \n- app review\n\n\"Amazing app! I love it! You have to download this! Very fun and smooth!\" \n- app review\n\n•• Special Thanks! ••\n• Olivier Goguel of FTA and Hameed for background image",
+      "releaseNotes": "Upgraded to iOS 17.\nSimplified Apple Watch game.\nSupports iPad landscape mode.",
       "trackViewUrl": "https://apps.apple.com/de/app/space-war-gs/id363486833?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Thye Chean Lim",
@@ -68,15 +68,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/e1/53/9ee15352-8b38-0470-d058-452f28bb4394/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/8f/b1/088fb158-8831-8c64-e76e-97dcd43e5109/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.5,
   "userRatingCount": 2,
   "price": 1.99,
-  "fileSizeBytes": "29485056",
+  "fileSizeBytes": "28199936",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "12.0",
-  "version": "9.5",
-  "currentVersionReleaseDate": "2022-09-24T14:27:58Z",
+  "minimumOsVersion": "17.0",
+  "version": "10",
+  "currentVersionReleaseDate": "2026-09-29T00:44:22Z",
   "releaseDate": "2010-04-15T15:48:38Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -218,6 +218,29 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/44/f8/0944f891-952d-af74-7bd9-19c6bdff11e2/mzl.ptdxbdec.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/21/76/3521769b-f7aa-f75d-32a1-360831f0bf91/mzl.bkhlchiy.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/5c/c2/d25cc201-578a-8a2d-42aa-4f8866901761/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/8f/0c/7c8f0c1a-06f4-b0a8-2d27-fbfd1b8bf0d8/pr_source.jpg/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/9a/62/939a628b-4819-70a0-00d7-39e74440fba0/mzl.jcmrbvzd.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/90/f5/4990f5ae-edc8-32b7-1157-19e213becced/mzl.cjksvmub.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/f0/0d/77f00d33-983b-c975-d794-e84e6cae4381/mzl.eawwmwzc.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/b1/87/32b18742-58d5-a328-e41f-8faae2f18429/mzl.zrrntcxy.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8f/a2/218fa2c4-1c70-7693-8aa9-071481b1633d/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/17/d5/b317d53a-f407-eeb6-a657-19c00b885f5e/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/ba/75/e4ba7507-772d-5f1e-cff7-742bc7bb7639/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/9a/62/939a628b-4819-70a0-00d7-39e74440fba0/mzl.jcmrbvzd.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/90/f5/4990f5ae-edc8-32b7-1157-19e213becced/mzl.cjksvmub.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/f0/0d/77f00d33-983b-c975-d794-e84e6cae4381/mzl.eawwmwzc.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/b1/87/32b18742-58d5-a328-e41f-8faae2f18429/mzl.zrrntcxy.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/44/f8/0944f891-952d-af74-7bd9-19c6bdff11e2/mzl.ptdxbdec.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/21/76/3521769b-f7aa-f75d-32a1-360831f0bf91/mzl.bkhlchiy.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/57/a2/7e57a267-9afa-1d94-f39a-de29bf1aca1d/mzl.jcmrbvzd.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/b8/d6/f7b8d6dd-0b17-dc13-212e-1ee5bd8c907e/mzl.cjksvmub.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/26/b0/f7/26b0f790-d91e-6971-7ee7-b6cf9b689afa/mzl.eawwmwzc.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/64/dd/c464dd0a-1a23-5aad-6b3a-c0c37fd28d24/mzl.zrrntcxy.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/24/18/0b/24180bee-f1a0-8e6b-f620-eab1a28d84e4/mzl.ptdxbdec.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/0d/31/200d31b8-7582-a909-6208-ab7153c6789a/mzl.bkhlchiy.jpg/576x768bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/24/18/0b/24180bee-f1a0-8e6b-f620-eab1a28d84e4/mzl.ptdxbdec.jpg/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/0d/31/200d31b8-7582-a909-6208-ab7153c6789a/mzl.bkhlchiy.jpg/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/0b/6b/1c0b6b66-0f29-32cd-8e70-e09309646a99/pr_source.jpg/2048x2732bb.png",
@@ -228,15 +251,12 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/64/dd/c464dd0a-1a23-5aad-6b3a-c0c37fd28d24/mzl.zrrntcxy.png/1242x2208bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/25/be/f525be50-89b4-8445-d8f4-b9f296d8ab4c/pr_source.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/50/ca/8750cab0-8bcb-1546-b082-54efc61d6f2e/pr_source.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/6d/a3/c06da300-5035-9b8e-90ba-c33451775ddc/pr_source.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/57/a2/7e57a267-9afa-1d94-f39a-de29bf1aca1d/mzl.jcmrbvzd.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/b8/d6/f7b8d6dd-0b17-dc13-212e-1ee5bd8c907e/mzl.cjksvmub.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/26/b0/f7/26b0f790-d91e-6971-7ee7-b6cf9b689afa/mzl.eawwmwzc.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/64/dd/c464dd0a-1a23-5aad-6b3a-c0c37fd28d24/mzl.zrrntcxy.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/24/18/0b/24180bee-f1a0-8e6b-f620-eab1a28d84e4/mzl.ptdxbdec.jpg/576x768bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/0d/31/200d31b8-7582-a909-6208-ab7153c6789a/mzl.bkhlchiy.jpg/576x768bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/6d/a3/c06da300-5035-9b8e-90ba-c33451775ddc/pr_source.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ce/4b8dcec4-4263-b4c8-06d8-fdb2156539e5/mzl.yrzodpqn.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/de/c6/04dec65c-f744-7062-d837-3632b4a44d34/mzl.wgcgewsl.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/42/71/df42716a-7402-9f42-1e5e-81c528b76fc3/mzl.sqadvqgy.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/5b/41/d55b410b-00b2-cd6c-ae21-47b3bff58dd0/mzl.yrzodpqn.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/3c/98/fa3c9834-4ef0-e760-58f5-d6128bd07214/mzl.wgcgewsl.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/57/7f/f5/577ff5ec-524c-2c81-04eb-b17cd47cbbd7/mzl.sqadvqgy.png/368x448bb.png",
@@ -368,8 +388,13 @@
       "version": "9.5",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nSupports Apple Watch Ultra large screen!\nImproved design for iPhone 14 Pro.",
       "seenAt": "2022-09-24T14:27:58Z"
+    },
+    {
+      "version": "10",
+      "releaseNotes": "Upgraded to iOS 17.\nSimplified Apple Watch game.\nSupports iPad landscape mode.",
+      "seenAt": "2026-09-29T00:44:22Z"
     }
   ],
-  "updatedAt": "2026-09-28T14:29:55.616Z",
+  "updatedAt": "2026-09-29T13:31:54.564Z",
   "isOwnApp": false
 }
