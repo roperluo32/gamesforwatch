@@ -1,25 +1,25 @@
 {
   "trackId": "6747334581",
   "bundleId": "com.foxxymobile.singletapgames.SingleTapGames",
-  "slug": "single-tap-games-for-watch",
-  "path": "/apps/6747334581-single-tap-games-for-watch/",
+  "slug": "single-tap-games-watch-arcade",
+  "path": "/apps/6747334581-single-tap-games-watch-arcade/",
   "locales": {
     "en": {
-      "trackName": "Single Tap Games for Watch",
-      "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
-      "trackViewUrl": "https://apps.apple.com/us/app/single-tap-games-for-watch/id6747334581?uo=4",
+      "trackName": "Single Tap Games: Watch Arcade",
+      "description": "Six quick games for your Apple Watch. One tap to play.\n\n• Candy Land – climb the levels\n• Mini Soccer – score goals and beat your best\n• Goat Escape – dodge the fences and the lions\n• Simon – repeat the color pattern\n• The Builder – stack floor after floor and see how high your tower can go\n• Mars Invaders – blast waves of invading aliens in a retro arcade shooter\n\nEvery game runs right on your watch, with no iPhone needed. There's no sign-up and no ads. Chase your own high score whenever you have a minute to spare.\n\nGot a minute? Tap and play!",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/single-tap-games-watch-arcade/id6747334581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Ran Kornfeld",
       "genres": [
         "Games",
-        "Family",
-        "Casual"
+        "Casual",
+        "Action"
       ],
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "A minute to spare? Tap & Play"
+      "subtitle": "6 Quick Retro Mini Games"
     },
     "zh": {
       "trackName": "Single Tap Games for Watch",
@@ -69,7 +69,7 @@
   "artistId": 961958041,
   "artistName": "Ran Kornfeld",
   "artistViewUrl": "https://apps.apple.com/jp/developer/ran-kornfeld/id961958041?uo=4",
-  "sellerUrl": "",
+  "sellerUrl": "https://singletapgames.co",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -232,8 +232,13 @@
       "version": "3.0.0",
       "releaseNotes": "Two new games — The Builder and Mars Invaders!",
       "seenAt": "2026-08-26T05:16:35Z"
+    },
+    {
+      "version": "3.0.10",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "seenAt": "2026-09-30T03:56:38Z"
     }
   ],
-  "updatedAt": "2026-09-29T13:00:04.062Z",
+  "updatedAt": "2026-09-30T12:44:04.880Z",
   "isOwnApp": false
 }

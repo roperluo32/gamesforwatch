@@ -486,8 +486,13 @@
       "version": "3.388.0",
       "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
       "seenAt": "2026-09-24T18:19:16Z"
+    },
+    {
+      "version": "3.389.0",
+      "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
+      "seenAt": "2026-09-29T11:01:08Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:40:54.042Z",
+  "updatedAt": "2026-09-30T12:25:17.394Z",
   "isOwnApp": false
 }

@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Space War GS",
-      "description": "Space War GS (previously Space War DX) is the space arcade game for iPhone, iPad and Apple Watch! \nFly through the space and destroy waves of attacking aliens! Be prepared for the final battle!\n\n• retro-style space game for iPhone, iPad and Apple Watch!\n• supports Apple Watch Series 7 large display!\n• multiple stages of continuous game play!\n• innovative touch screen control\n• supports iCade controller\n• fast full screen alien formations and attacks!\n• excellent soundtracks from Apple IIGS legend FTA!\n\n•• Reviews ••\n\"Fun game! Give it a try, everyone.\" \n- No Quarter Podcast\n\n\"This game is simply fantastic.\"\n- BriefMobile\n\n\"I miss Galaxian.  This has great graphics and action. I even play it with a stylus.\" \n- app review\n\n\"My husband love this game - He really like this game, hew said is similar to a game he used to play when he was 10.\" \n- app review\n\n\"Amazing app! I love it! You have to download this! Very fun and smooth!\" \n- app review\n\n•• Special Thanks! ••\n• Olivier Goguel of FTA and Hameed for background image\n\nNote: Space War DX is the old name for Space War GS.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nSupports Apple Watch Ultra large screen!\nImproved design for iPhone 14 Pro.",
+      "description": "Space War GS is the space arcade game for iPhone, iPad and Apple Watch! \nFly through the space and destroy waves of attacking aliens! Be prepared for the final battle!\n\n• retro-style space game for iPhone, iPad and Apple Watch!\n• multiple stages of continuous game play!\n• innovative touch screen control\n• supports iCade controller\n• fast full screen alien formations and attacks!\n• excellent soundtracks from Apple IIGS legend FTA!\n\n•• Reviews ••\n\"Fun game! Give it a try, everyone.\" \n- No Quarter Podcast\n\n\"This game is simply fantastic.\"\n- BriefMobile\n\n\"I miss Galaxian.  This has great graphics and action. I even play it with a stylus.\" \n- app review\n\n\"My husband love this game - He really like this game, hew said is similar to a game he used to play when he was 10.\" \n- app review\n\n\"Amazing app! I love it! You have to download this! Very fun and smooth!\" \n- app review\n\n•• Special Thanks! ••\n• Olivier Goguel of FTA and Hameed for background image",
+      "releaseNotes": "Improved Apple Watch version.\nSupports iPhone landscape mode.",
       "trackViewUrl": "https://apps.apple.com/us/app/space-war-gs/id363486833?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Thye Chean Lim",
@@ -393,8 +393,13 @@
       "version": "10",
       "releaseNotes": "Upgraded to iOS 17.\nSimplified Apple Watch game.\nSupports iPad landscape mode.",
       "seenAt": "2026-09-29T00:44:22Z"
+    },
+    {
+      "version": "10.1",
+      "releaseNotes": "Improved Apple Watch version.\nSupports iPhone landscape mode.",
+      "seenAt": "2026-09-29T18:08:54Z"
     }
   ],
-  "updatedAt": "2026-09-29T13:31:54.564Z",
+  "updatedAt": "2026-09-30T12:58:50.558Z",
   "isOwnApp": false
 }
