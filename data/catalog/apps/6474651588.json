@@ -9,7 +9,7 @@
       "description": "Pack of 4 Solitaire games for Apple Watch or iPhone/iPad:\n  -  Klondike.\n  -  FreeCell.\n  -  Spider.\n  -  Tri Peaks.",
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/solitaire-collection-4-in-1/id6474651588?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
@@ -27,7 +27,7 @@
       "description": "Pack of 4 Solitaire games for Apple Watch or iPhone/iPad:\n  -  Klondike.\n  -  FreeCell.\n  -  Spider.\n  -  Tri Peaks.",
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/solitaire-collection-4-in-1/id6474651588?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
@@ -45,7 +45,7 @@
       "description": "Pack of 4 Solitaire games for Apple Watch or iPhone/iPad:\n  -  Klondike.\n  -  FreeCell.\n  -  Spider.\n  -  Tri Peaks.",
       "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/solitaire-collection-4-in-1/id6474651588?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
@@ -57,12 +57,30 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "Solitaire Collection - 4 in 1",
+      "description": "Pack of 4 Solitaire games for Apple Watch or iPhone/iPad:\n  -  Klondike.\n  -  FreeCell.\n  -  Spider.\n  -  Tri Peaks.",
+      "releaseNotes": "- Optimized for new OS.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/solitaire-collection-4-in-1/id6474651588?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Diem Le",
+      "genres": [
+        "游戏",
+        "家庭聚会",
+        "娱乐",
+        "桌面"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/48/ef/0348efbe-41d9-ab87-075b-df9a9763442f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "83426304",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "12.0",
@@ -274,6 +292,6 @@
       "seenAt": "2025-12-16T23:02:56Z"
     }
   ],
-  "updatedAt": "2026-09-30T12:42:33.633Z",
+  "updatedAt": "2026-10-01T13:17:08.677Z",
   "isOwnApp": false
 }

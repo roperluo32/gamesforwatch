@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Single Tap Games: Watch Arcade",
-      "description": "Six quick games for your Apple Watch. One tap to play.\n\n• Candy Land – climb the levels\n• Mini Soccer – score goals and beat your best\n• Goat Escape – dodge the fences and the lions\n• Simon – repeat the color pattern\n• The Builder – stack floor after floor and see how high your tower can go\n• Mars Invaders – blast waves of invading aliens in a retro arcade shooter\n\nEvery game runs right on your watch, with no iPhone needed. There's no sign-up and no ads. Chase your own high score whenever you have a minute to spare.\n\nGot a minute? Tap and play!",
-      "releaseNotes": "Bug fixes and performance improvements.",
+      "description": "Six quick games for Apple Watch and iPhone. One tap to play.\n\n• Candy Land – climb the levels\n• Mini Soccer – score goals and beat your best\n• Goat Escape – dodge the fences and the lions\n• Simon – repeat the color pattern\n• The Builder – stack floor after floor and see how high your tower can go\n• Mars Invaders – blast waves of invading aliens in a retro arcade shooter\n\nPlay on your wrist, or on your iPhone, where each game runs on a watch shown on the screen. Your high scores sync between your Apple Watch and your iPhone, and Game Center leaderboards show how you rank against other players.\n\nThere's no sign-up and no ads. Chase your own high score whenever you have a minute to spare.\n\nGot a minute? Tap and play!",
+      "releaseNotes": "• New: play all six games on your iPhone too\n• Game Center leaderboards for every game\n• High scores sync between your Apple Watch and iPhone\n• Bug fixes and improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/single-tap-games-watch-arcade/id6747334581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Ran Kornfeld",
@@ -22,16 +22,16 @@
       "subtitle": "6 Quick Retro Mini Games"
     },
     "zh": {
-      "trackName": "Single Tap Games for Watch",
-      "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
-      "trackViewUrl": "https://apps.apple.com/cn/app/single-tap-games-for-watch/id6747334581?uo=4",
+      "trackName": "Single Tap Games: Watch Arcade",
+      "description": "Six quick games for Apple Watch and iPhone. One tap to play.\n\n• Candy Land – climb the levels\n• Mini Soccer – score goals and beat your best\n• Goat Escape – dodge the fences and the lions\n• Simon – repeat the color pattern\n• The Builder – stack floor after floor and see how high your tower can go\n• Mars Invaders – blast waves of invading aliens in a retro arcade shooter\n\nPlay on your wrist, or on your iPhone, where each game runs on a watch shown on the screen. Your high scores sync between your Apple Watch and your iPhone, and Game Center leaderboards show how you rank against other players.\n\nThere's no sign-up and no ads. Chase your own high score whenever you have a minute to spare.\n\nGot a minute? Tap and play!",
+      "releaseNotes": "• New: play all six games on your iPhone too\n• Game Center leaderboards for every game\n• High scores sync between your Apple Watch and iPhone\n• Bug fixes and improvements",
+      "trackViewUrl": "https://apps.apple.com/cn/app/single-tap-games-watch-arcade/id6747334581?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Ran Kornfeld",
       "genres": [
         "游戏",
-        "家庭聚会",
-        "休闲"
+        "休闲",
+        "动作"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -39,16 +39,16 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Single Tap Games for Watch",
-      "description": "Experience the delight of effortless entertainment with simple, one-tap games available directly on your Apple Watch.\n\nPlay quick, uncomplicated games that promise pure enjoyment. \nChallenge yourself to surpass your previous high scores, ascend the leaderboards, and compete against fellow players.\n\nThese games operate seamlessly on Apple Watch devices, eliminating the necessity for a companion iPhone application.\n\nGot a minute to spare? Tap and Play!",
-      "releaseNotes": "Two new games — The Builder and Mars Invaders!",
-      "trackViewUrl": "https://apps.apple.com/jp/app/single-tap-games-for-watch/id6747334581?uo=4",
+      "trackName": "Single Tap Games: ミニゲーム",
+      "description": "Apple WatchとiPhoneで遊べる6つの手軽なゲーム。タップするだけ。\n\n• キャンディランド – レベルを上げよう\n• ミニサッカー – ゴールを決めて自己ベストを更新しよう\n• ゴートエスケープ – 柵とライオンをよけよう\n• サイモン – 色の順番を覚えよう\n• The Builder – フロアを積み重ねて、タワーをどこまで高くできるか挑戦しよう\n• Mars Invaders – レトロなアーケードシューティングで、押し寄せるエイリアンの大群を撃ち落とそう\n\n手首で、またはiPhoneで遊べます。iPhoneでは、画面に描かれたウォッチの中でゲームが動きます。ハイスコアはApple WatchとiPhoneの間で同期され、Game Centerのリーダーボードで他のプレイヤーとの順位を確認できます。\n\n登録も広告もありません。ちょっとした空き時間に、自己ベストを目指しましょう。\n\nちょっと時間ありますか？タップして遊ぼう！",
+      "releaseNotes": "• 新機能：6つのゲームすべてをiPhoneでも\n• すべてのゲームにGame Centerのリーダーボード\n• ハイスコアをApple WatchとiPhoneで同期\n• 不具合の修正と改善",
+      "trackViewUrl": "https://apps.apple.com/jp/app/single-tap-games-%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0/id6747334581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Ran Kornfeld",
       "genres": [
         "ゲーム",
-        "ファミリー",
-        "カジュアル"
+        "カジュアル",
+        "アクション"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -56,21 +56,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/06/d6/0106d65e-0203-ca44-2af7-b05b40da39cc/AppIcon-0-0-1x_U007ewatch-0-1-0-P3-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/4a/93/d54a932a-b103-914c-2994-ad4567164b76/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "6046720",
+  "fileSizeBytes": "14462976",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "3.0.0",
-  "currentVersionReleaseDate": "2026-08-26T05:16:35Z",
+  "minimumOsVersion": "16.0",
+  "version": "3.1.0",
+  "currentVersionReleaseDate": "2026-10-01T06:02:43Z",
   "releaseDate": "2025-06-17T07:00:00Z",
   "artistId": 961958041,
   "artistName": "Ran Kornfeld",
   "artistViewUrl": "https://apps.apple.com/jp/developer/ran-kornfeld/id961958041?uo=4",
   "sellerUrl": "https://singletapgames.co",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -205,8 +205,31 @@
     "iPhoneDuo-iPhoneDuo"
   ],
   "hasWatch": true,
-  "phoneScreenshots": [],
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/5e/d8/fb5ed89f-8baa-d027-8321-d7c92b05ac56/01_home.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/2b/a3/9f2ba3de-8508-1a68-7e7b-25d33165664a/iphone_goat.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/b2/c8/79b2c824-9539-016b-4d1d-a11bc3b4afcb/iphone_candy.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/9f/c4/069fc4e9-6f34-701b-f8be-0eceef78903b/iphone_soccer.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/0c/40/4f0c40f9-efa4-478d-0237-268a68f41558/iphone_builder.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/02/f6/1602f617-5671-ed0e-1146-245e8e0d2dcc/03_invaders.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/17/85/7a1785d6-790e-7516-abde-0237b7708595/iphone_simon.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/5e/d8/fb5ed89f-8baa-d027-8321-d7c92b05ac56/01_home.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/2b/a3/9f2ba3de-8508-1a68-7e7b-25d33165664a/iphone_goat.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/b2/c8/79b2c824-9539-016b-4d1d-a11bc3b4afcb/iphone_candy.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/9f/c4/069fc4e9-6f34-701b-f8be-0eceef78903b/iphone_soccer.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/0c/40/4f0c40f9-efa4-478d-0237-268a68f41558/iphone_builder.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/02/f6/1602f617-5671-ed0e-1146-245e8e0d2dcc/03_invaders.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/17/85/7a1785d6-790e-7516-abde-0237b7708595/iphone_simon.png/320x480bb.jpg"
+  ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c9/26/ccc926bd-7bc8-8aeb-53d0-dc81df66bca0/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.12.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/72/66/ed726658-2641-3bfa-05bf-494e299fe24d/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.35.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/9c/aa/249caaea-1350-68c2-0986-1ef8afd0e708/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.04.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/1e/0d/b91e0d81-e125-ab71-0f7b-9f079fc16b0b/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.58.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/2f/ac/f02fac6a-9217-00ef-ec32-6b1fb1664f54/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.38.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/34/cf/7134cf90-fd15-5845-a361-e4d1e784c2fe/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.26.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/fd/f2/5efdf2a4-3ef5-6370-cee9-b6043bbc1264/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.01.05.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/ba/d3/e2bad368-d65d-0d95-f6bc-f139e39adc7b/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.01.21.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/5f/76/5a5f76df-b1a3-24fd-54b7-b9886cc4156b/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.12.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/3b/e8/063be851-6717-809a-6c1f-915559745098/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.02.35.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/6d/26/266d26d8-5c38-0a20-f043-bb4e30af13b0/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-08-23_at_12.03.04.png/422x514bb.png",
@@ -237,8 +260,13 @@
       "version": "3.0.10",
       "releaseNotes": "Bug fixes and performance improvements.",
       "seenAt": "2026-09-30T03:56:38Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "• New: play all six games on your iPhone too\n• Game Center leaderboards for every game\n• High scores sync between your Apple Watch and iPhone\n• Bug fixes and improvements",
+      "seenAt": "2026-10-01T06:02:43Z"
     }
   ],
-  "updatedAt": "2026-09-30T12:44:04.880Z",
+  "updatedAt": "2026-10-01T13:17:34.005Z",
   "isOwnApp": false
 }

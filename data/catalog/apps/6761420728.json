@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "NeonFlip: Board Game",
-      "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels - which one is yours?",
-      "releaseNotes": "Supports landscape mode.",
+      "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels, multiple languages!",
+      "releaseNotes": "Player can now choose black or white piece. Black moves first.\nImproved localization.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
@@ -18,18 +18,17 @@
         "Entertainment"
       ],
       "languageCodesISO2A": [
+        "ZH",
         "EN",
         "DE",
-        "JA",
-        "ZH",
-        "ZH"
+        "JA"
       ],
       "subtitle": "Play Reversi on phone or watch"
     },
     "ja": {
       "trackName": "NeonFlip: Board Game",
-      "description": "未来的なネオンシティでリバーシをプレイしよう！\nApple Watch、iPhone、iPad、Macに対応。\n\n1人プレイまたは2人プレイ、3段階の難易度設定。あなたにぴったりの難易度はどれ？",
-      "releaseNotes": "横向きモードに対応しています。",
+      "description": "近未来のネオン輝く都市で、オセロ（リバーシ）をプレイしよう！\nApple Watch、iPhone、iPad、Macに対応しています。\n\n1人または2人プレイ、3段階の難易度、多言語対応！",
+      "releaseNotes": "黒または白の駒を選べるようになりました。黒が先手です。\nローカライズを改善しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
@@ -40,18 +39,17 @@
         "エンターテインメント"
       ],
       "languageCodesISO2A": [
+        "ZH",
         "EN",
         "DE",
-        "JA",
-        "ZH",
-        "ZH"
+        "JA"
       ],
       "subtitle": ""
     },
     "de": {
       "trackName": "NeonFlip: Board Game",
-      "description": "Spiele Reversi... in einer futuristischen Neonstadt! \nFunktioniert auf Apple Watch, iPhone, iPad und Mac.\n\nEinzel- oder Zweispielermodus, 3 Schwierigkeitsgrade – welcher ist deiner?",
-      "releaseNotes": "Unterstützt den Querformat-Modus.",
+      "description": "Spiele eine Runde Reversi ... in einer futuristischen Neon-Stadt!\nLäuft auf Apple Watch, iPhone, iPad und Mac.\n\nModus für einen oder zwei Spieler, 3 Schwierigkeitsstufen, mehrere Sprachen!",
+      "releaseNotes": "Spieler können nun zwischen schwarzen und weißen Steinen wählen. Schwarz beginnt.\nVerbesserte Lokalisierung.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
@@ -62,24 +60,23 @@
         "Unterhaltung"
       ],
       "languageCodesISO2A": [
+        "ZH",
         "EN",
         "DE",
-        "JA",
-        "ZH",
-        "ZH"
+        "JA"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5b/46/1f5b460d-68fb-51fc-7082-9ee4549e72e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/70/b8/4970b8b0-38bd-a2b6-bbdf-a7a774b25da4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "11056128",
+  "fileSizeBytes": "11113472",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.1",
-  "currentVersionReleaseDate": "2026-09-18T14:57:06Z",
+  "version": "2.2",
+  "currentVersionReleaseDate": "2026-09-30T19:48:45Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -271,8 +268,13 @@
       "version": "2.1",
       "releaseNotes": "Supports landscape mode.",
       "seenAt": "2026-09-18T14:57:06Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Player can now choose black or white piece. Black moves first.\nImproved localization.",
+      "seenAt": "2026-09-30T19:48:45Z"
     }
   ],
-  "updatedAt": "2026-09-30T13:00:02.900Z",
+  "updatedAt": "2026-10-01T13:35:01.235Z",
   "isOwnApp": false
 }
