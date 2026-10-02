@@ -234,7 +234,7 @@
   "versionHistory": [
     {
       "version": "1.0",
-      "releaseNotes": "Bitcode.Marketing.Note",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.",
       "seenAt": "2025-06-11T19:19:19Z"
     },
     {
@@ -253,6 +253,6 @@
       "seenAt": "2026-09-30T18:16:30Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:34:10.956Z",
+  "updatedAt": "2026-10-02T12:56:49.003Z",
   "isOwnApp": false
 }

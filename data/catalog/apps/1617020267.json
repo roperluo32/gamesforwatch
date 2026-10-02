@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Board",
-        "Puzzle",
-        "Entertainment"
+        "Entertainment",
+        "Puzzle"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "ゲーム",
         "ボード",
-        "パズル",
-        "エンターテインメント"
+        "エンターテインメント",
+        "パズル"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "Spiele",
         "Brettspiele",
-        "Puzzle",
-        "Unterhaltung"
+        "Unterhaltung",
+        "Puzzle"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -427,6 +427,6 @@
       "seenAt": "2026-09-01T21:48:52Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:03:17.158Z",
+  "updatedAt": "2026-10-02T12:26:30.663Z",
   "isOwnApp": false
 }

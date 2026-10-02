@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Games - WatchQ",
       "description": "Bring gaming right to your wrist with WatchQ, the ultimate collection of Apple Watch games.\n\nWhether you’re waiting in line, commuting, or just want a quick mental break, WatchQ makes it easy to play anytime, anywhere.\n\nKey Features:\n\n→ Optimized Interface: Enjoy smooth gameplay and intuitive controls tailored for the smaller screen — quick, simple, and fun!\n\n→ Multiple Game Categories: Dive into a variety of mini-games, including:\n\nSports – Test your reflexes and timing.\nPuzzle – Challenge your mind with brain teasers.\nArcade – Relive the fun of classic arcade hits.\nCards – Perfect for quick strategic fun.\n\n→ Track Your High Scores: Compete against yourself and aim to beat your personal best in every game.\n\n→ Pause or Replay Anytime: Take a break whenever you need – resume or replay with a single tap.\n\nWhy You’ll Love WatchQ:\n\nWatchQ brings the joy of gaming to your wrist without distractions. Simple mechanics, quick sessions, and beautiful design make it perfect for both casual players and enthusiasts alike.\n\nDownload WatchQ now and turn every moment into playtime, right from your wrist!\n\nAbout Premium Subscription: \n\nThe free version has limited features. A WatchQ Pro subscription is required to unlock full access.\n\nPrivacy Policy: https://game-q.top/privacy-policy\n\nTerms of Use: https://game-q.top/terms-conditions\n\nSupport: https://game-q.top/support",
-      "releaseNotes": "-Enjoy new games.",
+      "releaseNotes": "- Added new features.",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-games-watchq/id6754549269?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nikita Bohara",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Watch Games - WatchQ",
       "description": "Bring gaming right to your wrist with WatchQ, the ultimate collection of Apple Watch games.\n\nWhether you’re waiting in line, commuting, or just want a quick mental break, WatchQ makes it easy to play anytime, anywhere.\n\nKey Features:\n\n→ Optimized Interface: Enjoy smooth gameplay and intuitive controls tailored for the smaller screen — quick, simple, and fun!\n\n→ Multiple Game Categories: Dive into a variety of mini-games, including:\n\nSports – Test your reflexes and timing.\nPuzzle – Challenge your mind with brain teasers.\nArcade – Relive the fun of classic arcade hits.\nCards – Perfect for quick strategic fun.\n\n→ Track Your High Scores: Compete against yourself and aim to beat your personal best in every game.\n\n→ Pause or Replay Anytime: Take a break whenever you need – resume or replay with a single tap.\n\nWhy You’ll Love WatchQ:\n\nWatchQ brings the joy of gaming to your wrist without distractions. Simple mechanics, quick sessions, and beautiful design make it perfect for both casual players and enthusiasts alike.\n\nDownload WatchQ now and turn every moment into playtime, right from your wrist!\n\nAbout Premium Subscription: \n\nThe free version has limited features. A WatchQ Pro subscription is required to unlock full access.\n\nPrivacy Policy: https://game-q.top/privacy-policy\n\nTerms of Use: https://game-q.top/terms-conditions\n\nSupport: https://game-q.top/support",
-      "releaseNotes": "-Enjoy new games.",
+      "releaseNotes": "- Added new features.",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-games-watchq/id6754549269?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nikita Bohara",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Watch Games - WatchQ",
       "description": "Bring gaming right to your wrist with WatchQ, the ultimate collection of Apple Watch games.\n\nWhether you’re waiting in line, commuting, or just want a quick mental break, WatchQ makes it easy to play anytime, anywhere.\n\nKey Features:\n\n→ Optimized Interface: Enjoy smooth gameplay and intuitive controls tailored for the smaller screen — quick, simple, and fun!\n\n→ Multiple Game Categories: Dive into a variety of mini-games, including:\n\nSports – Test your reflexes and timing.\nPuzzle – Challenge your mind with brain teasers.\nArcade – Relive the fun of classic arcade hits.\nCards – Perfect for quick strategic fun.\n\n→ Track Your High Scores: Compete against yourself and aim to beat your personal best in every game.\n\n→ Pause or Replay Anytime: Take a break whenever you need – resume or replay with a single tap.\n\nWhy You’ll Love WatchQ:\n\nWatchQ brings the joy of gaming to your wrist without distractions. Simple mechanics, quick sessions, and beautiful design make it perfect for both casual players and enthusiasts alike.\n\nDownload WatchQ now and turn every moment into playtime, right from your wrist!\n\nAbout Premium Subscription: \n\nThe free version has limited features. A WatchQ Pro subscription is required to unlock full access.\n\nPrivacy Policy: https://game-q.top/privacy-policy\n\nTerms of Use: https://game-q.top/terms-conditions\n\nSupport: https://game-q.top/support",
-      "releaseNotes": "-Enjoy new games.",
+      "releaseNotes": "- Added new features.",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-games-watchq/id6754549269?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nikita Bohara",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/dc/0f/78dc0ff8-e26a-7761-73d8-25ac4e66adbe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/bf/96/89bf96a3-5605-b533-a84b-3c00fdf59968/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 3.28571,
   "userRatingCount": 7,
   "price": 0,
-  "fileSizeBytes": "69494784",
+  "fileSizeBytes": "70428672",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.7",
-  "currentVersionReleaseDate": "2026-07-20T20:36:21Z",
+  "version": "1.8",
+  "currentVersionReleaseDate": "2026-10-01T11:38:10Z",
   "releaseDate": "2025-11-06T08:00:00Z",
   "artistId": 1829435045,
   "artistName": "Nikita Bohara",
@@ -271,8 +271,13 @@
       "version": "1.7",
       "releaseNotes": "-Enjoy new games.",
       "seenAt": "2026-07-20T20:36:21Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "- Added new features. ",
+      "seenAt": "2026-10-01T11:38:10Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:56:56.332Z",
+  "updatedAt": "2026-10-02T12:20:04.877Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bounce Buddies: Watch Game",
       "description": "Two buddies, one elastic connection, and a bouncy adventure!\n\nElastic Buddies is a fun platform adventure built around stretching, bouncing, and timing. Two buddies are connected together, and you’ll use their elastic movement to make your way across platforms and obstacles.\n\nMove your characters, build up the right amount of stretch, and use the rebound to reach the next platform. Good timing can turn a simple pull into the perfect jump.\n\nFeatures:\n\n• Simple and intuitive controls\n• Fun elastic and bouncing mechanics\n• Two-character cooperative gameplay\n• A variety of levels and obstacles\n• Play on iPhone and Apple Watch\n• Quick gameplay for anytime, anywhere\n\nMaster the bounce, find your rhythm, and help the buddies reach the finish!",
-      "releaseNotes": "Fixed English app names and screen titles appearing when using Chinese. Restored Simplified and Traditional Chinese names.",
+      "releaseNotes": "Added full-platform lava hazards for new buddy-climbing challenges.\nRefined level progression: lava stays visible in L2–L5. From L6 onward, it appears for 2 seconds and disappears for 3 seconds.\nAdded flowing lava effects, cooldown indicators, and advance warnings to help you time your jumps.\nImproved safe landing spots and obstacle placement. Jump guidance now appears only in the first level.",
       "trackViewUrl": "https://apps.apple.com/us/app/bounce-buddies-watch-game/id6812223066?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -30,7 +30,7 @@
     "zh": {
       "trackName": "弹力搭档-手表游戏",
       "description": "两个搭档，一根弹力绳，一场充满弹性的冒险！\n\n《弹力搭档》是一款轻松有趣的弹力跳跃闯关游戏。两个小伙伴彼此连接，你需要巧妙利用拉伸与回弹，在不同的平台和障碍之间不断前进。\n\n控制角色移动，掌握弹力与跳跃的节奏。一次恰到好处的拉伸，就可能让搭档跃过障碍、到达新的平台。\n\n游戏特色：\n\n• 简单直观的操作方式\n• 有趣的弹力与回弹玩法\n• 双角色协作闯关\n• 多种关卡与障碍挑战\n• 支持 iPhone 与 Apple Watch\n• 随时随地轻松来一局\n\n掌握弹力，找准节奏，和你的搭档一起向终点出发！",
-      "releaseNotes": "修复中文环境下应用名称、首页及设置页标题显示为英文的问题，恢复简繁中文名称。",
+      "releaseNotes": "- 新增整块跳台熔岩机关，带来更丰富的接力闯关挑战。\n- 优化关卡难度：L2–L5 岩浆持续显示，L6 起采用“显示 2 秒、隐藏 3 秒”的循环机制。\n- 新增流动熔岩效果、冷却提示和出现前预警，帮助掌握跳跃时机。\n- 调整安全落脚点与障碍布局，跳跃指引仅在第一关显示。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BC%B9%E5%8A%9B%E6%90%AD%E6%A1%A3-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6812223066?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "Bounce Buddies: Watch Game",
       "description": "Two buddies, one elastic connection, and a bouncy adventure!\n\nElastic Buddies is a fun platform adventure built around stretching, bouncing, and timing. Two buddies are connected together, and you’ll use their elastic movement to make your way across platforms and obstacles.\n\nMove your characters, build up the right amount of stretch, and use the rebound to reach the next platform. Good timing can turn a simple pull into the perfect jump.\n\nFeatures:\n\n• Simple and intuitive controls\n• Fun elastic and bouncing mechanics\n• Two-character cooperative gameplay\n• A variety of levels and obstacles\n• Play on iPhone and Apple Watch\n• Quick gameplay for anytime, anywhere\n\nMaster the bounce, find your rhythm, and help the buddies reach the finish!",
-      "releaseNotes": "Fixed English app names and screen titles appearing when using Chinese. Restored Simplified and Traditional Chinese names.",
+      "releaseNotes": "Added full-platform lava hazards for new buddy-climbing challenges.\nRefined level progression: lava stays visible in L2–L5. From L6 onward, it appears for 2 seconds and disappears for 3 seconds.\nAdded flowing lava effects, cooldown indicators, and advance warnings to help you time your jumps.\nImproved safe landing spots and obstacle placement. Jump guidance now appears only in the first level.",
       "trackViewUrl": "https://apps.apple.com/jp/app/bounce-buddies-watch-game/id6812223066?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -76,7 +76,7 @@
     "de": {
       "trackName": "Bounce Buddies: Watch Game",
       "description": "Two buddies, one elastic connection, and a bouncy adventure!\n\nElastic Buddies is a fun platform adventure built around stretching, bouncing, and timing. Two buddies are connected together, and you’ll use their elastic movement to make your way across platforms and obstacles.\n\nMove your characters, build up the right amount of stretch, and use the rebound to reach the next platform. Good timing can turn a simple pull into the perfect jump.\n\nFeatures:\n\n• Simple and intuitive controls\n• Fun elastic and bouncing mechanics\n• Two-character cooperative gameplay\n• A variety of levels and obstacles\n• Play on iPhone and Apple Watch\n• Quick gameplay for anytime, anywhere\n\nMaster the bounce, find your rhythm, and help the buddies reach the finish!",
-      "releaseNotes": "Fixed English app names and screen titles appearing when using Chinese. Restored Simplified and Traditional Chinese names.",
+      "releaseNotes": "Added full-platform lava hazards for new buddy-climbing challenges.\nRefined level progression: lava stays visible in L2–L5. From L6 onward, it appears for 2 seconds and disappears for 3 seconds.\nAdded flowing lava effects, cooldown indicators, and advance warnings to help you time your jumps.\nImproved safe landing spots and obstacle placement. Jump guidance now appears only in the first level.",
       "trackViewUrl": "https://apps.apple.com/de/app/bounce-buddies-watch-game/id6812223066?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -97,15 +97,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d8/41/03d841dc-3f8c-1269-ca4d-67d8310d9f43/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/95/a4/d495a45c-5093-2437-829a-ecccef5a78f1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "8897536",
+  "fileSizeBytes": "8950784",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "1.1",
-  "currentVersionReleaseDate": "2026-09-29T01:27:54Z",
+  "version": "1.3",
+  "currentVersionReleaseDate": "2026-10-02T00:12:12Z",
   "releaseDate": "2026-09-22T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -286,8 +286,13 @@
       "version": "1.1",
       "releaseNotes": "Fixed English app names and screen titles appearing when using Chinese. Restored Simplified and Traditional Chinese names.",
       "seenAt": "2026-09-29T01:27:54Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Added full-platform lava hazards for new buddy-climbing challenges.\nRefined level progression: lava stays visible in L2–L5. From L6 onward, it appears for 2 seconds and disappears for 3 seconds.\nAdded flowing lava effects, cooldown indicators, and advance warnings to help you time your jumps.\nImproved safe landing spots and obstacle placement. Jump guidance now appears only in the first level.",
+      "seenAt": "2026-10-02T00:12:12Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:10:53.058Z",
+  "updatedAt": "2026-10-02T12:33:55.945Z",
   "isOwnApp": false
 }

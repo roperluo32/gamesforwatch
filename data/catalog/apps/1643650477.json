@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Car Park Puzzle Watch & Phone",
       "description": "Car Park Puzzle — for iPhone & Apple Watch\n  - 1,000+ handcrafted levels. One solution each. Slide, unblock, escape.\n  - Simple to pick up. Hard to put down.",
-      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nFresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
       "trackViewUrl": "https://apps.apple.com/jp/app/car-park-puzzle-watch-phone/id1643650477?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Car Park Puzzle Watch & Phone",
       "description": "Car Park Puzzle — for iPhone & Apple Watch\n  - 1,000+ handcrafted levels. One solution each. Slide, unblock, escape.\n  - Simple to pick up. Hard to put down.",
-      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nFresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
       "trackViewUrl": "https://apps.apple.com/de/app/car-park-puzzle-watch-phone/id1643650477?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ba/b0/acbab0a0-1ae0-ccd7-88af-9e4845f4f63b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/06/d5/4a06d5b4-767b-a863-1ff5-adb1d4b1ebf4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.95652,
   "userRatingCount": 46,
   "price": 0,
-  "fileSizeBytes": "83779584",
+  "fileSizeBytes": "78716928",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.0.1",
-  "currentVersionReleaseDate": "2026-08-18T16:12:41Z",
+  "version": "3.1.0",
+  "currentVersionReleaseDate": "2026-10-01T19:04:57Z",
   "releaseDate": "2022-09-06T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -421,8 +421,13 @@
       "version": "3.0.1",
       "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
       "seenAt": "2026-08-18T16:12:41Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "More levels. Smoother rides. Less waiting.\nFresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "seenAt": "2026-10-01T19:04:57Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:57:40.557Z",
+  "updatedAt": "2026-10-02T12:20:44.981Z",
   "isOwnApp": false
 }

@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Entertainment",
-        "Family",
-        "Puzzle"
+        "Puzzle",
+        "Card"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -32,8 +32,8 @@
       "genres": [
         "游戏",
         "娱乐",
-        "家庭聚会",
-        "益智解谜"
+        "益智解谜",
+        "卡牌"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "ゲーム",
         "エンターテインメント",
-        "ファミリー",
-        "パズル"
+        "パズル",
+        "カード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -68,8 +68,8 @@
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Familie",
-        "Puzzle"
+        "Puzzle",
+        "Karten"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/73/a1/5873a168-fe2f-7a7b-201b-72cd1e91cada/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4a/4a/6f4a4a67-5197-0133-9cf9-9bb6762452f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "106913792",
+  "fileSizeBytes": "108482560",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.0.1",
-  "currentVersionReleaseDate": "2026-09-29T18:07:45Z",
+  "version": "1.0.2",
+  "currentVersionReleaseDate": "2026-10-01T19:36:29Z",
   "releaseDate": "2026-09-26T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -227,6 +227,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/9d/ac/459dac91-2eda-c0b0-b365-9c09d255d1bf/ipad6.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/39/b2/cc39b284-55ce-6661-eda2-42d7c517719a/ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/73/6c/d9736c0b-2abe-1776-dadf-dfa6eaab7838/ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/1b/4a/de1b4a6b-0c13-fa6c-2f10-1db859f4df71/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/72/b8/7b72b89d-9acf-31c3-d0c6-924aaf4e0a7c/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/0f/ed/0f0fed2c-63c8-e891-4df8-6d0f1088fbff/ipx_3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/6e/9c/336e9cd2-1409-e9d5-7cb5-f37f8dc2f181/ipx_4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/e1/23/96e1233e-8448-1f99-9c51-358cb9b029b1/ipx_2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/ca/14/fdca14c9-8f92-a504-9e16-d0284122b3d8/ipx_1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/0f/ed/0f0fed2c-63c8-e891-4df8-6d0f1088fbff/ipx_3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/6e/9c/336e9cd2-1409-e9d5-7cb5-f37f8dc2f181/ipx_4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/e1/23/96e1233e-8448-1f99-9c51-358cb9b029b1/ipx_2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/ca/14/fdca14c9-8f92-a504-9e16-d0284122b3d8/ipx_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/9d/ac/459dac91-2eda-c0b0-b365-9c09d255d1bf/ipad6.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/39/b2/cc39b284-55ce-6661-eda2-42d7c517719a/ipad4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/73/6c/d9736c0b-2abe-1776-dadf-dfa6eaab7838/ipad5.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/1b/4a/de1b4a6b-0c13-fa6c-2f10-1db859f4df71/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/72/b8/7b72b89d-9acf-31c3-d0c6-924aaf4e0a7c/ipad1.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/a9/bf/b5a9bf13-db40-f3e9-abba-462129051dde/ipad2.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/32/97/4e3297a5-3fe0-6949-c8d4-2e82bbfae240/ipad1.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/b5/43/f3b5437e-c21b-4162-b581-0e3e2cf5d4be/ipad5.png/2048x2732bb.png",
@@ -273,6 +291,11 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/f9/74/b8f97433-c2da-38c0-3ef5-4537ab2c1f23/ipx_6.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/91/c1/7191c1b1-45b5-850c-4eea-c48c6e9fe99f/w4.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e4/08/fae40889-4ac9-90d1-3af8-819a5b05d299/w5.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/f1/bb/0ff1bbaf-196f-314e-4972-dfaaa49734fc/w6.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/3a/ea/503aea9f-80a4-2ff0-6e3b-94fd346f5f2a/w1.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/f6/a0/5bf6a078-213b-9552-6708-7f7369ebdfd0/w2.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/cc/e7/adcce767-a901-1aaf-2c8d-07c05adb8a06/w6.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/91/a6/9191a653-6c09-79c8-78c3-5eb21bcc19cd/w1.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/dd/ab/fbddab03-5a14-fd6e-8c8e-8bcffc9884d6/w2.png/422x514bb.png",
@@ -296,8 +319,13 @@
       "version": "1.0.1",
       "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "seenAt": "2026-09-29T18:07:45Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
+      "seenAt": "2026-10-01T19:36:29Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:17:17.916Z",
+  "updatedAt": "2026-10-02T12:40:10.044Z",
   "isOwnApp": false
 }
