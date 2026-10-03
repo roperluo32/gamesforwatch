@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ec/f4/cfecf414-adcd-e748-8070-62375655d9a4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/58/f0/3558f0c0-ba15-f20d-b23e-cc6d2fcdb4f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.39286,
   "userRatingCount": 28,
   "price": 0,
-  "fileSizeBytes": "109553664",
+  "fileSizeBytes": "109926400",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "15.6",
-  "version": "0.9.81",
-  "currentVersionReleaseDate": "2026-08-25T06:45:32Z",
+  "version": "0.9.82",
+  "currentVersionReleaseDate": "2026-10-03T07:29:27Z",
   "releaseDate": "2020-11-06T08:00:00Z",
   "artistId": 1199558369,
   "artistName": "ALWAYS TOGETHER LIMITED",
@@ -365,8 +365,13 @@
       "version": "0.9.81",
       "releaseNotes": "The Accessory Store is now open! Your Motmot deserves a glow-up, so kit out your fitness pet with brand-new accessories, boost your motivation, and show off your style. This update also includes performance improvements and bug fixes. Fitness has never been more fun!",
       "seenAt": "2026-08-25T06:45:32Z"
+    },
+    {
+      "version": "0.9.82",
+      "releaseNotes": "The Accessory Store is now open! Your Motmot deserves a glow-up, so kit out your fitness pet with brand-new accessories, boost your motivation, and show off your style. This update also includes performance improvements and bug fixes. Fitness has never been more fun!",
+      "seenAt": "2026-10-03T07:29:27Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:59:12.080Z",
+  "updatedAt": "2026-10-03T11:59:37.748Z",
   "isOwnApp": false
 }

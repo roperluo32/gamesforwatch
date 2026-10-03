@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Chinese Chess - Watch & Phone",
       "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
-      "releaseNotes": "",
+      "releaseNotes": "- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/us/app/chinese-chess-watch-phone/id6812311968?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Chinese Chess - Watch & Phone",
       "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
-      "releaseNotes": "",
+      "releaseNotes": "- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/cn/app/chinese-chess-watch-phone/id6812311968?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Chinese Chess - Watch & Phone",
       "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
-      "releaseNotes": "",
+      "releaseNotes": "- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/jp/app/chinese-chess-watch-phone/id6812311968?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Chinese Chess - Watch & Phone",
       "description": "Timeless strategy game of Chinese Chess, also known as Xiangqi\n  - Plan each move, protect your general, and outsmart your opponent.\n  - Play solo or challenge a friend.\n  - Multiple difficulty levels.\n  - Play on both Apple Watch and iPhone.",
-      "releaseNotes": "",
+      "releaseNotes": "- Optimize for new os.",
       "trackViewUrl": "https://apps.apple.com/de/app/chinese-chess-watch-phone/id6812311968?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c3/37/03c33774-3dd8-3fdc-43a0-6548872a6d3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/f4/ae/10f4ae99-4eca-9184-33ea-23cbfb0f866f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "64890880",
+  "fileSizeBytes": "64907264",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.0.0",
-  "currentVersionReleaseDate": "2026-09-18T00:41:41Z",
+  "version": "1.0.1",
+  "currentVersionReleaseDate": "2026-10-02T19:16:32Z",
   "releaseDate": "2026-09-17T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -250,8 +250,13 @@
       "version": "1.0.0",
       "releaseNotes": "",
       "seenAt": "2026-09-18T00:41:41Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "- Optimize for new os.",
+      "seenAt": "2026-10-02T19:16:32Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:40:14.585Z",
+  "updatedAt": "2026-10-03T11:51:45.958Z",
   "isOwnApp": false
 }

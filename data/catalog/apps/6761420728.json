@@ -18,10 +18,11 @@
         "Entertainment"
       ],
       "languageCodesISO2A": [
-        "ZH",
         "EN",
         "DE",
-        "JA"
+        "JA",
+        "ZH",
+        "ZH"
       ],
       "subtitle": "Play Reversi on phone or watch"
     },
@@ -39,10 +40,11 @@
         "エンターテインメント"
       ],
       "languageCodesISO2A": [
-        "ZH",
         "EN",
         "DE",
-        "JA"
+        "JA",
+        "ZH",
+        "ZH"
       ],
       "subtitle": ""
     },
@@ -60,10 +62,11 @@
         "Unterhaltung"
       ],
       "languageCodesISO2A": [
-        "ZH",
         "EN",
         "DE",
-        "JA"
+        "JA",
+        "ZH",
+        "ZH"
       ],
       "subtitle": ""
     }
@@ -275,6 +278,6 @@
       "seenAt": "2026-09-30T19:48:45Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:56:45.257Z",
+  "updatedAt": "2026-10-03T12:07:48.731Z",
   "isOwnApp": false
 }

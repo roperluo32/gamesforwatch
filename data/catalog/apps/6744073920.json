@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Minigolf für Watch",
       "description": "Minigolf für Watch bringt das klassische Minigolf-Spiel auf deine Apple Watch in einem unterhaltsamen, intuitiven Paket, das für schnelle Spielsitzungen entwickelt wurde.  \nFordere dich selbst mit einer endlosen Vielfalt an prozedural generierten Bahnen heraus, jede mit einzigartigen Hindernissen wie Mauern und Seen. Jede Bahn ist anders und sorgt für ein frisches Erlebnis bei jedem Spiel!  \n\nFunktionen:  \n- Prozedural generierte Bahnen für unbegrenztes Gameplay  \n- Intuitive Zieh-und-Lass-Steuerung, speziell für die Apple Watch entwickelt  \n- Seen, Mauern und andere Hindernisse, um deine Fähigkeiten zu testen  \n- Schnelle Spiele, perfekt für kurze Pausen  \n- Behalte deine Schläge im Blick und versuche, jede Bahn unter Par zu schaffen  \n- Klare, lebendige Grafik, optimiert für den Apple Watch-Bildschirm  \n\nPerfekt für eine schnelle Spielsitzung während der Pendelzeit, beim Warten in der Schlange oder wenn du einen freien Moment hast.  \nKeine komplizierten Einrichtungen oder langen Tutorials nötig – starte einfach die App und beginne zu spielen! Kannst du jede neue Bahn in drei Schlägen oder weniger meistern?  \nLade Minigolf für Watch noch heute herunter und trage eine Minigolfbahn in Taschengröße überall bei dir!",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nNeue Länder und Lokalisierungen",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.\n\nNeue Länder und Lokalisierungen",
       "trackViewUrl": "https://apps.apple.com/de/app/minigolf-f%C3%BCr-watch/id6744073920?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Bo Kalvslund",
@@ -247,6 +247,6 @@
       "seenAt": "2025-06-18T09:26:30Z"
     }
   ],
-  "updatedAt": "2026-10-02T13:10:06.468Z",
+  "updatedAt": "2026-10-03T12:22:15.218Z",
   "isOwnApp": false
 }

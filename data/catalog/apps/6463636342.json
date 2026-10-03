@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Partywheel - Quick Party Games",
-      "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
+      "description": "One spin picks what you play together next. Partywheel brings 14 group games to Apple TV, iPhone and iPad, with no player names to enter and no ads.\n\nThe cropped wheel reveals your next game. Its rules stay on screen until you spin again, so you can jump straight into playing together.\n\nAll 14 classics are included for free. A one-time purchase of Partywheel Premium lets you disable individual games and add, edit or delete your own games with a title, emoji and description.\n\nWith iCloud, your personal game selection syncs across your devices. On iPhone and iPad, you can also save your own games locally without iCloud. Editing on Apple TV requires an available iCloud connection; games already saved there can also be played offline.\n\nOne Premium purchase works on iPhone, iPad and Apple TV using the same Apple Account for purchases. If you previously purchased the ad-free option, Premium is included without another purchase.\n\nThe interface and classic games are available in English, German, French and Spanish. Your own game descriptions stay just as you wrote them. Sound and supported haptics can be switched off separately.",
+      "releaseNotes": "- A new native interface for iPhone, iPad and Apple TV.\n- A cropped wheel with room for game titles and rules.\n- All 14 classics, now without ads.\n- Premium: create your own games and customize your selection.\n- Sync your personal game selection with iCloud.\n- Previous ad-free purchases unlock Premium.",
       "trackViewUrl": "https://apps.apple.com/us/app/partywheel-quick-party-games/id6463636342?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Johannes Bauer",
@@ -17,14 +17,16 @@
       ],
       "languageCodesISO2A": [
         "EN",
-        "DE"
+        "FR",
+        "DE",
+        "ES"
       ],
-      "subtitle": "Spin & Play!"
+      "subtitle": "One wheel. Games for everyone."
     },
     "ja": {
       "trackName": "Partywheel - Quick Party Games",
-      "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
+      "description": "One spin picks what you play together next. Partywheel brings 14 group games to Apple TV, iPhone and iPad, with no player names to enter and no ads.\n\nThe cropped wheel reveals your next game. Its rules stay on screen until you spin again, so you can jump straight into playing together.\n\nAll 14 classics are included for free. A one-time purchase of Partywheel Premium lets you disable individual games and add, edit or delete your own games with a title, emoji and description.\n\nWith iCloud, your personal game selection syncs across your devices. On iPhone and iPad, you can also save your own games locally without iCloud. Editing on Apple TV requires an available iCloud connection; games already saved there can also be played offline.\n\nOne Premium purchase works on iPhone, iPad and Apple TV using the same Apple Account for purchases. If you previously purchased the ad-free option, Premium is included without another purchase.\n\nThe interface and classic games are available in English, German, French and Spanish. Your own game descriptions stay just as you wrote them. Sound and supported haptics can be switched off separately.",
+      "releaseNotes": "- A new native interface for iPhone, iPad and Apple TV.\n- A cropped wheel with room for game titles and rules.\n- All 14 classics, now without ads.\n- Premium: create your own games and customize your selection.\n- Sync your personal game selection with iCloud.\n- Previous ad-free purchases unlock Premium.",
       "trackViewUrl": "https://apps.apple.com/jp/app/partywheel-quick-party-games/id6463636342?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Johannes Bauer",
@@ -34,15 +36,17 @@
       ],
       "languageCodesISO2A": [
         "EN",
-        "DE"
+        "FR",
+        "DE",
+        "ES"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "Partywheel - Quick Party Games",
-      "description": "Elevate Your Game Nights!\nIntroducing \"Partywheel\" the ultimate party companion that guarantees a night full of laughter, challenges, and unforgettable moments. Perfect for house parties and social events, our interactive wheel brings a fresh twist to your traditional games.\n\n== Features:\nSpin to Win\nSimply spin the wheel and let fate decide your next move. Each spin is a new adventure.\n\nInteractive Challenges\nFrom mimicking dance moves in \"Swing\" to answering truth-or-dare questions, our game keeps everyone on their toes.\n\nEasy to Play\nNo complicated rules or setups. Just gather your friends, spin the wheel, and let the games begin!\n\n== How to Play:\nGather your friends and open the app.\nTake turns spinning the wheel.\nFollow the action or challenge indicated by the slice.\nKeep spinning until you decide to call it a night!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
-      "trackViewUrl": "https://apps.apple.com/de/app/partywheel-quick-party-games/id6463636342?uo=4",
+      "trackName": "Partywheel - Kurze Partyspiele",
+      "description": "Ein Dreh entscheidet, was ihr als Nächstes gemeinsam spielt. Partywheel bringt 14 Gruppenspiele auf Apple TV, iPhone und iPad – ohne Spielernamen einzutragen und ohne Werbung.\n\nDas angeschnittene Glücksrad zeigt euch das nächste Spiel. Die Regeln bleiben sichtbar, bis ihr erneut dreht. So könnt ihr direkt loslegen und gemeinsam weiterspielen.\n\nAlle 14 Klassiker sind kostenlos enthalten. Mit dem einmaligen Kauf von Partywheel Premium könnt ihr einzelne Spiele deaktivieren und eigene Spiele mit Titel, Emoji und Beschreibung hinzufügen, bearbeiten oder löschen.\n\nMit iCloud wird eure persönliche Spielauswahl zwischen euren Geräten synchronisiert. Auf iPhone und iPad könnt ihr auch ohne iCloud eigene Spiele lokal speichern. Zum Bearbeiten auf Apple TV ist eine verfügbare iCloud-Verbindung erforderlich; bereits gespeicherte Spiele könnt ihr dort auch offline spielen.\n\nEin Premium-Kauf gilt auf iPhone, iPad und Apple TV mit demselben Apple Account für Käufe. Wer zuvor die Werbefrei-Option gekauft hat, erhält Premium ohne erneuten Kauf.\n\nDie Oberfläche und die Klassiker sind auf Deutsch, Englisch, Französisch und Spanisch verfügbar. Eigene Spieltexte bleiben so, wie ihr sie schreibt. Ton und unterstützte Haptik lassen sich separat ausschalten.",
+      "releaseNotes": "- Neue native Oberfläche für iPhone, iPad und Apple TV.\n- Angeschnittenes Glücksrad mit Platz für Spieltitel und Regeln.\n- Alle 14 Klassiker, jetzt ohne Werbung.\n- Premium: eigene Spiele erstellen und die Spielauswahl anpassen.\n- Persönliche Spielauswahl über iCloud synchronisieren.\n- Bisherige Werbefrei-Käufe schalten Premium frei.",
+      "trackViewUrl": "https://apps.apple.com/de/app/partywheel-kurze-partyspiele/id6463636342?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Johannes Bauer",
       "genres": [
@@ -51,20 +55,22 @@
       ],
       "languageCodesISO2A": [
         "EN",
-        "DE"
+        "FR",
+        "DE",
+        "ES"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/6e/8d/aa6e8d8d-49ba-cd58-a1e5-ca5e77915157/AppIcon-1x_U007epad-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/37/67/1d37673e-c45b-253c-e0a7-1647722c2813/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.33333,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "6776832",
-  "contentAdvisoryRating": "17+",
-  "minimumOsVersion": "17.0",
-  "version": "1.4",
-  "currentVersionReleaseDate": "2024-04-17T10:04:31Z",
+  "fileSizeBytes": "6765568",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "27.0",
+  "version": "2.0",
+  "currentVersionReleaseDate": "2026-10-03T07:10:59Z",
   "releaseDate": "2023-11-14T08:00:00Z",
   "artistId": 1517004006,
   "artistName": "Johannes Bauer",
@@ -114,7 +120,6 @@
     "iPad834-iPad834",
     "iPad856-iPad856",
     "iPad878-iPad878",
-    "Watch4-Watch4",
     "iPadMini5-iPadMini5",
     "iPadMini5Cellular-iPadMini5Cellular",
     "iPadAir3-iPadAir3",
@@ -205,8 +210,26 @@
     "iPhone18ProMax-iPhone18ProMax",
     "iPhoneDuo-iPhoneDuo"
   ],
-  "hasWatch": true,
+  "hasWatch": false,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/4b/c6/0d4bc663-ac6a-c4f3-e640-b9d53cc7b184/01-partywheel.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/fa/00/37fa00fe-e0be-90df-e256-88b6c110e02c/02-partywheel.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/a6/b2/9aa6b274-1c5d-6cbc-68a8-0fb03e26b9ff/03-partywheel.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/4f/f9/0f4ff9fc-4362-be72-2eeb-d78d014cc9d4/01-partywheel.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/cd/58/abcd58dc-2fae-13bc-e3ed-14d77326c757/02-partywheel.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/f1/5a/08f15ae6-f01e-10ef-a94d-d3cd4fa71852/03-partywheel.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/38/ae/0138ae2d-dce6-f8f8-0fa8-794c837cc1f4/01-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/b1/a6/05b1a6cf-0600-2635-c2ef-ce7ad10d82a1/02-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/da/e9/dbdae97a-664d-5707-6d20-ba97f50c0fcd/03-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/6b/89/e86b89b8-dff7-4bf8-6efb-e29be959c8be/01-partywheel.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/5c/51/d55c5191-82f3-fcdf-544c-99285260c375/02-partywheel.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/51/90/3d51909d-c7ab-9904-c086-ca2f022764a6/03-partywheel.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/4f/f9/0f4ff9fc-4362-be72-2eeb-d78d014cc9d4/01-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/cd/58/abcd58dc-2fae-13bc-e3ed-14d77326c757/02-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/f1/5a/08f15ae6-f01e-10ef-a94d-d3cd4fa71852/03-partywheel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/4b/c6/0d4bc663-ac6a-c4f3-e640-b9d53cc7b184/01-partywheel.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/fa/00/37fa00fe-e0be-90df-e256-88b6c110e02c/02-partywheel.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/a6/b2/9aa6b274-1c5d-6cbc-68a8-0fb03e26b9ff/03-partywheel.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/eb/00/95eb00f2-c0f1-82db-989c-ab9fd1eef905/d819761f-f1f5-4104-9c39-d798a78a353b_ipad-big-appstore-2.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/87/61/1c876198-aebd-4789-9de1-944d6ab589f7/b499a403-8404-4829-9037-587a9bdd16b5_ipad-big-appstore-1.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/7a/3c/de7a3c75-32f6-0d57-b00a-035367cf9838/9142bbe6-802a-4eb0-8292-a38f380d6a9a_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-04-14_at_19.30.35.png/2048x2732bb.png",
@@ -249,8 +272,13 @@
       "version": "1.4",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nA complete makeover, have fun!",
       "seenAt": "2024-04-17T10:04:31Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "- A new native interface for iPhone, iPad and Apple TV.\n- A cropped wheel with room for game titles and rules.\n- All 14 classics, now without ads.\n- Premium: create your own games and customize your selection.\n- Sync your personal game selection with iCloud.\n- Previous ad-free purchases unlock Premium.",
+      "seenAt": "2026-10-03T07:10:59Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:52:33.839Z",
+  "updatedAt": "2026-10-03T12:24:31.246Z",
   "isOwnApp": false
 }

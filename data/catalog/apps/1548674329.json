@@ -125,15 +125,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2a/07/972a07ea-f13d-fb68-f1f8-1801ecdc9e4d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/a8/b6/c2a8b6fb-da9e-a02e-afe8-6aa2d2bce657/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.16981,
   "userRatingCount": 106,
   "price": 0,
-  "fileSizeBytes": "205902848",
+  "fileSizeBytes": "205882368",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "13.0",
-  "version": "1.0.93",
-  "currentVersionReleaseDate": "2026-09-26T18:13:45Z",
+  "version": "1.0.94",
+  "currentVersionReleaseDate": "2026-10-02T23:05:55Z",
   "releaseDate": "2021-01-21T08:00:00Z",
   "artistId": 290924809,
   "artistName": "Kooapps",
@@ -506,8 +506,13 @@
       "version": "1.0.93",
       "releaseNotes": "Hey there fur parents! We've got new stuff for more fun with your pet pals!\n\n-Added Snow Jump, a brand-new mini game! Jump between platforms, collect coins, and reach new heights in this snowy mountain adventure.",
       "seenAt": "2026-09-26T18:13:45Z"
+    },
+    {
+      "version": "1.0.94",
+      "releaseNotes": "Hey there fur parents! We've got new stuff for more fun with your pet pals!\n\n-Added Snow Jump, a brand-new mini game! Jump between platforms, collect coins, and reach new heights in this snowy mountain adventure.",
+      "seenAt": "2026-10-02T23:05:55Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:20:52.643Z",
+  "updatedAt": "2026-10-03T11:32:00.001Z",
   "isOwnApp": false
 }

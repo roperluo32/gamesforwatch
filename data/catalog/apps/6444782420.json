@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Puzzle",
-        "Board",
-        "Entertainment"
+        "Entertainment",
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -397,6 +397,6 @@
       "seenAt": "2026-09-19T14:26:50Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:25:03.142Z",
+  "updatedAt": "2026-10-03T11:35:47.888Z",
   "isOwnApp": false
 }
