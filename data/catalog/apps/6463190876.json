@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Schönheits-Schieberätsel",
       "description": "Exklusiver „Beauty Puzzle Slider“ für die Apple Watch\n\nSpielübersicht\nDies ist ein Spiel, bei dem Sie den kleinen Bildschirm der Apple Watch verwenden, um aus einem Foto ausgeschnittene Kacheln zu verschieben und zu versuchen, das Originalbild wiederherzustellen.\n\nWie man anfängt\nWählen Sie in der Apple Watch-App ein Foto Ihrer Wahl aus oder machen Sie es.\nDas Foto wird in neun Teile geteilt und eine Kachel wird zufällig entfernt. Schieben Sie die restlichen Kacheln, um sie an die Form des Originalfotos anzupassen.\nEs stehen drei Modi zur Verfügung: EINFACH, Normal und Schwer, was es je nach Schwierigkeitsgrad zu einem herausfordernden Spiel macht.\n\nKontrollen\nTouch-Steuerung: Sie können die Kacheln mit Ihrem Finger verschieben.\nSchieben Sie die Kacheln neben den leeren Bereich, um das Foto zu vervollständigen.\n\nMerkmale\nBenutzerdefinierte Fotos: Sie können auf Ihrer Apple Watch gespeicherte oder direkt mit der Kamera aufgenommene Fotos in das Spiel integrieren.\n„Puzzle Slider“ ist das perfekte Spiel zum Warten oder für eine kurze Pause.\nErleben Sie mit Ihren eigenen Fotos den Spaß eines einzigartigen Schiebepuzzles.\nDas Gameplay auf dem kleinen Bildschirm der Apple Watch ist erfrischend und Sie werden es auf jeden Fall immer wieder herausfordern wollen!“",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.",
       "trackViewUrl": "https://apps.apple.com/de/app/sch%C3%B6nheits-schieber%C3%A4tsel/id6463190876?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Eve-sense Inc.",
@@ -222,6 +222,6 @@
       "seenAt": "2023-10-04T15:31:50Z"
     }
   ],
-  "updatedAt": "2026-10-03T12:06:57.480Z",
+  "updatedAt": "2026-10-04T13:07:49.577Z",
   "isOwnApp": false
 }

@@ -86,7 +86,7 @@
   "minimumOsVersion": "17.0",
   "version": "1.0",
   "currentVersionReleaseDate": "2026-09-04T23:00:16Z",
-  "releaseDate": "2026-09-04T23:00:16Z",
+  "releaseDate": "2026-09-04T07:00:00Z",
   "artistId": 6806424436,
   "artistName": "Murphy Stein",
   "artistViewUrl": "https://apps.apple.com/de/developer/murphy-stein/id6806424436?uo=4",
@@ -242,6 +242,6 @@
       "seenAt": "2026-09-04T23:00:16Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:42:23.937Z",
+  "updatedAt": "2026-10-04T12:23:46.828Z",
   "isOwnApp": false
 }

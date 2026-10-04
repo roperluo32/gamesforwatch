@@ -81,8 +81,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/13/1f/e3/131fe390-4249-23e0-6bed-683c8f71fa96/mzl.gagnhpgl.png/512x512bb.jpg",
-  "averageUserRating": 4.70221,
-  "userRatingCount": 1894,
+  "averageUserRating": 4.70206,
+  "userRatingCount": 1893,
   "price": 2.99,
   "fileSizeBytes": "71914496",
   "contentAdvisoryRating": "9+",
@@ -350,6 +350,6 @@
       "seenAt": "2016-09-19T23:12:38Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:54:37.281Z",
+  "updatedAt": "2026-10-04T12:40:34.763Z",
   "isOwnApp": false
 }

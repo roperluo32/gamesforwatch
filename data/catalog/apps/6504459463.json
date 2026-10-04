@@ -9,7 +9,7 @@
       "description": "Features:\n- Play offline\n- Score as many goals as you can \n- Hone your skills in target practice mode\n- Play on watch, phone and tablet\n- More games inside you can unlock\n\nShoot as many as goals in this football penalty shoot game as possible!\nChoose the speed and the direction of your shot and hope for the best.",
       "releaseNotes": "Bug fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/football-goal-keeper-fantastic/id6504459463?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -43,7 +43,7 @@
       "description": "特徴:\n- オフラインでプレイ\n- できるだけ多くのゴールを決める\n- ターゲット練習モードでスキルを磨く\n- 時計、携帯電話、タブレットでプレイ可能\n\nこのサッカーのペナルティ シュート ゲームでできるだけ多くのゴールを決めましょう!\nシュートのスピードと方向を選択して、最高の結果を期待しましょう。",
       "releaseNotes": "不具合修正",
       "trackViewUrl": "https://apps.apple.com/jp/app/football-goal-keeper-fantastic/id6504459463?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -77,7 +77,7 @@
       "description": "Funktionen:\n- Offline spielen\n- So viele Tore wie möglich schießen\n- Trainiere dein Skills beim Ziel-Schießen\n- Auf Uhr, Telefon und Tablet spielbar\n\nSchieße in diesem Fußball-Elfmeterschieß-Spiel so viele Tore wie möglich!\nWähle die Geschwindigkeit und Richtung deines Schusses und hoffe auf das Beste.",
       "releaseNotes": "Bugfixes",
       "trackViewUrl": "https://apps.apple.com/de/app/football-goal-keeper-fantastic/id6504459463?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -110,7 +110,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/1b/67/ea1b67bc-3b69-133a-2771-9194415dc4b6/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "49266688",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -366,6 +366,6 @@
       "seenAt": "2026-03-26T07:18:48Z"
     }
   ],
-  "updatedAt": "2026-10-03T12:01:07.957Z",
+  "updatedAt": "2026-10-04T12:43:14.808Z",
   "isOwnApp": false
 }
