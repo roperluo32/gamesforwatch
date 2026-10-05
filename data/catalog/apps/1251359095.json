@@ -75,8 +75,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ed/fc/41edfc8a-3ed7-8e72-b60a-1604c577fa64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.44689,
-  "userRatingCount": 1045,
+  "averageUserRating": 4.44837,
+  "userRatingCount": 1046,
   "price": 0,
   "fileSizeBytes": "81333248",
   "contentAdvisoryRating": "4+",
@@ -610,6 +610,6 @@
       "seenAt": "2026-06-14T22:50:43Z"
     }
   ],
-  "updatedAt": "2026-10-04T12:13:48.145Z",
+  "updatedAt": "2026-10-05T14:18:29.913Z",
   "isOwnApp": false
 }

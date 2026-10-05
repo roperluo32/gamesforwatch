@@ -1,0 +1,335 @@
+{
+  "trackId": "6474727900",
+  "bundleId": "com.mikecapital.memaze",
+  "slug": "memaze",
+  "path": "/apps/6474727900-memaze/",
+  "locales": {
+    "en": {
+      "trackName": "MeMaze",
+      "description": "MeMaze - Evolve Your Memory and Associative Series!\n\nChallenge yourself with MeMaze, the ultimate brain-training game! Follow colorful patterns, tap the right sequence, and see how long you can keep up. With each round, the game gets faster and the patterns more complex— can you handle the pressure?\n\nKey Features:\n* Classic Mode: Match the flashing lights and sounds.\n* +1 Mode: Compete with friends by generating your own sequence.\n* Sandbox: Set convenient rules to practice or challenge.\n* Customiser: Choose shape and colors.\n\nTrain your brain, improve your memory, and have a fun with MeMaze. How far can you go?",
+      "releaseNotes": "Fixes and improvements are here.\nUpdate and play.",
+      "trackViewUrl": "https://apps.apple.com/us/app/memaze/id6474727900?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Mykhailo Riga",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Family",
+        "Education"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU",
+        "UK"
+      ],
+      "subtitle": "for memory & associated series"
+    },
+    "ja": {
+      "trackName": "MeMaze",
+      "description": "MeMaze - Evolve Your Memory and Associative Series!\n\nChallenge yourself with MeMaze, the ultimate brain-training game! Follow colorful patterns, tap the right sequence, and see how long you can keep up. With each round, the game gets faster and the patterns more complex— can you handle the pressure?\n\nKey Features:\n* Classic Mode: Match the flashing lights and sounds.\n* +1 Mode: Compete with friends by generating your own sequence.\n* Sandbox: Set convenient rules to practice or challenge.\n* Customiser: Choose shape and colors.\n\nTrain your brain, improve your memory, and have a fun with MeMaze. How far can you go?",
+      "releaseNotes": "Fixes and improvements are here.\nUpdate and play.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/memaze/id6474727900?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Mykhailo Riga",
+      "genres": [
+        "ゲーム",
+        "パズル",
+        "ファミリー",
+        "教育"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU",
+        "UK"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "MeMaze",
+      "description": "MeMaze - Evolve Your Memory and Associative Series!\n\nChallenge yourself with MeMaze, the ultimate brain-training game! Follow colorful patterns, tap the right sequence, and see how long you can keep up. With each round, the game gets faster and the patterns more complex— can you handle the pressure?\n\nKey Features:\n* Classic Mode: Match the flashing lights and sounds.\n* +1 Mode: Compete with friends by generating your own sequence.\n* Sandbox: Set convenient rules to practice or challenge.\n* Customiser: Choose shape and colors.\n\nTrain your brain, improve your memory, and have a fun with MeMaze. How far can you go?",
+      "releaseNotes": "Fixes and improvements are here.\nUpdate and play.",
+      "trackViewUrl": "https://apps.apple.com/de/app/memaze/id6474727900?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Mykhailo Riga",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Familie",
+        "Bildung"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "RU",
+        "UK"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/9e/38/869e38e8-58ac-d9db-c80d-f9bc3e93a49f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "71369728",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "18.0",
+  "version": "1.11.1",
+  "currentVersionReleaseDate": "2026-01-26T06:28:04Z",
+  "releaseDate": "2023-12-27T08:00:00Z",
+  "artistId": 1722422540,
+  "artistName": "Mykhailo Riga",
+  "artistViewUrl": "https://apps.apple.com/de/developer/mykhailo-riga/id1722422540?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/86/81/e3868112-77d9-3b42-d0c4-a5c817ae102e/3b19b611-f112-4a84-bc8b-d8b6a1f0e99f_Frame_35311.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/91/e3/6d91e395-25d3-ab66-4a00-aedbaea9f7af/96caade1-362e-4e60-a01a-245d66dbb660_Frame_35316.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/2b/76/d52b76d4-05c8-0519-faab-a0ca59713ad6/051c48df-3856-443d-a45a-3fca2092feaf_Frame_35314.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/92/24/dd92246b-164d-1bb0-19fb-403eb875e017/9ae9e5ec-36ae-4266-bc2b-07c8c33c8599_Frame_35315.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/e2/7e/03e27edf-5550-cbeb-675e-cf990afd63d3/ce08c006-8e90-4f75-a96b-d2391d4887a5_Frame_35319.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/bb/52/41bb5215-6f41-d011-3b49-9719e49ce4e2/cdb5dd79-457e-4b23-8195-655fe2bd8890_Frame_35317.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/2e/ca/332ecad4-1930-2c61-15a3-2f5307bd9a5b/Frame_35321.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/97/fe/8997fe63-e772-abd1-30b4-25d0d9483ea0/Frame_35330.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/e9/30/f1e9308e-8163-eac3-7504-16905bcc8f91/Frame_35327.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/19/1a/01191afc-5628-f58b-45bb-df5cfe6f3351/Frame_35322.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/f9/a7/11f9a787-c8ce-a4ca-afca-4f1d56adeeb4/Frame_35329.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/da/b8/c7dab830-0865-9427-ca82-a71d3bb334e7/Frame_35325.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/39/d5/8f39d53e-6b6f-9662-6b8b-da8449a37772/Frame_35326.jpg/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/86/81/e3868112-77d9-3b42-d0c4-a5c817ae102e/3b19b611-f112-4a84-bc8b-d8b6a1f0e99f_Frame_35311.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/91/e3/6d91e395-25d3-ab66-4a00-aedbaea9f7af/96caade1-362e-4e60-a01a-245d66dbb660_Frame_35316.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/2b/76/d52b76d4-05c8-0519-faab-a0ca59713ad6/051c48df-3856-443d-a45a-3fca2092feaf_Frame_35314.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/92/24/dd92246b-164d-1bb0-19fb-403eb875e017/9ae9e5ec-36ae-4266-bc2b-07c8c33c8599_Frame_35315.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/e2/7e/03e27edf-5550-cbeb-675e-cf990afd63d3/ce08c006-8e90-4f75-a96b-d2391d4887a5_Frame_35319.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/bb/52/41bb5215-6f41-d011-3b49-9719e49ce4e2/cdb5dd79-457e-4b23-8195-655fe2bd8890_Frame_35317.png/392x696bb.png"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/1c/c5/5f1cc585-f07c-6560-8651-fdda2fc76d07/6a970853-161a-42c8-8950-e48a88fb87a4_Simulator_Screenshot_-_Apple_Watch_Ultra_2__U002849mm_U0029_-_2024-01-18_at_19.11.13.png/410x502bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0",
+      "releaseNotes": "",
+      "seenAt": "2023-12-27T08:16:08Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "Now MeMaze is supported by iOS 16! \nAlso contains visual updates, new achievements and optimisations.",
+      "seenAt": "2024-01-16T05:40:23Z"
+    },
+    {
+      "version": "1.2.0",
+      "releaseNotes": "If you have an Apple Watch, try a new experience with MeMaze: simple game is always on your hand!\nAlso, this version contains minor fixes and optimisations.",
+      "seenAt": "2024-01-19T05:20:31Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "Meet a huge update! \nRound selection is available now!\nTest your memory skills with smooth difficulty increase.",
+      "seenAt": "2024-02-01T05:55:48Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "Sandbox Mode is here!\nSet convenient rules and challenge yourself with different speeds and shuffling!\nFeel free to rate this game and send feedback via App Store. \nWe are keeping up!",
+      "seenAt": "2024-03-05T05:20:47Z"
+    },
+    {
+      "version": "1.4.1",
+      "releaseNotes": "This Version contains minor fixes and improvements.\nNB: let me know if you have ideas to make better!",
+      "seenAt": "2024-03-11T15:22:06Z"
+    },
+    {
+      "version": "1.4.2",
+      "releaseNotes": "This Version contains minor fixes and improvements.\nPlease, let me know if you have any ideas on how to make it better.",
+      "seenAt": "2024-09-24T20:14:24Z"
+    },
+    {
+      "version": "1.5.0",
+      "releaseNotes": "This Version contains minor fixes and improvements.\nPlease, let me know if you have any ideas on how to make it better.",
+      "seenAt": "2024-10-09T14:36:42Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "A huge update is here!\nIn addition to technical improvements and performance optimizations, we’re introducing a new campaign system and unlockable boosts.\nAs always, feel free to share your ideas on how to make it even better!",
+      "seenAt": "2024-11-07T13:22:25Z"
+    },
+    {
+      "version": "1.7.0",
+      "releaseNotes": "We unified the logic for selecting a mode and starting the game, worked on optimization, and polished it a bit. Work in progress!",
+      "seenAt": "2024-11-20T05:32:09Z"
+    },
+    {
+      "version": "1.8.0",
+      "releaseNotes": "This version contains minor fixes, improvements and performance optimizations.\nNB: feel free to let me know on how to make it even better.",
+      "seenAt": "2024-11-28T09:00:05Z"
+    },
+    {
+      "version": "1.8.1",
+      "releaseNotes": "Fixes and improvements are here. \nUpdate and play.",
+      "seenAt": "2024-12-03T09:03:37Z"
+    },
+    {
+      "version": "1.8.2",
+      "releaseNotes": "More fixes and improvements are here.\n\nNB: let me know if you have any ideas to make it even better.",
+      "seenAt": "2024-12-18T07:32:52Z"
+    },
+    {
+      "version": "1.8.3",
+      "releaseNotes": "The issue with scoring to Game Center has been fixed!\nThis version also includes minor improvements and refinements.",
+      "seenAt": "2024-12-29T07:49:52Z"
+    },
+    {
+      "version": "1.9.0",
+      "releaseNotes": "MeMaze is now completely free! It's also more stable and better than ever before.",
+      "seenAt": "2025-03-12T04:59:59Z"
+    },
+    {
+      "version": "1.10.0",
+      "releaseNotes": "Welcome MIDI sounds!\nYou can now choose from wave, piano or guitar options.\nAs always, we’re continuously improving - stay tuned for more!",
+      "seenAt": "2025-04-17T15:56:11Z"
+    },
+    {
+      "version": "1.11.0",
+      "releaseNotes": "Should you wish, you’ll find it — yes, it’s not that obvious, but a mini-game is waiting to be played.\nTo keep things on track, the minimum supported version has been raised to 18.\nAnd as usual, we've included some optimizations and improvements.",
+      "seenAt": "2025-08-07T12:28:54Z"
+    },
+    {
+      "version": "1.11.1",
+      "releaseNotes": "Fixes and improvements are here.\nUpdate and play.",
+      "seenAt": "2026-01-26T06:28:04Z"
+    }
+  ],
+  "updatedAt": "2026-10-05T14:54:55.313Z",
+  "isOwnApp": false
+}

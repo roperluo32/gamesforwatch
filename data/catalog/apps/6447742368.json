@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Place Guesser: Street View Geo",
       "description": "Drop into a street somewhere in the world, look around, and guess where you are on the map. The closer your guess, the more points you score.\n\nPlace Guesser is a geography game played through real street-level imagery from Apple Look Around and Google Street View.\n\nHOW YOU PLAY\n• Play now: five rounds around the world, three minutes each, one tap from the home screen.\n• Daily Challenge: the same mystery places for everyone, every day, with a global leaderboard. Keep your streak alive.\n• Country Streak: how many countries can you name in a row before you miss?\n• Guess The Spot: a close-up that zooms out with every wrong answer. Fewer clues, more points.\n• Infinite Mode: keep going as long as you like.\n• Custom games: pick the timer, the number of rounds and how you're allowed to move.\n\nPLAY WITH FRIENDS\n• Real-time multiplayer: play the same places at the same time.\n• Async challenges: send a challenge and let friends play whenever they like.\n• Game Center leaderboards, achievements and friends boards.\n\nTRACK YOUR PROGRESS\n• A Passport of every country you've visited, with bronze, silver and gold medals.\n• Day streaks with streak freezes, so one busy day doesn't cost you everything.\n• Stats, personal bests and shareable result cards.\n\nMORE WAYS TO PLAY\n• Home screen widgets.\n• Apple Watch and Apple TV apps.\n\nPLACE GUESSER PRO\n• Choose a country and play only there.\n• Worldwide Pro: the full location pool, including Street View locations.\n• No Move and NMPZ rules (no move, no pan, no zoom).\n• The Daily Challenge archive: replay the last 30 days.\n• Longer timers, extra streak freezes and streak repair.\n\nPro is an auto-renewing subscription. Payment is charged to your Apple Account at confirmation. It renews automatically unless you cancel at least 24 hours before the end of the current period. Manage or cancel in your App Store account settings.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "What's new in Place Guesser\n\n• Keep your streak alive: in the evening, the Daily Challenge widget counts down to midnight if you haven't played yet.\n• New Lock Screen widgets for your streak and today's challenge.\n• Jump into the Daily Challenge from Control Center or the Action button.\n• Widgets now speak your language.\n• Fixed country cards that showed no picture, including Puerto Rico.",
+      "releaseNotes": "What's new in Place Guesser\n\nNew: Maps! 63 themed maps to explore: stadiums, capitals, airports, castles and 15 world cities.\n• Play 2 maps free every day.\n• See the name of each place after the round, and play again from the final score.\n• Apple Watch: now in your language, with haptics and Double Tap.\n• A cleaner Home screen and a loading indicator for street view.\n• Fixed a crash when closing full-screen view.",
       "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -33,7 +33,7 @@
     "ja": {
       "trackName": "Place Guesser: Street View Geo",
       "description": "あなたは世界のどこかに突然降ろされ、手がかりを探して自分の現在地を世界地図上で当てなければなりません。\n\n没入感たっぷりのトラベルゲームで、スリリングな世界の冒険へ出かけましょう！\n\n「クイックプレイ」と「カントリーストリーク」の2つのエキサイティングなゲームモードで、これまでにない形で世界を探索できます。\nクイックプレイでは、観察力を試しながら制限時間内に360°パノラマ画像を手がかりに現在地を当ててみましょう。\n\nさらに地理の知識を試したいですか？\nカントリーストリークでは、美しいストリートビューの風景から正しい国を当てていきます。\n世界中の絶景や有名なランドマーク、活気ある街並みに没入しながら楽しめます。カジュアルな探検家も、経験豊富な旅人も、このアプリの中毒性のあるゲームプレイと魅力的なビジュアルに夢中になること間違いなしです。\n\n世界クラスの探検家になる準備はできましたか？今すぐアプリをダウンロードして、ワクワクする発見の旅に出かけましょう！\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー：https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Place Guesserの新機能\n\n• 連続記録を守ろう：夜になってもまだプレイしていないと、デイリーチャレンジのウィジェットが深夜0時までの残り時間を表示します。\n• ロック画面用の新しいウィジェットで、連続記録と今日のチャレンジを確認できます。\n• コントロールセンターやアクションボタンからデイリーチャレンジをすぐに開けます。\n• ウィジェットが日本語に対応しました。\n• 写真が表示されなかった国のカード（プエルトリコなど）を修正しました。",
+      "releaseNotes": "Place Guesserの新機能\n\nマップが登場！スタジアム、首都、空港、お城、世界の15都市など、63のテーマ別マップを楽しめます。\n• 毎日2回まで無料でマップをプレイできます。\n• 各ラウンドの後に、その場所の名前が表示されます。\n• 最終スコアから「もう一度プレイ」ですぐに再挑戦できます。\n• ホーム画面をすっきりさせ、ストリートビューの読み込み表示を追加しました。\n• 全画面表示を閉じるとアプリが終了する問題を修正しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -59,7 +59,7 @@
     "de": {
       "trackName": "Place Guesser: Street View Geo",
       "description": "Du wirst irgendwo auf der Welt abgesetzt und musst Hinweise finden, um deinen Standort auf der Weltkarte zu erraten.\n\nBegib dich auf ein spannendes, weltweites Abenteuer mit unserem immersiven Reisespiel!\n\nEntdecke die Welt wie nie zuvor mit unseren zwei aufregenden Spielmodi: Schnellspiel und Länder-Serie.\nIm Schnellspiel stellst du deine Beobachtungsgabe unter Beweis und trittst gegen die Zeit an, um anhand faszinierender 360°-Panorama-Ansichten deinen Standort zu erraten.\n\nMöchtest du dein geografisches Wissen noch weiter herausfordern?\nTauche ein in die Länder-Serie und errate das richtige Land anhand beeindruckender Street-View-Szenen.\nLass dich von atemberaubenden Landschaften, ikonischen Wahrzeichen und lebendigen Stadtstraßen aus aller Welt mitreißen. Egal, ob du ein gelegentlicher Entdecker oder ein erfahrener Globetrotter bist – unsere App fesselt dich mit süchtig machendem Gameplay und faszinierenden Bildern.\n\nBereit, ein Weltklasse-Entdecker zu werden? Lade unsere App jetzt herunter und begib dich auf eine spannende Entdeckungsreise!\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nDatenschutzerklärung: https://www.mobivalley.com.br/privacypolicy",
-      "releaseNotes": "Neu in Place Guesser\n\n• Rette deine Serie: Hast du abends noch nicht gespielt, zählt das Widget der täglichen Herausforderung bis Mitternacht.\n• Neue Widgets für den Sperrbildschirm mit deiner Serie und der Challenge des Tages.\n• Starte die tägliche Herausforderung über das Kontrollzentrum oder die Aktionstaste.\n• Die Widgets sprechen jetzt Deutsch.\n• Länderkarten ohne Bild behoben, auch Puerto Rico.",
+      "releaseNotes": "Neu: Karten! 63 Themenkarten mit Stadien, Hauptstädten, Flughäfen, Burgen und 15 Weltstädten.\n• Spiele jeden Tag 2 Karten kostenlos.\n• Nach jeder Runde siehst du, wo du warst.\n• Nochmal spielen direkt aus dem Endergebnis.\n• Aufgeräumte Startseite und eine Ladeanzeige für die Straßenansicht.\n• Absturz beim Verlassen der Vollbildansicht behoben.",
       "trackViewUrl": "https://apps.apple.com/de/app/place-guesser-street-view-geo/id6447742368?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
@@ -83,15 +83,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/d7/3d/2fd73d5d-e544-90ea-1222-28227b1be416/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.67408,
-  "userRatingCount": 359,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/63/3341630d-d942-8ca2-311f-cc5b569f8054/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.66482,
+  "userRatingCount": 361,
   "price": 0,
-  "fileSizeBytes": "87472128",
+  "fileSizeBytes": "90048512",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.6",
-  "version": "1.63.0",
-  "currentVersionReleaseDate": "2026-10-01T20:48:41Z",
+  "version": "1.64.0",
+  "currentVersionReleaseDate": "2026-10-04T19:06:46Z",
   "releaseDate": "2023-04-15T07:00:00Z",
   "artistId": 1701006912,
   "artistName": "Mobivalley",
@@ -446,8 +446,13 @@
       "version": "1.63.0",
       "releaseNotes": "What's new in Place Guesser\n\n• Keep your streak alive: in the evening, the Daily Challenge widget counts down to midnight if you haven't played yet.\n• New Lock Screen widgets for your streak and today's challenge.\n• Jump into the Daily Challenge from Control Center or the Action button.\n• Widgets now speak your language.\n• Fixed country cards that showed no picture, including Puerto Rico.",
       "seenAt": "2026-10-01T20:48:41Z"
+    },
+    {
+      "version": "1.64.0",
+      "releaseNotes": "What's new in Place Guesser\n\nNew: Maps! 63 themed maps to explore: stadiums, capitals, airports, castles and 15 world cities.\n• Play 2 maps free every day.\n• See the name of each place after the round, and play again from the final score.\n• Apple Watch: now in your language, with haptics and Double Tap.\n• A cleaner Home screen and a loading indicator for street view.\n• Fixed a crash when closing full-screen view.",
+      "seenAt": "2026-10-04T19:06:46Z"
     }
   ],
-  "updatedAt": "2026-10-04T12:49:58.081Z",
+  "updatedAt": "2026-10-05T14:56:02.348Z",
   "isOwnApp": false
 }

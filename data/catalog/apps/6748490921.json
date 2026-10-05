@@ -6,10 +6,10 @@
   "locales": {
     "en": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
-      "description": "Real heads-up Texas Hold'em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold'em. You're the Hero,\nacross the table from an AI Villain, with real betting rounds and every hand\nrunning to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS\n• Heads-up, you vs the AI — real check, call, raise, fold and all-in betting\n• Escalating blinds — the blinds double as the match goes on, with a ceiling\n  that keeps late hands playable, so every match builds toward a finish\n• Choose your edge — start Easy, Medium or Hard by setting the opening stacks\n• Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH\n• Dial in your bet with the Digital Crown and play a whole hand in a tap or two\n• No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS\nWaiting for coffee, standing in a queue, killing two minutes — Mini Poker\ndeals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED\nEverything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A fresh deal for Mini Poker.\n• Cleaner table, tuned for the wrist\n• Dial in any bet with the Digital Crown — play a whole hand in a tap or two\n• Escalating blinds with a ceiling that keeps late hands playable\n• Pick your challenge: Easy, Medium or Hard opening stacks\n• Full showdown poker, from high card to royal flush\nNo phone, no account, no Wi-Fi. Raise your wrist and deal.",
+      "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
+      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "$1.99",
       "sellerName": "Super Duper Limited",
       "genres": [
         "Games",
@@ -24,10 +24,10 @@
     },
     "ja": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
-      "description": "Real heads-up Texas Hold'em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold'em. You're the Hero,\nacross the table from an AI Villain, with real betting rounds and every hand\nrunning to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS\n• Heads-up, you vs the AI — real check, call, raise, fold and all-in betting\n• Escalating blinds — the blinds double as the match goes on, with a ceiling\n  that keeps late hands playable, so every match builds toward a finish\n• Choose your edge — start Easy, Medium or Hard by setting the opening stacks\n• Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH\n• Dial in your bet with the Digital Crown and play a whole hand in a tap or two\n• No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS\nWaiting for coffee, standing in a queue, killing two minutes — Mini Poker\ndeals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED\nEverything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A fresh deal for Mini Poker.\n• Cleaner table, tuned for the wrist\n• Dial in any bet with the Digital Crown — play a whole hand in a tap or two\n• Escalating blinds with a ceiling that keeps late hands playable\n• Pick your challenge: Easy, Medium or Hard opening stacks\n• Full showdown poker, from high card to royal flush\nNo phone, no account, no Wi-Fi. Raise your wrist and deal.",
+      "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
+      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "¥300",
       "sellerName": "Super Duper Limited",
       "genres": [
         "ゲーム",
@@ -42,10 +42,10 @@
     },
     "de": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
-      "description": "Real heads-up Texas Hold'em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold'em. You're the Hero,\nacross the table from an AI Villain, with real betting rounds and every hand\nrunning to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS\n• Heads-up, you vs the AI — real check, call, raise, fold and all-in betting\n• Escalating blinds — the blinds double as the match goes on, with a ceiling\n  that keeps late hands playable, so every match builds toward a finish\n• Choose your edge — start Easy, Medium or Hard by setting the opening stacks\n• Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH\n• Dial in your bet with the Digital Crown and play a whole hand in a tap or two\n• No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS\nWaiting for coffee, standing in a queue, killing two minutes — Mini Poker\ndeals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED\nEverything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A fresh deal for Mini Poker.\n• Cleaner table, tuned for the wrist\n• Dial in any bet with the Digital Crown — play a whole hand in a tap or two\n• Escalating blinds with a ceiling that keeps late hands playable\n• Pick your challenge: Easy, Medium or Hard opening stacks\n• Full showdown poker, from high card to royal flush\nNo phone, no account, no Wi-Fi. Raise your wrist and deal.",
+      "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
+      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "1,99 €",
       "sellerName": "Super Duper Limited",
       "genres": [
         "Spiele",
@@ -59,20 +59,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6f/f4/cd6ff401-bac1-3ced-1b6d-3d3246526885/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/98/58/e798589f-821b-c42c-aaf2-c7b3f16ce060/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
-  "fileSizeBytes": "3281920",
+  "price": 1.99,
+  "fileSizeBytes": "3265536",
   "contentAdvisoryRating": "17+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0.7",
-  "currentVersionReleaseDate": "2026-07-29T01:21:52Z",
+  "minimumOsVersion": "17.6",
+  "version": "1.0.8",
+  "currentVersionReleaseDate": "2026-10-05T02:47:41Z",
   "releaseDate": "2025-07-14T07:00:00Z",
   "artistId": 1825997289,
   "artistName": "Super Duper",
   "artistViewUrl": "https://apps.apple.com/de/developer/super-duper/id1825997289?uo=4",
-  "sellerUrl": "https://www.superduper.nz/#/app/mini-poker",
+  "sellerUrl": "https://superduper.nz/apps/mini-poker",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -251,8 +251,13 @@
       "version": "1.0.7",
       "releaseNotes": "A fresh deal for Mini Poker.\n• Cleaner table, tuned for the wrist\n• Dial in any bet with the Digital Crown — play a whole hand in a tap or two\n• Escalating blinds with a ceiling that keeps late hands playable\n• Pick your challenge: Easy, Medium or Hard opening stacks\n• Full showdown poker, from high card to royal flush\nNo phone, no account, no Wi-Fi. Raise your wrist and deal.",
       "seenAt": "2026-07-29T01:21:52Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
+      "seenAt": "2026-10-05T02:47:41Z"
     }
   ],
-  "updatedAt": "2026-10-04T12:54:03.212Z",
+  "updatedAt": "2026-10-05T15:00:09.181Z",
   "isOwnApp": false
 }

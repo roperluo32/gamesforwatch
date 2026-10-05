@@ -79,7 +79,7 @@
     "de": {
       "trackName": "Gomoku-Schach For Watch",
       "description": "Gomoku: Apple Watch Edition\n\nStellen Sie Ihre strategischen Fähigkeiten mit Gomoku auf die Probe! Dieses klassische Brettspiel, das speziell für die Apple Watch entwickelt wurde, bietet ein reichhaltiges Spielerlebnis mit Einzelspieler-KI-Modus und Mehrspielermodus. Egal, ob Sie Anfänger oder Gomoku-Experte sind, Sie können aus verschiedenen Schwierigkeitsstufen wählen, um an Ihre Grenzen zu gehen und Ihre Fähigkeiten zu verbessern.\n\nSpielfunktionen:\n• Einzelspieler-KI-Modus: Kämpfen Sie gegen eine intelligente KI mit wählbaren Schwierigkeitsstufen von einfach bis schwer, um Ihr Gameplay schrittweise zu verbessern.\n• Mehrspielermodus: Messen Sie sich in Echtzeit mit Freunden oder Spielern aus der ganzen Welt und testen Sie Ihr strategisches Denken, um das Spiel zu gewinnen.\n• Unterstützung mehrerer Sprachen: Wählen Sie aus einer Vielzahl von Sprachen, die Ihren Vorlieben entsprechen.\n• Optimiert für die Watch: Eine elegante und intuitive Benutzeroberfläche, die für den Apple Watch-Bildschirm entwickelt wurde, damit Sie Gomoku jederzeit und überall genießen können.\n\nNehmen Sie an der Herausforderung teil und werden Sie ein Gomoku-Meister!",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um sie auf die Kompatibilität mit watchOS 27 vorzubereiten. Es sind keine neuen Funktionen enthalten.\n\nbug fixes",
+      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.\n\nbug fixes",
       "trackViewUrl": "https://apps.apple.com/de/app/gomoku-schach-for-watch/id6740016178?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "泳诗 陈",
@@ -319,6 +319,6 @@
       "seenAt": "2025-04-02T09:18:55Z"
     }
   ],
-  "updatedAt": "2026-10-04T12:44:56.720Z",
+  "updatedAt": "2026-10-05T14:50:21.776Z",
   "isOwnApp": false
 }
