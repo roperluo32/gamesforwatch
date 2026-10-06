@@ -9,7 +9,7 @@
       "description": "An excellent board logic game CHESS, now available on your Watch & Phone:\n - Play with AI (easy, medium, hard).\n - Play with Friends (versus mode).\n - Play on your Watch or Phone.\n\nTips: drag your finger to highlight locations.",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n* Update game balance.",
       "trackViewUrl": "https://apps.apple.com/us/app/chess-for-watch-phone/id1491869018?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
@@ -290,6 +290,6 @@
       "seenAt": "2024-12-17T08:41:57Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:38:14.717Z",
+  "updatedAt": "2026-10-06T13:33:22.598Z",
   "isOwnApp": false
 }

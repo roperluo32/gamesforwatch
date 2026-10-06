@@ -77,9 +77,9 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/9d/c3/039dc34e-afe3-eac4-f2f7-191398afaa22/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.80891,
-  "userRatingCount": 157,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ae/38/acae38e9-9d76-c1d2-fc70-4a1222ce74d1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.79873,
+  "userRatingCount": 159,
   "price": 1.99,
   "fileSizeBytes": "30023680",
   "contentAdvisoryRating": "4+",
@@ -407,6 +407,6 @@
       "seenAt": "2026-09-15T02:32:06Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:21:11.653Z",
+  "updatedAt": "2026-10-06T13:17:24.719Z",
   "isOwnApp": false
 }

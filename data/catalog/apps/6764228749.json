@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "MortalMind: Humanlike AI Chess",
-      "description": "Chess engines are incredible at calculating chess positions. MortalMind is here to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
-      "releaseNotes": "Updated engines, added features, checkmated bugs.",
+      "description": "Chess engines are built to calculate chess positions. MortalMind is built to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
+      "releaseNotes": "Added features, checkmated bugs.",
       "trackViewUrl": "https://apps.apple.com/us/app/mortalmind-humanlike-ai-chess/id6764228749?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Jonathon Wodnicki",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "MortalMind: Humanlike AI Chess",
-      "description": "Chess engines are incredible at calculating chess positions. MortalMind is here to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
-      "releaseNotes": "Updated engines, added features, checkmated bugs.",
+      "description": "Chess engines are built to calculate chess positions. MortalMind is built to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
+      "releaseNotes": "Added features, checkmated bugs.",
       "trackViewUrl": "https://apps.apple.com/jp/app/mortalmind-humanlike-ai-chess/id6764228749?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Jonathon Wodnicki",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "MortalMind: Humanlike AI Chess",
-      "description": "Chess engines are incredible at calculating chess positions. MortalMind is here to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
-      "releaseNotes": "Updated engines, added features, checkmated bugs.",
+      "description": "Chess engines are built to calculate chess positions. MortalMind is built to make chess fun.\n\nMortalMind uses an AI model trained on millions of games played by real people.\nInstead of asking \"what is optimal candidate at branching tree depth 12\", it asks \"what move does a novice player normally make in this position\".\n\nWhether you're picking up chess for the first time or getting back into it after years away, MortalMind can play at your level. No artificial blunders, no cold calculation, just good games.\n\nNo accounts, ads, subscriptions or wi-fi. No humans to judge or take too long. Open and play!",
+      "releaseNotes": "Added features, checkmated bugs.",
       "trackViewUrl": "https://apps.apple.com/de/app/mortalmind-humanlike-ai-chess/id6764228749?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Jonathon Wodnicki",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d1/a0/5ad1a096-52cd-0d96-4109-a857236527a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/51/14/7b51140d-44bc-de34-5e26-d03b4819a264/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "136970240",
+  "fileSizeBytes": "137109504",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
-  "version": "1.2.8",
-  "currentVersionReleaseDate": "2026-09-21T02:27:36Z",
+  "version": "1.2.9",
+  "currentVersionReleaseDate": "2026-10-05T20:38:36Z",
   "releaseDate": "2026-04-30T07:00:00Z",
   "artistId": 879999116,
   "artistName": "Jonathon Wodnicki",
@@ -307,8 +307,13 @@
       "version": "1.2.8",
       "releaseNotes": "Updated engines, added features, checkmated bugs.",
       "seenAt": "2026-09-21T02:27:36Z"
+    },
+    {
+      "version": "1.2.9",
+      "releaseNotes": "Added features, checkmated bugs.",
+      "seenAt": "2026-10-05T20:38:36Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:55:18.184Z",
+  "updatedAt": "2026-10-06T13:50:10.885Z",
   "isOwnApp": false
 }

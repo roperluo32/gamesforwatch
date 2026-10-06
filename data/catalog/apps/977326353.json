@@ -92,7 +92,7 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/e1/b2/88e1b266-4ff5-6f76-5c56-df1a9ea22a33/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/a4/ea/5ba4ea90-b514-421b-a967-37e6d65d90fc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.59999,
   "userRatingCount": 5,
   "price": 3.99,
@@ -406,6 +406,6 @@
       "seenAt": "2026-09-28T06:09:32Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:51:19.931Z",
+  "updatedAt": "2026-10-06T13:46:23.127Z",
   "isOwnApp": false
 }

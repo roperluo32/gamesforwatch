@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Super Chess for Watch & Phone",
-      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Learn Chess with the Chess Coach.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
       "trackViewUrl": "https://apps.apple.com/us/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -24,8 +24,8 @@
     },
     "zh": {
       "trackName": "Super Chess for Watch & Phone",
-      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Learn Chess with the Chess Coach.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
       "trackViewUrl": "https://apps.apple.com/cn/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -42,8 +42,8 @@
     },
     "ja": {
       "trackName": "Super Chess for Watch & Phone",
-      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Learn Chess with the Chess Coach.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
       "trackViewUrl": "https://apps.apple.com/jp/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -60,8 +60,8 @@
     },
     "de": {
       "trackName": "Super Chess for Watch & Phone",
-      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Play with AI or Friends.\n - Strongest chess engine.\n - Unlock Themes.\n - Play on your Watch or Phone.",
-      "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
+      "description": "SUPER CHESS, now available to play on your Watch & Phone:\n - Classic or Super Fun modes.\n - Learn Chess with the Chess Coach.\n - Unlock Themes.\n - Play on your Watch or Phone.",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
       "trackViewUrl": "https://apps.apple.com/de/app/super-chess-for-watch-phone/id1599064732?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/de/35/41de357e-c0aa-d6ff-51e4-d0bc47548e9c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c2/e3/0ec2e3e7-ede1-082e-5112-37b12a01a56c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "102455296",
+  "fileSizeBytes": "101706752",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.6.2",
-  "currentVersionReleaseDate": "2026-09-04T17:45:01Z",
+  "version": "3.6.3",
+  "currentVersionReleaseDate": "2026-10-05T20:43:43Z",
   "releaseDate": "2021-12-08T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -517,8 +517,13 @@
       "version": "3.6.2",
       "releaseNotes": "- Smarter new chess engine for a more challenging and enjoyable experience\n- New difficulty levels, from Easy to Master, for players of all skill levels\n- Improved graphics for a cleaner and more polished chess experience",
       "seenAt": "2026-09-04T17:45:01Z"
+    },
+    {
+      "version": "3.6.3",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
+      "seenAt": "2026-10-05T20:43:43Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:25:27.448Z",
+  "updatedAt": "2026-10-06T13:21:21.039Z",
   "isOwnApp": false
 }

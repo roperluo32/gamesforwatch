@@ -1,14 +1,14 @@
 {
   "trackId": "1252580641",
   "bundleId": "com.shikudo.fitrpg",
-  "slug": "walking-rpg-hero-health-game",
-  "path": "/apps/1252580641-walking-rpg-hero-health-game/",
+  "slug": "walking-rpg-fitness-hero-game",
+  "path": "/apps/1252580641-walking-rpg-fitness-hero-game/",
   "locales": {
     "en": {
-      "trackName": "Walking RPG: Hero health game",
+      "trackName": "Walking RPG: Fitness Hero Game",
       "description": "PEDOMETER + RPG!\n\nTrain your team of heroes as you exercise, the more activities the stronger your heroes become! Let’s take on the challenges, and embark on the journey of becoming the new best you! \n\nIt has been 12 years since the Dark Force Took over Fitland. Villagers await the savior to return. Will you be the one to lead a team of heroes, defeat enemies and save them all?\n\nKEY FEATURES:\n* Walking RPG - Convert your steps into free energy and use them to level up heroes\n* Sync steps - Uses steps from your phone or sync steps from your Fitbit\n* Battlegrounds - Explore the Fitland map, fight monsters and save the kingdom\n* Team of heroes - Collect and train different heroes, form your ace team\n* Precious equipment and skins - Collect, upgrade precious weapons to make your team stronger\n* Arena - Compete with other players and fight your way to the top\n\nPlease Note: Walking RPG is a free-to-play game, but some extra game items can be purchased for real money. You can disable in-app purchases in your device's settings.\n\nHEALTHKIT:\n\nWalking RPG is also an Apple Watch game: it uses HealthKit to read your steps from Apple Watch. Make sure to grant all permissions when asked to authorize with the Health App to make it work.\n\nSUBSCRIPTION PRICING AND TERMS:\n\nSuperPass offers USD $6.99 monthly subscription after 3-day free trial for accessing exclusive resources and premium features.\n\nEnd of trial and subscription renewal:\nThis price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n\nPayment will be charged to iTunes Account at confirmation of purchase.\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nAccount will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy policy: https://site.shikudo.com/privacy-policy\nTerms of use: https://site.shikudo.com/terms-of-use",
       "releaseNotes": "This update contains stability improvements and general bug fixes.",
-      "trackViewUrl": "https://apps.apple.com/us/app/walking-rpg-hero-health-game/id1252580641?uo=4",
+      "trackViewUrl": "https://apps.apple.com/us/app/walking-rpg-fitness-hero-game/id1252580641?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Shikudo Co., Ltd.",
       "genres": [
@@ -21,7 +21,7 @@
         "EN",
         "ZH"
       ],
-      "subtitle": "Fitness game for weight loss"
+      "subtitle": "Health game for weight loss"
     },
     "ja": {
       "trackName": "Walking RPG: 歩数 + 位置情報 ゲーム",
@@ -62,15 +62,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f4/72/3bf472a3-71fc-6e8d-963a-e4f4222b813a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/9d/4c/ea9d4cfa-b4c3-a186-caad-1f8d59307b51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.3582,
   "userRatingCount": 67,
   "price": 0,
-  "fileSizeBytes": "240197632",
+  "fileSizeBytes": "240279552",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "15.0",
-  "version": "5.7.7",
-  "currentVersionReleaseDate": "2026-08-15T05:07:12Z",
+  "version": "5.7.9",
+  "currentVersionReleaseDate": "2026-10-05T15:58:27Z",
   "releaseDate": "2018-02-26T08:47:04Z",
   "artistId": 1089497060,
   "artistName": "Shikudo",
@@ -398,8 +398,13 @@
       "version": "5.7.7",
       "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
       "seenAt": "2026-08-15T05:07:12Z"
+    },
+    {
+      "version": "5.7.9",
+      "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
+      "seenAt": "2026-10-05T15:58:27Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:59:00.029Z",
+  "updatedAt": "2026-10-06T13:53:35.301Z",
   "isOwnApp": false
 }
