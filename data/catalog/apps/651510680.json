@@ -95,21 +95,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/9a/ff/3f9aff8d-dcb0-61e2-e282-343df4fb2b2b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b3/77/54b37790-c043-e7e5-58d0-42f382f7fe92/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28712,
   "userRatingCount": 1623,
   "price": 0,
-  "fileSizeBytes": "418700288",
+  "fileSizeBytes": "425954304",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.389.1",
-  "currentVersionReleaseDate": "2026-10-01T13:22:31Z",
+  "version": "3.390.0",
+  "currentVersionReleaseDate": "2026-10-06T12:31:34Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
   "artistViewUrl": "https://apps.apple.com/de/developer/etermax/id286461525?uo=4",
   "sellerUrl": "http://www.etermax.com",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -495,8 +495,13 @@
       "version": "3.389.1",
       "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
       "seenAt": "2026-10-01T13:22:31Z"
+    },
+    {
+      "version": "3.390.0",
+      "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
+      "seenAt": "2026-10-06T12:31:34Z"
     }
   ],
-  "updatedAt": "2026-10-06T13:16:57.741Z",
+  "updatedAt": "2026-10-07T13:11:37.129Z",
   "isOwnApp": false
 }

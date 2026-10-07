@@ -95,21 +95,21 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/cc/52/12cc522d-dbbe-5a3a-676d-2027cf302553/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/36/25/9c362585-85fa-4137-7fe8-ab342661c2da/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.49754,
   "userRatingCount": 203,
   "price": 7.99,
-  "fileSizeBytes": "328126464",
+  "fileSizeBytes": "335314944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.389.1",
-  "currentVersionReleaseDate": "2026-10-01T13:22:37Z",
+  "version": "3.390.0",
+  "currentVersionReleaseDate": "2026-10-06T12:31:40Z",
   "releaseDate": "2013-11-06T12:52:48Z",
   "artistId": 286461525,
   "artistName": "Etermax",
   "artistViewUrl": "https://apps.apple.com/de/developer/etermax/id286461525?uo=4",
   "sellerUrl": "http://www.etermax.com",
-  "isGameCenterEnabled": false,
+  "isGameCenterEnabled": true,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
@@ -496,8 +496,13 @@
       "version": "3.389.1",
       "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
       "seenAt": "2026-10-01T13:22:37Z"
+    },
+    {
+      "version": "3.390.0",
+      "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
+      "seenAt": "2026-10-06T12:31:40Z"
     }
   ],
-  "updatedAt": "2026-10-06T13:16:37.277Z",
+  "updatedAt": "2026-10-07T13:11:16.576Z",
   "isOwnApp": false
 }

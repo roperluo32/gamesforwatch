@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Space Battle Ship Daisakusen",
       "description": "A Sci-Fi Adventure Game of Giving Orders, Standing Back, and Waiting for Return\nIt was supposed to be simple work — just give the orders and wait... but things didn't quite go that way.\n\n※※※All characters, organizations, etc. appearing in this game are fictional. Any resemblance to real people or organizations is purely coincidental※※※\n\n—————The story begins with the construction of a Galactic Federation Army satellite branch base on a rural planet at the edge of the galaxy.\nThe protagonist arrives there fresh out of the military academy, holding the title of Acting Base Commander.\n\nYou must build up this base and send starships out to resolve various crimes, conflicts, and battles, advancing the story as you solve these problems.\n\nHowever, the newly built base had not a single warship — not even one crew member or soldier. And so begins the lone struggle of the rookie Acting Commander—————\n\nThis game is free to play, but includes advertisements. It requires periodic network access, though offline play is supported for a certain amount of time.\n(Ads can be removed via in-app purchase, but periodic network access is still required to obtain time.)\n\nIn-app purchases of in-game items are available for sale, but the game is designed so that it can be cleared without spending money, given enough time.\n\nGame balance adjustments may occur through version updates. There is a level cap, but this cap will be raised as the story progresses.\n\nPlease note that equipment strength and skills may be added or changed.\n\n————————————————————————\n\nThis app includes a subscription-based purchase item, the \"Headquarters Registered Direct Command Service.\" (You can play without subscribing.)\nPrice: 50 cents, renewal period: 7 days\n\nBy subscribing to this service, you can continuously receive services equal to or better than what you'd get by purchasing certain non-consumable items, without having to buy them separately.\n\nSubscription charges are billed to the iTunes account used at the time of item purchase, and are automatically charged again every week thereafter.\n\nYou can cancel anytime from Settings app → iTunes Store and App Store (Account Settings), but the service will continue until the end of the current valid period.\n\nIf not cancelled at least 24 hours before the subscription period ends, it will renew automatically. In that case, the purchasing account will be charged within 24 hours before the current subscription period ends.\n\nFor the privacy policy, please see the following site:\nhttps://yuye.co.jp/policy_en.html\n\nFor the software license agreement, please see the following site:\nhttps://yuye.co.jp/terms_of_use_en.html",
-      "releaseNotes": "--2.2.25--\nMinor bug fixes. iOS 27 support.\n\n--2.2.24--\nSignificantly improved the English translations.\n\n--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
+      "releaseNotes": "--2.2.26--\nAdded German language support. Minor bug fixes.\n\n--2.2.25--\nMinor bug fixes. iOS 27 support.\n\n--2.2.24--\nSignificantly improved the English translations.\n\n--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
       "trackViewUrl": "https://apps.apple.com/us/app/space-battle-ship-daisakusen/id911652548?uo=4",
       "formattedPrice": "Free",
       "sellerName": "YUYE.CO",
@@ -19,6 +19,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "DE",
         "JA",
         "KO",
         "ZH"
@@ -28,7 +29,7 @@
     "ja": {
       "trackName": "宇宙戦艦大作戦",
       "description": "指示出し放置＆帰還待ち型のSFアドベンチャーゲーム\n命令してあとは待つだけの、簡単なお仕事のはずだったんですけど…\n\n※※※本ゲームに登場する人物、団体等は全てフィクションです。実在する人物、団体等とは一切関係がありません※※※\n\n—————銀河の片隅の田舎惑星に、銀河連合軍の衛星支部基地設営から物語は始まります。\n主人公は士官学校出立ての、基地司令官代理という肩書きでそこへと赴任してきます。\n\nあなたはこの基地をもり立てて、様々な犯罪や紛争、戦地へと宇宙戦艦を派遣し、問題を解決しながら物語を進めていかなければなりません。\n\nところが新造基地には、一隻の軍艦どころか、乗組員の兵士さえ一人も居ませんでした。これから新米司令官代理の孤軍奮闘が始まります—————\n\nこのゲームは無料でプレーできますが、広告が表示されます。定期的なネットワークへのアクセスが必要ですが、一定時間はオフラインでの動作もサポートしています。\n（課金することで広告を外せますが、定期的なネットワークへのアクセスは時間取得のために必要です）\n\nアプリ内課金によるゲーム内アイテムを販売しますが、課金無しでも時間をかければクリアできるように作成しています。\n\nバージョンアップによりゲームバランスの調整が入る可能性があります。レベルキャップはありますが、今後のストーリーの進展により上限が上がります。\n\n装備の強さやスキルは追加、変更がありますので、その旨ご了承ください。\n\n————————————————————————\n\n本アプリには購読型課金アイテム「軍本部登録直轄サービス」があります。(登録しなくても遊べます)\n価格:50円,更新期間7日間\n\nサービス購読により、一部の非消費型アイテムを購入しなくても同等以上のサービスを継続的に受けられるようになります。\n\n購読型課金はアイテム購入時のiTunesアカウントへ課金され、その後一週間ごとに自動課金されます。\n\n設定アプリ->iTunes StoreとApp Store（アカウント設定）からいつでも停止できますが、有効な期間中までサービスは続きます。\n\n購読期限の24時間前までに停止しなければ自動的に更新されます。その際購入したアカウントに対して購読が終了する前の24時間以内に請求されます。\n\nプライバシーポリシーについては、以下のサイトをご覧ください。\nhttps://yuye.co.jp/policy.html\n\nソフトウェア使用許諾については、以下のサイトをご覧ください。\nhttps://yuye.co.jp/terms_of_use.html",
-      "releaseNotes": "--2.2.25--\n台湾語対応完了。iOS27対応とマイナーバグ修正です。\n\n--2.2.24--\n韓国語対応完了。\n\n--2.2.23--\n英語対応完了、誤字脱字修正。マイナーバグ修正。",
+      "releaseNotes": "--2.2.26--\nドイツ語に対応しました。軽微な不具合を修正しました。\n\n--2.2.25--\n台湾語対応完了。iOS27対応とマイナーバグ修正です。\n\n--2.2.24--\n韓国語対応完了。\n\n--2.2.23--\n英語対応完了、誤字脱字修正。マイナーバグ修正。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%AE%87%E5%AE%99%E6%88%A6%E8%89%A6%E5%A4%A7%E4%BD%9C%E6%88%A6/id911652548?uo=4",
       "formattedPrice": "無料",
       "sellerName": "YUYE.CO",
@@ -40,6 +41,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "DE",
         "JA",
         "KO",
         "ZH"
@@ -49,7 +51,7 @@
     "de": {
       "trackName": "Space Battle Ship Daisakusen",
       "description": "A Sci-Fi Adventure Game of Giving Orders, Standing Back, and Waiting for Return\nIt was supposed to be simple work — just give the orders and wait... but things didn't quite go that way.\n\n※※※All characters, organizations, etc. appearing in this game are fictional. Any resemblance to real people or organizations is purely coincidental※※※\n\n—————The story begins with the construction of a Galactic Federation Army satellite branch base on a rural planet at the edge of the galaxy.\nThe protagonist arrives there fresh out of the military academy, holding the title of Acting Base Commander.\n\nYou must build up this base and send starships out to resolve various crimes, conflicts, and battles, advancing the story as you solve these problems.\n\nHowever, the newly built base had not a single warship — not even one crew member or soldier. And so begins the lone struggle of the rookie Acting Commander—————\n\nThis game is free to play, but includes advertisements. It requires periodic network access, though offline play is supported for a certain amount of time.\n(Ads can be removed via in-app purchase, but periodic network access is still required to obtain time.)\n\nIn-app purchases of in-game items are available for sale, but the game is designed so that it can be cleared without spending money, given enough time.\n\nGame balance adjustments may occur through version updates. There is a level cap, but this cap will be raised as the story progresses.\n\nPlease note that equipment strength and skills may be added or changed.\n\n————————————————————————\n\nThis app includes a subscription-based purchase item, the \"Headquarters Registered Direct Command Service.\" (You can play without subscribing.)\nPrice: 50 cents, renewal period: 7 days\n\nBy subscribing to this service, you can continuously receive services equal to or better than what you'd get by purchasing certain non-consumable items, without having to buy them separately.\n\nSubscription charges are billed to the iTunes account used at the time of item purchase, and are automatically charged again every week thereafter.\n\nYou can cancel anytime from Settings app → iTunes Store and App Store (Account Settings), but the service will continue until the end of the current valid period.\n\nIf not cancelled at least 24 hours before the subscription period ends, it will renew automatically. In that case, the purchasing account will be charged within 24 hours before the current subscription period ends.\n\nFor the privacy policy, please see the following site:\nhttps://yuye.co.jp/policy_en.html\n\nFor the software license agreement, please see the following site:\nhttps://yuye.co.jp/terms_of_use_en.html",
-      "releaseNotes": "--2.2.25--\nMinor bug fixes. iOS 27 support.\n\n--2.2.24--\nSignificantly improved the English translations.\n\n--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
+      "releaseNotes": "--2.2.26--\nJetzt auch auf Deutsch. Kleinere Fehler behoben.",
       "trackViewUrl": "https://apps.apple.com/de/app/space-battle-ship-daisakusen/id911652548?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "YUYE.CO",
@@ -61,6 +63,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "DE",
         "JA",
         "KO",
         "ZH"
@@ -68,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/7c/5b/257c5b32-11a1-8103-e4cc-42340110e749/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/54/73/8f547389-7172-aed4-70a2-6da598286deb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "25028608",
+  "fileSizeBytes": "28498944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.2.25",
-  "currentVersionReleaseDate": "2026-09-27T22:10:42Z",
+  "version": "2.2.26",
+  "currentVersionReleaseDate": "2026-10-07T07:22:29Z",
   "releaseDate": "2014-09-12T18:07:56Z",
   "artistId": 911652551,
   "artistName": "株式会社ゆゑ",
@@ -246,6 +249,27 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/61/eb/e461eb0e-8c5c-edee-08c4-17a19a11490c/91a31ec7-6fca-467b-b9f9-d27a2682b788_s5_6_5.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/01/b7/a201b729-5bab-9ffb-8341-22c79740f807/70e33feb-550f-4488-894d-76f93c0ed3f9_s6_6_5.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/52/92/de5292e4-4149-2a39-6687-ca89dbf4a023/4fbdeea9-fb69-41a5-82d1-92a6a19018cf_s7_6_5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/13/cc/d513cc11-d4f3-432f-1a6c-692c6cffe146/IMG_5145.PNG/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/28/e3/fd28e345-aa05-fa9e-de80-6a9e60df2d3b/IMG_5147.PNG/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/c7/21/0dc72114-7f20-ea37-39e7-3489f9916ad3/IMG_5148.PNG/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/d8/e0/2ad8e06d-f72a-7e43-4527-6a771e3094db/IMG_5149.PNG/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/b3/41/c0b3410d-35fc-5065-6a49-4614945007a8/IMG_5161.PNG/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/54/80/d15480b5-4150-f96c-7baf-af84795456f1/IMG_0147.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/ef/61/35ef6121-e932-17c8-3428-d90f49b1f723/IMG_0148.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/41/4c/c4414c8c-ecfb-47d7-1e1f-e3d3465cc56f/IMG_0149.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/48/71/8148716d-d117-1272-a70a-0d5952210630/IMG_0150.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/39/d1/aa39d114-02bb-139e-2020-c8f754bd07ef/IMG_0151.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/65/9f/0d659f86-56d8-ef62-5ccd-b4b6033bbaf5/IMG_0153.PNG/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/5a/d5/355ad538-3aff-8334-7362-9288da0e86a0/mzl.lqrokfss.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ed/d9/84edd9f5-60bc-1fb9-68df-844a84552b09/mzl.esnppwji.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f5/92/3ff59271-a6c8-340a-404b-f52927bba0ad/mzl.bhmgoxvs.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f0/7e/d2f07ecc-6357-383d-fd7d-e4d177a9d734/mzl.dnvljzbo.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/cb/0f81cb30-b314-d0cc-7673-d352a9312c8a/mzl.kzohaovd.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/16/bf/9316bfeb-711a-800b-b9bb-61b8e81be41c/mzl.ivctazqi.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/90/34/a3903457-45b1-d754-68be-a1240ca2e351/mzl.nwdilhqo.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e4/bc/a3e4bc05-b52e-22dc-cb8a-4fc90172913f/mzl.qybgxsgt.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/6e/11/396e11fa-e0b8-cb18-b4f5-d65fed0d6c84/mzl.ritncqhu.jpg/576x768bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2d/31/6f2d31b9-88e8-f609-cc19-22099db1850a/mzl.jjramlht.jpg/576x768bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/2f/86/092f864f-94b6-e126-f79b-6c250a2d7f42/0b642db8-d8ec-42ff-a78f-0d8b38a0a3fc_s1_5_5.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/20/a3/5020a352-bc72-b226-4f5f-073c7545e123/a7c9bf22-7ccb-4fdf-9ea8-9064d2b38dfd_s2_5_5.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/59/cc/c159cc69-8afe-af0e-3d93-67585302d60e/e7bbb077-14f8-4cec-a016-9bfda070f5db_s3_5_5.png/392x696bb.png",
@@ -259,17 +283,7 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/ab/c4/7babc45a-24a4-2ddc-4116-5b22fa2cd7ee/7d8c0643-dc94-4fe6-b472-f931ae793ca8_s4_ipad.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/11/a9/b811a9ab-44cd-bd1d-b0fd-e8ef58d8e2d0/3e4e097a-3836-4c3a-84db-2c49ecad94f6_s5_ipad.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/83/a7/8483a79a-49a8-9832-b7b1-cf5dcf006f74/3f119160-7b4b-40c1-a2fb-78d47c73bf8a_s6_ipad.png/576x768bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/ed/8c/cced8c16-73b0-d317-ce8f-f60788c67e71/2da563b0-0f4f-47ad-bc5c-0323e10e8f52_s7_ipad.png/576x768bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/5a/d5/355ad538-3aff-8334-7362-9288da0e86a0/mzl.lqrokfss.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ed/d9/84edd9f5-60bc-1fb9-68df-844a84552b09/mzl.esnppwji.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f5/92/3ff59271-a6c8-340a-404b-f52927bba0ad/mzl.bhmgoxvs.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f0/7e/d2f07ecc-6357-383d-fd7d-e4d177a9d734/mzl.dnvljzbo.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/cb/0f81cb30-b314-d0cc-7673-d352a9312c8a/mzl.kzohaovd.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/16/bf/9316bfeb-711a-800b-b9bb-61b8e81be41c/mzl.ivctazqi.jpg/576x768bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/90/34/a3903457-45b1-d754-68be-a1240ca2e351/mzl.nwdilhqo.jpg/576x768bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e4/bc/a3e4bc05-b52e-22dc-cb8a-4fc90172913f/mzl.qybgxsgt.jpg/576x768bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/6e/11/396e11fa-e0b8-cb18-b4f5-d65fed0d6c84/mzl.ritncqhu.jpg/576x768bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2d/31/6f2d31b9-88e8-f609-cc19-22099db1850a/mzl.jjramlht.jpg/576x768bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/ed/8c/cced8c16-73b0-d317-ce8f-f60788c67e71/2da563b0-0f4f-47ad-bc5c-0323e10e8f52_s7_ipad.png/576x768bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/22/d4/8922d44c-5d64-c2a4-04b7-db9598818dd6/c4371271-2983-4a59-9871-a97cec3cc1cd_app-en.PNG/410x502bb.png",
@@ -420,8 +434,13 @@
       "version": "2.2.25",
       "releaseNotes": "--2.2.25--\nMinor bug fixes. iOS 27 support.\n\n--2.2.24--\nSignificantly improved the English translations.\n\n--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
       "seenAt": "2026-09-27T22:10:42Z"
+    },
+    {
+      "version": "2.2.26",
+      "releaseNotes": "--2.2.26--\nAdded German language support. Minor bug fixes.\n\n--2.2.25--\nMinor bug fixes. iOS 27 support.\n\n--2.2.24--\nSignificantly improved the English translations.\n\n--2.2.23--\nScenarios and battle stages , translation improvements and additions.\n\n--2.2.22--\nMinor bug fixes, Scenarios and battle stages , translation improvements and additions.",
+      "seenAt": "2026-10-07T07:22:29Z"
     }
   ],
-  "updatedAt": "2026-10-06T13:51:31.264Z",
+  "updatedAt": "2026-10-07T13:46:42.629Z",
   "isOwnApp": false
 }

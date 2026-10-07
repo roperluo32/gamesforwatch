@@ -9,7 +9,7 @@
       "description": "You're driving your monster truck on the highway, minding your own business, when suddenly you get a call from the highway police, telling you that all the other drivers have gone mad. You better destroy as many of their cars possible before it is too late!\n\nFeatures:\n- Drive a monster truck\n- Destroy cars\n- Make the road a safer place (well, kind of)\n- Endless levels\n- Explosions\n- Pretty easy to play\n- No internet connection required for playing (play offline)\n- Unlock more games inside",
       "releaseNotes": "More languages added",
       "trackViewUrl": "https://apps.apple.com/us/app/monster-trucks-car-smash-race/id6502875554?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "高速道路をモンスタートラックで走っていると、突然ハイウェイポリスから電話が入ります。ほかのドライバーたちが暴走してしまったのです。手遅れになる前に、できるだけ多くの車を壊しましょう。\n\n特徴:\n- モンスタートラックを運転\n- 車をクラッシュ\n- 道路を少しだけ安全に\n- エンドレスステージ\n- 爆発たっぷり\n- かんたん操作\n- オフラインで遊べる\n- アプリ内で他のゲームも解放",
       "releaseNotes": "対応言語を追加しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/monster-trucks-smash/id6502875554?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Du fährst mit deinem Monster Truck über die Autobahn, als plötzlich ein Anruf von der Autobahnpolizei kommt. Die anderen Fahrer sind komplett durchgedreht. Zerstöre so viele Autos wie möglich, bevor es zu spät ist.\n\nFeatures:\n- Fahre einen Monster Truck\n- Zerstöre Autos\n- Mach die Straße etwas sicherer\n- Endlose Level\n- Explosionen\n- Einfach zu spielen\n- Kein Internet zum Spielen nötig\n- Schalte weitere Spiele in der App frei",
       "releaseNotes": "Mehr Sprachen hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/monster-trucks-crash-race/id6502875554?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/ab/45/d8ab4519-1a2b-dd64-4575-78c596e7e51f/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "46692352",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -451,6 +451,6 @@
       "seenAt": "2026-04-10T03:54:57Z"
     }
   ],
-  "updatedAt": "2026-10-06T13:43:44.480Z",
+  "updatedAt": "2026-10-07T13:38:11.141Z",
   "isOwnApp": false
 }
