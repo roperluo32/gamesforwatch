@@ -7,7 +7,7 @@
     "en": {
       "trackName": "NeonFlip: Board Game",
       "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels, multiple languages!",
-      "releaseNotes": "Player can now choose black or white piece. Black moves first.\nImproved localization.",
+      "releaseNotes": "Supports iPhone Duo.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "NeonFlip: Board Game",
       "description": "近未来のネオン輝く都市で、オセロ（リバーシ）をプレイしよう！\nApple Watch、iPhone、iPad、Macに対応しています。\n\n1人または2人プレイ、3段階の難易度、多言語対応！",
-      "releaseNotes": "黒または白の駒を選べるようになりました。黒が先手です。\nローカライズを改善しました。",
+      "releaseNotes": "iPhone Duoに対応しています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "NeonFlip: Board Game",
       "description": "Spiele eine Runde Reversi ... in einer futuristischen Neon-Stadt!\nLäuft auf Apple Watch, iPhone, iPad und Mac.\n\nModus für einen oder zwei Spieler, 3 Schwierigkeitsstufen, mehrere Sprachen!",
-      "releaseNotes": "Spieler können nun zwischen schwarzen und weißen Steinen wählen. Schwarz beginnt.\nVerbesserte Lokalisierung.",
+      "releaseNotes": "Unterstützt iPhone Duo.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/70/b8/4970b8b0-38bd-a2b6-bbdf-a7a774b25da4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8d/a2/7e8da27f-c3ab-4756-ea64-3a8087bd8485/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
   "fileSizeBytes": "11113472",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.2",
-  "currentVersionReleaseDate": "2026-09-30T19:48:45Z",
+  "version": "2.3",
+  "currentVersionReleaseDate": "2026-10-07T16:34:04Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -221,6 +221,16 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/8b/17/e98b1704-e76c-4e44-5138-4eb0c71ceadd/iPad.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/73/c8/6073c87c-15bb-36dc-8e33-e5890cc8c479/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/66/64/716664a5-f29e-c5b5-00e0-d29f57830afc/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/05/0f/53050f56-7177-f992-a95b-9e7bf5664eda/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/b7/e4/62b7e407-ebd3-b6b0-c5c9-9b7f3b43275f/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/66/64/716664a5-f29e-c5b5-00e0-d29f57830afc/iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/05/0f/53050f56-7177-f992-a95b-9e7bf5664eda/IMG_1996.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/b7/e4/62b7e407-ebd3-b6b0-c5c9-9b7f3b43275f/IMG_1995.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/8b/17/e98b1704-e76c-4e44-5138-4eb0c71ceadd/iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/73/c8/6073c87c-15bb-36dc-8e33-e5890cc8c479/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/de/7d/62de7d50-fe5b-bf74-ff9a-fd09c60c2fb9/iPad.png/2752x2064bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/2732x2048bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/ea/ac/91eaacdc-53ff-9fa7-f2c9-c807de57517f/iPhone.png/1242x2688bb.png",
@@ -233,6 +243,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/72/1c/c5721ca7-1923-9eb0-a50e-0bcf7b9b2dce/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/fd/73/98fd7310-ea2a-c9b5-4c05-0402b46ed1e2/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/f1/67/dcf167c0-72ee-0c9b-356e-c76130f2c5d2/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/01/2f/b1012f3c-79f4-1a57-6478-2ecc8b9cff67/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png"
   ],
@@ -276,8 +288,13 @@
       "version": "2.2",
       "releaseNotes": "Player can now choose black or white piece. Black moves first.\nImproved localization.",
       "seenAt": "2026-09-30T19:48:45Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "Supports iPhone Duo.",
+      "seenAt": "2026-10-07T16:34:04Z"
     }
   ],
-  "updatedAt": "2026-10-07T13:45:57.748Z",
+  "updatedAt": "2026-10-08T13:54:53.512Z",
   "isOwnApp": false
 }
