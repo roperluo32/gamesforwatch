@@ -77,8 +77,8 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
-  "currentVersionReleaseDate": "2025-03-27T00:53:49Z",
-  "releaseDate": "2025-03-26T07:00:00Z",
+  "currentVersionReleaseDate": "2025-04-03T07:00:00Z",
+  "releaseDate": "2025-04-03T07:00:00Z",
   "artistId": 1794241519,
   "artistName": "CAIO FARIA PEDROSO",
   "artistViewUrl": "https://apps.apple.com/de/developer/caio-faria-pedroso/id1794241519?uo=4",
@@ -240,6 +240,6 @@
       "seenAt": "2025-03-27T00:53:49Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:27:41.340Z",
+  "updatedAt": "2026-10-09T13:12:11.215Z",
   "isOwnApp": false
 }

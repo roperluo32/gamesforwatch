@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Eat Chess: Royal Merge",
       "description": "Royal Merge is a chess merge puzzle played on a compact 4×4 board. Pick one piece, move it by simplified chess rules, and merge it with a matching piece of the same type and level. Pawns become Knights, then Bishops, Rooks, Queens, Kings, and higher-level Pawns.\n\nThe board fills fast. A quiet setup move can matter as much as the merge it opens.\n\nHOW IT PLAYS\n\nSelect a piece. Legal squares light up. Move to an empty square, merge with a match, or use Castle Swap when a same-level King and Rook line up with a clear path.\n\nEvery legal move into empty space and every Castle Swap adds a new Pawn. Pawn Spawn adds a Pawn on every second merge. Royal Reserve drops a Level 1 Pawn, Knight, Bishop, or Rook after every five successful actions. Every arrival can help, and every arrival takes space.\n\nBack-to-back merges build a combo multiplier. A move into empty space or a Castle Swap breaks the chain, so timing matters.\n\nSOLO\n\nPlay without a clock, add a Player Clock, set an Increment, or cap the run with a Turn Limit. Official Solo runs can count toward local records, Game Center leaderboards, and achievements.\n\nSolo also includes Hint. It points out possible moves, costs part of your current score, and never plays the move for you.\n\nVERSUS\n\nTwo players share one board on the same device. Player 1 starts. After each legal action, the turn passes and the board switches to the active player's chosen chess set. Pieces are shared, not owned. The active player scores only when they make a merge.\n\nVersus supports per-player clocks, Increment, a shared Game Clock, and Turn Limit. If a timed player clock hits zero, Clock Collapse keeps 20% of that player's score, resets the clock, and leaves that player on turn. The match continues.\n\nCOSMETIC OPTIONS\n\nStart with free chess sets and the Quiet Royal theme, or add optional cosmetic sets, themes, and the Royal Patron badge. Purchases do not change movement, scores, spawns, hints, timers, Castle Swap, leaderboards, or match results.\n\nAPPLE WATCH\n\nPlay Solo or Battle from the Watch app with the same 4×4 board, local save and resume, time controls, Solo undo, direct tap controls, optional Digital Crown selection, ten free board presets, and ten free piece styles. Watch play is standalone and does not require an iPhone connection.",
-      "releaseNotes": "Version 1.2 corrects clock and Undo behavior and improves saved-game recovery. Board controls work more reliably, with clearer score displays and better support for screen readers and larger text. Player Clocks are capped at 999 minutes.",
+      "releaseNotes": "Gameplay and setup now behave more consistently across platforms. This update also improves accessibility and recap formatting.",
       "trackViewUrl": "https://apps.apple.com/us/app/eat-chess-royal-merge/id6767652526?uo=4",
       "formattedPrice": "Free",
       "sellerName": "David Lew",
@@ -337,8 +337,13 @@
       "version": "1.2",
       "releaseNotes": "Version 1.2 corrects clock and Undo behavior and improves saved-game recovery. Board controls work more reliably, with clearer score displays and better support for screen readers and larger text. Player Clocks are capped at 999 minutes.",
       "seenAt": "2026-09-20T22:18:43Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Gameplay and setup now behave more consistently across platforms. This update also improves accessibility and recap formatting.\n",
+      "seenAt": "2026-10-08T18:09:59Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:55:51.467Z",
+  "updatedAt": "2026-10-09T13:41:21.655Z",
   "isOwnApp": false
 }
