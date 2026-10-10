@@ -1,14 +1,14 @@
 {
   "trackId": "6447742368",
   "bundleId": "com.mobivalley.LookAroundApp",
-  "slug": "place-guesser-street-view-geo",
-  "path": "/apps/6447742368-place-guesser-street-view-geo/",
+  "slug": "place-guesser-geoguess-game",
+  "path": "/apps/6447742368-place-guesser-geoguess-game/",
   "locales": {
     "en": {
-      "trackName": "Place Guesser: Street View Geo",
+      "trackName": "Place Guesser: GeoGuess Game",
       "description": "Play as many rounds as you like, free and with no ads. Pro adds countries, rules and more.\n\nDrop into a street somewhere in the world, look around, and guess where you are on the map. The closer your guess, the more points you score.\n\nPlace Guesser is a geography game played through real street-level imagery from Apple Look Around and Google Street View.\n\nHOW YOU PLAY\n• Play now: five rounds around the world, three minutes each, one tap from the home screen.\n• NEW Maps: 63 themed maps, from NFL stadiums, castles and lighthouses to 15 world cities. 2 free maps every day.\n• Daily Challenge: the same mystery places for everyone, every day, with a global leaderboard. Keep your streak alive.\n• Country Streak: how many countries can you name in a row before you miss?\n• Guess The Spot: a close-up that zooms out with every wrong answer. Fewer clues, more points.\n• Infinite Mode: keep going as long as you like.\n• Custom games: pick the timer, the number of rounds and how you're allowed to move.\n\nPLAY WITH FRIENDS\n• Real-time multiplayer: play the same places at the same time.\n• Async challenges: send a challenge and let friends play whenever they like.\n• Game Center leaderboards, achievements and friends boards.\n\nTRACK YOUR PROGRESS\n• A Passport of every country you've visited, with bronze, silver and gold medals.\n• Day streaks with streak freezes, so one busy day doesn't cost you everything.\n• Stats, personal bests and shareable result cards.\n\nMORE WAYS TO PLAY\n• Home screen widgets.\n• Apple Watch and Apple TV apps.\n\nPLACE GUESSER PRO\n• Unlimited Maps.\n• Choose a country and play only there.\n• Worldwide Pro: the full location pool, including Street View locations.\n• No Move and NMPZ rules (no move, no pan, no zoom).\n• The Daily Challenge archive: replay the last 30 days.\n• Longer timers, extra streak freezes and streak repair.\n\nPro is an auto-renewing subscription. Payment is charged to your Apple Account at confirmation. It renews automatically unless you cancel at least 24 hours before the end of the current period. Manage or cancel in your App Store account settings.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "What's new in Place Guesser\n\n• Fixed an issue where Pro could stay locked after subscribing. If it happened to you, just open the app: your subscription now unlocks on its own.",
-      "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-street-view-geo/id6447742368?uo=4",
+      "releaseNotes": "What's new in Place Guesser\n\nNew: Pass the Phone! One phone, everyone plays. Take turns guessing where in the world the map is.\n• Four games: Pass the Phone, Knockout, Family Team and Solo Map Quiz.\n• Pick an animal for each player and chase the family record.\n• Relaxed difficulty, great for kids and first timers.\n• Find it in Modes.",
+      "trackViewUrl": "https://apps.apple.com/us/app/place-guesser-geoguess-game/id6447742368?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mobivalley Tecnologia da Informacao Ltda",
       "genres": [
@@ -456,8 +456,13 @@
       "version": "1.64.1",
       "releaseNotes": "What's new in Place Guesser\n\n• Fixed an issue where Pro could stay locked after subscribing. If it happened to you, just open the app: your subscription now unlocks on its own.\n",
       "seenAt": "2026-10-05T23:04:44Z"
+    },
+    {
+      "version": "1.65.0",
+      "releaseNotes": "What's new in Place Guesser\n\nNew: Pass the Phone! One phone, everyone plays. Take turns guessing where in the world the map is.\n• Four games: Pass the Phone, Knockout, Family Team and Solo Map Quiz.\n• Pick an animal for each player and chase the family record.\n• Relaxed difficulty, great for kids and first timers.\n• Find it in Modes.",
+      "seenAt": "2026-10-09T15:57:28Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:39:42.479Z",
+  "updatedAt": "2026-10-10T12:54:39.275Z",
   "isOwnApp": false
 }

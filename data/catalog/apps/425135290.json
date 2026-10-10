@@ -415,8 +415,13 @@
       "version": "6.28.1",
       "releaseNotes": "Welcome to the latest update of Baby Adopter! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
       "seenAt": "2026-08-27T18:41:25Z"
+    },
+    {
+      "version": "6.29.1",
+      "releaseNotes": "Welcome to the latest update of Baby Adopter! We made necessary updates to support OS 27. We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
+      "seenAt": "2026-10-10T02:45:12Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:25:42.113Z",
+  "updatedAt": "2026-10-10T12:42:28.097Z",
   "isOwnApp": false
 }

@@ -247,15 +247,21 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/d1/0d/dfd10de2-0bec-7309-29d0-7ed5fa62fc55/06_keyart_en_2064x2752.png/2064x2752bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/93/19/d99319bf-7fcd-0a0d-c535-ba8442e2a076/05_levels_en_2064x2752.png/2064x2752bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/c9/69/6fc9693c-2ef3-d6ea-ce5d-aa84e0ee20e7/04_finish_en_2064x2752.png/2064x2752bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/20/75/95207544-03d4-59d8-1dac-c3981bb9676a/03_watch_en_2064x2752.png/2064x2752bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/94/7c/ff947cf9-242c-c688-8dc4-d29cbe0faf42/06_neon_keyart_1320x2868.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/a6/6d/f5a66d46-9632-dada-6d21-0802c07cb75e/01_neon_cover_1320x2868.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/bf/eb/f8bfeb74-893b-d977-c0e8-ad442405c43c/04_neon_finish_1320x2868.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/59/01/75590148-92ad-cc86-f7a4-dfe354dd22c4/05_neon_levels_1320x2868.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/16/41/e516418d-d4d5-b9b0-8d80-3ef03bc4a29a/08_neon_overtake_alt_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/81/24/1b81245d-37d4-9158-edf7-e9947c8ea594/06_keyart_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/66/c5/df66c56d-6e0a-7f04-5edb-078c7723b753/05_levels_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/71/3b/ac713bda-41e5-f291-3503-76634245406e/04_finish_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/02/5b/01025bfd-1406-b66f-f357-f0657e2ed817/03_watch_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/92/5e/a8925e4d-deb0-25d4-38b0-b80172115460/01-neon-racing.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/55/97/0455972c-bcd9-d90d-3c5e-dd4b50ff9f24/02-intuitive-steering.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/14/70/b814708f-1dd0-50e1-84ff-0432224c793f/03-thirty-stages.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/68/f0/4468f0d0-250d-9660-f4ab-0543a560605e/04-traffic-and-obstacles.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/96/8a/95968ac4-4cf1-488d-0674-ce6571b089a8/05-fuel-bonus.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/a5/ae/5da5ae32-b95e-7f7e-4b88-c9487210ef05/06-personal-best.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/48/3d/c6483d1a-e370-eedf-ff00-0f4a5cbe4e8b/06_neon_keyart_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/5c/8d/1b5c8d88-1eff-a82b-1976-fa755380a810/01_neon_cover_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/52/62/1c5262c9-7ac9-c9b3-d853-631822288af3/04_neon_finish_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/22/34/fc223450-9ac5-af7c-b730-4e65b01611ff/05_neon_levels_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/5c/c3/c15cc3bf-de6b-0888-eaf9-00f7c316b3ef/08_neon_overtake_alt_1320x2868.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/94/7c/ff947cf9-242c-c688-8dc4-d29cbe0faf42/06_neon_keyart_1320x2868.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/a6/6d/f5a66d46-9632-dada-6d21-0802c07cb75e/01_neon_cover_1320x2868.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/bf/eb/f8bfeb74-893b-d977-c0e8-ad442405c43c/04_neon_finish_1320x2868.png/320x480bb.jpg",
@@ -271,16 +277,30 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/da/7c/9fda7ce6-cc34-39ea-560e-f350cb19b51d/06_neon_keyart_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/e9/22/b1e9229b-03cb-020f-1087-5817958b3d1f/04_neon_finish_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/03/b6/1203b6f2-6c00-8b27-bea9-af8b8729a218/05_neon_levels_2064x2752.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/54/23/3e54236c-3328-58a9-201d-906ba920b9a1/02_neon_overtake_2064x2752.png/360x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/54/23/3e54236c-3328-58a9-201d-906ba920b9a1/02_neon_overtake_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/d1/0d/dfd10de2-0bec-7309-29d0-7ed5fa62fc55/06_keyart_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/93/19/d99319bf-7fcd-0a0d-c535-ba8442e2a076/05_levels_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/c9/69/6fc9693c-2ef3-d6ea-ce5d-aa84e0ee20e7/04_finish_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/20/75/95207544-03d4-59d8-1dac-c3981bb9676a/03_watch_en_2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/94/7c/ff947cf9-242c-c688-8dc4-d29cbe0faf42/06_neon_keyart_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/a6/6d/f5a66d46-9632-dada-6d21-0802c07cb75e/01_neon_cover_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/bf/eb/f8bfeb74-893b-d977-c0e8-ad442405c43c/04_neon_finish_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/59/01/75590148-92ad-cc86-f7a4-dfe354dd22c4/05_neon_levels_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/16/41/e516418d-d4d5-b9b0-8d80-3ef03bc4a29a/08_neon_overtake_alt_1320x2868.png/1320x2868bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/11/d4/d111d433-6d91-9689-8957-bc1ebf911c98/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.54.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/17/6d/c0176d4d-d117-7b21-6227-8c925e1e173d/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.49.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/64/d5/a064d560-5ad5-d39a-d480-a5d89fafff68/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.30.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/87/88/91878838-d61d-fa1c-fb8d-56bab7b1687c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.34.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/76/ab4a76c1-c018-2618-4d25-acc1bee53ff9/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.44.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/20/75/95207544-03d4-59d8-1dac-c3981bb9676a/03_watch_en_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ba/1f/1eba1f93-1557-02be-3cca-fd25105f538e/03_neon_watch_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/a7/b2/bfa7b2b5-c5f1-3d1a-bc04-fac5fa3eda87/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.54.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/6c/36/ee6c3686-644d-1b90-8074-24187aa4dec1/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.49.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/4d/bc/fd4dbc10-e1e2-e663-59d8-5b1e4b8566e8/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.30.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/ad/6c/c9ad6c75-177f-876c-4bb5-7d70159b1ae8/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.34.png/422x514bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/57/e2/9657e24f-ddf5-fcae-215b-40a858f87f8f/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.44.png/422x514bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/20/75/95207544-03d4-59d8-1dac-c3981bb9676a/03_watch_en_2064x2752.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ba/1f/1eba1f93-1557-02be-3cca-fd25105f538e/03_neon_watch_2064x2752.png/360x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/57/e2/9657e24f-ddf5-fcae-215b-40a858f87f8f/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.44.png/422x514bb.png"
   ],
   "versionHistory": [
     {
@@ -312,8 +332,13 @@
       "version": "2.1",
       "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
       "seenAt": "2026-09-28T21:40:08Z"
+    },
+    {
+      "version": "2.2",
+      "releaseNotes": "Improved layouts for iPhone Duo and other screen sizes.\nRaces now pause automatically when the screen size changes, preserving your current progress.\nFixed track shifts and unexpected collisions when resizing.\nImproved the home screen layout in landscape and the display of in-game dialogs.",
+      "seenAt": "2026-10-09T16:33:44Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:10:30.579Z",
+  "updatedAt": "2026-10-10T12:27:50.105Z",
   "isOwnApp": false
 }

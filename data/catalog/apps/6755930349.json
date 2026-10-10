@@ -223,12 +223,12 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/3a/5b/e43a5b12-752b-790b-b6b5-b08deac6207b/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.20.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/3c/b8/093cb8d5-cbe4-3467-9940-ee9ba80c292e/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.23.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/31/9c/c8319cba-d73e-3bd1-3017-37231ecea3b4/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.25.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/3a/5b/e43a5b12-752b-790b-b6b5-b08deac6207b/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.20.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/3c/b8/093cb8d5-cbe4-3467-9940-ee9ba80c292e/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.23.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/31/9c/c8319cba-d73e-3bd1-3017-37231ecea3b4/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.25.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/3a/5b/e43a5b12-752b-790b-b6b5-b08deac6207b/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.20.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/3c/b8/093cb8d5-cbe4-3467-9940-ee9ba80c292e/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.23.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/31/9c/c8319cba-d73e-3bd1-3017-37231ecea3b4/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-11-30_at_21.05.25.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/71/c0/d971c08f-2737-7c9f-4858-e8e8bcb5e9de/1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/68/f7/4068f707-2b95-ec18-ba33-09173d001959/2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/93/6e/01936e79-48d1-7ffb-c496-dac9def82f1d/3.png/320x480bb.jpg",
@@ -276,6 +276,6 @@
       "seenAt": "2026-06-21T15:49:52Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:10:08.647Z",
+  "updatedAt": "2026-10-10T12:31:34.892Z",
   "isOwnApp": false
 }

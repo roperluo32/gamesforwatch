@@ -109,7 +109,7 @@
   "releaseDate": "2026-07-20T07:00:00Z",
   "artistId": 1812138700,
   "artistName": "秀平 王",
-  "artistViewUrl": "https://apps.apple.com/de/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -247,18 +247,6 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/10/34/8a1034c7-fbc1-d9b5-ae2c-2748fa43a782/01.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/9c/22/449c2212-ed64-842f-286a-ee33b8b020b7/02.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/4c/cf/754ccfd2-9eb1-8a0c-2524-83e0aeb21c76/03.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/6b/1c266b39-ef61-8f2a-98dd-2187904ed808/04.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/4b/9f/154b9fe7-c652-9ad0-b9c9-50403734f3f5/05.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5b/81/7f5b819b-9153-5bf1-54eb-b51407a49bcb/06.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/84/a7/6684a74d-f415-3702-8cfa-942f834f0ec0/01.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/ec/94/5eec94b1-6321-a143-2b68-54db7b776a6a/02.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/91/57/379157bf-07d2-4ef9-5a03-92a3a130388d/03.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/69/9b/f1699b41-cfed-e9b3-8464-6938c9948935/04.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/95/6f/a4956f0a-8622-55e6-c7f8-e6d2ef7666f4/05.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d2/f2/d7d2f2e2-05b8-99f4-7d54-4d5836e1c64c/06.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/fc/55/1dfc553b-2393-ecef-fda6-5df34ba52c13/01.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/95/c9/1d95c96c-a405-e030-f445-25d98e07ba43/02.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/8f/7a/8f8f7a85-fb21-c59c-32e5-f84d25854fbe/03.png/320x480bb.jpg",
@@ -270,7 +258,19 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/4c/cf/754ccfd2-9eb1-8a0c-2524-83e0aeb21c76/03.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/6b/1c266b39-ef61-8f2a-98dd-2187904ed808/04.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/4b/9f/154b9fe7-c652-9ad0-b9c9-50403734f3f5/05.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5b/81/7f5b819b-9153-5bf1-54eb-b51407a49bcb/06.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5b/81/7f5b819b-9153-5bf1-54eb-b51407a49bcb/06.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/10/34/8a1034c7-fbc1-d9b5-ae2c-2748fa43a782/01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/9c/22/449c2212-ed64-842f-286a-ee33b8b020b7/02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/4c/cf/754ccfd2-9eb1-8a0c-2524-83e0aeb21c76/03.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/26/6b/1c266b39-ef61-8f2a-98dd-2187904ed808/04.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/4b/9f/154b9fe7-c652-9ad0-b9c9-50403734f3f5/05.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5b/81/7f5b819b-9153-5bf1-54eb-b51407a49bcb/06.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/84/a7/6684a74d-f415-3702-8cfa-942f834f0ec0/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/ec/94/5eec94b1-6321-a143-2b68-54db7b776a6a/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/91/57/379157bf-07d2-4ef9-5a03-92a3a130388d/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/69/9b/f1699b41-cfed-e9b3-8464-6938c9948935/04.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/95/6f/a4956f0a-8622-55e6-c7f8-e6d2ef7666f4/05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d2/f2/d7d2f2e2-05b8-99f4-7d54-4d5836e1c64c/06.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/96/5a/15965aad-8cbe-4bdf-0bca-ca5c4cf95949/01-home.png/416x496bb.png",
@@ -292,6 +292,6 @@
       "seenAt": "2026-07-21T17:05:44Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:15:46.980Z",
+  "updatedAt": "2026-10-10T12:34:15.740Z",
   "isOwnApp": false
 }

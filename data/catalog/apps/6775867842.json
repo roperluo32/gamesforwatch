@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Lattern: Memory Grid Puzzle",
       "description": "Lattern is a 60-second daily memory ritual. Calm, precise, and deliberately not brain training.\n\nEach day, a grid lights its cells one by one. After it rests, you light the same path back from memory. The sequence builds as you go: three for the day, a little longer each round. Get it, and your Lattice fills in, a quiet pattern of light that grows day by day.\n\n• One new Lattern every day, the same for everyone\n• A gentle build-up, a few tries, never a harsh fail\n• The Lattice: your streak, as a calendar of light\n• Apple Watch and home-screen widgets\n• No accounts, no noise, no pressure\n\nLattern+ unlocks practice grids, 1,000 training levels, your full history, and removes ads.\n\nQuiet work. Same time tomorrow.\n\nPrivacy policy: https://lattern.app/privacy\nTerms of use: https://lattern.app/terms",
-      "releaseNotes": "- A refreshed Lattern+ screen.\n- Reach Settings any time, even during a puzzle.\n- A brief J&B Creations intro when the app opens.\n- Reliability and polish improvements.",
+      "releaseNotes": "- A clearer Lattern+ screen, so each option is easy to tell apart.\n- Reliability and polish improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/lattern-memory-grid-puzzle/id6775867842?uo=4",
       "formattedPrice": "Free",
       "sellerName": "J AND B CREATIONS LLC",
@@ -323,8 +323,13 @@
       "version": "1.11",
       "releaseNotes": "- A refreshed Lattern+ screen.\n- Reach Settings any time, even during a puzzle.\n- A brief J&B Creations intro when the app opens.\n- Reliability and polish improvements.",
       "seenAt": "2026-10-04T16:56:23Z"
+    },
+    {
+      "version": "1.12",
+      "releaseNotes": "- A clearer Lattern+ screen, so each option is easy to tell apart.\n- Reliability and polish improvements.",
+      "seenAt": "2026-10-10T01:31:19Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:37:12.671Z",
+  "updatedAt": "2026-10-10T12:53:40.533Z",
   "isOwnApp": false
 }

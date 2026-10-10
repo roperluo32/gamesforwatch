@@ -235,15 +235,15 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/7b/4f/647b4f8b-8583-f94b-8d47-9cd7358bd461/3.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/e3/0e/32e30e4a-5cb5-22f5-66fc-a20b58bb272b/4.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/f7/00/41f7005c-18d2-36fe-3741-ce94b7b60767/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-05_at_18.09.40.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/7b/4f/647b4f8b-8583-f94b-8d47-9cd7358bd461/3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/e3/0e/32e30e4a-5cb5-22f5-66fc-a20b58bb272b/4.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/f7/00/41f7005c-18d2-36fe-3741-ce94b7b60767/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-05_at_18.09.40.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/15/49/9e154974-a464-cfe3-8b6c-fcee2d80a170/1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/32/8b/cd328b6d-50bc-2b3a-9d7d-49784379563e/5.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ec/44/4aec4488-ff91-b8f4-0970-06325ac0ecd8/Simulator_Screenshot_-_iPhone_17_-_2026-07-04_at_22.26.40.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ec/44/4aec4488-ff91-b8f4-0970-06325ac0ecd8/Simulator_Screenshot_-_iPhone_17_-_2026-07-04_at_22.26.40.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/7b/4f/647b4f8b-8583-f94b-8d47-9cd7358bd461/3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/e3/0e/32e30e4a-5cb5-22f5-66fc-a20b58bb272b/4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/f7/00/41f7005c-18d2-36fe-3741-ce94b7b60767/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-05_at_18.09.40.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/df/3c/7edf3cd7-17ef-af9b-d37e-d69c7517d63f/Simulator_Screenshot_-_Apple_Watch_SE__U002844mm_U0029__U00282nd_generation_U0029_-_2025-10-03_at_19.15.52.png/368x448bb.png",
@@ -324,6 +324,6 @@
       "seenAt": "2026-07-07T14:52:26Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:05:25.698Z",
+  "updatedAt": "2026-10-10T12:26:45.438Z",
   "isOwnApp": false
 }

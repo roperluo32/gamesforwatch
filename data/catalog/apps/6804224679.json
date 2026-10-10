@@ -230,20 +230,20 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7b/8e/607b8e40-8340-61e6-f819-7970e270a4e2/01.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/5e/af/c75eaffd-31f2-52fa-278d-15c4019ec29a/02.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/88/ee/1a88ee91-b7f4-ede1-c6e4-112959174837/04.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/56/a6/1556a671-adf0-0fcc-b232-82fc36fd4fdd/03.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/37/2d/c0372d74-f82b-03a7-7ebb-dfa4597b3264/05.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/45/ab/ad45ab07-6b25-43e3-06d9-f94a5e06dc07/07.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7b/8e/607b8e40-8340-61e6-f819-7970e270a4e2/01.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/5e/af/c75eaffd-31f2-52fa-278d-15c4019ec29a/02.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/88/ee/1a88ee91-b7f4-ede1-c6e4-112959174837/04.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/56/a6/1556a671-adf0-0fcc-b232-82fc36fd4fdd/03.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/37/2d/c0372d74-f82b-03a7-7ebb-dfa4597b3264/05.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/45/ab/ad45ab07-6b25-43e3-06d9-f94a5e06dc07/07.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7b/8e/607b8e40-8340-61e6-f819-7970e270a4e2/01.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/5e/af/c75eaffd-31f2-52fa-278d-15c4019ec29a/02.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/88/ee/1a88ee91-b7f4-ede1-c6e4-112959174837/04.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/56/a6/1556a671-adf0-0fcc-b232-82fc36fd4fdd/03.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/37/2d/c0372d74-f82b-03a7-7ebb-dfa4597b3264/05.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/45/ab/ad45ab07-6b25-43e3-06d9-f94a5e06dc07/07.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/83/d4/7e83d4be-c222-5f24-91ef-c4da0673f30a/06.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/78/78/9c7878d1-b7a7-a528-16d0-9091d2625214/01-home.png/416x496bb.png",
@@ -263,6 +263,6 @@
       "seenAt": "2026-08-28T22:51:58Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:16:43.485Z",
+  "updatedAt": "2026-10-10T12:47:58.870Z",
   "isOwnApp": false
 }

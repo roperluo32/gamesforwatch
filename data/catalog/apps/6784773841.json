@@ -81,7 +81,7 @@
   "releaseDate": "2026-06-30T07:00:00Z",
   "artistId": 1812138700,
   "artistName": "秀平 王",
-  "artistViewUrl": "https://apps.apple.com/de/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -219,15 +219,6 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/c8/9d/2fc89dea-6482-1a0c-4cd1-f4895a2a6eff/1.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/3c/7c/8e3c7cf6-1849-2717-e1f1-9b2ecc6ee15b/2.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/24/9f/48249fef-3d06-b4e6-f9bb-fb2177568946/3.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/1a/d2/fa1ad236-23f8-1f72-0a2e-c1d9c807dd6b/4.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f3/18/6cf3189b-3d85-edd1-c2a5-1cc7f0d90b19/5.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/9d/09429dc3-1dba-1167-14ac-6827467081d3/6.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/e7/f6/b7e7f67b-df69-aaec-3430-cfc9825c6778/7.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/6a/0f/7f6a0f22-abd4-f972-29e7-c20c7e1a1235/8.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/95/a3/2195a37c-42b2-905c-ac16-2fe24c2b9715/9.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/c8/9d/2fc89dea-6482-1a0c-4cd1-f4895a2a6eff/1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/3c/7c/8e3c7cf6-1849-2717-e1f1-9b2ecc6ee15b/2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/24/9f/48249fef-3d06-b4e6-f9bb-fb2177568946/3.png/320x480bb.jpg",
@@ -236,7 +227,16 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/9d/09429dc3-1dba-1167-14ac-6827467081d3/6.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/e7/f6/b7e7f67b-df69-aaec-3430-cfc9825c6778/7.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/6a/0f/7f6a0f22-abd4-f972-29e7-c20c7e1a1235/8.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/95/a3/2195a37c-42b2-905c-ac16-2fe24c2b9715/9.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/95/a3/2195a37c-42b2-905c-ac16-2fe24c2b9715/9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/c8/9d/2fc89dea-6482-1a0c-4cd1-f4895a2a6eff/1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/3c/7c/8e3c7cf6-1849-2717-e1f1-9b2ecc6ee15b/2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/24/9f/48249fef-3d06-b4e6-f9bb-fb2177568946/3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/1a/d2/fa1ad236-23f8-1f72-0a2e-c1d9c807dd6b/4.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f3/18/6cf3189b-3d85-edd1-c2a5-1cc7f0d90b19/5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/42/9d/09429dc3-1dba-1167-14ac-6827467081d3/6.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/e7/f6/b7e7f67b-df69-aaec-3430-cfc9825c6778/7.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/6a/0f/7f6a0f22-abd4-f972-29e7-c20c7e1a1235/8.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/95/a3/2195a37c-42b2-905c-ac16-2fe24c2b9715/9.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/67/0c/4a670cfa-813f-688a-6e45-5eee8da504a2/Simulator_Screenshot_-_Apple_Watch_Series_11__U002846mm_U0029_-_2026-06-27_at_14.40.08.png/368x448bb.png",
@@ -254,6 +254,6 @@
       "seenAt": "2026-06-30T11:53:43Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:16:53.386Z",
+  "updatedAt": "2026-10-10T12:48:02.456Z",
   "isOwnApp": false
 }
