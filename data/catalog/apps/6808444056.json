@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
+      "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "展示水果、小动物、工具、钱币、花卉与美食六大主题。\n更新 Apple Watch 游戏宣传画面，呈现丰富多彩的关卡图案。\n新增中英文宣传素材，让游戏特色一目了然。",
+      "releaseNotes": "优化 iPhone 不同屏幕尺寸及横竖屏布局，棋盘、暂存区与多排颜色箱子显示更完整。\n修复旋转屏幕时搬运路线错位的问题，切换方向后继续当前关卡。\n细化 Apple Watch 豆子颗粒，每颗豆子面积缩小至原来的四分之一，图案更加细腻。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Explore six featured themes: Fruits, Animals, Tools, Coins, Flowers, and Food.\nEnjoy refreshed Apple Watch promotional visuals showcasing colorful level designs.\nUpdated Chinese and English promotional content makes the game’s highlights easier to discover.",
+      "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
       "trackViewUrl": "https://apps.apple.com/de/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/ab/83/81ab83cf-a912-6aa1-e072-356ba4d1a0b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3c/06/de3c0670-0e19-b07a-46ee-56004cc44206/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "19090432",
+  "fileSizeBytes": "19127296",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.3",
-  "currentVersionReleaseDate": "2026-09-26T16:58:50Z",
+  "version": "2.4",
+  "currentVersionReleaseDate": "2026-10-09T15:21:15Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -256,13 +256,6 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/cb/e0/c9cbe06b-a878-e039-3561-d944084b3a9d/04-coins.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/1c/f5/c31cf589-a468-2002-4af5-1ebdd503e5c4/05-flowers.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/05/71/2a05711d-974c-78c5-f595-64303eb77b38/06-food.png/1206x2622bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/3e/ed/183eedfe-9e73-8453-faa7-886c35718c92/04-coins.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a5/9d/68a59da6-2ece-a662-f0f7-1d4793274473/06-food.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/79/66/137966f5-3f5a-b788-44db-72d20312c184/03-tools.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8f/f0/728ff0bb-4128-7c73-39f8-292d807731c2/05-flowers.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/88/9a/97889a99-7933-de60-c606-84b2bbea24ab/02-animals.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/ea/4c/91ea4cff-d87f-f325-d93a-3f5c25530f1d/01-watermelon.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/2f/c8/512fc886-bd37-bc7e-9ec2-c5d0003ced5c/ipad13-en-2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/aa/e2/c1aae216-ac62-7052-acb1-3ea67a366338/01-watermelon.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/2d/4b/222d4b60-030f-b8a4-143a-af5043ba3b36/02-animals.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/0b/31/2d0b31b5-a3ba-4de7-a7aa-22186a37f5fc/03-tools.png/320x480bb.jpg",
@@ -270,6 +263,20 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/1c/f5/c31cf589-a468-2002-4af5-1ebdd503e5c4/05-flowers.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/05/71/2a05711d-974c-78c5-f595-64303eb77b38/06-food.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/aa/b0/3faab0e2-86b3-dde0-152e-55e0eb3e31be/ipad13-en-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/21/3b/df213b25-5af7-093f-46e8-50a93e46b1f3/01-watermelon.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/16/c6/6416c6e8-a083-0eb0-ad7d-4729005a3991/02-animals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/da/75/83da756c-8fa3-d27a-20d4-ece0c4fc68c0/03-tools.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/f4/7e/76f47eda-7de1-d940-96a2-d837199b535f/04-coins.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/f6/36/edf63671-d07f-99f3-dfed-74b8351e15df/05-flowers.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/92/ba/d992ba4c-97cd-b256-ff67-016213e71bea/06-food.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/cf/c7/d5cfc7f8-f12f-2cec-0565-7157aa81e279/ipad13-zh-Hans-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/3e/ed/183eedfe-9e73-8453-faa7-886c35718c92/04-coins.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a5/9d/68a59da6-2ece-a662-f0f7-1d4793274473/06-food.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/79/66/137966f5-3f5a-b788-44db-72d20312c184/03-tools.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8f/f0/728ff0bb-4128-7c73-39f8-292d807731c2/05-flowers.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/88/9a/97889a99-7933-de60-c606-84b2bbea24ab/02-animals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/ea/4c/91ea4cff-d87f-f325-d93a-3f5c25530f1d/01-watermelon.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/2f/c8/512fc886-bd37-bc7e-9ec2-c5d0003ced5c/ipad13-en-2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/b1/ce/9cb1ce1b-61cf-c44a-a985-d5d9a7d41d6c/02-animals.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/86/13/e186133c-6e9b-dec8-a77c-13a73d80c766/06-food.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/45/e1/5b45e15d-00b0-7903-94c2-dbcc2aba204e/03-tools.png/320x480bb.jpg",
@@ -433,6 +440,6 @@
       "seenAt": "2026-10-09T15:21:15Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:34:03.891Z",
+  "updatedAt": "2026-10-11T12:48:27.402Z",
   "isOwnApp": false
 }

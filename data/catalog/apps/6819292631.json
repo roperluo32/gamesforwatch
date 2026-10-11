@@ -227,6 +227,9 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/2e/ec/f32eecbf-8f0a-ba68-50e3-9254afceb0fd/duo_3.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/00/53/0c005374-575b-3563-9582-9f7db1815342/duo_1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/49/94/3349942f-3d46-d805-710b-5cbcda3c576a/duo_2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/23/45/e22345cf-7875-4082-89e6-458103919aff/ipad_3.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/32/8e/c6328e7f-7859-5ddc-063f-d582b8d5e1ed/ipad_1.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/96/a8/0996a8f4-3093-17fc-1b93-aeecc4ac989c/ipad_2.png/2048x2732bb.png",
@@ -252,6 +255,6 @@
       "seenAt": "2026-10-08T23:05:12Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:39:36.865Z",
+  "updatedAt": "2026-10-11T12:53:41.419Z",
   "isOwnApp": false
 }

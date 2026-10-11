@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Baby Adopter",
       "description": "Welcome to Baby Adopter – a game for those who enjoy babysitting and caring for children.\n\nAdopt a virtual baby and take care of them throughout the day. Feed them, dress them, and make sure they stay happy and healthy. As you care for your baby, you earn points that you can use in different areas of the game.\n\nEarn Points by Taking Care of Your Baby\n\nYou get points for actions like feeding your baby, changing their clothes, hunting for eggs, and playing mini-games. These points can be used to buy clothes, shoes, toys, and other items for game locations like the Baby Room, Playroom, Bathroom, Play Center, Music Room, Playgrounds, Zoo, and more. Filling up each location with items is one of the fun goals of the game.\n\nEgg Hunt and Mini-Creatures\n\nWhile playing, you can search for hidden eggs in different locations. Each egg takes three cracks to hatch, and you’ll need to wait a little between each crack. Inside each egg is a small mini-creature to collect.\n\nMini-Games\n\nEgg Match – A casual match-3 game with eggs in a grid.\nFree Cell – A classic solitaire card game with cards numbered from 0 to 12.\nNono Blocks – A logic puzzle where you fill in all the squares in a grid based on numbers shown beside each row and above each column.\nVoiceOver Accessibility\n\nThe main game and mini-games fully support VoiceOver.\n\nIn Egg Match, tap a cell in the grid and VoiceOver will read the color and position of the egg. To move an egg, single tap to select it, then double tap. Then tap the destination and double tap again to move the egg.\n\nIn Free Cell, tap a card to select it and double tap to begin moving. Then tap where you want to place it—either another stack, one of the four free cells, or one of the completed stacks—and double tap to confirm the move.\n\nIn Nono Blocks, tap on any square and VoiceOver will read its status (filled, crossed, or empty) and its position. Tap on the hint numbers next to a row or above a column to hear all the hints for that row or column.\n\nKarma points build up over time, reflecting your progress and experience in taking care of your baby. Unlike regular points, which you spend on items, Karma points show how much time and effort you’ve put into the game.\n\nGame Center\n\nReach Game Center achievements by fully completing locations. Compete on six leaderboards: one for the main game and others for specific mini-games.\n\nIn-App Purchases\n\nTap the yellow coin icon in game locations to buy points. In Nono Blocks, you can also purchase a \"show solution\" option if you're stuck or curious.\n\nNote: The game works on iPhone, iPad, Mac, and Apple Watch.\nBaby Adopter is a registered trademark of x2line.",
-      "releaseNotes": "Welcome to the latest update of Baby Adopter! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
+      "releaseNotes": "Welcome to the latest update of Baby Adopter! We made necessary updates to support OS 27. We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
       "trackViewUrl": "https://apps.apple.com/us/app/baby-adopter/id425135290?uo=4",
       "formattedPrice": "Free",
       "sellerName": "x2line.com LLC",
@@ -35,7 +35,7 @@
     "ja": {
       "trackName": "Baby Adopter",
       "description": "Welcome to Baby Adopter – a game for those who enjoy babysitting and caring for children.\n\nAdopt a virtual baby and take care of them throughout the day. Feed them, dress them, and make sure they stay happy and healthy. As you care for your baby, you earn points that you can use in different areas of the game.\n\nEarn Points by Taking Care of Your Baby\n\nYou get points for actions like feeding your baby, changing their clothes, hunting for eggs, and playing mini-games. These points can be used to buy clothes, shoes, toys, and other items for game locations like the Baby Room, Playroom, Bathroom, Play Center, Music Room, Playgrounds, Zoo, and more. Filling up each location with items is one of the fun goals of the game.\n\nEgg Hunt and Mini-Creatures\n\nWhile playing, you can search for hidden eggs in different locations. Each egg takes three cracks to hatch, and you’ll need to wait a little between each crack. Inside each egg is a small mini-creature to collect.\n\nMini-Games\n\nEgg Match – A casual match-3 game with eggs in a grid.\nFree Cell – A classic solitaire card game with cards numbered from 0 to 12.\nNono Blocks – A logic puzzle where you fill in all the squares in a grid based on numbers shown beside each row and above each column.\nVoiceOver Accessibility\n\nThe main game and mini-games fully support VoiceOver.\n\nIn Egg Match, tap a cell in the grid and VoiceOver will read the color and position of the egg. To move an egg, single tap to select it, then double tap. Then tap the destination and double tap again to move the egg.\n\nIn Free Cell, tap a card to select it and double tap to begin moving. Then tap where you want to place it—either another stack, one of the four free cells, or one of the completed stacks—and double tap to confirm the move.\n\nIn Nono Blocks, tap on any square and VoiceOver will read its status (filled, crossed, or empty) and its position. Tap on the hint numbers next to a row or above a column to hear all the hints for that row or column.\n\nKarma points build up over time, reflecting your progress and experience in taking care of your baby. Unlike regular points, which you spend on items, Karma points show how much time and effort you’ve put into the game.\n\nGame Center\n\nReach Game Center achievements by fully completing locations. Compete on six leaderboards: one for the main game and others for specific mini-games.\n\nIn-App Purchases\n\nTap the yellow coin icon in game locations to buy points. In Nono Blocks, you can also purchase a \"show solution\" option if you're stuck or curious.\n\nNote: The game works on iPhone, iPad, Mac, and Apple Watch.\nBaby Adopter is a registered trademark of x2line.",
-      "releaseNotes": "Welcome to the latest update of Baby Adopter! We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
+      "releaseNotes": "Welcome to the latest update of Baby Adopter! We made necessary updates to support OS 27. We've addressed issues, implemented fixes, and made additional improvements for an enhanced experience. Stay connected by liking us on Facebook. https://www.facebook.com/baby.adopter\n\nWe regularly release updates featuring improved graphics, animations, and overall gameplay comfort. Additionally, we frequently introduce new items to collections, features, and game locations. Thank you for choosing Baby Adopter!",
       "trackViewUrl": "https://apps.apple.com/jp/app/baby-adopter/id425135290?uo=4",
       "formattedPrice": "無料",
       "sellerName": "x2line.com LLC",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/76/75/5e7675f3-26b8-f396-bfac-10affa7733fc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/32/c2/d932c2d2-cfb2-9af3-cb73-b68258d9c720/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.18519,
   "userRatingCount": 54,
   "price": 0,
-  "fileSizeBytes": "218095616",
+  "fileSizeBytes": "169096192",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "15.0",
-  "version": "6.28.1",
-  "currentVersionReleaseDate": "2026-08-27T18:41:25Z",
+  "minimumOsVersion": "17.0",
+  "version": "6.29.1",
+  "currentVersionReleaseDate": "2026-10-10T02:45:12Z",
   "releaseDate": "2011-03-17T03:00:42Z",
   "artistId": 425135293,
   "artistName": "x2line.com LLC",
@@ -422,6 +422,6 @@
       "seenAt": "2026-10-10T02:45:12Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:42:28.097Z",
+  "updatedAt": "2026-10-11T12:58:00.520Z",
   "isOwnApp": false
 }

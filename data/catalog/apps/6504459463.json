@@ -9,7 +9,7 @@
       "description": "Features:\n- Play offline\n- Score as many goals as you can\n- Hone your skills in target practice mode\n- Play on watch, phone and tablet\n- More games inside you can unlock\n\nShoot as many as goals in this football penalty shoot game as possible!\nChoose the speed and the direction of your shot and hope for the best.",
       "releaseNotes": "New content added",
       "trackViewUrl": "https://apps.apple.com/us/app/football-goalkeeper-fantastico/id6504459463?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "特徴：\n- オフラインでプレイ\n- できるだけ多くのゴールを決めよう\n- 的を狙う練習モードで腕を磨こう\n- ウォッチ、スマートフォン、タブレットでプレイ\n- アプリ内でさらに多くのゲームをアンロック\n\nこのサッカーのPKゲームで、できるだけ多くのゴールを決めよう！\nシュートの速さと方向を選んだら、あとはうまくいくことを祈ろう。",
       "releaseNotes": "新しいコンテンツを追加しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E3%82%B4%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC-fantastico/id6504459463?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Features:\n- Spiele offline\n- Schieße so viele Tore wie möglich\n- Verbessere deine Fähigkeiten beim Zieltraining\n- Spiele auf Uhr, Smartphone und Tablet\n- Schalte weitere Spiele in der App frei\n\nSchieße in diesem Fußball-Elfmeterspiel so viele Tore wie möglich!\nWähle die Geschwindigkeit und Richtung deines Schusses und hoffe auf das Beste.",
       "releaseNotes": "Neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/fu%C3%9Fball-torwart-fantastico/id6504459463?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/88/49/6d8849b5-7bab-4268-6bb7-b14c983366af/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "63350784",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -452,6 +452,6 @@
       "seenAt": "2026-10-08T07:38:33Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:50:50.285Z",
+  "updatedAt": "2026-10-11T13:05:52.897Z",
   "isOwnApp": false
 }

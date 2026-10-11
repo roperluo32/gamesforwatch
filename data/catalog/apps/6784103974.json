@@ -51,6 +51,22 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "100 minimalist watch games",
+      "description": "One hundred of the classic games you know and love on your watch or phone.",
+      "releaseNotes": "A phone version of the games",
+      "trackViewUrl": "https://apps.apple.com/de/app/100-minimalist-watch-games/id6784103974?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Tyler Noah",
+      "genres": [
+        "Spiele",
+        "Gelegenheits­spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/25/d3/aa25d3e9-323c-4e99-9e12-c448d3c9644f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
@@ -61,11 +77,11 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.0",
   "version": "2",
-  "currentVersionReleaseDate": "2026-08-19T16:40:02Z",
-  "releaseDate": "2026-07-07T07:00:00Z",
+  "currentVersionReleaseDate": "2026-10-10T07:00:00Z",
+  "releaseDate": "2026-10-10T07:00:00Z",
   "artistId": 6782523683,
   "artistName": "Tyler Noah",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/tyler-noah/id6782523683?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/tyler-noah/id6782523683?uo=4",
   "sellerUrl": "https://www.tiktok.com/@typhoon.fitness",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -250,6 +266,6 @@
       "seenAt": "2026-08-19T16:40:02Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:20:26.283Z",
+  "updatedAt": "2026-10-11T12:35:34.090Z",
   "isOwnApp": false
 }

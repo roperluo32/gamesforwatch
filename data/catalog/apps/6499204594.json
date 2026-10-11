@@ -9,7 +9,7 @@
       "description": "Play the two classic games Tic Tac Toe (XO) and Four in a Row in a single app on your phone, tablet or watch.\n\nFeatures\n- One and two player mode on the same device\n- Choose between different color modes for Tic Tac Toe\n- No internet connection required for playing (play offline)\n- More games you can unlock",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/us/app/tic-tac-toe-four-in-a-row/id6499204594?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -34,7 +34,7 @@
       "description": "Play the two classic games Tic Tac Toe (XO) and Four in a Row in a single app on your phone, tablet or watch.\n\nFeatures\n- One and two player mode on the same device\n- Choose between different color modes for Tic Tac Toe\n- No internet connection required for playing (play offline)\n- More games you can unlock",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/jp/app/tic-tac-toe-four-in-a-row/id6499204594?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -59,7 +59,7 @@
       "description": "Spiele die beiden klassischen Spiele Tic Tac Toe und Four in a Row in einer einzigen App auf deinem Telefon, deinem Tablet oder deiner Uhr.\n\nFunktionen\n- Ein- und Zwei-Spieler-Modus auf demselben Gerät\n- Wähle zwischen verschiedenen Farbmodi für Tic Tac Toe\n- Zum Spielen ist keine Internetverbindung erforderlich (offline spielen)",
       "releaseNotes": "Neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/tic-tac-toe-four-in-a-row/id6499204594?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -83,7 +83,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/40/d1/5240d1d6-5935-7891-e5c4-3f2b2771e052/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "40536064",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -323,6 +323,6 @@
       "seenAt": "2025-11-02T09:49:19Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:51:24.651Z",
+  "updatedAt": "2026-10-11T13:06:02.452Z",
   "isOwnApp": false
 }

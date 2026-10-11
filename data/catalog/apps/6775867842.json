@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "Lattern: 記憶パズル",
       "description": "Lattern は60秒の毎日の記憶の習慣です。静かで、ていねいで、あえて脳トレではありません。\n\n毎日、グリッドがマスをひとつずつ灯します。消えたら、同じ道筋を記憶を頼りに灯し直します。順番は進むほど伸びていきます。最初は3つ、ラウンドごとに少しずつ長く。成功すると、あなたの Lattice が満ちていきます。日ごとに育つ、静かな光の模様です。\n\n• 毎日ひとつの新しい Lattern、みんな同じ\n• ゆるやかに伸びていく、数回の挑戦、きびしい失敗はなし\n• The Lattice：あなたの連続記録を、光のカレンダーに\n• Apple Watch とホーム画面ウィジェット\n• アカウントなし、雑音なし、プレッシャーなし\n\nLattern+ では練習グリッド、1000のトレーニングレベル、すべての履歴が使え、広告も消えます。\n\n静かな手応え。また明日、同じ時間に。\n\nプライバシーポリシー：https://lattern.app/privacy\n利用規約：https://lattern.app/terms",
-      "releaseNotes": "- A refreshed Lattern+ screen.\n- Reach Settings any time, even during a puzzle.\n- A brief J&B Creations intro when the app opens.\n- Reliability and polish improvements.",
+      "releaseNotes": "- A clearer Lattern+ screen, so each option is easy to tell apart.\n- Reliability and polish improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/lattern-%E8%A8%98%E6%86%B6%E3%83%91%E3%82%BA%E3%83%AB/id6775867842?uo=4",
       "formattedPrice": "無料",
       "sellerName": "J AND B CREATIONS LLC",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "Lattern: Gedächtnisspiel",
       "description": "Lattern ist ein tägliches 60-Sekunden-Gedächtnisritual. Ruhig, präzise und bewusst kein Gehirntraining.\n\nJeden Tag leuchtet ein Raster seine Zellen nacheinander auf. Wenn es ruht, leuchtest du denselben Weg aus dem Gedächtnis nach. Die Reihenfolge wächst mit jedem Schritt: drei für den Tag, jede Runde ein wenig länger. Schaffst du es, füllt sich dein Lattice, ein ruhiges Muster aus Licht, das Tag für Tag wächst.\n\n• Jeden Tag ein neues Lattern, für alle dasselbe\n• Ein sanfter Aufbau, ein paar Versuche, nie ein hartes Scheitern\n• The Lattice: deine Serie als Kalender aus Licht\n• Apple Watch und Home-Bildschirm-Widgets\n• Keine Konten, kein Lärm, kein Druck\n\nLattern+ schaltet Übungsraster, 1000 Trainingslevel und deinen vollständigen Verlauf frei und entfernt die Werbung.\n\nStille Arbeit. Morgen zur selben Zeit.\n\nDatenschutzrichtlinie: https://lattern.app/privacy\nNutzungsbedingungen: https://lattern.app/terms",
-      "releaseNotes": "- A refreshed Lattern+ screen.\n- Reach Settings any time, even during a puzzle.\n- A brief J&B Creations intro when the app opens.\n- Reliability and polish improvements.",
+      "releaseNotes": "- A clearer Lattern+ screen, so each option is easy to tell apart.\n- Reliability and polish improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/lattern-ged%C3%A4chtnisspiel/id6775867842?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "J AND B CREATIONS LLC",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/7f/57/547f57a2-63c2-9d12-472b-70ecf938234d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/1a/49/4a1a4998-a6fd-af5a-2f79-ac0cdd670311/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "23187456",
+  "fileSizeBytes": "25010176",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.11",
-  "currentVersionReleaseDate": "2026-10-04T16:56:23Z",
+  "version": "1.12",
+  "currentVersionReleaseDate": "2026-10-10T01:31:19Z",
   "releaseDate": "2026-06-12T07:00:00Z",
   "artistId": 1895160810,
   "artistName": "J&B Creations LLC",
@@ -330,6 +330,6 @@
       "seenAt": "2026-10-10T01:31:19Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:53:40.533Z",
+  "updatedAt": "2026-10-11T13:10:19.313Z",
   "isOwnApp": false
 }

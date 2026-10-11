@@ -9,7 +9,7 @@
       "description": "A fun and easy idle clicker game for watch, tablet and phone. \n\nNo internet connection required for playing (play offline).\n\nClick on the boxes to get more dinos. Merge the dinos of the same size and color to get larger, more colorful dinos!\n\nFeatures:\n- Change background colors\n- Switch between dino and cactus characters\n- Save highscore\n- More games can be unlocked",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/us/app/dino-merge-idle-clicker-game/id6502412177?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -34,7 +34,7 @@
       "description": "時計、タブレット、電話用の楽しくて簡単なアイドル クリッカー ゲーム。\n\nプレイするのにインターネット接続は必要ありません (オフラインでプレイ)。\n\nボックスをクリックすると、より多くの恐竜が手に入ります。同じサイズと色の恐竜を結合すると、より大きくてカラフルな恐竜が手に入ります。\n\n機能:\n- 背景色を変更\n- 恐竜とサボテンのキャラクターを切り替える\n- ハイスコアを保存\n- より多くのゲームのロックを解除できます",
       "releaseNotes": "コンテンツがさらに追加されました",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%83%8E%E3%83%9E%E3%83%BC%E3%82%B8-%E6%94%BE%E7%BD%AE%E5%9E%8B%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0-dino-merge/id6502412177?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -59,7 +59,7 @@
       "description": "Ein unterhaltsames und einfaches Idle-Clicker-Spiel für Uhr, Tablet und Telefon. \n\nFür das Spiel ist keine Internetverbindung erforderlich (offline spielen).\n\nKlicke auf die Boxen, um mehr Dinos zu erhalten. Füge Dinos gleicher Größe und Farbe zusammen, um größere, farbenfrohere Dinos zu erhalten!\n\nMerkmale:\n- Hintergrundfarben ändern\n- Wechseln Sie zwischen Dino- und Kaktus-Charakteren\n- Highscore speichern\n- Weitere Spiele können freigeschaltet werden",
       "releaseNotes": "Neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/dino-merge-idle-clicker-game/id6502412177?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -83,7 +83,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/ec/83/dfec8387-465b-425f-be24-ef3820267f78/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "41740288",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -325,6 +325,6 @@
       "seenAt": "2025-10-28T18:49:47Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:51:05.885Z",
+  "updatedAt": "2026-10-11T13:06:19.460Z",
   "isOwnApp": false
 }

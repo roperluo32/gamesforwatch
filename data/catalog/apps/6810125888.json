@@ -7,12 +7,13 @@
     "en": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
+      "releaseNotes": "Improved layouts for iPhone Duo and other screen sizes.\nRaces now pause automatically when the screen size changes, preserving your current progress.\nFixed track shifts and unexpected collisions when resizing.\nImproved the home screen layout in landscape and the display of in-game dialogs.",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
-        "Entertainment"
+        "Entertainment",
+        "Sports"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -30,12 +31,13 @@
     "zh": {
       "trackName": "迷你赛车-手表竞速游戏",
       "description": "极速9527是一款日式霓虹街机风格的赛车游戏。驾驶赛车穿过城市道路，灵活变道，躲避车流与施工路障，在倒计时结束前冲过终点！\n\n游戏特色\n\n• 霓虹街机画风\n深色街景、像素赛车与醒目的霓虹色彩，营造复古街机氛围。\n\n• 30关竞速挑战\n逐步解锁关卡，应对越来越密集的车流与障碍，挑战自己的反应和操控。\n\n• 指尖与腕上驾驶\n支持 iPhone、iPad 和 Apple Watch。手机和平板左右拖动转向，手表支持滑动屏幕或旋转数码表冠操控。\n\n• 挑战个人纪录\n本机排行榜保存已结束比赛的前10名成绩，记录分数、关卡与日期。\n选择关卡，开始赛车，向终点出发！\n\n说明：关卡进度和排行榜成绩分别保存在各自设备上，当前不提供全球排名或跨设备同步。",
-      "releaseNotes": "调整赛道车流，车辆数量减少至原来的三分之一，驾驶节奏更加从容。\n更新行驶与撞击音效，增强赛车临场感。\n重制严重撞击效果，加入车身震动、碎屑及车头受损表现。\n发车倒计时调整为 3 秒，冲过终点时新增撒花庆祝效果。\n简化操控，取消长按加速，保留拖动转向及 Apple Watch 数码表冠控制。",
+      "releaseNotes": "优化 iPhone Duo 及不同尺寸屏幕的布局适配。\n屏幕尺寸变化时自动暂停比赛，保留当前比赛进度。\n修复尺寸切换可能导致的赛道偏移和异常碰撞。\n改善横屏首页布局与比赛弹窗显示。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%BF%B7%E4%BD%A0%E8%B5%9B%E8%BD%A6-%E6%89%8B%E8%A1%A8%E7%AB%9E%E9%80%9F%E6%B8%B8%E6%88%8F/id6810125888?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
-        "娱乐"
+        "娱乐",
+        "体育"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -53,12 +55,13 @@
     "ja": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
+      "releaseNotes": "Improved layouts for iPhone Duo and other screen sizes.\nRaces now pause automatically when the screen size changes, preserving your current progress.\nFixed track shifts and unexpected collisions when resizing.\nImproved the home screen layout in landscape and the display of in-game dialogs.",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
-        "エンターテインメント"
+        "エンターテインメント",
+        "スポーツ"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -76,12 +79,13 @@
     "de": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "Reduced traffic to one-third of its previous level for a more relaxed racing experience.\nUpdated driving and collision sounds for a more immersive experience.\nRedesigned major collision effects with vehicle recoil, debris, and visible front-end damage.\nShortened the starting countdown to 3 seconds and added confetti celebrations at the finish line.\nSimplified controls by removing hold-to-accelerate, while keeping drag steering and Digital Crown controls on Apple Watch.",
+      "releaseNotes": "Improved layouts for iPhone Duo and other screen sizes.\nRaces now pause automatically when the screen size changes, preserving your current progress.\nFixed track shifts and unexpected collisions when resizing.\nImproved the home screen layout in landscape and the display of in-game dialogs.",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
       "genres": [
-        "Unterhaltung"
+        "Unterhaltung",
+        "Sport"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -97,15 +101,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/97/6d/75976d3a-ff38-6968-6186-1520e10fbd95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/c7/68/36c76825-b307-7e69-b5e2-7f8dac947440/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27280384",
+  "fileSizeBytes": "27296768",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.1",
-  "currentVersionReleaseDate": "2026-09-28T21:40:08Z",
+  "version": "2.2",
+  "currentVersionReleaseDate": "2026-10-09T16:33:44Z",
   "releaseDate": "2026-09-15T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -262,6 +266,22 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/52/62/1c5262c9-7ac9-c9b3-d853-631822288af3/04_neon_finish_1320x2868.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/22/34/fc223450-9ac5-af7c-b730-4e65b01611ff/05_neon_levels_1320x2868.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/5c/c3/c15cc3bf-de6b-0888-eaf9-00f7c316b3ef/08_neon_overtake_alt_1320x2868.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/48/3d/c6483d1a-e370-eedf-ff00-0f4a5cbe4e8b/06_neon_keyart_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/5c/8d/1b5c8d88-1eff-a82b-1976-fa755380a810/01_neon_cover_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/52/62/1c5262c9-7ac9-c9b3-d853-631822288af3/04_neon_finish_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/22/34/fc223450-9ac5-af7c-b730-4e65b01611ff/05_neon_levels_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/5c/c3/c15cc3bf-de6b-0888-eaf9-00f7c316b3ef/08_neon_overtake_alt_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/81/24/1b81245d-37d4-9158-edf7-e9947c8ea594/06_keyart_en_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/66/c5/df66c56d-6e0a-7f04-5edb-078c7723b753/05_levels_en_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/71/3b/ac713bda-41e5-f291-3503-76634245406e/04_finish_en_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/1a/0a/f51a0a94-446f-ec32-32e8-17a1833434d9/ea761f07-d0bd-40af-aa73-2f7f78bc59cd.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b9/c7/fcb9c763-d4ee-b6ef-9b8d-f96c25bbbfe6/01_neon_cover_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/2e/55/832e55f9-60da-82f8-8216-0f7cceb6d0bc/05_neon_levels_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/65/7f/fe657f13-466d-5af8-5da7-0670d40d2efc/04_neon_finish_1320x2868.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/c6/fb/e9c6fbe9-16bb-0d94-1b60-fcb07cdf6049/06_neon_keyart_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/4b/05/894b0519-96cc-9348-ac23-5f598e914096/04_neon_finish_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8d/e3/1b8de338-e398-b4a9-fe30-ae03cbf915ab/05_neon_levels_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/2e/64/322e6492-5383-711e-d664-0533cd1bb7d3/02_neon_overtake_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/94/7c/ff947cf9-242c-c688-8dc4-d29cbe0faf42/06_neon_keyart_1320x2868.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/a6/6d/f5a66d46-9632-dada-6d21-0802c07cb75e/01_neon_cover_1320x2868.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/bf/eb/f8bfeb74-893b-d977-c0e8-ad442405c43c/04_neon_finish_1320x2868.png/320x480bb.jpg",
@@ -294,6 +314,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/64/d5/a064d560-5ad5-d39a-d480-a5d89fafff68/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.30.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/87/88/91878838-d61d-fa1c-fb8d-56bab7b1687c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.34.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/76/ab4a76c1-c018-2618-4d25-acc1bee53ff9/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.44.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/02/5b/01025bfd-1406-b66f-f357-f0657e2ed817/03_watch_en_2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/cb/77/7acb771a-a4af-794d-593a-65f317c694ca/03_neon_watch_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/20/75/95207544-03d4-59d8-1dac-c3981bb9676a/03_watch_en_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ba/1f/1eba1f93-1557-02be-3cca-fd25105f538e/03_neon_watch_2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/a7/b2/bfa7b2b5-c5f1-3d1a-bc04-fac5fa3eda87/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-13_at_21.41.54.png/422x514bb.png",
@@ -339,6 +361,6 @@
       "seenAt": "2026-10-09T16:33:44Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:27:50.105Z",
+  "updatedAt": "2026-10-11T13:04:26.624Z",
   "isOwnApp": false
 }
