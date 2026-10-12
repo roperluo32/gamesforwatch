@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Retro Watch Games",
       "description": "Retro Watch Games is a collection of quick and fun retro-inspired mini games designed specifically for Apple Watch.\n\nFeatures:\n• Fast gameplay sessions\n• Simple one-touch controls\n• Multiple classic-inspired game modes\n• Unlock premium content with a one-time purchase\n• Designed for short gaming breaks anywhere\n\nPerfect for enjoying casual retro gaming directly from your wrist.",
-      "releaseNotes": "Small improvements",
+      "releaseNotes": "MInor game improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/retro-watch-games/id6775461371?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Michal Boryczko",
@@ -22,7 +22,7 @@
     "ja": {
       "trackName": "Retro Watch Games",
       "description": "Retro Watch Games is a collection of quick and fun retro-inspired mini games designed specifically for Apple Watch.\n\nFeatures:\n• Fast gameplay sessions\n• Simple one-touch controls\n• Multiple classic-inspired game modes\n• Unlock premium content with a one-time purchase\n• Designed for short gaming breaks anywhere\n\nPerfect for enjoying casual retro gaming directly from your wrist.",
-      "releaseNotes": "Small improvements",
+      "releaseNotes": "MInor game improvements",
       "trackViewUrl": "https://apps.apple.com/jp/app/retro-watch-games/id6775461371?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Michal Boryczko",
@@ -37,7 +37,7 @@
     "de": {
       "trackName": "Retro Watch Games",
       "description": "Retro Watch Games is a collection of quick and fun retro-inspired mini games designed specifically for Apple Watch.\n\nFeatures:\n• Fast gameplay sessions\n• Simple one-touch controls\n• Multiple classic-inspired game modes\n• Unlock premium content with a one-time purchase\n• Designed for short gaming breaks anywhere\n\nPerfect for enjoying casual retro gaming directly from your wrist.",
-      "releaseNotes": "Small improvements",
+      "releaseNotes": "MInor game improvements",
       "trackViewUrl": "https://apps.apple.com/de/app/retro-watch-games/id6775461371?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Michal Boryczko",
@@ -50,15 +50,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/fa/86/6ffa862d-6cd8-fe02-d41b-5237ee52e3f2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/20/9c/71209c0d-997b-d6c2-560f-4ba61f2fff8d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "7389184",
+  "fileSizeBytes": "7430144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.2",
-  "currentVersionReleaseDate": "2026-10-02T14:59:51Z",
+  "version": "1.3",
+  "currentVersionReleaseDate": "2026-10-12T10:34:28Z",
   "releaseDate": "2026-06-19T07:00:00Z",
   "artistId": 6775461373,
   "artistName": "Michal Boryczko",
@@ -227,8 +227,13 @@
       "version": "1.2",
       "releaseNotes": "Small improvements",
       "seenAt": "2026-10-02T14:59:51Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "MInor game improvements",
+      "seenAt": "2026-10-12T10:34:28Z"
     }
   ],
-  "updatedAt": "2026-10-11T12:36:50.288Z",
+  "updatedAt": "2026-10-12T15:07:46.720Z",
   "isOwnApp": false
 }

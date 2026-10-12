@@ -224,6 +224,12 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/10/e9/5410e9f2-c046-fb4f-fe56-e3c51df5e238/01-overview.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/64/43/ef6443cb-90b3-3438-aca6-3a5609442c0f/02-flipchess.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/c4/a6/37c4a6cc-47ef-40aa-4f28-fb1a241f4538/03-xiangqi.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/0b/22/d70b2251-577f-0cf8-e303-15493e83aa99/04-gomoku.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/1c/96/4e1c9677-d86e-3f8a-f954-44f181bd6422/05-reversi.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/ca/69/74ca69bc-62cf-0d54-e096-749565f2b414/06-wolves.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/14/dc/e814dc9f-37d7-2f75-379b-2c262d40b8da/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-09-18_at_21.58.31.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/53/09/a453093b-e6e4-b494-942c-43c2f64733cd/03-reversi.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/fa/18/abfa18e8-2b93-d7b1-1a22-356e5d5ede74/01-xiangqi.png/2064x2752bb.png",
@@ -438,6 +444,6 @@
       "seenAt": "2026-10-09T15:26:26Z"
     }
   ],
-  "updatedAt": "2026-10-11T13:04:30.421Z",
+  "updatedAt": "2026-10-12T15:10:25.110Z",
   "isOwnApp": false
 }

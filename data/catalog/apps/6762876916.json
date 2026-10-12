@@ -142,7 +142,7 @@
   "minimumOsVersion": "17.0",
   "version": "1.1.4",
   "currentVersionReleaseDate": "2026-05-28T16:50:49Z",
-  "releaseDate": "2026-05-22T07:00:00Z",
+  "releaseDate": "2026-05-28T07:00:00Z",
   "artistId": 1846196032,
   "artistName": "YIGIT KARABULUT",
   "artistViewUrl": "https://apps.apple.com/de/developer/yigit-karabulut/id1846196032?uo=4",
@@ -424,6 +424,6 @@
       "seenAt": "2026-05-28T16:50:49Z"
     }
   ],
-  "updatedAt": "2026-10-11T13:18:07.002Z",
+  "updatedAt": "2026-10-12T15:49:58.459Z",
   "isOwnApp": false
 }

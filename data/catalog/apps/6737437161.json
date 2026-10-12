@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Cookie Tapper!",
       "description": "Cookie Tapper - The iconic cookie-clicking experience, now on your wrist!\n\nThis super polished and fully optimized for Apple Watch app brings the iconic game to your wrist. Enjoy the following features:\n\n- Satisfying click animations\n- Tons of upgrades to buy\n- Variety of cookie skins\n- Global leaderboard\n- Support for 7 languages\n- Constant updates and bug fixes\n- Friendly community\n\nDownload now and start tapping cookies!",
-      "releaseNotes": "Bug fixes and app improvements. Thanks for playing!",
+      "releaseNotes": "Cookie Tapper is back! We've revamped the game completely & added lots of new content. Thanks for playing!",
       "trackViewUrl": "https://apps.apple.com/us/app/cookie-tapper/id6737437161?uo=4",
       "formattedPrice": "$2.99",
       "sellerName": "Nils Steffmann",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Cookie Tapper!",
       "description": "クッキー・タッパー – あの伝説のクッキークリック体験が、ついに手首に登場！\n\nApple Watch に完全最適化されたこの高品質アプリで、あの名作ゲームを手首で楽しもう。主な特徴はこちら：\n\n気持ちいいクリックアニメーション\n購入できる多数のアップグレード\nバラエティ豊かなクッキースキン\nグローバルランキング\n7言語対応\n定期的なアップデートとバグ修正\nフレンドリーなコミュニティ\n今すぐダウンロードして、クッキーをタップしよう！",
-      "releaseNotes": "バグ修正とアプリの改善。プレイしていただき、ありがとうございます！",
+      "releaseNotes": "Cookie Tapper が帰ってきました！ゲームを全面的にリニューアルし、新しいコンテンツをたくさん追加しました。プレイしていただきありがとうございます！",
       "trackViewUrl": "https://apps.apple.com/jp/app/cookie-tapper/id6737437161?uo=4",
       "formattedPrice": "¥500",
       "sellerName": "Nils Steffmann",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Cookie Tapper!",
       "description": "Cookie Tapper – Das ikonische Cookie-Klick-Erlebnis, jetzt an deinem Handgelenk!\n\nDiese hochpolierte und vollständig für die Apple Watch optimierte App bringt das Kultspiel direkt auf dein Handgelenk. Freu dich auf folgende Features:\n\nZufriedenstellende Klick-Animationen\nZahlreiche Upgrades zum Kaufen\nVerschiedene Cookie-Designs\nGlobale Rangliste\nUnterstützung für 7 Sprachen\nStändige Updates und Bugfixes\nFreundliche Community\nJetzt herunterladen und losklicken!",
-      "releaseNotes": "Fehlerbehebungen und App-Verbesserungen. Danke fürs Spielen!",
+      "releaseNotes": "Cookie Tapper ist zurück! Wir haben das Spiel komplett überarbeitet und jede Menge neue Inhalte hinzugefügt. Danke fürs Spielen!",
       "trackViewUrl": "https://apps.apple.com/de/app/cookie-tapper/id6737437161?uo=4",
       "formattedPrice": "2,99 €",
       "sellerName": "Nils Steffmann",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/04/d0/9104d006-d011-cd16-4e80-dd7d76f8e841/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/cc/44/56cc4457-1c9f-f9b4-8b92-c723c47bba0b/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 2.99,
-  "fileSizeBytes": "31303680",
+  "fileSizeBytes": "41308160",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.5.5",
-  "currentVersionReleaseDate": "2026-04-09T17:34:47Z",
+  "minimumOsVersion": "15.0",
+  "version": "1.6.0",
+  "currentVersionReleaseDate": "2026-10-12T15:19:45Z",
   "releaseDate": "2024-11-01T07:00:00Z",
   "artistId": 1729068286,
   "artistName": "Nils Steffmann",
@@ -210,6 +210,12 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/96/c4/8a96c44b-4bc0-d9bf-2996-cf526db8f081/FixedSS.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/19/e3/fb19e3ce-75d6-8aad-7bd9-48c7a0379c33/en-US-1-Tap.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/69/01/6469010c-1833-57f8-4205-a0372be0dddf/en-US-2-Upgrade.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/89/26/1c8926d2-8d8a-675e-6ba3-75c23b2b707d/en-US-3-Invest.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/6a/dc/2e6adc29-a918-d37c-456c-6d11fb270ebf/en-US-4-Leaderboard.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e0/76/56e07678-f066-9fb1-fcf3-a32239e532d2/en-US-5-Research.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/05/0b/06050b08-38bc-a33e-bba8-c5b1dc28c4a1/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.00.19.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e6/d2/05e6d2c3-465c-1e2e-5710-eccbf65d8681/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.00.53.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/e7/09/97e709a8-a6b9-20a2-d551-a0bd5dc61719/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-01-25_at_14.01.46.png/422x514bb.png",
@@ -342,8 +348,13 @@
       "version": "1.5.5",
       "releaseNotes": "Bug fixes and app improvements. Thanks for playing!",
       "seenAt": "2026-04-09T17:34:47Z"
+    },
+    {
+      "version": "1.6.0",
+      "releaseNotes": "Cookie Tapper is back! We've revamped the game completely & added lots of new content. Thanks for playing!",
+      "seenAt": "2026-10-12T15:19:45Z"
     }
   ],
-  "updatedAt": "2026-10-11T13:19:57.136Z",
+  "updatedAt": "2026-10-12T15:51:42.296Z",
   "isOwnApp": false
 }

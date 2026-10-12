@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "",
+      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
       "trackViewUrl": "https://apps.apple.com/us/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -30,7 +30,7 @@
     "zh": {
       "trackName": "拼豆小恶魔-手表游戏",
       "description": "小小豆子，拼出大大快乐！\n\n欢迎来到「拼豆小恶魔」的怪物街机屋。在紫色霓虹和温暖灯光中，把彩色豆子拼成南瓜幽灵、魔女黑猫、独眼小怪等可爱角色。\n\n探索 9 款拼豆图案，预览并收藏喜欢的作品。在 iPhone 上选择颜色，点按或滑动放豆；提示、撤销、取豆和重置工具，让你按自己的节奏完成创作。\n\n参与每日图案挑战，领取每日礼物，使用游戏内奖励兑换更多提示。进度自动保存在当前设备，随时回来继续拼豆。\n\n把快乐戴在手腕上：Apple Watch 版支持旋转数码表冠选择格子，配合局部放大棋盘、选色和放置按钮，完成属于你的小作品。\n\n无需注册账号，支持离线游玩。iPhone 与 Apple Watch 各自保存进度，当前版本不提供跨设备同步。金币与钻石仅用于游戏内奖励和道具兑换，不涉及真实货币内购。\n\n当前应用界面为简体中文。\n\n一起拼出可爱的怪物世界！",
-      "releaseNotes": "",
+      "releaseNotes": "支持 iOS 16.0 和 iPadOS 16.0 及以上系统。\n新增 iPhone 横屏支持，让拼豆操作更灵活。\n优化宽屏布局，合理安排棋盘与操作区域。\n改善不同窗口尺寸下的界面适配体验。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%BC%E8%B1%86%E5%B0%8F%E6%81%B6%E9%AD%94-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6812992983?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "",
+      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
       "trackViewUrl": "https://apps.apple.com/jp/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -76,7 +76,7 @@
     "de": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "",
+      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
       "trackViewUrl": "https://apps.apple.com/de/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -97,15 +97,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/de/44/3dde445a-f658-89bc-cf40-d323ee713f6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/13/66/9813661e-ab8a-4725-83e8-97412f59c3fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "12067840",
+  "fileSizeBytes": "12137472",
   "contentAdvisoryRating": "9+",
-  "minimumOsVersion": "17.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-09-22T09:38:30Z",
+  "minimumOsVersion": "16.0",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-10-11T20:29:56Z",
   "releaseDate": "2026-09-22T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -278,8 +278,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2026-09-22T09:38:30Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
+      "seenAt": "2026-10-11T20:29:56Z"
     }
   ],
-  "updatedAt": "2026-10-11T12:43:02.659Z",
+  "updatedAt": "2026-10-12T15:14:10.024Z",
   "isOwnApp": false
 }

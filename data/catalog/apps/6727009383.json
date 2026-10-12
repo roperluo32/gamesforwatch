@@ -9,7 +9,7 @@
       "description": "You always wanted to be a tech billionaire? \nNow is your chance! \nExperience the average day of a tech billionaire by jumping over progress-hating opponents and by getting more money wherever you can! \n\nAvailable for watch, phone and tablet.\n\nFeatures include: \n- Awesome retro graphics\n- Endless levels\n- Cool grayscale mode available\n- Play offline (no internet connection required for playing)\n- More games you can unlock inside",
       "releaseNotes": "Adding the Tech Billionaire Run variant",
       "trackViewUrl": "https://apps.apple.com/us/app/tech-billionaire-jump-run/id6727009383?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "ずっとテクノロジー億万長者になりたかったですか? 今がチャンスです! 進歩を嫌う敵を飛び越え、どこでもお金を稼いで、テクノロジー億万長者の平均的な一日を体験してください!\n\n時計、携帯電話、タブレットでご利用いただけます。\n\n機能は次のとおりです:\n- 素晴らしいレトログラフィック\n- 無限のレベル\n- クールなグレースケールモードが利用可能\n- オフラインでプレイ (プレイにインターネット接続は不要)",
       "releaseNotes": "「テックビリオネアラン」のバリエーションを追加しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/tech-billionaire-jump/id6727009383?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Du wolltest schon immer Tech-Milliardär sein?\nJetzt ist deine Chance!\nErlebe einen normalen Tag eines Tech-Milliardärs, indem du fortschrittsfeindliche Gegner überspringst und mehr Geld verdienst, wo immer du kannst!\n\nVerfügbar für Uhr, Telefon und Tablet.\n\nZu den Funktionen gehören:\n- Tolle Retro-Grafiken\n- Endlose Level\n- Cooler Graustufenmodus verfügbar\n- Offline spielen (zum Spielen ist keine Internetverbindung erforderlich)\n- Weitere Spiele, die du freischalten kannst",
       "releaseNotes": "\"Tech Billionaire Run\"-Variante hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/tech-billionaire-jump/id6727009383?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/bb/78/4dbb7835-cd19-3e44-9404-7cf2ba9e3ebb/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.jpeg/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "91211776",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -446,6 +446,6 @@
       "seenAt": "2026-06-28T16:55:10Z"
     }
   ],
-  "updatedAt": "2026-10-11T13:06:55.352Z",
+  "updatedAt": "2026-10-12T15:38:03.565Z",
   "isOwnApp": false
 }
