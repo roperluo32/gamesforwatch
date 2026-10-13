@@ -9,7 +9,7 @@
       "description": "You're driving your monster truck on the highway, minding your own business, when suddenly you get a call from the highway police, telling you that all the other drivers have gone mad. You better destroy as many of their cars possible before it is too late!\n\nFeatures:\n- Drive a monster truck\n- Destroy cars\n- Make the road a safer place (well, kind of)\n- Endless levels\n- Explosions\n- Pretty easy to play\n- No internet connection required for playing (play offline)\n- Unlock more games inside",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/us/app/monster-trucks-car-smash-race/id6502875554?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -131,7 +131,7 @@
       "description": "Du fährst mit deinem Monster Truck über die Autobahn, als plötzlich ein Anruf von der Autobahnpolizei kommt. Die anderen Fahrer sind komplett durchgedreht. Zerstöre so viele Autos wie möglich, bevor es zu spät ist.\n\nFeatures:\n- Fahre einen Monster Truck\n- Zerstöre Autos\n- Mach die Straße etwas sicherer\n- Endlose Level\n- Explosionen\n- Einfach zu spielen\n- Kein Internet zum Spielen nötig\n- Schalte weitere Spiele in der App frei",
       "releaseNotes": "Mehr Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/monster-trucks-crash-race/id6502875554?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/95/94/4895941a-bcc1-890b-1b94-c7a9d2bc755c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "89085952",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -456,6 +456,6 @@
       "seenAt": "2026-10-07T15:54:16Z"
     }
   ],
-  "updatedAt": "2026-10-12T15:34:40.339Z",
+  "updatedAt": "2026-10-13T14:27:24.279Z",
   "isOwnApp": false
 }
