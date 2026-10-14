@@ -118,7 +118,7 @@
   "minimumOsVersion": "17.0",
   "version": "2.8",
   "currentVersionReleaseDate": "2026-09-16T21:24:52Z",
-  "releaseDate": "2026-06-07T07:00:00Z",
+  "releaseDate": "2026-07-30T07:00:00Z",
   "artistId": 1879937348,
   "artistName": "启韬 陈",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E5%90%AF%E9%9F%AC-%E9%99%88/id1879937348?uo=4",
@@ -440,6 +440,6 @@
       "seenAt": "2026-09-16T21:24:52Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:13:05.519Z",
+  "updatedAt": "2026-10-14T11:48:51.199Z",
   "isOwnApp": false
 }

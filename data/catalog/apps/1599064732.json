@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c2/e3/0ec2e3e7-ede1-082e-5112-37b12a01a56c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a8/e2/dea8e23e-2741-07b8-3aad-7bebe2d2c085/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "101706752",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.6.3",
-  "currentVersionReleaseDate": "2026-10-05T20:43:43Z",
+  "version": "3.6.4",
+  "currentVersionReleaseDate": "2026-10-14T07:18:53Z",
   "releaseDate": "2021-12-08T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -522,8 +522,13 @@
       "version": "3.6.3",
       "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
       "seenAt": "2026-10-05T20:43:43Z"
+    },
+    {
+      "version": "3.6.4",
+      "releaseNotes": "Learn Chess is here:\n- Beginner — automatic hints and explanations\n- Guided — ask for help when you need it\n- Challenge — play on your own and review big mistakes",
+      "seenAt": "2026-10-14T07:18:53Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:14:56.525Z",
+  "updatedAt": "2026-10-14T11:50:32.029Z",
   "isOwnApp": false
 }

@@ -536,8 +536,13 @@
       "version": "2.7.5",
       "releaseNotes": "Improved returning to the game list on Apple Watch. Your previous list position is kept, making it easier to keep playing or choose nearby games.\n\nFixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "seenAt": "2026-10-06T19:30:12Z"
+    },
+    {
+      "version": "2.7.6",
+      "releaseNotes": "New game: Ring Release, now on iPhone and Apple Watch.\nRotate the rings to find their openings, clear each puzzle, and challenge the highest-level leaderboards.\n\nFixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-10-14T10:46:40Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:02:31.553Z",
+  "updatedAt": "2026-10-14T11:38:29.932Z",
   "isOwnApp": false
 }

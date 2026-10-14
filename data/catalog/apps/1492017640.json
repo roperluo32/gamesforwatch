@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/c2/d5/0ec2d59e-b718-5b79-857e-ddf11ef8c65f/AppIcon-New-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ac/8e/deac8e13-0008-99cf-d5aa-febf10971074/AppIcon-New-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77536,
   "userRatingCount": 138,
   "price": 0,
-  "fileSizeBytes": "321841152",
+  "fileSizeBytes": "322734080",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
-  "version": "6.0.0",
-  "currentVersionReleaseDate": "2026-10-12T03:37:35Z",
+  "version": "6.0.1",
+  "currentVersionReleaseDate": "2026-10-13T15:21:09Z",
   "releaseDate": "2019-12-26T08:00:00Z",
   "artistId": 1470818209,
   "artistName": "Cameron Nazemi",
@@ -414,8 +414,13 @@
       "version": "6.0.0",
       "releaseNotes": "Introducing Tappy 6.0\n\nTappy is now a self-care pet who grows with you. This is our biggest update ever.\n\n• Daily Adventure: build your own routine from 25+ self-care quests, like breathing, fidgeting, journaling, drinking water, gratitude, and brushing your teeth. Finish it to open a treasure chest of Sparks.\n• Take care of Tappy: give Tappy a name, then pet, feed, hug, play, and tuck Tappy in. Fill the Care Bar for a daily surprise gift.\n• Sparks and the Shop: collect Sparks for everything you do. Spend them on hats, outfits, toys, and colors.\n• New scenes: the beach, a farm, a castle, outer space, and more, with visitors to discover in the Field Guide.\n• Bedtime: set a bedtime and Tappy gets ready for bed with you.\n• Goals: set short and long-term goals, break them into steps, and track your progress.\n• Badges and friendship levels to celebrate milestones together.\n• A new Daily Adventure widget, plus Live Activities for timed quests.\n\nPrefer the original Tappy? Tap More > Switch to Classic Tappy on the home screen.",
       "seenAt": "2026-10-12T03:37:35Z"
+    },
+    {
+      "version": "6.0.1",
+      "releaseNotes": "Introducing Tappy 6.0\n\nTappy is now a self-care pet who grows with you. This is our biggest update ever.\n\n• Daily Adventure: build your own routine from 25+ self-care quests, like breathing, fidgeting, journaling, drinking water, gratitude, and brushing your teeth. Finish it to open a treasure chest of Sparks.\n• Take care of Tappy: give Tappy a name, then pet, feed, hug, play, and tuck Tappy in. Fill the Care Bar for a daily surprise gift.\n• Sparks and the Shop: collect Sparks for everything you do. Spend them on hats, outfits, toys, and colors.\n• New scenes: the beach, a farm, a castle, outer space, and more, with visitors to discover in the Field Guide.\n• Bedtime: set a bedtime and Tappy gets ready for bed with you.\n• Goals: set short and long-term goals, break them into steps, and track your progress.\n• Badges and friendship levels to celebrate milestones together.\n• A new Daily Adventure widget, plus Live Activities for timed quests.\n\nPrefer the original Tappy? Tap More > Switch to Classic Tappy on the home screen.",
+      "seenAt": "2026-10-13T15:21:09Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:18:20.752Z",
+  "updatedAt": "2026-10-14T11:53:34.550Z",
   "isOwnApp": false
 }

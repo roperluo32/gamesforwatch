@@ -365,8 +365,13 @@
       "version": "2.2",
       "releaseNotes": "Improved layouts for iPhone Duo and other screen sizes.\nRaces now pause automatically when the screen size changes, preserving your current progress.\nFixed track shifts and unexpected collisions when resizing.\nImproved the home screen layout in landscape and the display of in-game dialogs.",
       "seenAt": "2026-10-09T16:33:44Z"
+    },
+    {
+      "version": "2.3",
+      "releaseNotes": "• Enjoy one free race each day, with your daily allowance resetting on the next local calendar day.\n• Introducing Unlimited Play: buy once to permanently remove the daily play limit. No subscription required.\n• Restore Purchases lets you recover your Unlimited Play access.\n• Check your remaining free play on the home screen. A play is used only when a new race or retry starts.",
+      "seenAt": "2026-10-14T08:14:09Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:11:28.944Z",
+  "updatedAt": "2026-10-14T11:47:14.999Z",
   "isOwnApp": false
 }

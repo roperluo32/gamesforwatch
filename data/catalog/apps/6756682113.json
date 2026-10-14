@@ -73,8 +73,8 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.1",
-  "currentVersionReleaseDate": "2025-12-20T07:47:55Z",
-  "releaseDate": "2025-12-18T08:00:00Z",
+  "currentVersionReleaseDate": "2026-04-21T07:00:00Z",
+  "releaseDate": "2026-04-21T07:00:00Z",
   "artistId": 1858052122,
   "artistName": "Don Harkin",
   "artistViewUrl": "https://apps.apple.com/de/developer/don-harkin/id1858052122?uo=4",
@@ -232,6 +232,6 @@
       "seenAt": "2025-12-20T07:47:55Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:41:22.337Z",
+  "updatedAt": "2026-10-14T12:14:39.220Z",
   "isOwnApp": false
 }

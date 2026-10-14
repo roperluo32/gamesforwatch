@@ -19,12 +19,12 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Icebreaker Games for All Ages"
+      "subtitle": "Family Icebreaker Game Night"
     },
     "ja": {
       "trackName": "真実か挑戦: Watch Party",
       "description": "すべての年齢で楽しめる「真実か挑戦」。手首でも、そしてiPhoneでも。家族、友達、同僚と楽しめる913個の新しい質問とチャレンジに加え、新しいデッキスタジオでテーマを入れれば今夜のパーティー用デッキがすぐ完成します。\n\n3.0の新機能\n・手描きスケッチブック風デザインのiPhoneアプリ\n・デッキスタジオ：自分でデッキを作成、またはデバイス上のモデルが8つの質問と8つのチャレンジを下書き（Apple Intelligenceをオンにした対応デバイスで利用可能、オフラインでも動作）\n・デッキはWatchアプリに自動同期\n・音声、ウィジェット、スマートスタック、コントロールセンターに対応\n・Watch：ダブルタップで完了（対応モデル）、触覚カウントダウン\n\n全年齢向け\n・家族から映画・テレビまで15カテゴリ\n・チャレンジはその場でできる演技、お絵描き、歌、言葉遊び。電話や投稿、いたずらはありません\n・プレイヤーと順番、重複なし、タイマー、お気に入り、統計\n\nアカウント、広告、トラッキングは一切なし。WatchアプリはiPhoneなしでも動作します。\n\nご注意：アプリ内の質問とチャレンジは英語です。",
-      "releaseNotes": "真実か挑戦 3.0：すべての年齢向けに作り直しました。\n・iPhoneにも対応。手描きスケッチブック風のデザインと動くオーブ\n・新しいデッキスタジオ：テーマ別デッキを手で作成、またはデバイス上で下書きしてすべて確認\n・家族、友達、同僚と楽しめる913個の新しい質問とチャレンジ\n・音声で質問やチャレンジをリクエスト\n・ウィジェット、スマートスタック、コントロールセンター\n・Watch：ダブルタップで完了、触覚カウントダウン、iPhoneのデッキを同期",
+      "releaseNotes": "App Storeのスクリーンショットと説明を更新しました。\nXcode 27.1でビルドしています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%9C%9F%E5%AE%9F%E3%81%8B%E6%8C%91%E6%88%A6-watch-party/id1527873405?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Wahrheit oder Pflicht: Watch",
       "description": "Wahrheit oder Pflicht für jedes Alter – am Handgelenk und jetzt auch auf dem iPhone. 913 neue Fragen und Aufgaben für Familie, Freunde und Kollegen, dazu das neue Deck Studio: Thema eingeben und in Sekunden das Party-Deck für heute Abend bauen.\n\nNEU IN 3.0\n- iPhone-App mit handgezeichnetem Skizzenbuch-Look und animierten Orbs\n- Deck Studio: eigene Themen-Decks schreiben oder vom On-Device-Modell acht Wahrheiten und acht Pflichten entwerfen lassen (auf unterstützten Geräten mit aktivierter Apple Intelligence, auch offline)\n- Decks werden automatisch mit der Uhr-App synchronisiert\n- Per Sprache fragen, mit Widgets, Smart Stack und Kontrollzentrum\n- Uhr: Doppeltippen zum Abschließen (auf unterstützten Modellen), haptische Countdowns\n\nFÜR ALLE ALTERSGRUPPEN\n- 15 Kategorien, von Familie bis Film & Serien\n- Aufgaben finden im Raum statt: Schauspielern, Zeichnen, Singen, Wortspiele. Keine Anrufe, Posts oder Streiche\n- Spieler und Runden, keine Wiederholungen, Timer, Favoriten und Statistiken\n\nKeine Konten, keine Werbung, kein Tracking. Die Uhr-App funktioniert auch ohne iPhone.\n\nHinweis: Die Fragen und Aufgaben in der App sind auf Englisch.",
-      "releaseNotes": "Wahrheit oder Pflicht 3.0: neu gemacht für jedes Alter.\n- Jetzt auch auf dem iPhone, mit handgezeichnetem Skizzenbuch-Design und lebendigen Orbs\n- Neues Deck Studio: eigene Themen-Decks schreiben oder auf dem Gerät entwerfen lassen und jede Frage prüfen\n- 913 ganz neue Fragen und Aufgaben für Familie, Freunde und Kollegen\n- Per Sprache nach einer Wahrheit oder Pflicht fragen\n- Widgets, Smart Stack und Kontrollzentrum\n- Uhr: Doppeltippen zum Abschließen, haptische Countdowns und deine Decks vom iPhone",
+      "releaseNotes": "Aktualisierte App-Store-Screenshots und Beschreibung.\nMit Xcode 27.1 erstellt.",
       "trackViewUrl": "https://apps.apple.com/de/app/wahrheit-oder-pflicht-watch/id1527873405?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/07/ef/1207ef7f-bcc3-8b9c-dac0-dd7b555226f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/fa/c9/b0fac9ad-9cac-d793-f7f8-b1336e30b34d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "7603200",
+  "fileSizeBytes": "7623680",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "26.0",
-  "version": "3.0",
-  "currentVersionReleaseDate": "2026-10-07T05:43:24Z",
+  "version": "3.0.1",
+  "currentVersionReleaseDate": "2026-10-14T09:56:54Z",
   "releaseDate": "2020-08-28T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -283,8 +283,13 @@
       "version": "3.0",
       "releaseNotes": "Truth or Dare 3.0: rebuilt for every age.\n- Now on iPhone too, with a hand-drawn sketchbook design and living animated orbs\n- New Deck Studio: build themed party decks by hand, or draft them on-device and review every prompt\n- 913 brand-new truths and dares, written for families, friends and coworkers\n- Ask for a truth or a dare by voice, with interactive answer cards on iPhone\n- Widgets, Smart Stack and Control Center: today's pair, Quick Dare and Quick Truth\n- Watch: double-tap to mark a dare done, haptic countdowns, and your decks from iPhone",
       "seenAt": "2026-10-07T05:43:24Z"
+    },
+    {
+      "version": "3.0.1",
+      "releaseNotes": "Refreshed App Store screenshots and description.\nBuilt with Xcode 27.1.",
+      "seenAt": "2026-10-14T09:56:54Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:40:31.997Z",
+  "updatedAt": "2026-10-14T12:13:51.598Z",
   "isOwnApp": false
 }
