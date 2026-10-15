@@ -9,7 +9,7 @@
       "description": "Cactus Run - finally available on iOS and watchOS!\n\nFor years, the cactuses have been terrorizing the dinosaurs.\nBut now the tides have turned and the dinos want their revenge...\nThere is only one way for you to survive: RUN\n\nFun and easy game for watch and phone.\n\nFeatures:\n- No ads\n- Play offline\n- Light and dark mode\n- Minimalist retro design\n- Endless levels\n- More games inside you can unlock",
       "releaseNotes": "Added new content to unlock",
       "trackViewUrl": "https://apps.apple.com/us/app/cactus-run-the-dinos-revenge/id6738305728?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "Cactus RunがついにiOSとwatchOSに登場！\n\n長年、サボテンたちは恐竜たちを怖がらせてきました。\nでも今、立場は逆転。恐竜たちが復讐にやってきます…\n生き残る方法はただ一つ。走れ！\n\n時計とスマホで楽しめる、簡単で楽しいゲームです。\n\n特徴：\n- 広告なし\n- オフラインでプレイ\n- ライトモードとダークモード\n- シンプルなレトロデザイン\n- どこまでも続くレベル\n- さらにアンロックできるゲームも収録",
       "releaseNotes": "アンロックできる新しいコンテンツを追加しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/cactus-run-%E6%81%90%E7%AB%9C%E3%81%9F%E3%81%A1%E3%81%AE%E9%80%86%E8%A5%B2/id6738305728?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Cactus Run – endlich für iOS und watchOS!\n\nJahrelang haben die Kakteen die Dinosaurier terrorisiert.\nDoch jetzt hat sich das Blatt gewendet und die Dinos wollen Rache ...\nEs gibt nur einen Weg zu überleben: LAUF!\n\nEin lustiges, einfaches Spiel für Uhr und Handy.\n\nFeatures:\n- Keine Werbung\n- Offline spielen\n- Heller und dunkler Modus\n- Minimalistisches Retro-Design\n- Endlose Level\n- Weitere Spiele zum Freischalten",
       "releaseNotes": "Neue Inhalte zum Freischalten hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/cactus-run-rache-der-dinos/id6738305728?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/12/20/c312209a-0ac8-0b67-b6ea-c8e2f390616c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "35470336",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -416,6 +416,6 @@
       "seenAt": "2026-10-09T07:07:22Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:10:40.374Z",
+  "updatedAt": "2026-10-15T11:42:59.386Z",
   "isOwnApp": false
 }

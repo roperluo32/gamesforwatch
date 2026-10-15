@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b3/77/54b37790-c043-e7e5-58d0-42f382f7fe92/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/43/06/b04306dc-c41d-5692-a805-842ee3468c83/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28712,
   "userRatingCount": 1623,
   "price": 0,
-  "fileSizeBytes": "425954304",
+  "fileSizeBytes": "426427392",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.390.0",
-  "currentVersionReleaseDate": "2026-10-06T12:31:34Z",
+  "version": "3.391.0",
+  "currentVersionReleaseDate": "2026-10-13T19:09:08Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -507,6 +507,6 @@
       "seenAt": "2026-10-13T19:09:08Z"
     }
   ],
-  "updatedAt": "2026-10-14T11:41:51.855Z",
+  "updatedAt": "2026-10-15T11:20:31.153Z",
   "isOwnApp": false
 }

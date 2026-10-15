@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch 15 Puzzle",
       "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
-      "releaseNotes": "Updated for iOS 27",
+      "releaseNotes": "Ready for iPhone Duo",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Valerii Andrusyk",
@@ -27,7 +27,7 @@
     "ja": {
       "trackName": "Watch 15 Puzzle",
       "description": "The board has 15 square tiles numbered 1 to 15 in a frame that is 4 tile positions high and 4 tile positions wide, with one unoccupied position. Tiles in the same row or column of the open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order (from left to right, top to bottom).\n\nTry to win as fast as possible, playing on Apple Watch or iPhone!",
-      "releaseNotes": "Updated for iOS 27",
+      "releaseNotes": "Ready for iPhone Duo",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Valerii Andrusyk",
@@ -47,7 +47,7 @@
     "de": {
       "trackName": "Watch 15 Puzzle",
       "description": "Das Spielbrett besteht aus 15 quadratischen Spielsteinen, die von 1 bis 15 nummeriert sind, in einem Rahmen, der 4 Spielsteinpositionen hoch und 4 Spielsteinpositionen breit ist, mit einer unbesetzten Position. Spielsteine, die sich in der gleichen Reihe oder Spalte der offenen Position befinden, können durch horizontales bzw. vertikales Verschieben verschoben werden. Das Ziel des Puzzles ist es, die Spielsteine in numerischer Reihenfolge (von links nach rechts, von oben nach unten) anzuordnen.\n\nVersuche, so schnell wie möglich zu gewinnen, indem du auf der Apple Watch oder dem iPhone spielst!",
-      "releaseNotes": "Aktualisiert für iOS 27",
+      "releaseNotes": "Bereit für das iPhone-Duo",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-15-puzzle/id977326338?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Valerii Andrusyk",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/b1/87/24b187bf-3b06-51fd-c056-c2861d8e6480/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/27/5f/76275f72-5608-6405-cef9-13d17df43e84/watch15puzzle-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2117632",
+  "fileSizeBytes": "10914816",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "15.0",
-  "version": "4.5",
-  "currentVersionReleaseDate": "2026-09-14T21:29:21Z",
+  "minimumOsVersion": "16.0",
+  "version": "4.6",
+  "currentVersionReleaseDate": "2026-10-13T16:48:24Z",
   "releaseDate": "2015-04-23T02:15:12Z",
   "artistId": 787326004,
   "artistName": "Valerii Andrusyk",
@@ -225,6 +225,12 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/a8/a8/18a8a834-9ee7-3308-b097-6a2a124fec46/Screenshot_iPhone_18_Pro_12.10.2026_at_21.31.05.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/6b/d2/736bd203-0927-f854-9601-7d14a71fd6b3/Screenshot_iPhone_18_Pro_12.10.2026_at_21.31.55.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/5d/ad/635dad59-1b5c-eec4-3e27-56d18372f9f4/Screenshot_iPhone_18_Pro_12.10.2026_at_21.34.45.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/a8/a8/18a8a834-9ee7-3308-b097-6a2a124fec46/Screenshot_iPhone_18_Pro_12.10.2026_at_21.31.05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/6b/d2/736bd203-0927-f854-9601-7d14a71fd6b3/Screenshot_iPhone_18_Pro_12.10.2026_at_21.31.55.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/5d/ad/635dad59-1b5c-eec4-3e27-56d18372f9f4/Screenshot_iPhone_18_Pro_12.10.2026_at_21.34.45.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/4c/c7/414cc759-0b99-f984-8560-405606d38d6c/Screenshot_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_12.10.2026_at_22.07.34.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/e9/46/08e946a2-3863-d46d-3618-3b1d0413d11a/Screenshot_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_12.10.2026_at_22.08.37.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/a2/a6/b3a2a67d-f031-65ec-a647-61c91ff43617/Screenshot_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_12.10.2026_at_22.10.24.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/ec/df/42ecdf0d-a20c-8dfb-534a-55872a90913a/0f2c733d-24a8-4782-966f-6eb6a6a49147_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.51.47.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f5/c0/74/f5c07460-2335-7e1d-0e5f-679848592334/0e07f4f4-229b-440d-9b84-cae348fc55bd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.50.35.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/2e/5e/a92e5e2f-a371-a6da-64ee-9dc592319712/ce74cdcb-eecc-410a-85bd-31b96d79e95c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-01-19_at_22.49.13.png/392x696bb.png",
@@ -391,6 +397,6 @@
       "seenAt": "2026-10-13T16:48:24Z"
     }
   ],
-  "updatedAt": "2026-10-14T11:45:01.884Z",
+  "updatedAt": "2026-10-15T11:22:47.104Z",
   "isOwnApp": false
 }

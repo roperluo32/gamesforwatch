@@ -1,0 +1,377 @@
+{
+  "trackId": "6771863972",
+  "bundleId": "com.animalabs.AnimaDEX",
+  "slug": "anima-playdex",
+  "path": "/apps/6771863972-anima-playdex/",
+  "locales": {
+    "en": {
+      "trackName": "Anima PlayDEX",
+      "description": "Anima PlayDEX transforma suas capturas em uma experiência divertida de coleção, cuidado e minigames.\n\nEscaneie animais, personagens, brinquedos ou imagens da sua galeria e registre tudo na sua própria Dex. Cada captura vira um card com nome, raridade, atributos e imagem personalizada.\n\nDepois, leve seus favoritos para o Playground e para o modo Anima Virtual, onde você pode cuidar do seu pet, ajustar sua aparência, trocar o quarto do LCD, aplicar recortes personalizados e jogar minigames inspirados em consoles clássicos.\n\nO app inclui jogos arcade como Flappy Pet, Super Tennis, Super Soccer, Space Impact, Bash Ball, Amazing Maze, quebra-cabeças, memória e outros desafios com placares locais e integração com Game Center.\n\nRecursos principais:\n- Crie sua própria Dex de capturas\n- Use câmera ou imagens da galeria\n- Personalize cards, imagens e recortes\n- Escolha pets favoritos para o Playground\n- Cuide do seu pet no modo Anima Virtual\n- Jogue diversos minigames retrô\n- Compare pontuações com Game Center\n- Ajuste aparência, som, desempenho e recursos avançados\n\nAnima PlayDEX mistura coleção, nostalgia e criatividade em um app feito para quem gosta de transformar imagens em personagens jogáveis.",
+      "releaseNotes": "- Melhorias gerais\n- Otimização do jogo",
+      "trackViewUrl": "https://apps.apple.com/us/app/anima-playdex/id6771863972?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "ANIMA LABS GAMES LTDA",
+      "genres": [
+        "Games"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "Anima PlayDEX",
+      "description": "Anima PlayDEX transforma suas capturas em uma experiência divertida de coleção, cuidado e minigames.\n\nEscaneie animais, personagens, brinquedos ou imagens da sua galeria e registre tudo na sua própria Dex. Cada captura vira um card com nome, raridade, atributos e imagem personalizada.\n\nDepois, leve seus favoritos para o Playground e para o modo Anima Virtual, onde você pode cuidar do seu pet, ajustar sua aparência, trocar o quarto do LCD, aplicar recortes personalizados e jogar minigames inspirados em consoles clássicos.\n\nO app inclui jogos arcade como Flappy Pet, Super Tennis, Super Soccer, Space Impact, Bash Ball, Amazing Maze, quebra-cabeças, memória e outros desafios com placares locais e integração com Game Center.\n\nRecursos principais:\n- Crie sua própria Dex de capturas\n- Use câmera ou imagens da galeria\n- Personalize cards, imagens e recortes\n- Escolha pets favoritos para o Playground\n- Cuide do seu pet no modo Anima Virtual\n- Jogue diversos minigames retrô\n- Compare pontuações com Game Center\n- Ajuste aparência, som, desempenho e recursos avançados\n\nAnima PlayDEX mistura coleção, nostalgia e criatividade em um app feito para quem gosta de transformar imagens em personagens jogáveis.",
+      "releaseNotes": "- Melhorias gerais\n- Otimização do jogo",
+      "trackViewUrl": "https://apps.apple.com/jp/app/anima-playdex/id6771863972?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "ANIMA LABS GAMES LTDA",
+      "genres": [
+        "ゲーム"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "Anima PlayDEX",
+      "description": "Anima PlayDEX transforma suas capturas em uma experiência divertida de coleção, cuidado e minigames.\n\nEscaneie animais, personagens, brinquedos ou imagens da sua galeria e registre tudo na sua própria Dex. Cada captura vira um card com nome, raridade, atributos e imagem personalizada.\n\nDepois, leve seus favoritos para o Playground e para o modo Anima Virtual, onde você pode cuidar do seu pet, ajustar sua aparência, trocar o quarto do LCD, aplicar recortes personalizados e jogar minigames inspirados em consoles clássicos.\n\nO app inclui jogos arcade como Flappy Pet, Super Tennis, Super Soccer, Space Impact, Bash Ball, Amazing Maze, quebra-cabeças, memória e outros desafios com placares locais e integração com Game Center.\n\nRecursos principais:\n- Crie sua própria Dex de capturas\n- Use câmera ou imagens da galeria\n- Personalize cards, imagens e recortes\n- Escolha pets favoritos para o Playground\n- Cuide do seu pet no modo Anima Virtual\n- Jogue diversos minigames retrô\n- Compare pontuações com Game Center\n- Ajuste aparência, som, desempenho e recursos avançados\n\nAnima PlayDEX mistura coleção, nostalgia e criatividade em um app feito para quem gosta de transformar imagens em personagens jogáveis.",
+      "releaseNotes": "- Melhorias gerais\n- Otimização do jogo",
+      "trackViewUrl": "https://apps.apple.com/de/app/anima-playdex/id6771863972?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "ANIMA LABS GAMES LTDA",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/16/97/c2169746-ac50-6b14-ba24-10cda310a8c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "340745216",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "15.0",
+  "version": "1.4.5",
+  "currentVersionReleaseDate": "2026-09-22T18:56:52Z",
+  "releaseDate": "2026-05-28T07:00:00Z",
+  "artistId": 6771863974,
+  "artistName": "ANIMA LABS GAMES LTDA",
+  "artistViewUrl": "https://apps.apple.com/de/developer/anima-labs-games-ltda/id6771863974?uo=4",
+  "sellerUrl": "https://animaplaydex.com.br",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/d5/3e/b0d53e93-6798-435b-9354-83f348ccc91a/image-05-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/85/30/c7853014-85f4-2c63-f6c8-9355d117a2f9/image-08-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/5e/4e/635e4e01-9ca0-89ba-f1d3-bed03ce86032/image-07-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/e1/53/cfe153ca-b349-e18a-e021-e537c31ecbc5/image-03-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/23/37/00233704-eebf-27b5-9e55-ec4e4d1d31cf/image-01-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/99/3d/27993d37-fbe3-196a-a185-727470fc4e5f/image-09-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e8/6a/b0e86a63-080c-ed56-8f02-7cf502a9916c/image-04-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b3/46/fcb3461e-57b0-f37e-9e86-8826b2349f4d/image-02-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/55/13ee55b8-b838-61d1-5d75-e78ec9e89e4a/image-05-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/be/cf/1cbecfa7-181a-a4c1-f5ae-c77bfb06391b/image-08-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/c8/97/b3c8972b-073a-f7de-3363-1d3f03824476/image-07-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/8c/bc/2e8cbcf8-ba57-0c7b-9845-66a0d656d4a8/image-03-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/23/c2/8d23c2f5-0582-2951-91fd-934dcc9e02e7/image-01-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/1d/6c/0f1d6ce4-b3ee-775a-baca-cf3d28ecc6da/image-09-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/21/53/c12153e4-6173-664d-6465-6a5e84b24c1e/image-04-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/69/07/ba690733-f928-e079-a88b-49a45e5b08ee/image-02-1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ee/55/13ee55b8-b838-61d1-5d75-e78ec9e89e4a/image-05-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/be/cf/1cbecfa7-181a-a4c1-f5ae-c77bfb06391b/image-08-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/c8/97/b3c8972b-073a-f7de-3363-1d3f03824476/image-07-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/8c/bc/2e8cbcf8-ba57-0c7b-9845-66a0d656d4a8/image-03-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/23/c2/8d23c2f5-0582-2951-91fd-934dcc9e02e7/image-01-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/1d/6c/0f1d6ce4-b3ee-775a-baca-cf3d28ecc6da/image-09-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/21/53/c12153e4-6173-664d-6465-6a5e84b24c1e/image-04-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/69/07/ba690733-f928-e079-a88b-49a45e5b08ee/image-02-1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/d5/3e/b0d53e93-6798-435b-9354-83f348ccc91a/image-05-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/85/30/c7853014-85f4-2c63-f6c8-9355d117a2f9/image-08-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/5e/4e/635e4e01-9ca0-89ba-f1d3-bed03ce86032/image-07-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/e1/53/cfe153ca-b349-e18a-e021-e537c31ecbc5/image-03-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/23/37/00233704-eebf-27b5-9e55-ec4e4d1d31cf/image-01-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/99/3d/27993d37-fbe3-196a-a185-727470fc4e5f/image-09-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e8/6a/b0e86a63-080c-ed56-8f02-7cf502a9916c/image-04-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b3/46/fcb3461e-57b0-f37e-9e86-8826b2349f4d/image-02-2064x2752.png/360x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/56/94/7c5694c4-18d8-93a3-53a2-9011ad743af6/imagem-396x484.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/56/ed/c356edb9-538b-4fb3-2063-9d81ec2830f3/2.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/25/22/1c2522a0-a1e5-34e4-df8f-b9909ba28716/3.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/78/23/857823a1-5d5a-638a-1d03-9010eb1b2263/4.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/ae/c3/eaaec3db-263d-974d-0baf-f0c6219f50b9/5.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/30/f7/d430f7df-2f59-bfc2-39e0-02da9bae206b/8.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5b/9c/ef5b9ca4-12a3-06d5-caff-f927f1d6a13d/6.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/d6/7d0fd689-d219-e74d-708a-e70a2718c766/10.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/86/fa/8286fa6b-d610-9228-3d3f-dd1f858590e0/9.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/3a/d0/f63ad023-4e76-7f72-0dc2-cfa744111fb0/7.PNG/396x484bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "1.0.6",
+      "releaseNotes": "- Correção de bugs\n- Tratamentos na importação de modelos 3D\n- Melhorias nas configurações do App",
+      "seenAt": "2026-06-03T20:53:50Z"
+    },
+    {
+      "version": "1.0.7",
+      "releaseNotes": "- Novas funcionalidades na câmera do app\n- Melhorias visuais\n- Correção de bugs",
+      "seenAt": "2026-06-07T01:38:28Z"
+    },
+    {
+      "version": "1.0.8",
+      "releaseNotes": "- Incluído novos idiomas no app, totalizando 15 ao todo\n- Otimização do app para IPad/Mac\n- Correção de bugs e melhorias gerais",
+      "seenAt": "2026-06-07T19:02:52Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "- Melhorias gerais e correção de bugs\n- Ao registrar a captura, fica favoritado por padrão\n- Adicionado tutorial para os minigames, e tela de boas-vindas\n- Adicionado 18 Pets disponiveis para o app",
+      "seenAt": "2026-06-10T15:13:12Z"
+    },
+    {
+      "version": "1.1.2",
+      "releaseNotes": "- Novos Animas adicionados no app\n- Repaginação e melhorias gerais",
+      "seenAt": "2026-06-30T22:05:49Z"
+    },
+    {
+      "version": "1.1.3",
+      "releaseNotes": "- Melhorias gerais e correção de bugs\n- Funcionalidade para envio do Anima para o Watch\n- 7 novos minigames no app",
+      "seenAt": "2026-07-06T22:33:59Z"
+    },
+    {
+      "version": "1.1.4",
+      "releaseNotes": "- Melhorias gerais\n- Novo minigame: ANI-MA-OH!",
+      "seenAt": "2026-07-08T05:34:10Z"
+    },
+    {
+      "version": "1.1.5",
+      "releaseNotes": "- Correções gerais\n- Novos minigames no modo online\n- Novo minigame Music Hero",
+      "seenAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "version": "1.1.6",
+      "releaseNotes": "- Melhorias gerais\n- Novos minigames",
+      "seenAt": "2026-07-13T06:52:27Z"
+    },
+    {
+      "version": "1.1.8",
+      "releaseNotes": "- Melhorias gerais \n- Correções de bugs\n- Estabilidade do app",
+      "seenAt": "2026-07-15T16:03:39Z"
+    },
+    {
+      "version": "1.1.9",
+      "releaseNotes": "- Correção de bugs nos placares dos novos minigames\n- Melhorias gerais do app",
+      "seenAt": "2026-07-17T15:56:37Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "- Correções gerais\n- Melhorias no app\n- Novo pack de ícones nas opções",
+      "seenAt": "2026-07-19T23:48:47Z"
+    },
+    {
+      "version": "1.3.1",
+      "releaseNotes": "- Melhorias gerais\n- Nova tela de perfil\n- Funcionalidade de backup dos dados",
+      "seenAt": "2026-07-21T16:44:19Z"
+    },
+    {
+      "version": "1.3.2",
+      "releaseNotes": "- Melhorias gerais no app\n- Live preview dos minigames\n- Novos ícones no app",
+      "seenAt": "2026-07-23T18:08:36Z"
+    },
+    {
+      "version": "1.3.3",
+      "releaseNotes": "- Melhorias gerais\n- Nova seção de perfil do usuário",
+      "seenAt": "2026-07-25T20:48:09Z"
+    },
+    {
+      "version": "1.3.4",
+      "releaseNotes": "- Melhorias gerais\n- Correção de bugs",
+      "seenAt": "2026-07-26T22:25:12Z"
+    },
+    {
+      "version": "1.3.5",
+      "releaseNotes": "- Melhorias gerais\n- Novos ícones no app",
+      "seenAt": "2026-07-28T07:45:57Z"
+    },
+    {
+      "version": "1.3.6",
+      "releaseNotes": "- Melhorias gerais\n- Novos minigames",
+      "seenAt": "2026-08-04T06:37:51Z"
+    },
+    {
+      "version": "1.3.9",
+      "releaseNotes": "- Melhorias gerais\n- Correção de bugs\n- Novos minigames\n- Minigame 2048 para o Watch",
+      "seenAt": "2026-08-07T19:43:34Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "- Melhorias gerais\n- Novos minigames",
+      "seenAt": "2026-08-10T20:39:02Z"
+    },
+    {
+      "version": "1.4.1",
+      "releaseNotes": "- Melhorias gerais\n- Correção de bugs\n- Mais compatibilidade com joysticks\n- Novo minigame Munchy",
+      "seenAt": "2026-08-26T22:28:46Z"
+    },
+    {
+      "version": "1.4.2",
+      "releaseNotes": "- Melhorias gerais\n- Nova funcionalidade de mailbox\n- Novos Animas\n- Otimização no desempenho do jogo",
+      "seenAt": "2026-09-01T22:00:22Z"
+    },
+    {
+      "version": "1.4.3",
+      "releaseNotes": "- Melhoria gerais e otimização\n- Multiplayer local para até 4 jogadores",
+      "seenAt": "2026-09-15T21:18:23Z"
+    },
+    {
+      "version": "1.4.4",
+      "releaseNotes": "- Otimização do processo de importar e exportar\n- Compatibilidade para importar e exportar via wifi para console/pc/tv",
+      "seenAt": "2026-09-18T23:09:51Z"
+    },
+    {
+      "version": "1.4.5",
+      "releaseNotes": "- Melhorias gerais\n- Otimização do jogo",
+      "seenAt": "2026-09-22T18:56:52Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T11:42:40.010Z",
+  "isOwnApp": false
+}

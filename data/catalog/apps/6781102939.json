@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Iron Maze - Watch Maze",
       "description": "Roll the silver ball through 15 mazes using nothing but the tilt of your wrist. One wrong move into a wall and it's over — how far can you get?\n\nIron Maze is built for Apple Watch and controlled entirely by motion. Pick your challenge on iPhone, then play on your wrist.\n\nGAME MODES\n• Competitive — 3 lives, deadly walls. The classic test of nerve. (Free)\n• Fun — unlimited lives, walls just bounce. Pure, relaxed play. (Pro)\n• Speed — a timed race to your chosen level. Beat the clock. (Pro)\n• Compete — records your run so you can replay it on iPhone and share it with friends. (Pro)\n\nPOWER-UPS\n• Extra life\n• Slow-down\n• Instant level skip\n\nFEATURES\n• 15 levels with a smooth difficulty curve\n• Adjustable ball sensitivity from your iPhone\n• Tap-to-start between levels — no cheap deaths\n• Designed for every Apple Watch size\n\nFree to download and play Competitive mode. Unlock Fun, Speed, and Compete modes forever with a single Iron Maze Pro purchase.",
-      "releaseNotes": "Now confirms Iron Maze is installed on your Apple Watch — with setup steps if it isn't.",
+      "releaseNotes": "updated for performance and stability",
       "trackViewUrl": "https://apps.apple.com/us/app/iron-maze-watch-maze/id6781102939?uo=4",
       "formattedPrice": "Free",
       "sellerName": "CHRISTOPHER SCOTT BANKS",
@@ -22,7 +22,7 @@
     "ja": {
       "trackName": "Iron Maze - Watch Maze",
       "description": "Roll the silver ball through 15 mazes using nothing but the tilt of your wrist. One wrong move into a wall and it's over — how far can you get?\n\nIron Maze is built for Apple Watch and controlled entirely by motion. Pick your challenge on iPhone, then play on your wrist.\n\nGAME MODES\n• Competitive — 3 lives, deadly walls. The classic test of nerve. (Free)\n• Fun — unlimited lives, walls just bounce. Pure, relaxed play. (Pro)\n• Speed — a timed race to your chosen level. Beat the clock. (Pro)\n• Compete — records your run so you can replay it on iPhone and share it with friends. (Pro)\n\nPOWER-UPS\n• Extra life\n• Slow-down\n• Instant level skip\n\nFEATURES\n• 15 levels with a smooth difficulty curve\n• Adjustable ball sensitivity from your iPhone\n• Tap-to-start between levels — no cheap deaths\n• Designed for every Apple Watch size\n\nFree to download and play Competitive mode. Unlock Fun, Speed, and Compete modes forever with a single Iron Maze Pro purchase.",
-      "releaseNotes": "Now confirms Iron Maze is installed on your Apple Watch — with setup steps if it isn't.",
+      "releaseNotes": "updated for performance and stability",
       "trackViewUrl": "https://apps.apple.com/jp/app/iron-maze-watch-maze/id6781102939?uo=4",
       "formattedPrice": "無料",
       "sellerName": "CHRISTOPHER SCOTT BANKS",
@@ -37,7 +37,7 @@
     "de": {
       "trackName": "Iron Maze - Watch Maze",
       "description": "Roll the silver ball through 15 mazes using nothing but the tilt of your wrist. One wrong move into a wall and it's over — how far can you get?\n\nIron Maze is built for Apple Watch and controlled entirely by motion. Pick your challenge on iPhone, then play on your wrist.\n\nGAME MODES\n• Competitive — 3 lives, deadly walls. The classic test of nerve. (Free)\n• Fun — unlimited lives, walls just bounce. Pure, relaxed play. (Pro)\n• Speed — a timed race to your chosen level. Beat the clock. (Pro)\n• Compete — records your run so you can replay it on iPhone and share it with friends. (Pro)\n\nPOWER-UPS\n• Extra life\n• Slow-down\n• Instant level skip\n\nFEATURES\n• 15 levels with a smooth difficulty curve\n• Adjustable ball sensitivity from your iPhone\n• Tap-to-start between levels — no cheap deaths\n• Designed for every Apple Watch size\n\nFree to download and play Competitive mode. Unlock Fun, Speed, and Compete modes forever with a single Iron Maze Pro purchase.",
-      "releaseNotes": "Now confirms Iron Maze is installed on your Apple Watch — with setup steps if it isn't.",
+      "releaseNotes": "updated for performance and stability",
       "trackViewUrl": "https://apps.apple.com/de/app/iron-maze-watch-maze/id6781102939?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "CHRISTOPHER SCOTT BANKS",
@@ -50,15 +50,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/d9/94/ded9949f-1d46-eef2-5b64-03b67af5c390/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/e1/2d/35e12dc5-0624-0b4e-feab-e46f945eaac1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "4164608",
+  "fileSizeBytes": "9133056",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.2",
-  "currentVersionReleaseDate": "2026-07-17T18:45:51Z",
+  "version": "1.3",
+  "currentVersionReleaseDate": "2026-10-15T00:02:19Z",
   "releaseDate": "2026-07-12T07:00:00Z",
   "artistId": 6781103091,
   "artistName": "CHRISTOPHER SCOTT BANKS",
@@ -224,8 +224,13 @@
       "version": "1.2",
       "releaseNotes": "Now confirms Iron Maze is installed on your Apple Watch — with setup steps if it isn't.",
       "seenAt": "2026-07-17T18:45:51Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "updated for performance and stability ",
+      "seenAt": "2026-10-15T00:02:19Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:21:20.004Z",
+  "updatedAt": "2026-10-15T11:58:14.114Z",
   "isOwnApp": false
 }

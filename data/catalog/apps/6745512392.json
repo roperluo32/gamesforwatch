@@ -1,14 +1,14 @@
 {
   "trackId": "6745512392",
   "bundleId": "com.hemal.WristPacMan",
-  "slug": "watch-dash-maze-arcade",
-  "path": "/apps/6745512392-watch-dash-maze-arcade/",
+  "slug": "maze-dash-watch-arcade",
+  "path": "/apps/6745512392-maze-dash-watch-arcade/",
   "locales": {
     "en": {
-      "trackName": "Watch - Dash: Maze Arcade",
-      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Now available in Spanish.\nImproved for UK, Australian and Canadian users.\nSmall fixes and polish.",
-      "trackViewUrl": "https://apps.apple.com/us/app/watch-dash-maze-arcade/id6745512392?uo=4",
+      "trackName": "Maze Dash: Watch Arcade",
+      "description": "Maze Dash is a maze arcade game for Apple Watch. Swipe or turn the Digital Crown to guide your hero through the maze, gobble dots, dodge ghosts, and grab power-ups to chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements, compete with friends, difficulty by difficulty\n• Siri support, say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard, no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions, perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "New name: Maze Dash: Watch Arcade.\nRefreshed App Store screenshots and description.\nBuilt with Xcode 27.1.",
+      "trackViewUrl": "https://apps.apple.com/us/app/maze-dash-watch-arcade/id6745512392?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -20,13 +20,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Retro Ghost Chase + Siri Play"
+      "subtitle": "Retro Ghost Chase with Siri"
     },
     "ja": {
-      "trackName": "Watch - Dash: Maze Arcade",
-      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Now available in Spanish.\nImproved for UK, Australian and Canadian users.\nSmall fixes and polish.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/watch-dash-maze-arcade/id6745512392?uo=4",
+      "trackName": "Maze Dash: Watch Arcade",
+      "description": "Maze Dash is a maze arcade game for Apple Watch. Swipe or turn the Digital Crown to guide your hero through the maze, gobble dots, dodge ghosts, and grab power-ups to chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements, compete with friends, difficulty by difficulty\n• Siri support, say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard, no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions, perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "New name: Maze Dash: Watch Arcade.\nRefreshed App Store screenshots and description.\nBuilt with Xcode 27.1.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/maze-dash-watch-arcade/id6745512392?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -41,10 +41,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Watch - Dash: Maze Arcade",
-      "description": "Chomp your way through a classic maze arcade game — right on your wrist! Swipe (or turn the Digital Crown) to guide your hero, gobble dots, dodge ghosts, and grab power-ups to turn the tables and chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements — compete with friends, difficulty by difficulty\n• Siri support — say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard — no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions — perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
-      "releaseNotes": "Now available in Spanish.\nImproved for UK, Australian and Canadian users.\nSmall fixes and polish.",
-      "trackViewUrl": "https://apps.apple.com/de/app/watch-dash-maze-arcade/id6745512392?uo=4",
+      "trackName": "Maze Dash: Watch Arcade",
+      "description": "Maze Dash is a maze arcade game for Apple Watch. Swipe or turn the Digital Crown to guide your hero through the maze, gobble dots, dodge ghosts, and grab power-ups to chase them back for a new high score.\n\nNEW in this update:\n• Game Center leaderboards and achievements, compete with friends, difficulty by difficulty\n• Siri support, say \"Play Watch - Dash\" for a new run, or ask for your best score, hands-free\n• A hand-drawn, living new look, with playful ambient touches throughout\n• Digital Crown control, on top of swipe steering\n\nFeatures:\nIntuitive swipe and Digital Crown controls\nClassic maze layout and dot-chomping gameplay\nPower-up mode: turn the tables and chase the ghosts!\nEasy / Normal / Fast speed picker, each with its own best score\nGame Center leaderboards and achievements, plus a full on-device leaderboard, no sign-in required\nAnimated, colorful graphics and smooth performance\nHaptic feedback for immersive play\nQuick, fun sessions, perfect for on-the-go gaming\n\nWhether you're a retro arcade fan or new to maze games, Watch - Dash is the perfect way to relive the fun, anytime, anywhere.",
+      "releaseNotes": "New name: Maze Dash: Watch Arcade.\nRefreshed App Store screenshots and description.\nBuilt with Xcode 27.1.",
+      "trackViewUrl": "https://apps.apple.com/de/app/maze-dash-watch-arcade/id6745512392?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e0/2e/05e02e95-f6b5-40db-914b-95553572167a/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/56/d5/3a56d588-596e-efce-211f-0b781fc1b5ec/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
   "fileSizeBytes": "5240832",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.3",
-  "currentVersionReleaseDate": "2026-09-30T18:16:30Z",
+  "version": "1.3.1",
+  "currentVersionReleaseDate": "2026-10-14T13:00:43Z",
   "releaseDate": "2025-06-18T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -251,8 +251,13 @@
       "version": "1.3",
       "releaseNotes": "Now available in Spanish.\nImproved for UK, Australian and Canadian users.\nSmall fixes and polish.",
       "seenAt": "2026-09-30T18:16:30Z"
+    },
+    {
+      "version": "1.3.1",
+      "releaseNotes": "New name: Maze Dash: Watch Arcade.\nRefreshed App Store screenshots and description.\nBuilt with Xcode 27.1.",
+      "seenAt": "2026-10-14T13:00:43Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:17:21.908Z",
+  "updatedAt": "2026-10-15T11:54:16.620Z",
   "isOwnApp": false
 }

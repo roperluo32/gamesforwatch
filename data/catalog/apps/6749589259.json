@@ -62,7 +62,7 @@
   "minimumOsVersion": "15.0",
   "version": "2.0.2",
   "currentVersionReleaseDate": "2026-10-05T03:10:49Z",
-  "releaseDate": "2025-08-06T07:00:00Z",
+  "releaseDate": "2026-09-23T07:00:00Z",
   "artistId": 829724783,
   "artistName": "Kostya Blokhin",
   "artistViewUrl": "https://apps.apple.com/de/developer/kostya-blokhin/id829724783?uo=4",
@@ -235,6 +235,6 @@
       "seenAt": "2026-10-05T03:10:49Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:15:06.362Z",
+  "updatedAt": "2026-10-15T11:45:09.673Z",
   "isOwnApp": false
 }

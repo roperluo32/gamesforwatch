@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/02/1c/74021c58-7db6-8de3-0764-afa0b6320c6a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/22/94/d62294f7-2d2b-c370-378e-63bd0ade1dbc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "57639936",
+  "fileSizeBytes": "62480384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.2.4",
-  "currentVersionReleaseDate": "2026-09-01T21:48:48Z",
+  "version": "2.0.0",
+  "currentVersionReleaseDate": "2026-10-13T16:59:54Z",
   "releaseDate": "2026-01-28T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -238,6 +238,14 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/c8/c4/bec8c42b-f23a-4ee3-173b-dc116afbedfd/ipx_1.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/5d/cd/e95dcde7-ecbb-0fbc-fb51-a82ba3119fa8/ip2.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/12/41/ae124104-39b5-584c-84f2-4d1d3fa67342/ip5.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/59/5b/32595bc0-5451-a254-6f1a-cc73969ca7c9/ipx_4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/1a/bd/1d1abd92-f099-df18-5b35-778248544c16/ip3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/c8/c4/bec8c42b-f23a-4ee3-173b-dc116afbedfd/ipx_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/5d/cd/e95dcde7-ecbb-0fbc-fb51-a82ba3119fa8/ip2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/12/41/ae124104-39b5-584c-84f2-4d1d3fa67342/ip5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/fc/1c/effc1c56-aa1d-9099-ece2-09b8a81ab4ae/ipad_4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/60/95/ec6095ff-054f-6875-d1b8-1a1d8d96de45/ipad_2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/9e/07/e99e07b7-33e9-d6b2-28a8-899be5acb1fb/ipad_3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/48/3e/aa483e5d-e5d0-41c7-0021-34899bbbada7/ipx_4.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/22/65/1f226578-49b4-4316-a1fa-ad6d23b85b70/ip3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/7a/ca/2c7aca75-a56c-6430-a11b-eceda4285286/ipx_1.png/320x480bb.jpg",
@@ -378,6 +386,6 @@
       "seenAt": "2026-10-13T16:59:54Z"
     }
   ],
-  "updatedAt": "2026-10-14T11:45:30.774Z",
+  "updatedAt": "2026-10-15T11:22:26.333Z",
   "isOwnApp": false
 }

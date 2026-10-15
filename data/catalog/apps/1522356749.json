@@ -1,14 +1,14 @@
 {
   "trackId": "1522356749",
   "bundleId": "com.modi.TikTacToe",
-  "slug": "tiktoctoe",
-  "path": "/apps/1522356749-tiktoctoe/",
+  "slug": "tiktoctoe-tic-tac-toe",
+  "path": "/apps/1522356749-tiktoctoe-tic-tac-toe/",
   "locales": {
     "en": {
-      "trackName": "TikTocToe",
-      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
-      "trackViewUrl": "https://apps.apple.com/us/app/tiktoctoe/id1522356749?uo=4",
+      "trackName": "TikTocToe: Tic Tac Toe",
+      "description": "TikTocToe is a Tic Tac Toe game for Apple Watch. Play a quick 3x3 round against the Coach on Easy or Hard, right on your wrist, with no account and no phone needed.\n\nAfter every game your Coach adds a short, kind line and a hand-drawn card that matches the result: a calm ring for a win, a busy braid when the Coach takes it, a morphing square for a draw.\n\nWHAT'S IN TIKTOCTOE\n- Classic 3x3 Tic Tac Toe, built for a quick round on your wrist\n- Easy and Hard opponents, tap to switch anytime\n- Fully offline, no account needed\n- A Coach with kind, playful commentary after every result, available even without a phone nearby\n- Ask Siri: \"Play Tic Tac Toe\" to start a fresh round, or \"Ask the coach for a tip\" for quick strategy\n- A hand-drawn look across the board and results\n- Your win, loss and draw stats, kept on your wrist and resettable anytime\n\nTikTocToe installs straight to your wrist. Just enjoy a calmer, better-looking round of the game you already know.",
+      "releaseNotes": "Refreshed screenshots and App Store details, built with Xcode 27.1.\nThe game, the Coach and your stats are unchanged.",
+      "trackViewUrl": "https://apps.apple.com/us/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -19,13 +19,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Offline Two-Player Strategy"
+      "subtitle": "Wrist Game, Coach Tips"
     },
     "ja": {
-      "trackName": "TikTocToe",
-      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/tiktoctoe/id1522356749?uo=4",
+      "trackName": "TikTocToe: Tic Tac Toe",
+      "description": "TikTocToe is a Tic Tac Toe game for Apple Watch. Play a quick 3x3 round against the Coach on Easy or Hard, right on your wrist, with no account and no phone needed.\n\nAfter every game your Coach adds a short, kind line and a hand-drawn card that matches the result: a calm ring for a win, a busy braid when the Coach takes it, a morphing square for a draw.\n\nWHAT'S IN TIKTOCTOE\n- Classic 3x3 Tic Tac Toe, built for a quick round on your wrist\n- Easy and Hard opponents, tap to switch anytime\n- Fully offline, no account needed\n- A Coach with kind, playful commentary after every result, available even without a phone nearby\n- Ask Siri: \"Play Tic Tac Toe\" to start a fresh round, or \"Ask the coach for a tip\" for quick strategy\n- A hand-drawn look across the board and results\n- Your win, loss and draw stats, kept on your wrist and resettable anytime\n\nTikTocToe installs straight to your wrist. Just enjoy a calmer, better-looking round of the game you already know.",
+      "releaseNotes": "Refreshed screenshots and App Store details, built with Xcode 27.1.\nThe game, the Coach and your stats are unchanged.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -39,10 +39,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "TikTocToe",
-      "description": "TikTocToe is the classic Tic Tac Toe grid game for Apple Watch, built for quick offline strategy matches. Pass and play with a friend or challenge your watch, then screenshot your win streak to share and see who can beat the high score.\n\nNext time never get boring when you have this game. Get your toe or finger working.!! Take a screenshot and share it with friends to show how you can beat watch. showcase your high score so that you can always challenge yourself. or you can reset your data to play as a fresh. \nTry to beat your watch in the Tic Tac Toe game.",
-      "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
-      "trackViewUrl": "https://apps.apple.com/de/app/tiktoctoe/id1522356749?uo=4",
+      "trackName": "TikTocToe: Tic Tac Toe",
+      "description": "TikTocToe is a Tic Tac Toe game for Apple Watch. Play a quick 3x3 round against the Coach on Easy or Hard, right on your wrist, with no account and no phone needed.\n\nAfter every game your Coach adds a short, kind line and a hand-drawn card that matches the result: a calm ring for a win, a busy braid when the Coach takes it, a morphing square for a draw.\n\nWHAT'S IN TIKTOCTOE\n- Classic 3x3 Tic Tac Toe, built for a quick round on your wrist\n- Easy and Hard opponents, tap to switch anytime\n- Fully offline, no account needed\n- A Coach with kind, playful commentary after every result, available even without a phone nearby\n- Ask Siri: \"Play Tic Tac Toe\" to start a fresh round, or \"Ask the coach for a tip\" for quick strategy\n- A hand-drawn look across the board and results\n- Your win, loss and draw stats, kept on your wrist and resettable anytime\n\nTikTocToe installs straight to your wrist. Just enjoy a calmer, better-looking round of the game you already know.",
+      "releaseNotes": "Refreshed screenshots and App Store details, built with Xcode 27.1.\nThe game, the Coach and your stats are unchanged.",
+      "trackViewUrl": "https://apps.apple.com/de/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hemal Modi",
       "genres": [
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/59/5d/a4595d5e-6d20-b226-7030-a5696c1e19f0/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3b/29/573b2927-ba23-cbe2-6f73-08c0f37296c0/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "3857408",
+  "fileSizeBytes": "4385792",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "2.3",
-  "currentVersionReleaseDate": "2026-09-15T23:21:59Z",
+  "version": "2.4.1",
+  "currentVersionReleaseDate": "2026-10-15T00:44:55Z",
   "releaseDate": "2020-08-15T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -207,6 +207,16 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/1b/fb/9b1bfbad-0cad-96a9-d44c-175751c7407b/01_board.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/12/c1/4212c1c3-4013-beb9-4d98-801898cc4220/02_lose.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/fa/e4/ddfae452-409b-9728-9d89-e56cdc43d7fa/03_win.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/29/14/4f2914b7-b5a1-3a56-d0c8-994454576c3b/04_twoinrow.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/9e/c9/b79ec9bc-0a58-f9bc-f660-28ce6e742498/05_hard.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/46/44/bf4644c8-b319-7775-17e6-7feac32a290b/06_easy.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/60/18/6560181e-7a8f-523d-42f9-758b6bd23399/07_thinking.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/4f/7c/e94f7cbc-4890-5302-a52f-f9e952cf29ee/08_draw.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/11/d8/5611d808-4f1c-5e0e-597c-c8a3732db4d1/09_stats.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/1c/48/141c4837-0427-cc1c-df4e-ea37b121bfa0/10_rematch.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/69/1c/05691c07-5e80-04b7-8dff-c523a77ef5bc/tns.snpzkgmb.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/57/fe/f5/57fef55e-24fb-1dba-4e8e-54a2a1287809/0befbd70-bc7a-4106-93aa-292d4e2bdb07_Simulator_Screen_Shot_-_Apple_Watch_Series_6_-_44mm_-_2020-12-06_at_08.20.04.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/14/bc/de/14bcdee5-4148-639a-42dd-3882a20b7fd4/tns.hikrymko.png/368x448bb.png",
@@ -293,8 +303,18 @@
       "version": "2.3",
       "releaseNotes": "Pick your opponent: a new Easy/Hard button on the board lets you choose how sharply the watch plays.\nDrawn games are now counted in the scoreboard alongside your wins and losses.\nBuilt with the latest watchOS SDK for Apple Watch.",
       "seenAt": "2026-09-15T23:21:59Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "TikTocToe has a new look and a new friend.\n\n- Meet your Coach: kind, playful banter after every round, with its own hand-drawn card and a living, animated mood that matches the result.\n- Fresh hand-drawn design with a roomier, easier-to-read board.\n- Ask Siri: \"Play Tic Tac Toe\" to start a new round, or \"Ask the coach for a tip\" for quick strategy, right from your wrist.\n- Smoother Easy/Hard play, the same stats you've already built up, and a few small bug fixes.",
+      "seenAt": "2026-10-07T21:56:02Z"
+    },
+    {
+      "version": "2.4.1",
+      "releaseNotes": "Refreshed screenshots and App Store details, built with Xcode 27.1.\nThe game, the Coach and your stats are unchanged.",
+      "seenAt": "2026-10-15T00:44:55Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:18:07.051Z",
+  "updatedAt": "2026-10-15T11:55:05.112Z",
   "isOwnApp": false
 }

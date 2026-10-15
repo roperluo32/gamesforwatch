@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tiny Siege Desktop Defense",
       "description": "Build a tiny fortress on your desk and stop the siege before the toy army reaches your flag.\n\nTiny Siege Desktop Defense is a tactile tower defense game built around readable battlefield choices: place dart towers, shields, traps, slows, and launchers, then watch animated waves push in from multiple edges of the desk. When a plan fails, the game explains what broke so you can rebuild smarter and try again.\n\nPlay the opening campaign free, learn how each defense changes the route, chase better scores, and return for Daily Siege challenges. Full Toy Box unlocks campaign levels 7-15, Daily Siege, and Chaos difficulty. Launch Toy Skins adds cosmetic-only desk and toy themes with no gameplay advantage.\n\nDesigned for iPhone and iPad in landscape, with sound controls, reduced-motion support, Game Center-ready scoring, and a compact interface built for fast retries.",
-      "releaseNotes": "This update prepares the Full Toy Box gameplay unlock and Launch Toy Skins cosmetic pack for App Store availability.",
+      "releaseNotes": "A respectful App Store review prompt can now appear after you've completed several successful sieges. It waits for a quiet break and stays infrequent.",
       "trackViewUrl": "https://apps.apple.com/us/app/tiny-siege-desktop-defense/id6781856129?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Rob Rightmyer",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "Tiny Siege Desktop Defense",
       "description": "Build a tiny fortress on your desk and stop the siege before the toy army reaches your flag.\n\nTiny Siege Desktop Defense is a tactile tower defense game built around readable battlefield choices: place dart towers, shields, traps, slows, and launchers, then watch animated waves push in from multiple edges of the desk. When a plan fails, the game explains what broke so you can rebuild smarter and try again.\n\nPlay the opening campaign free, learn how each defense changes the route, chase better scores, and return for Daily Siege challenges. Full Toy Box unlocks campaign levels 7-15, Daily Siege, and Chaos difficulty. Launch Toy Skins adds cosmetic-only desk and toy themes with no gameplay advantage.\n\nDesigned for iPhone and iPad in landscape, with sound controls, reduced-motion support, Game Center-ready scoring, and a compact interface built for fast retries.",
-      "releaseNotes": "This update prepares the Full Toy Box gameplay unlock and Launch Toy Skins cosmetic pack for App Store availability.",
+      "releaseNotes": "A respectful App Store review prompt can now appear after you've completed several successful sieges. It waits for a quiet break and stays infrequent.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tiny-siege-desktop-defense/id6781856129?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Rob Rightmyer",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "Tiny Siege Desktop Defense",
       "description": "Build a tiny fortress on your desk and stop the siege before the toy army reaches your flag.\n\nTiny Siege Desktop Defense is a tactile tower defense game built around readable battlefield choices: place dart towers, shields, traps, slows, and launchers, then watch animated waves push in from multiple edges of the desk. When a plan fails, the game explains what broke so you can rebuild smarter and try again.\n\nPlay the opening campaign free, learn how each defense changes the route, chase better scores, and return for Daily Siege challenges. Full Toy Box unlocks campaign levels 7-15, Daily Siege, and Chaos difficulty. Launch Toy Skins adds cosmetic-only desk and toy themes with no gameplay advantage.\n\nDesigned for iPhone and iPad in landscape, with sound controls, reduced-motion support, Game Center-ready scoring, and a compact interface built for fast retries.",
-      "releaseNotes": "This update prepares the Full Toy Box gameplay unlock and Launch Toy Skins cosmetic pack for App Store availability.",
+      "releaseNotes": "A respectful App Store review prompt can now appear after you've completed several successful sieges. It waits for a quiet break and stays infrequent.",
       "trackViewUrl": "https://apps.apple.com/de/app/tiny-siege-desktop-defense/id6781856129?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Rob Rightmyer",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/94/3e/40943e72-8bac-a6e9-67b6-0d4d6d618a75/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8c/2d/218c2db3-799a-7a2f-f37b-3f1897c3c641/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "170094592",
+  "fileSizeBytes": "170168320",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.1.2",
-  "currentVersionReleaseDate": "2026-10-10T20:27:27Z",
+  "version": "1.1.3",
+  "currentVersionReleaseDate": "2026-10-14T16:49:17Z",
   "releaseDate": "2026-06-24T07:00:00Z",
   "artistId": 285332279,
   "artistName": "Rob Rightmyer",
@@ -288,8 +288,13 @@
       "version": "1.1.2",
       "releaseNotes": "This update prepares the Full Toy Box gameplay unlock and Launch Toy Skins cosmetic pack for App Store availability.",
       "seenAt": "2026-10-10T20:27:27Z"
+    },
+    {
+      "version": "1.1.3",
+      "releaseNotes": "A respectful App Store review prompt can now appear after you've completed several successful sieges. It waits for a quiet break and stays infrequent.",
+      "seenAt": "2026-10-14T16:49:17Z"
     }
   ],
-  "updatedAt": "2026-10-14T12:16:25.460Z",
+  "updatedAt": "2026-10-15T11:53:14.713Z",
   "isOwnApp": false
 }

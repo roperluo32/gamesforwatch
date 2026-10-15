@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f9/7c/11f97cf7-c16b-6220-b96f-c3cc2d29c715/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/7e/e5/457ee5f9-3688-4678-e566-6feb6e8cc1f7/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77778,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "80891904",
+  "fileSizeBytes": "81047552",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.6.0",
-  "currentVersionReleaseDate": "2026-10-12T18:08:59Z",
+  "version": "2.7.0",
+  "currentVersionReleaseDate": "2026-10-14T22:35:14Z",
   "releaseDate": "2022-11-30T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -441,8 +441,13 @@
       "version": "2.6.0",
       "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "seenAt": "2026-10-12T18:08:59Z"
+    },
+    {
+      "version": "2.7.0",
+      "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "seenAt": "2026-10-14T22:35:14Z"
     }
   ],
-  "updatedAt": "2026-10-14T11:43:52.002Z",
+  "updatedAt": "2026-10-15T11:21:37.566Z",
   "isOwnApp": false
 }
