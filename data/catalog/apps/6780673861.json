@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "1. Smoother wrist experience and easier interactions\n2. Polished content and interface details\n3. Bug fixes for a more stable experience",
+      "releaseNotes": "1.Watch Marbles: new four-season themes\n2.Added a new game\n3.Fixed assorted issues",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1. 优化手腕上的使用体验，操作更顺手\n2. 完善部分内容与界面细节\n3. 修复已知问题，使用更稳定",
+      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1. 优化手腕上的使用体验，操作更顺手\n2. 完善部分内容与界面细节\n3. 修复已知问题，使用更稳定",
+      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1. 优化手腕上的使用体验，操作更顺手\n2. 完善部分内容与界面细节\n3. 修复已知问题，使用更稳定",
+      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/36/fb/6736fbc1-236c-a01e-cdcb-45b413455e5a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/fe/96/77fe9635-90ff-ccd2-6717-a0d51b412490/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "74046464",
+  "fileSizeBytes": "81857536",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.20",
-  "currentVersionReleaseDate": "2026-10-12T13:03:26Z",
+  "version": "1.0.21",
+  "currentVersionReleaseDate": "2026-10-15T14:54:53Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -227,15 +227,21 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/87/ec/bf87ecbc-80da-8a80-07a0-6e2f1179fa17/Screenshot_iPhone_Duo_2026-10-14_at_06.25.00.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a3/32/6ca3326d-6ebd-feba-2d98-ac4aaa3c2b6f/Screenshot_iPhone_Duo_2026-10-14_at_06.25.09.png/2007x2853bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/8e/70/9f8e707a-23e2-4d83-cb53-eba2738f55ed/duo_outer_home.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/8d/67/e18d67ec-2e1d-733a-14ef-5cb6c9a67c03/JtaanVcy.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/6d/35/b26d35b1-4ead-6032-7e03-f18ab3a3bb72/p41Rtngb.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/39/92/34399206-68f9-6d03-897d-5aa231c0e526/Screenshot_iPhone_Air_2026-09-24_at_08.21.28.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/4d/62/ca4d6265-aea8-5c7b-a113-9e724d7f14c1/zFdfUYa1.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/04/5b/c8045be8-ae23-9905-643b-83ecafd5f674/DGxpCNQo.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/62/29/4a62297a-2ce5-4ee3-564e-09ddbaa4afe9/Screenshot_iPhone_Air_2026-09-24_at_08.19.36.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/ae/c3/0eaec330-b060-adeb-f205-71b6499b0971/zFdfUYa1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/cb/ca/97cbcaac-8c98-9b2e-8a6e-130595e4f934/DGxpCNQo.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/6e/04/066e04fe-5f87-c8ad-844e-92e6cb87be10/Screenshot_iPhone_Air_2026-09-24_at_08.19.36.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/8d/67/e18d67ec-2e1d-733a-14ef-5cb6c9a67c03/JtaanVcy.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/6d/35/b26d35b1-4ead-6032-7e03-f18ab3a3bb72/p41Rtngb.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/39/92/34399206-68f9-6d03-897d-5aa231c0e526/Screenshot_iPhone_Air_2026-09-24_at_08.21.28.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/4d/62/ca4d6265-aea8-5c7b-a113-9e724d7f14c1/zFdfUYa1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/04/5b/c8045be8-ae23-9905-643b-83ecafd5f674/DGxpCNQo.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/62/29/4a62297a-2ce5-4ee3-564e-09ddbaa4afe9/Screenshot_iPhone_Air_2026-09-24_at_08.19.36.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/4d/5a/b94d5a0a-1878-3efb-7fb6-f1945d2b7348/8U8VrGbs.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/d4/d1/7cd4d1fc-5318-cc07-b519-6d54106aa4db/promo-04-en-1242x2688.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/f0/a8/30f0a83f-7518-02fb-c69d-cf4380abe8f6/ilPYNeIR.png/1242x2688bb.png",
@@ -375,8 +381,13 @@
       "version": "1.0.20",
       "releaseNotes": "1. Smoother wrist experience and easier interactions\n2. Polished content and interface details\n3. Bug fixes for a more stable experience",
       "seenAt": "2026-10-12T13:03:26Z"
+    },
+    {
+      "version": "1.0.21",
+      "releaseNotes": "1.Watch Marbles: new four-season themes\n2.Added a new game\n3.Fixed assorted issues",
+      "seenAt": "2026-10-15T14:54:53Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:53:02.057Z",
+  "updatedAt": "2026-10-16T11:50:09.732Z",
   "isOwnApp": false
 }

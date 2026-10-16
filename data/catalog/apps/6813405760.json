@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Chess Hall: Watch Games",
       "description": "Wrist Chess Hall is an offline board game collection designed for iPhone, iPad, and Apple Watch.\nStep into a watercolor-inspired game hall and choose from four classic games:\n• Chinese Chess: Casual rules with check, horse-leg, elephant-eye, cannon-screen, palace, and river rules.\n• Gomoku: Play on 9×9 or 13×13 boards.\n• Reversi: Choose 6×6 or 8×8 boards with automatic pass handling.\n• Tic-Tac-Toe: A quick game for a short break.\nThe app includes:\n• Offline games against the computer\n• Beginner, Advanced, and Challenge difficulty levels\n• Two-player games on one device\n• First-player and second-player options\n• Full-screen board layout on Apple Watch\n• Automatic save and resume\n• Undo, hints, move confirmation, and legal move hints\n• Sound effects and haptic feedback\n• No account, ads, or internet connection required\nGames are stored locally on the current device. iPhone and Apple Watch keep separate saved games.\nWhat’s New\nFirst release: Chinese Chess, Gomoku, Reversi, and Tic-Tac-Toe with offline play on iPhone, iPad, and Apple Watch.",
-      "releaseNotes": "Introducing Flip Chess II! Stack matching pieces of your own color to increase their rank. Original piece symbols remain visible with layered visuals and clear stack counts.\nSplit one piece from a stack onto an adjacent empty square. Stacking and splitting each take one turn. Enjoy AI opponents, autosave and undo.\nThe original Flip Chess is now Flip Chess I. Its classic rules and existing saved games remain available.\nStart a new game instantly without a confirmation prompt. The previous saved match for that game type is replaced.",
+      "releaseNotes": "Introducing Junqi, a classic military strategy board game with open pieces, offline AI and two-player play on one device.\nDeploy your army, travel along railways, clear mines with engineers, shelter in camps and capture the enemy flag.\nEnjoy new pixel-style fire and smoke effects during battles, with gentle expansion and fading.\nIncludes undo, saved games and three AI difficulty levels. Available on iPhone, iPad and Apple Watch in nine languages.",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-chess-hall-watch-games/id6813405760?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -30,7 +30,7 @@
     "zh": {
       "trackName": "腕上棋馆-手表棋类合集",
       "description": "腕上棋馆是一款专为 iPhone、iPad 和 Apple Watch 设计的离线棋类游戏。\n在水彩古巷风格的棋馆中，选择你喜欢的棋类，开始一局轻松对弈：\n• 中国象棋：休闲规则，支持将军、马腿、象眼、炮架、九宫和河界等规则。\n• 五子棋：支持 9×9 和 13×13 棋盘。\n• 黑白棋：支持 6×6 和 8×8 棋盘，自动处理无棋可下的情况。\n• 井字棋：简单快速，适合随时来一局。",
-      "releaseNotes": "新增「翻棋Ⅱ」：同色同类棋子可叠加提升等级，保留原棋子字样，呈现立体层叠效果。\n支持自由拆分：每次拆出一枚棋子至相邻空格，叠加和拆分各占一回合。支持人机对弈、自动存档和悔棋。\n原「翻棋」更名为「翻棋Ⅰ」，保留经典玩法及已有存档。\n开局更便捷：点击“开始新对局”直接替换该棋种的旧对局，无需再次确认。",
+      "releaseNotes": "新增「军棋」，支持明棋对弈、离线 AI 和同机双人。\n加入布阵、铁路行军、工兵排雷、行营保护与夺旗获胜玩法。\n军棋吃子、同级同归及炸弹交战新增像素火光与烟雾动画，缓慢扩散并渐隐。\n支持悔棋、自动保存续局和三档 AI 难度，适配 iPhone、iPad 与 Apple Watch，提供九种语言。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E4%B8%8A%E6%A3%8B%E9%A6%86-%E6%89%8B%E8%A1%A8%E6%A3%8B%E7%B1%BB%E5%90%88%E9%9B%86/id6813405760?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "Wrist Chess Hall: Watch Games",
       "description": "Wrist Chess Hall is an offline board game collection designed for iPhone, iPad, and Apple Watch.\nStep into a watercolor-inspired game hall and choose from four classic games:\n• Chinese Chess: Casual rules with check, horse-leg, elephant-eye, cannon-screen, palace, and river rules.\n• Gomoku: Play on 9×9 or 13×13 boards.\n• Reversi: Choose 6×6 or 8×8 boards with automatic pass handling.\n• Tic-Tac-Toe: A quick game for a short break.\nThe app includes:\n• Offline games against the computer\n• Beginner, Advanced, and Challenge difficulty levels\n• Two-player games on one device\n• First-player and second-player options\n• Full-screen board layout on Apple Watch\n• Automatic save and resume\n• Undo, hints, move confirmation, and legal move hints\n• Sound effects and haptic feedback\n• No account, ads, or internet connection required\nGames are stored locally on the current device. iPhone and Apple Watch keep separate saved games.\nWhat’s New\nFirst release: Chinese Chess, Gomoku, Reversi, and Tic-Tac-Toe with offline play on iPhone, iPad, and Apple Watch.",
-      "releaseNotes": "Introducing Flip Chess II! Stack matching pieces of your own color to increase their rank. Original piece symbols remain visible with layered visuals and clear stack counts.\nSplit one piece from a stack onto an adjacent empty square. Stacking and splitting each take one turn. Enjoy AI opponents, autosave and undo.\nThe original Flip Chess is now Flip Chess I. Its classic rules and existing saved games remain available.\nStart a new game instantly without a confirmation prompt. The previous saved match for that game type is replaced.",
+      "releaseNotes": "Introducing Junqi, a classic military strategy board game with open pieces, offline AI and two-player play on one device.\nDeploy your army, travel along railways, clear mines with engineers, shelter in camps and capture the enemy flag.\nEnjoy new pixel-style fire and smoke effects during battles, with gentle expansion and fading.\nIncludes undo, saved games and three AI difficulty levels. Available on iPhone, iPad and Apple Watch in nine languages.",
       "trackViewUrl": "https://apps.apple.com/jp/app/wrist-chess-hall-watch-games/id6813405760?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -74,15 +74,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/15/c6/6e15c6e8-3c1c-5fb6-404d-455b5163d18c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/23/84/9b23849b-e4fe-7bab-5441-d80afb7ad680/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "21361664",
+  "fileSizeBytes": "21754880",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "1.6",
-  "currentVersionReleaseDate": "2026-10-12T21:30:44Z",
+  "version": "1.7",
+  "currentVersionReleaseDate": "2026-10-15T20:52:19Z",
   "releaseDate": "2026-09-22T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -447,8 +447,13 @@
       "version": "1.6",
       "releaseNotes": "Introducing Flip Chess II! Stack matching pieces of your own color to increase their rank. Original piece symbols remain visible with layered visuals and clear stack counts.\nSplit one piece from a stack onto an adjacent empty square. Stacking and splitting each take one turn. Enjoy AI opponents, autosave and undo.\nThe original Flip Chess is now Flip Chess I. Its classic rules and existing saved games remain available.\nStart a new game instantly without a confirmation prompt. The previous saved match for that game type is replaced.",
       "seenAt": "2026-10-12T21:30:44Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Introducing Junqi, a classic military strategy board game with open pieces, offline AI and two-player play on one device.\nDeploy your army, travel along railways, clear mines with engineers, shelter in camps and capture the enemy flag.\nEnjoy new pixel-style fire and smoke effects during battles, with gentle expansion and fading.\nIncludes undo, saved games and three AI difficulty levels. Available on iPhone, iPad and Apple Watch in nine languages.",
+      "seenAt": "2026-10-15T20:52:19Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:21:21.106Z",
+  "updatedAt": "2026-10-16T11:16:18.311Z",
   "isOwnApp": false
 }

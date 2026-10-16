@@ -7,15 +7,15 @@
     "en": {
       "trackName": "Block Puzzle - Color Gems Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
-      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Entertainment",
-        "Casual",
-        "Puzzle"
+        "Puzzle",
+        "Casual"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -25,15 +25,15 @@
     "ja": {
       "trackName": "Block Puzzle - Color Gems Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
-      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "エンターテインメント",
-        "カジュアル",
-        "パズル"
+        "パズル",
+        "カジュアル"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -43,15 +43,15 @@
     "de": {
       "trackName": "Block Puzzle - Color Gems Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
-      "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
+      "releaseNotes": "- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Unterhaltung",
-        "Gelegenheits­spiele",
-        "Puzzle"
+        "Puzzle",
+        "Gelegenheits­spiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a2/5f/61a25fd5-104b-04ce-8d9b-7d078948bc14/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/fb/72/d0fb7220-71ef-90fc-0517-462c078ff281/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.68182,
   "userRatingCount": 22,
   "price": 0,
-  "fileSizeBytes": "118476800",
+  "fileSizeBytes": "83877888",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.2.6",
-  "currentVersionReleaseDate": "2026-07-28T16:40:09Z",
+  "version": "2.3.1",
+  "currentVersionReleaseDate": "2026-10-15T20:55:00Z",
   "releaseDate": "2025-04-14T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -362,8 +362,13 @@
       "version": "2.2.6",
       "releaseNotes": "More levels. Smoother rides. Less waiting.\nWe tuned the engine — faster loads, tighter controls, and a fresh batch of handcrafted puzzles to keep you stuck in the best way possible.",
       "seenAt": "2026-07-28T16:40:09Z"
+    },
+    {
+      "version": "2.3.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-10-15T20:55:00Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:22:50.722Z",
+  "updatedAt": "2026-10-16T11:18:06.663Z",
   "isOwnApp": false
 }

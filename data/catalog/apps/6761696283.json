@@ -9,7 +9,7 @@
       "description": "Bit Break brings the classic brick-breaking experience right to your wrist. Launch your ball, smash through rows of bricks, and rack up points as you blast your way level by level. Simple to pick up, impossible to put down. Multiple difficulty levels and explosive bricks keep it fun.",
       "releaseNotes": "- Free ball for every 1000 points\n- Point Multiplier - hit multiple bricks in a row to multiply your points from 2x to 5x\n- Ball Spin Option (off by default) - you can spin the ball left or right by swiping the ball with the paddle\n- Updated game physics",
       "trackViewUrl": "https://apps.apple.com/us/app/bit-break/id6761696283?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Donald Holton",
       "genres": [
         "Games",
@@ -41,7 +41,7 @@
       "description": "Bit Break brings the classic brick-breaking experience right to your wrist. Launch your ball, smash through rows of bricks, and rack up points as you blast your way level by level. Simple to pick up, impossible to put down. Multiple difficulty levels and explosive bricks keep it fun.",
       "releaseNotes": "- Free ball for every 1000 points\n- Point Multiplier - hit multiple bricks in a row to multiply your points from 2x to 5x\n- Ball Spin Option (off by default) - you can spin the ball left or right by swiping the ball with the paddle\n- Updated game physics",
       "trackViewUrl": "https://apps.apple.com/jp/app/bit-break/id6761696283?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "Donald Holton",
       "genres": [
         "ゲーム",
@@ -57,7 +57,7 @@
       "description": "Bit Break brings the classic brick-breaking experience right to your wrist. Launch your ball, smash through rows of bricks, and rack up points as you blast your way level by level. Simple to pick up, impossible to put down. Multiple difficulty levels and explosive bricks keep it fun.",
       "releaseNotes": "- Free ball for every 1000 points\n- Point Multiplier - hit multiple bricks in a row to multiply your points from 2x to 5x\n- Ball Spin Option (off by default) - you can spin the ball left or right by swiping the ball with the paddle\n- Updated game physics",
       "trackViewUrl": "https://apps.apple.com/de/app/bit-break/id6761696283?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "Donald Holton",
       "genres": [
         "Spiele",
@@ -72,13 +72,13 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/79/1b/4f791b32-5996-1dca-c542-6f54d0dfd1a2/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "834560",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "2.0",
-  "currentVersionReleaseDate": "2026-05-15T01:32:53Z",
-  "releaseDate": "2026-05-05T07:00:00Z",
+  "currentVersionReleaseDate": "2026-05-17T07:00:00Z",
+  "releaseDate": "2026-05-17T07:00:00Z",
   "artistId": 1889716158,
   "artistName": "Donald Holton",
   "artistViewUrl": "https://apps.apple.com/de/developer/donald-holton/id1889716158?uo=4",
@@ -236,6 +236,6 @@
       "seenAt": "2026-05-15T01:32:53Z"
     }
   ],
-  "updatedAt": "2026-10-15T12:00:26.670Z",
+  "updatedAt": "2026-10-16T11:40:05.971Z",
   "isOwnApp": false
 }

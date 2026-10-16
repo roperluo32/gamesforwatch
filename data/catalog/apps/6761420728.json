@@ -7,7 +7,7 @@
     "en": {
       "trackName": "NeonFlip: Board Game",
       "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels, multiple languages!",
-      "releaseNotes": "Supports iPhone Duo.",
+      "releaseNotes": "Improved iPhone Duo half open mode design.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
@@ -29,7 +29,7 @@
     "ja": {
       "trackName": "NeonFlip: Board Game",
       "description": "近未来のネオン輝く都市で、オセロ（リバーシ）をプレイしよう！\nApple Watch、iPhone、iPad、Macに対応しています。\n\n1人または2人プレイ、3段階の難易度、多言語対応！",
-      "releaseNotes": "iPhone Duoに対応しています。",
+      "releaseNotes": "iPhone Duoのハーフオープンモードのデザインが改良されました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
@@ -51,7 +51,7 @@
     "de": {
       "trackName": "NeonFlip: Board Game",
       "description": "Spiele eine Runde Reversi ... in einer futuristischen Neon-Stadt!\nLäuft auf Apple Watch, iPhone, iPad und Mac.\n\nModus für einen oder zwei Spieler, 3 Schwierigkeitsstufen, mehrere Sprachen!",
-      "releaseNotes": "Unterstützt iPhone Duo.",
+      "releaseNotes": "Verbessertes Design des halb geöffneten iPhone Duo-Modus.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8d/a2/7e8da27f-c3ab-4756-ea64-3a8087bd8485/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/15/aa/3a15aa4b-dea6-1fdc-96b5-33d9aca1fea4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "11113472",
+  "fileSizeBytes": "11142144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.3",
-  "currentVersionReleaseDate": "2026-10-07T16:34:04Z",
+  "version": "2.4",
+  "currentVersionReleaseDate": "2026-10-15T22:10:49Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -295,8 +295,13 @@
       "version": "2.3",
       "releaseNotes": "Supports iPhone Duo.",
       "seenAt": "2026-10-07T16:34:04Z"
+    },
+    {
+      "version": "2.4",
+      "releaseNotes": "Improved iPhone Duo half open mode design.",
+      "seenAt": "2026-10-15T22:10:49Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:53:48.188Z",
+  "updatedAt": "2026-10-16T11:50:42.614Z",
   "isOwnApp": false
 }

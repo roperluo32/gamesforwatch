@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/43/06/b04306dc-c41d-5692-a805-842ee3468c83/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/71/ed/ea71edcb-3bf5-bdfc-035b-0210ba7749fc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28712,
   "userRatingCount": 1623,
   "price": 0,
   "fileSizeBytes": "426427392",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.391.0",
-  "currentVersionReleaseDate": "2026-10-13T19:09:08Z",
+  "version": "3.391.2",
+  "currentVersionReleaseDate": "2026-10-15T11:16:06Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -505,8 +505,13 @@
       "version": "3.391.0",
       "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
       "seenAt": "2026-10-13T19:09:08Z"
+    },
+    {
+      "version": "3.391.2",
+      "releaseNotes": "Now you can create your own episodes and collections to challenge your friends and family. Discover endless knowledge and dive into a world full of curiosity! \n\nWe also fixed some bugs to keep your experience smooth and fun.\n\nThanks to everyone for your feedback and suggestions — keep them coming!",
+      "seenAt": "2026-10-15T11:16:06Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:20:31.153Z",
+  "updatedAt": "2026-10-16T11:15:18.599Z",
   "isOwnApp": false
 }
