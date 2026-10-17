@@ -9,7 +9,7 @@
       "description": "Play the two classic games Tic Tac Toe (XO) and Four in a Row in a single app on your phone, tablet or watch.\n\nFeatures\n- One and two player mode on the same device\n- Choose between different color modes for Tic Tac Toe\n- No internet connection required for playing (play offline)\n- More games you can unlock",
       "releaseNotes": "Bugfixes and more content added",
       "trackViewUrl": "https://apps.apple.com/us/app/tic-tac-toe-four-in-a-row/id6499204594?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "定番ゲームの三目並べ（○×ゲーム）と四目並べを、スマホ、タブレット、ウォッチで楽しめるひとつのアプリに。\n\n特徴\n- 同じ端末で1人でも2人でもプレイ可能\n- 三目並べではさまざまなカラーモードを選択可能\n- インターネット接続不要（オフラインでプレイ可能）\n- さらに多くのゲームをアンロック可能",
       "releaseNotes": "不具合の修正とコンテンツの追加",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%89%E7%9B%AE%E4%B8%A6%E3%81%B9-%E5%9B%9B%E7%9B%AE%E4%B8%A6%E3%81%B9/id6499204594?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Spiele die beiden Klassiker Tic Tac Toe (XO) und Vier gewinnt in einer App auf deinem Handy, Tablet oder deiner Uhr.\n\nFunktionen\n- Allein oder zu zweit auf demselben Gerät spielen\n- Verschiedene Farbmodi für Tic Tac Toe\n- Keine Internetverbindung zum Spielen nötig (offline spielbar)\n- Weitere Spiele zum Freischalten",
       "releaseNotes": "Fehler behoben und neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/tic-tac-toe-vier-gewinnt/id6499204594?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/98/32/0b983254-71da-b3c2-69e3-072b5248a839/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "88373248",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -436,6 +436,6 @@
       "seenAt": "2026-10-13T06:25:33Z"
     }
   ],
-  "updatedAt": "2026-10-16T11:48:40.232Z",
+  "updatedAt": "2026-10-17T11:06:44.221Z",
   "isOwnApp": false
 }

@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Traffic Jam Escape: Car Puzzle",
-      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 1000+ unique levels to test your puzzle skills\n  - New Daily Challenge every day\n  - Relaxing gameplay with smart logic challenges",
-      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 2000+ unique levels\n  - Smart hints guide you toward solving each level on your own\n  - New Daily Challenge every day",
+      "releaseNotes": "- Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/traffic-jam-escape-car-puzzle/id6444782420?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "Traffic Jam Escape: Car Puzzle",
-      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 1000+ unique levels to test your puzzle skills\n  - New Daily Challenge every day\n  - Relaxing gameplay with smart logic challenges",
-      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 2000+ unique levels\n  - Smart hints guide you toward solving each level on your own\n  - New Daily Challenge every day",
+      "releaseNotes": "- Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
       "trackViewUrl": "https://apps.apple.com/jp/app/traffic-jam-escape-car-puzzle/id6444782420?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Traffic Jam Escape: Car Puzzle",
-      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 1000+ unique levels to test your puzzle skills\n  - New Daily Challenge every day\n  - Relaxing gameplay with smart logic challenges",
-      "releaseNotes": "- Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
+      "description": "Play 3D Traffic Jam Escape on Watch & Phone\n  - 2000+ unique levels\n  - Smart hints guide you toward solving each level on your own\n  - New Daily Challenge every day",
+      "releaseNotes": "- Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
       "trackViewUrl": "https://apps.apple.com/de/app/traffic-jam-escape-car-puzzle/id6444782420?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/7e/e5/457ee5f9-3688-4678-e566-6feb6e8cc1f7/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/65/68/736568ff-6ad2-3379-0024-af805655999f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77778,
   "userRatingCount": 9,
   "price": 0,
-  "fileSizeBytes": "81047552",
+  "fileSizeBytes": "81235968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.7.0",
-  "currentVersionReleaseDate": "2026-10-14T22:35:14Z",
+  "version": "2.7.1",
+  "currentVersionReleaseDate": "2026-10-16T21:58:47Z",
   "releaseDate": "2022-11-30T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -446,8 +446,13 @@
       "version": "2.7.0",
       "releaseNotes": " - Added Daily Challenges with a new challenge every day.\n - Improved level design to make puzzles more engaging and rewarding.\n - Fixed minor bugs and made overall improvements.",
       "seenAt": "2026-10-14T22:35:14Z"
+    },
+    {
+      "version": "2.7.1",
+      "releaseNotes": " - Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
+      "seenAt": "2026-10-16T21:58:47Z"
     }
   ],
-  "updatedAt": "2026-10-16T11:16:41.297Z",
+  "updatedAt": "2026-10-17T10:36:52.126Z",
   "isOwnApp": false
 }

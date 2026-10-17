@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "1.Watch Marbles: new four-season themes\n2.Added a new game\n3.Fixed assorted issues",
+      "releaseNotes": "1.Added Plate Duel.\n2.Hub icons updated.\n3.Smoother Digital Crown controls in Wrist Market.\n4.Controls and daily rewards tuned across the collection.",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
+      "releaseNotes": "1.新增「抢盘」。\n2.更新大厅图标。\n3.优化腕上市集的表冠操作。\n4.优化多项操作与每日结算。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
+      "releaseNotes": "1.新增「抢盘」。\n2.更新大厅图标。\n3.优化腕上市集的表冠操作。\n4.优化多项操作与每日结算。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.手表弹珠新增四季主题\n2.新增一款游戏\n3.修复了一些其他问题",
+      "releaseNotes": "1.新增「抢盘」。\n2.更新大厅图标。\n3.优化腕上市集的表冠操作。\n4.优化多项操作与每日结算。",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/fe/96/77fe9635-90ff-ccd2-6717-a0d51b412490/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/8c/80/dd8c808d-daba-ae10-3e59-7b12735cf845/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "81857536",
+  "fileSizeBytes": "82193408",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.21",
-  "currentVersionReleaseDate": "2026-10-15T14:54:53Z",
+  "version": "1.0.22",
+  "currentVersionReleaseDate": "2026-10-16T16:34:07Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -386,8 +386,13 @@
       "version": "1.0.21",
       "releaseNotes": "1.Watch Marbles: new four-season themes\n2.Added a new game\n3.Fixed assorted issues",
       "seenAt": "2026-10-15T14:54:53Z"
+    },
+    {
+      "version": "1.0.22",
+      "releaseNotes": "1.Added Plate Duel.\n2.Hub icons updated.\n3.Smoother Digital Crown controls in Wrist Market.\n4.Controls and daily rewards tuned across the collection.",
+      "seenAt": "2026-10-16T16:34:07Z"
     }
   ],
-  "updatedAt": "2026-10-16T11:50:09.732Z",
+  "updatedAt": "2026-10-17T11:08:04.395Z",
   "isOwnApp": false
 }

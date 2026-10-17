@@ -9,7 +9,7 @@
       "description": "MotoRace: Oncoming Fury is an adrenaline-pumping and fast-paced arcade-style game where players take control of a powerful motorbike and must navigate a treacherous highway filled with oncoming cars. The goal is to survive as long as possible while dodging the relentless traffic.\n\nAvailable for watch, phone and tablet. \n\nFeatures: \n- Endless levels\n- Playable without internet connection (play offline)\n- Cool retro graphics\n- Survive as long as you can!\n- More games inside you can unlock",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/us/app/motorace-oncoming-fury/id6478441086?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -34,7 +34,7 @@
       "description": "MotoRace: Oncoming Fury は、アドレナリンが湧き上がる、テンポの速いアーケード スタイルのゲームです。プレイヤーは強力なバイクを操作し、迫りくる車でいっぱいの危険なハイウェイを進んでいきます。目標は、容赦ない交通を避けながら、できるだけ長く生き残ることです。\n\n時計、電話、タブレットで利用できます。\n\n特徴:\n- 無限のレベル\n- インターネット接続なしでプレイ可能 (オフラインでプレイ)\n- できるだけ長く生き残りましょう!",
       "releaseNotes": "コンテンツがさらに追加されました",
       "trackViewUrl": "https://apps.apple.com/jp/app/motorace-%E3%83%A2%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9-%E8%BF%AB%E3%82%8A%E3%81%8F%E3%82%8B%E6%80%92%E3%82%8A/id6478441086?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -59,7 +59,7 @@
       "description": "MotoRace: Oncoming Fury ist ein adrenalingeladenes und rasantes Arcade-Spiel, bei dem die Spieler die Kontrolle über ein leistungsstarkes Motorrad übernehmen und eine gefährliche Autobahn voller entgegenkommender Autos befahren müssen. Das Ziel ist, so lange wie möglich zu überleben und dabei dem unerbittlichen Verkehr auszuweichen.\n\nVerfügbar für Uhr, Telefon und Tablet.\n\nFunktionen:\n- Endlose Levels\n- Spielbar ohne Internetverbindung (offline spielen)\n- Überlebe so lange du kannst!",
       "releaseNotes": "Neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/motorace-oncoming-fury/id6478441086?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -83,7 +83,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/d3/e3/fcd3e30e-352a-0192-c551-e11a8a972572/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "41445376",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -308,6 +308,6 @@
       "seenAt": "2025-10-29T16:53:41Z"
     }
   ],
-  "updatedAt": "2026-10-16T11:39:12.235Z",
+  "updatedAt": "2026-10-17T10:59:35.893Z",
   "isOwnApp": false
 }

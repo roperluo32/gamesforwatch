@@ -9,7 +9,7 @@
       "description": "The classic game of Frogger is here for your Apple Watch!\n\nSuper simple gameplay, perfect for the tiny screen.  Just tap to hop - that's it.\n\nBut how far can you get?\n\nJump from log to log, and don't fall in the water.  Then avoid the cars rushing by when you get to the roads.\n\nCroak is an endless hopper, so just keep tapping and having fun and see if you can beat your own highscores.",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nRibbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nEnjoy frog friends!",
       "trackViewUrl": "https://apps.apple.com/us/app/croak/id6476509412?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "Games",
@@ -43,7 +43,7 @@
       "description": "The classic game of Frogger is here for your Apple Watch!\n\nSuper simple gameplay, perfect for the tiny screen.  Just tap to hop - that's it.\n\nBut how far can you get?\n\nJump from log to log, and don't fall in the water.  Then avoid the cars rushing by when you get to the roads.\n\nCroak is an endless hopper, so just keep tapping and having fun and see if you can beat your own highscores.",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nRibbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nEnjoy frog friends!",
       "trackViewUrl": "https://apps.apple.com/jp/app/croak/id6476509412?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "ゲーム",
@@ -60,7 +60,7 @@
       "description": "The classic game of Frogger is here for your Apple Watch!\n\nSuper simple gameplay, perfect for the tiny screen.  Just tap to hop - that's it.\n\nBut how far can you get?\n\nJump from log to log, and don't fall in the water.  Then avoid the cars rushing by when you get to the roads.\n\nCroak is an endless hopper, so just keep tapping and having fun and see if you can beat your own highscores.",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nRibbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nEnjoy frog friends!",
       "trackViewUrl": "https://apps.apple.com/de/app/croak/id6476509412?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "1,99 €",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "Spiele",
@@ -76,7 +76,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/58/ac/1558acc3-3e77-3f2d-2ee9-148a892b2207/AppIcon-0-0-1x_U007ewatch-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 1.99,
   "fileSizeBytes": "3619840",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "13.0",
@@ -252,6 +252,6 @@
       "seenAt": "2024-04-25T16:48:33Z"
     }
   ],
-  "updatedAt": "2026-10-16T12:08:57.518Z",
+  "updatedAt": "2026-10-17T11:26:32.749Z",
   "isOwnApp": false
 }

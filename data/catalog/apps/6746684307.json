@@ -65,7 +65,7 @@
   "minimumOsVersion": "15.6",
   "version": "1.6",
   "currentVersionReleaseDate": "2026-02-21T01:19:45Z",
-  "releaseDate": "2025-06-03T07:00:00Z",
+  "releaseDate": "2025-06-06T07:00:00Z",
   "artistId": 1816071936,
   "artistName": "Virginie Barok",
   "artistViewUrl": "https://apps.apple.com/de/developer/virginie-barok/id1816071936?uo=4",
@@ -250,6 +250,6 @@
       "seenAt": "2026-02-21T01:19:45Z"
     }
   ],
-  "updatedAt": "2026-10-16T12:01:37.788Z",
+  "updatedAt": "2026-10-17T11:19:33.626Z",
   "isOwnApp": false
 }

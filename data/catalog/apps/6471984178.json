@@ -9,7 +9,7 @@
       "description": "Basketball - on your wrist!  Flick, tap, swipe and shoot Hoops with 3 different game modes.\n\nHoops is the perfect watch game, with amazing graphics, physics, and sound effects.\n\nThere are 3 game modes in Hoops:\n\n- Classic.  60 seconds to shoot as many Hoops as you can.\n\n- Time Attack.  Start with just 5 seconds on the clock and the pressure is on.  Each Hoop will net you an extra 3 seconds or 5 seconds for a Fire Hoop.\n\n- Hoop Or Die.  The ultimate in high pressure.  If you miss, you're outta here, but if you've got the skills, keep Hooping to stay in the game.\n\nSee if you can master all 3, and that cross-court fire shot!",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- More fun! Improved gameplay and physics.",
       "trackViewUrl": "https://apps.apple.com/us/app/hoops-basketball/id6471984178?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "Games",
@@ -45,7 +45,7 @@
       "description": "Basketball - on your wrist!  Flick, tap, swipe and shoot Hoops with 3 different game modes.\n\nHoops is the perfect watch game, with amazing graphics, physics, and sound effects.\n\nThere are 3 game modes in Hoops:\n\n- Classic.  60 seconds to shoot as many Hoops as you can.\n\n- Time Attack.  Start with just 5 seconds on the clock and the pressure is on.  Each Hoop will net you an extra 3 seconds or 5 seconds for a Fire Hoop.\n\n- Hoop Or Die.  The ultimate in high pressure.  If you miss, you're outta here, but if you've got the skills, keep Hooping to stay in the game.\n\nSee if you can master all 3, and that cross-court fire shot!",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- More fun! Improved gameplay and physics.",
       "trackViewUrl": "https://apps.apple.com/jp/app/hoops-basketball/id6471984178?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "ゲーム",
@@ -63,7 +63,7 @@
       "description": "Basketball - on your wrist!  Flick, tap, swipe and shoot Hoops with 3 different game modes.\n\nHoops is the perfect watch game, with amazing graphics, physics, and sound effects.\n\nThere are 3 game modes in Hoops:\n\n- Classic.  60 seconds to shoot as many Hoops as you can.\n\n- Time Attack.  Start with just 5 seconds on the clock and the pressure is on.  Each Hoop will net you an extra 3 seconds or 5 seconds for a Fire Hoop.\n\n- Hoop Or Die.  The ultimate in high pressure.  If you miss, you're outta here, but if you've got the skills, keep Hooping to stay in the game.\n\nSee if you can master all 3, and that cross-court fire shot!",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- More fun! Improved gameplay and physics.",
       "trackViewUrl": "https://apps.apple.com/de/app/hoops-basketball/id6471984178?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "1,99 €",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
         "Spiele",
@@ -80,7 +80,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/bf/7a/1abf7a5f-b831-137f-7019-530d4a093d9d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.66667,
   "userRatingCount": 3,
-  "price": 0,
+  "price": 1.99,
   "fileSizeBytes": "13768704",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
@@ -264,6 +264,6 @@
       "seenAt": "2025-01-16T12:30:59Z"
     }
   ],
-  "updatedAt": "2026-10-16T12:07:50.547Z",
+  "updatedAt": "2026-10-17T11:25:26.542Z",
   "isOwnApp": false
 }
