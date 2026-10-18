@@ -7,7 +7,7 @@
     "en": {
       "trackName": "TikTocToe: Tic Tac Toe",
       "description": "TikTocToe is Tic Tac Toe for iPhone, iPad and Apple Watch. Play against the AI at one of three levels, or pass the phone to a friend and take turns. Drawn X and O marks glow on the board, and the winning line animates with a haptic pulse that walks along it.\n\nWHAT'S IN TIKTOCTOE\n• Classic 3x3 Tic Tac Toe, built for a quick round.\n• AI opponent with three levels.\n• Pass and play for two people on one device.\n• Stats for wins, losses and draws, and a streak counter.\n• A winning line that animates with a haptic sequence along the three in a row.\n• Siri and Shortcuts: play tic tac toe, play against the AI, show my stats.\n• iPad: the board scales to the screen, with the board and stats side by side on wider layouts.\n• Light and dark mode.\n• Works offline, with no account.\n\nON APPLE WATCH\nThe same game on your wrist, for a quick round when your phone is in another room.\n\nTikTocToe is made for the game you already know, with a calmer, better-looking board.",
-      "releaseNotes": "TikTocToe is now on iPhone, iPad and Apple Watch.\nNew: an AI with three levels, pass and play, stats and streaks.\nBuilt with the latest iOS and watchOS SDK.",
+      "releaseNotes": "Now free to download. Easy and Medium AI, two-player games, stats and the watch app are all free. A one-time Pro unlock adds the Impossible AI that never loses. If you bought TikTocToe before, Pro is already yours.",
       "trackViewUrl": "https://apps.apple.com/us/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Hemal Modi",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "TikTocToe: Tic Tac Toe",
       "description": "TikTocToe is Tic Tac Toe for iPhone, iPad and Apple Watch. Play against the AI at one of three levels, or pass the phone to a friend and take turns. Drawn X and O marks glow on the board, and the winning line animates with a haptic pulse that walks along it.\n\nWHAT'S IN TIKTOCTOE\n• Classic 3x3 Tic Tac Toe, built for a quick round.\n• AI opponent with three levels.\n• Pass and play for two people on one device.\n• Stats for wins, losses and draws, and a streak counter.\n• A winning line that animates with a haptic sequence along the three in a row.\n• Siri and Shortcuts: play tic tac toe, play against the AI, show my stats.\n• iPad: the board scales to the screen, with the board and stats side by side on wider layouts.\n• Light and dark mode.\n• Works offline, with no account.\n\nON APPLE WATCH\nThe same game on your wrist, for a quick round when your phone is in another room.\n\nTikTocToe is made for the game you already know, with a calmer, better-looking board.",
-      "releaseNotes": "TikTocToe is now on iPhone, iPad and Apple Watch.\nNew: an AI with three levels, pass and play, stats and streaks.\nBuilt with the latest iOS and watchOS SDK.",
+      "releaseNotes": "Now free to download. Easy and Medium AI, two-player games, stats and the watch app are all free. A one-time Pro unlock adds the Impossible AI that never loses. If you bought TikTocToe before, Pro is already yours.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Hemal Modi",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "TikTocToe: Tic Tac Toe",
       "description": "TikTocToe is Tic Tac Toe for iPhone, iPad and Apple Watch. Play against the AI at one of three levels, or pass the phone to a friend and take turns. Drawn X and O marks glow on the board, and the winning line animates with a haptic pulse that walks along it.\n\nWHAT'S IN TIKTOCTOE\n• Classic 3x3 Tic Tac Toe, built for a quick round.\n• AI opponent with three levels.\n• Pass and play for two people on one device.\n• Stats for wins, losses and draws, and a streak counter.\n• A winning line that animates with a haptic sequence along the three in a row.\n• Siri and Shortcuts: play tic tac toe, play against the AI, show my stats.\n• iPad: the board scales to the screen, with the board and stats side by side on wider layouts.\n• Light and dark mode.\n• Works offline, with no account.\n\nON APPLE WATCH\nThe same game on your wrist, for a quick round when your phone is in another room.\n\nTikTocToe is made for the game you already know, with a calmer, better-looking board.",
-      "releaseNotes": "TikTocToe is now on iPhone, iPad and Apple Watch.\nNew: an AI with three levels, pass and play, stats and streaks.\nBuilt with the latest iOS and watchOS SDK.",
+      "releaseNotes": "Now free to download. Easy and Medium AI, two-player games, stats and the watch app are all free. A one-time Pro unlock adds the Impossible AI that never loses. If you bought TikTocToe before, Pro is already yours.",
       "trackViewUrl": "https://apps.apple.com/de/app/tiktoctoe-tic-tac-toe/id1522356749?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Hemal Modi",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/9f/55/3a9f55da-8911-3276-9db7-5af5fbfe5052/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d7/e7/d9d7e76b-a0b1-efb4-7a03-99d3bcd3a1cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2165760",
+  "fileSizeBytes": "2800640",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "3.0",
-  "currentVersionReleaseDate": "2026-10-15T19:12:48Z",
+  "version": "3.1",
+  "currentVersionReleaseDate": "2026-10-17T12:09:24Z",
   "releaseDate": "2020-08-15T07:00:00Z",
   "artistId": 1522352514,
   "artistName": "Hemal Modi",
@@ -390,8 +390,13 @@
       "version": "3.0",
       "releaseNotes": "TikTocToe is now on iPhone, iPad and Apple Watch.\nNew: an AI with three levels, pass and play, stats and streaks.\nBuilt with the latest iOS and watchOS SDK.",
       "seenAt": "2026-10-15T19:12:48Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "Now free to download. Easy and Medium AI, two-player games, stats and the watch app are all free. A one-time Pro unlock adds the Impossible AI that never loses. If you bought TikTocToe before, Pro is already yours.",
+      "seenAt": "2026-10-17T12:09:24Z"
     }
   ],
-  "updatedAt": "2026-10-17T11:07:50.732Z",
+  "updatedAt": "2026-10-18T11:27:19.125Z",
   "isOwnApp": false
 }

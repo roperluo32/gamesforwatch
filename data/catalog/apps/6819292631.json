@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Unhook - Rotate the Rings",
       "description": "Unhook, now available to play on your Watch & Phone:\n- Untangle colorful rings in a satisfying puzzle adventure.\n- Rotate, slide, and unlock every connected piece.\n- Start simple, then solve increasingly clever challenges.",
-      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added sound effects.",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
       "trackViewUrl": "https://apps.apple.com/us/app/unhook-rotate-the-rings/id6819292631?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Unhook - Rotate the Rings",
       "description": "Unhook, now available to play on your Watch & Phone:\n- Untangle colorful rings in a satisfying puzzle adventure.\n- Rotate, slide, and unlock every connected piece.\n- Start simple, then solve increasingly clever challenges.",
-      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added sound effects.",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
       "trackViewUrl": "https://apps.apple.com/cn/app/unhook-rotate-the-rings/id6819292631?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Diem Le",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Unhook - Rotate the Rings",
       "description": "Unhook, now available to play on your Watch & Phone:\n- Untangle colorful rings in a satisfying puzzle adventure.\n- Rotate, slide, and unlock every connected piece.\n- Start simple, then solve increasingly clever challenges.",
-      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added sound effects.",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
       "trackViewUrl": "https://apps.apple.com/jp/app/unhook-rotate-the-rings/id6819292631?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Unhook - Rotate the Rings",
       "description": "Unhook, now available to play on your Watch & Phone:\n- Untangle colorful rings in a satisfying puzzle adventure.\n- Rotate, slide, and unlock every connected piece.\n- Start simple, then solve increasingly clever challenges.",
-      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added sound effects.",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
       "trackViewUrl": "https://apps.apple.com/de/app/unhook-rotate-the-rings/id6819292631?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c5/dd/74c5ddb4-d4ad-9a17-5e2b-a216de6f9d7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/33/fa/3133fa48-2958-d897-7217-75c79e08d2e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "49741824",
+  "fileSizeBytes": "58765312",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.0.3",
-  "currentVersionReleaseDate": "2026-10-12T21:42:10Z",
+  "version": "1.1.0",
+  "currentVersionReleaseDate": "2026-10-17T22:50:22Z",
   "releaseDate": "2026-10-08T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -263,8 +263,13 @@
       "version": "1.0.3",
       "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added sound effects.",
       "seenAt": "2026-10-12T21:42:10Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
+      "seenAt": "2026-10-17T22:50:22Z"
     }
   ],
-  "updatedAt": "2026-10-17T10:48:18.139Z",
+  "updatedAt": "2026-10-18T11:06:26.780Z",
   "isOwnApp": false
 }
