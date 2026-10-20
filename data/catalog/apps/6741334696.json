@@ -556,8 +556,13 @@
       "version": "2.7.9",
       "releaseNotes": "New game: Ball Volley, now on iPhone and Apple Watch.\n\nFixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
       "seenAt": "2026-10-19T07:01:00Z"
+    },
+    {
+      "version": "2.8.0",
+      "releaseNotes": "New game: Whack-a-Mole, now on iPhone and Apple Watch.\n\nFixed known issues and improved stability and gameplay experience. If you run into a problem or have feedback, go to Settings → Contact Us.",
+      "seenAt": "2026-10-19T22:54:16Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:57:35.801Z",
+  "updatedAt": "2026-10-20T11:26:48.004Z",
   "isOwnApp": false
 }

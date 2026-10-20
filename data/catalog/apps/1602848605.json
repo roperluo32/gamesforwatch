@@ -894,8 +894,13 @@
       "version": "14.2",
       "releaseNotes": "Fixed bugs and improved performance. Resolved lag during the first launch after installation on some devices running watchOS 10 and 11.",
       "seenAt": "2026-10-16T04:49:37Z"
+    },
+    {
+      "version": "15.0",
+      "releaseNotes": "New game: Fence Dash!\nBreakout now saves your game so you can continue where you left off.",
+      "seenAt": "2026-10-19T21:09:00Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:50:56.207Z",
+  "updatedAt": "2026-10-20T11:20:56.659Z",
   "isOwnApp": false
 }

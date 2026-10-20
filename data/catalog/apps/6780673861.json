@@ -396,8 +396,13 @@
       "version": "1.0.23",
       "releaseNotes": "Added new games\nUpdated some games\nFixed known issues\nFixed a crash when opening the home screen on some watches",
       "seenAt": "2026-10-18T21:27:08Z"
+    },
+    {
+      "version": "1.0.24",
+      "releaseNotes": "1.New game: Watch Pachinko \n2.Fixed some issues",
+      "seenAt": "2026-10-19T16:03:15Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:28:32.692Z",
+  "updatedAt": "2026-10-20T11:55:17.472Z",
   "isOwnApp": false
 }

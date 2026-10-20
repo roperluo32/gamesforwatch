@@ -444,8 +444,13 @@
       "version": "2.4",
       "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
       "seenAt": "2026-10-09T15:21:15Z"
+    },
+    {
+      "version": "2.6",
+      "releaseNotes": "More natural crab movements on iPhone and Apple Watch, with alternating steps and gentle body motion.\nSmoother starts, stops, and turns for more fluid bead-carrying animations.\nAdded claw and lifting details when picking up beads, while keeping the one-bead-at-a-time gameplay.\nOptimized animation path calculations and improved Reduce Motion support.",
+      "seenAt": "2026-10-19T20:31:32Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:01:46.557Z",
+  "updatedAt": "2026-10-20T11:30:36.042Z",
   "isOwnApp": false
 }

@@ -62,7 +62,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/35/c6/7635c6bc-f1af-26bb-5218-27fce9496ede/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 150,
   "fileSizeBytes": "1569792",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
@@ -71,7 +71,7 @@
   "releaseDate": "2021-06-28T07:00:00Z",
   "artistId": 1485564066,
   "artistName": "Emrah Korkmaz",
-  "artistViewUrl": "https://apps.apple.com/de/developer/emrah-korkmaz/id1485564066?uo=4",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/emrah-korkmaz/id1485564066?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -226,6 +226,6 @@
       "seenAt": "2026-01-06T02:54:25Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:44:46.035Z",
+  "updatedAt": "2026-10-20T12:10:23.805Z",
   "isOwnApp": false
 }

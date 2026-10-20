@@ -562,8 +562,13 @@
       "version": "5.4.3",
       "releaseNotes": "A more thoughtful start to your OutBrick adventure\n\n• Opening-village refinements: clearer goals, a more balanced header and more time to plan before optional idle hints appear on levels 3–12.\n• Whole-brick explosions: blasts and UFOs can now clear complete plain shaped bricks, including L and T shapes. Existing coatings and sealed rooms keep their protection rules.\n• A welcome gift at the village finale: receive 2 Hints, 2 Rockets and 2 UFOs after clearing level 11, before starting level 12. This one-time free gift is separate from paid bundles.\n• Better-timed help: near-finish offers now require the final goal step, and retry Rescue offers begin from level 6 when their eligibility rules are met.\n• Clearer colour names and a direct App Store review destination for compatible future notifications.\n• More precise optional observations of resources and purchases to help us improve OutBrick. Game analytics remains off by default and can be changed in Settings.\n\nYour saved progress and purchases are preserved. Thank you for building your OutBrick adventure with us!\n\nVictory rewards now name the coin amount before you claim them and keep a readable confirmation afterward, with clearer VoiceOver feedback.\n\nThe Move Booster Pass is now available from level 1, with no seven-day sales deadline. Each purchase still provides 48 hours of unlimited moves.",
       "seenAt": "2026-10-18T23:44:43Z"
+    },
+    {
+      "version": "5.4.4",
+      "releaseNotes": "Fairer puzzles, and a helping hand when you're close\n\n• The Rescue Pack, right when you need it: from level 3, when you run out of moves, it's the first choice. Play on with extra moves, a full tank of lives and one of each booster. If you're short of coins, you'll also find it in the coin shop.\n• Garden City rebalanced: levels 5–8 and 12 have tighter move counts, so every board feels like a real puzzle.\n• Your welcome gift comes sooner: 2 Hints, 2 Rockets and 2 UFOs after you clear level 9, ready for the village's toughest boards.\n• A tidier out-of-moves screen, with fewer and clearer choices.\n\nYour saved progress and purchases are kept. Thank you for playing OutBrick!",
+      "seenAt": "2026-10-19T13:11:32Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:20:17.850Z",
+  "updatedAt": "2026-10-20T11:47:38.319Z",
   "isOwnApp": false
 }

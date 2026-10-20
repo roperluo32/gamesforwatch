@@ -343,8 +343,13 @@
       "version": "1.15",
       "releaseNotes": "Small fixes and improvements.",
       "seenAt": "2026-10-15T20:54:36Z"
+    },
+    {
+      "version": "1.16",
+      "releaseNotes": "Small fixes and improvements.",
+      "seenAt": "2026-10-19T18:41:51Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:22:56.064Z",
+  "updatedAt": "2026-10-20T11:50:05.093Z",
   "isOwnApp": false
 }

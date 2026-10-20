@@ -71,7 +71,7 @@
   "releaseDate": "2022-01-23T08:00:00Z",
   "artistId": 1485564066,
   "artistName": "Emrah Korkmaz",
-  "artistViewUrl": "https://apps.apple.com/de/developer/emrah-korkmaz/id1485564066?uo=4",
+  "artistViewUrl": "https://apps.apple.com/us/developer/emrah-korkmaz/id1485564066?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -222,6 +222,6 @@
       "seenAt": "2022-01-23T20:25:33Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:51:04.333Z",
+  "updatedAt": "2026-10-20T12:16:22.248Z",
   "isOwnApp": false
 }

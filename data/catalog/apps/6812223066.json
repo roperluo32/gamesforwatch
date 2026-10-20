@@ -398,8 +398,13 @@
       "version": "1.6",
       "releaseNotes": "Enjoy one free play each day, with your allowance renewed the next day.\nUnlock unlimited play with a one-time purchase.\nRestore previous purchases from Settings or the unlock screen.\nSee your remaining daily free play on the home screen.",
       "seenAt": "2026-10-15T08:00:53Z"
+    },
+    {
+      "version": "1.7",
+      "releaseNotes": "Daily free play: Start one game free each day before unlocking unlimited play. Your free play is used only when a round begins and refreshes the next day.\nPermanent unlimited play: Remove daily play limits with a one-time purchase. Restore Purchases is also available.\nRefined Apple Watch layout: Larger characters and platforms, a cleaner top bar, and clearer level and countdown displays.\nRefreshed store screenshots: New English and Chinese visuals showcase neon rooftops, lava canyons, crystal towers, sunset skies, auroras, and starlit summits.",
+      "seenAt": "2026-10-19T19:38:34Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:56:06.579Z",
+  "updatedAt": "2026-10-20T11:25:28.562Z",
   "isOwnApp": false
 }

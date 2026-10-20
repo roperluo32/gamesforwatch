@@ -452,8 +452,13 @@
       "version": "1.7",
       "releaseNotes": "Introducing Junqi, a classic military strategy board game with open pieces, offline AI and two-player play on one device.\nDeploy your army, travel along railways, clear mines with engineers, shelter in camps and capture the enemy flag.\nEnjoy new pixel-style fire and smoke effects during battles, with gentle expansion and fading.\nIncludes undo, saved games and three AI difficulty levels. Available on iPhone, iPad and Apple Watch in nine languages.",
       "seenAt": "2026-10-15T20:52:19Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "Added Go with 9×9, 13×13 and 19×19 boards, with layouts adapted for Apple Watch, iPhone and iPad.\nBrowse all 10 board games directly from the home screen.\nDiscover three featured games each day, with a consistent order throughout the day.\nImproved the Apple Watch home screen to show at least five complete game buttons at once.",
+      "seenAt": "2026-10-19T20:32:04Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:53:36.184Z",
+  "updatedAt": "2026-10-20T11:23:15.898Z",
   "isOwnApp": false
 }
