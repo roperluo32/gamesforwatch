@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ca/ca/29caca8a-4a4a-0bec-461f-7f9fc756b0b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/81/d5/8b81d549-95f0-6e6f-5187-91d30f81dd71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "25083904",
+  "fileSizeBytes": "25059328",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.0",
-  "version": "1.15",
-  "currentVersionReleaseDate": "2026-10-15T20:54:36Z",
+  "version": "1.16",
+  "currentVersionReleaseDate": "2026-10-19T18:41:51Z",
   "releaseDate": "2026-06-12T07:00:00Z",
   "artistId": 1895160810,
   "artistName": "J&B Creations LLC",
@@ -350,6 +350,6 @@
       "seenAt": "2026-10-19T18:41:51Z"
     }
   ],
-  "updatedAt": "2026-10-20T11:50:05.093Z",
+  "updatedAt": "2026-10-21T12:13:27.587Z",
   "isOwnApp": false
 }

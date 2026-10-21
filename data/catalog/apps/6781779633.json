@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Ultimate Poker: Casino Duel",
       "description": "Ultimate Poker — a serious casino poker game where you go head-to-head against the dealer. Based on real Ultimate Texas Hold'em rules, play anytime, anywhere, for free. Refill chips by watching a rewarded ad — there are no in-app purchases at all.\n\n■ Easy to learn, deep to master\nPlace your Ante and Blind to start. Build the best 5-card hand from your 2 hole cards and the 5 community cards, and go up against the dealer's hand. The key to winning: bet bigger, earlier, with strong hands.\n\n■ Faithful to the real rules\n• Bet up to 4× pre-flop, 2× on the flop, or 1× on the river\n• Dealer qualifying check (pair or better)\n• Blind payout table and Trips side bet supported\n• Accurate hand ranking from Royal Flush down to High Card\n\n■ Friendly for beginners\nA suggested action is shown at every decision point, so you naturally pick up a feel for hand strength and expected value as you play. The payout table and house rules are always one tap away.\n\n■ Who it's for\n• Anyone who wants to casually enjoy Texas Hold'em or heads-up card games\n• Anyone who wants to learn hand strength, odds and betting strategy without bluffing or mind games\n• Anyone looking for a quick card-game fix\n\n■ Features\n• Single-player, one-on-one only — focus purely on hand strength and probability, no psychological warfare\n• Your chip balance is saved automatically and tops back up when you bust, so you can always jump back in\n• Real casino feel with card-dealing and flip animations\n• Game Center support, and playable on Apple Watch too\n\n※ This app is for entertainment purposes only. It never involves real-money gambling or cash payouts, and has no in-app purchases (rewarded ads are available to refill chips).",
-      "releaseNotes": "Minor fixes and improvements.",
+      "releaseNotes": "• Added links to our other casino games (Baccarat, Blackjack Royale, Chinchiro, Honki no Chohan) in Settings and on the game-over screen.",
       "trackViewUrl": "https://apps.apple.com/us/app/ultimate-poker-casino-duel/id6781779633?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Larry Works",
@@ -101,15 +101,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/04/49/960449db-f8bb-d603-9e60-35ed3f25564c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/08/ab/5e08ab3a-e918-2afe-a181-095d43ed4bae/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "21244928",
+  "fileSizeBytes": "21269504",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "16.0",
-  "version": "1.0.17",
-  "currentVersionReleaseDate": "2026-10-17T00:00:46Z",
+  "version": "1.1.0",
+  "currentVersionReleaseDate": "2026-10-19T17:55:40Z",
   "releaseDate": "2026-06-19T07:00:00Z",
   "artistId": 1701632846,
   "artistName": "Larry Works",
@@ -374,6 +374,6 @@
       "seenAt": "2026-10-19T17:55:40Z"
     }
   ],
-  "updatedAt": "2026-10-20T11:55:37.266Z",
+  "updatedAt": "2026-10-21T12:15:04.133Z",
   "isOwnApp": false
 }

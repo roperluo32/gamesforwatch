@@ -65,7 +65,7 @@
   "minimumOsVersion": "13.0",
   "version": "1.2.1",
   "currentVersionReleaseDate": "2025-07-28T16:18:30Z",
-  "releaseDate": "2025-03-23T07:00:00Z",
+  "releaseDate": "2025-04-02T07:00:00Z",
   "artistId": 1727969231,
   "artistName": "锐泉 赵",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E9%94%90%E6%B3%89-%E8%B5%B5/id1727969231?uo=4",
@@ -231,6 +231,6 @@
       "seenAt": "2025-07-28T16:18:30Z"
     }
   ],
-  "updatedAt": "2026-10-20T12:11:45.478Z",
+  "updatedAt": "2026-10-21T12:31:22.341Z",
   "isOwnApp": false
 }

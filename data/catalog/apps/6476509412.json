@@ -39,10 +39,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Croak!",
+      "trackName": "Croak: Frog Hop for Watch",
       "description": "The classic game of Frogger is here for your Apple Watch!\n\nSuper simple gameplay, perfect for the tiny screen.  Just tap to hop - that's it.\n\nBut how far can you get?\n\nJump from log to log, and don't fall in the water.  Then avoid the cars rushing by when you get to the roads.\n\nCroak is an endless hopper, so just keep tapping and having fun and see if you can beat your own highscores.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nRibbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nEnjoy frog friends!",
-      "trackViewUrl": "https://apps.apple.com/jp/app/croak/id6476509412?uo=4",
+      "releaseNotes": "Ribbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nAnd watchOS27 is supported of course!\n\nEnjoy frog friends!",
+      "trackViewUrl": "https://apps.apple.com/jp/app/croak-frog-hop-for-watch/id6476509412?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
@@ -56,10 +56,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Croak!",
+      "trackName": "Croak: Frog Hop for Watch",
       "description": "The classic game of Frogger is here for your Apple Watch!\n\nSuper simple gameplay, perfect for the tiny screen.  Just tap to hop - that's it.\n\nBut how far can you get?\n\nJump from log to log, and don't fall in the water.  Then avoid the cars rushing by when you get to the roads.\n\nCroak is an endless hopper, so just keep tapping and having fun and see if you can beat your own highscores.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nRibbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nEnjoy frog friends!",
-      "trackViewUrl": "https://apps.apple.com/de/app/croak/id6476509412?uo=4",
+      "releaseNotes": "Ribbit!\n\nWe tweaked some gameplay to make hopping onto logs a bit easier.\n\nAnd watchOS27 is supported of course!\n\nEnjoy frog friends!",
+      "trackViewUrl": "https://apps.apple.com/de/app/croak-frog-hop-for-watch/id6476509412?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Lumen Digital Ltd.",
       "genres": [
@@ -73,15 +73,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/58/ac/1558acc3-3e77-3f2d-2ee9-148a892b2207/AppIcon-0-0-1x_U007ewatch-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/07/c3/ba07c3bc-f20e-6938-ec11-1fcaf9c28b74/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
-  "fileSizeBytes": "3619840",
+  "fileSizeBytes": "3582976",
   "contentAdvisoryRating": "9+",
-  "minimumOsVersion": "13.0",
-  "version": "1.3",
-  "currentVersionReleaseDate": "2024-04-25T16:48:33Z",
+  "minimumOsVersion": "15.0",
+  "version": "1.4",
+  "currentVersionReleaseDate": "2026-10-19T16:17:16Z",
   "releaseDate": "2024-01-23T08:00:00Z",
   "artistId": 1326609573,
   "artistName": "Lumen Digital",
@@ -257,6 +257,6 @@
       "seenAt": "2026-10-19T16:17:16Z"
     }
   ],
-  "updatedAt": "2026-10-20T12:14:27.220Z",
+  "updatedAt": "2026-10-21T12:34:00.413Z",
   "isOwnApp": false
 }

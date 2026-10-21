@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
+      "releaseNotes": "More natural crab movements on iPhone and Apple Watch, with alternating steps and gentle body motion.\nSmoother starts, stops, and turns for more fluid bead-carrying animations.\nAdded claw and lifting details when picking up beads, while keeping the one-bead-at-a-time gameplay.\nOptimized animation path calculations and improved Reduce Motion support.",
       "trackViewUrl": "https://apps.apple.com/us/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -29,7 +29,7 @@
     "zh": {
       "trackName": "拆豆大师-手表游戏",
       "description": "《拆豆大师》是一款支持 iPhone 和 Apple Watch 的休闲益智游戏。\n观察关卡中的豆子分布，通过简单直观的操作完成拆豆目标。每个关卡都有不同的布局，需要认真观察并思考合适的解决方法。\n游戏特色：\n• 支持 iPhone 和 Apple Watch • Apple Watch 版内置100个趣味关卡 • 操作简单，轻松上手 • 关卡短小，适合利用碎片时间游玩 • 无需注册或登录 • 简洁清晰的游戏界面\n无论是在休息时间，还是通勤途中，都可以随时打开《拆豆大师》，体验轻松有趣的益智挑战。",
-      "releaseNotes": "优化 iPhone 不同屏幕尺寸及横竖屏布局，棋盘、暂存区与多排颜色箱子显示更完整。\n修复旋转屏幕时搬运路线错位的问题，切换方向后继续当前关卡。\n细化 Apple Watch 豆子颗粒，每颗豆子面积缩小至原来的四分之一，图案更加细腻。",
+      "releaseNotes": "优化 iPhone 与 Apple Watch 上的螃蟹行走动作，交替迈腿、身体起伏更加自然。\n改善起步、停步与转弯衔接，让搬运过程更连贯。\n增加取豆时收钳、抬豆的动作细节，保留每次搬运一颗豆子的玩法。\n优化动画路径计算，并完善“减少动态效果”支持。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%86%E8%B1%86%E5%A4%A7%E5%B8%88-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6808444056?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -51,7 +51,7 @@
     "ja": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
+      "releaseNotes": "More natural crab movements on iPhone and Apple Watch, with alternating steps and gentle body motion.\nSmoother starts, stops, and turns for more fluid bead-carrying animations.\nAdded claw and lifting details when picking up beads, while keeping the one-bead-at-a-time gameplay.\nOptimized animation path calculations and improved Reduce Motion support.",
       "trackViewUrl": "https://apps.apple.com/jp/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -73,7 +73,7 @@
     "de": {
       "trackName": "Bean Break Master-Watch Game",
       "description": "Bean Break Master is a casual puzzle game for iPhone and Apple Watch.\nObserve how the beans are arranged in each level and use simple, intuitive controls to complete the objective. Every level has a different layout, so you’ll need to look carefully and find the right solution.\nFeatures: • Supports iPhone and Apple Watch • 100 fun levels built into the Apple Watch version • Simple controls and easy to learn • Short levels, perfect for quick play sessions • No registration or login required • Clean and easy-to-understand interface\nWhether you’re taking a break or commuting, open Bean Break Master anytime and enjoy a relaxing puzzle challenge.",
-      "releaseNotes": "Improved layouts across iPhone screen sizes and orientations, keeping the board, holding area, and color boxes clearly visible.\nFixed delivery paths when rotating your device, so you can continue the current level without interruption.\nRefined Apple Watch bead patterns with beads one-quarter of their previous area for finer detail.",
+      "releaseNotes": "More natural crab movements on iPhone and Apple Watch, with alternating steps and gentle body motion.\nSmoother starts, stops, and turns for more fluid bead-carrying animations.\nAdded claw and lifting details when picking up beads, while keeping the one-bead-at-a-time gameplay.\nOptimized animation path calculations and improved Reduce Motion support.",
       "trackViewUrl": "https://apps.apple.com/de/app/bean-break-master-watch-game/id6808444056?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3c/06/de3c0670-0e19-b07a-46ee-56004cc44206/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c7/c8/48c7c899-a532-9f6e-d17f-f2dc932cfc32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "19127296",
+  "fileSizeBytes": "19143680",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.4",
-  "currentVersionReleaseDate": "2026-10-09T15:21:15Z",
+  "version": "2.6",
+  "currentVersionReleaseDate": "2026-10-19T20:31:32Z",
   "releaseDate": "2026-09-05T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -451,6 +451,6 @@
       "seenAt": "2026-10-19T20:31:32Z"
     }
   ],
-  "updatedAt": "2026-10-20T11:30:36.042Z",
+  "updatedAt": "2026-10-21T11:40:45.492Z",
   "isOwnApp": false
 }
