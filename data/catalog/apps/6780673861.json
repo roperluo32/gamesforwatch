@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "1.New game: Watch Pachinko \n2.Fixed some issues",
+      "releaseNotes": "• Auction Hall: 2041 calendar & news markets\n• Tide Line: levels & flood polish\n• Plate Duel / Stock Sim tweaks\n• Stability & UX fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.新增手表柏青 \n2.修复一些问题",
+      "releaseNotes": "• 腕上拍卖行：2041 历法与新闻行情重做\n• 潮汐前线：关卡与涨水体验优化\n• 盘中对决 / 腕上市集微调\n• 稳定性与体验改进",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.新增手表柏青 \n2.修复一些问题",
+      "releaseNotes": "• 腕上拍卖行：2041 历法与新闻行情重做\n• 潮汐前线：关卡与涨水体验优化\n• 盘中对决 / 腕上市集微调\n• 稳定性与体验改进",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1.新增手表柏青 \n2.修复一些问题",
+      "releaseNotes": "• 腕上拍卖行：2041 历法与新闻行情重做\n• 潮汐前线：关卡与涨水体验优化\n• 盘中对决 / 腕上市集微调\n• 稳定性与体验改进",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/54/1a/e8541ade-9bbe-da39-01d2-9449658bc300/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/36/50/443650c9-b65b-7342-fd54-4a87705ada5f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "66685952",
+  "fileSizeBytes": "67470336",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.24",
-  "currentVersionReleaseDate": "2026-10-19T16:03:15Z",
+  "version": "1.0.25",
+  "currentVersionReleaseDate": "2026-10-21T15:55:33Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -401,8 +401,13 @@
       "version": "1.0.24",
       "releaseNotes": "1.New game: Watch Pachinko \n2.Fixed some issues",
       "seenAt": "2026-10-19T16:03:15Z"
+    },
+    {
+      "version": "1.0.25",
+      "releaseNotes": "• Auction Hall: 2041 calendar & news markets\n• Tide Line: levels & flood polish\n• Plate Duel / Stock Sim tweaks\n• Stability & UX fixes",
+      "seenAt": "2026-10-21T15:55:33Z"
     }
   ],
-  "updatedAt": "2026-10-21T12:14:42.829Z",
+  "updatedAt": "2026-10-22T12:13:53.063Z",
   "isOwnApp": false
 }

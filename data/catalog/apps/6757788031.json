@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Speed Streets 3D",
       "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "releaseNotes": "- Optimizations",
       "trackViewUrl": "https://apps.apple.com/jp/app/speed-streets-3d/id6757788031?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Catalin Berta",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Speed Streets 3D",
       "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "releaseNotes": "- Optimizations",
       "trackViewUrl": "https://apps.apple.com/de/app/speed-streets-3d/id6757788031?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Catalin Berta",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/3a/97/623a97ab-be95-53b6-2e7a-1495d5ce8d04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/b2/c1/84b2c148-bfb1-f226-6a97-9632160868e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "64681984",
+  "fileSizeBytes": "63450112",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "14.0",
-  "version": "13.5",
-  "currentVersionReleaseDate": "2026-07-02T23:55:44Z",
+  "minimumOsVersion": "17.6",
+  "version": "13.6",
+  "currentVersionReleaseDate": "2026-10-21T19:58:45Z",
   "releaseDate": "2026-02-20T08:00:00Z",
   "artistId": 1592833249,
   "artistName": "Catalin Berta",
@@ -351,8 +351,13 @@
       "version": "13.5",
       "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
       "seenAt": "2026-07-02T23:55:44Z"
+    },
+    {
+      "version": "13.6",
+      "releaseNotes": "- Optimizations",
+      "seenAt": "2026-10-21T19:58:45Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:56:56.712Z",
+  "updatedAt": "2026-10-22T11:54:10.876Z",
   "isOwnApp": false
 }

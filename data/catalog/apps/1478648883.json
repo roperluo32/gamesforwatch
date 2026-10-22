@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Air Hockey Wear - Watch Game",
-      "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "#1 Air Hockey game for Apple Watch\n\nReady for the ultimate arcade experience on your wrist? Welcome to the Air Hockey - Watch Game perfectly optimized for Apple Watch and iPhone.\n\nFast-paced and highly addictive, this game is designed for quick, fun sessions wherever you are.\n\nHOW TO PLAY:\n- Apple Watch: Scroll the Digital Crown for ultra-precise horizontal movement. Tap the screen to unleash a powerful attack!\n- iPhone / iPAD: Simply swipe the screen to move your paddle and defend your goal.\n- The first player to score 7 goals wins the match!\n\nKEY FEATURES:\n• Precision Controls: Custom-built to use the Apple Watch Digital Crown.\n• Battery Friendly: A clean, minimalist design specifically engineered to prevent battery drain during gameplay.\n• Dark Mode Ready: Minimal design to avoid energy consumption\n• Independent Play: Play directly from your wrist—no iPhone needed!",
+      "releaseNotes": "- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/us/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Tocapp Games S.L.",
@@ -25,8 +25,8 @@
     },
     "ja": {
       "trackName": "Air Hockey Wear - Watch Game",
-      "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "#1 Air Hockey game for Apple Watch\n\nReady for the ultimate arcade experience on your wrist? Welcome to the Air Hockey - Watch Game perfectly optimized for Apple Watch and iPhone.\n\nFast-paced and highly addictive, this game is designed for quick, fun sessions wherever you are.\n\nHOW TO PLAY:\n- Apple Watch: Scroll the Digital Crown for ultra-precise horizontal movement. Tap the screen to unleash a powerful attack!\n- iPhone / iPAD: Simply swipe the screen to move your paddle and defend your goal.\n- The first player to score 7 goals wins the match!\n\nKEY FEATURES:\n• Precision Controls: Custom-built to use the Apple Watch Digital Crown.\n• Battery Friendly: A clean, minimalist design specifically engineered to prevent battery drain during gameplay.\n• Dark Mode Ready: Minimal design to avoid energy consumption\n• Independent Play: Play directly from your wrist—no iPhone needed!",
+      "releaseNotes": "- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/jp/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Tocapp Games S.L.",
@@ -44,8 +44,8 @@
     },
     "de": {
       "trackName": "Air Hockey Wear - Watch Game",
-      "description": "#1 Air Hockey game for Apple Watch\n\nHow to play on Apple Watch?\nUse the \"Digital Crown\" wheel to move horizontally. Touch the screen to attack. Wins the first who score 7 goals.\n\nFor iPhone, swipe the screen to move. Score 7 goals!\n\nMinimal design to avoid energy consumption and of course, with dark mode.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "#1 Air Hockey game for Apple Watch\n\nReady for the ultimate arcade experience on your wrist? Welcome to the Air Hockey - Watch Game perfectly optimized for Apple Watch and iPhone.\n\nFast-paced and highly addictive, this game is designed for quick, fun sessions wherever you are.\n\nHOW TO PLAY:\n- Apple Watch: Scroll the Digital Crown for ultra-precise horizontal movement. Tap the screen to unleash a powerful attack!\n- iPhone / iPAD: Simply swipe the screen to move your paddle and defend your goal.\n- The first player to score 7 goals wins the match!\n\nKEY FEATURES:\n• Precision Controls: Custom-built to use the Apple Watch Digital Crown.\n• Battery Friendly: A clean, minimalist design specifically engineered to prevent battery drain during gameplay.\n• Dark Mode Ready: Minimal design to avoid energy consumption\n• Independent Play: Play directly from your wrist—no iPhone needed!",
+      "releaseNotes": "- Updated dependencies",
       "trackViewUrl": "https://apps.apple.com/de/app/air-hockey-wear-watch-game/id1478648883?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -62,15 +62,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/d8/e6/2ad8e643-1fd8-dca7-bfd4-b14184fa05ff/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/25/4b/b1254b29-5862-d749-a333-91a09c8c5a73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.76923,
   "userRatingCount": 26,
   "price": 1.99,
-  "fileSizeBytes": "33007616",
+  "fileSizeBytes": "18825216",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "12.0",
-  "version": "2.3.2",
-  "currentVersionReleaseDate": "2024-02-12T08:57:21Z",
+  "minimumOsVersion": "15.6",
+  "version": "2.3.3",
+  "currentVersionReleaseDate": "2026-10-21T20:21:58Z",
   "releaseDate": "2019-09-06T07:00:00Z",
   "artistId": 1382683382,
   "artistName": "Tocapp Games S.L.",
@@ -345,8 +345,13 @@
       "version": "2.3.2",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-02-12T08:57:21Z"
+    },
+    {
+      "version": "2.3.3",
+      "releaseNotes": "- Updated dependencies",
+      "seenAt": "2026-10-21T20:21:58Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:39:26.661Z",
+  "updatedAt": "2026-10-22T11:39:05.217Z",
   "isOwnApp": false
 }

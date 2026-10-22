@@ -9,7 +9,7 @@
       "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels, multiple languages!",
       "releaseNotes": "Improved iPhone Duo half open mode design.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -31,7 +31,7 @@
       "description": "近未来のネオン輝く都市で、オセロ（リバーシ）をプレイしよう！\nApple Watch、iPhone、iPad、Macに対応しています。\n\n1人または2人プレイ、3段階の難易度、多言語対応！",
       "releaseNotes": "iPhone Duoのハーフオープンモードのデザインが改良されました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -53,7 +53,7 @@
       "description": "Spiele eine Runde Reversi ... in einer futuristischen Neon-Stadt!\nLäuft auf Apple Watch, iPhone, iPad und Mac.\n\nModus für einen oder zwei Spieler, 3 Schwierigkeitsstufen, mehrere Sprachen!",
       "releaseNotes": "Verbessertes Design des halb geöffneten iPhone Duo-Modus.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -69,12 +69,34 @@
         "ZH"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "NeonFlip: 棋类游戏",
+      "description": "在充满未来感的霓虹都市中，来一场黑白棋（Reversi）对决吧！\n支持 Apple Watch、iPhone、iPad 和 Mac。\n\n支持单人或双人模式，设有 3 种难度等级，并支持多种语言！",
+      "releaseNotes": "改进了 iPhone Duo 的半开机模式设计。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/neonflip-%E6%A3%8B%E7%B1%BB%E6%B8%B8%E6%88%8F/id6761420728?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Thye Chean Lim",
+      "genres": [
+        "游戏",
+        "策略",
+        "桌面",
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE",
+        "JA",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/15/aa/3a15aa4b-dea6-1fdc-96b5-33d9aca1fea4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
+  "price": 0,
   "fileSizeBytes": "11142144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
@@ -302,6 +324,6 @@
       "seenAt": "2026-10-15T22:10:49Z"
     }
   ],
-  "updatedAt": "2026-10-21T12:15:15.960Z",
+  "updatedAt": "2026-10-22T12:14:34.550Z",
   "isOwnApp": false
 }
