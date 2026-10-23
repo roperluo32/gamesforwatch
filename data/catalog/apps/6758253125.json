@@ -62,7 +62,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/81/12/778112fe-8119-b06b-dad4-a49dbedeb0ce/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 1.99,
   "fileSizeBytes": "2942976",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
@@ -71,7 +71,7 @@
   "releaseDate": "2026-01-31T08:00:00Z",
   "artistId": 1485564066,
   "artistName": "Emrah Korkmaz",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/emrah-korkmaz/id1485564066?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/emrah-korkmaz/id1485564066?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -222,6 +222,6 @@
       "seenAt": "2026-01-31T08:51:29Z"
     }
   ],
-  "updatedAt": "2026-10-20T12:09:27.819Z",
+  "updatedAt": "2026-10-23T12:20:11.113Z",
   "isOwnApp": false
 }

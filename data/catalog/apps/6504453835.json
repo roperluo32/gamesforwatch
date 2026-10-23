@@ -9,7 +9,7 @@
       "description": "A fun retro game in a western setting for up to two players on phone and watch! Play offline wherever you want.\n\nFeatures:\n- One player and 2 player mode for watch, tablet and phone!\n- Authentic western feeling\n- Cute retro pixel art\n- Play offline\n- More games you can unlock inside\n\nMore info:\nYou're a cowboy and you have been challenged to a duel! For what reason? Who knows... Anyway, your goal is to hit the other cowboy (not the cows!). After every six shots you need to reload.\nFor every time you hit the other cowboy, you get 10 points, if you hit the wall you get one point, still. Each cowboy has three lives. But enough now, it's time to face your rival!",
       "releaseNotes": "Improved UI and new content",
       "trackViewUrl": "https://apps.apple.com/us/app/1-2-player-cowboy-duel/id6504453835?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "西部を舞台にした楽しいレトロゲーム！スマホとウォッチで最大2人でプレイ。 好きな場所でオフラインで遊ぼう。\n\n特徴：\n- ウォッチ、タブレット、スマホで1人用・2人用モード！\n- 本格的な西部の雰囲気\n- かわいいレトロなピクセルアート\n- オフラインでプレイ\n- ロックを解除して遊べるゲームも収録\n\n詳しい遊び方：\nあなたはカウボーイ。決闘を申し込まれました！理由は？さあ、どうでしょう…。とにかく、相手のカウボーイを撃つのが目標です（牛は撃たないで！）。6発撃つごとにリロードが必要です。\n相手のカウボーイに当たると10点、壁に当たっても1点獲得できます。各カウボーイのライフは3つ。さあ、話はここまで。ライバルとの決闘に挑もう！",
       "releaseNotes": "UIの改善と新しいコンテンツの追加",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E6%B1%BA%E9%97%98-1-2%E4%BA%BA%E3%83%97%E3%83%AC%E3%82%A4/id6504453835?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Ein lustiges Retrospiel im Wilden Westen für bis zu zwei Spieler auf Handy und Uhr! Spiele offline, wo du willst.\n\nFeatures:\n- Einzelspieler- und Zweispielermodus für Uhr, Tablet und Handy!\n- Echtes Westerngefühl\n- Niedliche Retro-Pixelgrafik\n- Offline spielen\n- Weitere Spiele zum Freischalten\n\nMehr Infos:\nDu bist ein Cowboy und wurdest zum Duell herausgefordert! Warum? Wer weiß ... Dein Ziel ist jedenfalls, den anderen Cowboy zu treffen (nicht die Kühe!). Nach jeweils sechs Schüssen musst du nachladen.\nFür jeden Treffer beim anderen Cowboy bekommst du 10 Punkte. Triffst du die Wand, gibt es immerhin einen Punkt. Jeder Cowboy hat drei Leben. Aber genug geredet, stell dich deinem Rivalen!",
       "releaseNotes": "Verbesserte Benutzeroberfläche und neue Inhalte",
       "trackViewUrl": "https://apps.apple.com/de/app/cowboy-duell-f%C3%BCr-1-2-spieler/id6504453835?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/3b/9a/903b9a6b-f8d5-4652-d8e6-58923509b293/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "90470400",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -467,6 +467,6 @@
       "seenAt": "2026-10-16T07:41:02Z"
     }
   ],
-  "updatedAt": "2026-10-22T12:07:58.244Z",
+  "updatedAt": "2026-10-23T11:58:38.848Z",
   "isOwnApp": false
 }

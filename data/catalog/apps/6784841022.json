@@ -1,14 +1,14 @@
 {
   "trackId": "6784841022",
   "bundleId": "com.prismflow",
-  "slug": "prismflow-block-puzzle",
-  "path": "/apps/6784841022-prismflow-block-puzzle/",
+  "slug": "prismflow-block-puzzle-game",
+  "path": "/apps/6784841022-prismflow-block-puzzle-game/",
   "locales": {
     "en": {
-      "trackName": "PrismFlow Block Puzzle",
+      "trackName": "PrismFlow: Block Puzzle Game",
       "description": "Flow the colors, free your mind.\n\nPrismFlow Block Puzzle is a calm, colorful block puzzle you can play in short sessions or long streaks. Drag pieces onto the board, fill rows and columns, and watch them clear — simple rules, deep scoring.\n\nHOW TO PLAY\n• Three block shapes appear in the tray — drag each one onto the 8×8 board\n• Complete full rows or columns to clear them and earn points\n• Chain clears to build combos and push your score higher\n• Game over when none of the three pieces fit — can you beat your best?\n\nFEATURES\n• Smooth drag-and-drop controls tuned for one-hand play\n• Glossy blocks, satisfying clears, and combo feedback\n• Global leaderboard — compete with players worldwide\n• Daily streak reminders (optional)\n• Multiple languages\n• Play offline anytime; sign in for cloud sync and leaderboard\n\nFREE TO PLAY\nPrismFlow is free with optional ads. You can remove ads or buy continue tokens via in-app purchase. No account required to play.\n\nDownload now and find your flow.\n\nPRISMFLOW PLUS (optional subscription)\nAd-free play, 100 gems and 1 continue token every day. The yearly plan starts with a 7-day free trial; a monthly plan is also available. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically unless canceled at least 24 hours before the end of the current period. Manage or cancel it in Settings > Apple Account > Subscriptions.\n\nTerms of Use (EULA): https://prismflow-ec386.web.app/terms\nPrivacy Policy: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "- The Level Journey is now a map: a winding path with a chest every 10 levels\n- Gem Guide: see how to earn gems and what they're for\n- New: PrismFlow Plus - ad-free play, 100 gems and 1 continue token every day (7-day free trial on the yearly plan)\n- New 500 Gems pack; continue tokens now cost 60 gems\n- Play right away on first launch, plus a quick home tour\n- More readable font and colors, new drag and block-blast animations\n- Endless Mode records, world ranking and tier rewards",
-      "trackViewUrl": "https://apps.apple.com/us/app/prismflow-block-puzzle/id6784841022?uo=4",
+      "releaseNotes": "• Blocks now lift the instant you touch them for faster, smoother placing\n• New one-screen Shop: pick an option and buy in one tap\n• Faster leaderboard and performance improvements",
+      "trackViewUrl": "https://apps.apple.com/us/app/prismflow-block-puzzle-game/id6784841022?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Beytullah Ozer",
       "genres": [
@@ -18,7 +18,7 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Flow the color, free your mind"
+      "subtitle": "Offline Brain Game & Blast"
     },
     "zh": {
       "trackName": "PrismFlow Block Puzzle",
@@ -37,10 +37,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "PrismFlow Block Puzzle",
+      "trackName": "PrismFlow: Blok Bulmaca Oyunu",
       "description": "Renkleri serbest bırakın, zihninizi özgürleştirin.\n\nPrismFlow Blok Bulmacası, kısa seanslarda veya uzun serilerde oynayabileceğiniz sakin ve renkli bir blok bulmacasıdır. Parçaları tahtaya sürükleyin, satırları ve sütunları doldurun ve temizlenmelerini izleyin — basit kurallar, yüksek puanlama.\n\nNASIL OYNANIR\n• Tepside üç blok şekli belirir — her birini 8x8 tahtaya sürükleyin\n• Satırları veya sütunları tamamlayarak temizleyin ve puan kazanın\n• Kombolar oluşturmak ve puanınızı yükseltmek için zincirleme temizlemeler yapın\n• Üç parçadan hiçbiri uymadığında oyun biter — en iyi skorunuzu geçebilir misiniz?\n\nÖZELLİKLER\n• Tek elle oynanmaya uygun, akıcı sürükle ve bırak kontrolleri\n• Parlak bloklar, tatmin edici temizlemeler ve kombo geri bildirimi\n• Küresel liderlik tablosu — dünya çapındaki oyuncularla yarışın\n• Günlük seri hatırlatıcıları (isteğe bağlı)\n• Çoklu dil desteği\n• İstediğiniz zaman çevrimdışı oynayın; bulut senkronizasyonu ve liderlik tablosu için giriş yapın\n\nÜCRETSİZ OYNAYIN\nPrismFlow, isteğe bağlı reklamlarla ücretsizdir. Uygulama içi satın alma yoluyla reklamları kaldırabilir veya devam jetonları satın alabilirsiniz. Oynamak için hesap gerekmez.\n\nHemen indirin ve kendi tarzınızı bulun.\n\nPRISMFLOW PLUS (isteğe bağlı abonelik)\nReklamsız oyun, her gün 100 elmas ve 1 devam jetonu. Yıllık plan 7 gün ücretsiz denemeyle başlar; aylık plan da vardır. Ödeme, satın alım onayında Apple Hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Aboneliği Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz.\n\nKullanım Koşulları (EULA): https://prismflow-ec386.web.app/terms\nGizlilik Politikası: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "- Seviye Yolculuğu artık bir harita: kıvrılan yol, her 10 bölümde sandık\n- Elmas Rehberi: elmasları nasıl kazanıp nerede kullanacağını gör\n- Yeni: PrismFlow Plus - reklamsız oyun, her gün 100 elmas ve 1 devam jetonu (yıllık planda 7 gün ücretsiz deneme)\n- 500 Elmas paketi; devam jetonu artık 60 elmas\n- İlk açılışta hemen oyna, kısa ana ekran turu\n- Daha okunaklı yazı tipi ve renkler, yeni sürükleme ve patlama animasyonları\n- Sonsuz Mod rekorları, dünya sıralaması ve kademe ödülleri",
-      "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-block-puzzle/id6784841022?uo=4",
+      "releaseNotes": "• Bloklar artık dokunduğun anda kalkıyor: daha hızlı ve akıcı yerleştirme\n• Yeni tek ekran mağaza: seçeneğini seç, tek dokunuşla al\n• Daha hızlı sıralama tablosu ve performans iyileştirmeleri",
+      "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-blok-bulmaca-oyunu/id6784841022?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beytullah Ozer",
       "genres": [
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/14/f3/8814f3e3-2814-80e8-05ba-a47e715824ba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a9/eb/e6a9eb28-7ab7-8eab-7b83-f3e6baefe4a8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "26371072",
+  "fileSizeBytes": "26469376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "2.10",
-  "currentVersionReleaseDate": "2026-10-15T13:22:09Z",
+  "version": "2.10.2",
+  "currentVersionReleaseDate": "2026-10-22T18:29:04Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -319,8 +319,13 @@
       "version": "2.10",
       "releaseNotes": "- The Level Journey is now a map: a winding path with a chest every 10 levels\n- Gem Guide: see how to earn gems and what they're for\n- New: PrismFlow Plus - ad-free play, 100 gems and 1 continue token every day (7-day free trial on the yearly plan)\n- New 500 Gems pack; continue tokens now cost 60 gems\n- Play right away on first launch, plus a quick home tour\n- More readable font and colors, new drag and block-blast animations\n- Endless Mode records, world ranking and tier rewards",
       "seenAt": "2026-10-15T13:22:09Z"
+    },
+    {
+      "version": "2.10.2",
+      "releaseNotes": "• Blocks now lift the instant you touch them for faster, smoother placing\n• New one-screen Shop: pick an option and buy in one tap\n• Faster leaderboard and performance improvements",
+      "seenAt": "2026-10-22T18:29:04Z"
     }
   ],
-  "updatedAt": "2026-10-22T12:14:49.590Z",
+  "updatedAt": "2026-10-23T12:06:26.455Z",
   "isOwnApp": false
 }

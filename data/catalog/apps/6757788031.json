@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Speed Streets 3D",
       "description": "Speed Streets 3D brings real-time single and multiplayer 3D racing to Apple Watch in a way that feels native, fast, and instantly fun using only Apple Digital Crown Control.\n\nPlay a progressive, difficult increasing and fun campaign, jump into quick races or play against real opponents in an international championship. Push for best times with responsive digital crown control. Every run is designed for short sessions while still delivering depth, progression, and replay value.\n\nWhy players love it:\n\nTrue 3D racing gameplay optimized for Apple Watch\nFast arcade action with smooth, pick-up-and-play races\nMultiple cars to unlock, each with a distinct feel and stats\nDifferent tracks and challenges with escalating speed\nMultiplayer against real opponents\nDesigned for quick sessions\nWhether you have 30 seconds or 10 minutes, Speed Streets 3D delivers premium handheld-style racing directly on your wrist.\nMinimum: Apple Watch Series 8 or later\nRecommended device: Apple Watch Series 9 or later.",
-      "releaseNotes": "- Jet Engine trail prize in Championship\n- Improve multiplayer loading screen\n- Improve multiplayer opponent rendering",
+      "releaseNotes": "- Optimizations",
       "trackViewUrl": "https://apps.apple.com/us/app/speed-streets-3d/id6757788031?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -358,6 +358,6 @@
       "seenAt": "2026-10-21T19:58:45Z"
     }
   ],
-  "updatedAt": "2026-10-22T11:54:10.876Z",
+  "updatedAt": "2026-10-23T11:44:44.949Z",
   "isOwnApp": false
 }

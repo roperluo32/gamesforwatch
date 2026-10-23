@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/16/a6/8d16a630-6d67-0c29-b881-ea6e02ed3e11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/6b/2d/4c6b2de1-cc24-6b4f-8570-aceb1cb93c37/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.59999,
   "userRatingCount": 5,
   "price": 0.99,
-  "fileSizeBytes": "11557888",
+  "fileSizeBytes": "11628544",
   "contentAdvisoryRating": "9+",
-  "minimumOsVersion": "14.2",
-  "version": "1.31",
-  "currentVersionReleaseDate": "2026-07-07T23:16:04Z",
+  "minimumOsVersion": "15.6",
+  "version": "1.41",
+  "currentVersionReleaseDate": "2026-10-23T06:23:39Z",
   "releaseDate": "2021-06-01T07:00:00Z",
   "artistId": 1188809867,
   "artistName": "Small Water s.r.o.",
@@ -273,8 +273,13 @@
       "version": "1.31",
       "releaseNotes": "The game has broken free of the watch - Space Impact is now fully playable on iPhone and iPad!\n\n- Hold to move, hold to fire, tap to launch the nuke\n- Classic Nokia layout: the 84x48 game screen on top, keypad below\n- All eight story levels plus infinite mode\n- Haptic feedback that channels the old vibration motor\n- Minor fixes and performance improvements",
       "seenAt": "2026-07-07T23:16:04Z"
+    },
+    {
+      "version": "1.41",
+      "releaseNotes": "The game has broken free of the watch - Space Impact is now fully playable on iPhone and iPad!\n\n- Hold to move, hold to fire, tap to launch the nuke\n- Classic Nokia layout: the 84x48 game screen on top, keypad below\n- All eight story levels plus infinite mode\n- Haptic feedback that channels the old vibration motor\n- Minor fixes and performance improvements",
+      "seenAt": "2026-10-23T06:23:39Z"
     }
   ],
-  "updatedAt": "2026-10-22T12:21:38.841Z",
+  "updatedAt": "2026-10-23T12:13:13.307Z",
   "isOwnApp": false
 }
