@@ -72,6 +72,7 @@
   "sellerUrl": "https://lockstepgame.com/",
   "isGameCenterEnabled": true,
   "supportedDevices": [
+    "MacDesktop-MacDesktop",
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
     "iPadAirCellular-iPadAirCellular",
@@ -260,6 +261,6 @@
       "seenAt": "2026-10-21T22:30:42Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:04:57.439Z",
+  "updatedAt": "2026-10-24T11:24:23.709Z",
   "isOwnApp": false
 }

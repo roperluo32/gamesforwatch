@@ -138,6 +138,7 @@
   "sellerUrl": "",
   "isGameCenterEnabled": true,
   "supportedDevices": [
+    "MacDesktop-MacDesktop",
     "iPhone5s-iPhone5s",
     "iPadAir-iPadAir",
     "iPadAirCellular-iPadAirCellular",
@@ -351,6 +352,6 @@
       "seenAt": "2026-10-20T23:12:48Z"
     }
   ],
-  "updatedAt": "2026-10-23T11:33:38.291Z",
+  "updatedAt": "2026-10-24T10:53:40.371Z",
   "isOwnApp": false
 }

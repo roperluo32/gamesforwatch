@@ -81,7 +81,7 @@
   "releaseDate": "2026-04-03T07:00:00Z",
   "artistId": 1883695788,
   "artistName": "Lucas GS",
-  "artistViewUrl": "https://apps.apple.com/de/developer/lucas-gs/id1883695788?uo=4",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/lucas-gs/id1883695788?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -240,6 +240,6 @@
       "seenAt": "2026-04-03T13:18:02Z"
     }
   ],
-  "updatedAt": "2026-10-23T11:37:42.589Z",
+  "updatedAt": "2026-10-24T10:57:48.959Z",
   "isOwnApp": false
 }
