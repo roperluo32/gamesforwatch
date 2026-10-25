@@ -7,7 +7,7 @@
     "en": {
       "trackName": "X-Puzzle",
       "description": "X Puzzle is the classic sliding puzzle, reimagined as a beautiful wooden set. Slide maple and walnut tiles around a walnut tray and put them back in order in as few moves as you can.\n\nChoose your challenge:\n• Seven boards, from a quick 3×3 to the brand-new 10×10 with 99 tiles\n• The classic 4×4 \"15 puzzle\", plus 4×3, 5×3, 5×4 and 5×5\n\nFeatures:\n• Realistic wooden tiles, warm lighting and smooth drag-to-slide controls\n• Slide a whole row of tiles in one move\n• Every shuffle is random and always solvable\n• Game Center leaderboards and achievements, plus your personal bests on the device\n• Challenge friends in the Games app, or send them your board in iMessage\n• A playable Home Screen widget\n• Runs on iPhone, iPad, Mac and Apple Watch\n• No ads. An optional tip jar if you'd like to say thanks.\n\nThanks for playing!",
-      "releaseNotes": "X Puzzle comes to more of your Apple devices:\n• Apple Watch: play 3×3, 4×3 and 4×4 on your wrist, and 5×5 on larger watches\n• Mac: X Puzzle now runs natively on your Mac, with keyboard controls\n• Home Screen widget: a little puzzle you can play right on your Home Screen\n• iMessage: send a friend your shuffled board and see if they can beat your moves\n• App Clip: try a quick game without installing the app\n• Game Center achievements, and challenges with friends in the Games app\n• Play in portrait or landscape on iPhone and iPad\n• New music played on marimba and kalimba\n• A refreshed menu with a shuffled, live 3D board",
+      "releaseNotes": "• On iPad with a keyboard: a new Help menu with How to Play (⌘?) and a link to the support website\n• With a keyboard connected, How to Play also explains the keyboard controls\n• Bug fixes and updates for the latest iOS and iPadOS",
       "trackViewUrl": "https://apps.apple.com/us/app/x-puzzle/id1113080641?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Peter Purmonen",
@@ -46,7 +46,7 @@
     "ja": {
       "trackName": "X-Puzzle",
       "description": "X Puzzle is the classic sliding puzzle, reimagined as a beautiful wooden set. Slide maple and walnut tiles around a walnut tray and put them back in order in as few moves as you can.\n\nChoose your challenge:\n• Seven boards, from a quick 3×3 to the brand-new 10×10 with 99 tiles\n• The classic 4×4 \"15 puzzle\", plus 4×3, 5×3, 5×4 and 5×5\n\nFeatures:\n• Realistic wooden tiles, warm lighting and smooth drag-to-slide controls\n• Slide a whole row of tiles in one move\n• Every shuffle is random and always solvable\n• Game Center leaderboards and achievements, plus your personal bests on the device\n• Challenge friends in the Games app, or send them your board in iMessage\n• A playable Home Screen widget\n• Runs on iPhone, iPad, Mac and Apple Watch\n• No ads. An optional tip jar if you'd like to say thanks.\n\nThanks for playing!",
-      "releaseNotes": "X Puzzle comes to more of your Apple devices:\n• Apple Watch: play 3×3, 4×3 and 4×4 on your wrist, and 5×5 on larger watches\n• Mac: X Puzzle now runs natively on your Mac, with keyboard controls\n• Home Screen widget: a little puzzle you can play right on your Home Screen\n• iMessage: send a friend your shuffled board and see if they can beat your moves\n• App Clip: try a quick game without installing the app\n• Game Center achievements, and challenges with friends in the Games app\n• Play in portrait or landscape on iPhone and iPad\n• New music played on marimba and kalimba\n• A refreshed menu with a shuffled, live 3D board",
+      "releaseNotes": "• On iPad with a keyboard: a new Help menu with How to Play (⌘?) and a link to the support website\n• With a keyboard connected, How to Play also explains the keyboard controls\n• Bug fixes and updates for the latest iOS and iPadOS",
       "trackViewUrl": "https://apps.apple.com/jp/app/x-puzzle/id1113080641?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Peter Purmonen",
@@ -85,7 +85,7 @@
     "de": {
       "trackName": "X-Puzzle",
       "description": "X Puzzle is the classic sliding puzzle, reimagined as a beautiful wooden set. Slide maple and walnut tiles around a walnut tray and put them back in order in as few moves as you can.\n\nChoose your challenge:\n• Seven boards, from a quick 3×3 to the brand-new 10×10 with 99 tiles\n• The classic 4×4 \"15 puzzle\", plus 4×3, 5×3, 5×4 and 5×5\n\nFeatures:\n• Realistic wooden tiles, warm lighting and smooth drag-to-slide controls\n• Slide a whole row of tiles in one move\n• Every shuffle is random and always solvable\n• Game Center leaderboards and achievements, plus your personal bests on the device\n• Challenge friends in the Games app, or send them your board in iMessage\n• A playable Home Screen widget\n• Runs on iPhone, iPad, Mac and Apple Watch\n• No ads. An optional tip jar if you'd like to say thanks.\n\nThanks for playing!",
-      "releaseNotes": "X Puzzle comes to more of your Apple devices:\n• Apple Watch: play 3×3, 4×3 and 4×4 on your wrist, and 5×5 on larger watches\n• Mac: X Puzzle now runs natively on your Mac, with keyboard controls\n• Home Screen widget: a little puzzle you can play right on your Home Screen\n• iMessage: send a friend your shuffled board and see if they can beat your moves\n• App Clip: try a quick game without installing the app\n• Game Center achievements, and challenges with friends in the Games app\n• Play in portrait or landscape on iPhone and iPad\n• New music played on marimba and kalimba\n• A refreshed menu with a shuffled, live 3D board",
+      "releaseNotes": "• On iPad with a keyboard: a new Help menu with How to Play (⌘?) and a link to the support website\n• With a keyboard connected, How to Play also explains the keyboard controls\n• Bug fixes and updates for the latest iOS and iPadOS",
       "trackViewUrl": "https://apps.apple.com/de/app/x-puzzle/id1113080641?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Peter Purmonen",
@@ -122,15 +122,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/dd/0b/02dd0b7c-cee0-c43d-1aaa-cb02e0df92c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/33/23/26332300-8fce-7a24-d7a9-c1ec32eb4192/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "56869888",
+  "fileSizeBytes": "57013248",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "5.1.0",
-  "currentVersionReleaseDate": "2026-10-20T23:12:48Z",
+  "version": "5.3.0",
+  "currentVersionReleaseDate": "2026-10-24T16:09:34Z",
   "releaseDate": "2016-06-06T19:48:28Z",
   "artistId": 1105997209,
   "artistName": "Peter Purmonen",
@@ -350,8 +350,13 @@
       "version": "5.1.0",
       "releaseNotes": "X Puzzle comes to more of your Apple devices:\n• Apple Watch: play 3×3, 4×3 and 4×4 on your wrist, and 5×5 on larger watches\n• Mac: X Puzzle now runs natively on your Mac, with keyboard controls\n• Home Screen widget: a little puzzle you can play right on your Home Screen\n• iMessage: send a friend your shuffled board and see if they can beat your moves\n• App Clip: try a quick game without installing the app\n• Game Center achievements, and challenges with friends in the Games app\n• Play in portrait or landscape on iPhone and iPad\n• New music played on marimba and kalimba\n• A refreshed menu with a shuffled, live 3D board",
       "seenAt": "2026-10-20T23:12:48Z"
+    },
+    {
+      "version": "5.3.0",
+      "releaseNotes": "• On iPad with a keyboard: a new Help menu with How to Play (⌘?) and a link to the support website\n• With a keyboard connected, How to Play also explains the keyboard controls\n• Bug fixes and updates for the latest iOS and iPadOS",
+      "seenAt": "2026-10-24T16:09:34Z"
     }
   ],
-  "updatedAt": "2026-10-24T10:53:40.371Z",
+  "updatedAt": "2026-10-25T11:17:48.061Z",
   "isOwnApp": false
 }

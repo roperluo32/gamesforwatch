@@ -64,8 +64,8 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.0",
-  "currentVersionReleaseDate": "2026-03-05T16:25:17Z",
-  "releaseDate": "2026-03-05T08:00:00Z",
+  "currentVersionReleaseDate": "2026-03-18T07:00:00Z",
+  "releaseDate": "2026-03-18T07:00:00Z",
   "artistId": 1877741500,
   "artistName": "VICTOR SALVADOR DOMINGUEZ ARAGON",
   "artistViewUrl": "https://apps.apple.com/de/developer/victor-salvador-dominguez-aragon/id1877741500?uo=4",
@@ -231,6 +231,6 @@
       "seenAt": "2026-03-05T16:25:17Z"
     }
   ],
-  "updatedAt": "2026-10-24T11:36:34.514Z",
+  "updatedAt": "2026-10-25T11:59:33.452Z",
   "isOwnApp": false
 }

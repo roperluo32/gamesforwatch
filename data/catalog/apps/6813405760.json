@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Chess Hall: Watch Games",
       "description": "Wrist Chess Hall is an offline board game collection designed for iPhone, iPad, and Apple Watch.\nStep into a watercolor-inspired game hall and choose from four classic games:\n• Chinese Chess: Casual rules with check, horse-leg, elephant-eye, cannon-screen, palace, and river rules.\n• Gomoku: Play on 9×9 or 13×13 boards.\n• Reversi: Choose 6×6 or 8×8 boards with automatic pass handling.\n• Tic-Tac-Toe: A quick game for a short break.\nThe app includes:\n• Offline games against the computer\n• Beginner, Advanced, and Challenge difficulty levels\n• Two-player games on one device\n• First-player and second-player options\n• Full-screen board layout on Apple Watch\n• Automatic save and resume\n• Undo, hints, move confirmation, and legal move hints\n• Sound effects and haptic feedback\n• No account, ads, or internet connection required\nGames are stored locally on the current device. iPhone and Apple Watch keep separate saved games.\nWhat’s New\nFirst release: Chinese Chess, Gomoku, Reversi, and Tic-Tac-Toe with offline play on iPhone, iPad, and Apple Watch.",
-      "releaseNotes": "The purchase screen appears after your free game ends. Starting another game of the same type that day will also prompt you to purchase.\nContinue an unfinished saved game without using another free game allowance.\nA one-time purchase permanently unlocks unlimited play across all game types. Restore Purchases is supported.",
+      "releaseNotes": "All games are free to play in this version, with no daily limits. In-app purchases and purchase prompts are temporarily disabled. Start another game immediately after a match, or continue an unfinished saved game anytime.",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-chess-hall-watch-games/id6813405760?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -97,19 +97,19 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/5a/8c/5b5a8c19-838c-12c3-23d8-c4e8876e54ba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/04/36/d004360c-80c5-9834-1f39-ea9aa4bebf19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "22742016",
+  "fileSizeBytes": "22504448",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2026-10-22T16:37:18Z",
+  "version": "2.1",
+  "currentVersionReleaseDate": "2026-10-24T17:52:15Z",
   "releaseDate": "2026-09-22T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
-  "artistViewUrl": "https://apps.apple.com/de/developer/ningyue/id6807404786?uo=4",
+  "artistViewUrl": "https://apps.apple.com/us/developer/ningyue/id6807404786?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -490,8 +490,13 @@
       "version": "2.0",
       "releaseNotes": "The purchase screen appears after your free game ends. Starting another game of the same type that day will also prompt you to purchase.\nContinue an unfinished saved game without using another free game allowance.\nA one-time purchase permanently unlocks unlimited play across all game types. Restore Purchases is supported.",
       "seenAt": "2026-10-22T16:37:18Z"
+    },
+    {
+      "version": "2.1",
+      "releaseNotes": "All games are free to play in this version, with no daily limits. In-app purchases and purchase prompts are temporarily disabled. Start another game immediately after a match, or continue an unfinished saved game anytime.",
+      "seenAt": "2026-10-24T17:52:15Z"
     }
   ],
-  "updatedAt": "2026-10-24T10:51:55.978Z",
+  "updatedAt": "2026-10-25T11:15:04.419Z",
   "isOwnApp": false
 }

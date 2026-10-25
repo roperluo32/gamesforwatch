@@ -70,7 +70,7 @@
       "description": "テクノロジー業界の億万長者になりたいと思ったことは？今がチャンス！進歩を嫌う敵を飛び越え、あちこちでお金を集めながら、億万長者の日常を体験しよう！時計、スマートフォン、タブレットで遊べます。\n\n特徴：\n- 魅力的なレトログラフィック\n- 終わりのないステージ\n- クールなグレースケールモード\n- オフラインでプレイ可能（プレイにインターネット接続は不要）\n- さらにアンロックできるゲームも用意",
       "releaseNotes": "新しいコンテンツを追加",
       "trackViewUrl": "https://apps.apple.com/jp/app/tech-billionaire-jump-run/id6727009383?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "Du wolltest schon immer Tech-Milliardär sein? Jetzt hast du die Chance! Erlebe seinen Alltag: Springe über fortschrittsfeindliche Gegner und sammle Geld, wo immer du kannst! Für Uhr, Handy und Tablet.\n\nFeatures:\n- Tolle Retro-Grafik\n- Endlose Level\n- Cooler Graustufenmodus\n- Offline spielen (keine Internetverbindung zum Spielen nötig)\n- Weitere Spiele zum Freischalten",
       "releaseNotes": "Neue Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/tech-billionaire-jump-run/id6727009383?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/1b/45/5d1b4552-99de-0ac3-06de-c1a8c58219b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "96303104",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -498,6 +498,6 @@
       "seenAt": "2026-10-14T15:32:30Z"
     }
   ],
-  "updatedAt": "2026-10-24T11:19:40.634Z",
+  "updatedAt": "2026-10-25T11:43:44.464Z",
   "isOwnApp": false
 }
