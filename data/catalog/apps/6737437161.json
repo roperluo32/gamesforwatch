@@ -9,7 +9,7 @@
       "description": "Cookie Tapper - The iconic cookie-clicking experience, now on your wrist!\n\nThis super polished and fully optimized for Apple Watch app brings the iconic game to your wrist. Enjoy the following features:\n\n- Satisfying click animations\n- Tons of upgrades to buy\n- Variety of cookie skins\n- Global leaderboard\n- Support for 7 languages\n- Constant updates and bug fixes\n- Friendly community\n\nDownload now and start tapping cookies!",
       "releaseNotes": "Minor app improvements & bug fixes. Thanks for playing Cookie Tapper!",
       "trackViewUrl": "https://apps.apple.com/us/app/cookie-tapper/id6737437161?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Nils Steffmann",
       "genres": [
         "Games",
@@ -27,7 +27,7 @@
       "description": "クッキー・タッパー – あの伝説のクッキークリック体験が、ついに手首に登場！\n\nApple Watch に完全最適化されたこの高品質アプリで、あの名作ゲームを手首で楽しもう。主な特徴はこちら：\n\n気持ちいいクリックアニメーション\n購入できる多数のアップグレード\nバラエティ豊かなクッキースキン\nグローバルランキング\n7言語対応\n定期的なアップデートとバグ修正\nフレンドリーなコミュニティ\n今すぐダウンロードして、クッキーをタップしよう！",
       "releaseNotes": "アプリの軽微な改善と不具合の修正を行いました。Cookie Tapperをプレイしていただきありがとうございます！",
       "trackViewUrl": "https://apps.apple.com/jp/app/cookie-tapper/id6737437161?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Nils Steffmann",
       "genres": [
         "ゲーム",
@@ -45,7 +45,7 @@
       "description": "Cookie Tapper – Das ikonische Cookie-Klick-Erlebnis, jetzt an deinem Handgelenk!\n\nDiese hochpolierte und vollständig für die Apple Watch optimierte App bringt das Kultspiel direkt auf dein Handgelenk. Freu dich auf folgende Features:\n\nZufriedenstellende Klick-Animationen\nZahlreiche Upgrades zum Kaufen\nVerschiedene Cookie-Designs\nGlobale Rangliste\nUnterstützung für 7 Sprachen\nStändige Updates und Bugfixes\nFreundliche Community\nJetzt herunterladen und losklicken!",
       "releaseNotes": "Kleinere App-Verbesserungen und Fehlerbehebungen. Danke, dass du Cookie Tapper spielst!",
       "trackViewUrl": "https://apps.apple.com/de/app/cookie-tapper/id6737437161?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "1,99 €",
       "sellerName": "Nils Steffmann",
       "genres": [
         "Spiele",
@@ -62,7 +62,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ef/99/63ef997e-fb84-622d-e82e-6605d52ebb52/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 1.99,
   "fileSizeBytes": "43200512",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
@@ -371,6 +371,6 @@
       "seenAt": "2026-10-23T05:33:17Z"
     }
   ],
-  "updatedAt": "2026-10-25T11:47:42.054Z",
+  "updatedAt": "2026-10-26T13:24:27.527Z",
   "isOwnApp": false
 }

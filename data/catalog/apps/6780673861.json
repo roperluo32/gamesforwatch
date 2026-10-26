@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "• New game Square Rush: predict all eight colors’ places, last out each round, payout by hits\n• Tide Line: new maps, knife duels return; scrollable bet lobby with clear win amount\n• Fresh autumn hub icons; newer games sit near the top\n• Polish and copy tweaks",
+      "releaseNotes": "• Full notebook sketch restyle (ruled paper, hand-drawn icons)\n• More consistent look & feel across iPhone and Apple Watch\n• Shop, Settings, Feedback and more redrawn in sketch style\n• Stability improvements and bug fixes",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -17,6 +17,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "ZH",
         "ZH"
       ],
@@ -41,10 +42,10 @@
       "subtitle": ""
     },
     "ja": {
-      "trackName": "腕上休闲",
-      "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "• 新游戏「方块冲刺」：预测八色名次，掉落淘汰，猜中按倍数返还\n• 「赶潮」新地图上线，刀战玩法回归；下注页可滑动，并显示猜中可得金额\n• 大厅秋日新图标，近期新作靠前展示\n• 体验与文案细节优化",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
+      "trackName": "手首レジャー",
+      "description": "手首レジャーは、Apple Watch で遊べる手描きカジュアルゲーム集です。iPhone がなくても、腕を上げてすぐ始められます。\n\n【こんなときに】\n・待ち時間や移動のすきま\n・休憩の30秒\n・プールや外出先でスマホを出せないとき\n\n【できること】\n・パズル・リラックス・音遊び・育成など、多彩なミニゲーム\n・Watch 単体でプレイ、成績はペアリングした iPhone でも確認\n・ノートの方眼紙＋手描きアイコンのやさしい見た目\n・言語切り替え、コイン／ショップ、フィードバックなど便利機能\n\n手首の上の、軽いレジャーをどうぞ。",
+      "releaseNotes": "・全体をノート手描きスタイルに刷新（方眼紙背景・手描きアイコン）\n・iPhone／Apple Watch の見た目と操作感を統一\n・ショップ・設定・フィードバックなど周辺画面も手描き化\n・安定性の改善と軽微な不具合修正",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%89%8B%E9%A6%96%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
       "genres": [
@@ -53,6 +54,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "ZH",
         "ZH"
       ],
@@ -61,7 +63,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "• 新游戏「方块冲刺」：预测八色名次，掉落淘汰，猜中按倍数返还\n• 「赶潮」新地图上线，刀战玩法回归；下注页可滑动，并显示猜中可得金额\n• 大厅秋日新图标，近期新作靠前展示\n• 体验与文案细节优化",
+      "releaseNotes": "• 全面换上手绘作业本风格（横格纸背景、手绘图标）\n• iPhone 与 Apple Watch 视觉与操作更统一\n• 商城、设置、反馈等页面同步手绘化\n• 稳定性提升与若干问题修复",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -71,21 +73,22 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "ZH",
         "ZH"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e5/9833e52e-b721-686a-522f-c834d8ea366b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d0/d0/1dd0d052-9ef7-5353-5af1-c69eedb032a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "67113984",
+  "fileSizeBytes": "67582976",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "1.0.26",
-  "currentVersionReleaseDate": "2026-10-23T04:14:01Z",
+  "version": "2.0.0",
+  "currentVersionReleaseDate": "2026-10-25T22:34:37Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -227,6 +230,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/db/ce/68dbcea7-3d1c-51f3-c022-2a3279c302ab/Screenshot_iPhone_Duo_2026-10-25_at_23.40.06.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/38/36/333836ca-3d2a-7a4f-f55c-53c9a1fecdab/Screenshot_iPhone_Duo_2026-10-25_at_23.40.19.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/67/cf/4d67cf3b-1127-95f5-5208-c13c7633edf4/Screenshot_iPhone_Duo_2026-10-25_at_23.40.30.png/2007x2853bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/fa/dc/69fadcb4-02cc-d7ff-e057-f222670f11ba/JtaanVcy.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/b7/83/62b78345-4801-7964-347d-ee5b3b7932e4/p41Rtngb.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/07/8e/1c078e93-e04c-fb93-1914-dbdb77931d0e/Screenshot_iPhone_Air_2026-09-24_at_08.21.28.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/e1/7e/dbe17e7f-c301-d1e6-4a4e-b24478d01387/4enqP3gW.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/35/9b/50359be2-3e4e-dbbe-31a5-581a6eee9d3a/dKEuGt2a.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/8b/67/f08b67bb-0c01-806b-9e56-ffa4330346d6/Screenshot_iPhone_Air_2026-10-25_at_22.37.52.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/0d/02/cf0d024b-02fb-da13-17f9-17b2a3235295/jtQkcaX5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/75/c7/6475c7ad-4c79-6b66-444d-5744c6c0632e/vcF2OcYP.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/22/ec/d822ecf8-2409-8032-55ed-474b0d22acab/Screenshot_iPhone_Air_2026-10-25_at_21.43.25.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/9d/04/3c9d04d1-e176-e0e3-fa66-66881435cffc/qJ1vQu36.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/0d/48/750d4854-3161-e2d9-0acf-85b6fb012c2a/Ddlt7wJy.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/fd/e5/7dfde513-929d-5b2e-70d7-18c7670f4d7b/Screenshot_iPhone_Air_2026-10-25_at_22.41.07.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/e1/7e/dbe17e7f-c301-d1e6-4a4e-b24478d01387/4enqP3gW.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/35/9b/50359be2-3e4e-dbbe-31a5-581a6eee9d3a/dKEuGt2a.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/8b/67/f08b67bb-0c01-806b-9e56-ffa4330346d6/Screenshot_iPhone_Air_2026-10-25_at_22.37.52.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/87/ec/bf87ecbc-80da-8a80-07a0-6e2f1179fa17/Screenshot_iPhone_Duo_2026-10-14_at_06.25.00.png/2853x2007bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a3/32/6ca3326d-6ebd-feba-2d98-ac4aaa3c2b6f/Screenshot_iPhone_Duo_2026-10-14_at_06.25.09.png/2007x2853bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/8e/70/9f8e707a-23e2-4d83-cb53-eba2738f55ed/duo_outer_home.png/1398x2034bb.png",
@@ -265,6 +286,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/cc/22/10cc22c8-707c-6041-f9e9-51fe96530282/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-29_at_05.41.52.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/5d/8e/4d5d8e2f-a322-3699-f4bb-137bf066ad35/Screenshot_Apple_Watch_Ultra_3__U002849mm_U0029_2026-10-25_at_22.31.39.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/99/f2/9699f284-c65f-c15a-c9c1-4ccf3da2320e/Screenshot_Apple_Watch_Ultra_3__U002849mm_U0029_2026-10-25_at_22.31.51.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/b4/36/fdb43619-e75f-dfe7-656e-d7f7b6eaf066/Screenshot_Apple_Watch_Ultra_3__U002849mm_U0029_2026-10-25_at_22.32.04.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/8b/e8/948be8ee-3ed2-c96b-192e-906a7617c691/Screenshot_Apple_Watch_Ultra_3__U002849mm_U0029_2026-09-24_at_10.33.20.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/81/6b/95816b5f-4fcb-c990-ddb9-a53a24ecd9a5/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.16.56.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/9f/01/2e9f0161-282b-1ba1-bf49-4ab57c2a216e/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-09-10_at_21.17.05.png/422x514bb.png",
@@ -411,8 +435,13 @@
       "version": "1.0.26",
       "releaseNotes": "• New game Square Rush: predict all eight colors’ places, last out each round, payout by hits\n• Tide Line: new maps, knife duels return; scrollable bet lobby with clear win amount\n• Fresh autumn hub icons; newer games sit near the top\n• Polish and copy tweaks",
       "seenAt": "2026-10-23T04:14:01Z"
+    },
+    {
+      "version": "2.0.0",
+      "releaseNotes": "• Full notebook sketch restyle (ruled paper, hand-drawn icons)\n• More consistent look & feel across iPhone and Apple Watch\n• Shop, Settings, Feedback and more redrawn in sketch style\n• Stability improvements and bug fixes",
+      "seenAt": "2026-10-25T22:34:37Z"
     }
   ],
-  "updatedAt": "2026-10-25T11:47:45.845Z",
+  "updatedAt": "2026-10-26T13:24:31.503Z",
   "isOwnApp": false
 }
