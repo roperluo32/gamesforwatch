@@ -109,8 +109,8 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
   "version": "1.0.1",
-  "currentVersionReleaseDate": "2026-03-18T22:25:51Z",
-  "releaseDate": "2026-03-03T08:00:00Z",
+  "currentVersionReleaseDate": "2026-04-16T07:00:00Z",
+  "releaseDate": "2026-04-16T07:00:00Z",
   "artistId": 1879521905,
   "artistName": "haedong kim",
   "artistViewUrl": "https://apps.apple.com/de/developer/haedong-kim/id1879521905?uo=4",
@@ -282,6 +282,6 @@
       "seenAt": "2026-03-18T22:25:51Z"
     }
   ],
-  "updatedAt": "2026-10-26T13:36:16.626Z",
+  "updatedAt": "2026-10-27T12:49:30.513Z",
   "isOwnApp": false
 }

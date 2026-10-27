@@ -9,7 +9,7 @@
       "description": "A new type of breaker game on Watch & Phone:\n- Drag left / right (or Digital Crown on Watch) to roll.\n- Don't let the ball out.\n- Compete against friends or the world!\n*** GET IT NOW ***",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Optimized for new OS.",
       "trackViewUrl": "https://apps.apple.com/us/app/neon-breakout-watch-phone/id6449887741?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
@@ -280,6 +280,6 @@
       "seenAt": "2024-08-20T12:10:48Z"
     }
   ],
-  "updatedAt": "2026-10-26T13:05:11.094Z",
+  "updatedAt": "2026-10-27T12:20:41.536Z",
   "isOwnApp": false
 }
