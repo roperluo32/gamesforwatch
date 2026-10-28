@@ -59,7 +59,7 @@
   "minimumOsVersion": "15.0",
   "version": "1.4.5",
   "currentVersionReleaseDate": "2026-09-22T18:56:52Z",
-  "releaseDate": "2026-05-28T07:00:00Z",
+  "releaseDate": "2026-06-09T07:00:00Z",
   "artistId": 6771863974,
   "artistName": "ANIMA LABS GAMES LTDA",
   "artistViewUrl": "https://apps.apple.com/de/developer/anima-labs-games-ltda/id6771863974?uo=4",
@@ -372,6 +372,6 @@
       "seenAt": "2026-09-22T18:56:52Z"
     }
   ],
-  "updatedAt": "2026-10-27T12:41:23.122Z",
+  "updatedAt": "2026-10-28T13:16:32.158Z",
   "isOwnApp": false
 }

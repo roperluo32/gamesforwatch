@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Rotational: Color Block Puzzle",
       "description": "Spin the rings. Match the colors. Clear the board.\n\nRotational is a fast, original color-matching puzzle. Blocks appear around the centre and fall outwards onto rings of color. Drag around the rings to turn them so each block lands next to its own color – every touching group of two or more disappears. Match again on your next drop to build your multiplier; miss and it resets.\n\nDAILY PUZZLE\nA new board every day, the same for every player in the world. Clear it as fast as you can, compare your time on the daily leaderboard and keep your streak going.\n\nShare your result as a row of coloured dots – one for every move – without giving the board away.\n\nFIVE WAYS TO PLAY\n• Daily Puzzle – one shared board a day (free)\n• Continuous – endless play that speeds up every level (free)\n• Calm – no clock: line up every drop at your own pace\n• Puzzle – clear a packed board against the clock\n• Time Attack – score as much as you can in 60 seconds\n\nCalm, Puzzle and Time Attack unlock with one small purchase. No ads, no subscriptions, no tracking.\n\nPLAY IT YOUR WAY\n• iPhone, iPad, Apple Watch and Apple TV – buy once, play on all four\n• On Apple Watch, turn the Digital Crown to spin the rings, click by click\n• On Apple TV, circle your thumb on the Siri Remote to spin the rings\n• Home Screen and Lock Screen widgets keep your streak in view\n• Game controller and keyboard support\n• Plays offline – no Wi-Fi needed\n• Game Center leaderboards and achievements\n• Optional color-blind shapes on every block\n• Haptics and the original sound effects\n\nRotational first launched in 2013. Version 2 is a complete rebuild for today's iPhone, iPad, Apple Watch and Apple TV, with the same simple, addictive rules.",
-      "releaseNotes": "Rotational is back, rebuilt from scratch.\n• New Daily Puzzle: one shared board a day, with streaks, a daily leaderboard and a result you can share\n• New Calm mode: no clock, so you can line up every drop\n• Now on iPhone, iPad, Apple Watch and Apple TV – turn the Digital Crown or circle the Siri Remote to spin\n• Home Screen and Lock Screen widgets, color-blind shapes, haptics and smooth 120 Hz play\n• No more ads. Continuous and the Daily Puzzle are free; Calm, Puzzle and Time Attack are a one-time unlock\nIf you played the original, every mode is already unlocked for you.",
+      "releaseNotes": "Fixed: the Apple Watch game no longer closes when you turn the Digital Crown.\nGame Center sign-in is more reliable.",
       "trackViewUrl": "https://apps.apple.com/us/app/rotational-color-block-puzzle/id686485239?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Boluga Limited",
@@ -34,7 +34,7 @@
     "ja": {
       "trackName": "Rotational: カラーブロックパズル",
       "description": "リングを回して、同じ色をそろえて、盤面をクリア。\n\nRotational は、スピード感あふれるオリジナルのカラーパズルです。中心に現れたブロックが外側のカラフルなリングへ落ちていきます。リングを指で回して、ブロックを同じ色の隣に着地させましょう。2つ以上つながった同じ色のブロックは消えます。次の一手でも続けて消せば倍率アップ、ミスするとリセットされます。\n\nDAILY PUZZLE\n毎日新しい盤面が登場。世界中のプレイヤーが同じ盤面に挑戦します。できるだけ速くクリアして、デイリーランキングでタイムを競い、連続記録を伸ばしましょう。\n\n結果は1手ごとの色の点として共有でき、盤面のネタバレになりません。\n\n5つのモード\n• Daily Puzzle – 1日1つの共通盤面（無料）\n• Continuous – レベルごとに速くなるエンドレスモード（無料）\n• Calm – 時間制限なし。自分のペースで狙いを定める\n• Puzzle – ぎっしり詰まった盤面を時間内にクリア\n• Time Attack – 60秒でハイスコアを狙う\n\nCalm、Puzzle、Time Attack は1回の購入でアンロック。広告、サブスクリプション、トラッキングは一切ありません。\n\n好きなスタイルで\n• iPhone、iPad、Apple Watch、Apple TV – 1回の購入ですべてで遊べる\n• Apple Watch では Digital Crown を回してリングを1マスずつ回転\n• Apple TV では Siri Remote のクリックパッドを円を描くようになぞってリングを回転\n• ホーム画面とロック画面のウィジェットで連続記録をチェック\n• ゲームコントローラとキーボードに対応\n• オフラインで遊べる – Wi-Fi 不要\n• Game Center のランキングと達成項目\n• 色覚サポート用の形マーク（オプション）\n• 触覚フィードバックとオリジナルの効果音\n\nRotational は2013年に誕生。バージョン2では iPhone、iPad、Apple Watch、Apple TV 向けにゼロから作り直し、シンプルでやみつきになるルールはそのままです。",
-      "releaseNotes": "Rotational が生まれ変わって復活しました。\n• 新モード Daily Puzzle：1日1つの共通盤面、連続記録・デイリーランキング・結果の共有に対応\n• 新モード Calm：時間制限なしでじっくり狙える\n• iPhone、iPad、Apple Watch、Apple TV に対応。Digital Crown、Siri Remote、コントローラ、キーボードで遊べます\n• ホーム画面とロック画面のウィジェット\n• 色覚サポートの形マーク、触覚フィードバック、なめらかな120Hz\n• 広告を廃止。Continuous と Daily Puzzle は無料、Calm、Puzzle、Time Attack は1回の購入でアンロック\n以前のバージョンを遊んでいた方は、すべてのモードがすでにアンロックされています。",
+      "releaseNotes": "Digital Crown を回すと Apple Watch のゲームが終了する問題を修正しました。\nGame Center へのサインインがより安定しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/rotational-%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB/id686485239?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Boluga Limited",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Rotational: Block-Puzzle",
       "description": "Dreh die Ringe. Verbinde die Farben. Räume das Brett.\n\nRotational ist ein schnelles, originelles Farb-Puzzle. Blöcke erscheinen in der Mitte und fallen nach außen auf farbige Ringe. Dreh die Ringe mit dem Finger, damit jeder Block neben seiner Farbe landet – jede zusammenhängende Gruppe aus zwei oder mehr verschwindet. Triff beim nächsten Wurf erneut, um deinen Multiplikator zu steigern; ein Fehlwurf setzt ihn zurück.\n\nDAILY PUZZLE\nJeden Tag ein neues Brett, für alle Spieler weltweit gleich. Räume es so schnell wie möglich, vergleiche deine Zeit in der Tagesbestenliste und halte deine Serie.\n\nTeile dein Ergebnis als Reihe farbiger Punkte – einer pro Zug –, ohne das Brett zu verraten.\n\nFÜNF SPIELMODI\n• Daily Puzzle – ein gemeinsames Brett pro Tag (kostenlos)\n• Continuous – endloses Spiel, das mit jedem Level schneller wird (kostenlos)\n• Calm – ohne Uhr: Richte jeden Wurf in deinem Tempo aus\n• Puzzle – räume ein volles Brett gegen die Uhr\n• Time Attack – so viele Punkte wie möglich in 60 Sekunden\n\nCalm, Puzzle und Time Attack schaltest du mit einem kleinen Einmalkauf frei. Keine Werbung, keine Abos, kein Tracking.\n\nSPIEL, WIE DU WILLST\n• iPhone, iPad, Apple Watch und Apple TV – einmal kaufen, überall spielen\n• Auf der Apple Watch drehst du die Ringe mit der Digital Crown, Klick für Klick\n• Auf Apple TV drehst du die Ringe mit einer Kreisbewegung auf der Siri Remote\n• Widgets für Home-Bildschirm und Sperrbildschirm zeigen deine Serie\n• Unterstützung für Controller und Tastatur\n• Offline spielbar – kein WLAN nötig\n• Game Center-Bestenlisten und Erfolge\n• Optionale Formen auf jedem Block bei Farbenblindheit\n• Haptik und die originalen Soundeffekte\n\nRotational erschien erstmals 2013. Version 2 ist eine komplette Neuentwicklung für iPhone, iPad, Apple Watch und Apple TV – mit denselben einfachen Regeln, die süchtig machen.",
-      "releaseNotes": "Rotational ist zurück – komplett neu gebaut.\n• Neu: Daily Puzzle – ein gemeinsames Brett pro Tag, mit Serien, Tagesbestenliste und teilbarem Ergebnis\n• Neu: Calm-Modus ohne Uhr – richte jeden Wurf in Ruhe aus\n• Jetzt auf iPhone, iPad, Apple Watch und Apple TV – mit Digital Crown, Siri Remote, Controller und Tastatur\n• Widgets für Home- und Sperrbildschirm\n• Formen bei Farbenblindheit, Haptik und flüssige 120 Hz\n• Keine Werbung mehr. Continuous und Daily Puzzle sind kostenlos; Calm, Puzzle und Time Attack per Einmalkauf\nWer das Original gespielt hat, hat bereits alle Modi freigeschaltet.",
+      "releaseNotes": "Behoben: Das Spiel auf der Apple Watch schließt sich nicht mehr, wenn du die Digital Crown drehst.\nDie Anmeldung bei Game Center ist zuverlässiger.",
       "trackViewUrl": "https://apps.apple.com/de/app/rotational-block-puzzle/id686485239?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Boluga Limited",
@@ -86,15 +86,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/97/ce/d897ce99-9270-c932-7cbd-7199e680179a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/5c/e7/455ce745-70db-7694-4e15-2dac1b8ccda9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "3468288",
+  "fileSizeBytes": "3472384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2026-10-20T16:35:40Z",
+  "version": "2.0.1",
+  "currentVersionReleaseDate": "2026-10-27T20:22:46Z",
   "releaseDate": "2013-09-19T00:54:52Z",
   "artistId": 449109990,
   "artistName": "Boluga",
@@ -366,8 +366,13 @@
       "version": "2.0",
       "releaseNotes": "Rotational is back, rebuilt from scratch.\n• New Daily Puzzle: one shared board a day, with streaks, a daily leaderboard and a result you can share\n• New Calm mode: no clock, so you can line up every drop\n• Now on iPhone, iPad, Apple Watch and Apple TV – turn the Digital Crown or circle the Siri Remote to spin\n• Home Screen and Lock Screen widgets, color-blind shapes, haptics and smooth 120 Hz play\n• No more ads. Continuous and the Daily Puzzle are free; Calm, Puzzle and Time Attack are a one-time unlock\nIf you played the original, every mode is already unlocked for you.",
       "seenAt": "2026-10-20T16:35:40Z"
+    },
+    {
+      "version": "2.0.1",
+      "releaseNotes": "Fixed: the Apple Watch game no longer closes when you turn the Digital Crown.\nGame Center sign-in is more reliable.",
+      "seenAt": "2026-10-27T20:22:46Z"
     }
   ],
-  "updatedAt": "2026-10-27T12:07:06.117Z",
+  "updatedAt": "2026-10-28T12:42:03.171Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nUpdated settings layout.\nRelease new game: Panko Kart.\n\nPanko Kart\nInitial release with campaign mode.\n\nSki Rush\nAdded podium finish screen to Weekly Challenges.\n\nElderblade\nAdded new missions.",
+      "releaseNotes": "Pankora\n- Updated UI scrolling.\n- Updated game loading.\n\nPanko Kart\n- Updated controls and camera.\",",
       "trackViewUrl": "https://apps.apple.com/us/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Catalin Berta",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nUpdated settings layout.\nRelease new game: Panko Kart.\n\nPanko Kart\nInitial release with campaign mode.\n\nSki Rush\nAdded podium finish screen to Weekly Challenges.\n\nElderblade\nAdded new missions.",
+      "releaseNotes": "Pankora\n- Updated UI scrolling.\n- Updated game loading.\n\nPanko Kart\n- Updated controls and camera.\",",
       "trackViewUrl": "https://apps.apple.com/jp/app/pankora/id6782357594?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Catalin Berta",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Pankora",
       "description": "Welcome to Pankora, a shared land of games built for iPhone and Apple Watch.\n\nPankora is not just one game. It is a growing multiplayer game platform where different worlds live together in one app. Jump between game experiences, play quick sessions anytime, compete with other players, collect rewards, and build progress across the Pankora universe.\n\nPlay on iPhone when you want a larger screen, or continue from Apple Watch when you want fast sessions directly from your wrist.\n\nPANKORA FEATURES\n• A growing land of connected games\n• Real-time multiplayer experiences\n• Built for both iPhone and Apple Watch\n• Quick sessions you can play anytime\n• Shared Pankora profile\n• Panko currency across supported games\n• Rankings, collections, rewards, and progression\n• Different game types inside one platform\n• More worlds and features planned over time\n\nPankora is a game platform made for fast access, multiplayer play, collection, rankings, and replayable sessions across iPhone and Apple Watch.",
-      "releaseNotes": "Pankora\nUpdated settings layout.\nRelease new game: Panko Kart.\n\nPanko Kart\nInitial release with campaign mode.\n\nSki Rush\nAdded podium finish screen to Weekly Challenges.\n\nElderblade\nAdded new missions.",
+      "releaseNotes": "Pankora\n- Updated UI scrolling.\n- Updated game loading.\n\nPanko Kart\n- Updated controls and camera.\",",
       "trackViewUrl": "https://apps.apple.com/de/app/pankora/id6782357594?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Catalin Berta",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/34/b5/0b34b5da-8da1-296b-9670-2e75a19e8b4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/6d/0d/356d0d80-8d38-c98f-ff37-b2c93ea0257e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "164674560",
+  "fileSizeBytes": "167279616",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "18.0",
-  "version": "6.6",
-  "currentVersionReleaseDate": "2026-10-25T22:51:44Z",
+  "version": "6.8",
+  "currentVersionReleaseDate": "2026-10-28T08:02:53Z",
   "releaseDate": "2026-06-30T07:00:00Z",
   "artistId": 1592833249,
   "artistName": "Catalin Berta",
@@ -436,8 +436,13 @@
       "version": "6.6",
       "releaseNotes": "Pankora\nUpdated settings layout.\nRelease new game: Panko Kart.\n\nPanko Kart\nInitial release with campaign mode.\n\nSki Rush\nAdded podium finish screen to Weekly Challenges.\n\nElderblade\nAdded new missions.",
       "seenAt": "2026-10-25T22:51:44Z"
+    },
+    {
+      "version": "6.8",
+      "releaseNotes": "Pankora\n- Updated UI scrolling.\n- Updated game loading.\n\nPanko Kart\n- Updated controls and camera.\",",
+      "seenAt": "2026-10-28T08:02:53Z"
     }
   ],
-  "updatedAt": "2026-10-27T12:18:27.477Z",
+  "updatedAt": "2026-10-28T12:54:11.921Z",
   "isOwnApp": false
 }
