@@ -9,7 +9,7 @@
       "description": "Take command of a little submarine and navigate a colourful underwater world built specifically for Apple Watch.\n\nSteer through twisting caverns, squeeze through narrow passages and deal with an increasingly troublesome collection of sea creatures and obstacles. Some hazards block your route, some knock you around, and others force you to rethink your path.\n\nUse the Digital Crown to control your submarine and carefully navigate each handcrafted level from start to finish.\n\nFeatures:\n• Underwater adventure designed for Apple Watch\n• Simple Digital Crown controls\n• Handcrafted levels with increasingly challenging routes\n• Pufferfish that pursue and obstruct you\n• Crabs that can knock your submarine backwards\n• Dangerous anglerfish\n• Moving hazards and environmental obstacles\n• Colourful underwater environments\n• Quick levels designed for play on your wrist\n• Haptic and visual feedback\n\nFind the route, avoid the wildlife and get your little submarine safely through the deep.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/us/app/sub-standard/id6815274108?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Daniel Beer",
       "genres": [
         "Games"
@@ -39,7 +39,7 @@
       "description": "Take command of a little submarine and navigate a colourful underwater world built specifically for Apple Watch.\n\nSteer through twisting caverns, squeeze through narrow passages and deal with an increasingly troublesome collection of sea creatures and obstacles. Some hazards block your route, some knock you around, and others force you to rethink your path.\n\nUse the Digital Crown to control your submarine and carefully navigate each handcrafted level from start to finish.\n\nFeatures:\n• Underwater adventure designed for Apple Watch\n• Simple Digital Crown controls\n• Handcrafted levels with increasingly challenging routes\n• Pufferfish that pursue and obstruct you\n• Crabs that can knock your submarine backwards\n• Dangerous anglerfish\n• Moving hazards and environmental obstacles\n• Colourful underwater environments\n• Quick levels designed for play on your wrist\n• Haptic and visual feedback\n\nFind the route, avoid the wildlife and get your little submarine safely through the deep.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/jp/app/sub-standard/id6815274108?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Daniel Beer",
       "genres": [
         "ゲーム"
@@ -53,7 +53,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/00/a4/0000a48e-12bc-a953-9218-61888cee78ed/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 300,
   "fileSizeBytes": "7525376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "27.0",
@@ -216,6 +216,6 @@
       "seenAt": "2026-09-30T09:54:40Z"
     }
   ],
-  "updatedAt": "2026-10-28T13:16:17.182Z",
+  "updatedAt": "2026-10-29T13:27:37.636Z",
   "isOwnApp": false
 }

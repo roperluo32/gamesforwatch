@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nitelore",
       "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.\n\nNitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races.\n\nENDLESS RACING\n\n- Compete across multiple cups, zones and full Grand Prix seasons.\n- Rise through the leagues and race for the championship.\n- Master every track, upgrade your ships and keep pushing for faster times.\n\nMULTIPLE GAME MODES\n\n- Grand Prix - Battle through complete seasons and claim the title.\n- Time Attack - Race against your personal-best ghost and shave every possible second from your time.\n- Elimination - Every 20 seconds, the last vehicle explodes. Stay ahead or be destroyed.\n- Death Race - Anything goes. Attack your rivals and be the last ship standing.\n\nONLINE MULTIPLAYER\n\n- Race against friends or strangers online across all your tracks and game modes\n- Quick race to jump right in to the action\n- Invite your friends and have a group race\n- New Time Duel mode to compete for the record\n- Build your online rating and compete with others for medals & achievements\n\nSPECTACULAR TRACKS\n\n- Race through futuristic cities, volcanic plains, lunar landscapes, raging oceans and even a colossal star.\n- Discover alternate routes, dangerous obstacles and unique surprises on every track.\n- More tracks being added all the time!\n\nBUILD YOUR FLEET\n\n- Unlock a range of ships, each with its own handling and performance characteristics.\n- Upgrade and customise your ships to match your racing style or fury\n\nDAILY CHALLENGES\n\n- Take on a new challenge every day, from precision time trials to explosive combat.\n- Every attempt earns progress and coins toward new ships and upgrades, even if you don’t win.\n\nCHALLENGE OTHER PLAYERS\n\n- Compete with friends and rivals through Game Center.\n- Take part in a different weekly challenge and fight for the top position.\n- Climb worldwide, weekly and daily leaderboards.\n\nPLAY YOUR WAY\n\n- Choose tilt, touch or game controller input (+ keyboard on Mac & iPad if you wish).\n- Chase, tight or cockpit view (plus furry dice if you like)\n- Unlock achievements and prove yourself across every racing mode.\n- Pacifist mode for Grand Prix if you just want to race and avoid being blowed up!\n\nMORE\n\n- Play mini races on your Apple Watch\n- Cross-play and race on your Apple TV\n- It's a whole menagerie out there!\n\nThere is fast and there is ultraspeed. How far are you willing to go?!",
-      "releaseNotes": "Bug blast!\n\n- If not touching the screen in-race for a while, it could dim. Now it will not.\n- Pressing back too quickly needed 0.1 sec to register. Now it will do it right away.",
+      "releaseNotes": "- Language frenzy! Now available in Spanish, French, German, Japanese and Korean\n- Bug fixes!",
       "trackViewUrl": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Crabware Ltd",
@@ -17,15 +17,20 @@
         "Racing"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ES"
       ],
       "subtitle": "Ultraspeed anti-grav racing"
     },
     "ja": {
-      "trackName": "Nitelore",
-      "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.\n\nNitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races.\n\nENDLESS RACING\n\n- Compete across multiple cups, zones and full Grand Prix seasons.\n- Rise through the leagues and race for the championship.\n- Master every track, upgrade your ships and keep pushing for faster times.\n\nMULTIPLE GAME MODES\n\n- Grand Prix - Battle through complete seasons and claim the title.\n- Time Attack - Race against your personal-best ghost and shave every possible second from your time.\n- Elimination - Every 20 seconds, the last vehicle explodes. Stay ahead or be destroyed.\n- Death Race - Anything goes. Attack your rivals and be the last ship standing.\n\nONLINE MULTIPLAYER\n\n- Race against friends or strangers online across all your tracks and game modes\n- Quick race to jump right in to the action\n- Invite your friends and have a group race\n- New Time Duel mode to compete for the record\n- Build your online rating and compete with others for medals & achievements\n\nSPECTACULAR TRACKS\n\n- Race through futuristic cities, volcanic plains, lunar landscapes, raging oceans and even a colossal star.\n- Discover alternate routes, dangerous obstacles and unique surprises on every track.\n- More tracks being added all the time!\n\nBUILD YOUR FLEET\n\n- Unlock a range of ships, each with its own handling and performance characteristics.\n- Upgrade and customise your ships to match your racing style or fury\n\nDAILY CHALLENGES\n\n- Take on a new challenge every day, from precision time trials to explosive combat.\n- Every attempt earns progress and coins toward new ships and upgrades, even if you don’t win.\n\nCHALLENGE OTHER PLAYERS\n\n- Compete with friends and rivals through Game Center.\n- Take part in a different weekly challenge and fight for the top position.\n- Climb worldwide, weekly and daily leaderboards.\n\nPLAY YOUR WAY\n\n- Choose tilt, touch or game controller input (+ keyboard on Mac & iPad if you wish).\n- Chase, tight or cockpit view (plus furry dice if you like)\n- Unlock achievements and prove yourself across every racing mode.\n- Pacifist mode for Grand Prix if you just want to race and avoid being blowed up!\n\nMORE\n\n- Play mini races on your Apple Watch\n- Cross-play and race on your Apple TV\n- It's a whole menagerie out there!\n\nThere is fast and there is ultraspeed. How far are you willing to go?!",
-      "releaseNotes": "Bug blast!\n\n- If not touching the screen in-race for a while, it could dim. Now it will not.\n- Pressing back too quickly needed 0.1 sec to register. Now it will do it right away.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/nitelore/id6790147739?uo=4",
+      "trackName": "Nitelore：爽快宇宙レースゲーム",
+      "description": "ありえないスピードで、都市を、火山を、異星を、そして宇宙の深淵を駆け抜けろ。\n\nNitelore（ナイトロア）は、爆発バトル、ライバルパイロット、どんどん過激になるチャレンジが詰まった、究極の反重力レースゲーム。グランプリのシーズンを制し、完璧なラップを追い求め、容赦ないエリミネーションを生き残り、ルール無用のデスレースでライバルを粉砕しよう。\n\n■ 終わりなきレース\n・複数のカップ、ゾーン、そしてグランプリのフルシーズンで競い合おう。\n・リーグを駆け上がり、チャンピオンの座を狙え。\n・全コースを極め、マシンを強化して、タイムを削り続けよう。\n\n■ 多彩なゲームモード\n・グランプリ：シーズンを戦い抜き、タイトルを手に入れろ。\n・タイムアタック：自己ベストのゴーストと勝負。0.01秒まで削り取れ。\n・エリミネーション：20秒ごとに最下位が爆発。前に出るか、散るか。\n・デスレース：何でもあり。ライバルを攻撃し、最後の1機になれ。\n\n■ オンラインマルチプレイ\n・フレンドや世界中のプレイヤーと、全コース・全モードでオンライン対戦。\n・クイックレースですぐにバトルへ。\n・フレンドを招待してグループレース。\n・新モード「タイム対決」で記録を奪い合え。\n・オンラインレートを上げて、メダルと実績を競おう。\n\n■ 圧巻のコース\n・近未来都市、火山の平原、月面、荒れ狂う海、さらには巨大な恒星まで。\n・どのコースにも、抜け道、危険な障害物、思わぬサプライズ。\n・新コースも続々追加中！\n\n■ 自分だけのフリートを\n・ハンドリングも性能も個性的なマシンを解放。\n・強化＆カスタマイズで、自分の走りに、あるいは怒りに合わせよう。\n\n■ デイリーチャレンジ\n・精密なタイムアタックから爆発バトルまで、毎日新しいチャレンジ。\n・勝てなくても、挑戦するたびに進行度とコインを獲得。新マシンや強化に使える。\n\n■ 他のプレイヤーに挑め\n・Game Centerでフレンドやライバルと競い合おう。\n・毎週変わる週間チャレンジでトップを狙え。\n・世界、週間、デイリーのランキングを駆け上がれ。\n\n■ 好きなスタイルで\n・傾き、タッチ、コントローラーに対応（MacとiPadではキーボードも）。\n・追従、近接、コックピットの3つの視点（ふわふわサイコロもお好みで）。\n・実績を解除して、全モードで実力を証明しよう。\n・グランプリには平和主義モードも。爆発せずに走りたい派のあなたに。\n\n■ さらに\n・Apple Watchでミニレース。\n・Apple TVでもクロスプレイ＆レース。\n・外の世界は、なんでもありだ！\n\n速い、の先にある「超速」。君はどこまで行ける？",
+      "releaseNotes": "- 言語フィーバー！日本語に対応しました\n- バグを修正しました！",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nitelore-%E7%88%BD%E5%BF%AB%E5%AE%87%E5%AE%99%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0/id6790147739?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Crabware Ltd",
       "genres": [
@@ -34,15 +39,20 @@
         "レーシング"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ES"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "Nitelore",
-      "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.\n\nNitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races.\n\nENDLESS RACING\n\n- Compete across multiple cups, zones and full Grand Prix seasons.\n- Rise through the leagues and race for the championship.\n- Master every track, upgrade your ships and keep pushing for faster times.\n\nMULTIPLE GAME MODES\n\n- Grand Prix - Battle through complete seasons and claim the title.\n- Time Attack - Race against your personal-best ghost and shave every possible second from your time.\n- Elimination - Every 20 seconds, the last vehicle explodes. Stay ahead or be destroyed.\n- Death Race - Anything goes. Attack your rivals and be the last ship standing.\n\nONLINE MULTIPLAYER\n\n- Race against friends or strangers online across all your tracks and game modes\n- Quick race to jump right in to the action\n- Invite your friends and have a group race\n- New Time Duel mode to compete for the record\n- Build your online rating and compete with others for medals & achievements\n\nSPECTACULAR TRACKS\n\n- Race through futuristic cities, volcanic plains, lunar landscapes, raging oceans and even a colossal star.\n- Discover alternate routes, dangerous obstacles and unique surprises on every track.\n- More tracks being added all the time!\n\nBUILD YOUR FLEET\n\n- Unlock a range of ships, each with its own handling and performance characteristics.\n- Upgrade and customise your ships to match your racing style or fury\n\nDAILY CHALLENGES\n\n- Take on a new challenge every day, from precision time trials to explosive combat.\n- Every attempt earns progress and coins toward new ships and upgrades, even if you don’t win.\n\nCHALLENGE OTHER PLAYERS\n\n- Compete with friends and rivals through Game Center.\n- Take part in a different weekly challenge and fight for the top position.\n- Climb worldwide, weekly and daily leaderboards.\n\nPLAY YOUR WAY\n\n- Choose tilt, touch or game controller input (+ keyboard on Mac & iPad if you wish).\n- Chase, tight or cockpit view (plus furry dice if you like)\n- Unlock achievements and prove yourself across every racing mode.\n- Pacifist mode for Grand Prix if you just want to race and avoid being blowed up!\n\nMORE\n\n- Play mini races on your Apple Watch\n- Cross-play and race on your Apple TV\n- It's a whole menagerie out there!\n\nThere is fast and there is ultraspeed. How far are you willing to go?!",
-      "releaseNotes": "Bug blast!\n\n- If not touching the screen in-race for a while, it could dim. Now it will not.\n- Pressing back too quickly needed 0.1 sec to register. Now it will do it right away.",
-      "trackViewUrl": "https://apps.apple.com/de/app/nitelore/id6790147739?uo=4",
+      "trackName": "Nitelore: Rennen im Weltraum",
+      "description": "Rase mit unmöglichen Geschwindigkeiten durch Städte, Vulkane, fremde Welten und die Tiefen des Weltraums.\n\nNitelore ist Antigrav-Racing am Limit: explosive Kämpfe, Rivalen am Steuer und Herausforderungen, die immer härter werden. Erobere Grand-Prix-Saisons, jage die perfekte Runde, überlebe brutale Ausscheidungsrennen und zerlege deine Gegner in Todesrennen ohne Regeln.\n\nRENNEN OHNE ENDE\n\n- Tritt in Cups, Zonen und kompletten Grand-Prix-Saisons an.\n- Steig in den Ligen auf und fahr um die Meisterschaft.\n- Meistere jede Strecke, rüste deine Gleiter auf und jag die Bestzeit.\n\nSPIELMODI\n\n- Grand Prix: ganze Saisons voller Kämpfe. Der Titel gehört dir, wenn du ihn dir holst.\n- Zeitfahren: Fahr gegen den Geist deiner eigenen Bestzeit und hol jede Zehntel raus.\n- Eliminierung: Alle 20 Sekunden explodiert der Letzte. Bleib vorn oder flieg in die Luft.\n- Todesrennen: Alles ist erlaubt. Greif deine Rivalen an und sei der letzte Gleiter, der noch steht.\n\nONLINE-MULTIPLAYER\n\n- Fahr online gegen Freunde oder Fremde, auf allen Strecken und in allen Modi.\n- Schnellrennen, wenn du sofort loslegen willst.\n- Lade deine Freunde zum Gruppenrennen ein.\n- Neuer Modus Zeitduell: Wer holt sich den Rekord?\n- Bau dein Online-Rating aus und kämpf um Medaillen und Erfolge.\n\nSPEKTAKULÄRE STRECKEN\n\n- Futuristische Städte, Vulkanebenen, Mondlandschaften, tosende Ozeane und sogar ein gigantischer Stern.\n- Abkürzungen, fiese Hindernisse und Überraschungen auf jeder Strecke.\n- Und ständig kommen neue Strecken dazu!\n\nBAU DEINE FLOTTE\n\n- Schalte Gleiter frei, jeder mit eigenem Fahrverhalten und eigenen Stärken.\n- Rüste sie auf und pass sie an deinen Fahrstil an. Oder an deine Wut.\n\nTÄGLICHE HERAUSFORDERUNGEN\n\n- Jeden Tag eine neue Aufgabe, vom präzisen Zeitfahren bis zum explosiven Kampf.\n- Jeder Versuch bringt Fortschritt und Münzen für neue Gleiter und Upgrades, auch ohne Sieg.\n\nFORDERE ANDERE HERAUS\n\n- Miss dich über Game Center mit Freunden und Rivalen.\n- Jede Woche eine neue Herausforderung um den ersten Platz.\n- Kletter in den weltweiten, wöchentlichen und täglichen Ranglisten nach oben.\n\nSPIEL, WIE DU WILLST\n\n- Steuere per Neigen, Touch oder Controller (und auf Mac und iPad gern auch per Tastatur).\n- Verfolgungs-, Nah- oder Cockpitkamera (Plüschwürfel optional, für Kenner).\n- Schalte Erfolge frei und beweis dich in jedem Modus.\n- Pazifistenmodus im Grand Prix, für alle, die lieber fahren als explodieren.\n\nUND SONST?\n\n- Mini-Rennen auf deiner Apple Watch.\n- Crossplay und Rennen auf deinem Apple TV.\n- Da draußen ist ein echter Zoo los!\n\nEs gibt schnell. Und es gibt Ultraspeed. Wie weit gehst du?!",
+      "releaseNotes": "- Sprachrausch! Jetzt auf Deutsch verfügbar\n- Fehlerbehebungen!",
+      "trackViewUrl": "https://apps.apple.com/de/app/nitelore-rennen-im-weltraum/id6790147739?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Crabware Ltd",
       "genres": [
@@ -51,20 +61,25 @@
         "Rennsport"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ES"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/77/c8/4e77c806-f144-41a5-25c4-475f7fe1f9eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ef/30/b1ef3004-bc3c-b999-6c1c-89efeedff6cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 3,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "33168384",
+  "fileSizeBytes": "48948224",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.13",
-  "currentVersionReleaseDate": "2026-10-26T20:12:29Z",
+  "version": "1.14",
+  "currentVersionReleaseDate": "2026-10-28T22:00:36Z",
   "releaseDate": "2026-08-15T07:00:00Z",
   "artistId": 1824719778,
   "artistName": "Crabware",
@@ -206,6 +221,37 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/b9/0b/e1b90b2b-e580-f577-096f-ca13bfd94668/wide.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/a2/59/52a25958-f959-5d99-e8bb-d7aea2339909/half.png/2007x2853bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/35/c7/8c35c7fb-0844-e2ea-4549-581f13df8b82/closed.png/2034x1398bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/8d/ab/f98dab28-698d-a399-cf72-8dfe97dd2262/ipad1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/b8/e3/a1b8e352-1f4c-c80f-e005-79940179f0b7/ipad2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/e2/b2/b7e2b2a9-0dfb-2b9d-cd83-71e8968fdb46/ipad5.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/f0/ac/4ef0ac02-8297-bdb6-92b4-6a23d0000579/ipad4.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/1c/10/9a1c1044-97f0-8b47-0abf-24d17a9c3832/ipad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/75/4ef67501-4017-664d-431b-9e177e2fa240/ipad6.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f6/57/83f657d3-9071-a4ad-8c04-fb86f011cfcb/ipad7.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/8d/34/b18d3437-cc74-d579-336e-5a913ab383cf/shot8.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/90/05/fe9005e8-227f-76d7-c5b0-ad6dd35efd2b/shot2.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/05/42/91054299-ed42-3b2f-5ce0-5a6a3e321239/shot10.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/58/f1/ad58f122-5c07-2436-b7b6-e5cad61ae6c1/shot1.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/c6/4c/b7c64cba-6bd4-f898-4070-40e80c45b76c/shot9.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/2d/9c/e82d9cb1-0825-de2e-d0f3-8b971701c014/shot5.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/f5/79/48f579b2-4451-93ed-6696-86050e5662a5/shot3.png/2688x1242bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/8d/34/b18d3437-cc74-d579-336e-5a913ab383cf/shot8.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/90/05/fe9005e8-227f-76d7-c5b0-ad6dd35efd2b/shot2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/05/42/91054299-ed42-3b2f-5ce0-5a6a3e321239/shot10.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/58/f1/ad58f122-5c07-2436-b7b6-e5cad61ae6c1/shot1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/c6/4c/b7c64cba-6bd4-f898-4070-40e80c45b76c/shot9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/2d/9c/e82d9cb1-0825-de2e-d0f3-8b971701c014/shot5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/f5/79/48f579b2-4451-93ed-6696-86050e5662a5/shot3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/8d/ab/f98dab28-698d-a399-cf72-8dfe97dd2262/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/b8/e3/a1b8e352-1f4c-c80f-e005-79940179f0b7/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/e2/b2/b7e2b2a9-0dfb-2b9d-cd83-71e8968fdb46/ipad5.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/f0/ac/4ef0ac02-8297-bdb6-92b4-6a23d0000579/ipad4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/1c/10/9a1c1044-97f0-8b47-0abf-24d17a9c3832/ipad3.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/75/4ef67501-4017-664d-431b-9e177e2fa240/ipad6.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f6/57/83f657d3-9071-a4ad-8c04-fb86f011cfcb/ipad7.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/cc/cd/57cccd2c-736c-ea18-8640-08b9dbfad80b/wide.png/2853x2007bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/63/19/0863196f-c058-0bae-a985-596945b6b327/closed.png/2034x1398bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/fb/08/0efb08dd-a625-3043-5ba1-31b054c42d24/half.png/2007x2853bb.png",
@@ -239,6 +285,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e9/2f/fce92f8a-4e4d-ea02-97ff-5c329a8d31e2/ipad7.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/ef/c2/edefc2b3-7096-9dba-c6d4-de7b8a3967e3/01-Grand-Prix-Neon-Vale.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/06/55/75065586-875f-7fd0-86b7-261bf9acda0b/03-Grand-Prix-Skyline-Run.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/af/88/70af88c5-8dc0-8202-ee21-d3a21d388539/02-Grand-Prix-Circuit-Breaker.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/a6/ec/17a6ec2f-2712-64fe-5b7e-99969d12b08b/04-Time-Trial-Ghost.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/b1/fe/58b1fe8b-ebae-1e5e-5ba6-f4c206d632e3/01-Grand-Prix-Neon-Vale.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/4b/96/3b4b96d1-7e6f-d38b-2d60-cec3e4161f41/03-Grand-Prix-Skyline-Run.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/05/66/660566cb-0974-6f9d-1d76-1db47df1a540/02-Grand-Prix-Circuit-Breaker.png/422x514bb.png",
@@ -314,8 +364,13 @@
       "version": "1.13",
       "releaseNotes": "Bug blast!\n\n- If not touching the screen in-race for a while, it could dim. Now it will not.\n- Pressing back too quickly needed 0.1 sec to register. Now it will do it right away.",
       "seenAt": "2026-10-26T20:12:29Z"
+    },
+    {
+      "version": "1.14",
+      "releaseNotes": "- Language frenzy! Now available in Spanish, French, German, Japanese and Korean\n- Bug fixes!",
+      "seenAt": "2026-10-28T22:00:36Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:58:41.517Z",
+  "updatedAt": "2026-10-29T13:10:39.402Z",
   "isOwnApp": false
 }

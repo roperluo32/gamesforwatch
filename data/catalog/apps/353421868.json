@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Godville",
       "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
-      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "releaseNotes": "New Dungeon-themed nighttime color scheme: soft and warm.\nInviting friends to the game no longer requires invites.\nTrophies in the inventory can now be sorted by rarity. \nDropdown menus now feature intuitive icons.\nButton numbers now match the theme colors, and personal messages now have a badge.",
       "trackViewUrl": "https://apps.apple.com/us/app/godville/id353421868?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Mikhail Platov",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Godville",
       "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
-      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "releaseNotes": "New Dungeon-themed nighttime color scheme: soft and warm.\nInviting friends to the game no longer requires invites.\nTrophies in the inventory can now be sorted by rarity. \nDropdown menus now feature intuitive icons.\nButton numbers now match the theme colors, and personal messages now have a badge.",
       "trackViewUrl": "https://apps.apple.com/jp/app/godville/id353421868?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Mikhail Platov",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Godville",
       "description": "“Not playing videogames has never been this much fun” - Jim Sterling, GamesRadar (iPhone Game of the Day)\n\"This game has made me laugh more than any other I've played in recent memory\" - GamePro (App Store Games of the Week)\n\"Ultimately, GodVille is a fun, funny, incredibly clever little game\" - Destructoid\n\nWelcome to a self-playing comedy game about gods, heroes, and lack of subordination. Want to be a deity? A hero of yours is totally ready to ignore your wishes.\n \nIt's a parody take on MMORPG and levelling. Here you can do literally nothing, while your character progresses on his own, writing a story on the go. Or you could show this mortal your will and control him (unsuccessfully). Either way, it'll be lots of fun. And puns. Lots of them.\n\nThe game requires persistent internet connection.\n\nPS: If you're having a problem with the game please contact us using Menu-> Feedback within the app or via email support@godvillegame.com",
-      "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.",
+      "releaseNotes": "New Dungeon-themed nighttime color scheme: soft and warm.\nInviting friends to the game no longer requires invites.\nTrophies in the inventory can now be sorted by rarity. \nDropdown menus now feature intuitive icons.\nButton numbers now match the theme colors, and personal messages now have a badge.",
       "trackViewUrl": "https://apps.apple.com/de/app/godville/id353421868?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Mikhail Platov",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/7a/a9/3b7aa90c-9ab8-0fe9-a549-ac1fe3862c16/AppIconEn-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/1f/44/9f1f44b5-493c-5783-903c-b59af86d01ef/AppIconEn-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.7619,
   "userRatingCount": 42,
   "price": 0,
-  "fileSizeBytes": "29836288",
+  "fileSizeBytes": "29856768",
   "contentAdvisoryRating": "12+",
-  "minimumOsVersion": "13.0",
-  "version": "11.7",
-  "currentVersionReleaseDate": "2026-07-17T09:04:54Z",
+  "minimumOsVersion": "15.0",
+  "version": "11.8",
+  "currentVersionReleaseDate": "2026-10-29T09:33:40Z",
   "releaseDate": "2010-07-18T23:41:51Z",
   "artistId": 337445693,
   "artistName": "Mikhail Platov",
@@ -374,8 +374,13 @@
       "version": "11.7",
       "releaseNotes": "Contextual help buttons - look for (?) markers in the UI to jump straight to relevant help (can be disabled in Menu->Settings).\nThis update also includes some internal changes - if something feels off or broken, please report it via Ideabox.\n",
       "seenAt": "2026-07-17T09:04:54Z"
+    },
+    {
+      "version": "11.8",
+      "releaseNotes": "New Dungeon-themed nighttime color scheme: soft and warm.\nInviting friends to the game no longer requires invites.\nTrophies in the inventory can now be sorted by rarity. \nDropdown menus now feature intuitive icons.\nButton numbers now match the theme colors, and personal messages now have a badge.\n",
+      "seenAt": "2026-10-29T09:33:40Z"
     }
   ],
-  "updatedAt": "2026-10-28T13:00:20.812Z",
+  "updatedAt": "2026-10-29T13:13:53.013Z",
   "isOwnApp": false
 }

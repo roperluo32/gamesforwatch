@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/4e/38/a44e385d-1221-4a30-a47a-57348e2e3af0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/8f/1f/768f1f13-01f4-bede-f327-46ce9df8c64e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28448,
   "userRatingCount": 1624,
   "price": 0,
   "fileSizeBytes": "435294208",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.393.0",
-  "currentVersionReleaseDate": "2026-10-26T20:03:02Z",
+  "version": "3.393.1",
+  "currentVersionReleaseDate": "2026-10-28T11:51:35Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -530,8 +530,13 @@
       "version": "3.393.0",
       "releaseNotes": "Let’s celebrate!\n\nSpooky Season is here! Play trivia, win card packs, and collect special Halloween cards. Trade with friends, gift your extras, and make new connections as you complete your collection!\n\nTreat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
       "seenAt": "2026-10-26T20:03:02Z"
+    },
+    {
+      "version": "3.393.1",
+      "releaseNotes": "Let’s celebrate!\n\nSpooky Season is here! Play trivia, win card packs, and collect special Halloween cards. Trade with friends, gift your extras, and make new connections as you complete your collection!\n\nTreat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
+      "seenAt": "2026-10-28T11:51:35Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:39:31.283Z",
+  "updatedAt": "2026-10-29T12:50:58.709Z",
   "isOwnApp": false
 }
