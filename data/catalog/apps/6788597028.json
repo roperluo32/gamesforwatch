@@ -7,7 +7,7 @@
     "en": {
       "trackName": "GameBox: Watch Game, No Wifi",
       "description": "Gamebox is a lightweight mini-game collection that supports iPhone, iPad, and Apple Watch all at once. Whether you're killing time on your phone, enjoying a larger screen on your iPad, or squeezing in a quick round on your watch, you can open it anytime and jump right in.\n\nThe app features a variety of classic mini-games, including 2048, Snake, Brick Breaker, Stick Pin, Tower Builder, and a baking idle game. Each game is optimized for different devices: iPhone and iPad offer a more spacious control experience, while the Apple Watch version keeps rounds short, responsive, and perfect for quick pick-up-and-play moments.\n\nOne app, play anywhere. Whether you're commuting, taking a break, or just glancing at your wrist, there's always a game ready for the moment.\n\nThe collection currently includes 32 mini-games:\nRogue Spirit\nLife Restart\nJump\nTarot\nTruth or Dare\nBrave Adventure\nStarfighter\nAir Pistol\nSheep a Sheep\nFall Down\nWrist Bakery\nCatch the Dessert\nSweet Crush\nPop Star\nFlappy Bird\nPuzzle Bobble\nPipe Dream\nSnake\nNeon Tower\n2048\nNumber Drop\nConnect Four\nGomoku\nOthello\nMinesweeper\nBreakout\nInsert the Pin\nMemory Match\nMagic Hat\nWhac-A-Mole\nHoop Shoot\nAlchemist: Water Sort\n\n\nUpgrade to Premium to unlock unlimited access to all features with no ads.\nSubscriptions are available Monthly And Yearly.\n\nPayment will be charged to your Apple ID at confirmation of purchase. The subscription auto-renews at the end of each term unless you cancel at least 24 hours before the current period ends. Your account will be charged for renewal within 24 hours prior to period end. You can manage and cancel in Settings > [your name] > Subscriptions. Cancellation takes effect at the end of the current period; you’ll keep Premium access until then and will revert to the free version afterward.\n\nPrivacy: https://docs.qq.com/doc/DTGhBSU1rcHNTckJ2\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "新增游戏：表盘赛车",
+      "releaseNotes": "新增免费游戏：深海寻宝",
       "trackViewUrl": "https://apps.apple.com/us/app/gamebox-watch-game-no-wifi/id6788597028?uo=4",
       "formattedPrice": "Free",
       "sellerName": "若辰 卢",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "GameBox: Watch Game, No Wifi",
       "description": "Gamebox is a lightweight mini-game collection that supports iPhone, iPad, and Apple Watch all at once. Whether you're killing time on your phone, enjoying a larger screen on your iPad, or squeezing in a quick round on your watch, you can open it anytime and jump right in.\n\nThe app features a variety of classic mini-games, including 2048, Snake, Brick Breaker, Stick Pin, Tower Builder, and a baking idle game. Each game is optimized for different devices: iPhone and iPad offer a more spacious control experience, while the Apple Watch version keeps rounds short, responsive, and perfect for quick pick-up-and-play moments.\n\nOne app, play anywhere. Whether you're commuting, taking a break, or just glancing at your wrist, there's always a game ready for the moment.\n\nThe collection currently includes 32 mini-games:\nRogue Spirit\nLife Restart\nJump\nTarot\nTruth or Dare\nBrave Adventure\nStarfighter\nAir Pistol\nSheep a Sheep\nFall Down\nWrist Bakery\nCatch the Dessert\nSweet Crush\nPop Star\nFlappy Bird\nPuzzle Bobble\nPipe Dream\nSnake\nNeon Tower\n2048\nNumber Drop\nConnect Four\nGomoku\nOthello\nMinesweeper\nBreakout\nInsert the Pin\nMemory Match\nMagic Hat\nWhac-A-Mole\nHoop Shoot\nAlchemist: Water Sort\n\n\nUpgrade to Premium to unlock unlimited access to all features with no ads.\nSubscriptions are available Monthly And Yearly.\n\nPayment will be charged to your Apple ID at confirmation of purchase. The subscription auto-renews at the end of each term unless you cancel at least 24 hours before the current period ends. Your account will be charged for renewal within 24 hours prior to period end. You can manage and cancel in Settings > [your name] > Subscriptions. Cancellation takes effect at the end of the current period; you’ll keep Premium access until then and will revert to the free version afterward.\n\nPrivacy: https://docs.qq.com/doc/DTGhBSU1rcHNTckJ2\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "新增游戏：表盘赛车",
+      "releaseNotes": "新增免费游戏：深海寻宝",
       "trackViewUrl": "https://apps.apple.com/jp/app/gamebox-watch-game-no-wifi/id6788597028?uo=4",
       "formattedPrice": "無料",
       "sellerName": "若辰 卢",
@@ -301,8 +301,13 @@
       "version": "1.5.5",
       "releaseNotes": "新增游戏：表盘赛车",
       "seenAt": "2026-10-26T11:26:22Z"
+    },
+    {
+      "version": "1.5.6",
+      "releaseNotes": "新增免费游戏：深海寻宝",
+      "seenAt": "2026-10-29T17:50:07Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:50:46.303Z",
+  "updatedAt": "2026-10-30T12:40:19.828Z",
   "isOwnApp": false
 }

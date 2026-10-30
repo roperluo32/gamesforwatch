@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "PrismFlow: Blok Bulmaca Oyunu",
       "description": "Renkleri serbest bırakın, zihninizi özgürleştirin.\n\nPrismFlow Blok Bulmacası, kısa seanslarda veya uzun serilerde oynayabileceğiniz sakin ve renkli bir blok bulmacasıdır. Parçaları tahtaya sürükleyin, satırları ve sütunları doldurun ve temizlenmelerini izleyin — basit kurallar, yüksek puanlama.\n\nNASIL OYNANIR\n• Tepside üç blok şekli belirir — her birini 8x8 tahtaya sürükleyin\n• Satırları veya sütunları tamamlayarak temizleyin ve puan kazanın\n• Kombolar oluşturmak ve puanınızı yükseltmek için zincirleme temizlemeler yapın\n• Üç parçadan hiçbiri uymadığında oyun biter — en iyi skorunuzu geçebilir misiniz?\n\nÖZELLİKLER\n• Tek elle oynanmaya uygun, akıcı sürükle ve bırak kontrolleri\n• Parlak bloklar, tatmin edici temizlemeler ve kombo geri bildirimi\n• Küresel liderlik tablosu — dünya çapındaki oyuncularla yarışın\n• Günlük seri hatırlatıcıları (isteğe bağlı)\n• Çoklu dil desteği\n• İstediğiniz zaman çevrimdışı oynayın; bulut senkronizasyonu ve liderlik tablosu için giriş yapın\n\nÜCRETSİZ OYNAYIN\nPrismFlow, isteğe bağlı reklamlarla ücretsizdir. Uygulama içi satın alma yoluyla reklamları kaldırabilir veya devam jetonları satın alabilirsiniz. Oynamak için hesap gerekmez.\n\nHemen indirin ve kendi tarzınızı bulun.\n\nPRISMFLOW PLUS (isteğe bağlı abonelik)\nReklamsız oyun, her gün 100 elmas ve 1 devam jetonu. Yıllık plan 7 gün ücretsiz denemeyle başlar; aylık plan da vardır. Ödeme, satın alım onayında Apple Hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Aboneliği Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz.\n\nKullanım Koşulları (EULA): https://prismflow-ec386.web.app/terms\nGizlilik Politikası: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "• Bloklar artık dokunduğun anda kalkıyor: daha hızlı ve akıcı yerleştirme\n• Yeni tek ekran mağaza: seçeneğini seç, tek dokunuşla al\n• Daha hızlı sıralama tablosu ve performans iyileştirmeleri",
+      "releaseNotes": "• Yeni büyük bloklar: 6'lı ve arasıra 9'lu parçalarla daha zorlu ama adil oyun\n• TERTEMİZ! Tahtayı tamamen temizle, +300 bonus kazan\n• Yeni kutlama sesleri, patlamalar ve WOW anları\n• Sürüklenen blok parmağının daha üstünde, yerleştirmek daha kolay\n• Daha hızlı sıralama ve performans iyileştirmeleri",
       "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-blok-bulmaca-oyunu/id6784841022?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beytullah Ozer",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a9/eb/e6a9eb28-7ab7-8eab-7b83-f3e6baefe4a8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/9d/5e3f9d80-1695-105f-2a1c-3e6db065e015/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "26469376",
+  "fileSizeBytes": "33691648",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "2.10.2",
-  "currentVersionReleaseDate": "2026-10-22T18:29:04Z",
+  "version": "3.1",
+  "currentVersionReleaseDate": "2026-10-29T17:44:06Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -324,8 +324,13 @@
       "version": "2.10.2",
       "releaseNotes": "• Blocks now lift the instant you touch them for faster, smoother placing\n• New one-screen Shop: pick an option and buy in one tap\n• Faster leaderboard and performance improvements",
       "seenAt": "2026-10-22T18:29:04Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "• New big blocks: 6-cell and occasional 9-cell pieces for a tougher but fair game\n• ALL CLEAR! Empty the whole board for a +300 bonus\n• New celebration sounds, explosions and WOW moments\n• The dragged block now floats higher above your finger for easier placing\n• Faster leaderboard and performance improvements",
+      "seenAt": "2026-10-29T17:44:06Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:24:48.198Z",
+  "updatedAt": "2026-10-30T13:12:49.942Z",
   "isOwnApp": false
 }

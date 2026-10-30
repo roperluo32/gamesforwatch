@@ -9,7 +9,7 @@
       "description": "MotoRace: Oncoming Fury is an adrenaline-pumping and fast-paced arcade-style game where players take control of a powerful motorbike and must navigate a treacherous highway filled with oncoming cars. The goal is to survive as long as possible while dodging the relentless traffic. Available for watch, phone and tablet.\n\nFeatures:\n- Endless levels\n- Playable without internet connection (play offline)\n- Cool retro graphics\n- Survive as long as you can!\n- More games inside you can unlock",
       "releaseNotes": "More content added",
       "trackViewUrl": "https://apps.apple.com/us/app/motorace-oncoming-fury/id6478441086?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "DegerTech UG",
       "genres": [
         "Games",
@@ -70,7 +70,7 @@
       "description": "MotoRace: Oncoming Furyは、スピード感とスリル満点のアーケードゲームです。パワフルなバイクを操り、対向車が次々に迫る危険なハイウェイを駆け抜けましょう。絶え間なくやってくる車をかわし、できるだけ長く生き残ることが目標です。腕時計、スマートフォン、タブレットで遊べます。\n\n特徴：\n- エンドレスなステージ\n- インターネット接続なしでプレイ可能（オフライン対応）\n- クールなレトログラフィック\n- できるだけ長く生き残ろう！\n- アプリ内でさらに多くのゲームをアンロック可能",
       "releaseNotes": "コンテンツを追加しました",
       "trackViewUrl": "https://apps.apple.com/jp/app/motorace-oncoming-fury/id6478441086?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "DegerTech UG",
       "genres": [
         "ゲーム",
@@ -131,7 +131,7 @@
       "description": "MotoRace: Oncoming Fury ist ein rasantes Arcade-Spiel voller Adrenalin. Steuere ein leistungsstarkes Motorrad über eine gefährliche Autobahn voller entgegenkommender Autos. Weiche dem unablässigen Verkehr aus und halte so lange wie möglich durch. Für Uhr, Smartphone und Tablet verfügbar.\n\nFeatures:\n- Endlose Level\n- Ohne Internetverbindung spielbar (offline spielen)\n- Coole Retro-Grafik\n- Halte so lange durch, wie du kannst!\n- Weitere Spiele in der App freischaltbar",
       "releaseNotes": "Weitere Inhalte hinzugefügt",
       "trackViewUrl": "https://apps.apple.com/de/app/motorace-oncoming-fury/id6478441086?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "DegerTech UG",
       "genres": [
         "Spiele",
@@ -191,7 +191,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/e6/e4/1ce6e432-aaf6-b5de-a817-8722ce34059c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "89544704",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
@@ -421,6 +421,6 @@
       "seenAt": "2026-10-19T10:58:21Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:20:57.534Z",
+  "updatedAt": "2026-10-30T13:08:53.511Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori is a calm nonogram puzzle game. Solve logic grids using number clues — no time pressure, no ads, no in-app pestering.\n\n• Today's puzzle delivered daily\n• Sizes from 5×5 to 15×15\n• Easy, Medium, Hard, Expert difficulty\n• Streak heatmap and personal stats\n• Apple Watch companion\n• Light and dark themes\n• Fully offline — your progress stays on your device\n\nDesigned for the moments you want to put your phone on Do Not Disturb but still keep your mind moving. If you enjoy logic grids and number puzzles, you'll feel at home.",
-      "releaseNotes": "• iPhone Duo: half-fold it and Nomori becomes a puzzle console — the board on one half, the timer, Fill/X, hint and undo on the other. Nothing sits on the crease. Your stats sit beside the tabs, and the win screen splits too.",
+      "releaseNotes": "Completed pictures now appear first in your library. Other-app suggestions follow your daily puzzle and progress.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "JIYULMOM",
@@ -31,12 +31,12 @@
         "TR",
         "VI"
       ],
-      "subtitle": "Calm Nonogram. No Ads Ever."
+      "subtitle": "Daily picture logic, offline"
     },
     "ja": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomoriは静かな時間のためのノノグラム（お絵かきロジック）です。行と列の数字ヒントだけを頼りにマスを塗り、隠れた絵を完成させるロジックパズル。制限時間も広告もなく、自分のペースで解けます。\n\n■ 毎日の「今日のパズル」\n毎日新しい一問が届きます。解ける答えが一つだけになるよう作られているので、当て推量なしで論理だけで進めます。\n\n■ サイズと難易度\n5×5の短い一問から15×15のじっくり解く一問まで。易しい・普通・難しい・エキスパートの4段階。\n\n■ 続けたくなる記録\n連続記録のヒートマップと個人統計で、毎日の積み重ねが見えます。\n\n■ どこでも・静かに\n• 完全オフライン — 記録は端末にだけ保存\n• ライト／ダークテーマ\n• Apple Watchから今日のパズルへすぐアクセス\n• やさしい効果音と触覚フィードバック\n\n■ Nomori Pro（買い切り）\n一度の購入でずっと使えます。\n• ヒント無制限（無料版は1問につき1回）\n• 過去の「今日のパズル」をいつでも再挑戦\n• 3回ミスでやり直しになるストリクトモード\n• Proパズルパック\n\nスマホを「おやすみモード」にしても、頭は動かしていたい時間に。",
-      "releaseNotes": "• iPhone Duo：半分折るとNomoriがパズル専用機に。片側に盤面、もう片側にタイマー・塗る/X・ヒント・取り消し。折り目の上には何も置きません。タブの隣には記録が並び、クリア画面も分かれます。",
+      "releaseNotes": "ライブラリで完成した絵を先に見られるようになりました。他のアプリのおすすめは、今日のパズルと記録の後に表示します。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "JIYULMOM",
@@ -65,7 +65,7 @@
     "de": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori ist ein ruhiges Nonogramm-Spiel. Löse Logikgitter mit Zahlenhinweisen — ohne Zeitdruck, ohne Werbung, ohne nervige In-App-Käufe.\n\n• Tägliches Rätsel\n• Größen von 5×5 bis 15×15\n• Vier Schwierigkeitsgrade\n• Streak-Heatmap mit persönlichen Statistiken\n• Apple Watch Begleiter\n• Helles und dunkles Design\n• Vollständig offline — deine Daten bleiben auf deinem Gerät\n\nFür die Momente, in denen du dein iPhone auf \"Nicht stören\" stellst, aber dein Kopf wach bleiben soll.",
-      "releaseNotes": "• iPhone Duo: Halb gefaltet wird Nomori zur Rätselkonsole – auf der einen Hälfte das Raster, auf der anderen Timer, Füllen/X, Hinweis und Rückgängig. Auf dem Knick liegt nichts. Neben den Tabs stehen deine Statistiken, und auch der Gewinnbildschirm teilt sich.",
+      "releaseNotes": "Fertige Bilder stehen in deiner Bibliothek jetzt oben. Empfehlungen für andere Apps folgen erst nach dem Tagesrätsel und deinem Fortschritt.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "JIYULMOM",
@@ -92,15 +92,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/97/4c/47974c78-cce8-11a3-f691-1cf691b36436/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/aa/1e/96aa1e34-c761-a7ac-0043-8fef2064d94f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "13010944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.4",
-  "version": "1.6.1",
-  "currentVersionReleaseDate": "2026-10-20T12:57:54Z",
+  "version": "1.6.2",
+  "currentVersionReleaseDate": "2026-10-29T16:23:51Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
   "artistName": "JIYULMOM",
@@ -242,6 +242,37 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/8b/b1/6f8bb1ca-1235-7903-29ca-b3094ee3bb2b/nomori-duo-book.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/e0/20/cee02048-9f2e-bd5f-5441-5c6069dfab39/nomori-duo-tabletop.png/2007x2853bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/02/7d/15027de7-3d15-1303-e811-af359b6de982/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.29.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/04/73/0c0473fb-0a17-95e9-3c46-018694db3406/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.17.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/88/5a/6c885ab9-72ac-6980-c617-316a3e6555da/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.30.50.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/17/58/2b17581c-6b6d-dd9f-1cc0-0daead5f9583/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.32.49.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/84/c4/a684c44f-d6d1-20b3-15e9-0fba2c9a6e67/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.32.57.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/17/b9/2e17b9ad-46a1-6148-e6e8-c451d8d3ef2d/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.25.01.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/64/f0/ba64f0ef-fc43-d80c-489a-d6902c7d69ad/01.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/99/bc/0599bc33-5e3f-c9cd-0191-3ee32270e4ef/02.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/d6/6c/60d66cf6-b93c-8c61-d8c8-bf95f1c19c76/03.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/80/13/c380132e-4a7c-812b-715b-60b4e20406a2/04.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/79/9f/a8799ff8-13cb-58e6-1450-1e03df520be2/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/0b/70/140b7002-d7ba-cb7d-dd0a-2ba8b166be6a/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/98/5a/81985a6d-f755-a846-37b7-e249d793f8d8/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/ca/ad/04caad04-3137-ba83-7c35-5e35d88fbc14/04.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/ce/92/4cce9276-01d8-ecc9-db99-de4692c835db/05.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/02/7d/15027de7-3d15-1303-e811-af359b6de982/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.29.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/04/73/0c0473fb-0a17-95e9-3c46-018694db3406/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.17.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/88/5a/6c885ab9-72ac-6980-c617-316a3e6555da/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.30.50.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/17/58/2b17581c-6b6d-dd9f-1cc0-0daead5f9583/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.32.49.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/84/c4/a684c44f-d6d1-20b3-15e9-0fba2c9a6e67/Simulator_Screenshot_-_iPad_Pro_13-inch__M4__-_2026-05-03_at_10.32.57.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/17/b9/2e17b9ad-46a1-6148-e6e8-c451d8d3ef2d/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.25.01.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/e5/ac/6fe5ac43-3bf2-b4cb-681a-f429f72f041c/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/8d/8c/ad8d8c1c-a9e2-7bda-ed7b-805784e1cc1a/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/b3/3c/fbb33c74-cec1-9c3f-5625-ce9b81abd52f/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/21/f5/a421f5f1-3f45-6dae-d861-c4c583c1243d/04.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/64/f0/ba64f0ef-fc43-d80c-489a-d6902c7d69ad/01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/99/bc/0599bc33-5e3f-c9cd-0191-3ee32270e4ef/02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/d6/6c/60d66cf6-b93c-8c61-d8c8-bf95f1c19c76/03.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/80/13/c380132e-4a7c-812b-715b-60b4e20406a2/04.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/ff/4e/90ff4eba-de0c-d572-d268-1d7e2d8ae784/nomori-duo-book.png/2853x2007bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/5c/cf/bf5ccf51-5d95-dfb0-d2e8-50991a058086/nomori-duo-tabletop.png/2007x2853bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/40/94/6c409461-b752-bbb6-75f5-88b184ac2ace/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.29.png/2048x2732bb.png",
@@ -304,6 +335,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/f0/c8/0ff0c84c-872a-a21f-13b3-95c972e8081c/04.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/34/4d/93344d3f-e4e5-3327-3d2b-d895ca5bfaf4/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.58.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4f/38/dc4f3897-19ae-f269-ae85-541587384f07/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.12.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4d/c6/244dc687-b44a-892c-596c-c621bba922ee/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.22.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/66/9a/9f669a52-0666-8c59-8c79-3524189db71a/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.58.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/95/77/aa9577a6-a67e-9755-f588-34e447290eec/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.12.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/69/ca/d969cabd-2957-6b3b-a299-32120a4656dc/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.22.png/410x502bb.png",
@@ -431,8 +465,13 @@
       "version": "1.6.1",
       "releaseNotes": "• iPhone Duo: half-fold it and Nomori becomes a puzzle console — the board on one half, the timer, Fill/X, hint and undo on the other. Nothing sits on the crease. Your stats sit beside the tabs, and the win screen splits too.",
       "seenAt": "2026-10-20T12:57:54Z"
+    },
+    {
+      "version": "1.6.2",
+      "releaseNotes": "Completed pictures now appear first in your library. Other-app suggestions follow your daily puzzle and progress.",
+      "seenAt": "2026-10-29T16:23:51Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:25:00.153Z",
+  "updatedAt": "2026-10-30T13:12:54.005Z",
   "isOwnApp": false
 }

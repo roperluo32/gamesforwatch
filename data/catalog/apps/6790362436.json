@@ -21,7 +21,7 @@
         "ZH",
         "ZH"
       ],
-      "subtitle": ""
+      "subtitle": "Raise pets and chat with AI"
     },
     "ja": {
       "trackName": "PetBox：虚拟宠物养成与陪伴",
@@ -212,6 +212,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/95/be/5995be00-353c-ad14-7615-b55f77c47655/en-US-duo-home.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/3f/93/943f932a-1e97-95cd-f2ca-611f8d6232be/en-US-duo-collection.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/eb/18/3aeb1898-cea5-9040-f045-4d1f9f8fa5fa/en-US-duo-tasks.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/cb/36/83cb360f-95ef-7cc8-e931-0777c6d40bb9/en-US-duo-profile.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/ec/ce/d9ecce4a-eaf6-b106-a58a-d4030b52144e/en-US-ipad-home.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/fd/38/e7fd3893-6f59-da6c-a77b-bd3eb8fb5dce/en-US-ipad-collection.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/c8/bd/58c8bd83-ca17-ac57-375e-034e3ee84cbe/en-US-ipad-tasks.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/5f/56/225f561e-2817-6ddf-2f3e-08d6ff805496/en-US-ipad-profile.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/f8/89/58f889d2-08e6-913c-58b8-56618f6a9895/en-US-phone-home.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/60/40/aa6040e8-a178-26fc-b863-c73bb31004bd/en-US-phone-collection.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/c0/7b/5ac07b6c-9293-dbfb-00bc-8bc6cae644e6/en-US-phone-tasks.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/fc/91/11fc9120-10ce-1b89-d078-e2948e4e1039/en-US-phone-profile.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/08/34/ff0834ae-4203-885e-9b2e-3607b6b10921/6790362436-6790362436-6790362436-01-pet-home.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/ff/87/a1ff8792-5341-6b83-6a2d-113fa3904058/6790362436-6790362436-6790362436-02-pet-collection.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/42/6e/c5426ef2-7a04-12fd-6ab7-f9f775abffb9/04-tasks-ipad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/7f/d5/737fd53b-b178-c3a6-7034-84eacc728d02/01-home-ipad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/18/6f/00186fc9-c553-4b4b-8b31-679331550e96/02-starbox-ipad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/60/31/3e60314b-ebc7-fe88-0d14-ec23a01d6b41/03-collection-ipad.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/4f/d7/cf4fd7f3-3d05-b802-7ccc-2d311e68ff37/6790362436-6790362436-6790362436-01-pet-home.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/71/99/89719900-433a-a81e-3f61-45c7637433da/6790362436-6790362436-6790362436-02-pet-collection.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/42/6e/c5426ef2-7a04-12fd-6ab7-f9f775abffb9/04-tasks-ipad.png/2064x2752bb.png",
@@ -220,12 +238,6 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/60/31/3e60314b-ebc7-fe88-0d14-ec23a01d6b41/03-collection-ipad.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/08/34/ff0834ae-4203-885e-9b2e-3607b6b10921/6790362436-6790362436-6790362436-01-pet-home.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/ff/87/a1ff8792-5341-6b83-6a2d-113fa3904058/6790362436-6790362436-6790362436-02-pet-collection.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/08/34/ff0834ae-4203-885e-9b2e-3607b6b10921/6790362436-6790362436-6790362436-01-pet-home.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/ff/87/a1ff8792-5341-6b83-6a2d-113fa3904058/6790362436-6790362436-6790362436-02-pet-collection.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/42/6e/c5426ef2-7a04-12fd-6ab7-f9f775abffb9/04-tasks-ipad.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/7f/d5/737fd53b-b178-c3a6-7034-84eacc728d02/01-home-ipad.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/18/6f/00186fc9-c553-4b4b-8b31-679331550e96/02-starbox-ipad.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/60/31/3e60314b-ebc7-fe88-0d14-ec23a01d6b41/03-collection-ipad.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/a4/61/a1a461ae-ff26-3323-a3fd-4f05cc97cea8/04-tasks-ipad.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/28/83/de28837d-a13c-9c7a-5a2d-d2e384562867/01-home-ipad.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/a9/4e/85a94ea1-899e-a1d4-41c7-5a70a15a12d8/02-starbox-ipad.png/2064x2752bb.png",
@@ -244,6 +256,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/2d/c8/8c2dc8da-3fcf-f949-2f3a-6b151a373b86/03-collection-ipad.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/82/ce/ad82ce43-837d-a4d8-35ed-c9a1fed271fc/en-US-watch-home.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/53/61/e8536108-7204-2ef4-209d-af30f3c7358e/en-US-watch-status.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/f4/49/2cf44938-7e9a-9ec9-023e-186734dcd0a1/after-load.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4d/0a/d34d0a8b-4271-d11f-90ad-09d8d9b86748/after-load.png/416x496bb.png"
   ],
@@ -255,40 +269,45 @@
     },
     {
       "version": "1.0.2",
-      "releaseNotes": "新增手机验证码登录与档案恢复。\n优化 AI 陪伴对话与整体稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-07-21T23:08:36Z"
     },
     {
       "version": "1.0.3",
-      "releaseNotes": "新增系统语言自动切换：支持简体中文、English、繁體中文、日本語、한국어。\n优化宠物默认名称、AI 陪伴对话、账号与支持状态的多语言体验。",
+      "releaseNotes": "",
       "seenAt": "2026-07-22T22:20:15Z"
     },
     {
       "version": "1.0.4",
-      "releaseNotes": "优化深色模式显示效果，修复部分文字、卡片和按钮对比度不足的问题。\n优化新手引导、任务、个人中心及 AI 陪伴聊天界面。\n提升多语言显示效果和整体运行稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-07-31T18:18:18Z"
     },
     {
       "version": "1.0.5",
-      "releaseNotes": "新增秋巴、吉谷两只原创宠物及待机、开心、挥手、睡眠四种动作形态。\n修正秋巴手部与吉谷双腿结构，优化宠物透明素材、动作表现和图鉴显示。\n优化伙伴生活、深色模式、多语言体验和运行稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-08-08T18:40:52Z"
     },
     {
       "version": "1.0.6",
-      "releaseNotes": "新增秋巴、吉谷等原创宠物与伙伴生活玩法。\n修复基础食物耗尽后无法喂食的问题。\n修复喂食后推荐按钮跳动及动作反馈显示异常。\n优化深色模式、多语言体验和运行稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-08-09T21:26:45Z"
     },
     {
       "version": "1.0.9",
-      "releaseNotes": "根据审核反馈，移除未提交的三个星晶包商品及相关入口，应用现仅提供 PetBox 完整版永久解锁。修复商店商品展示与 App Store 内购项目不一致的问题，并继续优化 Apple Watch 同步与稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-08-20T11:56:12Z"
     },
     {
       "version": "1.0.10",
-      "releaseNotes": "改善新系统兼容性与运行稳定性。",
+      "releaseNotes": "",
       "seenAt": "2026-10-23T23:49:49Z"
+    },
+    {
+      "version": "1.0.11",
+      "releaseNotes": "Improved English fallback and default pet names. Localized Apple Watch and widget text. Fixed Watch page switching and restored local care progress after relaunch. Refined English labels and iPhone Duo layouts.",
+      "seenAt": "2026-10-29T17:59:33Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:09:35.839Z",
+  "updatedAt": "2026-10-30T12:58:07.608Z",
   "isOwnApp": false
 }

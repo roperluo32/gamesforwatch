@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Tuure-forms",
-      "description": "Tuure-forms is a calm and beautifully crafted puzzle experience that explores form across every scale of existence.\n\nFrom tiny living organisms and delicate micro-structures, to the patterns of nature around us, and further into the vastness of space, each puzzle invites you to notice shape, structure, and connection.\n\nSolve image-based puzzles on your Apple Watch, iPhone, iPad, or Mac and unlock something special. Every completed puzzle becomes a living slideshow on your Apple TV. What you solve in your hands is later experienced on the big screen — a quiet gallery of forms you have restored.\n\nTuure-forms is designed for moments of focus.\nNo timers. No pressure.\nJust presence, curiosity, and the quiet satisfaction of bringing scattered pieces back into harmony.\n\nFeatures:\n• Relaxing image puzzles inspired by micro-life, nature, and space\n• Available on Apple Watch, iPhone, iPad, and Mac\n• Solve at your own pace\n• Every completed puzzle unlocks a matching Apple TV slideshow\n• Seamless progress across devices using iCloud\n• No ads, no stress, no noise\n\nTuure-forms turns small moments of attention into something lasting. A puzzle solved during the day can become a calm, evolving backdrop in your home at night.\n\nSlow down. Solve. Unlock the small, the natural, and the infinite.",
-      "releaseNotes": "Small refinements for a smoother puzzle experience.",
+      "description": "Tuure-forms is a calm and beautifully crafted puzzle experience that explores form across every scale of existence.\n\nFrom tiny living organisms and delicate micro-structures, to the patterns of nature around us, and further into the vastness of space, each puzzle invites you to notice shape, structure, and connection.\n\nSolve image-based puzzles on your Apple Watch, iPhone, iPad, or Mac and unlock something special. Every completed puzzle becomes a living slideshow on your Apple TV. What you solve in your hands is later experienced on the big screen — a quiet gallery of forms you have restored.\n\nTuure-forms is designed for moments of focus.\nNo timers. No pressure.\nJust presence, curiosity, and the quiet satisfaction of bringing scattered pieces back into harmony.\n\nFeatures:\n• Relaxing image puzzles inspired by micro-life, nature, and space\n• Available on Apple Watch, iPhone, iPad, and Mac\n• Solve at your own pace\n• Every completed puzzle unlocks a matching Apple TV slideshow\n• Seamless progress across devices using iCloud\n• No ads, no stress, no noise\n• Available in 15 languages\n\nTuure-forms turns small moments of attention into something lasting. A puzzle solved during the day can become a calm, evolving backdrop in your home at night.\n\nThe images in Tuure-forms were created with the help of AI.\n\nSlow down. Solve. Unlock the small, the natural, and the infinite.",
+      "releaseNotes": "Tuure-forms now speaks your language and is available in 15 languages. Dates follow your language settings.",
       "trackViewUrl": "https://apps.apple.com/us/app/tuure-forms/id6758371078?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Aftercompute AB",
@@ -16,14 +16,28 @@
         "Puzzle"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "ZH",
+        "TR"
       ],
       "subtitle": "Calm puzzles, lasting rewards"
     },
     "zh": {
       "trackName": "Tuure-forms",
-      "description": "Tuure-forms is a calm and beautifully crafted puzzle experience that explores form across every scale of existence.\n\nFrom tiny living organisms and delicate micro-structures, to the patterns of nature around us, and further into the vastness of space, each puzzle invites you to notice shape, structure, and connection.\n\nSolve image-based puzzles on your Apple Watch, iPhone, iPad, or Mac and unlock something special. Every completed puzzle becomes a living slideshow on your Apple TV. What you solve in your hands is later experienced on the big screen — a quiet gallery of forms you have restored.\n\nTuure-forms is designed for moments of focus.\nNo timers. No pressure.\nJust presence, curiosity, and the quiet satisfaction of bringing scattered pieces back into harmony.\n\nFeatures:\n• Relaxing image puzzles inspired by micro-life, nature, and space\n• Available on Apple Watch, iPhone, iPad, and Mac\n• Solve at your own pace\n• Every completed puzzle unlocks a matching Apple TV slideshow\n• Seamless progress across devices using iCloud\n• No ads, no stress, no noise\n\nTuure-forms turns small moments of attention into something lasting. A puzzle solved during the day can become a calm, evolving backdrop in your home at night.\n\nSlow down. Solve. Unlock the small, the natural, and the infinite.",
-      "releaseNotes": "Small refinements for a smoother puzzle experience.",
+      "description": "Tuure-forms 是一款宁静而精心打造的拼图体验，探索存在于每一种尺度中的形态。\n\n从微小的生命体与精巧的微观结构，到我们身边的自然纹理，再到浩瀚的宇宙深处，每一幅拼图都邀请你留意形状、结构与联系。\n\n在 Apple Watch、iPhone、iPad 或 Mac 上完成图片拼图，解锁特别的惊喜。每完成一幅拼图，都会在你的 Apple TV 上化为一段鲜活的幻灯片。你在掌心中完成的作品，稍后将在大屏幕上呈现——一座由你亲手修复的形态组成的静谧画廊。\n\nTuure-forms 为专注的时刻而设计。\n没有计时器。没有压力。\n只有当下、好奇心，以及将散落碎片重归和谐时那份安静的满足。\n\n功能特色：\n• 灵感源自微观生命、自然与宇宙的放松图片拼图\n• 支持 Apple Watch、iPhone、iPad 和 Mac\n• 按照自己的节奏完成\n• 每完成一幅拼图，即可解锁对应的 Apple TV 幻灯片\n• 通过 iCloud 在设备间无缝同步进度\n• 无广告、无压力、无喧嚣\n• 支持 15 种语言\n\nTuure-forms 将专注的片刻化为恒久的珍藏。白天完成的一幅拼图，到了夜晚便可成为家中宁静而流动的背景。\n\nTuure-forms 中的图片借助 AI 创作而成。\n\n慢下来。拼一拼。解锁微小、自然与无限。",
+      "releaseNotes": "Tuure-forms 现已支持你的语言，共提供 15 种语言。日期将按照你的语言设置显示。",
       "trackViewUrl": "https://apps.apple.com/cn/app/tuure-forms/id6758371078?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Aftercompute AB",
@@ -32,14 +46,28 @@
         "益智解谜"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "ZH",
+        "TR"
       ],
       "subtitle": ""
     },
     "ja": {
       "trackName": "Tuure-forms",
-      "description": "Tuure-forms is a calm and beautifully crafted puzzle experience that explores form across every scale of existence.\n\nFrom tiny living organisms and delicate micro-structures, to the patterns of nature around us, and further into the vastness of space, each puzzle invites you to notice shape, structure, and connection.\n\nSolve image-based puzzles on your Apple Watch, iPhone, iPad, or Mac and unlock something special. Every completed puzzle becomes a living slideshow on your Apple TV. What you solve in your hands is later experienced on the big screen — a quiet gallery of forms you have restored.\n\nTuure-forms is designed for moments of focus.\nNo timers. No pressure.\nJust presence, curiosity, and the quiet satisfaction of bringing scattered pieces back into harmony.\n\nFeatures:\n• Relaxing image puzzles inspired by micro-life, nature, and space\n• Available on Apple Watch, iPhone, iPad, and Mac\n• Solve at your own pace\n• Every completed puzzle unlocks a matching Apple TV slideshow\n• Seamless progress across devices using iCloud\n• No ads, no stress, no noise\n\nTuure-forms turns small moments of attention into something lasting. A puzzle solved during the day can become a calm, evolving backdrop in your home at night.\n\nSlow down. Solve. Unlock the small, the natural, and the infinite.",
-      "releaseNotes": "Small refinements for a smoother puzzle experience.",
+      "description": "Tuure-formsは、存在のあらゆるスケールに宿る「かたち」を探る、静かで美しく作り込まれたパズル体験です。\n\n小さな生命体や繊細なミクロの構造から、身の回りの自然が描く模様、そして果てしない宇宙の広がりへ。ひとつひとつのパズルが、かたち、構造、そしてつながりに目を向けるきっかけをくれます。\n\nApple Watch、iPhone、iPad、Macで画像パズルを解いて、特別なものを解放しましょう。完成したパズルはすべて、Apple TVで動くスライドショーになります。手のひらで解いたものを、のちに大きな画面で味わう — あなたが復元したかたちを集めた、静かなギャラリーです。\n\nTuure-formsは、集中するひとときのためにデザインされています。\nタイマーなし。プレッシャーなし。\nただ、今この瞬間と好奇心、そして散らばったピースを調和へと戻す静かな満足感だけ。\n\n主な機能：\n• ミクロの生命、自然、宇宙から着想を得た、癒しの画像パズル\n• Apple Watch、iPhone、iPad、Macに対応\n• 自分のペースで解ける\n• パズルを完成させるごとに、対応するApple TVのスライドショーを解放\n• iCloudでデバイス間の進行状況をシームレスに同期\n• 広告なし、ストレスなし、騒音なし\n• 15言語に対応\n\nTuure-formsは、ささやかな集中のひとときを、長く残るものへと変えます。昼間に解いたパズルが、夜にはあなたの家で静かに移ろう背景になるかもしれません。\n\nTuure-formsの画像は、AIの助けを借りて作成されました。\n\nゆっくりと。解いて。小さなもの、自然なもの、そして無限なるものを解き放とう。",
+      "releaseNotes": "Tuure-formsがあなたの言語に対応し、15言語でご利用いただけるようになりました。日付は言語設定に合わせて表示されます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/tuure-forms/id6758371078?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Aftercompute AB",
@@ -48,14 +76,28 @@
         "パズル"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "ZH",
+        "TR"
       ],
       "subtitle": ""
     },
     "de": {
       "trackName": "Tuure-forms",
-      "description": "Tuure-forms is a calm and beautifully crafted puzzle experience that explores form across every scale of existence.\n\nFrom tiny living organisms and delicate micro-structures, to the patterns of nature around us, and further into the vastness of space, each puzzle invites you to notice shape, structure, and connection.\n\nSolve image-based puzzles on your Apple Watch, iPhone, iPad, or Mac and unlock something special. Every completed puzzle becomes a living slideshow on your Apple TV. What you solve in your hands is later experienced on the big screen — a quiet gallery of forms you have restored.\n\nTuure-forms is designed for moments of focus.\nNo timers. No pressure.\nJust presence, curiosity, and the quiet satisfaction of bringing scattered pieces back into harmony.\n\nFeatures:\n• Relaxing image puzzles inspired by micro-life, nature, and space\n• Available on Apple Watch, iPhone, iPad, and Mac\n• Solve at your own pace\n• Every completed puzzle unlocks a matching Apple TV slideshow\n• Seamless progress across devices using iCloud\n• No ads, no stress, no noise\n\nTuure-forms turns small moments of attention into something lasting. A puzzle solved during the day can become a calm, evolving backdrop in your home at night.\n\nSlow down. Solve. Unlock the small, the natural, and the infinite.",
-      "releaseNotes": "Small refinements for a smoother puzzle experience.",
+      "description": "Tuure-forms ist ein ruhiges, liebevoll gestaltetes Puzzle-Erlebnis, das Formen auf allen Ebenen des Daseins erkundet.\n\nVon winzigen Lebewesen und zarten Mikrostrukturen über die Muster der Natur um uns herum bis hinaus in die Weite des Weltalls – jedes Puzzle lädt dich ein, Form, Struktur und Verbindung wahrzunehmen.\n\nLöse Bilderpuzzles auf deiner Apple Watch, deinem iPhone, iPad oder Mac und schalte etwas Besonderes frei. Jedes gelöste Puzzle wird zu einer lebendigen Diashow auf deinem Apple TV. Was du in deinen Händen löst, erlebst du später auf dem großen Bildschirm – eine stille Galerie der Formen, die du wiederhergestellt hast.\n\nTuure-forms ist gemacht für Momente der Konzentration.\nKeine Timer. Kein Druck.\nNur Gegenwart, Neugier und die stille Freude, verstreute Teile wieder in Einklang zu bringen.\n\nFunktionen:\n• Entspannende Bilderpuzzles, inspiriert von Mikroleben, Natur und Weltall\n• Verfügbar für Apple Watch, iPhone, iPad und Mac\n• Löse in deinem eigenen Tempo\n• Jedes gelöste Puzzle schaltet eine passende Diashow auf Apple TV frei\n• Nahtloser Fortschritt auf allen Geräten dank iCloud\n• Keine Werbung, kein Stress, kein Lärm\n• Verfügbar in 15 Sprachen\n\nTuure-forms verwandelt kleine Momente der Aufmerksamkeit in etwas Bleibendes. Ein Puzzle, das du tagsüber löst, kann abends zu einer ruhigen, sich wandelnden Kulisse in deinem Zuhause werden.\n\nDie Bilder in Tuure-forms wurden mithilfe von KI erstellt.\n\nWerde langsamer. Löse. Entdecke das Kleine, das Natürliche und das Unendliche.",
+      "releaseNotes": "Tuure-forms spricht jetzt deine Sprache und ist in 15 Sprachen verfügbar. Datumsangaben folgen deinen Spracheinstellungen.",
       "trackViewUrl": "https://apps.apple.com/de/app/tuure-forms/id6758371078?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Aftercompute AB",
@@ -64,20 +106,34 @@
         "Puzzle"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "ZH",
+        "TR"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/91/1d/ad911da8-a8d4-a9ec-6f12-1ae6d5a4fa6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ce/ee/3bceeeba-f6ad-b8ce-4f6f-06d6fba4abf6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "102069248",
+  "fileSizeBytes": "102737920",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.0",
-  "version": "1.0.3",
-  "currentVersionReleaseDate": "2026-10-19T22:04:25Z",
+  "version": "1.0.4",
+  "currentVersionReleaseDate": "2026-10-29T20:07:37Z",
   "releaseDate": "2026-02-10T08:00:00Z",
   "artistId": 1499274253,
   "artistName": "Aftercompute AB",
@@ -268,8 +324,13 @@
       "version": "1.0.3",
       "releaseNotes": "Small refinements for a smoother puzzle experience.",
       "seenAt": "2026-10-19T22:04:25Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "Tuure-forms now speaks your language and is available in 15 languages. Dates follow your language settings.",
+      "seenAt": "2026-10-29T20:07:37Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:25:04.838Z",
+  "updatedAt": "2026-10-30T13:12:59.312Z",
   "isOwnApp": false
 }

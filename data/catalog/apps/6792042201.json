@@ -63,6 +63,26 @@
         "ZH"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Pippet: Watch Pet Game",
+      "description": "A tiny pet lives on your wrist.\n\nPippet is a virtual pet made for Apple Watch — not a phone game squeezed onto a\nsmall screen. Glance at your wrist and your pet is there, doing its own thing.\n\nSTROKE IT WITH THE DIGITAL CROWN\nTurn the crown slowly and feel every gentle tick in your wrist — like a purr you\ncan actually feel. Spin fast and it giggles.\n\nYOUR STEPS ARE ITS FOOD\nPippet feeds on your real activity. A good walk keeps your pet full and happy.\nOr lift a treat to its mouth with the crown and watch it chomp.\n\nALWAYS IN VIEW\nPut your pet on your watch face. It changes expression through the day all on\nits own — hungry at noon, curled up asleep at night.\n\nIT GROWS WITH YOU\nHatch a mystery egg, name your pet, and watch it grow through four life stages.\nThree species to discover, each with its own little plant crown.\n\nKIND BY DESIGN\nYour pet never dies. Neglect it and it just naps until you come back — one touch\nwakes it up. No guilt, no punishment. No subscription, no ads, no paid revivals.\nWhen you're ready for a new friend, your old one rests safely in your codex.",
+      "releaseNotes": "Pippet now lives on your iPhone too.\n\n• Stroke, feed and play with your pet on iPhone.\n• No Apple Watch? Raise your pet on iPhone alone.\n• Have both? It's one pet, synced through iCloud.\n• Widgets for the Home Screen, Lock Screen and StandBy.\n• Soft sounds on iPhone (they follow the silent switch).\n• Bug fixes.",
+      "trackViewUrl": "https://apps.apple.com/de/app/pippet-watch-pet-game/id6792042201?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "VLADIMIR GONCHARUK",
+      "genres": [
+        "Spiele",
+        "Simulation",
+        "Lifestyle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "KK",
+        "RU",
+        "ZH"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/0e/83/1b0e83bb-3784-0f41-212a-cd8e8b56c34b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
@@ -77,7 +97,7 @@
   "releaseDate": "2026-08-11T07:00:00Z",
   "artistId": 6789844568,
   "artistName": "VLADIMIR GONCHARUK",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/vladimir-goncharuk/id6789844568?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/vladimir-goncharuk/id6789844568?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -283,6 +303,6 @@
       "seenAt": "2026-10-29T12:27:06Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:59:57.763Z",
+  "updatedAt": "2026-10-30T12:48:53.787Z",
   "isOwnApp": false
 }
