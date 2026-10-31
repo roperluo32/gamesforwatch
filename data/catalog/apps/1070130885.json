@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Added a new bird pack and expanded max level.",
+      "releaseNotes": "Optimized performance.",
       "trackViewUrl": "https://apps.apple.com/us/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Added a new bird pack and expanded max level.",
+      "releaseNotes": "Optimized performance.",
       "trackViewUrl": "https://apps.apple.com/cn/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Added a new bird pack and expanded max level.",
+      "releaseNotes": "Optimized performance.",
       "trackViewUrl": "https://apps.apple.com/jp/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Added a new bird pack and expanded max level.",
+      "releaseNotes": "Optimized performance.",
       "trackViewUrl": "https://apps.apple.com/de/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/e6/f0/b3e6f0fc-4186-4c73-9941-49c049c9b6d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4b/62/d44b625c-96f3-227e-dba2-cfc084988f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.13514,
   "userRatingCount": 37,
   "price": 0,
-  "fileSizeBytes": "59210752",
+  "fileSizeBytes": "59218944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.6.0",
-  "currentVersionReleaseDate": "2026-10-23T16:17:12Z",
+  "version": "3.6.1",
+  "currentVersionReleaseDate": "2026-10-30T15:10:13Z",
   "releaseDate": "2016-01-13T02:21:12Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -420,8 +420,13 @@
       "version": "3.6.0",
       "releaseNotes": "Added a new bird pack and expanded max level.",
       "seenAt": "2026-10-23T16:17:12Z"
+    },
+    {
+      "version": "3.6.1",
+      "releaseNotes": "Optimized performance.",
+      "seenAt": "2026-10-30T15:10:13Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:40:08.050Z",
+  "updatedAt": "2026-10-31T12:15:33.829Z",
   "isOwnApp": false
 }

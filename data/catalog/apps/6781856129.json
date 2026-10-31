@@ -36,8 +36,8 @@
     },
     "ja": {
       "trackName": "Tiny Siege Desktop Defense",
-      "description": "Build a tiny fortress on your desk and stop the siege before the toy army reaches your flag.\n\nTiny Siege Desktop Defense is a tactile tower defense game built around readable battlefield choices: place dart towers, shields, traps, slows, and launchers, then watch animated waves push in from multiple edges of the desk. When a plan fails, the game explains what broke so you can rebuild smarter and try again.\n\nPlay the opening campaign free, learn how each defense changes the route, chase better scores, and return for Daily Siege challenges. Full Toy Box unlocks campaign levels 7-15, Daily Siege, and Chaos difficulty. Launch Toy Skins adds cosmetic-only desk and toy themes with no gameplay advantage.\n\nDesigned for iPhone and iPad in landscape, with sound controls, reduced-motion support, Game Center-ready scoring, and a compact interface built for fast retries.",
-      "releaseNotes": "A respectful App Store review prompt can now appear after you've completed several successful sieges. It waits for a quiet break and stays infrequent.",
+      "description": "Build a tiny fortress on your desk and stop the siege before the toy army reaches your flag.\n\nTiny Siege Desktop Defense is a tactile tower defense game built around readable battlefield choices: place dart towers, shields, traps, slows, and launchers, then watch animated waves push in from multiple edges of the desk. When a plan fails, the game explains what broke so you can rebuild smarter and try again.\n\nPlay the opening campaign free, learn how each defense changes the route, chase better scores, and return for Daily Siege challenges. Full Toy Box unlocks campaign levels 7-15, Daily Siege, and Chaos difficulty. Launch Toy Skins adds cosmetic-only desk and toy themes with no gameplay advantage.\n\nDesigned for iPhone and iPad in landscape, with sound controls, reduced-motion support, Game Center-ready scoring, and a compact interface built for fast retries.\n\nPlay on iPhone Duo with a battlefield and controls that adapt to the available space. On roomier layouts, keep battle facts and selected-part details alongside play. Display changes pause an active siege so you can resume with your build intact.",
+      "releaseNotes": "Now supports iPhone Duo with an adaptive battlefield and controls, plus battle and selected-part details alongside play where space allows. Switching displays pauses an active siege and preserves your build.\n\nTools and Details keep their title and Done button visible while you scroll. App Clip controls are easier to tap, and paused demos resume with their progress intact.",
       "trackViewUrl": "https://apps.apple.com/jp/app/tiny-siege-desktop-defense/id6781856129?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Rob Rightmyer",
@@ -360,6 +360,6 @@
       "seenAt": "2026-10-30T10:22:29Z"
     }
   ],
-  "updatedAt": "2026-10-30T13:14:01.928Z",
+  "updatedAt": "2026-10-31T12:42:47.769Z",
   "isOwnApp": false
 }

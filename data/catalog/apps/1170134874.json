@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pocket Plants: Cozy plant game",
       "description": "Bring life back to barren landscapes by growing and evolving adorable plants!\n\nCombine your plants to unlock dozens of cute new ones as you revitalize several different worlds. Charming characters will aid you in your adventure by giving you different tasks to complete for great rewards.  You can even connect your phone or Fitbit to help generate more energy as you exercise!\n\n\nKEY FEATURES:\n\n*Collect them all! - Grow hundreds of absolutely adorable plants as you mix and match different species in order to evolve brand new ones.\n\n*Cast of characters - Harvest plants for charming NPC's and complete their orders to earn exciting rewards!\n\n*Powerups - Unlock flasks by completing orders to research dozens of unique powerups.\n\n*Explore - Breath life back into several magical worlds as you discover more plant types.\n\n*Healthy Twist - Connect your phone, Fitbit, or Apple Watch (using HealthKit) and convert your steps into free energy in-game!\n\nThis app connects to your Health app to track your apple watch steps using Apple's HealthKit functionality.\n\nPlease Note: Pocket Plants is a free-to-play game, but some extra game items can be purchased for real money. You can disable in-app purchases in your device's settings.",
-      "releaseNotes": "This update contains stability improvements and general bug fixes.",
+      "releaseNotes": "* New features\n- Sync step data from compatible devices via Apple Health.",
       "trackViewUrl": "https://apps.apple.com/us/app/pocket-plants-cozy-plant-game/id1170134874?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Shikudo Co., Ltd.",
@@ -22,7 +22,7 @@
     "zh": {
       "trackName": "口袋植物: 种花合成植物精灵的游戏",
       "description": "合成众多可爱植物来解救各个魔法世界。超级魔性的游戏角色来给你挑战和任务，并且给到你丰厚的奖励。你还能连接电话或者Fitbit来转换运动步数为能量，帮助你加速游戏进程，为你的健康加分！\n\n主要特征：\n\n*收集所有植物：种植并匹配各种超级可爱的植物来合成出全新种类。几百种植物等你来收集。\n\n*帮助居民：为魔法世界居民们收获植物，完成他们的订单来获取令人兴奋的奖励！\n\n*魔法道具：通过研究订单中的烧瓶来获取众多的魔法道具。\n\n*不断探索：不断发现新的植物来唤醒枯萎的土地！\n\n*健康加分：绑定你的电话或Fitbit来转换运动步数为游戏内的\n能量！\n\n此应用程序可以连接到您的健康应用程序，以使用 Apple 的 HealthKit功能跟踪您的Apple Watch步数。\n\n请注意：Pocket Plants是一款免费的游戏，但一些额外的游戏物品能以真钱购买。你可以在设备的设置中禁用应用内购买。",
-      "releaseNotes": "此更新包含稳定性改进和错误修复。",
+      "releaseNotes": "* 新功能\n- 通过 Apple Health 同步兼容设备的步数数据。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E6%A4%8D%E7%89%A9-%E7%A7%8D%E8%8A%B1%E5%90%88%E6%88%90%E6%A4%8D%E7%89%A9%E7%B2%BE%E7%81%B5%E7%9A%84%E6%B8%B8%E6%88%8F/id1170134874?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Shikudo Co., Ltd.",
@@ -37,7 +37,7 @@
     "ja": {
       "trackName": "Pocket Plants: 歩くゲーム、植物 育成",
       "description": "植物を融合させてたくさんの新しいキュートな植物たちをアンロックし、個性的な数々の世界に再び生命を取り戻そう。冒険では、チャーミングなキャラクターたちが大きな報酬をもたらすさまざまなタスクを与えて手を貸してくれます。さらに、電話やFitbitに接続して運動すればさらにエネルギーを作り出せます！\n\n\n主な特徴：\n\n*ぜんぶ集めよう！- 何百種類ものとってもかわいい植物たちをぜんぶ育てよう。異なる種類を融合させていくことで新しい種類に進化します。\n\n*面白いキャラクター - チャーミングなNPCのために植物を育て、オーダーを完了して素敵な報酬を手に入れよう！\n\n*パワーアップ - オーダーを完了してフラスコをアンロックし、様々なパワーアップを研究しよう。\n\n*探索 - 新種の植物をどんどん見つけて、複数ある魔法の世界に生命を取り戻そう。\n\n*健康的なゲーム要素 - 電話またはFitbitを接続して歩数をボーナスのゲーム内エネルギーに変換しよう！\n\nこのアプリはHealthアプリに接続し、AppleのHealthKit機能を使用してAppleWatchの歩数を追跡します。\n\n注意：『Pocket Plants』は無料でプレイできますが、ゲームアイテムの中には実際のお金で購入できるものもあります。この機能を利用したくない場合には、お使いの端末の設定からアプリ内課金を無効にしてください。",
-      "releaseNotes": "このアップデートには安定性の向上と一般的なバグ修正が含まれています。",
+      "releaseNotes": "* 新機能\n- Apple Health経由で、対応デバイスの歩数データを同期できます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/pocket-plants-%E6%AD%A9%E3%81%8F%E3%82%B2%E3%83%BC%E3%83%A0-%E6%A4%8D%E7%89%A9-%E8%82%B2%E6%88%90/id1170134874?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Shikudo Co., Ltd.",
@@ -52,7 +52,7 @@
     "de": {
       "trackName": "Pocket Plants: Schrittzähler",
       "description": "Kombiniere deine Pflanzen, um Dutzende putziger neuer Pflanzen freizuschalten und verschiedene Welten wieder mit Leben zu erfüllen. Charmante Figuren helfen dir bei deinen Abenteuern und geben dir unterschiedliche Aufträge, für deren Abschluss du tolle Boni erhältst. Du kannst dich sogar mit deinem Handy oder deinem Fitbit verbinden, um mit deinen körperlichen Leistungen noch mehr Energie zu erzeugen!\n\n\nHAUPT-FEATURES:\n\n*Hol sie dir alle! - Züchte Hunderte hinreißender Pflanzen, kombiniere verschiedene Spezies und entwickle brandneue Arten.\n\n*Figuren – Hol dir mit deiner Pflanzenernte entzückende KI-Charaktere und schließe ihre Aufträge ab, um dir grandiose Boni zu sichern!\n\n*Powerups – Schließe Aufträge ab und erforsche Dutzende einzigartiger Powerups, um Flakons freizuschalten.\n\n*Erkundungen – Entdecke weitere Pflanzenarten und hauche mehreren magischen Welten neues Leben ein.\n\n*Fitness-Element – Verbinde dich mit deinem Handy oder deinem Fitbit und verwandle deine Schritte in kostenlose Ingame-Energie!\n\nDiese App stellt eine Verbindung zu Ihrer Health-App her, um Ihre Apple Watch-Schritte mithilfe der HealthKit-Funktion von Apple zu verfolgen.\n\nWichtiger Hinweis: Pocket Plants ist ein kostenlos spielbares Spiel. Einige Zusatz-Spielobjekte können jedoch für reales Geld gekauft werden. Die In-App-Käufe können in den Geräte-Einstellungen deaktiviert werden.",
-      "releaseNotes": "Dieses Update enthält Stabilitätsverbesserungen und allgemeine Fehlerbehebungen.",
+      "releaseNotes": "* Neue Funktionen\n- Synchronisiere Schrittdaten von kompatiblen Geräten über Apple Health.",
       "trackViewUrl": "https://apps.apple.com/de/app/pocket-plants-schrittz%C3%A4hler/id1170134874?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Shikudo Co., Ltd.",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/91/02/6b910218-b4fc-0b01-5c32-2781f19090f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/44/0c/87440c44-a9a2-223c-0fd5-9bd326062dda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.62962,
   "userRatingCount": 162,
   "price": 0,
-  "fileSizeBytes": "284043264",
+  "fileSizeBytes": "281117696",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "2.11.20",
-  "currentVersionReleaseDate": "2025-10-24T05:50:36Z",
+  "version": "2.12",
+  "currentVersionReleaseDate": "2026-10-30T15:43:57Z",
   "releaseDate": "2017-02-08T05:28:04Z",
   "artistId": 1089497060,
   "artistName": "Shikudo",
@@ -406,8 +406,13 @@
       "version": "2.11.20",
       "releaseNotes": "This update contains stability improvements and general bug fixes.\n",
       "seenAt": "2025-10-24T05:50:36Z"
+    },
+    {
+      "version": "2.12",
+      "releaseNotes": "* New features\n- Sync step data from compatible devices via Apple Health.",
+      "seenAt": "2026-10-30T15:43:57Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:39:39.890Z",
+  "updatedAt": "2026-10-31T12:08:47.121Z",
   "isOwnApp": false
 }

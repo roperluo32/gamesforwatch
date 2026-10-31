@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
+      "releaseNotes": "Enjoy one free game each day and bring cute bead monsters to life.\nUnlock all patterns and unlimited play with a one-time purchase. No recurring subscription.\nTap the new gold crown on the home screen to unlock full access or restore purchases.\nAdded purchase and daily trial screens for iPhone, iPad, and Apple Watch, localized in nine languages.",
       "trackViewUrl": "https://apps.apple.com/us/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
+      "releaseNotes": "Enjoy one free game each day and bring cute bead monsters to life.\nUnlock all patterns and unlimited play with a one-time purchase. No recurring subscription.\nTap the new gold crown on the home screen to unlock full access or restore purchases.\nAdded purchase and daily trial screens for iPhone, iPad, and Apple Watch, localized in nine languages.",
       "trackViewUrl": "https://apps.apple.com/jp/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -76,7 +76,7 @@
     "de": {
       "trackName": "Bead Devil: Watch Game",
       "description": "Tiny beads. Big smiles!\n\nStep into Bead Devil's neon-lit monster arcade and turn colorful beads into a pumpkin ghost, a witch cat, a one-eyed monster, and more.\n\nExplore 9 character patterns, preview each design, and save your favorites. On iPhone, choose a color and tap or drag to place matching beads. Hints, undo, bead removal, and reset tools let you create at your own pace.\n\nOn iPhone, try a daily challenge drawn from the included patterns, collect a daily gift, and exchange in-game rewards for extra hints. Progress saves automatically on your device, ready for you to pick up where you left off.\n\nBring the fun to your wrist: on Apple Watch, turn the Digital Crown to select a space, choose a color, and tap to place a bead. A close-up board helps you work on the little details.\n\nPlay offline with no account required. iPhone and Apple Watch keep separate local saves; cross-device sync is not available in this version. Coins and gems are earned and spent only within the game, with no real-money in-app purchases.\n\nThe app interface is currently in Simplified Chinese.\n\nCreate your own little world of lovable monsters!",
-      "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
+      "releaseNotes": "Enjoy one free game each day and bring cute bead monsters to life.\nUnlock all patterns and unlimited play with a one-time purchase. No recurring subscription.\nTap the new gold crown on the home screen to unlock full access or restore purchases.\nAdded purchase and daily trial screens for iPhone, iPad, and Apple Watch, localized in nine languages.",
       "trackViewUrl": "https://apps.apple.com/de/app/bead-devil-watch-game/id6812992983?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -97,15 +97,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/13/66/9813661e-ab8a-4725-83e8-97412f59c3fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/05/44/e70544fb-2b0b-36c9-9bec-f451cd845b83/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "12137472",
+  "fileSizeBytes": "12547072",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "1.2",
-  "currentVersionReleaseDate": "2026-10-11T20:29:56Z",
+  "version": "1.3",
+  "currentVersionReleaseDate": "2026-10-30T17:51:21Z",
   "releaseDate": "2026-09-22T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -283,8 +283,13 @@
       "version": "1.2",
       "releaseNotes": "Added support for iOS 16.0 and iPadOS 16.0 or later.\nAdded landscape support on iPhone for more flexible play.\nImproved wide-screen layouts for the bead board and game controls.\nRefined layouts to adapt to different window sizes.",
       "seenAt": "2026-10-11T20:29:56Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Enjoy one free game each day and bring cute bead monsters to life.\nUnlock all patterns and unlimited play with a one-time purchase. No recurring subscription.\nTap the new gold crown on the home screen to unlock full access or restore purchases.\nAdded purchase and daily trial screens for iPhone, iPad, and Apple Watch, localized in nine languages.",
+      "seenAt": "2026-10-30T17:51:21Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:48:16.604Z",
+  "updatedAt": "2026-10-31T12:38:26.429Z",
   "isOwnApp": false
 }

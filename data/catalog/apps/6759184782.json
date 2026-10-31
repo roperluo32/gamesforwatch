@@ -81,8 +81,8 @@
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
   "version": "1.1",
-  "currentVersionReleaseDate": "2026-03-07T17:41:17Z",
-  "releaseDate": "2026-02-27T08:00:00Z",
+  "currentVersionReleaseDate": "2026-04-15T07:00:00Z",
+  "releaseDate": "2026-04-15T07:00:00Z",
   "artistId": 1877260599,
   "artistName": "Christopher Wiggins",
   "artistViewUrl": "https://apps.apple.com/de/developer/christopher-wiggins/id1877260599?uo=4",
@@ -242,6 +242,6 @@
       "seenAt": "2026-03-07T17:41:17Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:59:58.132Z",
+  "updatedAt": "2026-10-31T12:29:46.285Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
       "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
+      "releaseNotes": "Rebuilt for the latest watchOS. Same heads-up Hold'em against the AI Villain, right on your wrist.",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Super Duper Limited",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
       "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
+      "releaseNotes": "Rebuilt for the latest watchOS. Same heads-up Hold'em against the AI Villain, right on your wrist.",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Super Duper Limited",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Mini Poker: Heads-Up Hold'em",
       "description": "Real heads-up Texas Hold’em on Apple Watch.\n\nMini Poker is a complete 1-on-1 game of No-Limit Hold’em. You’re the Hero, across the table from an AI Villain, with real betting rounds and every hand running to a proper showdown — all on your wrist, no phone needed.\n\nHOW IT PLAYS • Heads-up, you vs the AI — real check, call, raise, fold and all-in betting • Escalating blinds — the blinds double as the match goes on, with a ceiling that keeps late hands playable, so every match builds toward a finish • Choose your edge — start Easy, Medium or Hard by setting the opening stacks • Full showdown poker — complete hand evaluation, from high card to royal flush\n\nBUILT FOR THE WATCH • Dial in your bet with the Digital Crown and play a whole hand in a tap or two • No phone required — everything runs on the watch\n\nFOR THE IN-BETWEEN MOMENTS Waiting for coffee, standing in a queue, killing two minutes — Mini Poker deals you a real hand of cards without the ceremony of a full casino app.\n\nNO ACCOUNT, NO ADS, NO WI-FI NEEDED Everything runs on-device. Raise your wrist and deal.",
-      "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
+      "releaseNotes": "Rebuilt for the latest watchOS. Same heads-up Hold'em against the AI Villain, right on your wrist.",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-poker-heads-up-holdem/id6748490921?uo=4",
       "formattedPrice": "1,99 €",
       "sellerName": "Super Duper Limited",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/98/58/e798589f-821b-c42c-aaf2-c7b3f16ce060/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ee/d8/ffeed8ed-2cc1-4d7f-ef89-46887446b215/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 1.99,
   "fileSizeBytes": "3265536",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "17.6",
-  "version": "1.0.8",
-  "currentVersionReleaseDate": "2026-10-05T02:47:41Z",
+  "version": "1.0.9",
+  "currentVersionReleaseDate": "2026-10-30T20:38:35Z",
   "releaseDate": "2025-07-14T07:00:00Z",
   "artistId": 1825997289,
   "artistName": "Super Duper",
@@ -256,8 +256,13 @@
       "version": "1.0.8",
       "releaseNotes": "A sharper Villain.\n\n• The Villain now plays pocket pairs before the flop instead of folding the small ones — expect more contested pots • Under the hood: a rebuilt betting engine, now covered by automated tests, so future updates land without breaking the rules you play by",
       "seenAt": "2026-10-05T02:47:41Z"
+    },
+    {
+      "version": "1.0.9",
+      "releaseNotes": "Rebuilt for the latest watchOS. Same heads-up Hold'em against the AI Villain, right on your wrist.",
+      "seenAt": "2026-10-30T20:38:35Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:58:40.333Z",
+  "updatedAt": "2026-10-31T12:46:19.721Z",
   "isOwnApp": false
 }
