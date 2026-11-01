@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Fishing Kitty: Watch Game",
       "description": "Fishing Kitty is a cute cat fishing game for Apple Watch. Fish with your kitty at a tiny pond on your wrist, then flip through a pixel-art field guide on your iPhone.\n\n■ Fish on your Watch\n• Press and hold, then let go to cast\n• Wait while the float nibbles, tap when it sinks!\n• Turn the Digital Crown to keep the fish inside the green zone\n• New to fishing? A guided first catch shows you each step\n\n■ 175 fish and 40 duck dolls\n• Pond, reservoir, shallows and open sea: swipe to change spots\n• Morning, day and night each bring different scenery and fish\n• From everyday carp to shining mythic fish, the pricier the fish, the harder it fights\n• Collect 10 different duck dolls and… something special might happen?!\n\n■ Dress up and upgrade on iPhone\n• Your catches fill a page-turning pixel field guide\n• Pick rods, floats and 100 clothes, hats, shoes and glasses in the little fishing shop\n• Upgrade rods and floats at the workbench for a wider zone and a tougher line\n• The outfit you choose shows up on your Watch too\n\n■ Launch event\n• Right now everyone can fish for free without limits\n\n■ Privacy\n• No accounts, no ads\n• To improve the game we send gameplay records (fishing, collection, purchase status, errors) with a random identifier. We never send your name, email, Apple ID or receipts\n• iPhone screen recording only happens if you turn it on yourself, and you can turn it off anytime\n\nFishing happens on Apple Watch. The iPhone app alone can't be used to fish.",
-      "releaseNotes": "· Biggest-catch leaderboard (Game Center), with your rank stamped the moment you land a fish\n· Daily missions: check-in reward (iPhone app) and daily catch rewards\n· Fight haptics, unique bite patterns for each fish, and a line-tension glow\n· One-screen gear page, a new float picker, and upgradable basic float\n· Upgrade your rod to cast farther and find new fish out there\n· 3 new fish, a gentler start for beginners, and flashier rare catches",
+      "releaseNotes": "Fixed the Game Center leaderboard connection and improved score syncing reliability.",
       "trackViewUrl": "https://apps.apple.com/us/app/fishing-kitty-watch-game/id6816363261?uo=4",
       "formattedPrice": "Free",
       "sellerName": "ahn soobeen",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "낚시냥: 워치 낚시 게임",
       "description": "낚시냥은 Apple Watch에서 즐기는 귀여운 고양이 낚시 게임이에요. 손목 위 작은 물가에서 고양이와 함께 물고기를 낚고, 아이폰에서는 도트 그림 도감을 한 장씩 넘겨 보세요.\n\n■ 워치에서 낚시\n• 화면을 꾹 눌렀다 떼서 찌를 던져요\n• 찌가 톡톡 움직이면 기다리고, 쏙 잠기면 탭!\n• Digital Crown을 돌려 물고기를 초록 칸 안에 붙잡아요\n• 처음이라면 첫 낚시 따라하기가 하나씩 알려 줘요\n\n■ 175종의 물고기와 40종의 오리인형\n• 연못·저수지·얕은 바다·먼 바다, 화면을 옆으로 밀어 장소를 바꿔요\n• 아침·낮·밤마다 풍경도, 나오는 물고기도 달라요\n• 흔한 붕어부터 반짝이는 신화 물고기까지, 비싼 물고기일수록 사납게 버텨요\n• 서로 다른 오리인형을 10종 모을 때마다 특별한 일이 생길지도?!\n\n■ 아이폰에서 꾸미고 강화하기\n• 책장을 넘기는 도트 도감에 잡은 물고기가 차곡차곡 쌓여요\n• 작은 낚시 상점에서 낚싯대와 찌, 옷·모자·신발·안경 100가지를 골라요\n• 강화대에서 낚싯대와 찌를 강화해 더 넓은 칸, 더 질긴 줄로!\n• 고양이에게 입힌 옷은 워치에서도 그대로 보여요\n\n■ 출시 기념 무료 이벤트\n• 지금은 누구나 제한 없이 무료로 낚시할 수 있어요\n\n■ 개인정보\n• 계정과 광고가 없어요\n• 앱 개선을 위해 임의 식별자로 게임 이용 기록(낚시·수집·구매 여부·오류)을 보내요. 이름·이메일·Apple ID·결제 영수증은 보내지 않아요\n• 아이폰 화면 기록은 직접 동의한 경우에만 하며, 언제든 끌 수 있어요\n\n낚시는 Apple Watch에서 해요. 아이폰 앱만으로는 낚시할 수 없어요.",
-      "releaseNotes": "· 가장 큰 물고기 순위(Game Center) — 잡는 순간 순위 도장\n· 데일리 미션: 출석 보상(아이폰 앱)과 오늘 잡기 보상\n· 손맛 진동과 물고기마다 다른 입질 진동, 줄 긴장 색\n· 한 화면 장비 페이지, 찌 고르기, 기본 찌 강화\n· 낚싯대를 강화하면 더 멀리 던지고, 먼 곳에서 새 물고기가 나와요\n· 새 물고기 3종, 초보 적응 구간, 높은 등급 연출",
+      "releaseNotes": "Game Center 순위표 연결을 바로잡고 기록 전송의 안정성을 개선했어요.",
       "trackViewUrl": "https://apps.apple.com/cn/app/%EB%82%9A%EC%8B%9C%EB%83%A5-%EC%9B%8C%EC%B9%98-%EB%82%9A%EC%8B%9C-%EA%B2%8C%EC%9E%84/id6816363261?uo=4",
       "formattedPrice": "免费",
       "sellerName": "ahn soobeen",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "낚시냥: 워치 낚시 게임",
       "description": "낚시냥은 Apple Watch에서 즐기는 귀여운 고양이 낚시 게임이에요. 손목 위 작은 물가에서 고양이와 함께 물고기를 낚고, 아이폰에서는 도트 그림 도감을 한 장씩 넘겨 보세요.\n\n■ 워치에서 낚시\n• 화면을 꾹 눌렀다 떼서 찌를 던져요\n• 찌가 톡톡 움직이면 기다리고, 쏙 잠기면 탭!\n• Digital Crown을 돌려 물고기를 초록 칸 안에 붙잡아요\n• 처음이라면 첫 낚시 따라하기가 하나씩 알려 줘요\n\n■ 175종의 물고기와 40종의 오리인형\n• 연못·저수지·얕은 바다·먼 바다, 화면을 옆으로 밀어 장소를 바꿔요\n• 아침·낮·밤마다 풍경도, 나오는 물고기도 달라요\n• 흔한 붕어부터 반짝이는 신화 물고기까지, 비싼 물고기일수록 사납게 버텨요\n• 서로 다른 오리인형을 10종 모을 때마다 특별한 일이 생길지도?!\n\n■ 아이폰에서 꾸미고 강화하기\n• 책장을 넘기는 도트 도감에 잡은 물고기가 차곡차곡 쌓여요\n• 작은 낚시 상점에서 낚싯대와 찌, 옷·모자·신발·안경 100가지를 골라요\n• 강화대에서 낚싯대와 찌를 강화해 더 넓은 칸, 더 질긴 줄로!\n• 고양이에게 입힌 옷은 워치에서도 그대로 보여요\n\n■ 출시 기념 무료 이벤트\n• 지금은 누구나 제한 없이 무료로 낚시할 수 있어요\n\n■ 개인정보\n• 계정과 광고가 없어요\n• 앱 개선을 위해 임의 식별자로 게임 이용 기록(낚시·수집·구매 여부·오류)을 보내요. 이름·이메일·Apple ID·결제 영수증은 보내지 않아요\n• 아이폰 화면 기록은 직접 동의한 경우에만 하며, 언제든 끌 수 있어요\n\n낚시는 Apple Watch에서 해요. 아이폰 앱만으로는 낚시할 수 없어요.",
-      "releaseNotes": "· 가장 큰 물고기 순위(Game Center) — 잡는 순간 순위 도장\n· 데일리 미션: 출석 보상(아이폰 앱)과 오늘 잡기 보상\n· 손맛 진동과 물고기마다 다른 입질 진동, 줄 긴장 색\n· 한 화면 장비 페이지, 찌 고르기, 기본 찌 강화\n· 낚싯대를 강화하면 더 멀리 던지고, 먼 곳에서 새 물고기가 나와요\n· 새 물고기 3종, 초보 적응 구간, 높은 등급 연출",
+      "releaseNotes": "Game Center 순위표 연결을 바로잡고 기록 전송의 안정성을 개선했어요.",
       "trackViewUrl": "https://apps.apple.com/jp/app/%EB%82%9A%EC%8B%9C%EB%83%A5-%EC%9B%8C%EC%B9%98-%EB%82%9A%EC%8B%9C-%EA%B2%8C%EC%9E%84/id6816363261?uo=4",
       "formattedPrice": "無料",
       "sellerName": "ahn soobeen",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "낚시냥: 워치 낚시 게임",
       "description": "낚시냥은 Apple Watch에서 즐기는 귀여운 고양이 낚시 게임이에요. 손목 위 작은 물가에서 고양이와 함께 물고기를 낚고, 아이폰에서는 도트 그림 도감을 한 장씩 넘겨 보세요.\n\n■ 워치에서 낚시\n• 화면을 꾹 눌렀다 떼서 찌를 던져요\n• 찌가 톡톡 움직이면 기다리고, 쏙 잠기면 탭!\n• Digital Crown을 돌려 물고기를 초록 칸 안에 붙잡아요\n• 처음이라면 첫 낚시 따라하기가 하나씩 알려 줘요\n\n■ 175종의 물고기와 40종의 오리인형\n• 연못·저수지·얕은 바다·먼 바다, 화면을 옆으로 밀어 장소를 바꿔요\n• 아침·낮·밤마다 풍경도, 나오는 물고기도 달라요\n• 흔한 붕어부터 반짝이는 신화 물고기까지, 비싼 물고기일수록 사납게 버텨요\n• 서로 다른 오리인형을 10종 모을 때마다 특별한 일이 생길지도?!\n\n■ 아이폰에서 꾸미고 강화하기\n• 책장을 넘기는 도트 도감에 잡은 물고기가 차곡차곡 쌓여요\n• 작은 낚시 상점에서 낚싯대와 찌, 옷·모자·신발·안경 100가지를 골라요\n• 강화대에서 낚싯대와 찌를 강화해 더 넓은 칸, 더 질긴 줄로!\n• 고양이에게 입힌 옷은 워치에서도 그대로 보여요\n\n■ 출시 기념 무료 이벤트\n• 지금은 누구나 제한 없이 무료로 낚시할 수 있어요\n\n■ 개인정보\n• 계정과 광고가 없어요\n• 앱 개선을 위해 임의 식별자로 게임 이용 기록(낚시·수집·구매 여부·오류)을 보내요. 이름·이메일·Apple ID·결제 영수증은 보내지 않아요\n• 아이폰 화면 기록은 직접 동의한 경우에만 하며, 언제든 끌 수 있어요\n\n낚시는 Apple Watch에서 해요. 아이폰 앱만으로는 낚시할 수 없어요.",
-      "releaseNotes": "· 가장 큰 물고기 순위(Game Center) — 잡는 순간 순위 도장\n· 데일리 미션: 출석 보상(아이폰 앱)과 오늘 잡기 보상\n· 손맛 진동과 물고기마다 다른 입질 진동, 줄 긴장 색\n· 한 화면 장비 페이지, 찌 고르기, 기본 찌 강화\n· 낚싯대를 강화하면 더 멀리 던지고, 먼 곳에서 새 물고기가 나와요\n· 새 물고기 3종, 초보 적응 구간, 높은 등급 연출",
+      "releaseNotes": "Game Center 순위표 연결을 바로잡고 기록 전송의 안정성을 개선했어요.",
       "trackViewUrl": "https://apps.apple.com/de/app/%EB%82%9A%EC%8B%9C%EB%83%A5-%EC%9B%8C%EC%B9%98-%EB%82%9A%EC%8B%9C-%EA%B2%8C%EC%9E%84/id6816363261?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "ahn soobeen",
@@ -73,15 +73,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d1/79/d9d1790c-5bc8-2b98-691a-6baf6d1da1a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/80/ef/f380efeb-6c75-c473-6688-6a8c4ad6fde2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "20721664",
+  "fileSizeBytes": "20869120",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "1.2",
-  "currentVersionReleaseDate": "2026-10-28T17:06:21Z",
+  "version": "1.2.1",
+  "currentVersionReleaseDate": "2026-10-31T12:51:42Z",
   "releaseDate": "2026-10-07T07:00:00Z",
   "artistId": 6815486267,
   "artistName": "ahn soobeen",
@@ -329,8 +329,13 @@
       "version": "1.2",
       "releaseNotes": "· Biggest-catch leaderboard (Game Center), with your rank stamped the moment you land a fish\n· Daily missions: check-in reward (iPhone app) and daily catch rewards\n· Fight haptics, unique bite patterns for each fish, and a line-tension glow\n· One-screen gear page, a new float picker, and upgradable basic float\n· Upgrade your rod to cast farther and find new fish out there\n· 3 new fish, a gentler start for beginners, and flashier rare catches",
       "seenAt": "2026-10-28T17:06:21Z"
+    },
+    {
+      "version": "1.2.1",
+      "releaseNotes": "Fixed the Game Center leaderboard connection and improved score syncing reliability.",
+      "seenAt": "2026-10-31T12:51:42Z"
     }
   ],
-  "updatedAt": "2026-10-31T12:07:44.893Z",
+  "updatedAt": "2026-11-01T13:07:15.826Z",
   "isOwnApp": false
 }
