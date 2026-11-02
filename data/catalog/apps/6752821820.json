@@ -7,7 +7,7 @@
     "en": {
       "trackName": "GameHub - Watch Games",
       "description": "Your wrist arcade, offline and ready anytime. GameHub turns Apple Watch into a lightweight mini game collection for commutes, waiting rooms, short breaks, and those tiny pockets of free time. No ads, no internet required, just quick games on your wrist.\n\n- Currently supported games:\nPuzzle & Brain Training:\n- Pipe Dream, Memory Match, Sokoban, Minesweeper, Ball Sort, Connect Pairs, Match‑3 Puzzle, Sudoku, PentaFall, 2048, Number Puzzle\n\nArcade Action:\n- Asteroids, Lunar Lander, Brick Breaker, Plane Battle, Plane Adventure, Classic Pong, Snake Classic, Storm Chase\n\nReaction Challenges:\n- Knife Hit, Jump Jump, Tap Black, Color Reflex, Dodge Blocks, Whack‑a‑Mole\n\nCasual & Relaxing:\n- Gold Miner, Tomato Merge, Bubble Shooter, Stack Wood, Cut Fruit, Merit Wooden Fish\n\nSports & Racing:\n- Soccer Star, Racing Car\n\nBoard & Card:\n- Landlord Game, Tic Tac Toe, Gomoku\n\n- Designed for Apple Watch:\n100% Offline: Play anywhere, including flights and underground commutes.\nBattery Friendly: Dark, watch-first visuals help keep play sessions efficient.\nDigital Crown Support: Precise crown controls with satisfying haptic feedback.\n\n- Key Features:\niPhone and Watch sync: Keep progress and scores across devices.\nGame Center leaderboards: Daily, weekly, and all-time rankings for supported games.\nComfort options: Night mode, eye-friendly themes, color-blind mode, and sound/haptic toggles.\nContinuous updates: More games and refinements are on the way.\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "1. Added a new game: Bomb Catcher\n2. Fixed known issues and improved the gameplay experience.",
+      "releaseNotes": "1. Added a new game: Shaft Drop\n2. Fixed known bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/gamehub-watch-games/id6752821820?uo=4",
       "formattedPrice": "Free",
       "sellerName": "爱平 吴",
@@ -53,7 +53,7 @@
     "ja": {
       "trackName": "GameHub: Watch Games",
       "description": "手首の上のゲームセンター。Apple Watch 向けに作られた軽量ミニゲーム集です。通勤中、待ち時間、短い休憩に、スマホを取り出さずすぐ遊べます。広告なし、オフライン対応。\n\n- 現在対応しているゲーム：\nパズル・脳トレ:\n- パイプドリーム、メモリーマッチ、Sokoban、マインスイーパー、ボールソート、ペア接続、3マッチパズル、数独、PentaFall、2048、数字パズル\n\nアーケードアクション:\n- Asteroids、ムーンランダー、ブロック崩し、プレーンバトル、飛行機アドベンチャー、クラシックポン、スネーク、ストームチェイス\n\n反応チャレンジ:\n- ナイフヒット、ジャンプジャンプ、黒ブロックタップ、色反応、ブロック回避、モグラたたき\n\nカジュアル・リラックス:\n- ゴールドマイナー、トマト合体、バブルシューター、木材積み、フルーツカット、功徳木魚\n\nスポーツ・レース:\n- サッカースター、レーシングカー\n\nボード・カード:\n- ドゥーディーズー、三目並べ、五目並べ\n\n- Apple Watch に最適化：\nオフライン対応：飛行機や地下鉄でもプレイできます。\n省電力設計：黒基調の画面でバッテリーに配慮。\nDigital Crown 対応：クラウン操作と触覚フィードバックで快適に操作。\n\n- 主な機能：\niPhone / Watch 同期：進行状況やスコアを端末間で共有。\nGame Center ランキング：日次、週次、総合ランキングに対応。\n快適設定：夜間モード、目にやさしいテーマ、色覚サポート、音と触覚の切替。\n継続アップデート：新しいゲームと改善を順次追加。\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "1. 新ゲーム「爆弾キャッチ」を追加\n2. 既知の不具合を修正し、ゲーム体験を改善",
+      "releaseNotes": "1. 新ゲーム「真下へ進め」を追加\n2. 既知の不具合を修正",
       "trackViewUrl": "https://apps.apple.com/jp/app/gamehub-watch-games/id6752821820?uo=4",
       "formattedPrice": "無料",
       "sellerName": "爱平 吴",
@@ -76,7 +76,7 @@
     "de": {
       "trackName": "GameHub: Watch Games",
       "description": "Deine Arcade am Handgelenk. GameHub macht die Apple Watch zu einer leichten Sammlung kurzer Minispiele für Pendeln, Wartezeiten und kleine Pausen. Keine Werbung, kein Internet nötig, einfach direkt spielen.\n\n- Aktuell unterstützte Spiele:\nPuzzle & Denksport:\n- Rohrtraum, Merkspiel, Sokoban, Minesweeper, Ball Sortieren, Paare verbinden, Match-3-Rätsel, Sudoku, PentaFall, 2048, Zahlen-Puzzle\n\nArcade-Action:\n- Asteroids, Mondlandung, Ziegelbrecher, Flugzeugschlacht, Flugzeug-Abenteuer, Klassisches Pong, Snake Classic, Sturmjagd\n\nReaktionsspiele:\n- Messerwurf, Jump Jump, Schwarzes Antippen, Farbreflex, Blöcke ausweichen, Maulwurf-Treffen\n\nCasual & Entspannung:\n- Goldgräber, Tomaten-Fusion, Bubble Shooter, Holz stapeln, Fruechte Schneiden, Verdienst Holz-Fisch\n\nSport & Rennen:\n- Fußballstar, Autorennen\n\nBrett- & Kartenspiele:\n- Landlord Spiel, Tic Tac Toe, Gomoku\n\n- Für Apple Watch optimiert:\nOffline spielen: Ideal für Flugzeug, U-Bahn und unterwegs.\nAkkuschonend: Dunkles, watch-optimiertes Design für längere Spielrunden.\nDigital Crown: Präzise Steuerung mit haptischem Feedback.\n\n- Wichtige Funktionen:\niPhone- und Watch-Sync: Fortschritt und Punkte bleiben geräteübergreifend erhalten.\nGame Center Bestenlisten: Tages-, Wochen- und Gesamtwertungen.\nKomfortoptionen: Nachtmodus, augenfreundliche Themes, Farbenblind-Modus sowie Ton-/Haptik-Schalter.\nRegelmäßige Updates: Neue Spiele und Verbesserungen folgen.\n\n=== Subscription:\n- You will have unlimited access to all features of the App during the subscription period.\n- Subscription duration: See the membership subscription page within the App.\n- Price: Specific prices are displayed on the in-app payment page.\n- Payment: Charged through your iTunes account immediately upon purchase confirmation\n- Renewal: Apple iTunes account will automatically charge 24 hours prior to expiration. Successful payment will extend the subscription for 1 month/1 year\n- Cancel renewal: To cancel auto-renewal, manually disable this function in iTunes/Apple ID settings at least 24 hours before the current subscription period end\n\nPrivacy Policy: https://cz4bdie9p4.feishu.cn/wiki/BXv1wCYvQiIpYSkPFLec0hXsnZd\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "1. Neues Spiel: Bombenfänger\n2. Bekannte Fehler behoben und das Spielerlebnis verbessert.",
+      "releaseNotes": "1. Neues Spiel: Schachtsturz\n2. Bekannte Bugs behoben",
       "trackViewUrl": "https://apps.apple.com/de/app/gamehub-watch-games/id6752821820?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "爱平 吴",
@@ -97,15 +97,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/81/73/4f8173a2-9c6a-5d3e-ad75-7187321b8a62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/24/54/f52454de-3af2-948c-9a1d-6b2f2a666b26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 3.6,
   "userRatingCount": 5,
   "price": 0,
-  "fileSizeBytes": "203870208",
+  "fileSizeBytes": "205119488",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
-  "version": "1.6.3",
-  "currentVersionReleaseDate": "2026-10-20T19:08:02Z",
+  "version": "1.6.5",
+  "currentVersionReleaseDate": "2026-11-02T10:54:45Z",
   "releaseDate": "2025-10-14T07:00:00Z",
   "artistId": 1819395595,
   "artistName": "爱平 吴",
@@ -265,18 +265,18 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/e9/f0/91e9f020-055b-5e1d-fa7a-26e7197d18dc/p4-ja.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/e4/e1/d4e4e1a6-7302-6642-efd6-25288d81cb5b/p1-ja.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/42/e7/2842e74e-7935-fd11-5835-1b11b6004809/p5-zh-CN-4.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/db/88/04db88f4-772f-f92e-80a1-467bd7f6a155/p4-zh-CN.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/0c/52/1c0c52e6-f850-e31f-94ba-dcea02d6477a/p2-zh-CN.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/a7/23/2ba72361-39e6-917f-2079-124350e9eae8/p3-zh-CN.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/68/53/b668533f-d960-1c49-74c6-f4faa473c717/p6-zh-CN.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/b0/d2/29b0d2f4-ff35-4bba-fffa-bf72a6b0efbb/p1-zh-CN.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/9e/5f/b99e5f1e-9461-3179-8c50-e2f5277c362e/p5-zh-CN-9.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/8b/99/688b99f1-cff2-94b7-b956-e4f4c1c42f24/p6-en.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/6b/82/516b82e1-b030-f4a2-cbce-f917c9041eae/p2-en.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/45/ae/e745aeda-d1dd-212d-1cd5-a656fda45b1a/p3-en.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/bb/bb/4cbbbb8d-608a-b635-cb2a-b36516f5b155/p4-en.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/dc/03/67dc036a-66ff-205a-f3fb-c79f6dd4262a/p1-en.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/8a/ee/968aee30-7d7a-baa1-d3ea-8c204563094a/p5-zh-CN-1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/db/88/04db88f4-772f-f92e-80a1-467bd7f6a155/p4-zh-CN.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/0c/52/1c0c52e6-f850-e31f-94ba-dcea02d6477a/p2-zh-CN.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/a7/23/2ba72361-39e6-917f-2079-124350e9eae8/p3-zh-CN.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/68/53/b668533f-d960-1c49-74c6-f4faa473c717/p6-zh-CN.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/b0/d2/29b0d2f4-ff35-4bba-fffa-bf72a6b0efbb/p1-zh-CN.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/9e/5f/b99e5f1e-9461-3179-8c50-e2f5277c362e/p5-zh-CN-9.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/84/01/1a840103-798e-3ae0-ba8f-f5dc0a2a1f84/p6-en.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/37/19/6037191b-9dbb-6d9e-3951-42ea05fa0a28/p2-en.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/e1/39/4ce139bd-e720-ae12-ce18-4c22d8a1ad09/p3-en.png/1242x2688bb.png",
@@ -503,8 +503,13 @@
       "version": "1.6.3",
       "releaseNotes": "1. Added a new game: Bomb Catcher\n2. Fixed known issues and improved the gameplay experience.",
       "seenAt": "2026-10-20T19:08:02Z"
+    },
+    {
+      "version": "1.6.5",
+      "releaseNotes": "1. Added a new game: Shaft Drop\n2. Fixed known bugs",
+      "seenAt": "2026-11-02T10:54:45Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:08:04.553Z",
+  "updatedAt": "2026-11-02T15:26:56.685Z",
   "isOwnApp": true
 }

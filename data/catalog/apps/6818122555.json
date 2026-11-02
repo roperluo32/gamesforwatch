@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Tart: Watch Game",
       "description": "A little tap. A longer tart. How far can you go?\n\nWrist Tart is an offline timing game for Apple Watch, iPhone and iPad. Line up each moving piece, tap at the right moment and build a longer golden custard tart.\n\nTAP, ALIGN AND EXTEND\nA pastry piece slides from side to side. Tap to join it to the end of your tart. Better alignment preserves more width, while the pace gradually increases as you progress.\n\nMISS THE EDGE? CHOMP!\nA cheerful little face appears and bites off the overhanging piece. After a quick chew, it disappears, leaving you with a narrower tart for your next move.\n\nTHREE PERFECT JOINS\nLand three perfect joins in a row to restore a little width. Even a tiny overlap keeps your run going. Only a complete miss ends the round.\n\nTHREE FLAVOR-INSPIRED LOOKS\nEnjoy golden pastry layers, caramelized custard and a long paper tray. Choose from Custard, Matcha and Berry color themes, all available from the start.\n\nA QUICK BREAK ON YOUR WRIST\nPlay on Apple Watch or enjoy a larger view on iPhone and iPad. Pause and resume whenever you need to. No internet connection or account is required.\n\nBEAT YOUR PERSONAL BEST\nTrack your longest tart and best perfect-join streak. Records and settings are saved locally, with separate records on each device.\n\nReady for one more piece?",
-      "releaseNotes": "Explore a new pixel-map home featuring three mini games: Grow Tart, Slice Tart, and Tart Bridge.\nHold to extend your tart bridge, then release to let the character cross. Test your timing and distance judgment!\nImproved home screen button responsiveness and layout on Apple Watch.\nRefined slicing progress and tap instructions. Upcoming mini games are marked as locked.",
+      "releaseNotes": "A fresh puzzle joins your tart collection!\n\n• New: Tart Slide! Swipe tarts toward matching colored exits, clear blocked paths and empty the tray to complete each level.\n• Enjoy playful eating animations as each tart slides out and gets gobbled up.\n• Improved Apple Watch layout with a compact level label and a pause button on the right. After your first successful move, the hint disappears to make room for a larger board.\n• Meet the updated Tart Bridge chef: a smaller character carrying a pastry spatula that moves with each step.\n\nGrow, slice, bridge and slide your way through four offline mini-games!",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-tart-watch-game/id6818122555?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -51,15 +51,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0b/7b/be0b7b3e-01ea-689f-0494-2478870d9ed0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/11/02/30110289-0d14-2ab3-934b-ad4af044bbaa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "15479808",
+  "fileSizeBytes": "15905792",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.3",
-  "currentVersionReleaseDate": "2026-10-26T21:54:38Z",
+  "version": "1.4",
+  "currentVersionReleaseDate": "2026-11-02T14:38:14Z",
   "releaseDate": "2026-10-03T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -308,8 +308,13 @@
       "version": "1.3",
       "releaseNotes": "Explore a new pixel-map home featuring three mini games: Grow Tart, Slice Tart, and Tart Bridge.\nHold to extend your tart bridge, then release to let the character cross. Test your timing and distance judgment!\nImproved home screen button responsiveness and layout on Apple Watch.\nRefined slicing progress and tap instructions. Upcoming mini games are marked as locked.",
       "seenAt": "2026-10-26T21:54:38Z"
+    },
+    {
+      "version": "1.4",
+      "releaseNotes": "A fresh puzzle joins your tart collection!\n\n• New: Tart Slide! Swipe tarts toward matching colored exits, clear blocked paths and empty the tray to complete each level.\n• Enjoy playful eating animations as each tart slides out and gets gobbled up.\n• Improved Apple Watch layout with a compact level label and a pause button on the right. After your first successful move, the hint disappears to make room for a larger board.\n• Meet the updated Tart Bridge chef: a smaller character carrying a pastry spatula that moves with each step.\n\nGrow, slice, bridge and slide your way through four offline mini-games!",
+      "seenAt": "2026-11-02T14:38:14Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:10:56.804Z",
+  "updatedAt": "2026-11-02T15:29:45.191Z",
   "isOwnApp": false
 }

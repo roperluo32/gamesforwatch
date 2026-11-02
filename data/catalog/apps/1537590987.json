@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "Bug fixes and technical upgrade.",
+      "releaseNotes": "New iOS controller and bugfixes",
       "trackViewUrl": "https://apps.apple.com/us/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Talking Chicken Friend OU",
@@ -23,7 +23,7 @@
     "ja": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "Bug fixes and technical upgrade.",
+      "releaseNotes": "New iOS controller and bugfixes",
       "trackViewUrl": "https://apps.apple.com/jp/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Talking Chicken Friend OU",
@@ -39,7 +39,7 @@
     "de": {
       "trackName": "Arctic Mission",
       "description": "Arctic Mission is a mini adventure game on your watch and phone. Navigate your ship through the icy arctic waters and save Rizo, the penguin.\n\nArctic Mission features a little story with 2 missions, 5 different ships to play through 16+10 chapters with various weather conditions. It is the best way to kill a few minutes on your wrist since our first Apple Watch project: Radar Game. But! Now you can also play it on your phone",
-      "releaseNotes": "Bug fixes and technical upgrade.",
+      "releaseNotes": "New iOS controller and bugfixes",
       "trackViewUrl": "https://apps.apple.com/de/app/arctic-mission/id1537590987?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Talking Chicken Friend OU",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/4f/63/284f63a4-bb84-b644-b92e-a006eea5ce45/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/ec/cd/6deccd0e-42e4-6ad1-19f7-8af21bd25203/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.66667,
   "userRatingCount": 6,
   "price": 0,
-  "fileSizeBytes": "31367168",
+  "fileSizeBytes": "31883264",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.2.1",
-  "currentVersionReleaseDate": "2026-11-01T09:10:13Z",
+  "version": "2.3.0",
+  "currentVersionReleaseDate": "2026-11-02T06:03:01Z",
   "releaseDate": "2021-03-28T07:00:00Z",
   "artistId": 1500965951,
   "artistName": "Talking Chicken Friend",
@@ -203,6 +203,14 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/ff/ff/54ffff98-eeca-7c68-0e0d-4a42cc771b65/01_handheld_steering.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/17/89/631789c4-3899-9a4e-6676-4e20f806386e/02_sailboat_steering.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/69/ac/7969ac4d-cc8c-81fa-d711-29900e283d9a/03_cargo_steering.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/dd/91/42dd91e7-e267-47c4-7887-e57c636227a4/04_select_ship.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/ff/ff/54ffff98-eeca-7c68-0e0d-4a42cc771b65/01_handheld_steering.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/17/89/631789c4-3899-9a4e-6676-4e20f806386e/02_sailboat_steering.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/69/ac/7969ac4d-cc8c-81fa-d711-29900e283d9a/03_cargo_steering.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/dd/91/42dd91e7-e267-47c4-7887-e57c636227a4/04_select_ship.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/9b/a2/cf9ba22e-ed4f-0182-1639-a9912230b8e1/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-11-11_at_22.03.31.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e8/95/8ae895ea-3e3a-2582-de64-733d1698bf07/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-11-11_at_22.02.05.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/1b/75/d71b7567-4955-7c18-fc02-8f6a711ce9f9/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-11-11_at_22.04.29.png/1320x2868bb.png",
@@ -213,6 +221,16 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/88/b4/2f88b4be-4176-1cd1-8a3a-0652b7cddc68/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-11-11_at_22.03.55.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/b0/0f/83b00f68-2d74-0fef-3a21-74bcd556afb8/25cf6ec6-633f-4b9c-a932-6652d2589571_arctic_waters.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/4a/68/df4a6895-eb79-6c5b-19bd-264f7502b0d4/8741f622-81ec-4098-8fa4-55c38f8c22ab_screen_ships.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/34/90/e73490af-ba76-ed09-adb8-eb0213b81a34/c38fe249-225d-4c7a-bc44-0f2fe0710194_rizo_swim.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/da/1f/5eda1f4e-0432-3141-5085-a6a9f7dded87/b6ae9fe1-5ae9-45b5-9a4e-acd8a825bc83_weather.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/08/4f/9d084f3d-40d5-07c7-3e8a-d4a2186d98eb/5a1cbd66-d160-4a28-8508-a0e13ca878b8_screen_ingame_2.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/5e/c0/275ec032-5a76-da3b-1228-2e002317782c/f342c282-4777-4d6d-ba5a-88c37693c3dd_screen_speeder.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/6e/d0/f46ed0e5-65f3-104d-fe1f-c87e94478331/80a66a98-ba8b-409c-868c-b87ce16f690e_rizo_homecoming.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/46/8c/21468c3d-052f-c30a-abbd-e8a46aeef634/d1c37d3e-672d-41ad-b572-a920e74d8061_mission_screen.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/80/71/c580714a-fc0e-25f6-2e69-a5588de561bb/83eec9fa-f5fb-4822-b3c9-24075018e2fc_screen_chapters.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/60/e8/a260e86b-3966-aa73-163e-7362c833cdc2/be31f201-9fff-4f8a-af7d-1d8f38873817_screen_ships_ingame.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/a0/b4/9ea0b444-3473-5c19-f4d5-8fcfb4e657bf/25cf6ec6-633f-4b9c-a932-6652d2589571_arctic_waters.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/e0/f3/3fe0f3bf-6b11-c2c7-ce44-b6e0d6cc57ca/8741f622-81ec-4098-8fa4-55c38f8c22ab_screen_ships.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/e5/e7/3de5e7c8-015c-31a3-5c38-51eae75ce77c/c38fe249-225d-4c7a-bc44-0f2fe0710194_rizo_swim.png/368x448bb.png",
@@ -269,8 +287,13 @@
       "version": "2.2.1",
       "releaseNotes": "Bug fixes and technical upgrade.",
       "seenAt": "2026-11-01T09:10:13Z"
+    },
+    {
+      "version": "2.3.0",
+      "releaseNotes": "New iOS controller and bugfixes",
+      "seenAt": "2026-11-02T06:03:01Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:25:51.774Z",
+  "updatedAt": "2026-11-02T15:45:25.715Z",
   "isOwnApp": false
 }

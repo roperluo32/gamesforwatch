@@ -78,6 +78,31 @@
         "TR"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "玩盒 - 手表游戏",
+      "description": "玩盒是一款适用于 iPhone 和 Apple Watch 的休闲小游戏合集，随时打开，轻松玩一局。游戏库持续更新。\n\n当前游戏：\n\n• 向上跳：踏上左右交替的台阶，向云端攀升。\n• 向右跳：看准距离起跳，落在中央拿高分。\n• 向下跳：旋转高塔穿过缺口，避开红色障碍。\n• 跳一跳：经典模式比高分，街机模式限时 60 秒，每日十跳比速度。\n• 堆叠跳：踩准方块靠近的时机，把塔越搭越高。\n• 球面贪吃蛇：绕着星球吃橘子，越吃越长，别撞到自己。\n• 滚动小球：左右拖动躲开方块，从黄昏滚到夜晚，沿路收集金币。\n• 方块高塔：方块来回滑动，对齐时轻点放下，越叠越高。\n• 小鸡过马路：一格一格躲开汽车和火车，踩着木头过河，看能走多远。\n\n游戏特色：\n\n• iPhone 免费玩，无广告。\n• 画面简洁，操作直观，轻松上手。\n• 适配 Apple Watch 小屏和触控操作。\n• 适配 iPhone Duo：展开后游戏铺满大屏，看到更多画面。\n• 没有网络也能玩游戏。\n• 支持 Game Center 全球排行榜。\n\n自动续费订阅说明：\n\n• 方案：全游戏月卡（1 个月）和年卡（1 年），订阅有效期内可在手表不限局游玩合集游戏。\n• 价格与付款：以 App 内购买页显示的当地价格为准；确认购买后由 Apple 账户扣款。\n• 续订：除非取消，订阅到期时自动续订；Apple 可在到期前 24 小时内尝试扣款。\n• 取消：在 iPhone「设置」→「Apple 账户」→「订阅」中管理；建议至少在到期前 24 小时取消。取消后可使用至当前付费期结束。\n• 服务条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n• 隐私政策：https://sites.google.com/view/wanbox",
+      "releaseNotes": "新增：方块高塔、小鸡过马路，两款新游戏。\n优化：iPhone 点游戏直接开玩，长按可收藏；多款游戏画面焕新，并修复从游戏返回首页偶尔闪退的问题。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8E%A9%E7%9B%92-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6823228978?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "倩倩 王",
+      "genres": [
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH",
+        "TR"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/eb/33/7deb3319-d8ea-7ec2-8c55-da3a898ffb14/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
@@ -284,6 +309,15 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/39/e6/d439e6f7-0e3f-155a-3f6c-7e6dd526ed0f/05-_U5806_U53e0_U8df3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/75/a9/7d75a921-2d39-9d8d-8631-0c0953b30933/01-_U5411_U4e0a_U8df3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/50/67/ec506779-e6fd-c595-7511-881c4ea5d025/02-_U5411_U53f3_U8df3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/23/74/a02374a9-3c51-3f11-8fd7-a5e1ebf3605c/07-_U6eda_U52a8_U5c0f_U7403.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/2b/8e/e22b8e8d-61b0-384b-0721-7e8c09d1a975/06-_U7403_U9762_U8d2a_U5403_U86c7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/20/d4/5120d4c1-9e46-cbac-ad6a-c9c79f26a40e/03-_U5411_U4e0b_U8df3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/56/6f/1a566f01-edc7-e3db-b70d-198c434b551d/08-_U5c0f_U9e21_U8fc7_U9a6c_U8def.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/fd/39/00fd39c2-bfbe-70fa-5809-bdd9d26979f7/09-_U65b9_U5757_U9ad8_U5854.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/06/3c/5e063c02-c8a9-fbcc-91fd-b4b7636e1751/04-_U8df3_U4e00_U8df3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/b9/30/5db930b5-44ba-c545-dee9-ada981a97d27/05-_U5806_U53e0_U8df3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/b1/8b/1fb18bdd-0be1-66fc-2a48-214428f6660f/01-_U5411_U4e0a_U8df3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/04/da/f404da94-8189-1d5c-6e1f-7380e62a42b8/02-_U5411_U53f3_U8df3.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/4f/09/484f0955-6dd2-8a83-1922-419331ede987/07-_U6eda_U52a8_U5c0f_U7403.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/d0/24/e5d024b7-8dee-e81e-e900-503ecba27f90/06-_U7403_U9762_U8d2a_U5403_U86c7.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/85/99/6e85999a-5fd7-8821-9401-894c34796fc8/03-_U5411_U4e0b_U8df3.png/320x480bb.jpg",
@@ -378,6 +412,6 @@
       "seenAt": "2026-11-01T10:09:23Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:05:51.239Z",
+  "updatedAt": "2026-11-02T15:25:00.553Z",
   "isOwnApp": false
 }

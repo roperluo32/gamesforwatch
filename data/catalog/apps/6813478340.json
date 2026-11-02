@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Sudoku: Train Your Brain PRO",
       "description": "Make room for focus with Sudoku - a quiet puzzle break, wherever you are.\n\nPlay every puzzle offline on iPhone and iPad. No ads, no account required, and no connection needed to keep playing.\n\nFIND YOUR CHALLENGE\nExplore 100 difficulty levels, all available from the start. Enjoy an easy break or take on a more demanding board.\n\nPLAY AT YOUR PACE\nUse pencil notes, undo moves, erase entries and ask for hints. There’s no countdown or mistake limit. Your progress saves automatically, so you can pause and return whenever you like.\n\nMAKE IT YOURS\nChoose from six colour themes with light and dark appearances. Adjust mistake highlighting, matching-number highlights and haptic feedback.\n\nSEE YOUR PROGRESS\nTrack completed puzzles, streaks, play time and performance by difficulty. Statistics distinguish assisted completions from puzzles solved without hints.\n\nKEEP YOUR PUZZLE CLOSE\nSee your session’s status with Live Activities. Use Siri and Shortcuts to resume, pause, start a puzzle or check your progress. Set an optional daily reminder when you’d like a little encouragement.\n\nCONNECT WHEN YOU CHOOSE\nSign in to Game Center to share competitive progress and earn achievements when online. Your puzzles and local statistics remain available offline.\nA little focus. A satisfying challenge. One square at a time.",
-      "releaseNotes": "",
+      "releaseNotes": "* Added support of Apple TV\n* Minor bugs fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/sudoku-train-your-brain-pro/id6813478340?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Azizbek Asadov",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "Sudoku: Train Your Brain PRO",
       "description": "Make room for focus with Sudoku - a quiet puzzle break, wherever you are.\n\nPlay every puzzle offline on iPhone and iPad. No ads, no account required, and no connection needed to keep playing.\n\nFIND YOUR CHALLENGE\nExplore 100 difficulty levels, all available from the start. Enjoy an easy break or take on a more demanding board.\n\nPLAY AT YOUR PACE\nUse pencil notes, undo moves, erase entries and ask for hints. There’s no countdown or mistake limit. Your progress saves automatically, so you can pause and return whenever you like.\n\nMAKE IT YOURS\nChoose from six colour themes with light and dark appearances. Adjust mistake highlighting, matching-number highlights and haptic feedback.\n\nSEE YOUR PROGRESS\nTrack completed puzzles, streaks, play time and performance by difficulty. Statistics distinguish assisted completions from puzzles solved without hints.\n\nKEEP YOUR PUZZLE CLOSE\nSee your session’s status with Live Activities. Use Siri and Shortcuts to resume, pause, start a puzzle or check your progress. Set an optional daily reminder when you’d like a little encouragement.\n\nCONNECT WHEN YOU CHOOSE\nSign in to Game Center to share competitive progress and earn achievements when online. Your puzzles and local statistics remain available offline.\nA little focus. A satisfying challenge. One square at a time.",
-      "releaseNotes": "",
+      "releaseNotes": "* Added support of Apple TV\n* Minor bugs fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/cn/app/sudoku-train-your-brain-pro/id6813478340?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Azizbek Asadov",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "Sudoku: Train Your Brain PRO",
       "description": "Make room for focus with Sudoku - a quiet puzzle break, wherever you are.\n\nPlay every puzzle offline on iPhone and iPad. No ads, no account required, and no connection needed to keep playing.\n\nFIND YOUR CHALLENGE\nExplore 100 difficulty levels, all available from the start. Enjoy an easy break or take on a more demanding board.\n\nPLAY AT YOUR PACE\nUse pencil notes, undo moves, erase entries and ask for hints. There’s no countdown or mistake limit. Your progress saves automatically, so you can pause and return whenever you like.\n\nMAKE IT YOURS\nChoose from six colour themes with light and dark appearances. Adjust mistake highlighting, matching-number highlights and haptic feedback.\n\nSEE YOUR PROGRESS\nTrack completed puzzles, streaks, play time and performance by difficulty. Statistics distinguish assisted completions from puzzles solved without hints.\n\nKEEP YOUR PUZZLE CLOSE\nSee your session’s status with Live Activities. Use Siri and Shortcuts to resume, pause, start a puzzle or check your progress. Set an optional daily reminder when you’d like a little encouragement.\n\nCONNECT WHEN YOU CHOOSE\nSign in to Game Center to share competitive progress and earn achievements when online. Your puzzles and local statistics remain available offline.\nA little focus. A satisfying challenge. One square at a time.",
-      "releaseNotes": "",
+      "releaseNotes": "* Added support of Apple TV\n* Minor bugs fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/jp/app/sudoku-train-your-brain-pro/id6813478340?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Azizbek Asadov",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Sudoku: Train Your Brain PRO",
       "description": "Make room for focus with Sudoku - a quiet puzzle break, wherever you are.\n\nPlay every puzzle offline on iPhone and iPad. No ads, no account required, and no connection needed to keep playing.\n\nFIND YOUR CHALLENGE\nExplore 100 difficulty levels, all available from the start. Enjoy an easy break or take on a more demanding board.\n\nPLAY AT YOUR PACE\nUse pencil notes, undo moves, erase entries and ask for hints. There’s no countdown or mistake limit. Your progress saves automatically, so you can pause and return whenever you like.\n\nMAKE IT YOURS\nChoose from six colour themes with light and dark appearances. Adjust mistake highlighting, matching-number highlights and haptic feedback.\n\nSEE YOUR PROGRESS\nTrack completed puzzles, streaks, play time and performance by difficulty. Statistics distinguish assisted completions from puzzles solved without hints.\n\nKEEP YOUR PUZZLE CLOSE\nSee your session’s status with Live Activities. Use Siri and Shortcuts to resume, pause, start a puzzle or check your progress. Set an optional daily reminder when you’d like a little encouragement.\n\nCONNECT WHEN YOU CHOOSE\nSign in to Game Center to share competitive progress and earn achievements when online. Your puzzles and local statistics remain available offline.\nA little focus. A satisfying challenge. One square at a time.",
-      "releaseNotes": "",
+      "releaseNotes": "* Added support of Apple TV\n* Minor bugs fixes and improvements.",
       "trackViewUrl": "https://apps.apple.com/de/app/sudoku-train-your-brain-pro/id6813478340?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Azizbek Asadov",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/c5/b2/c4c5b246-6804-5ced-b438-7a9e6a10f883/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/ee/1a/daee1a3f-b0a1-e9d7-23fb-62387433173c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "4140032",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.0",
-  "version": "1.0.0",
-  "currentVersionReleaseDate": "2026-09-23T22:14:17Z",
+  "version": "1.1.0",
+  "currentVersionReleaseDate": "2026-11-01T23:29:52Z",
   "releaseDate": "2026-09-20T07:00:00Z",
   "artistId": 1447770540,
   "artistName": "Azizbek Asadov",
@@ -260,8 +260,13 @@
       "version": "1.0.0",
       "releaseNotes": "",
       "seenAt": "2026-09-23T22:14:17Z"
+    },
+    {
+      "version": "1.1.0",
+      "releaseNotes": "* Added support of Apple TV\n* Minor bugs fixes and improvements.",
+      "seenAt": "2026-11-01T23:29:52Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:39:43.473Z",
+  "updatedAt": "2026-11-02T15:58:26.377Z",
   "isOwnApp": false
 }
