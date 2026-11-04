@@ -146,7 +146,7 @@
   "minimumOsVersion": "16.6",
   "version": "1.0",
   "currentVersionReleaseDate": "2026-10-09T09:28:16Z",
-  "releaseDate": "2026-10-09T09:28:16Z",
+  "releaseDate": "2026-10-09T07:00:00Z",
   "artistId": 1690415447,
   "artistName": "婕萍 胡",
   "artistViewUrl": "https://apps.apple.com/de/developer/%E5%A9%95%E8%90%8D-%E8%83%A1/id1690415447?uo=4",
@@ -351,6 +351,6 @@
       "seenAt": "2026-10-09T09:28:16Z"
     }
   ],
-  "updatedAt": "2026-11-03T14:02:48.670Z",
+  "updatedAt": "2026-11-04T14:12:42.467Z",
   "isOwnApp": false
 }

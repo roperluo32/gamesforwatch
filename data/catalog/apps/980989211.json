@@ -140,15 +140,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/e2/3f/31e23f9d-abc0-9cff-8695-a7681642baf2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/37/72/61377237-c559-6401-8e7a-bedd868886ec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.91667,
   "userRatingCount": 12,
   "price": 0,
-  "fileSizeBytes": "69634048",
+  "fileSizeBytes": "53254144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "13.1.2",
-  "currentVersionReleaseDate": "2026-10-29T21:29:25Z",
+  "version": "13.1.3",
+  "currentVersionReleaseDate": "2026-11-03T16:53:50Z",
   "releaseDate": "2015-04-11T21:31:04Z",
   "artistId": 563997356,
   "artistName": "Ignacio Soto Bustos",
@@ -740,8 +740,13 @@
       "version": "13.1.2",
       "releaseNotes": "Bug fixes and performance improvements.",
       "seenAt": "2026-10-29T21:29:25Z"
+    },
+    {
+      "version": "13.1.3",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "seenAt": "2026-11-03T16:53:50Z"
     }
   ],
-  "updatedAt": "2026-11-03T14:35:16.461Z",
+  "updatedAt": "2026-11-04T14:49:47.661Z",
   "isOwnApp": false
 }

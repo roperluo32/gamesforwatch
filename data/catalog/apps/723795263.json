@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/92/6d/3e926dfe-d82d-9355-c4b8-00ed1bc08614/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/34/2b/9d342b7f-6c63-0554-5ca8-261eefd2bba5/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.49754,
   "userRatingCount": 203,
   "price": 7.99,
-  "fileSizeBytes": "346448896",
+  "fileSizeBytes": "346545152",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.394.0",
-  "currentVersionReleaseDate": "2026-11-02T23:48:17Z",
+  "version": "3.394.1",
+  "currentVersionReleaseDate": "2026-11-03T23:37:26Z",
   "releaseDate": "2013-11-06T12:52:48Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -541,8 +541,13 @@
       "version": "3.394.0",
       "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
       "seenAt": "2026-11-02T23:48:17Z"
+    },
+    {
+      "version": "3.394.1",
+      "releaseNotes": "We listened to you and made important improvements. We fixed some bugs in the app. Thanks to everyone for the suggestions and feedback!",
+      "seenAt": "2026-11-03T23:37:26Z"
     }
   ],
-  "updatedAt": "2026-11-03T14:06:11.263Z",
+  "updatedAt": "2026-11-04T14:15:45.066Z",
   "isOwnApp": false
 }
