@@ -6,10 +6,10 @@
   "locales": {
     "en": {
       "trackName": "NeonFlip: Board Game",
-      "description": "Play a game of Reversi... in futuristic neon city!\nWorks on Apple Watch, iPhone, iPad and Mac.\n\nOne or two players mode, 3 difficulty levels, multiple languages!",
-      "releaseNotes": "Improved iPhone Duo half open mode design.",
+      "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on Apple Watch, iPhone, iPad, and Mac.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
+      "releaseNotes": "Updated to space battle theme.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "Free",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -24,14 +24,14 @@
         "ZH",
         "ZH"
       ],
-      "subtitle": "Play Reversi on phone or watch"
+      "subtitle": "Galactic Reversi Battles"
     },
     "ja": {
       "trackName": "NeonFlip: Board Game",
-      "description": "近未来のネオン輝く都市で、オセロ（リバーシ）をプレイしよう！\nApple Watch、iPhone、iPad、Macに対応しています。\n\n1人または2人プレイ、3段階の難易度、多言語対応！",
-      "releaseNotes": "iPhone Duoのハーフオープンモードのデザインが改良されました。",
+      "description": "近未来の宇宙を舞台にしたリバーシゲームで、銀河の覇権をかけた戦いに挑もう！\nApple Watch、iPhone、iPad、Macで艦隊を指揮し、銀河を征服せよ。\n\n友達と対戦したり、3段階の難易度から選べるAIと戦ったりすることができます。多言語対応！",
+      "releaseNotes": "宇宙戦をテーマにしたものに更新しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -50,10 +50,10 @@
     },
     "de": {
       "trackName": "NeonFlip: Board Game",
-      "description": "Spiele eine Runde Reversi ... in einer futuristischen Neon-Stadt!\nLäuft auf Apple Watch, iPhone, iPad und Mac.\n\nModus für einen oder zwei Spieler, 3 Schwierigkeitsstufen, mehrere Sprachen!",
-      "releaseNotes": "Verbessertes Design des halb geöffneten iPhone Duo-Modus.",
+      "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf Apple Watch, iPhone, iPad und Mac.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
+      "releaseNotes": "Auf ein Weltraumschlacht-Thema aktualisiert.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -71,10 +71,10 @@
       "subtitle": ""
     },
     "zh": {
-      "trackName": "NeonFlip: 棋类游戏",
-      "description": "在充满未来感的霓虹都市中，来一场黑白棋（Reversi）对决吧！\n支持 Apple Watch、iPhone、iPad 和 Mac。\n\n支持单人或双人模式，设有 3 种难度等级，并支持多种语言！",
-      "releaseNotes": "改进了 iPhone Duo 的半开机模式设计。",
-      "trackViewUrl": "https://apps.apple.com/cn/app/neonflip-%E6%A3%8B%E7%B1%BB%E6%B8%B8%E6%88%8F/id6761420728?uo=4",
+      "trackName": "星际黑白棋",
+      "description": "星際黑白棋是一款以太空为主题的黑白棋（Reversi）游戏，争夺银河系的统治权！\n在 Apple Watch、iPhone、iPad 和 Mac 上指挥你的舰队，征服整个银河系。\n\n既可与好友对弈，也能挑战设有 3 种难度等级的人工智能（AI）。支持多种语言！",
+      "releaseNotes": "已更新为太空战主题。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%9F%E9%99%85%E9%BB%91%E7%99%BD%E6%A3%8B/id6761420728?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Thye Chean Lim",
       "genres": [
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/15/aa/3a15aa4b-dea6-1fdc-96b5-33d9aca1fea4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1a/e7/8f1ae7c1-4d05-52b1-3859-1c19446edbb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
-  "fileSizeBytes": "11142144",
+  "price": 0,
+  "fileSizeBytes": "16319488",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "2.4",
-  "currentVersionReleaseDate": "2026-10-15T22:10:49Z",
+  "version": "3.0",
+  "currentVersionReleaseDate": "2026-11-05T11:19:21Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -243,6 +243,18 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d4/df/32d4df70-809b-b12d-41bc-797fd3c2c3f0/Screenshot_iPhone_Duo_05-11-2026_at_5.52.42_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/7d/44/a57d449b-1132-0539-1222-c630cdd85cef/Screenshot_iPhone_Duo_05-11-2026_at_5.52.57_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/1e/6c/101e6cf3-390b-ea76-bd09-cd98fc2a9003/Screenshot_iPhone_Duo_05-11-2026_at_5.53.29_U202fPM.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/5a/44/7e5a44d3-a6f0-aa65-5940-bd7552f7211f/ipad.jpg/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/fe/7b/25fe7b14-5648-c3e5-1963-f2ebd4276afe/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/df/8c/22df8cbf-ca49-9ff9-e68a-0314842cc004/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/7b/17/9d7b1705-f855-296b-a338-d607fcf4ba1f/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ab/57/f3ab5739-2952-7a0d-8b4d-060f729e0961/Screenshot_2026-11-05_at_5.36.11_U202fPM.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/df/24/0ddf24a0-1271-0f02-68a7-5878bf3219b5/Screenshot_2026-11-05_at_5.36.42_U202fPM.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ab/57/f3ab5739-2952-7a0d-8b4d-060f729e0961/Screenshot_2026-11-05_at_5.36.11_U202fPM.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/df/24/0ddf24a0-1271-0f02-68a7-5878bf3219b5/Screenshot_2026-11-05_at_5.36.42_U202fPM.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/5a/44/7e5a44d3-a6f0-aa65-5940-bd7552f7211f/ipad.jpg/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/1f/d4/7c1fd402-b927-0b7c-4fc2-2ed83241c74e/Screenshot_iPhone_Duo_07-10-2026_at_8.48.23_U202fAM.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/0d/19/cc0d198b-0d51-0889-8367-1259c684a411/Screenshot_iPhone_Duo_07-10-2026_at_8.48.59_U202fAM.png/2034x1398bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/8b/17/e98b1704-e76c-4e44-5138-4eb0c71ceadd/iPad.png/2752x2064bb.png",
@@ -267,6 +279,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/0f/c4/e60fc4c9-5faf-730f-a83b-a0833790d403/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/4d/56/714d56fa-71d3-f232-08de-32cb30098569/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/72/1c/c5721ca7-1923-9eb0-a50e-0bcf7b9b2dce/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/fd/73/98fd7310-ea2a-c9b5-4c05-0402b46ed1e2/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/f1/67/dcf167c0-72ee-0c9b-356e-c76130f2c5d2/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
@@ -322,8 +336,18 @@
       "version": "2.4",
       "releaseNotes": "Improved iPhone Duo half open mode design.",
       "seenAt": "2026-10-15T22:10:49Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Optimized for iPhone Duo.",
+      "seenAt": "2026-11-04T21:30:16Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "Updated to space battle theme.",
+      "seenAt": "2026-11-05T11:19:21Z"
     }
   ],
-  "updatedAt": "2026-11-04T14:51:31.425Z",
+  "updatedAt": "2026-11-05T15:12:23.193Z",
   "isOwnApp": false
 }

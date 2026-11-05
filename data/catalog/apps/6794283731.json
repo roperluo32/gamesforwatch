@@ -7,14 +7,13 @@
     "en": {
       "trackName": "TT Mahjong Watch - Multi Modes",
       "description": "Play seven Mahjong modes plus free tile-matching on iPhone and Apple Watch.\n\n• Popular Mahjong: free classic four-player mode with flowers\n• Battle to the End: Sichuan rules with Swap Three and a void suit\n• Blood River: keep winning until the wall is exhausted\n• Riichi Mahjong: riichi, dora, yaku, and a complete dead wall\n• Guangdong Mahjong: push-down hu, big/small hands, and horse tiles\n• Guiyang Zhuoji: flip chickens and the Dou Passport\n• Red Dragon Mahjong: Red Dragons as wild tiles\n\nPopular Mahjong and tile-matching are free; each of the six premium modes includes three trial plays. Weekly and monthly auto-renewable subscriptions and a one-time lifetime purchase may be offered. Localized prices and billing periods appear before purchase. Manage or cancel subscriptions in App Store account settings.\n\nTerms of Use: https://gamepark.online/mahjong/terms\nPrivacy Policy: https://gamepark.online/mahjong/privacy",
-      "releaseNotes": "",
+      "releaseNotes": "Fixed known bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/tt-mahjong-watch-multi-modes/id6794283731?uo=4",
       "formattedPrice": "Free",
       "sellerName": "启韬 陈",
       "genres": [
         "Entertainment",
-        "Games",
-        "Board"
+        "Utilities"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -30,14 +29,13 @@
     "ja": {
       "trackName": "TT麻雀 - 多モード",
       "description": "iPhoneとApple Watchで7種類の麻雀対局と無料の麻雀消しを楽しめます。\n\n• スタンダード麻雀：花牌付きの無料4人打ち\n• 血戦到底：3枚交換と欠ける牌種を選ぶ四川ルール\n• 血流成河：牌山が尽きるまで上がり続ける\n• リーチ麻雀：リーチ、ドラ、役種、完全な王牌\n• 広東麻雀：推倒胡、大小胡、買馬\n• 貴陽捉鶏：牌めくり鶏と豆通行証\n• 紅中麻雀：紅中を万能牌として使用\n\nスタンダード麻雀と麻雀消しは無料。6種類のプレミアム対局は各3回まで無料で試せます。週間・月間の自動更新サブスクリプションと買い切りプランを提供する場合があります。購入前に地域別価格と期間が表示されます。サブスクリプションはApp Storeアカウント設定から管理・解約できます。\n\n利用規約：https://gamepark.online/mahjong/terms\nプライバシーポリシー：https://gamepark.online/mahjong/privacy",
-      "releaseNotes": "",
+      "releaseNotes": "既知の不具合を修正",
       "trackViewUrl": "https://apps.apple.com/jp/app/tt%E9%BA%BB%E9%9B%80-%E5%A4%9A%E3%83%A2%E3%83%BC%E3%83%89/id6794283731?uo=4",
       "formattedPrice": "無料",
       "sellerName": "启韬 陈",
       "genres": [
         "エンターテインメント",
-        "ゲーム",
-        "ボード"
+        "ユーティリティ"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -53,14 +51,35 @@
     "de": {
       "trackName": "TT Mahjong - Multi-Modi",
       "description": "Spiele sieben Mahjong-Modi und das kostenlose Kachel-Puzzle auf iPhone und Apple Watch.\n\n• Klassisches Mahjong: kostenloser Vier-Spieler-Modus mit Blumensteinen\n• Kampf bis zum Ende: Sichuan-Regeln mit Tausch von drei Steinen und Fehlfarbe\n• Blutfluss: gewinne weiter, bis die Mauer aufgebraucht ist\n• Riichi Mahjong: Riichi, Dora, Yaku und vollständige tote Mauer\n• Guangdong-Mahjong: Auslege-Hu, große/kleine Hände und Pferdesteine\n• Guiyang Zhuoji: Hühner aufdecken und Dou-Pass\n• Rotdrachen-Mahjong: Rotdrachen als Jokersteine\n\nKlassisches Mahjong und das Kachel-Puzzle sind kostenlos; jeder der sechs Premium-Modi bietet drei Proberunden. Wöchentliche und monatliche automatisch verlängernde Abos sowie ein lebenslanger Kauf können angeboten werden. Lokale Preise und Zeiträume werden vor dem Kauf angezeigt. Abos lassen sich in den App-Store-Accounteinstellungen verwalten oder kündigen.\n\nNutzungsbedingungen: https://gamepark.online/mahjong/terms\nDatenschutzpolitik: https://gamepark.online/mahjong/privacy",
-      "releaseNotes": "",
+      "releaseNotes": "Bekannte Fehler behoben",
       "trackViewUrl": "https://apps.apple.com/de/app/tt-mahjong-multi-modi/id6794283731?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "启韬 陈",
       "genres": [
         "Unterhaltung",
-        "Spiele",
-        "Brettspiele"
+        "Dienst­programme"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "ZH",
+        "ZH"
+      ],
+      "subtitle": ""
+    },
+    "zh": {
+      "trackName": "TT单机麻将-手表游戏,多玩法",
+      "description": "在 iPhone 和 Apple Watch 上畅玩七种麻将对局与免费麻将消消。\n\n• 大众麻将：免费经典四人玩法，含花牌\n• 血战到底：四川规则，换三张、定缺，胡牌后继续对局\n• 血流成河：可连续胡牌，直到牌墙摸完\n• 日本麻将：立直、宝牌、役种与完整王牌区\n• 广东麻将：推倒胡、大小胡与买马\n• 贵阳捉鸡：翻牌鸡与豆通行证\n• 红中麻将：红中当癞子，万能凑胡\n\n大众麻将和麻将消消免费；六种会员麻将各可免费试玩三次。App 可能提供自动续订的周订阅、月订阅及一次性买断的永久会员。购买前显示本地价格与计费周期；可在 App Store 账户设置中管理或取消订阅。\n\n使用条款：https://gamepark.online/mahjong/terms\n隐私政策：https://gamepark.online/mahjong/privacy",
+      "releaseNotes": "修复已知bug",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tt%E5%8D%95%E6%9C%BA%E9%BA%BB%E5%B0%86-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F-%E5%A4%9A%E7%8E%A9%E6%B3%95/id6794283731?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "启韬 陈",
+      "genres": [
+        "娱乐",
+        "工具"
       ],
       "languageCodesISO2A": [
         "EN",
@@ -74,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/8d/c3/388dc3db-9e04-6dbf-239b-72fd35edba23/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/7d/24/ae7d2466-fd4f-70a9-5524-8f7db4fa5b4d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "47037440",
+  "fileSizeBytes": "47139840",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-10-27T06:51:40Z",
+  "version": "1.1",
+  "currentVersionReleaseDate": "2026-11-04T21:36:48Z",
   "releaseDate": "2026-10-26T07:00:00Z",
   "artistId": 1879937348,
   "artistName": "启韬 陈",
@@ -224,6 +243,22 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3b/a2/d13ba270-bdba-5959-7856-42f23e2b9819/02_02_en-US_1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/7f/b5/1e7fb584-8080-6f27-96e7-62bf8bcdea1a/04_04_en-US_1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/e4/88/9de4888d-2727-3747-2ae1-af4a615c1908/03_03_en-US_1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/43/7d/1e437d76-7c5a-dda4-2e61-6db186572bad/01_01_en-US_1242x2688.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/3b/a2/d13ba270-bdba-5959-7856-42f23e2b9819/02_02_en-US_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/7f/b5/1e7fb584-8080-6f27-96e7-62bf8bcdea1a/04_04_en-US_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/e4/88/9de4888d-2727-3747-2ae1-af4a615c1908/03_03_en-US_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/43/7d/1e437d76-7c5a-dda4-2e61-6db186572bad/01_01_en-US_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/89/bf/1789bf5d-dbc1-b50f-4cac-899b7780ce2c/02_02_ja_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/85/d9/4d85d9cc-83b6-27da-9243-a3df0380b4b2/03_03_ja_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/4c/b7/a54cb76e-5a6a-3049-ad00-06228c0b52ff/04_04_ja_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a4/a1/66a4a187-11f5-4cb5-1b1f-11462e5d4f40/01_01_ja_1242x2688.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/97/05/e3970529-9f05-57fe-cfaf-13b2b6eb509c/_U62fe_U8d77_U624b_U8155_Uff0c_U968f_U65f6_U6253_U9ebb_U5c06.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/13/af/ce13af94-bc46-5c5a-459f-10929b0cc17b/ChatGPT__U56fe_U50cf_2026_U5e7410_U670822_U65e5_08_24_05-3__U526f_U672c.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/d8/b6/d0d8b6a7-c294-37db-0107-9429a19c9a0b/_U8fb9_U73a9_U8fb9_U5b66_U9ebb_U5c06_U63a8_U8350_U653b_U7565.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/1b/fe/661bfeda-0660-e48b-ca7d-709b057420aa/ChatGPT__U56fe_U50cf_2026_U5e7410_U670822_U65e5_08_24_02-1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/e8/f0/4be8f09f-8c5a-388e-0780-ce4f4db6c0e1/02_02_en-US_1242x2688.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/4b/58/194b585b-a047-a310-6a90-b74db6eb6ced/04_04_en-US_1242x2688.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/04/51/49045156-5767-2e04-7345-10077727b60e/03_03_en-US_1242x2688.png/1242x2688bb.png",
@@ -231,13 +266,14 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/e8/f0/4be8f09f-8c5a-388e-0780-ce4f4db6c0e1/02_02_en-US_1242x2688.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/4b/58/194b585b-a047-a310-6a90-b74db6eb6ced/04_04_en-US_1242x2688.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/04/51/49045156-5767-2e04-7345-10077727b60e/03_03_en-US_1242x2688.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4e/39/bf4e393e-be61-9ddd-61b4-c88378f1df97/01_01_en-US_1242x2688.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/89/bf/1789bf5d-dbc1-b50f-4cac-899b7780ce2c/02_02_ja_1242x2688.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/85/d9/4d85d9cc-83b6-27da-9243-a3df0380b4b2/03_03_ja_1242x2688.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/4c/b7/a54cb76e-5a6a-3049-ad00-06228c0b52ff/04_04_ja_1242x2688.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a4/a1/66a4a187-11f5-4cb5-1b1f-11462e5d4f40/01_01_ja_1242x2688.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4e/39/bf4e393e-be61-9ddd-61b4-c88378f1df97/01_01_en-US_1242x2688.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/88/38/618838be-a25d-f656-5140-c826b59ad882/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.13.21.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/fc/1d/95fc1db3-1771-d8a6-cfdf-1c0637ef1380/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.25.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/b1/61/cbb161e1-0d74-a3ee-da06-6a27a7431786/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.39.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/1b/d7/c91bd734-ae9a-0cf8-9408-14d05af69b80/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.42.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/ee/68/13ee6853-dcbf-a299-e3eb-512a62d138f7/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.08.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9a/fc/6f9afc2d-b6f0-02b0-585f-f8d65b5e4f77/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.13.21.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/23/62/b12362e6-c47a-469e-05b5-4572edb0a34e/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.25.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/d5/0c/42d50c7d-4e87-6984-e136-78a8ce16cf5a/Screenshot_Apple_Watch_Series_12__U002842mm_U0029_2026-10-21_at_22.16.39.png/416x496bb.png",
@@ -249,8 +285,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2026-10-27T06:51:40Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Fixed known bugs",
+      "seenAt": "2026-11-04T21:36:48Z"
     }
   ],
-  "updatedAt": "2026-11-04T14:50:21.289Z",
+  "updatedAt": "2026-11-05T15:11:13.013Z",
   "isOwnApp": false
 }
