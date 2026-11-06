@@ -424,8 +424,13 @@
       "version": "1.36",
       "releaseNotes": "Improved stability.",
       "seenAt": "2026-11-04T17:32:22Z"
+    },
+    {
+      "version": "1.37",
+      "releaseNotes": "Optimized for Apple Watch.",
+      "seenAt": "2026-11-05T17:38:53Z"
     }
   ],
-  "updatedAt": "2026-11-05T14:37:58.131Z",
+  "updatedAt": "2026-11-06T14:13:37.112Z",
   "isOwnApp": false
 }

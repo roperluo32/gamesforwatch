@@ -480,8 +480,13 @@
       "version": "1.6.4",
       "releaseNotes": "Fresh screen design: the Today card now previews your puzzle on a tile board like the app icon, with your progress and streak in one place.\nLibrary picks size and difficulty with picture tiles and chips, and filled cells use a warm terracotta tone (light and dark mode).",
       "seenAt": "2026-11-04T21:38:13Z"
+    },
+    {
+      "version": "1.6.5",
+      "releaseNotes": "If you've already started today's puzzle, the Today card button now says Continue instead of Begin.",
+      "seenAt": "2026-11-05T17:41:59Z"
     }
   ],
-  "updatedAt": "2026-11-05T15:10:39.824Z",
+  "updatedAt": "2026-11-06T14:44:41.729Z",
   "isOwnApp": false
 }
