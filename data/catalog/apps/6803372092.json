@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "- daily challenge bug fixed",
+      "releaseNotes": "- various optimizations \n- high-arc shots improved\n- little online bug fixed",
       "trackViewUrl": "https://apps.apple.com/us/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Federico Bigliocca",
@@ -20,12 +20,12 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Arcade Hoops: Shoot & Score"
+      "subtitle": "2d Arcade Hoops: Shoot & Score"
     },
     "ja": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "- daily challenge bug fixed",
+      "releaseNotes": "- various optimizations \n- high-arc shots improved\n- little online bug fixed",
       "trackViewUrl": "https://apps.apple.com/jp/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Federico Bigliocca",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "- daily challenge bug fixed",
+      "releaseNotes": "- various optimizations \n- high-arc shots improved\n- little online bug fixed",
       "trackViewUrl": "https://apps.apple.com/de/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Federico Bigliocca",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/2d/37/782d3739-20fc-0cb2-963a-271939dcacc1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/8a/dc/308adc37-78dc-2be9-891b-3855ae10b9f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "106821632",
+  "fileSizeBytes": "105871360",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.7",
-  "currentVersionReleaseDate": "2026-10-25T11:13:25Z",
+  "version": "1.8",
+  "currentVersionReleaseDate": "2026-11-06T21:50:39Z",
   "releaseDate": "2026-10-15T07:00:00Z",
   "artistId": 333198458,
   "artistName": "Dracoders",
@@ -209,6 +209,45 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/da/d1/cddad148-8d6a-7b91-2069-8ddb90eb5d4b/01-first-shot-tutorial.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/52/50/6c5250bb-c567-46b4-c7fa-e6e51bf6f3e3/01-drag-and-shoot.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/0e/3d/b60e3d5d-a07c-d33e-e3ba-aeecdcec0498/02-step-back-jump-swish.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/6c/01/a66c01e7-a17c-06c2-0733-7d5717ea13d4/03-300-levels.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/1d/8b/ce1d8be6-ae36-3e9f-dc30-7198ec36f871/04-play-online.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/1e/d8/cb1ed8ae-75bf-5e7c-1db8-533eb6263a3a/05-streak-mode.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b7/ec/44b7ecdd-b199-9ba8-7ef6-46b8943e3057/06-three-ways-to-play.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/d8/08/aad80869-6445-ab54-da90-f1662a674228/02-step-back-neon.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/3c/44/933c445a-583d-97e0-0acc-ae999bbba904/05-step-back-neve.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/12/38/f61238d6-c114-9215-be39-923d8acbfe09/03-jump-shot-cortile.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/2b/b0/8c2bb0eb-a903-043c-ca82-023bdf2983d1/06-streak-space.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/d1/e0/22d1e0b8-35af-72a7-4e01-fa9add5ed77c/01-tiro-in-palestra.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/be/d2/e3bed21c-a783-11e4-2c1a-90897276d8be/07-streak-notte.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/2d/a7/0f2da77b-ac9e-8c39-c079-4d51460fbfe6/04-sfida-bronx.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/09/b4/2609b47d-8b0b-edfd-6eee-e9dd47ecc022/01-drag-and-shoot.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/b1/3e/83b13e15-36f0-7495-ef10-397a95bcd878/02-step-back-jump-swish.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/16/23/411623cd-b80d-e71a-9ba4-bffe5ecbab28/06-now-on-watch.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/e0/05/01e00568-f5d6-6960-35b6-cfd9341fc917/03-300-levels.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/88/c2/1988c2dd-a50c-ad7e-6a3e-1a0fdeb4efb1/04-play-online.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/b3/35/9cb33596-08ad-860a-dd26-35adb0eec18e/06-multiplayer-avatars.png/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/a1/11/06a111a2-a27f-be1e-cac8-5db86a0a75dc/05-streak-mode.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/48/39/894839cb-e68b-080d-eed3-b14bb19c9238/02-step-back-jump-swish.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/33/40/f833400e-3f91-effa-06f8-11e4da030e4e/04-play-online.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/6c/ab/316cabc5-b28c-b91d-8751-80c2faa3e315/06-now-on-watch.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/09/b4/2609b47d-8b0b-edfd-6eee-e9dd47ecc022/01-drag-and-shoot.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/b1/3e/83b13e15-36f0-7495-ef10-397a95bcd878/02-step-back-jump-swish.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/e0/05/01e00568-f5d6-6960-35b6-cfd9341fc917/03-300-levels.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/88/c2/1988c2dd-a50c-ad7e-6a3e-1a0fdeb4efb1/04-play-online.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/b3/35/9cb33596-08ad-860a-dd26-35adb0eec18e/06-multiplayer-avatars.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/a1/11/06a111a2-a27f-be1e-cac8-5db86a0a75dc/05-streak-mode.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/48/39/894839cb-e68b-080d-eed3-b14bb19c9238/02-step-back-jump-swish.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/33/40/f833400e-3f91-effa-06f8-11e4da030e4e/04-play-online.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/da/d1/cddad148-8d6a-7b91-2069-8ddb90eb5d4b/01-first-shot-tutorial.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/52/50/6c5250bb-c567-46b4-c7fa-e6e51bf6f3e3/01-drag-and-shoot.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/0e/3d/b60e3d5d-a07c-d33e-e3ba-aeecdcec0498/02-step-back-jump-swish.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/6c/01/a66c01e7-a17c-06c2-0733-7d5717ea13d4/03-300-levels.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/1d/8b/ce1d8be6-ae36-3e9f-dc30-7198ec36f871/04-play-online.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/1e/d8/cb1ed8ae-75bf-5e7c-1db8-533eb6263a3a/05-streak-mode.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b7/ec/44b7ecdd-b199-9ba8-7ef6-46b8943e3057/06-three-ways-to-play.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/cb/9f/adcb9fed-44ee-ed14-60e6-5c0ff293586f/01-first-shot-tutorial.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/c6/d1/b2c6d185-c0ed-9ed1-a11c-9e889b659530/01-drag-and-shoot.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/9f/90/b99f901b-0b1c-2fe3-e5e4-8802293dc8c0/02-step-back-jump-swish.png/2048x2732bb.png",
@@ -245,6 +284,13 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/07/0b/8b070b4b-ba14-a693-d6a3-95e08490a595/06-three-ways-to-play.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/ba/7f/e3ba7f6b-95ee-cc64-15c5-72cb2ab98072/04-neon.jpg/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4e/b2/af4eb2b4-bf8c-570c-f65b-ee99157c9222/01-gym.jpg/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/6c/c1/926cc1c9-25b0-5287-d721-a2e711a507dd/02-night.jpg/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/13/9b/23139b92-c12e-89d3-3e3b-793e30e24bf7/03-beach.jpg/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/95/dd/1695dde0-668a-4f06-72ee-761758583403/05-space.jpg/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/16/23/411623cd-b80d-e71a-9ba4-bffe5ecbab28/06-now-on-watch.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/6c/ab/316cabc5-b28c-b91d-8751-80c2faa3e315/06-now-on-watch.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/f3/1d/8bf31d2d-edec-0e7e-6d14-a73ab42b344d/04-neon.jpg/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/8e/72/f28e721b-b1a9-97f5-d0de-373d3c43d0c1/01-gym.jpg/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/ea/89/51ea89e9-77be-ac58-9df7-2aa7b22363e0/02-night.jpg/416x496bb.png",
@@ -292,8 +338,13 @@
       "version": "1.7",
       "releaseNotes": "- daily challenge bug fixed",
       "seenAt": "2026-10-25T11:13:25Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "- various optimizations \n- high-arc shots improved\n- little online bug fixed",
+      "seenAt": "2026-11-06T21:50:39Z"
     }
   ],
-  "updatedAt": "2026-11-06T14:29:43.728Z",
+  "updatedAt": "2026-11-07T13:14:06.612Z",
   "isOwnApp": false
 }

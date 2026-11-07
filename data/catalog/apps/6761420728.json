@@ -1,14 +1,14 @@
 {
   "trackId": "6761420728",
   "bundleId": "com.virtualgs.Reversi",
-  "slug": "neonflip-board-game",
-  "path": "/apps/6761420728-neonflip-board-game/",
+  "slug": "neonflip-reversi-game",
+  "path": "/apps/6761420728-neonflip-reversi-game/",
   "locales": {
     "en": {
-      "trackName": "NeonFlip: Board Game",
+      "trackName": "NeonFlip: Reversi Game",
       "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on Apple Watch, iPhone, iPad, and Mac.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
-      "releaseNotes": "Updated to space battle theme.",
-      "trackViewUrl": "https://apps.apple.com/us/app/neonflip-board-game/id6761420728?uo=4",
+      "releaseNotes": "Improve the space battle design.",
+      "trackViewUrl": "https://apps.apple.com/us/app/neonflip-reversi-game/id6761420728?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Thye Chean Lim",
       "genres": [
@@ -24,13 +24,13 @@
         "ZH",
         "ZH"
       ],
-      "subtitle": "Galactic Reversi Battles"
+      "subtitle": "Galactic Reversi Battle"
     },
     "ja": {
-      "trackName": "NeonFlip: Board Game",
+      "trackName": "NeonFlip: Reversi Game",
       "description": "近未来の宇宙を舞台にしたリバーシゲームで、銀河の覇権をかけた戦いに挑もう！\nApple Watch、iPhone、iPad、Macで艦隊を指揮し、銀河を征服せよ。\n\n友達と対戦したり、3段階の難易度から選べるAIと戦ったりすることができます。多言語対応！",
-      "releaseNotes": "宇宙戦をテーマにしたものに更新しました。",
-      "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-board-game/id6761420728?uo=4",
+      "releaseNotes": "宇宙戦闘の設計を改善する。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-reversi-game/id6761420728?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Thye Chean Lim",
       "genres": [
@@ -49,10 +49,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "NeonFlip: Board Game",
+      "trackName": "NeonFlip: Reversi Game",
       "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf Apple Watch, iPhone, iPad und Mac.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
-      "releaseNotes": "Auf ein Weltraumschlacht-Thema aktualisiert.",
-      "trackViewUrl": "https://apps.apple.com/de/app/neonflip-board-game/id6761420728?uo=4",
+      "releaseNotes": "Verbessere das Design der Weltraumschlachten.",
+      "trackViewUrl": "https://apps.apple.com/de/app/neonflip-reversi-game/id6761420728?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Thye Chean Lim",
       "genres": [
@@ -73,7 +73,7 @@
     "zh": {
       "trackName": "星际黑白棋",
       "description": "星際黑白棋是一款以太空为主题的黑白棋（Reversi）游戏，争夺银河系的统治权！\n在 Apple Watch、iPhone、iPad 和 Mac 上指挥你的舰队，征服整个银河系。\n\n既可与好友对弈，也能挑战设有 3 种难度等级的人工智能（AI）。支持多种语言！",
-      "releaseNotes": "已更新为太空战主题。",
+      "releaseNotes": "改进太空战斗设计。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%9F%E9%99%85%E9%BB%91%E7%99%BD%E6%A3%8B/id6761420728?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Thye Chean Lim",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1a/e7/8f1ae7c1-4d05-52b1-3859-1c19446edbb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/d7/2a/f0d72ac9-ed1c-0ea4-3823-8cfe7fca22f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "16319488",
+  "fileSizeBytes": "22907904",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "3.0",
-  "currentVersionReleaseDate": "2026-11-05T11:19:21Z",
+  "version": "3.1",
+  "currentVersionReleaseDate": "2026-11-06T16:07:50Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -243,6 +243,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/dd/b7/faddb7d5-79bc-d5df-d731-46288d092551/duo1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c7/1c/7dc71cd5-5d22-0b78-324e-c2e443fc98c4/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/42/25/6e42254b-79c3-4aa1-eb00-9d7f16be394d/duo3.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/76/d8/8b76d8f8-564b-0f7b-d189-25520988e041/iPad1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/32/ab/b032ab07-cf0e-3446-5cd0-bb72ba09d508/iPad2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a6/0c/99a60cd7-9e05-bcf1-0a7b-6dc6d98509d6/iPad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/28/d5/f728d53a-3515-dd1c-0935-13071699836a/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/ac/c8/c8acc8d0-1d5e-16b4-9ba9-c33c220eb9c3/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/ac/cd/afaccd00-788c-05f5-e50e-2e955fab2887/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/21/95/8921953a-61e7-5416-ee94-04afd7f94712/iPhone1.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c3/42/cfc34213-08ea-956a-48cd-fa96b21ad7b2/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/fe/e9/37fee959-b26f-d1ab-1401-9a57c4cae44c/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/21/95/8921953a-61e7-5416-ee94-04afd7f94712/iPhone1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c3/42/cfc34213-08ea-956a-48cd-fa96b21ad7b2/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/fe/e9/37fee959-b26f-d1ab-1401-9a57c4cae44c/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/76/d8/8b76d8f8-564b-0f7b-d189-25520988e041/iPad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/32/ab/b032ab07-cf0e-3446-5cd0-bb72ba09d508/iPad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a6/0c/99a60cd7-9e05-bcf1-0a7b-6dc6d98509d6/iPad3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/d4/df/32d4df70-809b-b12d-41bc-797fd3c2c3f0/Screenshot_iPhone_Duo_05-11-2026_at_5.52.42_U202fPM.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/7d/44/a57d449b-1132-0539-1222-c630cdd85cef/Screenshot_iPhone_Duo_05-11-2026_at_5.52.57_U202fPM.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/1e/6c/101e6cf3-390b-ea76-bd09-cd98fc2a9003/Screenshot_iPhone_Duo_05-11-2026_at_5.53.29_U202fPM.png/2853x2007bb.png",
@@ -279,6 +297,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7a/85/0d7a8554-6cbb-2e1e-e6a8-9575fb24bb1a/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/f8/1a/eef81a3f-ce5b-f919-e47e-aadbaf16efc1/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/0f/c4/e60fc4c9-5faf-730f-a83b-a0833790d403/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/4d/56/714d56fa-71d3-f232-08de-32cb30098569/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/72/1c/c5721ca7-1923-9eb0-a50e-0bcf7b9b2dce/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
@@ -346,8 +366,13 @@
       "version": "3.0",
       "releaseNotes": "Updated to space battle theme.",
       "seenAt": "2026-11-05T11:19:21Z"
+    },
+    {
+      "version": "3.1",
+      "releaseNotes": "Improve the space battle design.",
+      "seenAt": "2026-11-06T16:07:50Z"
     }
   ],
-  "updatedAt": "2026-11-06T14:44:33.170Z",
+  "updatedAt": "2026-11-07T13:29:49.821Z",
   "isOwnApp": false
 }

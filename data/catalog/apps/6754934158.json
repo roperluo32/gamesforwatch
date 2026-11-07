@@ -7,7 +7,7 @@
     "en": {
       "trackName": "BJackWatch",
       "description": "Experience the thrill of the casino, right on your wrist.\nPlay fast rounds of Blackjack, manage your coin balance, and chase the perfect 21 — all from your Apple Watch.\n\nPlay classic Blackjack redesigned for the Apple Watch — quick, elegant, and perfectly tuned for instant fun.\n\t-  1k welcome coins!\n\t-  Instant Rounds – Play a full game in under a minute, ideal for quick breaks.\n\t-  Daily Refills – Never run out of fun — claim free coins every few hours.\n\t-  Fair Play, Real Strategy – Authentic rules and dealer logic give every hand a true casino feel.\n\t-  Haptic Feedback & Animations – Feel every win and bust with satisfying haptics and bursts of color.\n\nTest your luck, perfect your strategy, and carry the casino in your pocket — or rather, on your wrist.",
-      "releaseNotes": "- fix in-app purchase that may not credit coins",
+      "releaseNotes": "- Fix connexion error to the server\n- fix animation",
       "trackViewUrl": "https://apps.apple.com/us/app/bjackwatch/id6754934158?uo=4",
       "formattedPrice": "Free",
       "sellerName": "CEOS CONSULTING",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "BJackWatch",
       "description": "Experience the thrill of the casino, right on your wrist.\nPlay fast rounds of Blackjack, manage your coin balance, and chase the perfect 21 — all from your Apple Watch.\n\nPlay classic Blackjack redesigned for the Apple Watch — quick, elegant, and perfectly tuned for instant fun.\n\t-  1k welcome coins!\n\t-  Instant Rounds – Play a full game in under a minute, ideal for quick breaks.\n\t-  Daily Refills – Never run out of fun — claim free coins every few hours.\n\t-  Fair Play, Real Strategy – Authentic rules and dealer logic give every hand a true casino feel.\n\t-  Haptic Feedback & Animations – Feel every win and bust with satisfying haptics and bursts of color.\n\nTest your luck, perfect your strategy, and carry the casino in your pocket — or rather, on your wrist.",
-      "releaseNotes": "- fix in-app purchase that may not credit coins",
+      "releaseNotes": "- Fix connexion error to the server\n- fix animation",
       "trackViewUrl": "https://apps.apple.com/jp/app/bjackwatch/id6754934158?uo=4",
       "formattedPrice": "無料",
       "sellerName": "CEOS CONSULTING",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "BJackWatch",
       "description": "Experience the thrill of the casino, right on your wrist.\nPlay fast rounds of Blackjack, manage your coin balance, and chase the perfect 21 — all from your Apple Watch.\n\nPlay classic Blackjack redesigned for the Apple Watch — quick, elegant, and perfectly tuned for instant fun.\n\t-  1k welcome coins!\n\t-  Instant Rounds – Play a full game in under a minute, ideal for quick breaks.\n\t-  Daily Refills – Never run out of fun — claim free coins every few hours.\n\t-  Fair Play, Real Strategy – Authentic rules and dealer logic give every hand a true casino feel.\n\t-  Haptic Feedback & Animations – Feel every win and bust with satisfying haptics and bursts of color.\n\nTest your luck, perfect your strategy, and carry the casino in your pocket — or rather, on your wrist.",
-      "releaseNotes": "- fix in-app purchase that may not credit coins",
+      "releaseNotes": "- Fix connexion error to the server\n- fix animation",
       "trackViewUrl": "https://apps.apple.com/de/app/bjackwatch/id6754934158?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "CEOS CONSULTING",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/57/80/7457805c-c105-8f2e-c8e0-1c304c5aca39/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/b7/87/85b78750-1192-c27c-b5b3-fbc692d82773/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "3447808",
+  "fileSizeBytes": "3673088",
   "contentAdvisoryRating": "17+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0.4",
-  "currentVersionReleaseDate": "2025-11-11T07:28:16Z",
+  "minimumOsVersion": "26.0",
+  "version": "1.0.5",
+  "currentVersionReleaseDate": "2026-11-06T19:36:46Z",
   "releaseDate": "2025-11-10T08:00:00Z",
   "artistId": 1849121672,
   "artistName": "Ceos Consulting",
@@ -221,8 +221,13 @@
       "version": "1.0.4",
       "releaseNotes": "- fix in-app purchase that may not credit coins",
       "seenAt": "2025-11-11T07:28:16Z"
+    },
+    {
+      "version": "1.0.5",
+      "releaseNotes": "- Fix connexion error to the server\n- fix animation",
+      "seenAt": "2026-11-06T19:36:46Z"
     }
   ],
-  "updatedAt": "2026-11-06T14:30:19.991Z",
+  "updatedAt": "2026-11-07T13:14:43.548Z",
   "isOwnApp": false
 }
