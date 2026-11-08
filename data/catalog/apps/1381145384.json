@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Modern Magic Ball",
       "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
-      "releaseNotes": "- Added support for YouTube Music and Tidal for the View Song feature when using the Songs response topic!\n- Improved confetti effect across the app.\n- Revamped checkmark logic for many settings pages. Checkmarks will appear faster and less RAM usage will occur.\n- Improved banner logic for color gradients and image loading. This should prevent edge cases from causing app crashes.\n- Added more songs to the Songs response topic.",
+      "releaseNotes": "- Added iPhone Duo support.\n- Massively improved Apple Watch Connectivity. The iOS app will now automatically send your edited Fast Food Places, Video Games, Movies, and Stores response topics to the Apple Watch app!\n- Added new songs to the Halloween Songs Response Topic.",
       "trackViewUrl": "https://apps.apple.com/us/app/modern-magic-ball/id1381145384?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Hayden Watson",
@@ -27,7 +27,7 @@
     "ja": {
       "trackName": "Modern Magic Ball",
       "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
-      "releaseNotes": "- Added support for YouTube Music and Tidal for the View Song feature when using the Songs response topic!\n- Improved confetti effect across the app.\n- Revamped checkmark logic for many settings pages. Checkmarks will appear faster and less RAM usage will occur.\n- Improved banner logic for color gradients and image loading. This should prevent edge cases from causing app crashes.\n- Added more songs to the Songs response topic.",
+      "releaseNotes": "- Added iPhone Duo support.\n- Massively improved Apple Watch Connectivity. The iOS app will now automatically send your edited Fast Food Places, Video Games, Movies, and Stores response topics to the Apple Watch app!\n- Added new songs to the Halloween Songs Response Topic.",
       "trackViewUrl": "https://apps.apple.com/jp/app/modern-magic-ball/id1381145384?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Hayden Watson",
@@ -47,7 +47,7 @@
     "de": {
       "trackName": "Modern Magic Ball",
       "description": "Modern Magic Ball is the ultimate decision-making tool. It was built to run fast, be fun, bring people together, and be easy to use.\n\n\nFeatures:\n\nMulti-Language Support\nMagic Ball can respond in 12 different languages. Now everyone can get a response.\n\nSpeak to Magic Ball\nAsk questions using only your voice, now it's a truly modern decision-making tool.\n\nFast and Lightweight\nSo you can have more apps on your device.\n\nBuilt with iOS Design Guidelines in Mind\nSo it feels like home.\n\nShake to Tell Future\nJust shake your device to use the Magic Ball.\n\nComplete Achievements\nComplete achievements to work your way up the ranks and become a Master Magic Baller.\n\nCustomization\nChange the theme of the Magic Ball to a solid color, pick your own image, or pick from a great selection of included images. The app icon may also be changed to one of many different colors.\n\nResponse Topics\nMagic Ball has many different sets of responses. They include: Classic, Modern, Rude, Songs, Fast Food Places, Stores, or Video Games! Some can even be customized to your liking.\n\nType to Magic Ball\nAsk questions using your keyboard, some questions even give you a special response!\n\nEnhanced Accessibility\nLarger Text support, Smart Invert support, VoiceOver support, & more.\n\nCustom Response Sets\nDecide your own fate and create Custom Response Sets! You can add as many responses as you’d like to the app! You can also insert any of the response topics intro your custom sets.\n\nDiscover New Songs\nFind new songs with the Songs response topic. All the songs are handpicked and new songs are added regularly.\n\nGame Controller Support\nUse your favorite controller to use the Magic Ball!\n\n\nLanguages Magic Ball Can Respond In: \nEnglish, Spanish, Russian, Tagalog, German, French, Portuguese, Chinese (Simplified), Romanian, Ukrainian, Dutch, Esperanto, Pig Latin, and Pirate.",
-      "releaseNotes": "- Added support for YouTube Music and Tidal for the View Song feature when using the Songs response topic!\n- Improved confetti effect across the app.\n- Revamped checkmark logic for many settings pages. Checkmarks will appear faster and less RAM usage will occur.\n- Improved banner logic for color gradients and image loading. This should prevent edge cases from causing app crashes.\n- Added more songs to the Songs response topic.",
+      "releaseNotes": "- Added iPhone Duo support.\n- Massively improved Apple Watch Connectivity. The iOS app will now automatically send your edited Fast Food Places, Video Games, Movies, and Stores response topics to the Apple Watch app!\n- Added new songs to the Halloween Songs Response Topic.",
       "trackViewUrl": "https://apps.apple.com/de/app/modern-magic-ball/id1381145384?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Hayden Watson",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/7a/01/5c7a013f-9b0f-d2e2-e610-cacd54f6ffbc/iOS_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/39/28/043928f0-a3be-57f3-e097-635747ab6a36/iOS_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 2.83333,
   "userRatingCount": 6,
   "price": 0.99,
-  "fileSizeBytes": "92844032",
+  "fileSizeBytes": "90953728",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "6.9",
-  "currentVersionReleaseDate": "2026-08-18T20:28:48Z",
+  "minimumOsVersion": "17.0",
+  "version": "6.10",
+  "currentVersionReleaseDate": "2026-11-07T20:22:46Z",
   "releaseDate": "2018-05-18T18:51:49Z",
   "artistId": 1381145383,
   "artistName": "Hayden Watson",
@@ -386,8 +386,13 @@
       "version": "6.9",
       "releaseNotes": "- Added support for YouTube Music and Tidal for the View Song feature when using the Songs response topic!\n- Improved confetti effect across the app.\n- Revamped checkmark logic for many settings pages. Checkmarks will appear faster and less RAM usage will occur.\n- Improved banner logic for color gradients and image loading. This should prevent edge cases from causing app crashes.\n- Added more songs to the Songs response topic.",
       "seenAt": "2026-08-18T20:28:48Z"
+    },
+    {
+      "version": "6.10",
+      "releaseNotes": "- Added iPhone Duo support.\n- Massively improved Apple Watch Connectivity. The iOS app will now automatically send your edited Fast Food Places, Video Games, Movies, and Stores response topics to the Apple Watch app!\n- Added new songs to the Halloween Songs Response Topic.",
+      "seenAt": "2026-11-07T20:22:46Z"
     }
   ],
-  "updatedAt": "2026-11-07T13:18:03.549Z",
+  "updatedAt": "2026-11-08T13:37:03.990Z",
   "isOwnApp": false
 }

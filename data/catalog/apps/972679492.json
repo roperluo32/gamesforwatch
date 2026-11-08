@@ -239,6 +239,8 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/48/20/ef/4820efcb-baf6-d358-b13e-7ba17fccb631/pr_source.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ca/3c/df/ca3cdf5f-be82-860f-24ef-179cecfe1af3/pr_source.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/2a/ce/70/2ace70fe-7830-5559-741c-1554ee89cbc4/pr_source.png/640x960bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/a2/23/c1/a223c1ce-a6bd-642c-cf01-b9e9379e44fe/pr_source.png/640x960bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/9e/5e/4c/9e5e4c3a-d7ac-8e37-b076-6ba4ed9ae147/pr_source.png/640x1136bb.png",
@@ -246,9 +248,7 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/8a/cb/03/8acb0354-13a3-9338-7407-fbabe7fe83d9/pr_source.png/750x1334bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/2f/38/27/2f38273c-5323-7ae9-27ff-42980e07260a/pr_source.png/750x1334bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/48/20/ef/4820efcb-baf6-d358-b13e-7ba17fccb631/pr_source.png/1242x2208bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ca/3c/df/ca3cdf5f-be82-860f-24ef-179cecfe1af3/pr_source.png/1242x2208bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/48/20/ef/4820efcb-baf6-d358-b13e-7ba17fccb631/pr_source.png/392x696bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ca/3c/df/ca3cdf5f-be82-860f-24ef-179cecfe1af3/pr_source.png/392x696bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ca/3c/df/ca3cdf5f-be82-860f-24ef-179cecfe1af3/pr_source.png/1242x2208bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/2c/4e/57/2c4e57d6-83a2-6e8f-4903-7919d85323f6/pr_source.png/312x390bb.png",
@@ -272,6 +272,6 @@
       "seenAt": "2017-11-28T17:28:12Z"
     }
   ],
-  "updatedAt": "2026-11-07T13:05:04.639Z",
+  "updatedAt": "2026-11-08T13:23:20.749Z",
   "isOwnApp": false
 }

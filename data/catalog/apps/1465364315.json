@@ -215,14 +215,6 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/ec/1d/02ec1dd3-c322-e21b-b8a0-7ca41b99c197/pr_source.png/2048x2732bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/06/36/f5063608-b304-4762-6132-c5ff0ceacbb7/pr_source.png/2048x2732bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/90/bb/3d90bbc2-5b16-41b0-9be4-7e8958214040/pr_source.png/2048x2732bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/ef/d9/c0efd94b-37a4-e9d1-e5c2-0df5787f1c0b/pr_source.png/2048x2732bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/33/da/c8/33dac8aa-c062-7920-03eb-c84dc8702999/pr_source.png/1242x2208bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/c9/a5/1cc9a577-f2b3-ca7f-6ec5-6c94801c3750/pr_source.png/1242x2208bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/2a/0b/302a0b80-7eca-90cd-021f-95de38c1fc65/pr_source.png/1242x2688bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/e0/c9/24e0c9be-f066-74c5-1e27-da5a2d583fa1/pr_source.png/1242x2688bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/f0/be/54f0beb3-4b5a-61af-4554-d70e0e76061f/pr_source.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/ab/e0/4eabe070-adff-6d47-fb5a-f093af0c07bf/pr_source.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/1c/62/6e1c6297-3bac-f7e1-ee43-f18789baed3d/pr_source.png/576x768bb.png",
@@ -230,7 +222,15 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/33/da/c8/33dac8aa-c062-7920-03eb-c84dc8702999/pr_source.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/c9/a5/1cc9a577-f2b3-ca7f-6ec5-6c94801c3750/pr_source.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/ec/1d/02ec1dd3-c322-e21b-b8a0-7ca41b99c197/pr_source.png/576x768bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/06/36/f5063608-b304-4762-6132-c5ff0ceacbb7/pr_source.png/576x768bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/06/36/f5063608-b304-4762-6132-c5ff0ceacbb7/pr_source.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/ec/1d/02ec1dd3-c322-e21b-b8a0-7ca41b99c197/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/06/36/f5063608-b304-4762-6132-c5ff0ceacbb7/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/90/bb/3d90bbc2-5b16-41b0-9be4-7e8958214040/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/ef/d9/c0efd94b-37a4-e9d1-e5c2-0df5787f1c0b/pr_source.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/33/da/c8/33dac8aa-c062-7920-03eb-c84dc8702999/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/c9/a5/1cc9a577-f2b3-ca7f-6ec5-6c94801c3750/pr_source.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/2a/0b/302a0b80-7eca-90cd-021f-95de38c1fc65/pr_source.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/e0/c9/24e0c9be-f066-74c5-1e27-da5a2d583fa1/pr_source.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/8c/97/ed8c9775-a700-f5b7-bcd8-eed2fea61afc/pr_source.png/368x448bb.png",
@@ -277,6 +277,6 @@
       "seenAt": "2026-07-10T19:59:11Z"
     }
   ],
-  "updatedAt": "2026-11-07T13:07:01.613Z",
+  "updatedAt": "2026-11-08T13:25:15.887Z",
   "isOwnApp": false
 }

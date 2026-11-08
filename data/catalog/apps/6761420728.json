@@ -6,10 +6,10 @@
   "locales": {
     "en": {
       "trackName": "NeonFlip: Reversi Game",
-      "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on Apple Watch, iPhone, iPad, and Mac.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
-      "releaseNotes": "Improve the space battle design.",
+      "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on iPad, iPhone (including Duo) and Apple Watch.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
+      "releaseNotes": "Fixed audio issues.\nEnhanced Apple Watch game play.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -24,14 +24,14 @@
         "ZH",
         "ZH"
       ],
-      "subtitle": "Galactic Reversi Battle"
+      "subtitle": "Galactic Reversi Battle!"
     },
     "ja": {
       "trackName": "NeonFlip: Reversi Game",
-      "description": "近未来の宇宙を舞台にしたリバーシゲームで、銀河の覇権をかけた戦いに挑もう！\nApple Watch、iPhone、iPad、Macで艦隊を指揮し、銀河を征服せよ。\n\n友達と対戦したり、3段階の難易度から選べるAIと戦ったりすることができます。多言語対応！",
-      "releaseNotes": "宇宙戦闘の設計を改善する。",
+      "description": "近未来の宇宙を舞台にしたリバーシゲームで、銀河の覇権を懸けて戦おう！\niPad、iPhone（Duoを含む）、Apple Watchで艦隊を指揮し、銀河を征服せよ。\n\n友達と対戦したり、3段階の難易度から選べるAIと戦ったりすることができます。多言語対応！",
+      "releaseNotes": "オーディオ関連の問題を修正しました。\nApple Watchでのゲームプレイを強化しました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -50,10 +50,10 @@
     },
     "de": {
       "trackName": "NeonFlip: Reversi Game",
-      "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf Apple Watch, iPhone, iPad und Mac.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
-      "releaseNotes": "Verbessere das Design der Weltraumschlachten.",
+      "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf iPad, iPhone (einschließlich Duo-Modus) und Apple Watch.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
+      "releaseNotes": "Audioprobleme behoben.\nSpielerlebnis auf der Apple Watch verbessert.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/d7/2a/f0d72ac9-ed1c-0ea4-3823-8cfe7fca22f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/3d/1b/783d1bc1-445c-dd0e-6f57-a8336fee835e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
-  "fileSizeBytes": "22907904",
+  "price": 0.99,
+  "fileSizeBytes": "22969344",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "3.1",
-  "currentVersionReleaseDate": "2026-11-06T16:07:50Z",
+  "version": "3.2",
+  "currentVersionReleaseDate": "2026-11-08T13:27:03Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -243,6 +243,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/35/99/be359925-4ad2-ce42-3521-10c62131757e/duo1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b2/fb/66b2fb6a-e0a6-1448-ff67-bc57424dbbb8/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/3c/93/323c9345-8ba3-1270-1b92-c55be49f7d71/duo3.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/e0/c8/2ae0c83f-7b0f-c224-7661-be7bb34a9278/iPad1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/e5/7f/35e57faf-28ed-9cbb-cfb6-85ccd5e848cc/iPad2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d5/b1/49d5b128-bc71-d0be-7a01-892a1bfb443b/iPad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/7e/67/877e6776-ab9f-4537-fd96-a5f2ef399d95/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/3d/f9/aa3df96a-98a9-c6d1-caa7-dd3d4386be89/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/0a/a9/410aa9a0-19ee-647a-e4a2-144d35444b0f/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/86/39/d4863902-1549-2ca3-b7af-3aa83832ac41/iPhone1.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/bf/2e/e3bf2efa-521c-4b15-160d-087e84bba1ee/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/8a/5a/1a8a5a1c-d8ac-d87e-28e1-f411ebc7a023/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/86/39/d4863902-1549-2ca3-b7af-3aa83832ac41/iPhone1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/bf/2e/e3bf2efa-521c-4b15-160d-087e84bba1ee/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/8a/5a/1a8a5a1c-d8ac-d87e-28e1-f411ebc7a023/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/e0/c8/2ae0c83f-7b0f-c224-7661-be7bb34a9278/iPad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/e5/7f/35e57faf-28ed-9cbb-cfb6-85ccd5e848cc/iPad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d5/b1/49d5b128-bc71-d0be-7a01-892a1bfb443b/iPad3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/dd/b7/faddb7d5-79bc-d5df-d731-46288d092551/duo1.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c7/1c/7dc71cd5-5d22-0b78-324e-c2e443fc98c4/duo2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/42/25/6e42254b-79c3-4aa1-eb00-9d7f16be394d/duo3.png/2853x2007bb.png",
@@ -297,6 +315,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/05/08/6d05085a-f63c-bfaa-e11f-aacaf5bf9d4f/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/14/c7/5214c7a6-5989-3415-ccd5-a7fbb416d287/incoming-774A0B1A-50A2-410D-9F9D-137B048E113E.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7a/85/0d7a8554-6cbb-2e1e-e6a8-9575fb24bb1a/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/f8/1a/eef81a3f-ce5b-f919-e47e-aadbaf16efc1/incoming-60A80CA6-B1D4-4C49-80B1-A0CD3FB4EB32.PNG/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/0f/c4/e60fc4c9-5faf-730f-a83b-a0833790d403/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
@@ -371,8 +391,18 @@
       "version": "3.1",
       "releaseNotes": "Improve the space battle design.",
       "seenAt": "2026-11-06T16:07:50Z"
+    },
+    {
+      "version": "3.1.1",
+      "releaseNotes": "Improve AI smartness.",
+      "seenAt": "2026-11-08T01:18:04Z"
+    },
+    {
+      "version": "3.2",
+      "releaseNotes": "Fixed audio issues.\nEnhanced Apple Watch game play.",
+      "seenAt": "2026-11-08T13:27:03Z"
     }
   ],
-  "updatedAt": "2026-11-07T13:29:49.821Z",
+  "updatedAt": "2026-11-08T13:49:55.095Z",
   "isOwnApp": false
 }

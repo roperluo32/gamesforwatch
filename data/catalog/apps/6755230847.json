@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Watch Sliding Puzzle",
       "description": "Discover a simple, elegant sliding puzzle designed exclusively for Apple Watch.\nPick a theme, shuffle the board, and slide the tiles to rebuild the picture. No clutter, no distractions: just a pure, satisfying puzzle experience right on your wrist.\n\nWhy you’ll love it\n\t•\tBeautiful Themes: Nature, sea, space, pets, and more.\n\t•\tPerfect for quick sessions: One game takes seconds or minutes—your choice.\n\t•\tDesigned for Watch: Smooth taps, intuitive gestures, clean interface.\n\t•\tNo account, no ads, no noise: Just play.\n\nFor puzzle lovers\n\nWhether you enjoy sliding puzzles, minimal wrist games, or small relaxing moments, this tiny game will quickly become your go-to watch companion.",
-      "releaseNotes": "",
+      "releaseNotes": "- bug fix\n- image preview\n- records and wins\n- gallery to replay the finished puzzles",
       "trackViewUrl": "https://apps.apple.com/us/app/watch-sliding-puzzle/id6755230847?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "CEOS CONSULTING",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "Watch Sliding Puzzle",
       "description": "Discover a simple, elegant sliding puzzle designed exclusively for Apple Watch.\nPick a theme, shuffle the board, and slide the tiles to rebuild the picture. No clutter, no distractions: just a pure, satisfying puzzle experience right on your wrist.\n\nWhy you’ll love it\n\t•\tBeautiful Themes: Nature, sea, space, pets, and more.\n\t•\tPerfect for quick sessions: One game takes seconds or minutes—your choice.\n\t•\tDesigned for Watch: Smooth taps, intuitive gestures, clean interface.\n\t•\tNo account, no ads, no noise: Just play.\n\nFor puzzle lovers\n\nWhether you enjoy sliding puzzles, minimal wrist games, or small relaxing moments, this tiny game will quickly become your go-to watch companion.",
-      "releaseNotes": "",
+      "releaseNotes": "- bug fix\n- image preview\n- records and wins\n- gallery to replay the finished puzzles",
       "trackViewUrl": "https://apps.apple.com/jp/app/watch-sliding-puzzle/id6755230847?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "CEOS CONSULTING",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "Watch Sliding Puzzle",
       "description": "Discover a simple, elegant sliding puzzle designed exclusively for Apple Watch.\nPick a theme, shuffle the board, and slide the tiles to rebuild the picture. No clutter, no distractions: just a pure, satisfying puzzle experience right on your wrist.\n\nWhy you’ll love it\n\t•\tBeautiful Themes: Nature, sea, space, pets, and more.\n\t•\tPerfect for quick sessions: One game takes seconds or minutes—your choice.\n\t•\tDesigned for Watch: Smooth taps, intuitive gestures, clean interface.\n\t•\tNo account, no ads, no noise: Just play.\n\nFor puzzle lovers\n\nWhether you enjoy sliding puzzles, minimal wrist games, or small relaxing moments, this tiny game will quickly become your go-to watch companion.",
-      "releaseNotes": "",
+      "releaseNotes": "- bug fix\n- image preview\n- records and wins\n- gallery to replay the finished puzzles",
       "trackViewUrl": "https://apps.apple.com/de/app/watch-sliding-puzzle/id6755230847?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "CEOS CONSULTING",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/58/b2/1b58b250-428f-7234-125e-f28aca0049de/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/e4/54/2be45478-6474-342f-1a13-b80695de223c/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2509824",
+  "fileSizeBytes": "2921472",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2025-11-14T02:09:36Z",
+  "minimumOsVersion": "26.0",
+  "version": "1.0.1",
+  "currentVersionReleaseDate": "2026-11-08T12:56:56Z",
   "releaseDate": "2025-11-13T08:00:00Z",
   "artistId": 1849121672,
   "artistName": "Ceos Consulting",
@@ -218,8 +218,13 @@
       "version": "1.0",
       "releaseNotes": "",
       "seenAt": "2025-11-14T02:09:36Z"
+    },
+    {
+      "version": "1.0.1",
+      "releaseNotes": "- bug fix\n- image preview\n- records and wins\n- gallery to replay the finished puzzles",
+      "seenAt": "2026-11-08T12:56:56Z"
     }
   ],
-  "updatedAt": "2026-11-07T13:48:34.134Z",
+  "updatedAt": "2026-11-08T14:09:37.905Z",
   "isOwnApp": false
 }
