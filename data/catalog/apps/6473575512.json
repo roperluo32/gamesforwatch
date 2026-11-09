@@ -33,7 +33,7 @@
         "游戏",
         "娱乐",
         "益智解谜",
-        "家庭聚会"
+        "桌面"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -51,7 +51,7 @@
         "ゲーム",
         "エンターテインメント",
         "パズル",
-        "ファミリー"
+        "ボード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -69,7 +69,7 @@
         "Spiele",
         "Unterhaltung",
         "Puzzle",
-        "Familie"
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/fc/d4/53fcd44c-4964-950e-8d6c-075957a5a2f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/50/9b/c9509b7d-580d-da3c-9c0c-7d124bfad1ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 3,
   "userRatingCount": 2,
   "price": 0,
   "fileSizeBytes": "151465984",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.5.0",
-  "currentVersionReleaseDate": "2026-10-10T16:23:30Z",
+  "version": "2.5.1",
+  "currentVersionReleaseDate": "2026-11-08T22:30:54Z",
   "releaseDate": "2023-12-01T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -417,8 +417,13 @@
       "version": "2.5.0",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-10-10T16:23:30Z"
+    },
+    {
+      "version": "2.5.1",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-11-08T22:30:54Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:23:30.988Z",
+  "updatedAt": "2026-11-09T16:05:54.904Z",
   "isOwnApp": false
 }

@@ -9,7 +9,7 @@
       "description": "**SAVE ME! — A Tiny Puzzle Adventure!**\n\nOne terrified office worker. One hundred dangerous situations. Only you can save him!\n\nPull the pins in the right order to guide our unlucky hero through a world of lava, monsters, falling rocks, explosions and ridiculous disasters.\n\nEvery puzzle is a new challenge. Think carefully, choose which pin to pull first, and watch the chaos unfold!\n\n**100 PUZZLES TO SOLVE**\n\nWork your way through 100 carefully designed levels, from simple rescues to challenging multi-step puzzles.\n\n**PULL THE RIGHT PIN!**\n\nOne tap can change everything. Release water, redirect lava, drop rocks, defeat monsters and open the path to safety.\n\n**WATCH THE CHAOS UNFOLD**\n\nEnjoy colorful cartoon graphics, animated environments, funny characters and satisfying interactions.\n\n**BUILT FOR APPLE WATCH**\n\nDesigned specifically for your wrist, with simple touch controls, short puzzles and quick retries.\n\n**NO PRESSURE. JUST PUZZLES.**\n\nNo timers, no lives, no advertisements and no in-app purchases. Take your time and solve each rescue at your own pace.\n\nCan you survive all 100 disasters?\n\n**SAVE ME!**",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/us/app/save-me/id6820382663?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "Free",
       "sellerName": "Daniel Beer",
       "genres": [
         "Games",
@@ -26,7 +26,7 @@
       "description": "**SAVE ME! — A Tiny Puzzle Adventure!**\n\nOne terrified office worker. One hundred dangerous situations. Only you can save him!\n\nPull the pins in the right order to guide our unlucky hero through a world of lava, monsters, falling rocks, explosions and ridiculous disasters.\n\nEvery puzzle is a new challenge. Think carefully, choose which pin to pull first, and watch the chaos unfold!\n\n**100 PUZZLES TO SOLVE**\n\nWork your way through 100 carefully designed levels, from simple rescues to challenging multi-step puzzles.\n\n**PULL THE RIGHT PIN!**\n\nOne tap can change everything. Release water, redirect lava, drop rocks, defeat monsters and open the path to safety.\n\n**WATCH THE CHAOS UNFOLD**\n\nEnjoy colorful cartoon graphics, animated environments, funny characters and satisfying interactions.\n\n**BUILT FOR APPLE WATCH**\n\nDesigned specifically for your wrist, with simple touch controls, short puzzles and quick retries.\n\n**NO PRESSURE. JUST PUZZLES.**\n\nNo timers, no lives, no advertisements and no in-app purchases. Take your time and solve each rescue at your own pace.\n\nCan you survive all 100 disasters?\n\n**SAVE ME!**",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/jp/app/save-me/id6820382663?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "無料",
       "sellerName": "Daniel Beer",
       "genres": [
         "ゲーム",
@@ -37,12 +37,29 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "Save Me!",
+      "description": "**SAVE ME! — A Tiny Puzzle Adventure!**\n\nOne terrified office worker. One hundred dangerous situations. Only you can save him!\n\nPull the pins in the right order to guide our unlucky hero through a world of lava, monsters, falling rocks, explosions and ridiculous disasters.\n\nEvery puzzle is a new challenge. Think carefully, choose which pin to pull first, and watch the chaos unfold!\n\n**100 PUZZLES TO SOLVE**\n\nWork your way through 100 carefully designed levels, from simple rescues to challenging multi-step puzzles.\n\n**PULL THE RIGHT PIN!**\n\nOne tap can change everything. Release water, redirect lava, drop rocks, defeat monsters and open the path to safety.\n\n**WATCH THE CHAOS UNFOLD**\n\nEnjoy colorful cartoon graphics, animated environments, funny characters and satisfying interactions.\n\n**BUILT FOR APPLE WATCH**\n\nDesigned specifically for your wrist, with simple touch controls, short puzzles and quick retries.\n\n**NO PRESSURE. JUST PUZZLES.**\n\nNo timers, no lives, no advertisements and no in-app purchases. Take your time and solve each rescue at your own pace.\n\nCan you survive all 100 disasters?\n\n**SAVE ME!**",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/cn/app/save-me/id6820382663?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "游戏",
+        "益智解谜",
+        "休闲"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d9/6d/a1d96d07-fb67-38a2-474a-96b4ab98d7f5/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 0,
   "fileSizeBytes": "4447232",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.6",
@@ -202,6 +219,6 @@
       "seenAt": "2026-10-09T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:53:34.008Z",
+  "updatedAt": "2026-11-09T16:34:14.474Z",
   "isOwnApp": false
 }

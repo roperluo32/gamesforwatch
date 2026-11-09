@@ -255,6 +255,9 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/c8/b0/47c8b085-1f1f-ce53-a195-5e0964ca2538/_U7f16_U7ec4_5.jpg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/0e/e5/e50ee559-496f-2e5b-7831-a07667538cd8/en1.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/fe/53/ccfe5310-0d1c-184d-df90-efb73281e739/en2.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/0e/e5/e50ee559-496f-2e5b-7831-a07667538cd8/en1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/fe/53/ccfe5310-0d1c-184d-df90-efb73281e739/en2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/c8/b0/47c8b085-1f1f-ce53-a195-5e0964ca2538/_U7f16_U7ec4_5.jpg/360x480bb.jpg",
@@ -265,10 +268,7 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/5f/9a/c55f9ab8-96dd-dbac-753a-53816fc9f9d4/cna2_U5907_U4efd.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/f8/c0/0af8c091-b776-048d-1bb0-52a1c241eb18/cna2_U5907_U4efd_2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/29/81/8a298135-ea13-b156-a4cc-e9de82fb1c4e/cna2.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/8e/6a/978e6abb-6bc4-58d7-e730-e1d3ef8da3e9/ipad.jpg/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/c8/b0/47c8b085-1f1f-ce53-a195-5e0964ca2538/_U7f16_U7ec4_5.jpg/2064x2752bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/0e/e5/e50ee559-496f-2e5b-7831-a07667538cd8/en1.png/1320x2868bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/fe/53/ccfe5310-0d1c-184d-df90-efb73281e739/en2.png/1320x2868bb.png"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/8e/6a/978e6abb-6bc4-58d7-e730-e1d3ef8da3e9/ipad.jpg/360x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/0b/cc/3c0bcc94-4d63-bd85-4193-10a544594609/incoming-4AA7DCEE-42E1-46AC-A2DF-DBF9FF92A3B9.png/410x502bb.png",
@@ -408,6 +408,6 @@
       "seenAt": "2026-09-10T12:46:14Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:55:24.027Z",
+  "updatedAt": "2026-11-09T16:35:58.572Z",
   "isOwnApp": false
 }

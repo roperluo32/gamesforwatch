@@ -1,39 +1,39 @@
 {
   "trackId": "6744591191",
   "bundleId": "com.mw.gemJam",
-  "slug": "block-puzzle-color-gems-jam",
-  "path": "/apps/6744591191-block-puzzle-color-gems-jam/",
+  "slug": "block-puzzle-color-brick-jam",
+  "path": "/apps/6744591191-block-puzzle-color-brick-jam/",
   "locales": {
     "en": {
-      "trackName": "Block Puzzle - Color Gems Jam",
+      "trackName": "Block Puzzle - Color Brick Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
       "releaseNotes": "- Optimized for new OS.",
-      "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-color-brick-jam/id6744591191?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Diem Le",
       "genres": [
         "Games",
         "Entertainment",
         "Puzzle",
-        "Casual"
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Unblock Bricks, Match Doors"
+      "subtitle": "Twist, Slide & Escape Puzzle"
     },
     "ja": {
-      "trackName": "Block Puzzle - Color Gems Jam",
+      "trackName": "Block Puzzle - Color Brick Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
       "releaseNotes": "- Optimized for new OS.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-color-brick-jam/id6744591191?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Diem Le",
       "genres": [
         "ゲーム",
         "エンターテインメント",
         "パズル",
-        "カジュアル"
+        "ボード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -41,17 +41,17 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Block Puzzle - Color Gems Jam",
+      "trackName": "Block Puzzle - Color Brick Jam",
       "description": "Puzzle Blocks JAM — NO TIMER. NO RUSH. JUST FUN.\n - 1,000+ LEVELS to explore\n - Relaxing gameplay — play at your own pace\n - Train your logic & planning skills\n - Satisfying color-matching mechanics\n - No time pressure — ever\n\nCan you slide every block through the right gate?",
       "releaseNotes": "- Optimized for new OS.",
-      "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-color-gems-jam/id6744591191?uo=4",
+      "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-color-brick-jam/id6744591191?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Diem Le",
       "genres": [
         "Spiele",
         "Unterhaltung",
         "Puzzle",
-        "Gelegenheits­spiele"
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/fb/72/d0fb7220-71ef-90fc-0517-462c078ff281/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4a/79/df4a79de-99f4-7931-b174-b883d564e881/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.68182,
   "userRatingCount": 22,
   "price": 0,
-  "fileSizeBytes": "83877888",
+  "fileSizeBytes": "86548480",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.3.1",
-  "currentVersionReleaseDate": "2026-10-15T20:55:00Z",
+  "version": "2.4.0",
+  "currentVersionReleaseDate": "2026-11-08T22:59:50Z",
   "releaseDate": "2025-04-14T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -367,8 +367,13 @@
       "version": "2.3.1",
       "releaseNotes": "- Optimized for new OS.",
       "seenAt": "2026-10-15T20:55:00Z"
+    },
+    {
+      "version": "2.4.0",
+      "releaseNotes": "- Optimized for new OS.",
+      "seenAt": "2026-11-08T22:59:50Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:17:38.978Z",
+  "updatedAt": "2026-11-09T16:00:25.453Z",
   "isOwnApp": false
 }

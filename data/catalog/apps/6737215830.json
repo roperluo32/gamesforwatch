@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Improved stability and added Halloween theme for Fruits Merge",
+      "releaseNotes": "Improved stability.",
       "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "$2.99",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Improved stability and added Halloween theme for Fruits Merge",
+      "releaseNotes": "Improved stability.",
       "trackViewUrl": "https://apps.apple.com/jp/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "¥500",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Block puzzle pro Gem for watch",
       "description": "Release all your stresses in this world of brain-teasing fun with this app packed full of puzzles! From logic challenges to color riddles, this app offers a wide variety of gameplay designed to sharpen your mind and keep you entertained. Perfect for puzzle enthusiasts of all ages, it’s your go-to companion for endless hours of engaging joy.\n\nThe game can be played on phone, tablet or smartwatch. No ads, only fun.",
-      "releaseNotes": "Improved stability and added Halloween theme for Fruits Merge",
+      "releaseNotes": "Improved stability.",
       "trackViewUrl": "https://apps.apple.com/de/app/block-puzzle-pro-gem-for-watch/id6737215830?uo=4",
       "formattedPrice": "2,99 €",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/3e/44/a13e44a3-3636-61d3-0584-9c3c853a6a62/proAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/95/b4/6295b4a2-d8ed-e2c0-8c3f-b956658f94b6/proAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 2.99,
   "fileSizeBytes": "180933632",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.3",
-  "version": "1.35",
-  "currentVersionReleaseDate": "2026-10-27T21:42:33Z",
+  "version": "1.37",
+  "currentVersionReleaseDate": "2026-11-08T22:37:40Z",
   "releaseDate": "2024-11-07T08:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -367,8 +367,13 @@
       "version": "1.35",
       "releaseNotes": "Improved stability and added Halloween theme for Fruits Merge",
       "seenAt": "2026-10-27T21:42:33Z"
+    },
+    {
+      "version": "1.37",
+      "releaseNotes": "Improved stability.",
+      "seenAt": "2026-11-08T22:37:40Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:49:07.021Z",
+  "updatedAt": "2026-11-09T16:00:43.281Z",
   "isOwnApp": false
 }

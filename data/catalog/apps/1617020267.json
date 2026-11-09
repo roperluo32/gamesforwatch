@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fc/6d/1dfc6d1a-bef6-4430-8bad-b15945b1d19f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.83333,
-  "userRatingCount": 18,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/31/e1/2531e103-fd97-e34d-3528-3f29b0b7fe68/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.63157,
+  "userRatingCount": 19,
   "price": 0,
-  "fileSizeBytes": "71920640",
+  "fileSizeBytes": "76955648",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.1.1",
-  "currentVersionReleaseDate": "2026-09-01T21:48:52Z",
+  "version": "3.2.0",
+  "currentVersionReleaseDate": "2026-11-08T23:17:49Z",
   "releaseDate": "2022-03-31T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -209,6 +209,27 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/41/4a/40414ab0-e404-b5a0-e5c8-3280dda39e50/91f43474-4c6e-4565-b234-01ba5b6e5260_ipad_3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7c/42/107c4262-631f-4391-e389-9a2f95c7ef4c/ca583f51-7b48-4623-9ba8-2c3758505823_ipad_1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b5/c5/6eb5c591-d361-1539-4772-760bee890c29/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/94/b7/fc94b79f-5882-dec4-5b4a-befc049c07f1/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/79/27/1f7927b1-9dc8-1832-0dcf-07a086887ce4/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/1f/8e/741f8e33-5326-d786-9347-31fc35ed2d76/ipad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/5f/02/5c5f029e-125d-87bc-d328-3fa20fe7ce8b/097e968e-1b23-4de7-b45c-32406c4bdecf_ip6_3.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/f8/c8/07f8c816-f6c5-06d8-d698-eecae305fd4a/f4f6c78f-2c11-4d49-9e9b-298f75101f1e_ip6_1.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/a4/fe/cda4fee5-c237-a7a1-eb91-a70afcf2fcfe/dd229f0f-6e3f-4310-8d9a-a29d338c830f_ip6_2.png/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/1b/2c/041b2c32-1604-a62c-cc97-b4ca47e14005/ip1.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/3e/61/5a3e61fb-5798-e47e-a32f-67068a91510b/ip2.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/b8/37/2eb837c6-b81d-6339-b544-634f22d36677/ip3.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/a9/7c/27a97c94-25a5-e9c0-2452-5093e4e0ac2c/7892a192-905e-45d5-b1da-85106561e1c3_ipxs_3.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/51/ec/d051ecff-109a-f5fb-a366-b48c20c602e3/709df971-b92c-4160-bcba-356899c0f715_ipxs_1.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/b5/82/52b582be-4a15-80f8-e421-f680cd6ce3e5/6d2b5904-3f03-40f2-966b-d6dab0a31f34_ipxs_2.png/1290x2796bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/5f/02/5c5f029e-125d-87bc-d328-3fa20fe7ce8b/097e968e-1b23-4de7-b45c-32406c4bdecf_ip6_3.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/f8/c8/07f8c816-f6c5-06d8-d698-eecae305fd4a/f4f6c78f-2c11-4d49-9e9b-298f75101f1e_ip6_1.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/a4/fe/cda4fee5-c237-a7a1-eb91-a70afcf2fcfe/dd229f0f-6e3f-4310-8d9a-a29d338c830f_ip6_2.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/41/4a/40414ab0-e404-b5a0-e5c8-3280dda39e50/91f43474-4c6e-4565-b234-01ba5b6e5260_ipad_3.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7c/42/107c4262-631f-4391-e389-9a2f95c7ef4c/ca583f51-7b48-4623-9ba8-2c3758505823_ipad_1.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b5/c5/6eb5c591-d361-1539-4772-760bee890c29/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/73/0b/79730b4f-6264-d8e4-153c-4374b4e5e37a/097e968e-1b23-4de7-b45c-32406c4bdecf_ip6_3.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/f4/80/def48005-b012-d19f-94d3-06edcaf4ab7b/f4f6c78f-2c11-4d49-9e9b-298f75101f1e_ip6_1.png/392x696bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/46/ce/c946cebe-613b-255e-6f8b-74239e054b58/dd229f0f-6e3f-4310-8d9a-a29d338c830f_ip6_2.png/392x696bb.png",
@@ -301,6 +322,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/38/ce/5338cee7-d4ac-bd34-cc36-602e6b6e5a32/3df2aa01-69f1-40da-ad62-4dc21cccb675_ipad_2.png/576x768bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/34/a3/ef34a3af-f85a-0786-1bac-df85947ad621/9c064bdb-0136-434f-84a7-40091cf219ac_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.38.47.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/b3/bf/52b3bf89-6c88-58af-6f4a-1aef8f897cb4/c365fc9a-06ed-45f6-8241-94b0c1c4e309_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.36.31.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/29/bb/7f29bb05-8bf3-3ecd-ad59-6c39438b3621/55ab3ea0-73e3-4baf-b239-047e0212b50f_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.35.59.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/dd/7c/5add7c06-ed62-b4b9-1c50-0af9e690ee5c/9c064bdb-0136-434f-84a7-40091cf219ac_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.38.47.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ea/c8/16eac8cd-924d-a6a2-0590-6638444702ce/c365fc9a-06ed-45f6-8241-94b0c1c4e309_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.36.31.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/00/62/85006208-334f-2a3a-292f-66878cb2db70/55ab3ea0-73e3-4baf-b239-047e0212b50f_Simulator_Screen_Shot_-_Apple_Watch_Ultra__U002849mm_U0029_-_2022-12-16_at_10.35.59.png/410x502bb.png",
@@ -449,8 +473,13 @@
       "version": "3.1.1",
       "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
       "seenAt": "2026-09-01T21:48:52Z"
+    },
+    {
+      "version": "3.2.0",
+      "releaseNotes": "Refresh your puzzle experience with new themes, refreshed graphics.",
+      "seenAt": "2026-11-08T23:17:49Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:16:29.798Z",
+  "updatedAt": "2026-11-09T15:59:55.812Z",
   "isOwnApp": false
 }
