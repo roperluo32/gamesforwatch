@@ -15,7 +15,7 @@
         "Games",
         "Entertainment",
         "Puzzle",
-        "Family"
+        "Board"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -424,6 +424,6 @@
       "seenAt": "2026-11-08T22:30:54Z"
     }
   ],
-  "updatedAt": "2026-11-09T16:05:54.904Z",
+  "updatedAt": "2026-11-10T14:59:51.291Z",
   "isOwnApp": false
 }

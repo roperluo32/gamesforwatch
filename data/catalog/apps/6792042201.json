@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Pippet: Watch Pet Game",
       "description": "A tiny pet lives on your wrist.\n\nPippet is a virtual pet made for Apple Watch — not a phone game squeezed onto a\nsmall screen. Glance at your wrist and your pet is there, doing its own thing.\n\nSTROKE IT WITH THE DIGITAL CROWN\nTurn the crown slowly and feel every gentle tick in your wrist — like a purr you\ncan actually feel. Spin fast and it giggles.\n\nYOUR STEPS ARE ITS FOOD\nPippet feeds on your real activity. A good walk keeps your pet full and happy.\nOr lift a treat to its mouth with the crown and watch it chomp.\n\nALWAYS IN VIEW\nPut your pet on your watch face. It changes expression through the day all on\nits own — hungry at noon, curled up asleep at night.\n\nIT GROWS WITH YOU\nHatch a mystery egg, name your pet, and watch it grow through four life stages.\nThree species to discover, each with its own little plant crown.\n\nKIND BY DESIGN\nYour pet never dies. Neglect it and it just naps until you come back — one touch\nwakes it up. No guilt, no punishment. No subscription, no ads, no paid revivals.\nWhen you're ready for a new friend, your old one rests safely in your codex.",
-      "releaseNotes": "• Send your pet to stay with a friend for a day, by link. They play together, and your friend sends back a note about how it went.\n• Have a guest? Stroke it, share your treats and find its favourite — and watch the two play ball, dance, touch noses and nap side by side.\n• A game room with two new games: Pairs (turn the cards and find the matching treats and treasures, on iPhone and Apple Watch) and Bubbles on iPhone and Apple Watch — aim (with the Digital Crown on the watch), bounce off the walls and pop three of a kind before the bubbles reach your pet.",
+      "releaseNotes": "Daily goals, with presents!\n\n• Three little goals every day: walk, close your Move ring, work out. They follow your usual day, so they're always within reach. No notifications, no penalties.\n• Every goal done brings your pet a present to unwrap. All three bring a big one with something new inside.\n• New things to wear: sunglasses, a sport cap, a bobble hat and a big bow.\n• Your pet's own toys: a teddy, a drum, a kite, a bubble wand and a spinning top. Your pet plays with them on its own, or hand one over any time.\n• New craft materials (yarn, ribbon, buttons, fabric, sparkle) for the workshop: make the toys and outfits yourself.\n• Now in Japanese and Traditional Chinese.",
       "trackViewUrl": "https://apps.apple.com/us/app/pippet-watch-pet-game/id6792042201?uo=4",
       "formattedPrice": "Free",
       "sellerName": "VLADIMIR GONCHARUK",
@@ -18,17 +18,19 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "KK",
         "RU",
+        "ZH",
         "ZH"
       ],
       "subtitle": "A tiny pet on your wrist"
     },
     "zh": {
-      "trackName": "Pippet: Watch Pet Game",
-      "description": "A tiny pet lives on your wrist.\n\nPippet is a virtual pet made for Apple Watch — not a phone game squeezed onto a\nsmall screen. Glance at your wrist and your pet is there, doing its own thing.\n\nSTROKE IT WITH THE DIGITAL CROWN\nTurn the crown slowly and feel every gentle tick in your wrist — like a purr you\ncan actually feel. Spin fast and it giggles.\n\nYOUR STEPS ARE ITS FOOD\nPippet feeds on your real activity. A good walk keeps your pet full and happy.\nOr lift a treat to its mouth with the crown and watch it chomp.\n\nALWAYS IN VIEW\nPut your pet on your watch face. It changes expression through the day all on\nits own — hungry at noon, curled up asleep at night.\n\nIT GROWS WITH YOU\nHatch a mystery egg, name your pet, and watch it grow through four life stages.\nThree species to discover, each with its own little plant crown.\n\nKIND BY DESIGN\nYour pet never dies. Neglect it and it just naps until you come back — one touch\nwakes it up. No guilt, no punishment. No subscription, no ads, no paid revivals.\nWhen you're ready for a new friend, your old one rests safely in your codex.",
-      "releaseNotes": "• Send your pet to stay with a friend for a day, by link. They play together, and your friend sends back a note about how it went.\n• Have a guest? Stroke it, share your treats and find its favourite — and watch the two play ball, dance, touch noses and nap side by side.\n• A game room with two new games: Pairs (turn the cards and find the matching treats and treasures, on iPhone and Apple Watch) and Bubbles on iPhone and Apple Watch — aim (with the Digital Crown on the watch), bounce off the walls and pop three of a kind before the bubbles reach your pet.",
-      "trackViewUrl": "https://apps.apple.com/cn/app/pippet-watch-pet-game/id6792042201?uo=4",
+      "trackName": "Pippet：手表上的小宠物",
+      "description": "一只用你的步数养大的像素小宠物。\n\nPippet 是一只温柔的虚拟宠物，你散步、运动，它就吃得饱饱的。只有 iPhone 也能玩；有 Apple Watch 的话，它就一直待在你的手腕上。\n\n步数就是它的食物\n走路、锻炼、合上活动圆环，都会让宠物吃饱、变开心。它还会从散步中带回小宝物。\n\n每日目标和礼物\n步数、活动圆环、锻炼三个目标，会配合你平常的节奏。完成就有礼物；三个都完成，还有装着新玩具或新衣服的大礼物！没有通知，也没有惩罚。\n\n摸摸它、陪它玩\n在 iPhone 上用手指、在 Apple Watch 上用数码表冠抚摸它。泰迪熊、小鼓、风筝、泡泡棒、陀螺——它会自己玩玩具。小游戏有“接零食”“配对”和“泡泡”。\n\n每只都有自己的性格\n贪睡、爱玩、吃货、害羞、好奇——每只宠物都有自己最爱和不爱的零食。\n\n去朋友家做客\n发一个链接，宠物就会去朋友家玩一天，两只还会一起玩球、跳舞。\n\n温柔的设计\n宠物永远不会死。忘了照顾它，它只会睡着等你回来。没有订阅，没有广告。数据保存在你的 iCloud 里。",
+      "releaseNotes": "每日目标和礼物！\n\n• 步数、活动圆环、锻炼三个每日目标，配合你平常的节奏，一定做得到。没有通知，也没有惩罚。\n• 每完成一个目标就有礼物；三个都完成，还有装着新东西的大礼物。\n• 新衣服：太阳镜、运动帽、毛线球帽、大蝴蝶结。\n• 宠物的玩具：泰迪熊、小鼓、风筝、泡泡棒、陀螺，它会自己玩。\n• 手工坊新材料（毛线、缎带、纽扣、布料、亮片），可以自己做玩具和衣服。\n• 有 Apple Watch 的话，iPhone 上也能看到今日目标。\n• 新增日语和繁体中文。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/pippet-%E6%89%8B%E8%A1%A8%E4%B8%8A%E7%9A%84%E5%B0%8F%E5%AE%A0%E7%89%A9/id6792042201?uo=4",
       "formattedPrice": "免费",
       "sellerName": "VLADIMIR GONCHARUK",
       "genres": [
@@ -38,17 +40,19 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "KK",
         "RU",
+        "ZH",
         "ZH"
       ],
       "subtitle": ""
     },
     "ja": {
-      "trackName": "Pippet: Watch Pet Game",
-      "description": "A tiny pet lives on your wrist.\n\nPippet is a virtual pet made for Apple Watch — not a phone game squeezed onto a\nsmall screen. Glance at your wrist and your pet is there, doing its own thing.\n\nSTROKE IT WITH THE DIGITAL CROWN\nTurn the crown slowly and feel every gentle tick in your wrist — like a purr you\ncan actually feel. Spin fast and it giggles.\n\nYOUR STEPS ARE ITS FOOD\nPippet feeds on your real activity. A good walk keeps your pet full and happy.\nOr lift a treat to its mouth with the crown and watch it chomp.\n\nALWAYS IN VIEW\nPut your pet on your watch face. It changes expression through the day all on\nits own — hungry at noon, curled up asleep at night.\n\nIT GROWS WITH YOU\nHatch a mystery egg, name your pet, and watch it grow through four life stages.\nThree species to discover, each with its own little plant crown.\n\nKIND BY DESIGN\nYour pet never dies. Neglect it and it just naps until you come back — one touch\nwakes it up. No guilt, no punishment. No subscription, no ads, no paid revivals.\nWhen you're ready for a new friend, your old one rests safely in your codex.",
-      "releaseNotes": "• Send your pet to stay with a friend for a day, by link. They play together, and your friend sends back a note about how it went.\n• Have a guest? Stroke it, share your treats and find its favourite — and watch the two play ball, dance, touch noses and nap side by side.\n• A game room with two new games: Pairs (turn the cards and find the matching treats and treasures, on iPhone and Apple Watch) and Bubbles on iPhone and Apple Watch — aim (with the Digital Crown on the watch), bounce off the walls and pop three of a kind before the bubbles reach your pet.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/pippet-watch-pet-game/id6792042201?uo=4",
+      "trackName": "Pippet：歩いて育てるペット",
+      "description": "きみの歩数で育つ、ちいさなドット絵のペット。\n\nPippetはお散歩やワークアウトでおなかいっぱいになる、やさしいバーチャルペット。iPhoneだけでも遊べて、Apple Watchがあれば手首の上でいつもいっしょ。\n\n歩数がごはんになる\n歩いたり、ワークアウトしたり、アクティビティリングを完成させると、ペットはおなかいっぱいでごきげんに。お散歩から小さなたからものを持ち帰ってくることも。\n\n毎日の目標とプレゼント\n歩数・ムーブリング・ワークアウトの3つの目標は、きみのふだんのペースに合わせて決まります。達成するとプレゼント。3つそろえば、新しいおもちゃや服が入った大きなプレゼント！通知もペナルティもありません。\n\nなでて、あそんで\niPhoneでは指で、Apple WatchではDigital Crownでなでなで。くまのぬいぐるみ、太鼓、たこ、シャボン玉、こま — おもちゃで自分からあそびます。ミニゲームは「おやつキャッチ」「ペア」「バブル」。\n\n一匹一匹にちがう性格\nねぼすけ、あそび好き、くいしんぼう、はずかしがり、好奇心旺盛。好きなおやつも、にがてなおやつも、それぞれちがいます。\n\n友だちのおうちへおでかけ\nリンクを送ると、ペットが友だちのおうちに1日遊びにいきます。2匹でボールあそびやダンスも。\n\nやさしい設計\nペットは死にません。お世話を忘れても、眠ってきみを待っているだけ。サブスクなし、広告なし。データはきみのiCloudに保存されます。",
+      "releaseNotes": "毎日の目標とプレゼント！\n\n• 歩数・ムーブリング・ワークアウトの3つの目標。きみのふだんのペースに合わせるので、いつでも手が届きます。通知もペナルティもありません。\n• 目標を達成するとプレゼント。3つそろうと、新しいものが入った大きなプレゼント。\n• 新しい服：サングラス、スポーツキャップ、ポンポンつきニット帽、大きなリボン。\n• ペットのおもちゃ：くまのぬいぐるみ、太鼓、たこ、シャボン玉、こま。自分からあそびます。\n• 工房の新しい材料（毛糸、リボン、ボタン、布、キラキラ）で、おもちゃや服を自分で作れます。\n• 日本語と繁體中文に対応しました。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/pippet-%E6%AD%A9%E3%81%84%E3%81%A6%E8%82%B2%E3%81%A6%E3%82%8B%E3%83%9A%E3%83%83%E3%83%88/id6792042201?uo=4",
       "formattedPrice": "無料",
       "sellerName": "VLADIMIR GONCHARUK",
       "genres": [
@@ -58,8 +62,10 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "KK",
         "RU",
+        "ZH",
         "ZH"
       ],
       "subtitle": ""
@@ -67,7 +73,7 @@
     "de": {
       "trackName": "Pippet: Watch Pet Game",
       "description": "A tiny pet lives on your wrist.\n\nPippet is a virtual pet made for Apple Watch — not a phone game squeezed onto a\nsmall screen. Glance at your wrist and your pet is there, doing its own thing.\n\nSTROKE IT WITH THE DIGITAL CROWN\nTurn the crown slowly and feel every gentle tick in your wrist — like a purr you\ncan actually feel. Spin fast and it giggles.\n\nYOUR STEPS ARE ITS FOOD\nPippet feeds on your real activity. A good walk keeps your pet full and happy.\nOr lift a treat to its mouth with the crown and watch it chomp.\n\nALWAYS IN VIEW\nPut your pet on your watch face. It changes expression through the day all on\nits own — hungry at noon, curled up asleep at night.\n\nIT GROWS WITH YOU\nHatch a mystery egg, name your pet, and watch it grow through four life stages.\nThree species to discover, each with its own little plant crown.\n\nKIND BY DESIGN\nYour pet never dies. Neglect it and it just naps until you come back — one touch\nwakes it up. No guilt, no punishment. No subscription, no ads, no paid revivals.\nWhen you're ready for a new friend, your old one rests safely in your codex.",
-      "releaseNotes": "• Send your pet to stay with a friend for a day, by link. They play together, and your friend sends back a note about how it went.\n• Have a guest? Stroke it, share your treats and find its favourite — and watch the two play ball, dance, touch noses and nap side by side.\n• A game room with two new games: Pairs (turn the cards and find the matching treats and treasures, on iPhone and Apple Watch) and Bubbles on iPhone and Apple Watch — aim (with the Digital Crown on the watch), bounce off the walls and pop three of a kind before the bubbles reach your pet.",
+      "releaseNotes": "Daily goals, with presents!\n\n• Three little goals every day: walk, close your Move ring, work out. They follow your usual day, so they're always within reach. No notifications, no penalties.\n• Every goal done brings your pet a present to unwrap. All three bring a big one with something new inside.\n• New things to wear: sunglasses, a sport cap, a bobble hat and a big bow.\n• Your pet's own toys: a teddy, a drum, a kite, a bubble wand and a spinning top. Your pet plays with them on its own, or hand one over any time.\n• New craft materials (yarn, ribbon, buttons, fabric, sparkle) for the workshop: make the toys and outfits yourself.\n• Now in Japanese and Traditional Chinese.",
       "trackViewUrl": "https://apps.apple.com/de/app/pippet-watch-pet-game/id6792042201?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "VLADIMIR GONCHARUK",
@@ -78,22 +84,24 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "KK",
         "RU",
+        "ZH",
         "ZH"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/70/a2/2170a227-140a-6252-74b1-fb7ac9f5b1bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/75/09/d8750908-e3fc-7a97-5582-7783c628edf6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "7117824",
+  "fileSizeBytes": "8309760",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "1.5",
-  "currentVersionReleaseDate": "2026-11-01T09:15:14Z",
+  "version": "1.6",
+  "currentVersionReleaseDate": "2026-11-10T10:43:05Z",
   "releaseDate": "2026-10-30T07:00:00Z",
   "artistId": 6789844568,
   "artistName": "VLADIMIR GONCHARUK",
@@ -235,6 +243,34 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/dd/1e/51dd1ec5-32a0-5f49-1a25-d4f51a0141e7/09_companion.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/d5/63/45d563dc-d161-7e0b-376a-91c8083cba62/01_pet.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/e2/93/7ee2931d-d9e4-6eb5-6359-4af4a82b18f5/02_species.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/56/7e/c8567e08-8381-cb11-f620-be0bb824009b/10_visits.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/22/fc/9c22fc0b-8a91-95ac-171e-5b2aef7b4eb4/11_bubbles.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/fa/f3/fcfaf30b-1c95-5217-281b-c9ba62894bbf/12_bubbles_watch.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/83/99/01839974-10ad-a459-6863-ea6ffe9c0575/09_companion.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/e0/47/12e047a6-8261-a423-b73b-938407d7f29b/02_steps_feed.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/02/57/b3025711-f020-b06a-4485-fd8750a38b07/08_games.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1d/18/3d1d18e2-84a8-c2c7-4184-dad13566436f/05_rare_hatch.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/cb/4c/97cb4c72-9b19-3f3d-c55e-81cbae124615/07_streaks.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/56/7e/c8567e08-8381-cb11-f620-be0bb824009b/10_visits.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/22/fc/9c22fc0b-8a91-95ac-171e-5b2aef7b4eb4/11_bubbles.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/83/99/01839974-10ad-a459-6863-ea6ffe9c0575/09_companion.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/e0/47/12e047a6-8261-a423-b73b-938407d7f29b/02_steps_feed.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/02/57/b3025711-f020-b06a-4485-fd8750a38b07/08_games.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1d/18/3d1d18e2-84a8-c2c7-4184-dad13566436f/05_rare_hatch.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/cb/4c/97cb4c72-9b19-3f3d-c55e-81cbae124615/07_streaks.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/dd/1e/51dd1ec5-32a0-5f49-1a25-d4f51a0141e7/09_companion.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/6d/7e/3b6d7e4d-8910-d538-5061-4f6adbd082e0/07_visits.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/a5/57/0ca557fa-4f85-63fc-d30b-bdb6e95947a0/06_bubbles.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/7c/f8/157cf860-d259-5071-b692-bc0cbff5096d/04_goals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/bc/da/acbcdae9-2466-d030-88f4-17091d32f78c/08_treasures.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/3d/be/8e3dbe5f-14d5-de95-2734-9752045307f9/05_presents.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/62/ed/e962ed60-b409-7d2c-ccaf-d3ad5282dd71/07_visits.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/45/88/ee458888-3735-d427-0872-98fc528657bd/06_bubbles.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/3d/a1/2c3da128-a418-328d-db4c-9a767aae7f4e/04_goals.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/5b/02/825b0247-224e-a5c5-5f8d-5fe5e853163d/08_treasures.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/80/e8/0380e84b-3060-896d-be95-5d8b9495c179/09_companion.png/2064x2752bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/ba/7b/26ba7b59-6ecb-7b7b-2abc-e919ccee3174/01_pet.png/1284x2778bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/e7/c2/bde7c2e7-2a55-6557-744e-58a5017426ba/02_species.png/1284x2778bb.png",
@@ -280,6 +316,14 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/36/3f/cc363f0b-16f1-e662-771e-3405103612bf/ipad13_companion.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/a6/1d/85a61d62-d1fc-6c0c-016d-ad918c0391bc/01_home.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/22/f1/4722f11c-5b0f-16cf-f972-e30c23630784/06_treasures.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/dd/bb/bfddbb29-53a0-417d-2eec-19b4ecc866c1/05_rare_hatch.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/27/ca/9927ca11-5503-6347-6fb2-446c9a4ff435/08_codex.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/f1/78/51f178bd-1a7c-8f48-bc8b-99264da22843/07_stats.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/fa/f3/fcfaf30b-1c95-5217-281b-c9ba62894bbf/12_bubbles_watch.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ca/80/46ca80d2-0430-867f-fb37-e9ccdb92e019/10_bubbles_watch.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/9f/9f/d59f9f3a-8b68-7d09-2141-4598014a238d/10_bubbles_watch.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/7a/57/097a575b-b5f4-c7ea-5a1d-8a04450fa6dd/01_home.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/77/d3/8677d3c2-3d6f-2cde-a0c5-3b80405a23fc/06_treasures.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/1a/cd/f31acdf9-0746-3b93-7d4e-38ed2593f727/05_rare_hatch.png/422x514bb.png",
@@ -331,8 +375,13 @@
       "version": "1.5",
       "releaseNotes": "• Send your pet to stay with a friend for a day, by link. They play together, and your friend sends back a note about how it went.\n• Have a guest? Stroke it, share your treats and find its favourite — and watch the two play ball, dance, touch noses and nap side by side.\n• A game room with two new games: Pairs (turn the cards and find the matching treats and treasures, on iPhone and Apple Watch) and Bubbles on iPhone and Apple Watch — aim (with the Digital Crown on the watch), bounce off the walls and pop three of a kind before the bubbles reach your pet.",
       "seenAt": "2026-11-01T09:15:14Z"
+    },
+    {
+      "version": "1.6",
+      "releaseNotes": "Daily goals, with presents!\n\n• Three little goals every day: walk, close your Move ring, work out. They follow your usual day, so they're always within reach. No notifications, no penalties.\n• Every goal done brings your pet a present to unwrap. All three bring a big one with something new inside.\n• New things to wear: sunglasses, a sport cap, a bobble hat and a big bow.\n• Your pet's own toys: a teddy, a drum, a kite, a bubble wand and a spinning top. Your pet plays with them on its own, or hand one over any time.\n• New craft materials (yarn, ribbon, buttons, fabric, sparkle) for the workshop: make the toys and outfits yourself.\n• Now in Japanese and Traditional Chinese.",
+      "seenAt": "2026-11-10T10:43:05Z"
     }
   ],
-  "updatedAt": "2026-11-09T16:05:09.304Z",
+  "updatedAt": "2026-11-10T14:58:50.091Z",
   "isOwnApp": false
 }
