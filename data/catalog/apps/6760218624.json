@@ -20,7 +20,7 @@
         "EN",
         "NB"
       ],
-      "subtitle": "Play online with friends or AI"
+      "subtitle": "Multiplayer with friends or AI"
     },
     "zh": {
       "trackName": "Olsen - Crazy Eights Card Game",
@@ -437,6 +437,6 @@
       "seenAt": "2026-10-29T19:18:25Z"
     }
   ],
-  "updatedAt": "2026-11-10T15:08:24.047Z",
+  "updatedAt": "2026-11-11T14:21:55.211Z",
   "isOwnApp": false
 }

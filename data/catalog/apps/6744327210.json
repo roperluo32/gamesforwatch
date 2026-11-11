@@ -1,14 +1,14 @@
 {
   "trackId": "6744327210",
   "bundleId": "com.dracoders.blockwatch",
-  "slug": "block-blast-for-watch",
-  "path": "/apps/6744327210-block-blast-for-watch/",
+  "slug": "puzzle-blaster-for-watch",
+  "path": "/apps/6744327210-puzzle-blaster-for-watch/",
   "locales": {
     "en": {
-      "trackName": "Block Blast for Watch",
+      "trackName": "Puzzle Blaster for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
-      "trackViewUrl": "https://apps.apple.com/us/app/block-blast-for-watch/id6744327210?uo=4",
+      "releaseNotes": "• Stability: fixed a bug that could make the game crash on Apple Watch.\n• New effects: cleared lines now light up with a sweep of light, sparks and a quick flash.\n• Score pops: see the points you earn pop up right where you place a piece.\n• Combos feel better: a little shake for combos and a bright flash when you clear several lines at once.\n• New record celebration: beat your best score and enjoy some confetti!\n• Better haptics: different taps for placing, clearing lines, combos and game over.\n• Smoother and lighter: faster graphics and lower battery use on Apple Watch.\n• Music now resumes correctly when you raise your wrist again.",
+      "trackViewUrl": "https://apps.apple.com/us/app/puzzle-blaster-for-watch/id6744327210?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Federico Bigliocca",
       "genres": [
@@ -23,10 +23,10 @@
       "subtitle": "no ads offline blockudoku game"
     },
     "ja": {
-      "trackName": "Block Blast for Watch",
+      "trackName": "Puzzle Blaster for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
-      "trackViewUrl": "https://apps.apple.com/jp/app/block-blast-for-watch/id6744327210?uo=4",
+      "releaseNotes": "• Stability: fixed a bug that could make the game crash on Apple Watch.\n• New effects: cleared lines now light up with a sweep of light, sparks and a quick flash.\n• Score pops: see the points you earn pop up right where you place a piece.\n• Combos feel better: a little shake for combos and a bright flash when you clear several lines at once.\n• New record celebration: beat your best score and enjoy some confetti!\n• Better haptics: different taps for placing, clearing lines, combos and game over.\n• Smoother and lighter: faster graphics and lower battery use on Apple Watch.\n• Music now resumes correctly when you raise your wrist again.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/puzzle-blaster-for-watch/id6744327210?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Federico Bigliocca",
       "genres": [
@@ -41,10 +41,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Block Blast for Watch",
+      "trackName": "Puzzle Blaster for Watch",
       "description": "Block Blast is the perfect way to relax and challenge yourself—right from your Apple Watch.\nChase high scores, improve with every round, and compete against yourself in a game that’s all about pure, personal progress.\nWhether you're on a train, in line, in an elevator, or anywhere you can’t (or don’t want to) use your iPhone, Block Blast is always ready.\nNo ads, no internet required—just smooth, uninterrupted gameplay.\nAlso available on Mac, so you can keep the challenge going on the big screen.",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
-      "trackViewUrl": "https://apps.apple.com/de/app/block-blast-for-watch/id6744327210?uo=4",
+      "releaseNotes": "• Stability: fixed a bug that could make the game crash on Apple Watch.\n• New effects: cleared lines now light up with a sweep of light, sparks and a quick flash.\n• Score pops: see the points you earn pop up right where you place a piece.\n• Combos feel better: a little shake for combos and a bright flash when you clear several lines at once.\n• New record celebration: beat your best score and enjoy some confetti!\n• Better haptics: different taps for placing, clearing lines, combos and game over.\n• Smoother and lighter: faster graphics and lower battery use on Apple Watch.\n• Music now resumes correctly when you raise your wrist again.",
+      "trackViewUrl": "https://apps.apple.com/de/app/puzzle-blaster-for-watch/id6744327210?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Federico Bigliocca",
       "genres": [
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/33/72/463372bd-8dc9-2d5e-4b45-4c808699adba/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/19/00/2b190044-062a-7496-bfd1-218b54f21a22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "13543424",
+  "fileSizeBytes": "13858816",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "1.1",
-  "currentVersionReleaseDate": "2025-04-24T21:23:20Z",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-11-11T00:24:10Z",
   "releaseDate": "2025-04-17T07:00:00Z",
   "artistId": 333198458,
   "artistName": "Dracoders",
@@ -256,8 +256,13 @@
       "version": "1.1",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- crash fixed on some devices",
       "seenAt": "2025-04-24T21:23:20Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "• Stability: fixed a bug that could make the game crash on Apple Watch.\n• New effects: cleared lines now light up with a sweep of light, sparks and a quick flash.\n• Score pops: see the points you earn pop up right where you place a piece.\n• Combos feel better: a little shake for combos and a bright flash when you clear several lines at once.\n• New record celebration: beat your best score and enjoy some confetti!\n• Better haptics: different taps for placing, clearing lines, combos and game over.\n• Smoother and lighter: faster graphics and lower battery use on Apple Watch.\n• Music now resumes correctly when you raise your wrist again.",
+      "seenAt": "2026-11-11T00:24:10Z"
     }
   ],
-  "updatedAt": "2026-11-10T14:54:46.384Z",
+  "updatedAt": "2026-11-11T14:08:54.252Z",
   "isOwnApp": false
 }

@@ -72,6 +72,29 @@
         "ZH"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "画地为牢-手表圈地游戏",
+      "description": "一款轻松有趣的休闲娱乐应用。玩家通过灵活操作不断扩大自己的区域,同时避开危险，完成关卡挑战。操作简单，节奏轻快，适合碎片时间游玩。",
+      "releaseNotes": "全新森林绘本界面，手机与手腕上的圈地冒险焕新！\n 首页焕新：森林背景、叶帽地鼠、木牌标题和金色开始按钮。\n• 游戏界面升级：草绿棋盘、奶黄边界和直观进度条，关卡目标更清晰。\n• 统一玩法说明、暂停与结算弹窗，优化小屏排版，提升 iPhone 文字与画面清晰度。\n• 完善 iPhone 与 Apple Watch 的 9 种语言适配，界面和图标简称随应用语言切换。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2-%E6%89%8B%E8%A1%A8%E5%9C%88%E5%9C%B0%E6%B8%B8%E6%88%8F/id6792192188?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "少雄 许",
+      "genres": [
+        "娱乐"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/73/b1/fc73b1fe-df87-a593-ca2e-0670648ca69a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
@@ -259,6 +282,6 @@
       "seenAt": "2026-10-30T19:29:09Z"
     }
   ],
-  "updatedAt": "2026-11-10T15:11:38.259Z",
+  "updatedAt": "2026-11-11T14:25:00.763Z",
   "isOwnApp": false
 }

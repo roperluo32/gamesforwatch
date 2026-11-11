@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Tessellate 360 - Watch Game",
-      "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "Dive into the mesmerizing world of tessellations! Your goal is simple but highly challenging: connect geometric figures of the same color to eliminate them and keep the ever-expanding mosaic from falling off the canvas.\n\nHow long can you survive this infinite puzzle?\n\nHOW TO PLAY:\n• Roll to rotate the figures and match colors.\n• Clear space to prevent the mosaic from reaching the limits of the canvas.\n• If the figures cross the edge, it's game over!\n\nAPPLE WATCH OPTIMIZED:\nPlay directly from your wrist! Tessellate 360 is fully compatible with Apple Watch. Simply turn the \"Digital Crown\" to seamlessly roll and match the shapes. It’s the perfect brain teaser for your daily commute or quick breaks.",
+      "releaseNotes": "- Updated dependencies\n- Solved bugs",
       "trackViewUrl": "https://apps.apple.com/us/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
@@ -24,8 +24,8 @@
     },
     "ja": {
       "trackName": "Tessellate 360 - Watch Game",
-      "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "Dive into the mesmerizing world of tessellations! Your goal is simple but highly challenging: connect geometric figures of the same color to eliminate them and keep the ever-expanding mosaic from falling off the canvas.\n\nHow long can you survive this infinite puzzle?\n\nHOW TO PLAY:\n• Roll to rotate the figures and match colors.\n• Clear space to prevent the mosaic from reaching the limits of the canvas.\n• If the figures cross the edge, it's game over!\n\nAPPLE WATCH OPTIMIZED:\nPlay directly from your wrist! Tessellate 360 is fully compatible with Apple Watch. Simply turn the \"Digital Crown\" to seamlessly roll and match the shapes. It’s the perfect brain teaser for your daily commute or quick breaks.",
+      "releaseNotes": "- Updated dependencies\n- Solved bugs",
       "trackViewUrl": "https://apps.apple.com/jp/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
@@ -42,8 +42,8 @@
     },
     "de": {
       "trackName": "Tessellate 360 - Watch Game",
-      "description": "Game based on the art of tessellation, completes a flat surface without spaces. The goal is to join figures of the same color to eliminate them and stretch the mosaic as much as possible. To join the figures, roll! If you leave the canvas, you lose. How much can you endure?\n\nThis game is compatible with the Apple Watch. Use the \"Digital Crown\" wheel to roll!",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
+      "description": "Dive into the mesmerizing world of tessellations! Your goal is simple but highly challenging: connect geometric figures of the same color to eliminate them and keep the ever-expanding mosaic from falling off the canvas.\n\nHow long can you survive this infinite puzzle?\n\nHOW TO PLAY:\n• Roll to rotate the figures and match colors.\n• Clear space to prevent the mosaic from reaching the limits of the canvas.\n• If the figures cross the edge, it's game over!\n\nAPPLE WATCH OPTIMIZED:\nPlay directly from your wrist! Tessellate 360 is fully compatible with Apple Watch. Simply turn the \"Digital Crown\" to seamlessly roll and match the shapes. It’s the perfect brain teaser for your daily commute or quick breaks.",
+      "releaseNotes": "- Updated dependencies\n- Solved bugs",
       "trackViewUrl": "https://apps.apple.com/de/app/tessellate-360-watch-game/id1489150406?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/5d/f4/fd5df426-c2ae-be51-744d-c240cf255758/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/66/b2/7d66b2af-5957-ccdb-f5fe-ce6e6953b9d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "11442176",
+  "fileSizeBytes": "2572288",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "12.0",
-  "version": "1.1.3",
-  "currentVersionReleaseDate": "2024-03-12T16:52:49Z",
+  "minimumOsVersion": "15.6",
+  "version": "1.1.4",
+  "currentVersionReleaseDate": "2026-11-10T20:08:49Z",
   "releaseDate": "2019-11-27T08:00:00Z",
   "artistId": 1382683382,
   "artistName": "Tocapp Games S.L.",
@@ -269,8 +269,13 @@
       "version": "1.1.3",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-03-12T16:52:49Z"
+    },
+    {
+      "version": "1.1.4",
+      "releaseNotes": "- Updated dependencies\n- Solved bugs",
+      "seenAt": "2026-11-10T20:08:49Z"
     }
   ],
-  "updatedAt": "2026-11-10T15:02:12.745Z",
+  "updatedAt": "2026-11-11T14:15:57.317Z",
   "isOwnApp": false
 }
