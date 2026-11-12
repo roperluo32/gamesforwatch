@@ -1,14 +1,14 @@
 {
   "trackId": "1490773813",
   "bundleId": "com.blue42.D20",
-  "slug": "roll-20",
-  "path": "/apps/1490773813-roll-20/",
+  "slug": "roll-20-watch-dice-roller",
+  "path": "/apps/1490773813-roll-20-watch-dice-roller/",
   "locales": {
     "en": {
-      "trackName": "Roll 20!",
-      "description": "Roll 20! is a dice roller made for Apple Watch. Raise your wrist, tap, and the dice tumble across the screen and land on your result. No phone, no table needed.\n\nDICE FOR EVERY GAME\nRoll a d4, d6, d8, d10, d12, d20 or d100. Perfect for Dungeons & Dragons, Pathfinder and any other tabletop role-playing game, board games and quick decisions.\n\n3D DICE\nReal 3D dice that tumble and land on your result. Prefer the classic look? Switch to a big, clear number in Settings.\n\nROLL SEVERAL DICE AT ONCE\nRoll up to 8 dice together, for example 3d6 for ability scores or 8d6 for a fireball. You see every die and the total.\n\nADVANTAGE AND DISADVANTAGE\nRoll two d20 and keep the higher (advantage) or the lower (disadvantage) with one tap. The die that does not count fades out.\n\nNATURAL 20 AND NATURAL 1\nA natural 20 gets a golden flash and a celebratory tap on your wrist. A natural 1 gets a wobble and a sad tap. The effects can be switched off.\n\nMODIFIERS\nTurn the Digital Crown or tap + and − to add a modifier. Add it once to the total, or to every roll.\n\nYOUR COLORS\nChoose a color for each die and for its numbers from the presets, or mix your own custom color.\n\nROLL IN WAYS THAT FIT YOU\n• Tap the die, shake your wrist, or use Double Tap (Apple Watch Series 9, Series 10, Ultra 2 and later).\n• Ask Siri: \"Roll a d20 in Roll 20!\"\n• Use the \"Roll dice\" action in Shortcuts, or assign it to the Action button on Apple Watch Ultra.\n• Add the complication to your watch face and open a d20 straight from it.\n\nMADE FOR THE WRIST\n• Total of all your rolls, so you can keep track during a fight\n• Rolling sounds and haptics, each can be switched off\n• Always-On display support\n• VoiceOver support and Reduce Motion",
-      "releaseNotes": "Fixed the watch face complication, which showed up blank for some people. Tap it to jump straight onto the d20.",
-      "trackViewUrl": "https://apps.apple.com/us/app/roll-20/id1490773813?uo=4",
+      "trackName": "Roll 20! Watch Dice Roller",
+      "description": "Roll 20! is a dice roller made for Apple Watch. Raise your wrist, tap, and the dice tumble across the screen and land on your result. No phone, no table needed.\n\nOne purchase. No ads, no account, no subscription.\n\nDICE FOR EVERY GAME\nRoll a d4, d6, d8, d10, d12, d20 or d100. Perfect for Dungeons & Dragons, Pathfinder and any other tabletop role-playing game, board games and quick decisions.\n\n3D DICE\nReal 3D dice that tumble and land on your result. Prefer the classic look? Switch to a big, clear number in Settings.\n\nROLL SEVERAL DICE AT ONCE\nRoll up to 8 dice together, for example 3d6 for ability scores or 8d6 for a fireball. You see every die and the total. Rolling 4d6? Turn on Drop lowest (or Drop highest) and the dropped die is greyed out and left out of the total.\n\nADVANTAGE AND DISADVANTAGE\nRoll two d20 and keep the higher (advantage) or the lower (disadvantage) with one tap. The die that does not count fades out.\n\nNATURAL 20 AND NATURAL 1\nA natural 20 gets a golden flash and a celebratory tap on your wrist. A natural 1 gets a wobble and a sad tap. The effects can be switched off.\n\nMODIFIERS\nTurn the Digital Crown or tap + and − to add a modifier. Add it once to the total, or to every roll.\n\nYOUR COLORS\nChoose a color for each die and for its numbers from the presets, or mix your own custom color.\n\nROLL IN WAYS THAT FIT YOU\n• Tap the die, shake your wrist, or use Double Tap (Apple Watch Series 9, Series 10, Ultra 2 and later).\n• Ask Siri: \"Roll a d20 in Roll 20!\"\n• Use the \"Roll dice\" action in Shortcuts, or assign it to the Action button on Apple Watch Ultra.\n• Add the complication to your watch face and open a d20 straight from it.\n\nMADE FOR THE WRIST\n• Total of all your rolls, so you can keep track during a fight\n• Rolling sounds and haptics, each can be switched off\n• Always-On display support\n• VoiceOver support and Reduce Motion\n\nLANGUAGES\nEnglish, German, French and Spanish. Roll 20! follows the language of your watch.",
+      "releaseNotes": "• Roll 20! is now available in German, French and Spanish, plus English for the UK, Canada and Australia. It follows the language of your watch.\n• Drop lowest / Drop highest: rolling several dice? Turn it on in Dice options and the dropped die is greyed out and left out of the total. 4d6 drop lowest is now one toggle.\n• Siri and Shortcuts can roll with keep highest or lowest.\n• New Rate Roll 20! button in Settings.\n• Fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/us/app/roll-20-watch-dice-roller/id1490773813?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Ziga Porenta",
       "genres": [
@@ -20,13 +20,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "A dice roller on your wrist."
+      "subtitle": "Animated D20 & RPG dice rolls"
     },
     "ja": {
-      "trackName": "Roll 20!",
-      "description": "Roll 20! is a dice roller made for Apple Watch. Raise your wrist, tap, and the dice tumble across the screen and land on your result. No phone, no table needed.\n\nDICE FOR EVERY GAME\nRoll a d4, d6, d8, d10, d12, d20 or d100. Perfect for Dungeons & Dragons, Pathfinder and any other tabletop role-playing game, board games and quick decisions.\n\n3D DICE\nReal 3D dice that tumble and land on your result. Prefer the classic look? Switch to a big, clear number in Settings.\n\nROLL SEVERAL DICE AT ONCE\nRoll up to 8 dice together, for example 3d6 for ability scores or 8d6 for a fireball. You see every die and the total.\n\nADVANTAGE AND DISADVANTAGE\nRoll two d20 and keep the higher (advantage) or the lower (disadvantage) with one tap. The die that does not count fades out.\n\nNATURAL 20 AND NATURAL 1\nA natural 20 gets a golden flash and a celebratory tap on your wrist. A natural 1 gets a wobble and a sad tap. The effects can be switched off.\n\nMODIFIERS\nTurn the Digital Crown or tap + and − to add a modifier. Add it once to the total, or to every roll.\n\nYOUR COLORS\nChoose a color for each die and for its numbers from the presets, or mix your own custom color.\n\nROLL IN WAYS THAT FIT YOU\n• Tap the die, shake your wrist, or use Double Tap (Apple Watch Series 9, Series 10, Ultra 2 and later).\n• Ask Siri: \"Roll a d20 in Roll 20!\"\n• Use the \"Roll dice\" action in Shortcuts, or assign it to the Action button on Apple Watch Ultra.\n• Add the complication to your watch face and open a d20 straight from it.\n\nMADE FOR THE WRIST\n• Total of all your rolls, so you can keep track during a fight\n• Rolling sounds and haptics, each can be switched off\n• Always-On display support\n• VoiceOver support and Reduce Motion",
-      "releaseNotes": "Fixed the watch face complication, which showed up blank for some people. Tap it to jump straight onto the d20.",
-      "trackViewUrl": "https://apps.apple.com/jp/app/roll-20/id1490773813?uo=4",
+      "trackName": "Roll 20! Watch Dice Roller",
+      "description": "Roll 20! is a dice roller made for Apple Watch. Raise your wrist, tap, and the dice tumble across the screen and land on your result. No phone, no table needed.\n\nOne purchase. No ads, no account, no subscription.\n\nDICE FOR EVERY GAME\nRoll a d4, d6, d8, d10, d12, d20 or d100. Perfect for Dungeons & Dragons, Pathfinder and any other tabletop role-playing game, board games and quick decisions.\n\n3D DICE\nReal 3D dice that tumble and land on your result. Prefer the classic look? Switch to a big, clear number in Settings.\n\nROLL SEVERAL DICE AT ONCE\nRoll up to 8 dice together, for example 3d6 for ability scores or 8d6 for a fireball. You see every die and the total. Rolling 4d6? Turn on Drop lowest (or Drop highest) and the dropped die is greyed out and left out of the total.\n\nADVANTAGE AND DISADVANTAGE\nRoll two d20 and keep the higher (advantage) or the lower (disadvantage) with one tap. The die that does not count fades out.\n\nNATURAL 20 AND NATURAL 1\nA natural 20 gets a golden flash and a celebratory tap on your wrist. A natural 1 gets a wobble and a sad tap. The effects can be switched off.\n\nMODIFIERS\nTurn the Digital Crown or tap + and − to add a modifier. Add it once to the total, or to every roll.\n\nYOUR COLORS\nChoose a color for each die and for its numbers from the presets, or mix your own custom color.\n\nROLL IN WAYS THAT FIT YOU\n• Tap the die, shake your wrist, or use Double Tap (Apple Watch Series 9, Series 10, Ultra 2 and later).\n• Ask Siri: \"Roll a d20 in Roll 20!\"\n• Use the \"Roll dice\" action in Shortcuts, or assign it to the Action button on Apple Watch Ultra.\n• Add the complication to your watch face and open a d20 straight from it.\n\nMADE FOR THE WRIST\n• Total of all your rolls, so you can keep track during a fight\n• Rolling sounds and haptics, each can be switched off\n• Always-On display support\n• VoiceOver support and Reduce Motion\n\nLANGUAGES\nEnglish, German, French and Spanish. Roll 20! follows the language of your watch.",
+      "releaseNotes": "• Roll 20! is now available in German, French and Spanish, plus English for the UK, Canada and Australia. It follows the language of your watch.\n• Drop lowest / Drop highest: rolling several dice? Turn it on in Dice options and the dropped die is greyed out and left out of the total. 4d6 drop lowest is now one toggle.\n• Siri and Shortcuts can roll with keep highest or lowest.\n• New Rate Roll 20! button in Settings.\n• Fixes and improvements.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/roll-20-watch-dice-roller/id1490773813?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Ziga Porenta",
       "genres": [
@@ -41,10 +41,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Roll 20!",
-      "description": "Roll 20! is a dice roller made for Apple Watch. Raise your wrist, tap, and the dice tumble across the screen and land on your result. No phone, no table needed.\n\nDICE FOR EVERY GAME\nRoll a d4, d6, d8, d10, d12, d20 or d100. Perfect for Dungeons & Dragons, Pathfinder and any other tabletop role-playing game, board games and quick decisions.\n\n3D DICE\nReal 3D dice that tumble and land on your result. Prefer the classic look? Switch to a big, clear number in Settings.\n\nROLL SEVERAL DICE AT ONCE\nRoll up to 8 dice together, for example 3d6 for ability scores or 8d6 for a fireball. You see every die and the total.\n\nADVANTAGE AND DISADVANTAGE\nRoll two d20 and keep the higher (advantage) or the lower (disadvantage) with one tap. The die that does not count fades out.\n\nNATURAL 20 AND NATURAL 1\nA natural 20 gets a golden flash and a celebratory tap on your wrist. A natural 1 gets a wobble and a sad tap. The effects can be switched off.\n\nMODIFIERS\nTurn the Digital Crown or tap + and − to add a modifier. Add it once to the total, or to every roll.\n\nYOUR COLORS\nChoose a color for each die and for its numbers from the presets, or mix your own custom color.\n\nROLL IN WAYS THAT FIT YOU\n• Tap the die, shake your wrist, or use Double Tap (Apple Watch Series 9, Series 10, Ultra 2 and later).\n• Ask Siri: \"Roll a d20 in Roll 20!\"\n• Use the \"Roll dice\" action in Shortcuts, or assign it to the Action button on Apple Watch Ultra.\n• Add the complication to your watch face and open a d20 straight from it.\n\nMADE FOR THE WRIST\n• Total of all your rolls, so you can keep track during a fight\n• Rolling sounds and haptics, each can be switched off\n• Always-On display support\n• VoiceOver support and Reduce Motion",
-      "releaseNotes": "Fixed the watch face complication, which showed up blank for some people. Tap it to jump straight onto the d20.",
-      "trackViewUrl": "https://apps.apple.com/de/app/roll-20/id1490773813?uo=4",
+      "trackName": "Roll 20! Würfel für die Watch",
+      "description": "Roll 20! ist eine Würfel-App für die Apple Watch. Handgelenk heben, tippen – und die Würfel purzeln über das Display und bleiben auf deinem Ergebnis liegen. Kein iPhone, kein Tisch nötig.\n\nEinmal kaufen. Keine Werbung, kein Konto, kein Abo.\n\nWÜRFEL FÜR JEDES SPIEL\nWürfle einen d4, d6, d8, d10, d12, d20 oder d100 (auf Deutsch oft W4 bis W100 genannt, W20 für den d20). Perfekt für Dungeons & Dragons, Pathfinder und jedes andere Pen-&-Paper-Rollenspiel, für Brettspiele und schnelle Entscheidungen.\n\n3D-WÜRFEL\nEchte 3D-Würfel, die purzeln und auf deinem Ergebnis liegen bleiben. Lieber der klassische Look? Wechsle in den Einstellungen zu einer großen, klaren Zahl.\n\nMEHRERE WÜRFEL GLEICHZEITIG\nWürfle bis zu 8 Würfel zusammen, zum Beispiel 3d6 für Attributswerte oder 8d6 für einen Feuerball. Du siehst jeden Würfel und die Summe. 4d6 würfeln? Aktiviere „Niedrigsten verwerfen“ (oder „Höchsten verwerfen“): Der verworfene Würfel wird ausgegraut und nicht zur Summe gezählt.\n\nVORTEIL UND NACHTEIL\nWürfle zwei d20 und behalte mit einem Tipp den höheren (Vorteil) oder den niedrigeren (Nachteil). Der Würfel, der nicht zählt, wird ausgeblendet.\n\nNATÜRLICHE 20 UND NATÜRLICHE 1\nEine natürliche 20 bekommt einen goldenen Blitz und ein feierliches Tippen am Handgelenk. Eine natürliche 1 wackelt und fühlt sich traurig an. Die Effekte lassen sich ausschalten.\n\nMODIFIKATOREN\nDrehe die Digital Crown oder tippe auf + und −, um einen Modifikator hinzuzufügen. Einmal auf die Summe oder auf jeden Wurf.\n\nDEINE FARBEN\nWähle für jeden Würfel und seine Zahlen eine Farbe aus den Vorgaben oder mische dir eine eigene.\n\nWÜRFELN, WIE ES DIR PASST\n• Tippe auf den Würfel, schüttle das Handgelenk oder nutze Doppeltippen (Apple Watch Series 9, Series 10, Ultra 2 und neuer).\n• Frag Siri: „Würfle einen d20 in Roll 20!“\n• Nutze die Aktion „Würfeln“ in Kurzbefehle oder lege sie auf die Action-Taste der Apple Watch Ultra.\n• Füge die Komplikation deinem Zifferblatt hinzu und öffne direkt einen d20.\n\nFÜR DAS HANDGELENK GEMACHT\n• Summe aller Würfe, damit du im Kampf den Überblick behältst\n• Würfelgeräusche und Haptik, beides abschaltbar\n• Unterstützung für das Always-On-Display\n• Unterstützung für VoiceOver und „Bewegung reduzieren“\n\nSPRACHEN\nDeutsch, Englisch, Französisch und Spanisch. Roll 20! folgt der Sprache deiner Uhr.",
+      "releaseNotes": "• Roll 20! gibt es jetzt auf Deutsch, Französisch und Spanisch sowie auf Englisch für Großbritannien, Kanada und Australien. Die App folgt der Sprache deiner Uhr.\n• Niedrigsten / Höchsten verwerfen: Mehrere Würfel? Aktiviere es in den Würfeloptionen, und der verworfene Würfel wird ausgegraut und nicht zur Summe gezählt. 4d6 ohne den niedrigsten ist jetzt nur ein Schalter.\n• Siri und Kurzbefehle können mit „höchste behalten“ oder „niedrigste behalten“ würfeln.\n• Neuer Button „Roll 20! bewerten“ in den Einstellungen.\n• Fehlerbehebungen und Verbesserungen.",
+      "trackViewUrl": "https://apps.apple.com/de/app/roll-20-w%C3%BCrfel-f%C3%BCr-die-watch/id1490773813?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Ziga Porenta",
       "genres": [
@@ -59,20 +59,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1b/d3/061bd3a2-710e-1a1a-659d-ace549eba0c1/AppIcon-0-0-1x_U007emarketing-0-14-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/48/d2/af48d2ab-ac5b-341d-f203-95980a6b1c58/AppIcon-0-0-1x_U007emarketing-0-14-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "2381824",
+  "fileSizeBytes": "2697216",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "3.0.1",
-  "currentVersionReleaseDate": "2026-10-28T13:48:50Z",
+  "version": "3.1.0",
+  "currentVersionReleaseDate": "2026-11-11T17:34:09Z",
   "releaseDate": "2019-12-21T08:00:00Z",
   "artistId": 668433991,
   "artistName": "Ziga Porenta",
   "artistViewUrl": "https://apps.apple.com/de/developer/ziga-porenta/id668433991?uo=4",
-  "sellerUrl": "https://www.blue42apps.com",
+  "sellerUrl": "https://www.blue42apps.com/d20/",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -210,6 +210,16 @@
   "hasWatch": true,
   "phoneScreenshots": [],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/33/55/75335517-098b-fa50-f5b0-e97ac9c61407/01_natural20.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/ef/32/afef3241-a3e2-c6f8-976d-6ff56543503c/02_d20_modifier.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/8d/d5/e48dd5c9-119c-2869-f258-5d9d31fffbd4/03_drop_lowest.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/37/e3/c537e342-0526-0c7a-9083-a857c3f4247e/04_advantage.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/69/21/6d6921a7-31ae-603f-93e8-40793cc5295e/05_select_dice.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/dd/b2/bdddb283-e494-0ee9-6022-a3f848ef4b25/06_colors.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/fd/6f/29fd6f05-402a-ff81-0b64-358f7329ce2d/07_modifiers.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/2e/dd/bd2eddeb-5cf7-8f13-b5f5-38a78803fd58/08_dice_options.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/fb/7f/75fb7fe4-e222-691f-52b9-c7afa690863f/09_settings.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d4/e5/0fd4e595-d763-dc02-c5c2-401cc3a4d68c/10_three_dice.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/90/ce/5890cef0-8509-0797-8d50-c03205e5187d/d20-plain.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/e0/61/62e061f7-9f7e-4938-4e0a-a4ce3c53333c/home.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/81/a1/6781a1be-9131-5359-17ed-297eb9a665c4/d12x3.png/422x514bb.png",
@@ -266,8 +276,13 @@
       "version": "3.0.1",
       "releaseNotes": "Fixed the watch face complication, which showed up blank for some people. Tap it to jump straight onto the d20.",
       "seenAt": "2026-10-28T13:48:50Z"
+    },
+    {
+      "version": "3.1.0",
+      "releaseNotes": "• Roll 20! is now available in German, French and Spanish, plus English for the UK, Canada and Australia. It follows the language of your watch.\n• Drop lowest / Drop highest: rolling several dice? Turn it on in Dice options and the dropped die is greyed out and left out of the total. 4d6 drop lowest is now one toggle.\n• Siri and Shortcuts can roll with keep highest or lowest.\n• New Rate Roll 20! button in Settings.\n• Fixes and improvements.",
+      "seenAt": "2026-11-11T17:34:09Z"
     }
   ],
-  "updatedAt": "2026-11-11T14:38:30.981Z",
+  "updatedAt": "2026-11-12T15:42:45.718Z",
   "isOwnApp": false
 }

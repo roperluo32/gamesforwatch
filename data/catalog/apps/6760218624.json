@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Olsen - Crazy Eights Card Game",
-      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that game, you know most of this one. I made this version so I can play it with friends wherever they are, each on their own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players can take the empty seats. Tap Rematch to go again at the same table, and the end screen keeps count of who has won the most rounds. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played Olsen? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill as an opponent.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\nWHAT YOU GET\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three difficulty levels\n• Play offline against AI\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English and Norwegian\n\nDeal the cards and see who gets to say Olsen first.",
-      "releaseNotes": "Drag a card onto the pile to play it. A card that does not fit bounces back to your hand.\nThe end screen now lists the other players in order of cards left, on the Apple Watch too.\nA closed deck no longer shows a dark frame around the top card.",
+      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that one, you know most of this. I made this version so my friends and I can play it wherever we are, each on our own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players take the empty seats. Rematch keeps you at the same table and counts who has won the most rounds. After a round everyone can throw applause, hearts or confetti at each other from the end screen. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE, OFFLINE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill across the table.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three levels, offline\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English, Norsk, Svenska, Dansk and Suomi\n\nDeal the cards and see who gets to say Olsen first.",
+      "releaseNotes": "Olsen now speaks Svenska, Dansk and Suomi.\nThe deal moves one seat each game, as at a real table, and the player after the dealer starts.\nAfter a game with friends, throw applause, hearts or confetti at each other from the end screen. The winner is shown first.\nThe table buttons sit under the cards, and the pile lights up green while you drag a card that fits.",
       "trackViewUrl": "https://apps.apple.com/us/app/olsen-crazy-eights-card-game/id6760218624?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Runar Ovesen Hjerpbakk",
@@ -17,15 +17,18 @@
         "Family"
       ],
       "languageCodesISO2A": [
+        "DA",
         "EN",
-        "NB"
+        "FI",
+        "NB",
+        "SV"
       ],
       "subtitle": "Multiplayer with friends or AI"
     },
     "zh": {
       "trackName": "Olsen - Crazy Eights Card Game",
-      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that game, you know most of this one. I made this version so I can play it with friends wherever they are, each on their own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players can take the empty seats. Tap Rematch to go again at the same table, and the end screen keeps count of who has won the most rounds. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played Olsen? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill as an opponent.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\nWHAT YOU GET\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three difficulty levels\n• Play offline against AI\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English and Norwegian\n\nDeal the cards and see who gets to say Olsen first.",
-      "releaseNotes": "Drag a card onto the pile to play it. A card that does not fit bounces back to your hand.\nThe end screen now lists the other players in order of cards left, on the Apple Watch too.\nA closed deck no longer shows a dark frame around the top card.",
+      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that one, you know most of this. I made this version so my friends and I can play it wherever we are, each on our own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players take the empty seats. Rematch keeps you at the same table and counts who has won the most rounds. After a round everyone can throw applause, hearts or confetti at each other from the end screen. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE, OFFLINE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill across the table.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three levels, offline\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English, Norsk, Svenska, Dansk and Suomi\n\nDeal the cards and see who gets to say Olsen first.",
+      "releaseNotes": "Olsen now speaks Svenska, Dansk and Suomi.\nThe deal moves one seat each game, as at a real table, and the player after the dealer starts.\nAfter a game with friends, throw applause, hearts or confetti at each other from the end screen. The winner is shown first.\nThe table buttons sit under the cards, and the pile lights up green while you drag a card that fits.",
       "trackViewUrl": "https://apps.apple.com/cn/app/olsen-crazy-eights-card-game/id6760218624?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Runar Ovesen Hjerpbakk",
@@ -35,15 +38,18 @@
         "家庭聚会"
       ],
       "languageCodesISO2A": [
+        "DA",
         "EN",
-        "NB"
+        "FI",
+        "NB",
+        "SV"
       ],
       "subtitle": ""
     },
     "ja": {
       "trackName": "Olsen - Crazy Eights Card Game",
-      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that game, you know most of this one. I made this version so I can play it with friends wherever they are, each on their own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players can take the empty seats. Tap Rematch to go again at the same table, and the end screen keeps count of who has won the most rounds. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played Olsen? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill as an opponent.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\nWHAT YOU GET\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three difficulty levels\n• Play offline against AI\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English and Norwegian\n\nDeal the cards and see who gets to say Olsen first.",
-      "releaseNotes": "Drag a card onto the pile to play it. A card that does not fit bounces back to your hand.\nThe end screen now lists the other players in order of cards left, on the Apple Watch too.\nA closed deck no longer shows a dark frame around the top card.",
+      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that one, you know most of this. I made this version so my friends and I can play it wherever we are, each on our own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players take the empty seats. Rematch keeps you at the same table and counts who has won the most rounds. After a round everyone can throw applause, hearts or confetti at each other from the end screen. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE, OFFLINE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill across the table.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three levels, offline\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English, Norsk, Svenska, Dansk and Suomi\n\nDeal the cards and see who gets to say Olsen first.",
+      "releaseNotes": "Olsen now speaks Svenska, Dansk and Suomi.\nThe deal moves one seat each game, as at a real table, and the player after the dealer starts.\nAfter a game with friends, throw applause, hearts or confetti at each other from the end screen. The winner is shown first.\nThe table buttons sit under the cards, and the pile lights up green while you drag a card that fits.",
       "trackViewUrl": "https://apps.apple.com/jp/app/olsen-crazy-eights-card-game/id6760218624?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Runar Ovesen Hjerpbakk",
@@ -53,15 +59,18 @@
         "ファミリー"
       ],
       "languageCodesISO2A": [
+        "DA",
         "EN",
-        "NB"
+        "FI",
+        "NB",
+        "SV"
       ],
       "subtitle": ""
     },
     "de": {
       "trackName": "Olsen - Crazy Eights Card Game",
-      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that game, you know most of this one. I made this version so I can play it with friends wherever they are, each on their own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players can take the empty seats. Tap Rematch to go again at the same table, and the end screen keeps count of who has won the most rounds. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played Olsen? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill as an opponent.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\nWHAT YOU GET\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three difficulty levels\n• Play offline against AI\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English and Norwegian\n\nDeal the cards and see who gets to say Olsen first.",
-      "releaseNotes": "Drag a card onto the pile to play it. A card that does not fit bounces back to your hand.\nThe end screen now lists the other players in order of cards left, on the Apple Watch too.\nA closed deck no longer shows a dark frame around the top card.",
+      "description": "Olsen is the card game Norwegians learn around the kitchen table and on the cabin trip. It belongs to the Crazy Eights family, so if you know that one, you know most of this. I made this version so my friends and I can play it wherever we are, each on our own iPhone, iPad or Mac, and against the computer when nobody else is free.\n\nMatch the top card by suit or rank. An 8 goes on anything, and you choose the next suit. If nothing fits, draw up to three cards before you pass. When someone is down to one card, the game calls Olsen for them, so everyone knows who to stop. The first one to empty their hand wins.\n\nPLAY WITH FRIENDS\nInvite up to three friends through Game Center. The round starts as soon as one of them has joined, and AI players take the empty seats. Rematch keeps you at the same table and counts who has won the most rounds. After a round everyone can throw applause, hearts or confetti at each other from the end screen. If someone loses the connection, an AI player keeps their seat warm until they are back. Three of the achievements are only for games with friends.\n\nPLAY ALONE, OFFLINE\nTake on one, two or three AI opponents on easy, normal or hard. They have names and a bit of personality, and the hard ones count cards. No internet needed, so it works on a plane or at a cabin with no coverage.\n\nLEARN IT IN ONE ROUND\nNever played? The tutorial plays a round with you and explains each move as it happens. The full rules are in the menu when you want to check something.\n\nFOR KIDS, ADULTS AND SENIORS\nThree themes with their own look and their own opponents. Leo the Lion and Bella Bear sit at the kids table, and the senior theme has larger text and Churchill across the table.\n\nPLAY IT YOUR WAY\nTap a card twice, swipe it up, or drag it onto the pile. Cards that do not fit bounce back to your hand. On iPhone the whole game works with one hand.\n\n• Up to four at the table over Game Center, each on their own device\n• AI players in the empty seats\n• Rematch and a running count of who wins\n• One to three AI opponents on three levels, offline\n• Wild 8s that change the suit\n• A tutorial that teaches the game in one round\n• 23 Game Center achievements\n• Kids, adult and senior themes\n• iPhone, iPad, Mac, and Apple Watch for a quick solo round\n• English, Norsk, Svenska, Dansk and Suomi\n\nDeal the cards and see who gets to say Olsen first.",
+      "releaseNotes": "Olsen now speaks Svenska, Dansk and Suomi.\nThe deal moves one seat each game, as at a real table, and the player after the dealer starts.\nAfter a game with friends, throw applause, hearts or confetti at each other from the end screen. The winner is shown first.\nThe table buttons sit under the cards, and the pile lights up green while you drag a card that fits.",
       "trackViewUrl": "https://apps.apple.com/de/app/olsen-crazy-eights-card-game/id6760218624?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Runar Ovesen Hjerpbakk",
@@ -71,21 +80,24 @@
         "Familie"
       ],
       "languageCodesISO2A": [
+        "DA",
         "EN",
-        "NB"
+        "FI",
+        "NB",
+        "SV"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/54/82/0b5482da-464e-66c2-52b7-7bc095749512/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/52/c8/0652c8ce-a5fe-0196-058f-486aeb7284b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "24687616",
+  "fileSizeBytes": "24892416",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.2",
-  "version": "2026.9",
-  "currentVersionReleaseDate": "2026-10-29T19:18:25Z",
+  "version": "2026.10",
+  "currentVersionReleaseDate": "2026-11-11T16:14:03Z",
   "releaseDate": "2026-03-27T07:00:00Z",
   "artistId": 644908100,
   "artistName": "Runar Ovesen Hjerpbakk",
@@ -228,6 +240,42 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/23/96/6a2396f6-55d8-cf50-2211-93319c7879a6/01-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/9b/93/409b93c0-2fd1-bbb4-cb0a-2d7149fd3c69/02-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/dc/0f/57dc0f81-0e7e-bfcf-b6cb-5a6399e0b979/03-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ec/4f/e0ec4f7d-f4a8-b4b9-d650-51b14a42320c/04-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/8b/22/188b22ba-b7c1-a242-91d7-6a03070d9d5b/05-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/f2/95/68f29547-dd9a-a53a-fbe0-e1ebc0e75ddf/06-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/a8/ef/59a8ef8a-2ee5-f7c0-0f9b-fc3cc8372065/07-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/8d/f1/388df179-a779-4cdb-a021-75a22affce52/08-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/46/38/91463825-65ea-6749-16f3-882fe42c0598/09-iPad.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/52/4e/ab524ec0-fb9a-e080-d835-710edc9c4966/01-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/2f/a1/b02fa140-a6eb-8491-2405-f6bc4ec51f68/02-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/9e/3b/f99e3bef-889f-119d-a025-d7875a73628e/03-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b0/3f/57b03ff6-ac70-83cf-7d19-25e676c4467c/04-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/f5/74/57f57419-cb7d-cf99-0c90-e0df43e1d896/05-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/c9/ea/13c9eacc-f837-8f6f-a946-c73cfd3175e1/06-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/47/3b/8b473b07-ae81-e05e-d6d0-e1dde1ab6720/07-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/88/7c/de887c14-1c60-acff-e396-aa09843c7866/08-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/b0/fd/f4b0fdb1-5be7-1e33-e604-141bc343014c/09-iPhone.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/52/4e/ab524ec0-fb9a-e080-d835-710edc9c4966/01-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/2f/a1/b02fa140-a6eb-8491-2405-f6bc4ec51f68/02-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/9e/3b/f99e3bef-889f-119d-a025-d7875a73628e/03-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b0/3f/57b03ff6-ac70-83cf-7d19-25e676c4467c/04-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/f5/74/57f57419-cb7d-cf99-0c90-e0df43e1d896/05-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/c9/ea/13c9eacc-f837-8f6f-a946-c73cfd3175e1/06-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/47/3b/8b473b07-ae81-e05e-d6d0-e1dde1ab6720/07-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/88/7c/de887c14-1c60-acff-e396-aa09843c7866/08-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/b0/fd/f4b0fdb1-5be7-1e33-e604-141bc343014c/09-iPhone.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/23/96/6a2396f6-55d8-cf50-2211-93319c7879a6/01-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/9b/93/409b93c0-2fd1-bbb4-cb0a-2d7149fd3c69/02-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/dc/0f/57dc0f81-0e7e-bfcf-b6cb-5a6399e0b979/03-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ec/4f/e0ec4f7d-f4a8-b4b9-d650-51b14a42320c/04-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/8b/22/188b22ba-b7c1-a242-91d7-6a03070d9d5b/05-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/f2/95/68f29547-dd9a-a53a-fbe0-e1ebc0e75ddf/06-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/a8/ef/59a8ef8a-2ee5-f7c0-0f9b-fc3cc8372065/07-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/8d/f1/388df179-a779-4cdb-a021-75a22affce52/08-iPad.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/46/38/91463825-65ea-6749-16f3-882fe42c0598/09-iPad.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/f9/dd/14f9ddc9-ca92-beff-4f68-dce1e83f6b84/01-iPad.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/2d/6e/bf2d6e59-8696-7c60-1430-4df632293e36/02-iPad.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/e1/c9/ade1c92c-c2a3-aebc-fb37-f2c23fed17ef/03-iPad.png/2048x2732bb.png",
@@ -370,6 +418,12 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/8f/9c/db8f9cf1-4660-6cad-8bff-4bf707ea448c/iPad-en-8.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/d6/96/e9d6964b-7e35-3769-922d-55b0c4d4ec5e/01-watchOS.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/bd/b2/28bdb273-8e84-1b60-2a94-d305088eb347/02-watchOS.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/ee/55/6bee559f-2a96-a90f-2701-b9d93a4335b8/03-watchOS.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/2e/4f/522e4f86-65b9-457b-37fb-03bb52322f1f/04-watchOS.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/de/f3/a9def3f3-0816-bf02-a746-e347fb6ce206/05-watchOS.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/a2/c7/a6a2c769-2d72-54e5-4212-1d93f8910e29/06-watchOS.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/94/a4/be94a494-d6da-e605-4712-21d060faf5fc/01-watchOS.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/74/63/27746392-b7ea-f16c-37e5-59bc4017864e/02-watchOS.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/95/48/9d954831-16a9-f84e-777c-3f251d1b62ba/03-watchOS.png/422x514bb.png",
@@ -435,8 +489,13 @@
       "version": "2026.9",
       "releaseNotes": "Drag a card onto the pile to play it. A card that does not fit bounces back to your hand.\nThe end screen now lists the other players in order of cards left, on the Apple Watch too.\nA closed deck no longer shows a dark frame around the top card.",
       "seenAt": "2026-10-29T19:18:25Z"
+    },
+    {
+      "version": "2026.10",
+      "releaseNotes": "Olsen now speaks Svenska, Dansk and Suomi.\nThe deal moves one seat each game, as at a real table, and the player after the dealer starts.\nAfter a game with friends, throw applause, hearts or confetti at each other from the end screen. The winner is shown first.\nThe table buttons sit under the cards, and the pile lights up green while you drag a card that fits.",
+      "seenAt": "2026-11-11T16:14:03Z"
     }
   ],
-  "updatedAt": "2026-11-11T14:21:55.211Z",
+  "updatedAt": "2026-11-12T15:24:30.987Z",
   "isOwnApp": false
 }
