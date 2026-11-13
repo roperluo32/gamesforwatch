@@ -223,7 +223,9 @@
     "iPadAir13M4Cellular-iPadAir13M4Cellular",
     "iPhone18Pro-iPhone18Pro",
     "iPhone18ProMax-iPhone18ProMax",
-    "iPhoneDuo-iPhoneDuo"
+    "iPhoneDuo-iPhoneDuo",
+    "iPadMiniA20Pro-iPadMiniA20Pro",
+    "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -372,6 +374,6 @@
       "seenAt": "2026-04-03T20:43:45Z"
     }
   ],
-  "updatedAt": "2026-11-12T15:22:53.496Z",
+  "updatedAt": "2026-11-13T14:47:55.499Z",
   "isOwnApp": false
 }

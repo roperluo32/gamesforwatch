@@ -252,7 +252,9 @@
     "Watch12-Watch12",
     "Watch12Cellular-Watch12Cellular",
     "WatchUltra4-WatchUltra4",
-    "iPhoneDuo-iPhoneDuo"
+    "iPhoneDuo-iPhoneDuo",
+    "iPadMiniA20Pro-iPadMiniA20Pro",
+    "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
   ],
   "hasWatch": true,
   "phoneScreenshots": [
@@ -307,6 +309,6 @@
       "seenAt": "2011-03-18T21:41:35Z"
     }
   ],
-  "updatedAt": "2026-11-12T16:08:30.445Z",
+  "updatedAt": "2026-11-13T15:32:36.471Z",
   "isOwnApp": false
 }
