@@ -7,7 +7,7 @@
     "en": {
       "trackName": "PrismFlow: Block Puzzle Game",
       "description": "Flow the colors, free your mind.\n\nPrismFlow Block Puzzle is a calm, colorful block puzzle you can play in short sessions or long streaks. Drag pieces onto the board, fill rows and columns, and watch them clear — simple rules, deep scoring.\n\nHOW TO PLAY\n• Three block shapes appear in the tray — drag each one onto the 8×8 board\n• Complete full rows or columns to clear them and earn points\n• Chain clears to build combos and push your score higher\n• Game over when none of the three pieces fit — can you beat your best?\n\nFEATURES\n• Smooth drag-and-drop controls tuned for one-hand play\n• Glossy blocks, satisfying clears, and combo feedback\n• Global leaderboard — compete with players worldwide\n• Daily streak reminders (optional)\n• Multiple languages\n• Play offline anytime; sign in for cloud sync and leaderboard\n\nFREE TO PLAY\nPrismFlow is free with optional ads. You can remove ads or buy continue tokens via in-app purchase. No account required to play.\n\nDownload now and find your flow.\n\nPRISMFLOW PLUS (optional subscription)\nAd-free play, 100 gems and 1 continue token every day. The yearly plan starts with a 7-day free trial; a monthly plan is also available. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically unless canceled at least 24 hours before the end of the current period. Manage or cancel it in Settings > Apple Account > Subscriptions.\n\nTerms of Use (EULA): https://prismflow-ec386.web.app/terms\nPrivacy Policy: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "• New big blocks: 6-cell and occasional 9-cell pieces for a tougher but fair game\n• ALL CLEAR! Empty the whole board for a +300 bonus\n• New celebration sounds, explosions and WOW moments\n• The dragged block now floats higher above your finger for easier placing\n• Faster leaderboard and performance improvements",
+      "releaseNotes": "- Help & FAQ and Replay tour in Settings.\n- New \"Delete my data\" option in Settings.\n- Never miss an update: clearer update reminders.\n- Watch-ad continue appears only when an ad is ready.\n- Notifications and shared links open the right screen.\n- Performance and stability improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/prismflow-block-puzzle-game/id6784841022?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Beytullah Ozer",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "PrismFlow: Blok Bulmaca Oyunu",
       "description": "Renkleri serbest bırakın, zihninizi özgürleştirin.\n\nPrismFlow Blok Bulmacası, kısa seanslarda veya uzun serilerde oynayabileceğiniz sakin ve renkli bir blok bulmacasıdır. Parçaları tahtaya sürükleyin, satırları ve sütunları doldurun ve temizlenmelerini izleyin — basit kurallar, yüksek puanlama.\n\nNASIL OYNANIR\n• Tepside üç blok şekli belirir — her birini 8x8 tahtaya sürükleyin\n• Satırları veya sütunları tamamlayarak temizleyin ve puan kazanın\n• Kombolar oluşturmak ve puanınızı yükseltmek için zincirleme temizlemeler yapın\n• Üç parçadan hiçbiri uymadığında oyun biter — en iyi skorunuzu geçebilir misiniz?\n\nÖZELLİKLER\n• Tek elle oynanmaya uygun, akıcı sürükle ve bırak kontrolleri\n• Parlak bloklar, tatmin edici temizlemeler ve kombo geri bildirimi\n• Küresel liderlik tablosu — dünya çapındaki oyuncularla yarışın\n• Günlük seri hatırlatıcıları (isteğe bağlı)\n• Çoklu dil desteği\n• İstediğiniz zaman çevrimdışı oynayın; bulut senkronizasyonu ve liderlik tablosu için giriş yapın\n\nÜCRETSİZ OYNAYIN\nPrismFlow, isteğe bağlı reklamlarla ücretsizdir. Uygulama içi satın alma yoluyla reklamları kaldırabilir veya devam jetonları satın alabilirsiniz. Oynamak için hesap gerekmez.\n\nHemen indirin ve kendi tarzınızı bulun.\n\nPRISMFLOW PLUS (isteğe bağlı abonelik)\nReklamsız oyun, her gün 100 elmas ve 1 devam jetonu. Yıllık plan 7 gün ücretsiz denemeyle başlar; aylık plan da vardır. Ödeme, satın alım onayında Apple Hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Aboneliği Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz.\n\nKullanım Koşulları (EULA): https://prismflow-ec386.web.app/terms\nGizlilik Politikası: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "• Yeni büyük bloklar: 6'lı ve arasıra 9'lu parçalarla daha zorlu ama adil oyun\n• TERTEMİZ! Tahtayı tamamen temizle, +300 bonus kazan\n• Yeni kutlama sesleri, patlamalar ve WOW anları\n• Sürüklenen blok parmağının daha üstünde, yerleştirmek daha kolay\n• Daha hızlı sıralama ve performans iyileştirmeleri",
+      "releaseNotes": "- Ayarlar'da Yardım ve Sık Sorulan Sorular, oyun turunu yeniden izleme.\n- Ayarlar'a \"Verilerimi sil\" eklendi.\n- Yeni sürümler artık kaçmıyor: güncelleme hatırlatması daha belirgin.\n- Reklam izleyerek devam seçeneği yalnızca reklam hazırken görünür.\n- Bildirimler ve paylaşılan bağlantılar doğrudan ilgili ekranı açar.\n- Performans ve kararlılık iyileştirmeleri.",
       "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-blok-bulmaca-oyunu/id6784841022?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beytullah Ozer",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/9d/5e3f9d80-1695-105f-2a1c-3e6db065e015/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/30/f6/d830f600-258f-ad64-bd94-49483ec53bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "33691648",
+  "fileSizeBytes": "33982464",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "3.1",
-  "currentVersionReleaseDate": "2026-10-29T17:44:06Z",
+  "version": "3.1.4",
+  "currentVersionReleaseDate": "2026-11-13T23:58:15Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -331,8 +331,13 @@
       "version": "3.1",
       "releaseNotes": "• New big blocks: 6-cell and occasional 9-cell pieces for a tougher but fair game\n• ALL CLEAR! Empty the whole board for a +300 bonus\n• New celebration sounds, explosions and WOW moments\n• The dragged block now floats higher above your finger for easier placing\n• Faster leaderboard and performance improvements",
       "seenAt": "2026-10-29T17:44:06Z"
+    },
+    {
+      "version": "3.1.4",
+      "releaseNotes": "- Help & FAQ and Replay tour in Settings.\n- New \"Delete my data\" option in Settings.\n- Never miss an update: clearer update reminders.\n- Watch-ad continue appears only when an ad is ready.\n- Notifications and shared links open the right screen.\n- Performance and stability improvements.",
+      "seenAt": "2026-11-13T23:58:15Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:06:45.126Z",
+  "updatedAt": "2026-11-14T14:05:27.168Z",
   "isOwnApp": false
 }

@@ -5,9 +5,9 @@
   "path": "/apps/977326353-push-boxes-logic-puzzle/",
   "locales": {
     "en": {
-      "trackName": "Push boxes: Logic puzzle",
-      "description": "Push boxes onto their targets. Sounds simple — until it isn't.\nSokoban is one of the most elegant logic games ever invented: you can only push boxes, never pull. One wrong move and you've painted yourself into a corner. Every level is a small, satisfying puzzle that rewards patience and planning over luck or speed.\n\n7,814 LEVELS. ALL YOURS.\n\nFrom gentle warm-ups to fiendishly tricky brain-benders — there's a reason only 15 players have solved more than 400. Are you next?\n\nMADE FOR EVERY MOMENT\n\nGot 5 minutes on the bus? A long flight ahead? This game plays beautifully offline on iPhone, iPad, Apple Watch, Apple TV, and Mac — your puzzle collection goes wherever you do.\n\nWHY PLAYERS LOVE IT\n\n→ No timers. No pressure. Just pure logic.\n→ Levels up to 10×10 — deceptively complex layouts\n→ Completely offline — no Wi-Fi required, ever\n→ Universal purchase — one game, all your Apple devices\n\nNo energy bars. No pay-to-win. No distractions. Just you and the box.\n\n\"The simplest games are the hardest to master.\"",
-      "releaseNotes": "Now with iPhone Duo support!",
+      "trackName": "Push Boxes: Logic Puzzle",
+      "description": "Push boxes onto their targets. Sounds simple — until it isn't.\n11,814 levels, a cozy 3D warehouse, and not a single ad.\n\nPush Boxes is a classic Sokoban-style logic puzzle — one of the most elegant brain games ever invented. The rule is simple: you can only push, never pull. One wrong move and you've boxed yourself into a corner. Every level is a small, satisfying puzzle that rewards patience and planning, not luck or speed.\n\n11,814 LEVELS. ALL YOURS.\nFrom gentle warm-ups to fiendishly tricky brain-benders. Fewer than 20 players have ever solved more than 400 levels — think you can join them? Climb the Game Center leaderboard and aim for the Top 20.\n\nPLAY YOUR WAY\n→ Unlimited undo — experiment freely, no penalty\n→ Night mode for late-night puzzling\n→ A cozy 3D warehouse with glowing boxes and a charming animated forklift\n\nONE GAME, EVERY APPLE DEVICE\nFive minutes on the bus or a long flight ahead — play on iPhone, iPad, Apple Watch and Apple TV. Your progress follows you everywhere.\n\nWHY YOU'LL LOVE IT\n→ No timers, no energy bars, no pressure — just pure logic\n→ Fully offline — no Wi-Fi needed, ever\n→ Buy once, play on all your Apple devices\n→ No ads. No subscriptions. No pay-to-win.\n\nJust you, a little forklift, and the boxes.",
+      "releaseNotes": "New look! A cozy 3D warehouse, glowing boxes, night mode and a smoothly animated little forklift that brings every push to life.\n\nPush Boxes now speaks 20 languages! New: Turkish and Vietnamese, plus Brazilian Portuguese, Mexican Spanish, Canadian French, and UK and Australian English.\n\nThanks for playing!",
       "trackViewUrl": "https://apps.apple.com/us/app/push-boxes-logic-puzzle/id977326353?uo=4",
       "formattedPrice": "$3.99",
       "sellerName": "Valerii Andrusyk",
@@ -29,16 +29,18 @@
         "ES",
         "SV",
         "ZH",
-        "UK"
+        "TR",
+        "UK",
+        "VI"
       ],
-      "subtitle": "7,814 Puzzles. Pure Logic."
+      "subtitle": "Sokoban Brain Game, Offline"
     },
     "ja": {
-      "trackName": "Push boxes: 論理パズル",
-      "description": "箱を目標地点まで押して運ぶ。簡単そうに聞こえる――しかし、そうではない。\n『ソコバン』は、これまでに生み出された中で最も洗練された論理パズルゲームの一つです。箱は押すことしかできず、引くことはできません。たった一手のミスで、身動きが取れなくなってしまいます。どのステージも、運やスピードよりも忍耐と計画性を重視した、小さくもやりがいのあるパズルとなっています。\n\n7,814ステージ。すべてあなたのものです。\n\n穏やかなウォーミングアップから、悪魔のように手強い難問まで――400ステージ以上をクリアしたプレイヤーがわずか15人しかいないのには理由があります。次はあなたの番ですか？\n\nいつでもどこでも楽しめる\n\nバスでの5分間の空き時間？ 長いフライトの前？ このゲームはiPhone、iPad、Apple Watch、Apple TV、Macでオフラインでも快適にプレイできます。あなたのパズルコレクションは、どこへでも持ち運べます。\n\nプレイヤーに愛される理由\n\n→ 制限時間なし。プレッシャーなし。純粋な論理だけ。\n→ 最大10×10のステージ — 一見単純だが実は複雑なレイアウト\n→ 完全オフライン — Wi-Fiは一切不要\n→ ユニバーサル購入 — 1つのゲームで、すべてのAppleデバイスで遊べる\n\nエネルギーゲージなし。課金で有利になる要素なし。邪魔するものなし。あなたと箱だけ。\n\n「最もシンプルなゲームこそ、極めるのが最も難しい。」",
-      "releaseNotes": "iPhone Duoに対応しました！",
-      "trackViewUrl": "https://apps.apple.com/jp/app/push-boxes-%E8%AB%96%E7%90%86%E3%83%91%E3%82%BA%E3%83%AB/id977326353?uo=4",
-      "formattedPrice": "¥600",
+      "trackName": "Push Boxes: 箱押しパズル",
+      "description": "箱をゴールまで押し運ぼう。シンプルに見えて、実は奥が深い。\n11,814ステージ、温かみのある3D倉庫、そして広告は一切なし。\n\nPush Boxesは、倉庫番スタイルのクラシックなロジックパズル。これまでに生まれた中で最もエレガントな頭脳ゲームのひとつです。ルールは簡単：箱は押すことしかできず、引くことはできません。一手のミスで、自分を角に追い込んでしまうことも。どのステージも、運やスピードではなく、忍耐と計画が報われる、小さくて満足感のあるパズルです。\n\n11,814ステージ。すべてあなたのもの。\nやさしいウォーミングアップから、悪魔的に手ごわい難問まで。400ステージ以上をクリアしたプレイヤーは20人未満。あなたもその仲間入りができるでしょうか？Game Centerのランキングを駆け上がり、トップ20を目指しましょう。\n\n自分のペースで遊べる\n→ 無制限のやり直し：ペナルティなしで自由に試せる\n→ 夜遅くのパズルタイムにぴったりなナイトモード\n→ 光る箱とかわいいアニメーションのフォークリフトがいる、温かみのある3D倉庫\n\nひとつのゲームを、すべてのAppleデバイスで\nバスでの5分間にも、長いフライトにも。iPhone、iPad、Apple Watch、Apple TVでプレイできます。進行状況はどこでも引き継がれます。\n\nここが魅力\n→ タイマーなし、スタミナなし、プレッシャーなし。純粋なロジックだけ\n→ 完全オフライン：Wi-Fiは一切不要\n→ 一度の購入で、すべてのAppleデバイスで遊べる\n→ 広告なし。サブスクなし。課金で有利になる要素もなし。\n\nあなたと小さなフォークリフト、そして箱だけ。",
+      "releaseNotes": "新しいデザインに！温かみのある3D倉庫、光る箱、ナイトモード、そしてなめらかに動く小さなフォークリフトが、ひと押しごとに命を吹き込みます。\n\nPush Boxesが20言語に対応しました！\n\nいつも遊んでいただきありがとうございます！",
+      "trackViewUrl": "https://apps.apple.com/jp/app/push-boxes-%E7%AE%B1%E6%8A%BC%E3%81%97%E3%83%91%E3%82%BA%E3%83%AB/id977326353?uo=4",
+      "formattedPrice": "¥480",
       "sellerName": "Valerii Andrusyk",
       "genres": [
         "ゲーム",
@@ -58,15 +60,17 @@
         "ES",
         "SV",
         "ZH",
-        "UK"
+        "TR",
+        "UK",
+        "VI"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "Push boxes: Logik-Puzzle",
-      "description": "Schiebe Kisten auf ihre Ziele. Klingt einfach – bis es das nicht mehr ist.\nSokoban ist eines der elegantesten Logikspiele, die je erfunden wurden: Du kannst Kisten nur schieben, niemals ziehen. Ein falscher Zug und du hast dich in eine Sackgasse manövriert. Jeder Level ist ein kleines, befriedigendes Rätsel, das Geduld und Planung gegenüber Glück oder Geschwindigkeit belohnt.\n\n7.814 LEVELS. GANZ FÜR DICH.\n\nVon sanften Aufwärmübungen bis hin zu teuflisch kniffligen Denksportaufgaben – es gibt einen Grund, warum nur 15 Spieler mehr als 400 Level gelöst haben. Bist du der Nächste?\n\nFÜR JEDEN MOMENT GEMACHT\n\nHast du 5 Minuten Zeit im Bus? Steht ein langer Flug bevor? Dieses Spiel lässt sich wunderbar offline auf iPhone, iPad, Apple Watch, Apple TV und Mac spielen – deine Rätselsammlung begleitet dich überallhin.\n\nWARUM SPIELER ES LIEBEN\n\n→ Keine Zeitlimit. Kein Druck. Nur reine Logik.\n→ Levels bis zu 10×10 – täuschend komplexe Layouts\n→ Vollständig offline – kein WLAN erforderlich, niemals\n→ Universal-Kauf – ein Spiel, alle deine Apple-Geräte\n\nKeine Energiebalken. Kein Pay-to-Win. Keine Ablenkungen. Nur du und die Box.\n\n„Die einfachsten Spiele sind am schwersten zu meistern.“",
-      "releaseNotes": "Jetzt mit Unterstützung für das iPhone Duo!",
-      "trackViewUrl": "https://apps.apple.com/de/app/push-boxes-logik-puzzle/id977326353?uo=4",
+      "trackName": "Push Boxes: Kisten schieben",
+      "description": "Schiebe die Kisten auf ihre Zielfelder. Klingt einfach – bis es das nicht mehr ist.\n11.814 Level, ein gemütliches 3D-Lagerhaus und keine einzige Werbung.\n\nPush Boxes ist ein klassisches Logikrätsel im Sokoban-Stil – eines der elegantesten Denkspiele, die je erfunden wurden. Die Regel ist einfach: Du kannst nur schieben, nie ziehen. Ein falscher Zug, und du hast dich selbst in die Ecke manövriert. Jedes Level ist ein kleines, befriedigendes Rätsel, das Geduld und Planung belohnt – nicht Glück oder Tempo.\n\n11.814 LEVEL. ALLE FÜR DICH.\nVon sanften Aufwärmrunden bis zu teuflisch kniffligen Kopfnüssen. Weniger als 20 Spieler haben jemals mehr als 400 Level gelöst – schaffst du es in diesen Kreis? Erklimme die Game Center-Bestenliste und greif nach den Top 20.\n\nSPIEL, WIE DU WILLST\n→ Unbegrenztes Rückgängigmachen – probiere frei aus, ohne Strafe\n→ Nachtmodus für spätes Knobeln\n→ Ein gemütliches 3D-Lagerhaus mit leuchtenden Kisten und einem charmant animierten Gabelstapler\n\nEIN SPIEL FÜR ALLE APPLE-GERÄTE\nFünf Minuten im Bus oder ein langer Flug vor dir – spiele auf iPhone, iPad, Apple Watch und Apple TV. Dein Fortschritt begleitet dich überallhin.\n\nDARUM WIRST DU ES LIEBEN\n→ Keine Timer, keine Energieleisten, kein Druck – nur pure Logik\n→ Komplett offline – nie WLAN nötig\n→ Einmal kaufen, auf allen deinen Apple-Geräten spielen\n→ Keine Werbung. Keine Abos. Kein Pay-to-win.\n\nNur du, ein kleiner Gabelstapler und die Kisten.",
+      "releaseNotes": "Neuer Look! Ein gemütliches 3D-Lagerhaus, leuchtende Kisten, Nachtmodus und ein flüssig animierter kleiner Gabelstapler, der jeden Schub lebendig macht.\n\nPush Boxes spricht jetzt 20 Sprachen!\n\nDanke fürs Spielen!",
+      "trackViewUrl": "https://apps.apple.com/de/app/push-boxes-kisten-schieben/id977326353?uo=4",
       "formattedPrice": "3,99 €",
       "sellerName": "Valerii Andrusyk",
       "genres": [
@@ -87,20 +91,22 @@
         "ES",
         "SV",
         "ZH",
-        "UK"
+        "TR",
+        "UK",
+        "VI"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/8e/13/cf8e13b4-f453-8a65-c82d-75ef0635493b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/d7/15/a9d715b2-e77f-5d6e-2a02-9300116bf491/AppIconPB-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.5,
   "userRatingCount": 6,
   "price": 3.99,
-  "fileSizeBytes": "22652928",
+  "fileSizeBytes": "35671040",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "5.4",
-  "currentVersionReleaseDate": "2026-10-14T18:26:58Z",
+  "version": "5.5",
+  "currentVersionReleaseDate": "2026-11-14T03:34:53Z",
   "releaseDate": "2015-04-25T14:27:49Z",
   "artistId": 787326004,
   "artistName": "Valerii Andrusyk",
@@ -244,6 +250,42 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/8f/77/3a8f779a-4a15-1041-0159-8d3860231c5b/01_push.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/eb/f8/b3ebf80a-a4ad-6d1c-2154-4d7bb4038e12/02_levels.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/16/ed/1f16ed47-c5be-2134-45b6-20ef8f6897eb/03_rotate.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/f4/ea/c0f4eac4-84e0-ce5b-3c16-b92e4f349b8f/04_devices.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/81/27/3e8127b8-ab72-fb46-f461-ed281ee73a9f/01_push.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/6f/c0/ac6fc01c-3e77-6203-dc4d-8c894dcf4457/02_levels.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/36/41/dd3641db-ac8f-e3af-b5bc-c4f9d6d21914/03_rotate.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/58/a7/6e58a78e-015d-3200-299a-a13b735b1437/04_devices.png/2752x2064bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/ed/3c/feed3ca7-09cc-fb28-85f2-52d2f0393bac/01_push.png/2622x1206bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/e5/f2/94e5f26a-1862-18f1-24cd-8f710177861c/02_levels.png/2622x1206bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/50/13/80501351-e66c-bdfc-4f70-3a0e5d283a1a/03_rotate.png/2622x1206bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/0b/3f/0d0b3f53-26c7-c720-b3d6-a362f54a0a91/04_devices.png/2622x1206bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/7b/32/247b320d-5163-c1ac-619e-e72916b988ed/01_push.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/c4/ad/34c4ad89-0340-64d7-8e7c-ae6b10257722/02_levels.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/1f/66/611f6621-c580-d341-2b0c-887f772ffedb/03_rotate.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/5f/40/265f40e8-48d7-f83b-f49b-fe269742cbfb/04_devices.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/41/d1/e341d1a3-df43-92ae-7880-de2cb6f792d4/01_push.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/56/ee/1c56ee3b-761d-a793-34e3-b6803968ae22/02_levels.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/43/29/3d432914-f85a-5722-36ef-9b541030b7a0/03_rotate.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/a9/cf/62a9cf16-c187-0d92-9f9e-68aee253a603/04_devices.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/c2/d0/eec2d09f-2a8c-2592-4ce4-064458b718e9/01_push.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/1b/68/431b688b-6024-9e72-b455-203775b047f5/02_levels.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/d0/56/88d056e2-86a0-1afe-71e0-b1f59b67cfc4/03_rotate.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/67/ac/4567acc4-d650-b962-eec3-bc0ed74307cc/04_devices.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/86/a7/5286a71c-0128-2b3f-9215-da15c2cfc691/01_push.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/01/c9/f501c92b-3990-bd38-396f-f384820c8c3c/02_levels.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/a2/75/b5a27507-f868-f3d3-0a52-11eae0af8fc5/03_rotate.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b4/3e/2ab43e1e-97f7-58b6-8323-b9ed6cf7c4c0/04_devices.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/ed/3c/feed3ca7-09cc-fb28-85f2-52d2f0393bac/01_push.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/e5/f2/94e5f26a-1862-18f1-24cd-8f710177861c/02_levels.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/50/13/80501351-e66c-bdfc-4f70-3a0e5d283a1a/03_rotate.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/0b/3f/0d0b3f53-26c7-c720-b3d6-a362f54a0a91/04_devices.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/81/27/3e8127b8-ab72-fb46-f461-ed281ee73a9f/01_push.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/6f/c0/ac6fc01c-3e77-6203-dc4d-8c894dcf4457/02_levels.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/36/41/dd3641db-ac8f-e3af-b5bc-c4f9d6d21914/03_rotate.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/58/a7/6e58a78e-015d-3200-299a-a13b735b1437/04_devices.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d5/8e/eed58e8a-6000-2303-db91-b741ceabb8f2/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-06_at_10.45.30.png/2732x2048bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/e3/ef/8ce3efcb-5309-f255-60b3-5f6f30c6cc26/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-05_at_23.04.33.png/2732x2048bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e1/f3/14e1f3d3-7419-cbff-7949-3c3164749765/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-05_at_23.06.10.png/2732x2048bb.png",
@@ -266,6 +308,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6d/d6/1f6dd663-8343-3abb-ae04-8c189c60df30/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-06_at_10.45.05.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/3a/53/d33a53d2-d565-0134-22bb-52b7204a07f8/Apple_Watch_Series_12__U002846mm_U0029_22.10.2026_at_21.16.57.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/2b/51/dd2b51c7-f1cf-08a4-8ed7-2b4c92637e94/Apple_Watch_Series_12__U002846mm_U0029_22.10.2026_at_21.17.27.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/48/8a/c5488a6f-cdf8-18f8-e537-ab0689f6c72b/Apple_Watch_Series_12__U002846mm_U0029_22.10.2026_at_21.17.49.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/bf/0f/06bf0f0b-b64b-fad2-eb05-4ba9f0290c78/94563de9-455e-4c26-ba51-9e2b42100dd4_Simulator_Screenshot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2024-01-31_at_21.51.22.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/60/0d/7e600dcc-c032-f36e-4e55-bb45615b81de/2c037fef-0d55-45bf-af35-98cfb2ba2668_Simulator_Screenshot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2024-01-31_at_21.52.44.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/09/f2/a009f200-6358-dc71-2cfe-0f5806c78bb1/343fa739-4ba7-413a-a785-fda1a5591645_Simulator_Screenshot_-_Apple_Watch_Series_8__U002845mm_U0029_-_2024-01-31_at_21.53.22.png/368x448bb.png",
@@ -416,8 +461,13 @@
       "version": "5.4",
       "releaseNotes": "Now with iPhone Duo support!",
       "seenAt": "2026-10-14T18:26:58Z"
+    },
+    {
+      "version": "5.5",
+      "releaseNotes": "New look! A cozy 3D warehouse, glowing boxes, night mode and a smoothly animated little forklift that brings every push to life.\n\nPush Boxes now speaks 20 languages! New: Turkish and Vietnamese, plus Brazilian Portuguese, Mexican Spanish, Canadian French, and UK and Australian English.\n\nThanks for playing!",
+      "seenAt": "2026-11-14T03:34:53Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:08:22.775Z",
+  "updatedAt": "2026-11-14T14:07:00.128Z",
   "isOwnApp": false
 }

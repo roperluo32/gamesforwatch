@@ -1,15 +1,15 @@
 {
   "trackId": "6761420728",
   "bundleId": "com.virtualgs.Reversi",
-  "slug": "neonflip-reversi-game",
-  "path": "/apps/6761420728-neonflip-reversi-game/",
+  "slug": "neonflip-space-reversi",
+  "path": "/apps/6761420728-neonflip-space-reversi/",
   "locales": {
     "en": {
-      "trackName": "NeonFlip: Reversi Game",
+      "trackName": "NeonFlip: Space Reversi",
       "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on iPad, iPhone (including Duo) and Apple Watch.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
-      "releaseNotes": "Fixed audio issues.\nEnhanced Apple Watch game play.",
-      "trackViewUrl": "https://apps.apple.com/us/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "$0.99",
+      "releaseNotes": "Improve design and performance.",
+      "trackViewUrl": "https://apps.apple.com/us/app/neonflip-space-reversi/id6761420728?uo=4",
+      "formattedPrice": "Free",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -29,9 +29,9 @@
     "ja": {
       "trackName": "NeonFlip: Reversi Game",
       "description": "近未来の宇宙を舞台にしたリバーシゲームで、銀河の覇権を懸けて戦おう！\niPad、iPhone（Duoを含む）、Apple Watchで艦隊を指揮し、銀河を征服せよ。\n\n友達と対戦したり、3段階の難易度から選べるAIと戦ったりすることができます。多言語対応！",
-      "releaseNotes": "オーディオ関連の問題を修正しました。\nApple Watchでのゲームプレイを強化しました。",
+      "releaseNotes": "デザインと性能を向上させる。",
       "trackViewUrl": "https://apps.apple.com/jp/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "無料",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -51,9 +51,9 @@
     "de": {
       "trackName": "NeonFlip: Reversi Game",
       "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf iPad, iPhone (einschließlich Duo-Modus) und Apple Watch.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
-      "releaseNotes": "Audioprobleme behoben.\nSpielerlebnis auf der Apple Watch verbessert.",
+      "releaseNotes": "Design und Leistung verbessern.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -72,8 +72,8 @@
     },
     "zh": {
       "trackName": "星际黑白棋",
-      "description": "星際黑白棋是一款以太空为主题的黑白棋（Reversi）游戏，争夺银河系的统治权！\n在 Apple Watch、iPhone、iPad 和 Mac 上指挥你的舰队，征服整个银河系。\n\n既可与好友对弈，也能挑战设有 3 种难度等级的人工智能（AI）。支持多种语言！",
-      "releaseNotes": "改进太空战斗设计。",
+      "description": "在这款以太空为背景的黑白棋游戏中，争夺银河系的统治权！\n您可以在 iPad、iPhone（含 Duo）及 Apple Watch 上指挥舰队，征服银河系。\n\n既可与好友对弈，也能挑战设有 3 种难度等级的 AI。支持多种语言！",
+      "releaseNotes": "改进设计与性能。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%9F%E9%99%85%E9%BB%91%E7%99%BD%E6%A3%8B/id6761420728?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Thye Chean Lim",
@@ -93,15 +93,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/3d/1b/783d1bc1-445c-dd0e-6f57-a8336fee835e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/7f/4d/4a7f4d8a-54c2-9e47-0b6c-18335dd7209c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
-  "fileSizeBytes": "22969344",
+  "price": 0,
+  "fileSizeBytes": "24439808",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "3.2",
-  "currentVersionReleaseDate": "2026-11-08T13:27:03Z",
+  "version": "3.3",
+  "currentVersionReleaseDate": "2026-11-13T20:25:57Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -245,6 +245,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/2a/85/9a2a85b0-45ef-e46f-c10c-41da215df218/Screenshot_iPhone_Duo_11-11-2026_at_7.53.02_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fd/af/a9fdaf71-3525-1949-95bc-694bd04ec5ee/Screenshot_iPhone_Duo_11-11-2026_at_7.53.26_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/dc/41/3cdc4109-7e10-d2e8-baa9-2ece1f209b90/Screenshot_iPhone_Duo_11-11-2026_at_7.55.15_U202fPM.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/e1/db/a7e1db1d-4b2d-c2cd-6477-65212541c1b8/iPad1.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/cc/86/07cc869f-5b7f-4d03-eb7e-49b5d0da67d7/iPad2.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b1/a0/03b1a0fe-d43f-c817-7c8a-25061e3d5496/iPad3.png/2732x2048bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/90/18/d490183c-7190-178b-ea4b-0aab46c1f2e4/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/91/ca/f491ca54-8332-81fa-6b9e-8adf78f64927/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/51/9b/36519b20-79b8-c85b-3532-3f3bf0f7d5c7/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/f9/67/9cf96790-ca68-c3a8-498e-99a82dffc80d/iPhone1.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/b0/87/7ab087ab-98af-4c6e-b0c6-1467065c8655/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/f0/9f/70f09f12-e6c3-db4d-abd1-6d6586570d82/iPhone3.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/f9/67/9cf96790-ca68-c3a8-498e-99a82dffc80d/iPhone1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/b0/87/7ab087ab-98af-4c6e-b0c6-1467065c8655/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/f0/9f/70f09f12-e6c3-db4d-abd1-6d6586570d82/iPhone3.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/e1/db/a7e1db1d-4b2d-c2cd-6477-65212541c1b8/iPad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/cc/86/07cc869f-5b7f-4d03-eb7e-49b5d0da67d7/iPad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b1/a0/03b1a0fe-d43f-c817-7c8a-25061e3d5496/iPad3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/35/99/be359925-4ad2-ce42-3521-10c62131757e/duo1.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b2/fb/66b2fb6a-e0a6-1448-ff67-bc57424dbbb8/duo2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/3c/93/323c9345-8ba3-1270-1b92-c55be49f7d71/duo3.png/2853x2007bb.png",
@@ -317,6 +335,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/c8/30/5bc83001-b805-1ed2-fc75-25aa53e961d6/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/88/05/748805eb-b7b9-1d2b-e0a7-f27bc2bbd88f/incoming-774A0B1A-50A2-410D-9F9D-137B048E113E.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/05/08/6d05085a-f63c-bfaa-e11f-aacaf5bf9d4f/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/14/c7/5214c7a6-5989-3415-ccd5-a7fbb416d287/incoming-774A0B1A-50A2-410D-9F9D-137B048E113E.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7a/85/0d7a8554-6cbb-2e1e-e6a8-9575fb24bb1a/incoming-7563C1BF-3740-4052-AF44-200C2F51B465.PNG/422x514bb.png",
@@ -403,8 +423,13 @@
       "version": "3.2",
       "releaseNotes": "Fixed audio issues.\nEnhanced Apple Watch game play.",
       "seenAt": "2026-11-08T13:27:03Z"
+    },
+    {
+      "version": "3.3",
+      "releaseNotes": "Improve design and performance.",
+      "seenAt": "2026-11-13T20:25:57Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:05:14.135Z",
+  "updatedAt": "2026-11-14T14:03:52.931Z",
   "isOwnApp": false
 }

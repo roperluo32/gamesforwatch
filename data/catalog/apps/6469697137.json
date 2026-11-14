@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Omni-Watch 3D: Watch Simulator",
       "description": "This is a collection of some awesome alien watches! They're all in 3D with animations and sound effects that bring them to life and make you feel like your favorite superhero.\n\n\nDisclaimer:\nSome images in the app may be copyrighted. This app is a project made entirely by fans. We are not associated with any trademark.",
-      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Parasitrix, Charnitrix, Xelutrix, Absolute, Alpha Ultimatrix, 5 Years Later and 5 Years Later Uniform\n[+] Added Ascalon, Annihilarggh, Bullhorn and Busy Box\n[+] Every watch now has multiple animations\n[+] More alien holograms\n[+] iPhone Duo support\n[+] Smoother on older phones\n\nThanks for supporting us!",
+      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Recalibrated Carnitrix, Traumatrix, Animatrix and XTrix\n[+] Added Alpha Rune\n[+] New Transformation Animations\n[+] Carnitrix and Bloodtrix rebuilt with all-new 3D models\n[+] Much smoother on older phones\n[+] Bug Fixes\n\nThanks for supporting us!",
       "trackViewUrl": "https://apps.apple.com/us/app/omni-watch-3d-watch-simulator/id6469697137?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Samet Kuzu",
@@ -30,7 +30,7 @@
     "ja": {
       "trackName": "Omni-Watch 3D: Watch Simulator",
       "description": "This is a collection of some awesome alien watches! They're all in 3D with animations and sound effects that bring them to life and make you feel like your favorite superhero.\n\n\nDisclaimer:\nSome images in the app may be copyrighted. This app is a project made entirely by fans. We are not associated with any trademark.",
-      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Parasitrix, Charnitrix, Xelutrix, Absolute, Alpha Ultimatrix, 5 Years Later and 5 Years Later Uniform\n[+] Added Ascalon, Annihilarggh, Bullhorn and Busy Box\n[+] Every watch now has multiple animations\n[+] More alien holograms\n[+] iPhone Duo support\n[+] Smoother on older phones\n\nThanks for supporting us!",
+      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Recalibrated Carnitrix, Traumatrix, Animatrix and XTrix\n[+] Added Alpha Rune\n[+] New Transformation Animations\n[+] Carnitrix and Bloodtrix rebuilt with all-new 3D models\n[+] Much smoother on older phones\n[+] Bug Fixes\n\nThanks for supporting us!",
       "trackViewUrl": "https://apps.apple.com/jp/app/omni-watch-3d-watch-simulator/id6469697137?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Samet Kuzu",
@@ -53,7 +53,7 @@
     "de": {
       "trackName": "Omni-Watch 3D: Watch Simulator",
       "description": "This is a collection of some awesome alien watches! They're all in 3D with animations and sound effects that bring them to life and make you feel like your favorite superhero.\n\n\nDisclaimer:\nSome images in the app may be copyrighted. This app is a project made entirely by fans. We are not associated with any trademark.",
-      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Parasitrix, Charnitrix, Xelutrix, Absolute, Alpha Ultimatrix, 5 Years Later and 5 Years Later Uniform\n[+] Added Ascalon, Annihilarggh, Bullhorn and Busy Box\n[+] Every watch now has multiple animations\n[+] More alien holograms\n[+] iPhone Duo support\n[+] Smoother on older phones\n\nThanks for supporting us!",
+      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Recalibrated Carnitrix, Traumatrix, Animatrix and XTrix\n[+] Added Alpha Rune\n[+] New Transformation Animations\n[+] Carnitrix and Bloodtrix rebuilt with all-new 3D models\n[+] Much smoother on older phones\n[+] Bug Fixes\n\nThanks for supporting us!",
       "trackViewUrl": "https://apps.apple.com/de/app/omni-watch-3d-watch-simulator/id6469697137?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Samet Kuzu",
@@ -74,15 +74,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/33/8b/27338bfb-b161-b0bd-ca16-43c3fe4fb7ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/99/18/079918c1-5d6d-cfb3-fe18-d05869db62b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.60562,
   "userRatingCount": 71,
   "price": 0,
-  "fileSizeBytes": "419569664",
+  "fileSizeBytes": "447226880",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "2.4",
-  "currentVersionReleaseDate": "2026-10-25T13:55:54Z",
+  "version": "2.5",
+  "currentVersionReleaseDate": "2026-11-13T17:24:04Z",
   "releaseDate": "2023-10-19T07:00:00Z",
   "artistId": 1699160528,
   "artistName": "Samet Kuzu",
@@ -419,8 +419,13 @@
       "version": "2.4",
       "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Parasitrix, Charnitrix, Xelutrix, Absolute, Alpha Ultimatrix, 5 Years Later and 5 Years Later Uniform\n[+] Added Ascalon, Annihilarggh, Bullhorn and Busy Box\n[+] Every watch now has multiple animations\n[+] More alien holograms\n[+] iPhone Duo support\n[+] Smoother on older phones\n\nThanks for supporting us!",
       "seenAt": "2026-10-25T13:55:54Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "We are constantly making changes and improvements. To ensure you stay up to date, simply keep your updates turned on.\n\n[+] Added Recalibrated Carnitrix, Traumatrix, Animatrix and XTrix\n[+] Added Alpha Rune\n[+] New Transformation Animations\n[+] Carnitrix and Bloodtrix rebuilt with all-new 3D models\n[+] Much smoother on older phones\n[+] Bug Fixes\n\nThanks for supporting us!",
+      "seenAt": "2026-11-13T17:24:04Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:07:10.051Z",
+  "updatedAt": "2026-11-14T14:05:48.529Z",
   "isOwnApp": false
 }

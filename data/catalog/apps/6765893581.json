@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori is a calm nonogram puzzle game. Solve logic grids using number clues — no time pressure, no ads, no in-app pestering.\n\n• Today's puzzle delivered daily\n• Sizes from 5×5 to 15×15\n• Easy, Medium, Hard, Expert difficulty\n• Streak heatmap and personal stats\n• Apple Watch companion\n• Light and dark themes\n• Fully offline — your progress stays on your device\n\nDesigned for the moments you want to put your phone on Do Not Disturb but still keep your mind moving. If you enjoy logic grids and number puzzles, you'll feel at home.",
-      "releaseNotes": "If you've already started today's puzzle, the Today card button now says Continue instead of Begin.",
+      "releaseNotes": "Small improvements and stability updates.",
       "trackViewUrl": "https://apps.apple.com/us/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Free",
       "sellerName": "JIYULMOM",
@@ -36,7 +36,7 @@
     "ja": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomoriは静かな時間のためのノノグラム（お絵かきロジック）です。行と列の数字ヒントだけを頼りにマスを塗り、隠れた絵を完成させるロジックパズル。制限時間も広告もなく、自分のペースで解けます。\n\n■ 毎日の「今日のパズル」\n毎日新しい一問が届きます。解ける答えが一つだけになるよう作られているので、当て推量なしで論理だけで進めます。\n\n■ サイズと難易度\n5×5の短い一問から15×15のじっくり解く一問まで。易しい・普通・難しい・エキスパートの4段階。\n\n■ 続けたくなる記録\n連続記録のヒートマップと個人統計で、毎日の積み重ねが見えます。\n\n■ どこでも・静かに\n• 完全オフライン — 記録は端末にだけ保存\n• ライト／ダークテーマ\n• Apple Watchから今日のパズルへすぐアクセス\n• やさしい効果音と触覚フィードバック\n\n■ Nomori Pro（買い切り）\n一度の購入でずっと使えます。\n• ヒント無制限（無料版は1問につき1回）\n• 過去の「今日のパズル」をいつでも再挑戦\n• 3回ミスでやり直しになるストリクトモード\n• Proパズルパック\n\nスマホを「おやすみモード」にしても、頭は動かしていたい時間に。",
-      "releaseNotes": "今日のパズルを解きかけのときは、今日のカードのボタンが「スタート」ではなく「続きから」と表示されるようになりました。",
+      "releaseNotes": "細かな改善と安定性の向上。",
       "trackViewUrl": "https://apps.apple.com/jp/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "無料",
       "sellerName": "JIYULMOM",
@@ -65,7 +65,7 @@
     "de": {
       "trackName": "Nomori: Nonogram",
       "description": "Nomori ist ein ruhiges Nonogramm-Spiel. Löse Logikgitter mit Zahlenhinweisen — ohne Zeitdruck, ohne Werbung, ohne nervige In-App-Käufe.\n\n• Tägliches Rätsel\n• Größen von 5×5 bis 15×15\n• Vier Schwierigkeitsgrade\n• Streak-Heatmap mit persönlichen Statistiken\n• Apple Watch Begleiter\n• Helles und dunkles Design\n• Vollständig offline — deine Daten bleiben auf deinem Gerät\n\nFür die Momente, in denen du dein iPhone auf \"Nicht stören\" stellst, aber dein Kopf wach bleiben soll.",
-      "releaseNotes": "Wenn du das heutige Rätsel schon angefangen hast, zeigt die Taste auf der Heute-Karte jetzt Weiter statt Start.",
+      "releaseNotes": "Kleine Verbesserungen und Stabilitäts-Updates.",
       "trackViewUrl": "https://apps.apple.com/de/app/nomori-nonogram/id6765893581?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "JIYULMOM",
@@ -92,15 +92,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/44/d2/7544d25b-970a-8d23-8b98-702bbbf82844/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/f6/6b/4af66b60-9f7c-5217-7a17-e0deac1c9218/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "13088768",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.4",
-  "version": "1.6.5",
-  "currentVersionReleaseDate": "2026-11-05T17:41:59Z",
+  "version": "1.6.6",
+  "currentVersionReleaseDate": "2026-11-13T22:25:15Z",
   "releaseDate": "2026-05-04T07:00:00Z",
   "artistId": 379186743,
   "artistName": "JIYULMOM",
@@ -244,6 +244,32 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/34/4f/67344f16-6ae6-0852-fef0-9e600a3914bb/nomori-duo-book.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/1e/f2/871ef258-9af0-b454-3076-26cd2b19ba33/nomori-duo-tabletop.png/2007x2853bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/72/98/ff729893-d4e6-6d82-6926-4d0f6082c938/01_play.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/32/ed/3332edde-8847-52b7-95d7-1caf8e7d1eef/02_t0.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/82/e1/7b82e193-ff70-056a-d6ea-b7a14e1f6d23/03_t1.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/78/82/5f7882e4-7c39-6a36-3474-6a9b8927f917/04_t2.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/99/b3/e599b37d-bcad-53b6-a529-250928fec34f/01_play.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/d6/0b/d6d60baa-525c-2492-4f66-dae452f721fc/02_t0.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/12/83/011283b4-5ead-07b5-5ee4-b42a3e4625f0/03_t1.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/04/99/ca0499c0-4f6a-b844-891d-c3a51f9fbf26/04_t2.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/4c/61/f44c610b-c8cb-2f9f-b799-72257c60e5e9/01_play.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/15/4b/c1154b20-a4e2-d1c5-657c-87077a8a91bc/02_t0.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/66/67/92666793-4215-4fdf-1547-98830f3a0473/03_t1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/57/15/7f5715a6-4e3b-4b0e-1227-9d3ee4bd3ba2/04_t2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/72/98/ff729893-d4e6-6d82-6926-4d0f6082c938/01_play.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/32/ed/3332edde-8847-52b7-95d7-1caf8e7d1eef/02_t0.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/82/e1/7b82e193-ff70-056a-d6ea-b7a14e1f6d23/03_t1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/78/82/5f7882e4-7c39-6a36-3474-6a9b8927f917/04_t2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/13/ef/7f13ef0c-de05-2544-91be-cb150216fedc/01_play.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ff/58/36ff58f8-1b40-4b07-d566-aca8c023129d/02_t0.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/7a/30/487a30a9-d168-faa6-3407-d51f4c4e8f12/03_t1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/2f/90/3a2f90a7-cf28-681b-1f8d-0528f1e04111/04_t2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/99/b3/e599b37d-bcad-53b6-a529-250928fec34f/01_play.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/d6/0b/d6d60baa-525c-2492-4f66-dae452f721fc/02_t0.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/12/83/011283b4-5ead-07b5-5ee4-b42a3e4625f0/03_t1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/04/99/ca0499c0-4f6a-b844-891d-c3a51f9fbf26/04_t2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/8b/b1/6f8bb1ca-1235-7903-29ca-b3094ee3bb2b/nomori-duo-book.png/2853x2007bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/e0/20/cee02048-9f2e-bd5f-5441-5c6069dfab39/nomori-duo-tabletop.png/2007x2853bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/02/7d/15027de7-3d15-1303-e811-af359b6de982/Simulator_Screenshot_-_iPad_Air_13-inch__M4__-_2026-05-03_at_10.24.29.png/2048x2732bb.png",
@@ -337,6 +363,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/f0/c8/0ff0c84c-872a-a21f-13b3-95c972e8081c/04.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/f0/d4/bdf0d469-5a2b-4096-d022-6624c6cdaa2c/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.58.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/01/3f/90013f49-6b2e-f8bd-747e-98c3312b6ea4/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.12.png/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/bb/70/6bbb70ea-63ab-b84e-dfd7-57c482e82aa6/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.22.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/34/4d/93344d3f-e4e5-3327-3d2b-d895ca5bfaf4/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.58.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4f/38/dc4f3897-19ae-f269-ae85-541587384f07/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.12.png/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4d/c6/244dc687-b44a-892c-596c-c621bba922ee/Simulator_Screenshot_-_Apple_Watch_Ultra_2__49mm__-_2026-05-05_at_11.59.22.png/410x502bb.png",
@@ -487,8 +516,13 @@
       "version": "1.6.5",
       "releaseNotes": "If you've already started today's puzzle, the Today card button now says Continue instead of Begin.",
       "seenAt": "2026-11-05T17:41:59Z"
+    },
+    {
+      "version": "1.6.6",
+      "releaseNotes": "Small improvements and stability updates.",
+      "seenAt": "2026-11-13T22:25:15Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:05:43.263Z",
+  "updatedAt": "2026-11-14T14:04:25.006Z",
   "isOwnApp": false
 }

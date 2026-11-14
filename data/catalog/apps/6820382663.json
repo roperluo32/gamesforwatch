@@ -6,8 +6,8 @@
   "locales": {
     "en": {
       "trackName": "Save Me!",
-      "description": "**SAVE ME! — A Tiny Puzzle Adventure!**\n\nOne terrified office worker. One hundred dangerous situations. Only you can save him!\n\nPull the pins in the right order to guide our unlucky hero through a world of lava, monsters, falling rocks, explosions and ridiculous disasters.\n\nEvery puzzle is a new challenge. Think carefully, choose which pin to pull first, and watch the chaos unfold!\n\n**100 PUZZLES TO SOLVE**\n\nWork your way through 100 carefully designed levels, from simple rescues to challenging multi-step puzzles.\n\n**PULL THE RIGHT PIN!**\n\nOne tap can change everything. Release water, redirect lava, drop rocks, defeat monsters and open the path to safety.\n\n**WATCH THE CHAOS UNFOLD**\n\nEnjoy colorful cartoon graphics, animated environments, funny characters and satisfying interactions.\n\n**BUILT FOR APPLE WATCH**\n\nDesigned specifically for your wrist, with simple touch controls, short puzzles and quick retries.\n\n**NO PRESSURE. JUST PUZZLES.**\n\nNo timers, no lives, no advertisements and no in-app purchases. Take your time and solve each rescue at your own pace.\n\nCan you survive all 100 disasters?\n\n**SAVE ME!**",
-      "releaseNotes": "",
+      "description": "One terrified office worker. 200 rescue puzzles. Only you can save him!\n\nPull the pins in the right order to guide him past lava, monsters, falling rocks, and ridiculous disasters. Think through each move and find a safe way out.\n\nSave Me! is built for Apple Watch, with quick puzzles you can play right on your wrist. All 200 levels are included with the game. There are no ads or in-app purchases.",
+      "releaseNotes": "100 new rescue puzzles bring the total to 200. Pins are easier to tap, and buttons respond across their full area. All 200 levels are included with the game.",
       "trackViewUrl": "https://apps.apple.com/us/app/save-me/id6820382663?uo=4",
       "formattedPrice": "$1.99",
       "sellerName": "Daniel Beer",
@@ -23,8 +23,8 @@
     },
     "ja": {
       "trackName": "Save Me!",
-      "description": "**SAVE ME! — A Tiny Puzzle Adventure!**\n\nOne terrified office worker. One hundred dangerous situations. Only you can save him!\n\nPull the pins in the right order to guide our unlucky hero through a world of lava, monsters, falling rocks, explosions and ridiculous disasters.\n\nEvery puzzle is a new challenge. Think carefully, choose which pin to pull first, and watch the chaos unfold!\n\n**100 PUZZLES TO SOLVE**\n\nWork your way through 100 carefully designed levels, from simple rescues to challenging multi-step puzzles.\n\n**PULL THE RIGHT PIN!**\n\nOne tap can change everything. Release water, redirect lava, drop rocks, defeat monsters and open the path to safety.\n\n**WATCH THE CHAOS UNFOLD**\n\nEnjoy colorful cartoon graphics, animated environments, funny characters and satisfying interactions.\n\n**BUILT FOR APPLE WATCH**\n\nDesigned specifically for your wrist, with simple touch controls, short puzzles and quick retries.\n\n**NO PRESSURE. JUST PUZZLES.**\n\nNo timers, no lives, no advertisements and no in-app purchases. Take your time and solve each rescue at your own pace.\n\nCan you survive all 100 disasters?\n\n**SAVE ME!**",
-      "releaseNotes": "",
+      "description": "One terrified office worker. 200 rescue puzzles. Only you can save him!\n\nPull the pins in the right order to guide him past lava, monsters, falling rocks, and ridiculous disasters. Think through each move and find a safe way out.\n\nSave Me! is built for Apple Watch, with quick puzzles you can play right on your wrist. All 200 levels are included with the game. There are no ads or in-app purchases.",
+      "releaseNotes": "100 new rescue puzzles bring the total to 200. Pins are easier to tap, and buttons respond across their full area. All 200 levels are included with the game.",
       "trackViewUrl": "https://apps.apple.com/jp/app/save-me/id6820382663?uo=4",
       "formattedPrice": "¥300",
       "sellerName": "Daniel Beer",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d9/6d/a1d96d07-fb67-38a2-474a-96b4ab98d7f5/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/31/9e/8c319e36-3224-3134-4b8d-ba8465724436/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 300,
-  "fileSizeBytes": "4447232",
+  "fileSizeBytes": "4795392",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.6",
-  "version": "1.0",
-  "currentVersionReleaseDate": "2026-10-09T07:00:00Z",
+  "version": "1.1",
+  "currentVersionReleaseDate": "2026-11-14T08:04:25Z",
   "releaseDate": "2026-10-09T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
@@ -218,9 +218,14 @@
     {
       "version": "1.0",
       "releaseNotes": "",
-      "seenAt": "2026-10-09T07:00:00Z"
+      "seenAt": "2026-10-09T06:59:59Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "100 new rescue puzzles bring the total to 200. Pins are easier to tap, and buttons respond across their full area. All 200 levels are included with the game.",
+      "seenAt": "2026-11-14T08:04:25Z"
     }
   ],
-  "updatedAt": "2026-11-13T14:57:27.651Z",
+  "updatedAt": "2026-11-14T13:52:25.256Z",
   "isOwnApp": false
 }
