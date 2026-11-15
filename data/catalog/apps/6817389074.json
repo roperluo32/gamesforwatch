@@ -9,7 +9,7 @@
       "description": "Meet Chester the little cat who lives on your watch.\nPut Chester on your watch face with the Cat Café widget. Throughout the day, the widget changes to show Chester in different poses, moods and ridiculous cat situations. Special days bring special appearances too.\nOpen Cat Café and Chester becomes your interactive virtual pet. Feed him, pet him, listen to his meows and purrs, and watch him wander around his room and play.\nCare for Chester to unlock new toys. He also has a life of his own eating, drinking, sleeping, grooming, playing and getting up to cat-like mischief while you're there.\nAnd when Saturday night arrives, Chester has another idea: disco.\nFeatures\n• Chester widget for your Apple Watch face\n• Lots of changing widget images throughout the day\n• Special seasonal and holiday widget surprises\n• Feed and pet your virtual cat\n• Unlock new toys as you play\n• Realistic meows and purring\n• Autonomous cat behaviours and animations\n• Saturday night disco\n• No ads\n• No subscriptions\nChester isn't just another game to open. He's a little cat who lives on your wrist.",
       "releaseNotes": "Cat Café keeps getting better!\n\n• Improved toy unlocking and progression\n• Newly unlocked toys appear immediately, with a cheerful reward chime\n• Improved Chester meows, purring and interactions\n• Refinements to animations and toy behaviour\n• General stability and performance improvements\n\nMore fun with Chester, right on your wrist!",
       "trackViewUrl": "https://apps.apple.com/us/app/cat-caf%C3%A9/id6817389074?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "$0.99",
       "sellerName": "Daniel Beer",
       "genres": [
         "Games"
@@ -24,7 +24,7 @@
       "description": "Meet Chester the little cat who lives on your watch.\nPut Chester on your watch face with the Cat Café widget. Throughout the day, the widget changes to show Chester in different poses, moods and ridiculous cat situations. Special days bring special appearances too.\nOpen Cat Café and Chester becomes your interactive virtual pet. Feed him, pet him, listen to his meows and purrs, and watch him wander around his room and play.\nCare for Chester to unlock new toys. He also has a life of his own eating, drinking, sleeping, grooming, playing and getting up to cat-like mischief while you're there.\nAnd when Saturday night arrives, Chester has another idea: disco.\nFeatures\n• Chester widget for your Apple Watch face\n• Lots of changing widget images throughout the day\n• Special seasonal and holiday widget surprises\n• Feed and pet your virtual cat\n• Unlock new toys as you play\n• Realistic meows and purring\n• Autonomous cat behaviours and animations\n• Saturday night disco\n• No ads\n• No subscriptions\nChester isn't just another game to open. He's a little cat who lives on your wrist.",
       "releaseNotes": "Cat Café keeps getting better!\n\n• Improved toy unlocking and progression\n• Newly unlocked toys appear immediately, with a cheerful reward chime\n• Improved Chester meows, purring and interactions\n• Refinements to animations and toy behaviour\n• General stability and performance improvements\n\nMore fun with Chester, right on your wrist!",
       "trackViewUrl": "https://apps.apple.com/jp/app/cat-caf%C3%A9/id6817389074?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "¥150",
       "sellerName": "Daniel Beer",
       "genres": [
         "ゲーム"
@@ -38,7 +38,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/34/0b/a4340b9e-e9ff-8ca0-ca9f-0b36a55a52f2/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 150,
   "fileSizeBytes": "57396224",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
@@ -218,6 +218,6 @@
       "seenAt": "2026-10-15T00:14:05Z"
     }
   ],
-  "updatedAt": "2026-11-14T14:06:51.463Z",
+  "updatedAt": "2026-11-15T14:35:31.549Z",
   "isOwnApp": false
 }

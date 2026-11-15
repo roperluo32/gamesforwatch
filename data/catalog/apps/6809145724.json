@@ -9,7 +9,7 @@
       "description": "Race down the mountain in Ski Bunny: Downhill Adventure, a fast and fun skiing game built for Apple Watch.\n\nSteer your bunny skier with your wrist as you weave through snowy slopes, dodge trees and obstacles, and race through increasingly challenging runs. Tap the screen while airborne to perform tricks.\n\nEncounter snowmen, yetis, icy cliffs and other surprises as you progress through the mountains.\n\nSimple wrist controls make Ski Bunny easy to pick up and play, with quick runs designed especially for Apple Watch.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/us/app/ski-bunny-downhill-adventure/id6809145724?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "$0.99",
       "sellerName": "Daniel Beer",
       "genres": [
         "Games"
@@ -24,7 +24,7 @@
       "description": "Race down the mountain in Ski Bunny: Downhill Adventure, a fast and fun skiing game built for Apple Watch.\n\nSteer your bunny skier with your wrist as you weave through snowy slopes, dodge trees and obstacles, and race through increasingly challenging runs. Tap the screen while airborne to perform tricks.\n\nEncounter snowmen, yetis, icy cliffs and other surprises as you progress through the mountains.\n\nSimple wrist controls make Ski Bunny easy to pick up and play, with quick runs designed especially for Apple Watch.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/jp/app/ski-bunny-downhill-adventure/id6809145724?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "¥150",
       "sellerName": "Daniel Beer",
       "genres": [
         "ゲーム"
@@ -38,7 +38,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/c2/a7/11c2a7b9-9f92-29cc-882d-1e36cb2e0237/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 150,
   "fileSizeBytes": "11826176",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
@@ -202,6 +202,6 @@
       "seenAt": "2026-09-24T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-14T14:08:20.903Z",
+  "updatedAt": "2026-11-15T14:37:13.309Z",
   "isOwnApp": false
 }

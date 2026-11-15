@@ -9,7 +9,7 @@
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\n\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your Apple Watch, iPhone or iPad!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- 3 exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
       "releaseNotes": "Improve design.",
       "trackViewUrl": "https://apps.apple.com/us/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -31,7 +31,7 @@
       "description": "**『Alien Breakout』— 名作ブロック崩しにエイリアンの要素をプラス！**\n\n次々と襲来するエイリアンから身を守れ！名作ブロック崩しゲームに、アクション満載のひねりを加えた本作。シールドをスライドさせて攻撃を跳ね返し、エイリアンに反撃しよう。ただし、相手も黙ってはいないぞ！\n\nApple Watch、iPhone、iPad — **どこでもプレイ可能！**\n\n- Digital Crownやタッチスクリーンを使った直感的な操作。\n- 防御を強化する、3種類の刺激的なパワーアップアイテム。\n- 初心者から上級者まで楽しめる、多彩な難易度設定。\n\n**跳ね返せ。守り抜け。そして撃破せよ！**",
       "releaseNotes": "デザインを改善する。",
       "trackViewUrl": "https://apps.apple.com/jp/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥150",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -53,7 +53,7 @@
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\n\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your Apple Watch, iPhone or iPad!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- 3 exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
       "releaseNotes": "Improve design.",
       "trackViewUrl": "https://apps.apple.com/de/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -96,7 +96,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7f/5d/9f7f5d8a-8114-e860-9f10-8a1c842e4d03/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "28704768",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
@@ -475,6 +475,6 @@
       "seenAt": "2026-11-10T00:29:40Z"
     }
   ],
-  "updatedAt": "2026-11-14T13:45:52.999Z",
+  "updatedAt": "2026-11-15T14:14:07.622Z",
   "isOwnApp": false
 }

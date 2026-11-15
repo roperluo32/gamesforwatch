@@ -9,7 +9,7 @@
       "description": "Little Garden is a peaceful gardening game made for Apple Watch.\n\nPlant crops, water them as they grow, and return later to harvest your garden. Earn coins to unlock new crops, expand into new garden areas, and eventually discover your own apple orchard.\n\nYour garden continues to grow while you’re away, making Little Garden perfect for quick visits throughout the day.\n\nAlong the way, adorable garden visitors may appear. Discover rabbits, bees, butterflies, frogs and more, then record your discoveries in your Garden Book.\n\nNo pressure. No dying crops. Just a tiny, colourful garden growing on your wrist.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/us/app/little-garden/id6811561502?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "$0.99",
       "sellerName": "Daniel Beer",
       "genres": [
         "Games"
@@ -24,7 +24,7 @@
       "description": "Little Garden is a peaceful gardening game made for Apple Watch.\n\nPlant crops, water them as they grow, and return later to harvest your garden. Earn coins to unlock new crops, expand into new garden areas, and eventually discover your own apple orchard.\n\nYour garden continues to grow while you’re away, making Little Garden perfect for quick visits throughout the day.\n\nAlong the way, adorable garden visitors may appear. Discover rabbits, bees, butterflies, frogs and more, then record your discoveries in your Garden Book.\n\nNo pressure. No dying crops. Just a tiny, colourful garden growing on your wrist.",
       "releaseNotes": "",
       "trackViewUrl": "https://apps.apple.com/jp/app/little-garden/id6811561502?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "¥150",
       "sellerName": "Daniel Beer",
       "genres": [
         "ゲーム"
@@ -38,7 +38,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/66/ed/0966eddd-3938-b321-a0cd-6dd6f813cced/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 150,
   "fileSizeBytes": "34518016",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
@@ -202,6 +202,6 @@
       "seenAt": "2026-09-24T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-14T13:52:18.888Z",
+  "updatedAt": "2026-11-15T14:23:01.012Z",
   "isOwnApp": false
 }

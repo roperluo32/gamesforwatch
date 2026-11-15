@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Super Quest: Retro Pixel RPG",
       "description": "**Retro style RPG which can be played completely for free!!**\n\nYou can go on an adventure with just one finger in your spare time. Explore dungeons to slay monsters, level up, go to towns & buy equipments, then defeat boss!!\n\n-------------------------------------\nThis game is completely FREE!!\n-------------------------------------",
-      "releaseNotes": "Our first update in 8 years.\n\nWe've refreshed the app icon, monsters, dungeon and map backgrounds, and the UI.\n\nRevised all English text to stay true to the original Japanese.\n\nWe've also fixed many bugs, including issues with HP recovery.",
+      "releaseNotes": "Improvements and bug fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/super-quest-retro-pixel-rpg/id1050429304?uo=4",
       "formattedPrice": "Free",
       "sellerName": "SHIMADA TOSHIHIRO",
@@ -25,7 +25,7 @@
     "zh": {
       "trackName": "スーパークエスト",
       "description": "【完全無料で遊べる放置系RPG】\nシンプルなタップ操作でレベルを上げて、魔王へ戦いを挑みましょう！\n\n◆プロローグ◆\n主人公は、18歳の誕生日を迎えた青年。\n父・トトスの魔物退治を手伝い始める事をきっかけに\n父が魔物退治をはじめた理由を聞かされる。\n\n父との魔物退治から始まっていく\n主人公の壮大な物語とは・・・\n\n---------------------------------------\n※課金要素は一切ありません！完全無料アプリです\n---------------------------------------\n\n◆遊び方◆\nダンジョンでモンスターが現れたら\nタップやスワイプで\nモンスターを攻撃しよう!\n\nHPが0になってもゲームオーバーではなく\nダンジョンから戻されるだけなので\nHPが0になるまでモンスターを倒し続け\nゴールドと経験値をためましょう!\n\nためたゴールドで街の武器屋で装備を購入し\n主人公をパワーアップさせることが出来ます\n\nまた経験値を一定まで貯めることでも\n主人公がレベルアップしパワーアップします\n\nレアなモンスターほど\n多くのゴールドや経験値を持っています\n\n◆Apple Watch対応◆\n勇者の体力の回復状況や\nモンスターの図鑑などがApple Watchで確認できます\n\n◆注意◆\niPhoneの時間を操作すると\nゲームを遊べなくなることがありますのでご注意ください",
-      "releaseNotes": "8年ぶりのアップデートです。\n\nアイコン、モンスター、ダンジョンやマップの背景、UIを新しくしました。\n\nその他、回復機能など、多くのバグを修正しました。",
+      "releaseNotes": "いくつかの改善と、不具合の修正を行いました。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88/id1050429304?uo=4",
       "formattedPrice": "免费",
       "sellerName": "SHIMADA TOSHIHIRO",
@@ -43,7 +43,7 @@
     "ja": {
       "trackName": "スーパークエスト",
       "description": "【完全無料で遊べる放置系RPG】\nシンプルなタップ操作でレベルを上げて、魔王へ戦いを挑みましょう！\n\n◆プロローグ◆\n主人公は、18歳の誕生日を迎えた青年。\n父・トトスの魔物退治を手伝い始める事をきっかけに\n父が魔物退治をはじめた理由を聞かされる。\n\n父との魔物退治から始まっていく\n主人公の壮大な物語とは・・・\n\n---------------------------------------\n※課金要素は一切ありません！完全無料アプリです\n---------------------------------------\n\n◆遊び方◆\nダンジョンでモンスターが現れたら\nタップやスワイプで\nモンスターを攻撃しよう!\n\nHPが0になってもゲームオーバーではなく\nダンジョンから戻されるだけなので\nHPが0になるまでモンスターを倒し続け\nゴールドと経験値をためましょう!\n\nためたゴールドで街の武器屋で装備を購入し\n主人公をパワーアップさせることが出来ます\n\nまた経験値を一定まで貯めることでも\n主人公がレベルアップしパワーアップします\n\nレアなモンスターほど\n多くのゴールドや経験値を持っています\n\n◆Apple Watch対応◆\n勇者の体力の回復状況や\nモンスターの図鑑などがApple Watchで確認できます\n\n◆注意◆\niPhoneの時間を操作すると\nゲームを遊べなくなることがありますのでご注意ください",
-      "releaseNotes": "8年ぶりのアップデートです。\n\nアイコン、モンスター、ダンジョンやマップの背景、UIを新しくしました。\n\nその他、回復機能など、多くのバグを修正しました。",
+      "releaseNotes": "いくつかの改善と、不具合の修正を行いました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88/id1050429304?uo=4",
       "formattedPrice": "無料",
       "sellerName": "SHIMADA TOSHIHIRO",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f9/de/acf9deec-8f6a-f0d9-c107-a965f5bf2105/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/3c/34/d63c3443-fc82-52eb-f28b-c4f7981b01b4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.57167,
   "userRatingCount": 4744,
   "price": 0,
-  "fileSizeBytes": "68555776",
+  "fileSizeBytes": "68551680",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "1.5.0",
-  "currentVersionReleaseDate": "2026-10-17T01:31:17Z",
+  "version": "1.5.1",
+  "currentVersionReleaseDate": "2026-11-15T03:07:22Z",
   "releaseDate": "2016-02-17T01:41:51Z",
   "artistId": 909988166,
   "artistName": "SHIMADA TOSHIHIRO",
@@ -221,16 +221,16 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/2f/68/4b2f68ce-fcd8-6cb6-458e-d8593a24689d/applestore_en_8.png/1179x2556bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/cb/c1/63cbc143-8413-3a0d-7c28-bf15fafe2bf8/applestore_en_7.png/1179x2556bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6d/af/956daf2c-8e80-6a7e-5d96-6dc563249de5/applestore_en_10.png/1179x2556bb.png",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b6/4b/4db64b7d-16ae-9ba7-6e73-45a737be12de/applestore_jp_1.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/57/a2/5857a2d5-873e-0f26-1293-b3e167a2c2c9/applestore_jp_2.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/2c/84/cd2c8439-a404-75b6-f37a-c406a433525a/applestore_jp_3.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/33/0e6c3359-235b-f671-48c9-8af4a5f8fa93/applestore_jp_4.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/b0/29/ddb02959-639e-5877-be19-bc889b4fac5a/applestore_jp_5.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/dd/d5/4addd50d-2530-69f9-2dfc-b97e2d13943d/applestore_jp_9.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/7f/6f/b67f6f0c-2516-5552-8915-a6a812018ff0/applestore_jp_6.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/5d/7e/d35d7e8c-4e11-2660-cd93-b613aa177df9/applestore_jp_7.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/e5/59/3de55936-180d-aea3-9819-7513881e7a51/applestore_jp_10.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/84/c6/2c84c618-9b3c-8c9e-a7dd-a7080edf0812/applestore_jp_8.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/ff/97/0fff9717-7095-d044-0370-7376b114c189/applestore_jp_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/20/70/932070bd-4bc8-5426-c084-77a268c9c23e/applestore_jp_2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/df/b0/79dfb036-fd84-ec02-c1b1-0be75bebeae2/applestore_jp_3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/21/bc/2221bcc9-575e-c36a-7348-2f156de37799/applestore_jp_4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/e2/28/cae228f1-0cab-775c-060a-1be401e919d3/applestore_jp_5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/3e/2b/f13e2b95-3f73-6cca-4328-91c71b70ab2c/applestore_jp_9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/27/15/3a27156a-4cea-7172-0d91-40f0dfe17b1e/applestore_jp_6.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/a3/e2/83a3e232-5801-a1ad-3d37-cbf62b1aafbc/applestore_jp_7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/f1/c6/5df1c60a-675b-eeca-c043-1c902e641f32/applestore_jp_10.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/a4/ef/aaa4eff5-0116-a153-4b7e-0a6336ebe59b/applestore_jp_8.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/06/ea/0406ea85-e3d1-08a5-dcdb-d741479c2892/applestore_en_1.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/78/50/ae7850ad-93cb-4cb4-19b3-1d57353e5363/applestore_en_2.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/93/70/c19370e1-58cd-a0a8-32b1-5516a2134ca8/applestore_en_3.png/320x480bb.jpg",
@@ -240,7 +240,17 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/e5/65/b3e56561-9585-ccbc-5a1d-70e177f31c81/applestore_en_9.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/2f/68/4b2f68ce-fcd8-6cb6-458e-d8593a24689d/applestore_en_8.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/cb/c1/63cbc143-8413-3a0d-7c28-bf15fafe2bf8/applestore_en_7.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6d/af/956daf2c-8e80-6a7e-5d96-6dc563249de5/applestore_en_10.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6d/af/956daf2c-8e80-6a7e-5d96-6dc563249de5/applestore_en_10.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/b6/4b/4db64b7d-16ae-9ba7-6e73-45a737be12de/applestore_jp_1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/57/a2/5857a2d5-873e-0f26-1293-b3e167a2c2c9/applestore_jp_2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/2c/84/cd2c8439-a404-75b6-f37a-c406a433525a/applestore_jp_3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/33/0e6c3359-235b-f671-48c9-8af4a5f8fa93/applestore_jp_4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/b0/29/ddb02959-639e-5877-be19-bc889b4fac5a/applestore_jp_5.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/dd/d5/4addd50d-2530-69f9-2dfc-b97e2d13943d/applestore_jp_9.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/7f/6f/b67f6f0c-2516-5552-8915-a6a812018ff0/applestore_jp_6.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/5d/7e/d35d7e8c-4e11-2660-cd93-b613aa177df9/applestore_jp_7.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/e5/59/3de55936-180d-aea3-9819-7513881e7a51/applestore_jp_10.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/84/c6/2c84c618-9b3c-8c9e-a7dd-a7080edf0812/applestore_jp_8.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9a/55/9f9a5563-fc02-ea23-8bd1-ae85b8575cce/mzl.bpeiicra.png/312x390bb.png",
@@ -311,8 +321,13 @@
       "version": "1.5.0",
       "releaseNotes": "Our first update in 8 years.\n\nWe've refreshed the app icon, monsters, dungeon and map backgrounds, and the UI.\n\nRevised all English text to stay true to the original Japanese.\n\nWe've also fixed many bugs, including issues with HP recovery.",
       "seenAt": "2026-10-17T01:31:17Z"
+    },
+    {
+      "version": "1.5.1",
+      "releaseNotes": "Improvements and bug fixes.",
+      "seenAt": "2026-11-15T03:07:22Z"
     }
   ],
-  "updatedAt": "2026-11-14T14:06:38.851Z",
+  "updatedAt": "2026-11-15T14:35:14.731Z",
   "isOwnApp": false
 }
