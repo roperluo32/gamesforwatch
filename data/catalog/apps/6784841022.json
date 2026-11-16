@@ -7,7 +7,7 @@
     "en": {
       "trackName": "PrismFlow: Block Puzzle Game",
       "description": "Flow the colors, free your mind.\n\nPrismFlow Block Puzzle is a calm, colorful block puzzle you can play in short sessions or long streaks. Drag pieces onto the board, fill rows and columns, and watch them clear — simple rules, deep scoring.\n\nHOW TO PLAY\n• Three block shapes appear in the tray — drag each one onto the 8×8 board\n• Complete full rows or columns to clear them and earn points\n• Chain clears to build combos and push your score higher\n• Game over when none of the three pieces fit — can you beat your best?\n\nFEATURES\n• Smooth drag-and-drop controls tuned for one-hand play\n• Glossy blocks, satisfying clears, and combo feedback\n• Global leaderboard — compete with players worldwide\n• Daily streak reminders (optional)\n• Multiple languages\n• Play offline anytime; sign in for cloud sync and leaderboard\n\nFREE TO PLAY\nPrismFlow is free with optional ads. You can remove ads or buy continue tokens via in-app purchase. No account required to play.\n\nDownload now and find your flow.\n\nPRISMFLOW PLUS (optional subscription)\nAd-free play, 100 gems and 1 continue token every day. The yearly plan starts with a 7-day free trial; a monthly plan is also available. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically unless canceled at least 24 hours before the end of the current period. Manage or cancel it in Settings > Apple Account > Subscriptions.\n\nTerms of Use (EULA): https://prismflow-ec386.web.app/terms\nPrivacy Policy: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "- Help & FAQ and Replay tour in Settings.\n- New \"Delete my data\" option in Settings.\n- Never miss an update: clearer update reminders.\n- Watch-ad continue appears only when an ad is ready.\n- Notifications and shared links open the right screen.\n- Performance and stability improvements.",
+      "releaseNotes": "• Updated privacy information\n• More reliable update reminders\n• Stability improvements",
       "trackViewUrl": "https://apps.apple.com/us/app/prismflow-block-puzzle-game/id6784841022?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Beytullah Ozer",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "PrismFlow: Blok Bulmaca Oyunu",
       "description": "Renkleri serbest bırakın, zihninizi özgürleştirin.\n\nPrismFlow Blok Bulmacası, kısa seanslarda veya uzun serilerde oynayabileceğiniz sakin ve renkli bir blok bulmacasıdır. Parçaları tahtaya sürükleyin, satırları ve sütunları doldurun ve temizlenmelerini izleyin — basit kurallar, yüksek puanlama.\n\nNASIL OYNANIR\n• Tepside üç blok şekli belirir — her birini 8x8 tahtaya sürükleyin\n• Satırları veya sütunları tamamlayarak temizleyin ve puan kazanın\n• Kombolar oluşturmak ve puanınızı yükseltmek için zincirleme temizlemeler yapın\n• Üç parçadan hiçbiri uymadığında oyun biter — en iyi skorunuzu geçebilir misiniz?\n\nÖZELLİKLER\n• Tek elle oynanmaya uygun, akıcı sürükle ve bırak kontrolleri\n• Parlak bloklar, tatmin edici temizlemeler ve kombo geri bildirimi\n• Küresel liderlik tablosu — dünya çapındaki oyuncularla yarışın\n• Günlük seri hatırlatıcıları (isteğe bağlı)\n• Çoklu dil desteği\n• İstediğiniz zaman çevrimdışı oynayın; bulut senkronizasyonu ve liderlik tablosu için giriş yapın\n\nÜCRETSİZ OYNAYIN\nPrismFlow, isteğe bağlı reklamlarla ücretsizdir. Uygulama içi satın alma yoluyla reklamları kaldırabilir veya devam jetonları satın alabilirsiniz. Oynamak için hesap gerekmez.\n\nHemen indirin ve kendi tarzınızı bulun.\n\nPRISMFLOW PLUS (isteğe bağlı abonelik)\nReklamsız oyun, her gün 100 elmas ve 1 devam jetonu. Yıllık plan 7 gün ücretsiz denemeyle başlar; aylık plan da vardır. Ödeme, satın alım onayında Apple Hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Aboneliği Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz.\n\nKullanım Koşulları (EULA): https://prismflow-ec386.web.app/terms\nGizlilik Politikası: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "- Ayarlar'da Yardım ve Sık Sorulan Sorular, oyun turunu yeniden izleme.\n- Ayarlar'a \"Verilerimi sil\" eklendi.\n- Yeni sürümler artık kaçmıyor: güncelleme hatırlatması daha belirgin.\n- Reklam izleyerek devam seçeneği yalnızca reklam hazırken görünür.\n- Bildirimler ve paylaşılan bağlantılar doğrudan ilgili ekranı açar.\n- Performans ve kararlılık iyileştirmeleri.",
+      "releaseNotes": "• Gizlilik bilgileri güncellendi\n• Güncelleme hatırlatması daha güvenilir çalışıyor\n• Kararlılık iyileştirmeleri",
       "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-blok-bulmaca-oyunu/id6784841022?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beytullah Ozer",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/30/f6/d830f600-258f-ad64-bd94-49483ec53bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c8/23/83c823be-4d81-6f78-4a08-f175fd4d8420/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "33982464",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "3.1.4",
-  "currentVersionReleaseDate": "2026-11-13T23:58:15Z",
+  "version": "3.1.5",
+  "currentVersionReleaseDate": "2026-11-15T20:44:40Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -205,6 +205,41 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/4b/61/e84b61d6-83f1-0bc6-bec9-ae1c6bceff90/01_gameplay.jpg/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/20/09/80200942-a2fe-4282-cce3-f838a0e65047/02_combo.jpg/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d2/43/3cd2435d-22b3-4c51-032a-4b36848aa77f/03_home.jpg/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/75/a1/6875a1df-be5f-0655-22f0-28627af825e7/04_journey.jpg/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/69/83/1e698314-ece7-9bea-4381-a086eefab294/05_gems.jpg/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/eb/a3/c3eba396-67b1-26bb-6cb9-dbe51be553d7/01_gameplay.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/6c/0e/df6c0ea4-dc08-a1a9-f73e-761120ddbfb9/02_combo.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/4a/26/844a26f5-fa6b-15f2-3042-77c67c0f3c7a/03_home.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/74/26/5c7426ee-c983-bdad-230a-ad2546b2c8d2/04_journey.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/e6/04/20e60404-4646-40e0-a4b2-5cd9696ce3d8/05_settings.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/ee/4b/c8ee4ba5-0e0d-b4bc-ef32-c96ab77ad881/01_gameplay.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/8a/61/198a616a-31b9-e541-710b-7e3e6fd816cf/02_combo.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/fd/d6/c4fdd6f1-84e8-6a0e-9389-0d25a6660c9e/03_home.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/95/42/499542a3-cb13-fc31-4887-e35bad555265/04_journey.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/8f/87/698f87c9-7e25-bb2a-5eaf-a67527434f59/05_settings.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/8b/3f/738b3f6f-04fe-1d45-04fe-68972f719729/01_gameplay.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/5a/e1/ff5ae19b-c736-27bf-5427-6edc74f5edaa/02_combo.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/31/4c/2c314ceb-965e-d9d1-26ad-5c88178389bf/03_home.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/9d/07/d79d073d-9249-a2f7-4dae-5b95784c41f7/04_journey.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/57/c0/3057c01e-c8e7-6ce0-a873-13d0c9f2214e/05_settings.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/d9/5b/48d95b65-80fa-96d1-cef5-68cda8366393/01_gameplay.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/69/30/796930b1-754c-2e46-ff1e-9441e8432f43/02_combo.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/a0/46/a9a04605-ee78-0ab0-0332-828b864d678e/03_home.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/dc/98/afdc98dd-c5cc-a4af-bd81-c556efe54fd4/04_journey.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/e5/2a/f0e52a67-094c-7d1e-e5e6-8968343a5dea/05_settings.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/ee/4b/c8ee4ba5-0e0d-b4bc-ef32-c96ab77ad881/01_gameplay.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/8a/61/198a616a-31b9-e541-710b-7e3e6fd816cf/02_combo.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/fd/d6/c4fdd6f1-84e8-6a0e-9389-0d25a6660c9e/03_home.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/95/42/499542a3-cb13-fc31-4887-e35bad555265/04_journey.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/8f/87/698f87c9-7e25-bb2a-5eaf-a67527434f59/05_settings.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/eb/a3/c3eba396-67b1-26bb-6cb9-dbe51be553d7/01_gameplay.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/6c/0e/df6c0ea4-dc08-a1a9-f73e-761120ddbfb9/02_combo.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/4a/26/844a26f5-fa6b-15f2-3042-77c67c0f3c7a/03_home.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/74/26/5c7426ee-c983-bdad-230a-ad2546b2c8d2/04_journey.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/e6/04/20e60404-4646-40e0-a4b2-5cd9696ce3d8/05_settings.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/c9/14/24c91476-4efe-aa07-5296-7827b9acf760/01_gameplay.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/f0/66/d2f0664f-27cb-d5fc-796c-3067c9375f23/02_combo.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f2/83/b2f28325-1f4e-4df1-ce6f-20d26e52d51a/03_home.png/2048x2732bb.png",
@@ -273,6 +308,7 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/3e/90/193e9088-6fce-b13e-31c1-fc4b9b3fcc7e/06_gameplay_alt.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/33/46/593346e7-30e4-82cb-17c6-f3338bf8db81/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-06-29_at_01.47.33.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/b6/c4/22b6c4be-8c6f-d309-7950-5115b58a003a/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-06-29_at_01.47.33.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/73/02/417302ca-78d5-8593-bd7d-585b4b375e3c/Simulator_Screenshot_-_Apple_Watch_Series_10__U002846mm_U0029_-_2026-06-29_at_01.47.33.png/416x496bb.png"
   ],
@@ -336,8 +372,13 @@
       "version": "3.1.4",
       "releaseNotes": "- Help & FAQ and Replay tour in Settings.\n- New \"Delete my data\" option in Settings.\n- Never miss an update: clearer update reminders.\n- Watch-ad continue appears only when an ad is ready.\n- Notifications and shared links open the right screen.\n- Performance and stability improvements.",
       "seenAt": "2026-11-13T23:58:15Z"
+    },
+    {
+      "version": "3.1.5",
+      "releaseNotes": "• Updated privacy information\n• More reliable update reminders\n• Stability improvements",
+      "seenAt": "2026-11-15T20:44:40Z"
     }
   ],
-  "updatedAt": "2026-11-15T14:31:11.989Z",
+  "updatedAt": "2026-11-16T16:07:20.289Z",
   "isOwnApp": false
 }
