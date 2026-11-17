@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "• Rebalanced several levels for smoother, more satisfying progression\n• Small fixes and improvements",
+      "releaseNotes": "- time attack\n- 3 new hoopers!!!!!",
       "trackViewUrl": "https://apps.apple.com/us/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Federico Bigliocca",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "• Rebalanced several levels for smoother, more satisfying progression\n• Small fixes and improvements",
+      "releaseNotes": "- time attack\n- 3 new hoopers!!!!!",
       "trackViewUrl": "https://apps.apple.com/jp/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Federico Bigliocca",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "Step Back Basketball",
       "description": "Create space. Take the shot.\n\nStep Back Basketball is a fast-paced arcade basketball game built around timing, skill and the perfect shot.\n\nUse the step back to create separation from the defender, find your shooting window and knock down the jumper.\n\nMaster your timing, improve your shooting and see how far you can go.\n\nFEATURES\n\n• Simple controls, skill-based gameplay\n• Step-back moves and jump shots\n• Challenge Mode with progressively harder levels\n• Streak Mode: keep scoring for as long as you can\n• Different courts and environments\n• Quick games perfect for short sessions\n• Retro-inspired arcade style\n\nCreating space is only half the job.\n\nNow take the shot.",
-      "releaseNotes": "• Rebalanced several levels for smoother, more satisfying progression\n• Small fixes and improvements",
+      "releaseNotes": "- time attack\n- 3 new hoopers!!!!!",
       "trackViewUrl": "https://apps.apple.com/de/app/step-back-basketball/id6803372092?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Federico Bigliocca",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/8e/3b/4b8e3b44-fb28-fe8a-d8ee-d93962ebf950/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/96/ea/f096ea12-1262-152b-a6ea-e50d13dcae6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "105871360",
+  "fileSizeBytes": "111054848",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.9",
-  "currentVersionReleaseDate": "2026-11-09T06:34:08Z",
+  "version": "2.0",
+  "currentVersionReleaseDate": "2026-11-17T07:14:04Z",
   "releaseDate": "2026-10-15T07:00:00Z",
   "artistId": 333198458,
   "artistName": "Dracoders",
@@ -383,8 +383,13 @@
       "version": "1.9",
       "releaseNotes": "• Rebalanced several levels for smoother, more satisfying progression\n• Small fixes and improvements",
       "seenAt": "2026-11-09T06:34:08Z"
+    },
+    {
+      "version": "2.0",
+      "releaseNotes": "- time attack\n- 3 new hoopers!!!!!",
+      "seenAt": "2026-11-17T07:14:04Z"
     }
   ],
-  "updatedAt": "2026-11-16T16:08:24.568Z",
+  "updatedAt": "2026-11-17T16:31:27.767Z",
   "isOwnApp": false
 }

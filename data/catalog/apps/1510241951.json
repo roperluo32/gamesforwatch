@@ -1,14 +1,14 @@
 {
   "trackId": "1510241951",
   "bundleId": "trianglecross.co.Dices",
-  "slug": "black-dice",
-  "path": "/apps/1510241951-black-dice/",
+  "slug": "black-dice-dice-roller",
+  "path": "/apps/1510241951-black-dice-dice-roller/",
   "locales": {
     "en": {
-      "trackName": "Black dice",
-      "description": "One to eight beautifully rendered black dice on your phone — plus one more on your watch.\nCrisp visuals, responsive physics, and just the right amount of style.\nPerfect for board games, quick decisions, or simple fun.\n\nNow with:\n• Realistic 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs\n\nIf you like the app, please leave a rating!\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
-      "trackViewUrl": "https://apps.apple.com/us/app/black-dice/id1510241951?uo=4",
+      "trackName": "Black Dice: Dice Roller",
+      "description": "Black Dice is a simple, beautiful dice roller with real physics. Roll one to eight 3D dice on your iPhone or iPad and watch them tumble, bounce and collide. One more die lives on your Apple Watch.\n\nTap or shake to roll. No ads, no clutter, no sign-up.\n\nUse it for board games, backgammon, tabletop nights, quick decisions, or whenever the real dice have gone missing.\n\nFEATURES\n• Real physics: dice bounce and collide with each other\n• 1 to 8 dice at once\n• Shake or tap to roll\n• Vibration on every roll\n• Apple Watch app\n• No ads\n\nFREE AND PRO\nBlack Dice is free with 30 rolls a day. Black Dice Pro gives you unlimited rolls and keeps your screen on during a game.\n\nPro is an optional purchase. Payment is charged to your Apple Account. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel in your Apple Account settings.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "• Real physics: dice now tumble, bounce and collide with each other like the real thing\n• Black Dice Pro: unlimited rolls and a screen that stays on while you play\n• Free version now includes 30 rolls a day",
+      "trackViewUrl": "https://apps.apple.com/us/app/black-dice-dice-roller/id1510241951?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Vladislav Likh",
       "genres": [
@@ -17,15 +17,21 @@
         "Games"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "RU",
+        "ES"
       ],
-      "subtitle": "A pair of dice without ads"
+      "subtitle": "3D dice for iPhone & Watch"
     },
     "ja": {
-      "trackName": "骰子",
-      "description": "スマートフォンに最大8個の黒いサイコロ、そして腕時計にも1つ追加。\nリアルなグラフィック、シンプルな操作、スタイリッシュな見た目。\nボードゲームや日常のちょっとした決定、気軽な遊びに最適です。\n\n新機能：\n• 本物のような3Dサイコロ\n• ドラマチックなエピックモード\n• 限定デザインのサイコロ\n\n気に入ったらレビューをお願いします！\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "このアプリは、watchOS 27との互換性を持たせるために、Appleによって更新されました。新機能は含まれていません。\n\n• 3Dで美しく表現されたサイコロ\n• ドラマチックな「エピックモード」\n• 限定デザインのサイコロ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%AA%B0%E5%AD%90/id1510241951?uo=4",
+      "trackName": "Black Dice - サイコロ 3D",
+      "description": "Black Diceは、リアルな物理演算を備えた、シンプルで美しいサイコロアプリです。iPhoneやiPadで1〜8個の3Dサイコロを振ると、本物のように転がり、跳ね、ぶつかり合います。Apple Watchでも1個振れます。\n\nタップするか、端末を振るだけ。広告なし、余計な機能なし、登録不要。\n\nボードゲーム、すごろく、バックギャモン、ゲーム会、ちょっとした決めごと、サイコロが見つからないときに。\n\n機能\n• リアルな物理演算：サイコロが跳ねて、ぶつかり合う\n• 1〜8個を同時に振れる\n• タップまたはシェイクで振る\n• 振るたびに振動\n• Apple Watchアプリ\n• 広告なし\n\n無料版とPro\nBlack Diceは無料で1日30回まで振れます。Black Dice Proなら回数無制限で、ゲーム中は画面が点灯したままになります。\n\nProは任意の購入です。お支払いはApple Accountに請求されます。サブスクリプションは、現在の期間が終了する24時間前までに解約しない限り、自動的に更新されます。Apple Accountの設定から管理・解約できます。\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "• リアルな物理演算：サイコロが本物のように転がり、跳ね、ぶつかり合います\n• Black Dice Pro：回数無制限、ゲーム中は画面が点灯したまま\n• 無料版は1日30回まで振れるようになりました",
+      "trackViewUrl": "https://apps.apple.com/jp/app/black-dice-%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD-3d/id1510241951?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Vladislav Likh",
       "genres": [
@@ -34,15 +40,21 @@
         "ゲーム"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "RU",
+        "ES"
       ],
       "subtitle": ""
     },
     "de": {
-      "trackName": "Schwarzer Würfel",
-      "description": "Bis zu acht schwarze Würfel auf deinem Smartphone – und ein zusätzlicher Würfel für deine Uhr.\nRealistische Grafik, einfache Bedienung, schlanker Look.\nPerfekt für Brettspiele, Entscheidungen oder einfach zum Spaß.\n\nJetzt neu:\n• Realistische 3D-Optik\n• Epischer Modus für eindrucksvolle Würfe\n• Exklusive Würfeldesigns\n\nGefällt dir die App? Dann gib uns gern eine Bewertung!\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "Diese App wurde von Apple aktualisiert, um ihre Kompatibilität mit watchOS 27 sicherzu­stellen. Es sind keine neuen Funktionen enthalten.\n\n• Realistische 3D-Grafik\n• Epischer Modus für eindrucksvolle Würfe\n• Exklusive Würfeldesigns",
-      "trackViewUrl": "https://apps.apple.com/de/app/schwarzer-w%C3%BCrfel/id1510241951?uo=4",
+      "trackName": "Black Dice: Würfel würfeln",
+      "description": "Black Dice ist eine einfache, schöne Würfel-App mit echter Physik. Würfle mit einem bis acht 3D-Würfeln auf deinem iPhone oder iPad und sieh zu, wie sie rollen, springen und aneinanderstoßen. Ein weiterer Würfel wartet auf deiner Apple Watch.\n\nTippen oder schütteln zum Würfeln. Keine Werbung, kein Schnickschnack, keine Anmeldung.\n\nIdeal für Brettspiele, Backgammon, Spieleabende, schnelle Entscheidungen oder wenn die echten Würfel mal wieder weg sind.\n\nFUNKTIONEN\n• Echte Physik: Würfel springen und stoßen aneinander\n• 1 bis 8 Würfel gleichzeitig\n• Schütteln oder tippen zum Würfeln\n• Vibration bei jedem Wurf\n• Apple Watch App\n• Keine Werbung\n\nKOSTENLOS UND PRO\nBlack Dice ist kostenlos mit 30 Würfen pro Tag. Black Dice Pro bietet unbegrenzte Würfe und lässt deinen Bildschirm während des Spiels an.\n\nPro ist ein optionaler Kauf. Die Zahlung wird deinem Apple Account belastet. Abos verlängern sich automatisch, wenn sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt werden. Du kannst dein Abo in den Einstellungen deines Apple Accounts verwalten oder kündigen.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "releaseNotes": "• Echte Physik: Würfel rollen, springen und stoßen aneinander wie echte\n• Black Dice Pro: unbegrenzte Würfe und ein Bildschirm, der beim Spielen an bleibt\n• Die kostenlose Version enthält jetzt 30 Würfe pro Tag",
+      "trackViewUrl": "https://apps.apple.com/de/app/black-dice-w%C3%BCrfel-w%C3%BCrfeln/id1510241951?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Vladislav Likh",
       "genres": [
@@ -51,20 +63,26 @@
         "Spiele"
       ],
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "RU",
+        "ES"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/dd/1e/66dd1e20-b1c4-b371-5001-1308e8bae9b9/AppIcon-1x_U007emarketing-0-8-85-220-0.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/ae/3c/a0ae3c10-f910-b7a6-2d43-87b9e2f695c7/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 5,
-  "userRatingCount": 2,
+  "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "35003392",
+  "fileSizeBytes": "11579392",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "15.6",
-  "version": "2.0",
-  "currentVersionReleaseDate": "2025-07-28T14:01:59Z",
+  "minimumOsVersion": "17.0",
+  "version": "3.0",
+  "currentVersionReleaseDate": "2026-11-17T00:10:00Z",
   "releaseDate": "2020-04-28T07:00:00Z",
   "artistId": 1510241950,
   "artistName": "Vladislav Likh",
@@ -208,6 +226,53 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/cc/3a/4dcc3abd-8e38-71b0-82fc-5a7091942576/2b26e005-53ad-4b20-a3ef-59c8fce2886d_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.27.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/f5/26/f9f52639-3b96-9908-aa9d-633201089567/41fd55ff-8e87-4b21-a795-b1585fb31d47_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.44.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/a0/d1/74a0d175-cbf2-a422-99aa-935ab4422cd1/28cb129e-14d4-412a-a833-c1a5d1af15c8_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.49.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/98/a8/7898a832-175b-e8dd-5e6b-7bed3ca95a68/BlackDice-iPad-Eng-0.jpg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/60/ec/e760ec1f-d6fc-0b95-57f5-c840c7f7188d/BlackDice-iPad-Eng-1.jpg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/56/1b/d9561b5a-c425-3863-97b7-c0b1f430038c/BlackDice-iPad-Eng-2.jpg/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/13/70/84137074-4335-5de6-2651-c9bd79580aa4/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e0/d6/e5e0d69b-2b56-e804-0e16-87cda120c08b/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/71/23f77146-2030-75e0-9324-228d00801d7c/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e1/5c/d5e15c2f-14e4-e4d6-b8f0-dd22ef27a37a/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f0/30/ddf03027-5b0a-0468-bf3a-d5a0502f651f/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/33/be/8133be7e-ffc5-b498-9065-1bd1bb580e9c/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e7/5d/36e75d90-df01-d75b-dfab-90ef160de47f/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/94/4b/7c944b40-d1d6-7d29-10c9-8d2948408282/pr_source.jpg/1242x2208bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2d/97/412d97f8-ca90-e25f-c21d-d80a09ac2720/Frame_2147228408.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/ef/20/3eef20f0-eef3-9b93-6d59-4479e3b2f6d3/Frame_2147228409.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/14/16/a91416cb-8636-ad84-fc6b-9695d9b10fc1/Frame_2147228416.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/0c/6a/c00c6a15-a67a-22d5-2705-139f232a2a3c/Frame_2147228411.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/ff/f0/e6fff058-b82e-5451-a0c8-255604a6470b/Frame_2147228410.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9b/12/1b9b122f-0f77-0713-2500-c7f4edaba776/Frame_2147228413.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/f4/f2/43f4f285-9a70-6674-dea1-34ed75524457/Frame_2147228412.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/5e/e6875ecc-0f4a-c421-b7ef-c51d3e595237/BlackDice-Eng-0.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/99/77/f39977f0-9c29-5f24-de51-c11b71d63115/BlackDice-Eng-1.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/f9/9b/a5f99b56-85bb-b85e-fbd7-1f962bf7fee4/BlackDice-Eng-2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/f6/af/82f6af8d-9495-e275-4d66-e4ec794b8123/BlackDice-Ger-0.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/b3/f0/3ab3f0e2-6ddb-eee9-7be7-3e4770331282/BlackDice-Ger-1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/a6/be/c6a6beda-ca28-b7d5-f687-058b39002c95/BlackDice-Ger-2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/e2/68/93e2683c-744d-2bd2-f80c-85f464e4b423/BlackDice-iPad-Ger-0.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/a4/56/7ea45625-d912-dad4-c453-429e38aca4a1/BlackDice-iPad-Ger-1.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/e2/b6/51e2b6d8-437c-395a-cd23-7da3b932e5db/BlackDice-iPad-Ger-2.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/73/9e/b8739ef9-2aa4-01f8-1f53-c62b1bce47fe/BlackDice-Jpn-0.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/7b/14/e97b1427-9d61-0c65-7419-8355dc99f43e/BlackDice-Jpn-1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/da/eb/2ddaeb46-d72e-ea41-95df-b5a195b44505/BlackDice-Jpn-2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/59/f0/b059f0f9-4810-da8e-5ae1-34aca59aa844/BlackDice-iPad-Jpn-0.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/41/4e/50414e89-9c18-db86-48e5-3f80bd52404d/BlackDice-iPad-Jpn-1.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/4a/03/2e4a032b-521b-a033-3c0b-96c26f5a03a2/BlackDice-iPad-Jpn-2.jpg/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/13/70/84137074-4335-5de6-2651-c9bd79580aa4/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e0/d6/e5e0d69b-2b56-e804-0e16-87cda120c08b/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/71/23f77146-2030-75e0-9324-228d00801d7c/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e1/5c/d5e15c2f-14e4-e4d6-b8f0-dd22ef27a37a/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f0/30/ddf03027-5b0a-0468-bf3a-d5a0502f651f/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/33/be/8133be7e-ffc5-b498-9065-1bd1bb580e9c/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e7/5d/36e75d90-df01-d75b-dfab-90ef160de47f/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/94/4b/7c944b40-d1d6-7d29-10c9-8d2948408282/pr_source.jpg/392x696bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/cc/3a/4dcc3abd-8e38-71b0-82fc-5a7091942576/2b26e005-53ad-4b20-a3ef-59c8fce2886d_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.27.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/f5/26/f9f52639-3b96-9908-aa9d-633201089567/41fd55ff-8e87-4b21-a795-b1585fb31d47_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.44.png/576x768bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/a0/d1/74a0d175-cbf2-a422-99aa-935ab4422cd1/28cb129e-14d4-412a-a833-c1a5d1af15c8_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.49.png/576x768bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/cd/aa/1dcdaa48-739c-107d-8bba-b042fda61dfa/2b26e005-53ad-4b20-a3ef-59c8fce2886d_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.27.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/a9/00/b2a9002a-c81c-621b-e2b5-3cd2361b6fbc/41fd55ff-8e87-4b21-a795-b1585fb31d47_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.44.png/2048x2732bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/40/67/d94067af-2baa-a062-5986-c3e826664e4e/28cb129e-14d4-412a-a833-c1a5d1af15c8_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.49.png/2048x2732bb.png",
@@ -243,6 +308,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/40/67/d94067af-2baa-a062-5986-c3e826664e4e/28cb129e-14d4-412a-a833-c1a5d1af15c8_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2021-09-27_at_11.41.49.png/576x768bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/c9/8a/fdc98a17-3a83-7bb4-261a-1b927350ea0c/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/41/62/1741624d-bd52-54da-ec4e-f513c03198ec/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c6/b1/1fc6b101-9fba-f058-ca80-c66f116ca819/pr_source.png/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/1b/73/881b738c-ee28-2d89-aac6-c8e416b28108/pr_source.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/64/7b/ba647b2c-1d27-4d9d-8ba5-57a3d9f91b29/pr_source.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/97/1f/e4971fbf-c7ba-45db-c70b-e697dcf919b4/pr_source.png/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6d/eb/cd6debe4-8fdf-e0a1-5c20-035119bf1a4f/pr_source.png/368x448bb.png",
@@ -273,8 +342,13 @@
       "version": "2.0",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n• Real 3D look\n• Epic mode for dramatic rolls\n• Exclusive dice designs",
       "seenAt": "2025-07-28T14:01:59Z"
+    },
+    {
+      "version": "3.0",
+      "releaseNotes": "• Real physics: dice now tumble, bounce and collide with each other like the real thing\n• Black Dice Pro: unlimited rolls and a screen that stays on while you play\n• Free version now includes 30 rolls a day",
+      "seenAt": "2026-11-17T00:10:00Z"
     }
   ],
-  "updatedAt": "2026-11-16T16:06:07.904Z",
+  "updatedAt": "2026-11-17T16:28:45.838Z",
   "isOwnApp": false
 }

@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/47/1f/93471f0e-80f0-e72c-e0e1-5168fbb41741/AppIcon-New-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.78014,
-  "userRatingCount": 141,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/05/8a/a2058adb-e401-3e39-e441-f698d411c374/AppIcon-New-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.77465,
+  "userRatingCount": 142,
   "price": 0,
   "fileSizeBytes": "348811264",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.6",
-  "version": "6.7.1",
-  "currentVersionReleaseDate": "2026-11-14T06:22:13Z",
+  "version": "6.7.2",
+  "currentVersionReleaseDate": "2026-11-16T17:13:12Z",
   "releaseDate": "2019-12-26T08:00:00Z",
   "artistId": 1470818209,
   "artistName": "Cameron Nazemi",
@@ -600,8 +600,13 @@
       "version": "6.7.1",
       "releaseNotes": "NEW FIDGETS & GAME!\n• New Soap Cutting fidget: slice, shave, and cube crackly soap, then crush the pieces into crumbs.\n• New Putty fidget: poke, stretch, and snap 3D thinking putty and pop its air pockets. Try heat-changing, glitter, magnetic, and more.\n• New Squishy Shapes fidget: squeeze and stretch a soft, see-through stress cube, then pick its shape and fillings.\n• New Fireworks fidget: tap the night sky to set off a firework right where you touched, with a boom you can feel.\n• New Camera fidget: spin a 3D camera and press the shutter for a crisp click, or switch to Instant and watch prints whir out.\n• New Newton's Cradle fidget: pull back the balls and watch them click back and forth.\n• New Sorting Tray and Rainbow Sort fidgets: drag gems into their trays, or swap color tiles into a smooth rainbow.\n• New Shelf Sort game: a sorting puzzle with boosters and a relaxing Zen mode. The first 30 levels are free.\n• Sort the fidget list A to Z, by newest, by most played, or by category.\n\n• The original versions of Tappy Stack, Snake, Tap-Out, Runner, Popper, Zen Pond and Escape are back! Tap \"Play the original\" on a game's start screen to play the classic.\n• Bug fixes for devices on iOS 18 and earlier.\n\nIntroducing Tappy 6.0\nTappy is now a self-care pet who grows with you. This is our biggest update ever.\n\n• Daily Adventure: build your own routine from 25+ self-care quests, like breathing, fidgeting, journaling, drinking water, gratitude, and brushing your teeth. Finish it to open a treasure chest of Sparks.\n• Take care of Tappy: give Tappy a name, then pet, feed, hug, play, and tuck Tappy in. Fill the Care Bar for a daily surprise gift.\n• Sparks and the Shop: collect Sparks for everything you do. Spend them on hats, outfits, toys, and colors.\n• New scenes: the beach, a farm, a castle, outer space, and more, with visitors to discover in the Field Guide.\n• Bedtime: set a bedtime and Tappy gets ready for bed with you.\n• Goals: set short and long-term goals, break them into steps, and track your progress.\n• Badges and friendship levels to celebrate milestones together.\n• A new Daily Adventure widget, plus Live Activities for timed quests.\n• New Fidgets.\n• Added support for iPhone Duo.\n\nPrefer the original Tappy? Tap More > Switch to Classic Tappy on the home screen.",
       "seenAt": "2026-11-14T06:22:13Z"
+    },
+    {
+      "version": "6.7.2",
+      "releaseNotes": "NEW FIDGETS & GAME!\n• New Soap Cutting fidget: slice, shave, and cube crackly soap, then crush the pieces into crumbs.\n• New Putty fidget: poke, stretch, and snap 3D thinking putty and pop its air pockets. Try heat-changing, glitter, magnetic, and more.\n• New Squishy Shapes fidget: squeeze and stretch a soft, see-through stress cube, then pick its shape and fillings.\n• New Fireworks fidget: tap the night sky to set off a firework right where you touched, with a boom you can feel.\n• New Camera fidget: spin a 3D camera and press the shutter for a crisp click, or switch to Instant and watch prints whir out.\n• New Newton's Cradle fidget: pull back the balls and watch them click back and forth.\n• New Sorting Tray and Rainbow Sort fidgets: drag gems into their trays, or swap color tiles into a smooth rainbow.\n• New Shelf Sort game: a sorting puzzle with boosters and a relaxing Zen mode. The first 30 levels are free.\n• Sort the fidget list A to Z, by newest, by most played, or by category.\n\n• The original versions of Tappy Stack, Snake, Tap-Out, Runner, Popper, Zen Pond and Escape are back! Tap \"Play the original\" on a game's start screen to play the classic.\n• Bug fixes for devices on iOS 18 and earlier.\n\nIntroducing Tappy 6.0\nTappy is now a self-care pet who grows with you. This is our biggest update ever.\n\n• Daily Adventure: build your own routine from 25+ self-care quests, like breathing, fidgeting, journaling, drinking water, gratitude, and brushing your teeth. Finish it to open a treasure chest of Sparks.\n• Take care of Tappy: give Tappy a name, then pet, feed, hug, play, and tuck Tappy in. Fill the Care Bar for a daily surprise gift.\n• Sparks and the Shop: collect Sparks for everything you do. Spend them on hats, outfits, toys, and colors.\n• New scenes: the beach, a farm, a castle, outer space, and more, with visitors to discover in the Field Guide.\n• Bedtime: set a bedtime and Tappy gets ready for bed with you.\n• Goals: set short and long-term goals, break them into steps, and track your progress.\n• Badges and friendship levels to celebrate milestones together.\n• A new Daily Adventure widget, plus Live Activities for timed quests.\n• New Fidgets.\n• Added support for iPhone Duo.\n\nPrefer the original Tappy? Tap More > Switch to Classic Tappy on the home screen.",
+      "seenAt": "2026-11-16T17:13:12Z"
     }
   ],
-  "updatedAt": "2026-11-16T15:44:04.948Z",
+  "updatedAt": "2026-11-17T16:07:27.472Z",
   "isOwnApp": false
 }

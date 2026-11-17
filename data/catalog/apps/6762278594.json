@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/69/b6/f869b6af-cae0-11a3-0a42-984de31cb858/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c1/6c/c8c16c97-a78a-ebc2-3c92-fd81c430f66e/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "9479168",
+  "fileSizeBytes": "9524224",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
-  "version": "1.0.8",
-  "currentVersionReleaseDate": "2026-11-10T20:04:29Z",
+  "version": "1.0.9",
+  "currentVersionReleaseDate": "2026-11-16T23:01:52Z",
   "releaseDate": "2026-04-27T07:00:00Z",
   "artistId": 1728214585,
   "artistName": "Alper Vural",
@@ -262,8 +262,13 @@
       "version": "1.0.8",
       "releaseNotes": "new questions.",
       "seenAt": "2026-11-10T20:04:29Z"
+    },
+    {
+      "version": "1.0.9",
+      "releaseNotes": "new questions.",
+      "seenAt": "2026-11-16T23:01:52Z"
     }
   ],
-  "updatedAt": "2026-11-16T16:02:44.508Z",
+  "updatedAt": "2026-11-17T16:28:24.916Z",
   "isOwnApp": false
 }
