@@ -32,8 +32,8 @@
       "genres": [
         "ゲーム",
         "パズル",
-        "ボード",
-        "エンターテインメント"
+        "エンターテインメント",
+        "ボード"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -50,8 +50,8 @@
       "genres": [
         "Spiele",
         "Puzzle",
-        "Brettspiele",
-        "Unterhaltung"
+        "Unterhaltung",
+        "Brettspiele"
       ],
       "languageCodesISO2A": [
         "EN"
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1d/96/241d96b5-45a5-a29b-d281-b7c93e470852/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/3a/3d/0a3a3d22-9958-9e8f-f1f8-5dae5349259c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.77778,
   "userRatingCount": 9,
   "price": 0,
   "fileSizeBytes": "81235968",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "2.7.2",
-  "currentVersionReleaseDate": "2026-10-23T16:33:10Z",
+  "version": "2.7.3",
+  "currentVersionReleaseDate": "2026-11-17T22:28:27Z",
   "releaseDate": "2022-11-30T08:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -458,8 +458,13 @@
       "version": "2.7.2",
       "releaseNotes": " - Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
       "seenAt": "2026-10-23T16:33:10Z"
+    },
+    {
+      "version": "2.7.3",
+      "releaseNotes": " - Added Daily Challenges\n - Improved level design\n - Fixed minor bugs",
+      "seenAt": "2026-11-17T22:28:27Z"
     }
   ],
-  "updatedAt": "2026-11-17T15:57:42.777Z",
+  "updatedAt": "2026-11-18T15:37:48.490Z",
   "isOwnApp": false
 }

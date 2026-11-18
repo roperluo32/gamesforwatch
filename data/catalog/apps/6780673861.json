@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "• “Thanksgiving Feast”: link matching foods to rise one level (iPhone + Watch)\n• Seasonal look: App Icon, tab bar, falling stickers, gentle card accents\n• First open shows the path; tap “?” anytime to see it again\n• Feedback can be sent online",
+      "releaseNotes": "1. Added Marble Dash\n2. Sketch UI refresh\n3. Better doodle watch-face flow\n4. Watch Hub editing upgrade\n5. Fixed known issues",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -44,7 +44,7 @@
     "ja": {
       "trackName": "手首レジャー",
       "description": "手首レジャーは、Apple Watch で遊べる手描きカジュアルゲーム集です。iPhone がなくても、腕を上げてすぐ始められます。\n\n【こんなときに】\n・待ち時間や移動のすきま\n・休憩の30秒\n・プールや外出先でスマホを出せないとき\n\n【できること】\n・パズル・リラックス・音遊び・育成など、多彩なミニゲーム\n・Watch 単体でプレイ、成績はペアリングした iPhone でも確認\n・ノートの方眼紙＋手描きアイコンのやさしい見た目\n・言語切り替え、コイン／ショップ、フィードバックなど便利機能\n\n手首の上の、軽いレジャーをどうぞ。",
-      "releaseNotes": "• 「感恩大餐」を追加：同レベルの食材をつないで一段豊かに（iPhone＋Watch）\n• 感恩节の見た目：アイコン／ナビ／舞い落ちる飾り／カードのさりげない装飾\n• 初回は合成の流れを表示。右上の「？」でいつでも再確認\n• フィードバックはオンラインで送信可能",
+      "releaseNotes": "1. 「ビーズ争覇」を追加\n2. 手描きUIを刷新\n3. らくがき文字盤を改善\n4. Watchハブ編集を強化\n5. 既知の不具合を修正",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%89%8B%E9%A6%96%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -63,7 +63,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "• 新增「感恩大餐」：连同级小食材，合成为更丰盛的一档（手机 + 手表）\n• 感恩节皮肤：图标、导航、飘落贴纸与列表点缀\n• 第一次进入会看到合成路线；右上角问号可随时再看\n• 意见反馈支持在线提交",
+      "releaseNotes": "1. 新增游戏「滚珠争冠」\n2. 感恩节手绘 UI 焕新\n3. 涂鸦表盘体验优化\n4. 手表大厅编辑升级\n5. 修复已知问题",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -80,15 +80,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4c/9a/ec4c9aaa-9707-3ed0-b508-b7369c9f6ff5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/89/f3/2389f368-cafa-4e66-199e-a6840e25cb84/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "80527360",
+  "fileSizeBytes": "71114752",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "2.0.2",
-  "currentVersionReleaseDate": "2026-11-16T13:56:56Z",
+  "version": "2.0.3",
+  "currentVersionReleaseDate": "2026-11-18T15:44:23Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -470,8 +470,13 @@
       "version": "2.0.2",
       "releaseNotes": "• “Thanksgiving Feast”: link matching foods to rise one level (iPhone + Watch)\n• Seasonal look: App Icon, tab bar, falling stickers, gentle card accents\n• First open shows the path; tap “?” anytime to see it again\n• Feedback can be sent online",
       "seenAt": "2026-11-16T13:56:56Z"
+    },
+    {
+      "version": "2.0.3",
+      "releaseNotes": "1. Added Marble Dash\n2. Sketch UI refresh\n3. Better doodle watch-face flow\n4. Watch Hub editing upgrade\n5. Fixed known issues",
+      "seenAt": "2026-11-18T15:44:23Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:29:51.559Z",
+  "updatedAt": "2026-11-18T16:10:32.329Z",
   "isOwnApp": false
 }

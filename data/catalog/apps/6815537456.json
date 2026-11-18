@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Forge Poker",
       "description": "Train every skill poker demands.\n\nForge Poker is a Texas Hold'em study app. It measures your progress by the quality of your decisions, not by luck, and builds GTO (game-theory optimal) thinking step by step, starting from the basic math.\n\n◆ Master GTO\n- Every preflop quiz answer shows the solver's frequencies and the full 13×13 range chart for that spot, so you see why a hand is played\n- Heads-up charts are solved for each stack depth from 5 to 100bb\n- River questions are solved on your device, on the spot\n- When you play the bots at 2–6 player tables (buy-in 5–100bb), each decision is graded against GTO and turned into a GTO adherence rating. Chips won or lost don't count\n\n◆ Offline: the fastest way to learn\n- Training and play work without a connection, so you can study on the train or in any spare minute\n- 10 questions, 30 seconds each, four choices, no typing\n- A 12-step curriculum: you always know what to do next\n\n◆ Build the math poker demands\nPractise the calculations you need at the table, with real game numbers.\n- Equity: estimate hand-vs-hand equity by feel (pair vs overcards, domination and more)\n- Outs and the rule of 2 and 4: how many cards complete your hand, and how likely that is\n- Pot odds: the equity you need to call a bet\n- Minimum defense frequency (MDF): how often you must defend against a bet\n- Expected value (EV): the profit of a call or a bluff, in big blinds\n- Chip math: total chips by colour, convert chips to big blinds\n- Bet sizes: 1/3, 1/2, 2/3 pot and more, in your head\n- Pot tracking: work out the pot from the action\n- Raise sizes: the minimum raise, and how much to open over limpers\n- Stacks: effective stack, SPR (stack ÷ pot), and side pots when all-ins differ\n\n◆ AI explains each hand (Premium)\nTurn a hand you played into a question and open it in ChatGPT or Claude to get the reasoning behind the spot explained. Learn the \"why\" that solver numbers alone don't tell you.\n\n◆ A study app: no money is ever wagered\nForge Poker is for learning only. There is no real-money gambling, no cash-out or prizes, and no play against other people. All opponents are bots.\n\n◆ We collect none of your information\nNo sign-up, and no servers of ours. History, stats and settings stay on your device and are never sent to us (except messages you send via the contact form). Ads in the free version are served by Google AdMob. What AdMob collects and how it behaves is controlled by Google, and we do not fully know or control it; see our privacy policy and Google's policies.\n\n◆ Drills and quizzes\nDrills (10 questions, 30 seconds each)\n- Hands and board: Who wins? / Name the hand / Spot the nuts\n- Chips and bet sizes: Count the chips / Convert chips to big blinds / Bet sizes (1/3, 1/2 pot…) / Track the pot\n- Raises and stacks: Minimum raise / Opening over limpers / Effective stack / SPR (stack ÷ pot) / Side pots\n- Pot odds and EV: Pot odds (required equity) / Minimum defense frequency (MDF) / EV of a call / EV of a bluff\n- Preflop: Find the range edge\n- Outs and equity: Count the outs / Estimate equity\n- Player types: Read a player type from stats\n- Poker English: Poker vocabulary / English phrases at the table\nQuizzes\n- Preflop: opening and BB defense (heads-up and 6-max), facing a 3-bet, all mixed\n- River solver questions\nPerfect-score times for each drill go to the Game Center rankings.\n\n◆ Premium (subscription)\n- AI explanation of each hand (Ask AI)\n- Every step of the curriculum (step 4 onward)\n- River solver questions\n- Bot types by colour, with exploit tips\n- No ads\nFree: steps 0–3, 20 hands of play, history and stats, and can try each item from step 4 onward once.\n\nMonthly and yearly plans, charged to your Apple Account on purchase. Renews automatically unless cancelled at least 24 hours before the end of the period. Manage or cancel in Settings › Apple Account › Subscriptions.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://miyashi.app/forgepoker/privacy",
-      "releaseNotes": "The Apple Watch table was redesigned to fit on one screen, no scrolling. You now get 30bb a day, and the next hand is dealt automatically.",
+      "releaseNotes": "The bots play better. After the flop they read your likely hands from how you've played, so they no longer bet recklessly and they fold when they should.\nOn Apple Watch, each bot you knock out is followed by a stronger one. Tap the top-left button to see the bot's type and how to beat it.",
       "trackViewUrl": "https://apps.apple.com/us/app/forge-poker/id6815537456?uo=4",
       "formattedPrice": "Free",
       "sellerName": "MIYASHI APPS",
@@ -27,7 +27,7 @@
     "ja": {
       "trackName": "修行ポーカー",
       "description": "ポーカーに必要な、すべての力を鍛える。\n\n修行ポーカーは、テキサスホールデムの勉強アプリです。勝ち負けの運ではなく「判断の質」で上達を測り、GTO(ゲーム理論的に最適な戦略)の考え方を、基礎の計算から一歩ずつ身につけます。\n\n◆ GTO を身につける\n・プリフロップのクイズで、答えるたびにソルバーの頻度と、その局面のレンジ表(13×13)を表示。なぜその手を選ぶのかが分かります\n・ヘッズアップのチャートは、5〜100bb の深さごとにソルバーで解いたもの\n・リバーの問題は、端末の中のソルバーがその場で解きます\n・ボットとの実戦では、一つひとつの判断を GTO との差で採点し、「GTO 準拠レート」にします。チップの収支は評価に使いません\n\n◆ オフラインで最速学習\n・訓練と対戦は通信なしで動くので、移動中やすき間時間にも進められます\n・演習は 10 問・1 問 30 秒・4 択。文字の入力がなく、テンポよく解けます\n・12 ステップのカリキュラムを上から順に進めるだけ。次にやることがいつも分かります\n\n◆ ポーカーで必要な計算力も身につく\nテーブルで迷わないための計算を、実戦の数字で繰り返します。\n・エクイティ: ハンド対ハンドの勝率を感覚で見積もる(ペア対オーバーカード、ドミネートなど)\n・アウツと 2・4 の法則: 次のカードで役が完成する枚数と、その確率\n・ポットオッズ: ベットに対して、コールに必要な勝率\n・最小防御頻度(MDF): 相手のベットに対して、最低限守る割合\n・期待値(EV): コールとブラフの損得を bb で計算\n・チップ計算: 色ごとのチップの合計、チップから BB への換算\n・ベット額: ポットの 1/3・1/2・2/3 などを暗算\n・ポットの追跡: アクションの流れから、今のポットを出す\n・レイズ額: 最低レイズ額、リンパーがいるときのオープン額\n・スタック: 有効スタック、SPR(スタック ÷ ポット)、オールインの額が違うときのサイドポット\n\n◆ AI によるハンドごとの考え方解説(プレミアム)\n対戦したハンドの記録から質問文を作り、ChatGPT や Claude で開いて、その局面の考え方を解説してもらえます。ソルバーの数字だけでは分からない「なぜ」を、言葉で確かめられます。\n\n◆ 勉強用なので、お金は賭けません\n本アプリは学習専用です。実際のお金を賭ける機能、換金や賞品のあるゲーム、対人戦はありません。相手はすべてボットです。\n\n◆ あなたの情報は一切集めません\n会員登録はなく、開発者のサーバーもありません。履歴・成績・設定は端末の中だけに保存し、開発者に送られることはありません(例外は、お問い合わせで自分から送った内容だけです)。無料版の広告は Google AdMob が配信しています。AdMob が集める情報とその挙動は Google が管理しており、開発者はすべてを把握・管理しているわけではありません。詳しくはプライバシーポリシーと Google のポリシーをご覧ください。\n\n◆ 演習の一覧\nドリル(10 問・1 問 30 秒)\n・役とボードの読み: どちらが勝つ?・役を答える・ナッツを見抜く\n・チップとベット額の計算: チップを数える・チップを BB に換算する・ベット額の計算(ポットの 1/3・1/2…)・ポットを追いかける\n・レイズ額とスタック: 最低レイズ額・リンパーがいるときのオープン額・有効スタック・SPR(スタック ÷ ポット)・サイドポット\n・ポットオッズと期待値: ポットオッズ(必要な勝率)・最小防御頻度(MDF)・コールの期待値(EV)・ブラフの期待値(EV)\n・プリフロップ: レンジの境目を当てる\n・アウツとエクイティ: アウツを数える・エクイティを見積もる\n・相手のタイプ: 数字から相手のタイプを読む\n・ポーカーの英語: ポーカー英単語・テーブルで使う英語フレーズ\nクイズ\n・プリフロップ: ヘッズアップのオープン・BB ディフェンス・3ベットへの対応・6人卓のポジション別オープン・6人卓の BB ディフェンス・全ケース混合\n・リバーのソルバー問題\n満点を出したときの合計タイムで、Game Center のランキングに参加できます。\n\n◆ ボット相手の実戦\n2〜6 人の卓で、持ち込むチップ(5〜100bb)を選んで座れます。チップはハンドをまたいで持ち越します。プレミアムでは、ボットにルース・タイトなどのタイプが付き、色で見分けられます。\n\n◆ プレミアム(サブスクリプション)\n・AI によるハンドごとの考え方解説(「AI に聞く」)\n・カリキュラムの全ステップ(ステップ 4 以降)\n・リバーのソルバー問題\n・ボットのタイプの色分けと、タイプ別の攻め方のヒント\n・広告なし\n無料でも、ステップ 0〜3、対戦(20 ハンドまで)、履歴、成績が使えます。ステップ 4 以降の項目も、それぞれ 1 回ずつ無料で試せます。\n\nプランは月額と年額。購入の確定時に Apple アカウントに請求されます。期間終了の 24 時間前までに解約しない限り自動で更新され、更新時に請求されます。解約は設定アプリ › Apple アカウント › サブスクリプションから行えます。\n\n利用規約: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nプライバシーポリシー: https://miyashi.app/forgepoker/privacy",
-      "releaseNotes": "Apple Watch の画面を作り直しました。スクロールせずに1画面で打てます。チップは1日 30bb になり、ハンドが終わると自動で次が配られます。",
+      "releaseNotes": "ボットの打ち方を見直しました。フロップ以降は、相手のここまでの打ち方から手の範囲を読んで判断するので、むやみに賭けず、降りるべきときは降ります。\nApple Watch では、1人抜くごとに相手が強くなります。左上のボタンで、相手のタイプと攻め方を確認できます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E4%BF%AE%E8%A1%8C%E3%83%9D%E3%83%BC%E3%82%AB%E3%83%BC/id6815537456?uo=4",
       "formattedPrice": "無料",
       "sellerName": "MIYASHI APPS",
@@ -47,7 +47,7 @@
     "de": {
       "trackName": "Poker-Schmiede",
       "description": "Trainiere alles, was Poker verlangt.\n\nPoker-Schmiede ist eine Lern-App für Texas Hold'em. Sie misst deinen Fortschritt an der Qualität deiner Entscheidungen – nicht am Glück – und baut GTO-Denken (spieltheoretisch optimale Strategie) Schritt für Schritt auf, beginnend mit den Grundrechnungen.\n\n◆ GTO meistern\n- Jede Antwort im Preflop-Quiz zeigt die Frequenzen des Solvers und das komplette 13×13-Range-Chart der Situation – so verstehst du, warum eine Hand gespielt wird\n- Die Heads-up-Charts sind für jede Stacktiefe von 5 bis 100 bb gelöst\n- River-Fragen löst der Solver direkt auf deinem Gerät\n- Im Spiel gegen Bots an Tischen mit 2–6 Spielern (Buy-in 5–100 bb) wird jede Entscheidung mit GTO verglichen und ergibt eine GTO-Wertung. Gewonnene oder verlorene Chips zählen nicht\n\n◆ Offline üben – am schnellsten lernen\n- Training und Spiel laufen ohne Verbindung – unterwegs und in jeder freien Minute\n- 10 Fragen, je 30 Sekunden, vier Antworten, kein Tippen\n- Lehrplan in 12 Schritten: du weißt immer, was als Nächstes kommt\n\n◆ Die Rechnungen, die Poker verlangt\nMit echten Spielzahlen, bis sie sitzen.\n- Equity: Hand gegen Hand nach Gefühl schätzen\n- Outs und die 2er-/4er-Regel: Karten zählen, Chancen schätzen\n- Pot Odds: die Equity, die du für einen Call brauchst\n- Mindestverteidigung (MDF): wie oft du gegen einen Einsatz verteidigen musst\n- Erwartungswert (EV): der Gewinn eines Calls oder Bluffs in Big Blinds\n- Chip-Rechnen: Chips nach Farbe addieren, Chips in Big Blinds umrechnen\n- Einsatzhöhen: 1/3, 1/2, 2/3 Pot und mehr im Kopf\n- Pot mitverfolgen: den Pot aus der Action berechnen\n- Erhöhungen: die Mindesterhöhung und das Open-Raise gegen Limper\n- Stacks: effektiver Stack, SPR und Side Pots\n\n◆ KI erklärt jede Hand (Premium)\nMach aus einer gespielten Hand eine Frage und öffne sie in ChatGPT oder Claude – die KI erklärt das Denken dahinter: das „Warum“, das Solver-Zahlen nicht verraten.\n\n◆ Eine Lern-App: Es wird nie Geld eingesetzt\nPoker-Schmiede dient nur dem Lernen. Es gibt kein Glücksspiel um echtes Geld, keine Auszahlungen oder Preise und kein Spiel gegen andere Menschen. Alle Gegner sind Bots.\n\n◆ Wir sammeln keine deiner Daten\nKeine Registrierung, keine eigenen Server. Verlauf, Statistik und Einstellungen bleiben auf deinem Gerät und werden nie an uns gesendet (außer Nachrichten über das Kontaktformular). Die Werbung der Gratisversion liefert Google AdMob. Was AdMob erfasst und wie es sich verhält, bestimmt Google; wir kennen und steuern das nicht vollständig. Siehe Datenschutzerklärung und Googles Richtlinien.\n\n◆ Drills und Quiz\nDrills (10 Fragen, je 30 Sekunden)\n- Wer gewinnt? / Nenne die Hand / Finde die Nuts\n- Chips zählen / Chips in Big Blinds umrechnen / Einsatzhöhen (1/3, 1/2 Pot …) / Den Pot mitverfolgen\n- Mindesterhöhung / Open-Raise gegen Limper / Effektiver Stack / SPR (Stack ÷ Pot) / Side Pots\n- Pot Odds (nötige Equity) / Mindestverteidigungsfrequenz (MDF) / EV eines Calls / EV eines Bluffs\n- Finde die Range-Grenze\n- Outs zählen / Equity schätzen\n- Spielertyp an Statistiken erkennen\n- Poker-Vokabeln / Englische Sätze am Tisch\nQuiz\n- Preflop: Open und BB-Verteidigung (Heads-up und 6-max), gegen einen 3-Bet, alles gemischt\n- River-Solver-Fragen\nZeiten mit voller Punktzahl kommen in die Game-Center-Ranglisten.\n\n◆ Premium (Abo)\n- KI-Erklärung zu jeder Hand (KI fragen)\n- Alle Schritte des Lehrplans (ab Schritt 4)\n- River-Solver-Fragen\n- Bot-Typen in Farbe, mit Tipps zum Ausnutzen\n- Keine Werbung\nKostenlos: Schritte 0–3, Spielen (bis zu 20 Hände), Verlauf und Statistik; jeder Punkt ab Schritt 4 kann einmal ausprobiert werden.\n\nMonats- und Jahresabo, belastet deinem Apple Account bei Bestätigung des Kaufs. Verlängert sich automatisch, wenn nicht spätestens 24 Stunden vor Ende des Zeitraums gekündigt. Verwalten oder kündigen unter Einstellungen › Apple Account › Abonnements.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nDatenschutzerklärung: https://miyashi.app/forgepoker/privacy",
-      "releaseNotes": "Der Tisch auf der Apple Watch passt jetzt auf einen Bildschirm, ohne Scrollen. Du bekommst 30bb pro Tag, und die nächste Hand wird automatisch ausgeteilt.",
+      "releaseNotes": "Die Bots spielen besser. Nach dem Flop schätzen sie deine möglichen Hände anhand deines Spiels ein, setzen nicht mehr wahllos und folden, wenn sie sollten.\nAuf der Apple Watch wird jeder Bot nach einem Knockout stärker. Tippe oben links, um den Typ des Bots und die passende Strategie zu sehen.",
       "trackViewUrl": "https://apps.apple.com/de/app/poker-schmiede/id6815537456?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "MIYASHI APPS",
@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/c4/fd/c4c4fd0e-ad2b-40b4-4281-fb5d1884898c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/a1/43/00a14347-07f1-7a99-557c-83a3c13be000/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "14547968",
+  "fileSizeBytes": "14638080",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "17.0",
-  "version": "1.0.3",
-  "currentVersionReleaseDate": "2026-11-13T21:58:04Z",
+  "version": "1.0.4",
+  "currentVersionReleaseDate": "2026-11-18T09:42:33Z",
   "releaseDate": "2026-11-04T08:00:00Z",
   "artistId": 1122494941,
   "artistName": "MIYASHI APPS",
@@ -217,6 +217,26 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/16/53/4816539a-e616-603d-d635-b007102a0506/01_intro.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/d8/6f/f9d86fd4-4ea9-691e-410c-bbc82da942b6/02_gto_chart.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/d4/c2/46d4c270-b8ce-7b9d-02f6-e19d802bdc08/03_hand_review.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/08/b2/ef08b2f4-fa03-aef1-c9c8-e870d86e3432/04_equity_drill.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/56/37/0256379c-aab8-1f7b-42ee-01033ee2c5ac/05_range_edge.png/1320x2868bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/36/12/cd361266-cf21-019d-d9fc-d30db6af760e/01_intro.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/02/07/b502075a-3a05-f4b5-1f82-f6bc85797e5f/02_gto_chart.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/e1/e7/bae1e7c1-0e6e-9d1d-852e-2c0c631d661a/03_hand_review.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/d9/a5/dad9a51a-935e-15bf-65e8-b7ee3e49837d/04_equity_drill.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/73/2d/a6732dd2-c19b-1d4d-7a59-53703c569c1a/05_range_edge.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/b4/3c/55b43cb5-5dc7-1bb3-caf1-7ef94de1356f/01_intro.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/38/35/c838352a-a412-9aa5-b1b4-82eebdaf0f6b/02_gto_chart.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/ee/8f/4cee8fe5-f551-0a64-da4c-8f48338f0039/03_hand_review.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/fb/f2/78fbf22a-6018-aa28-ff20-947c2973925e/04_equity_drill.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/d0/a1/50d0a178-bc26-8948-fc63-ace7239bbfe7/05_range_edge.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/16/53/4816539a-e616-603d-d635-b007102a0506/01_intro.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/d8/6f/f9d86fd4-4ea9-691e-410c-bbc82da942b6/02_gto_chart.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/d4/c2/46d4c270-b8ce-7b9d-02f6-e19d802bdc08/03_hand_review.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/08/b2/ef08b2f4-fa03-aef1-c9c8-e870d86e3432/04_equity_drill.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/56/37/0256379c-aab8-1f7b-42ee-01033ee2c5ac/05_range_edge.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/9b/d0/089bd04c-8535-16f2-7bba-7bdadd22659a/01_intro.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/39/3d/dc393d70-ddc8-5d1e-3349-05bae40eb608/02_gto_chart.png/1320x2868bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/d3/db/00d3db05-2def-4752-aeb3-da3eb7cb6132/03_hand_review.png/1320x2868bb.png",
@@ -239,6 +259,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c8/95/3dc89501-c33e-863a-4823-bf0a68921ea7/05_range_edge.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/76/b5/7a76b59a-8eea-83a0-8dd5-a443a6606d2a/01_table.png/416x496bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/cd/43/aecd436e-f58b-845f-12d5-b5f3384588bc/02_actions.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/94/cb/9094cb8d-c618-ea13-4448-e2ffae7c6ec5/01_table.png/416x496bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/0d/3d/e20d3da0-b5b6-58c5-6e23-1a8b5c7c3a80/02_actions.png/416x496bb.png"
   ],
@@ -262,8 +284,13 @@
       "version": "1.0.3",
       "releaseNotes": "The Apple Watch table was redesigned to fit on one screen, no scrolling. You now get 30bb a day, and the next hand is dealt automatically.",
       "seenAt": "2026-11-13T21:58:04Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "The bots play better. After the flop they read your likely hands from how you've played, so they no longer bet recklessly and they fold when they should.\nOn Apple Watch, each bot you knock out is followed by a stronger one. Tap the top-left button to see the bot's type and how to beat it.",
+      "seenAt": "2026-11-18T09:42:33Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:15:32.926Z",
+  "updatedAt": "2026-11-18T15:55:48.351Z",
   "isOwnApp": false
 }

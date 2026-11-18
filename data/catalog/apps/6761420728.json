@@ -93,20 +93,20 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/7f/4d/4a7f4d8a-54c2-9e47-0b6c-18335dd7209c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/39/c0/2339c0d8-e94c-46c8-9eb4-7cf25cfbc45c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "24439808",
+  "fileSizeBytes": "24464384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "3.3",
-  "currentVersionReleaseDate": "2026-11-13T20:25:57Z",
+  "version": "3.4",
+  "currentVersionReleaseDate": "2026-11-17T20:38:42Z",
   "releaseDate": "2026-04-02T07:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
   "artistViewUrl": "https://apps.apple.com/de/developer/virtual-gs/id302652687?uo=4",
-  "sellerUrl": "",
+  "sellerUrl": "https://virtual-gs.pages.dev/",
   "isGameCenterEnabled": false,
   "supportedDevices": [
     "iPhone5s-iPhone5s",
@@ -245,6 +245,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/1a/4c/b51a4c90-2d23-44a9-98b0-93787e552be6/duo1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/6d/df/7f6ddf84-2557-9069-78ee-4349ef7b2a2c/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/5f/70/be5f70b5-51ff-d9fa-e61f-123da8fa4062/duo3.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/29/4d/20294d88-011f-8f0f-0f10-8f3c74795a3c/iPad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b9/ac/1db9ac1b-6ecd-dbec-ecc1-17ec761c5180/iPad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c8/c5/7dc8c5b8-0929-e4c4-a1cd-34032b9acf49/iPad3.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/87/6b/2e876bc3-576c-5bde-ded0-1a646089fa7d/iPhone.png/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/8b/02/f98b02df-9524-49a6-0bc9-556d4f7cb506/IMG_1996.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/d9/77/9cd97793-975b-589d-10ea-f9698d5fd013/IMG_1995.jpg/1242x2688bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/b0/ff/4ab0ff9c-0e40-a4c0-5cfe-b91460cac3d4/iPhone1.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/56/95/c3569588-217f-8496-d472-500cf9209c62/iPhone2.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/4c/22/574c220e-1cf3-a347-9c32-0fbe7a42bfb4/iPhone3.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/b0/ff/4ab0ff9c-0e40-a4c0-5cfe-b91460cac3d4/iPhone1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/56/95/c3569588-217f-8496-d472-500cf9209c62/iPhone2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/4c/22/574c220e-1cf3-a347-9c32-0fbe7a42bfb4/iPhone3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/29/4d/20294d88-011f-8f0f-0f10-8f3c74795a3c/iPad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/b9/ac/1db9ac1b-6ecd-dbec-ecc1-17ec761c5180/iPad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c8/c5/7dc8c5b8-0929-e4c4-a1cd-34032b9acf49/iPad3.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/2a/85/9a2a85b0-45ef-e46f-c10c-41da215df218/Screenshot_iPhone_Duo_11-11-2026_at_7.53.02_U202fPM.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fd/af/a9fdaf71-3525-1949-95bc-694bd04ec5ee/Screenshot_iPhone_Duo_11-11-2026_at_7.53.26_U202fPM.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/dc/41/3cdc4109-7e10-d2e8-baa9-2ece1f209b90/Screenshot_iPhone_Duo_11-11-2026_at_7.55.15_U202fPM.png/2853x2007bb.png",
@@ -335,6 +353,8 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6d/40/2b6d4064-1932-614f-c050-c0d8188bce73/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-01_at_18.02.31.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/6f/ea/f36fea23-2524-5b6b-ee0d-52f195710630/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/55/98/0f559816-5ffd-72e9-3dab-48eee0e36ec6/incoming-774A0B1A-50A2-410D-9F9D-137B048E113E.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/c8/30/5bc83001-b805-1ed2-fc75-25aa53e961d6/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/88/05/748805eb-b7b9-1d2b-e0a7-f27bc2bbd88f/incoming-774A0B1A-50A2-410D-9F9D-137B048E113E.jpg/410x502bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/05/08/6d05085a-f63c-bfaa-e11f-aacaf5bf9d4f/incoming-A5818964-4C86-4123-9679-513B10A5F1DA.jpg/410x502bb.png",
@@ -428,8 +448,13 @@
       "version": "3.3",
       "releaseNotes": "Improve design and performance.",
       "seenAt": "2026-11-13T20:25:57Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "Improve design and performance.",
+      "seenAt": "2026-11-17T20:38:42Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:30:31.962Z",
+  "updatedAt": "2026-11-18T16:11:00.677Z",
   "isOwnApp": false
 }

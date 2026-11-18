@@ -1,14 +1,14 @@
 {
   "trackId": "6773094129",
   "bundleId": "com.novadevcodestudio.zentileflow.watchos",
-  "slug": "zen-tile-flow-pipe-puzzle",
-  "path": "/apps/6773094129-zen-tile-flow-pipe-puzzle/",
+  "slug": "zen-watch-games",
+  "path": "/apps/6773094129-zen-watch-games/",
   "locales": {
     "en": {
-      "trackName": "ZEN Tile Flow: Pipe Puzzle",
-      "description": "ZEN Tile Flow is a calm pipe-connection puzzle game built for quick sessions.\n\nRotate and mirror glowing tiles to connect the twin stars. Early levels are quick and relaxing, while Perfect Flow challenges ask you to use every tile on the board. As you progress, larger deep-flow puzzles add more thoughtful paths while staying easy to read and play.\n\nFeatures:\n- Apple Watch-first puzzle play\n- Simple tap and long-press tile controls\n- Perfect Flow levels that use every tile\n- Deep logic boards built for short sessions\n- Relaxing neon visuals, sound, and haptics\n- Progress tracking and replay\n- Offline play with local progress storage\n- Music, sound, motion, and contrast controls\n\nNo account. No ads. Just a focused logic puzzle you can play in quiet moments.",
-      "releaseNotes": "Completion juice — chime, 15 varied praise lines, richer milestones, milestone ray-burst + haptic\nProminent RESUME GAME button\nDigital Crown scrolling fixed\nInstant taps (single = CW, double = two CW)\nSim-only debug Pro unlock",
-      "trackViewUrl": "https://apps.apple.com/us/app/zen-tile-flow-pipe-puzzle/id6773094129?uo=4",
+      "trackName": "ZEN Watch Games",
+      "description": "ZEN Watch Games is a calm Apple Watch puzzle game you play on your wrist.\n\nRotate and mirror glowing tiles to connect the twin stars in quick, calming sessions. Early levels are relaxing, while Perfect Flow challenges ask you to use every tile. Larger deep-flow puzzles add more thoughtful paths while staying easy to read and play. Endless random levels and adjustable difficulty keep the puzzle flow going.\n\nFeatures:\n• Apple Watch-first puzzle play\n• Simple tap and long-press tile controls\n• Perfect Flow levels that use every tile\n• Deep logic boards for short sessions\n• Relaxing neon visuals, sound, and haptics\n• Progress tracking and replay\n• Offline play with local progress storage\n• Music, sound, motion, and contrast controls\n\nNo account. No ads. Just a focused logic puzzle for quiet moments.",
+      "releaseNotes": "Thanks for playing ZEN Tile Flow! We've freshened things up behind the scenes. Keep connecting the flow — calm, focused puzzles await on your wrist.",
+      "trackViewUrl": "https://apps.apple.com/us/app/zen-watch-games/id6773094129?uo=4",
       "formattedPrice": "Free",
       "sellerName": "YURY NICKOLAEVICH BREI",
       "genres": [
@@ -18,13 +18,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Calm logic, connect paths"
+      "subtitle": "Pipe Flow, Calm on Wrist"
     },
     "ja": {
-      "trackName": "ZEN Tile Flow: Pipe Puzzle",
-      "description": "ZEN Tile Flow is a calm pipe-connection puzzle game built for quick sessions.\n\nRotate and mirror glowing tiles to connect the twin stars. Early levels are quick and relaxing, while Perfect Flow challenges ask you to use every tile on the board. As you progress, larger deep-flow puzzles add more thoughtful paths while staying easy to read and play.\n\nFeatures:\n- Apple Watch-first puzzle play\n- Simple tap and long-press tile controls\n- Perfect Flow levels that use every tile\n- Deep logic boards built for short sessions\n- Relaxing neon visuals, sound, and haptics\n- Progress tracking and replay\n- Offline play with local progress storage\n- Music, sound, motion, and contrast controls\n\nNo account. No ads. Just a focused logic puzzle you can play in quiet moments.",
-      "releaseNotes": "Completion juice — chime, 15 varied praise lines, richer milestones, milestone ray-burst + haptic\nProminent RESUME GAME button\nDigital Crown scrolling fixed\nInstant taps (single = CW, double = two CW)\nSim-only debug Pro unlock",
-      "trackViewUrl": "https://apps.apple.com/jp/app/zen-tile-flow-pipe-puzzle/id6773094129?uo=4",
+      "trackName": "ZEN Apple Watch用ゲーム",
+      "description": "ZEN Apple Watch用ゲームは、手首で遊べる穏やかなApple Watch向けパズルゲームです。\n\n光るタイルを回転・反転させて、2つの星をつなぎましょう。短時間で楽しめる、心落ち着くパズルです。序盤のステージはリラックスして遊べます。一方、すべてのタイルを使う「パーフェクトフロー」では、歯ごたえのある挑戦が待っています。さらに、規模の大きな「ディープフロー」パズルでは、見やすく遊びやすいまま、じっくり考えられるルートが加わります。ランダム生成のエンドレスステージと調整可能な難易度で、パズルをいつまでも楽しめます。\n\n主な特徴：\n• Apple Watchを中心に設計したパズル\n• タップと長押しの簡単なタイル操作\n• すべてのタイルを使うパーフェクトフローステージ\n• 短時間で遊べる、深く考えるロジックパズル\n• リラックスできるネオンのビジュアル、サウンド、触覚フィードバック\n• 進行状況の記録とリプレイ\n• オフラインプレイと端末内での進行状況保存\n• 音楽、サウンド、モーション、コントラストの調整\n\nアカウント不要。広告なし。静かなひとときに楽しめる、集中型のロジックパズルです。",
+      "releaseNotes": "ZEN Tile Flow をプレイいただきありがとうございます！裏側で細かな改善を行いました。パイプをつなげて、手首で楽しむ穏やかで心地よいパズルをお楽しみください。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/zen-apple-watch%E7%94%A8%E3%82%B2%E3%83%BC%E3%83%A0/id6773094129?uo=4",
       "formattedPrice": "無料",
       "sellerName": "YURY NICKOLAEVICH BREI",
       "genres": [
@@ -37,10 +37,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "ZEN Tile Flow: Pipe Puzzle",
-      "description": "ZEN Tile Flow is a calm pipe-connection puzzle game built for quick sessions.\n\nRotate and mirror glowing tiles to connect the twin stars. Early levels are quick and relaxing, while Perfect Flow challenges ask you to use every tile on the board. As you progress, larger deep-flow puzzles add more thoughtful paths while staying easy to read and play.\n\nFeatures:\n- Apple Watch-first puzzle play\n- Simple tap and long-press tile controls\n- Perfect Flow levels that use every tile\n- Deep logic boards built for short sessions\n- Relaxing neon visuals, sound, and haptics\n- Progress tracking and replay\n- Offline play with local progress storage\n- Music, sound, motion, and contrast controls\n\nNo account. No ads. Just a focused logic puzzle you can play in quiet moments.",
-      "releaseNotes": "Completion juice — chime, 15 varied praise lines, richer milestones, milestone ray-burst + haptic\nProminent RESUME GAME button\nDigital Crown scrolling fixed\nInstant taps (single = CW, double = two CW)\nSim-only debug Pro unlock",
-      "trackViewUrl": "https://apps.apple.com/de/app/zen-tile-flow-pipe-puzzle/id6773094129?uo=4",
+      "trackName": "ZEN Apple-Watch-Spiele",
+      "description": "ZEN Apple-Watch-Spiele ist ein entspanntes Puzzlespiel für die Apple Watch, das du direkt am Handgelenk spielst.\n\nDrehe und spiegle leuchtende Kacheln, um die beiden Sterne in kurzen, beruhigenden Spielsitzungen zu verbinden. Die ersten Level sind entspannend, während die Perfect-Flow-Herausforderungen verlangen, dass du jede Kachel verwendest. Größere Deep-Flow-Rätsel bieten anspruchsvollere Wege, bleiben aber übersichtlich und leicht spielbar. Endlose Zufallslevel und ein anpassbarer Schwierigkeitsgrad sorgen für immer neue Rätsel.\n\nFunktionen:\n• Puzzles speziell für die Apple Watch\n• Einfache Steuerung durch Tippen und langes Drücken\n• Perfect-Flow-Level, in denen jede Kachel verwendet wird\n• Anspruchsvolle Logikrätsel für kurze Spielsitzungen\n• Entspannende Neon-Optik, Sound und haptisches Feedback\n• Fortschrittsanzeige und Möglichkeit zum erneuten Spielen\n• Offline spielen mit lokal gespeicherten Fortschritten\n• Einstellungen für Musik, Sound, Bewegung und Kontrast\n\nKein Konto. Keine Werbung. Einfach ein Logikrätsel für ruhige Momente.",
+      "releaseNotes": "Danke, dass du ZEN Tile Flow spielst! Hinter den Kulissen haben wir einiges verbessert. Verbinde weiter die Leitungen – ruhige, konzentrierte Rätsel warten auf deinem Handgelenk.",
+      "trackViewUrl": "https://apps.apple.com/de/app/zen-apple-watch-spiele/id6773094129?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "YURY NICKOLAEVICH BREI",
       "genres": [
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/78/88/34788811-7ae9-59da-c962-443e650c5a99/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/04/2d/6e042d07-1646-a14a-cb24-001e6d5d91dd/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "45503488",
+  "fileSizeBytes": "45532160",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "1.2",
-  "currentVersionReleaseDate": "2026-07-01T06:21:03Z",
+  "minimumOsVersion": "15.0",
+  "version": "1.3",
+  "currentVersionReleaseDate": "2026-11-17T18:26:51Z",
   "releaseDate": "2026-06-06T07:00:00Z",
   "artistId": 1895503289,
   "artistName": "YURY NICKOLAEVICH BREI",
@@ -253,8 +253,13 @@
       "version": "1.2",
       "releaseNotes": "Completion juice — chime, 15 varied praise lines, richer milestones, milestone ray-burst + haptic\nProminent RESUME GAME button\nDigital Crown scrolling fixed\nInstant taps (single = CW, double = two CW)\nSim-only debug Pro unlock ",
       "seenAt": "2026-07-01T06:21:03Z"
+    },
+    {
+      "version": "1.3",
+      "releaseNotes": "Thanks for playing ZEN Tile Flow! We've freshened things up behind the scenes. Keep connecting the flow — calm, focused puzzles await on your wrist.",
+      "seenAt": "2026-11-17T18:26:51Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:40:16.167Z",
+  "updatedAt": "2026-11-18T16:20:28.199Z",
   "isOwnApp": false
 }

@@ -6,7 +6,7 @@
   "locales": {
     "en": {
       "trackName": "Chess.com - Play and Learn",
-      "description": "Play chess lessons online with over 280 million players from around the world!\n\nChess is known as the best strategy board game in the world!\n\nEnjoy unlimited 3D offline pocket chess games and improve your chess rating with 1,000,000+ puzzles, more than 20 million chess games a day, lessons, and over 100 powerful bot opponents. Unlock your inner chess master today!\n\nPLAY CHESS ONLINE:\n- 2 Player online chess mode is entirely free to enjoy with your friends.\n- Join tournaments with players online or friends and become a master.\n- Play games in real-time from one minute per game to 30 minutes or longer with friends.\n- Review your strategy and game lessons and lay out daily correspondence in online chess.\n- Play exciting chess variants in our app: chess960 (Fischer-Random), blitz chess, puzzle rush, bullet chess, puzzle battle, or blindfold.\n\nCHESS PUZZLES:\n- Enjoy 1,000,000 + unique puzzles.\n- Rated mode automatically adjusts to your skill level to help you improve.\n- Race the clock with a timer to beat your high score in Puzzle Rush.\n- Practice puzzles with specific themes in this strategy board game (checkmate in 1, in 2, in 3, blindfold, endgames, fork, skewer, sacrifice, timer, etc.)\n\nCHESS LESSONS:\n- Hundreds of quality chess lessons and online videos made by masters (Learn and practice your skills with chess problems)\n- Interactive puzzles tutorials with tips and game recommendations.\n- Learn all the chess rules and strategies in a step-by-step lesson plan (opening, endgame...)\n\nCHESS COACHING:\n- Learn from helpful and immersive visual chess coach lessons.\n- Review your games with the coach and learn the strategy of the board game for every move.\n- Play games with the coach, who will guide you through the fundamentals move by move and provide helpful hints as you play.\n\nPLAY CHESS ONLINE AGAINST THE COMPUTER:\n- Choose the level of computer opponent you want to play and set a timer.\n- Analyze your chess games offline and learn to see where you went wrong and how you can improve.\n\nCHESS COMMUNITY:\n- Join a community of more than 200M online chess players. Find friends! \n- More than 20M games played each day.\n- Compete to get your own rating and try to join the best player online chess leaderboards against other players.\n- Watch the most popular superstars: Hikaru, GothamChess, or Magnus!\n\n ... and MUCH MORE:\n- Play chess games offline against the computer and the clock with a timer.\n- Articles by the best coaches and masters.\n- Explore openings like Queen´s Gambit or Sicilian Defense.\n- Challenge and play with your friends in an online chess game.\n- Choose from 20+ board themes and 3D pieces.\n- Get in-depth performance stats about your games, puzzles, and lessons.\n\nPlaying pocket chess online has never been so easy!\nChess.com is the place to play chess games online with your friends and other players!\n\nShare your suggestions and comments. Our support team is happy to help you 24 hours a day, 365 days a year!\n\nABOUT CHESS.COM:\nChess.com was created by chess players and people who love chess! \nTeam: http://www.chess.com/about",
+      "description": "Play chess lessons online with over 290 million players from around the world!\n\nChess is known as the best strategy board game in the world!\n\nEnjoy unlimited 3D offline pocket chess games and improve your chess rating with 1,000,000+ puzzles, more than 20 million chess games a day, lessons, and over 100 powerful bot opponents. Unlock your inner chess master today!\n\nPLAY CHESS ONLINE:\n- 2 Player online chess mode is entirely free to enjoy with your friends.\n- Join tournaments with players online or friends and become a master.\n- Play games in real-time from one minute per game to 30 minutes or longer with friends.\n- Review your strategy and game lessons and lay out daily correspondence in online chess.\n- Play exciting chess variants in our app: chess960 (Fischer-Random), blitz chess, puzzle rush, bullet chess, puzzle battle, or blindfold.\n\nCHESS PUZZLES:\n- Enjoy 1,000,000 + unique puzzles.\n- Rated mode automatically adjusts to your skill level to help you improve.\n- Race the clock with a timer to beat your high score in Puzzle Rush.\n- Practice puzzles with specific themes in this strategy board game (checkmate in 1, in 2, in 3, blindfold, endgames, fork, skewer, sacrifice, timer, etc.)\n\nCHESS LESSONS:\n- Hundreds of quality chess lessons and online videos made by masters (Learn and practice your skills with chess problems)\n- Interactive puzzles tutorials with tips and game recommendations.\n- Learn all the chess rules and strategies in a step-by-step lesson plan (opening, endgame...)\n\nCHESS COACHING:\n- Learn from helpful and immersive visual chess coach lessons.\n- Review your games with the coach and learn the strategy of the board game for every move.\n- Play games with the coach, who will guide you through the fundamentals move by move and provide helpful hints as you play.\n\nPLAY CHESS ONLINE AGAINST THE COMPUTER:\n- Choose the level of computer opponent you want to play and set a timer.\n- Analyze your chess games offline and learn to see where you went wrong and how you can improve.\n\nCHESS COMMUNITY:\n- Join a community of more than 200M online chess players. Find friends! \n- More than 20M games played each day.\n- Compete to get your own rating and try to join the best player online chess leaderboards against other players.\n- Watch the most popular superstars: Hikaru, GothamChess, or Magnus!\n\n ... and MUCH MORE:\n- Play chess games offline against the computer and the clock with a timer.\n- Articles by the best coaches and masters.\n- Explore openings like Queen´s Gambit or Sicilian Defense.\n- Challenge and play with your friends in an online chess game.\n- Choose from 20+ board themes and 3D pieces.\n- Get in-depth performance stats about your games, puzzles, and lessons.\n\nPlaying pocket chess online has never been so easy!\nChess.com is the place to play chess games online with your friends and other players!\n\nShare your suggestions and comments. Our support team is happy to help you 24 hours a day, 365 days a year!\n\nABOUT CHESS.COM:\nChess.com was created by chess players and people who love chess! \nTeam: http://www.chess.com/about",
       "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
       "trackViewUrl": "https://apps.apple.com/us/app/chess-com-play-and-learn/id329218549?uo=4",
       "formattedPrice": "Free",
@@ -212,15 +212,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b4/78/81b478e5-8011-26f4-7faf-179b6e9dc1bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.72867,
-  "userRatingCount": 103191,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/69/ef/3369efe4-8177-00ef-e545-96ff6218b808/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.72886,
+  "userRatingCount": 103657,
   "price": 0,
-  "fileSizeBytes": "488429568",
+  "fileSizeBytes": "496485376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "4.10.38",
-  "currentVersionReleaseDate": "2026-11-10T20:39:22Z",
+  "version": "4.10.39",
+  "currentVersionReleaseDate": "2026-11-17T21:07:26Z",
   "releaseDate": "2009-10-29T03:18:55Z",
   "artistId": 329218552,
   "artistName": "Chess.com",
@@ -819,8 +819,13 @@
       "version": "4.10.38",
       "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
       "seenAt": "2026-11-10T20:39:22Z"
+    },
+    {
+      "version": "4.10.39",
+      "releaseNotes": "Hi chess fans! Today's new version improves app quality, removing a couple of bugs that could cause the app to crash. We hope you enjoy it! Thank you.",
+      "seenAt": "2026-11-17T21:07:26Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:31:19.613Z",
+  "updatedAt": "2026-11-18T16:11:47.309Z",
   "isOwnApp": false
 }
