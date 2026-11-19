@@ -54,6 +54,23 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "zh": {
+      "trackName": "MoonLeaping Watch",
+      "description": "Unleash the power of peaceful sleep with Moon Leaping, the enchanting sleep app designed for Apple Watch. Delight your senses as you witness a whimsical cow gracefully leaping over the moon and stars, casting a soothing spell to guide you into a world of tranquil dreams. Whether you're an adult in need of rejuvenating rest or a parent seeking a serene bedtime routine for your little ones, Moon Leaping offers a delightful experience for all. Simply activate the app, gaze upon the mesmerizing scene, and let the gentle rhythm of the cow's leap carry you into a restful slumber. Say hello to sweet dreams and bid farewell to restless nights with Moon Leaping. \n\n\nNote: Time is counted as time passes to ensure distractions are not present while using the app, cow will move through obstacles unless tapped on obstacle to prevent distraction, jumps are counted.",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\nNew Look!\n\n\n-Updated the Cow, Background, and some Obstacles",
+      "trackViewUrl": "https://apps.apple.com/cn/app/moonleaping-watch/id6479610253?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Trisphere Apps LLC",
+      "genres": [
+        "游戏",
+        "策略",
+        "家庭聚会"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/02/cc/9002ccb2-6587-df27-0b6c-7e3ad1a01f48/AppIcon-0-0-1x_U007ewatch-0-85-220.png/512x512bb.jpg",
@@ -231,6 +248,6 @@
       "seenAt": "2024-04-11T12:25:32Z"
     }
   ],
-  "updatedAt": "2026-11-18T16:34:12.936Z",
+  "updatedAt": "2026-11-19T16:42:52.085Z",
   "isOwnApp": false
 }

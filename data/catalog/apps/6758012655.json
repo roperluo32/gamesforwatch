@@ -93,7 +93,7 @@
   "releaseDate": "2026-03-10T07:00:00Z",
   "artistId": 1869875510,
   "artistName": "maxime bourdis",
-  "artistViewUrl": "https://apps.apple.com/de/developer/maxime-bourdis/id1869875510?uo=4",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/maxime-bourdis/id1869875510?uo=4",
   "sellerUrl": "https://www.pocketrex.eu/",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -268,6 +268,6 @@
       "seenAt": "2026-03-10T16:08:17Z"
     }
   ],
-  "updatedAt": "2026-11-18T16:24:31.475Z",
+  "updatedAt": "2026-11-19T16:31:31.216Z",
   "isOwnApp": false
 }

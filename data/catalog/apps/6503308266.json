@@ -96,8 +96,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/29/d7/ab29d773-79d3-9ea5-6be1-5ed02c2fa206/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.89583,
-  "userRatingCount": 144,
+  "averageUserRating": 4.89655,
+  "userRatingCount": 145,
   "price": 0,
   "fileSizeBytes": "199122944",
   "contentAdvisoryRating": "4+",
@@ -404,6 +404,6 @@
       "seenAt": "2026-11-11T06:02:08Z"
     }
   ],
-  "updatedAt": "2026-11-18T16:11:34.667Z",
+  "updatedAt": "2026-11-19T16:17:51.369Z",
   "isOwnApp": false
 }
