@@ -32,7 +32,7 @@
         "ES",
         "TR"
       ],
-      "subtitle": "Spin, Answer & Win Big Rewards"
+      "subtitle": "Smart Multiplayer Party Fun"
     },
     "ja": {
       "trackName": "Trivia Crack: 脳トレクイズゲーム",
@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/59/f5/3759f5e8-4681-6651-d010-4032b9774293/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/57/3a/ba573a82-6ed0-742c-13ea-03f5cb0bcc3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28352,
   "userRatingCount": 1626,
   "price": 0,
   "fileSizeBytes": "443358208",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.396.0",
-  "currentVersionReleaseDate": "2026-11-16T19:13:08Z",
+  "version": "3.396.1",
+  "currentVersionReleaseDate": "2026-11-19T15:07:55Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -263,6 +263,34 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/16/ca/2916caa2-3db0-06be-17b6-1ab3917bc74f/ASO_TC_EN_IPHONE_1206x2622_006.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/49/c4/6749c401-3de4-8f95-4b5e-d51a3206b653/ASO_TC_EN_IPHONE_1206x2622_007.png/1206x2622bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/d7/8a/7bd78afd-e0c0-d7d3-ede2-5f8ca8323bae/ASO_TC_EN_IPHONE_1206x2622_008.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/81/17/3d81178a-f6e8-2fb1-8bf6-58f13b813ac8/ASO_TC_DE_iOS_iPhone_1206x2622_001.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/cc/ee/e5cceee5-23c9-768b-6857-90c262d14b5e/ASO_TC_DE_iOS_iPhone_1206x2622_002.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/f4/54/97f45427-eea8-6ef9-90a7-eb313b9c6f63/ASO_TC_DE_iOS_iPhone_1206x2622_003.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/07/f1/6b07f1c4-b09c-cc9f-94ed-13257cd85220/ASO_TC_DE_iOS_iPhone_1206x2622_004.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/90/7b/36907b61-15ce-02a9-576b-d78dec2a8d1b/ASO_TC_DE_iOS_iPhone_1206x2622_005.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/06/dc/c606dcc0-8b2f-f1af-efe4-91839b254520/ASO_TC_DE_iOS_iPhone_1206x2622_006.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/49/18/f54918c6-664a-f64a-e6ce-19c64341dadc/ASO_TC_DE_iOS_iPhone_1206x2622_007.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/5d/92/935d92de-2fa0-9a22-96f0-01c27a60e6cb/ASO_TC_DE_iOS_iPad_2064x2752_001.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/94/c6/b294c682-6321-e58b-17af-1a04f4795375/ASO_TC_DE_iOS_iPad_2064x2752_002.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/1d/1b/be1d1bb3-c3c1-77be-384b-7b2a41731cc0/ASO_TC_DE_iOS_iPad_2064x2752_003.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/5b/95/8d5b959c-9bf2-aebc-07e3-f46c0426dc82/ASO_TC_DE_iOS_iPad_2064x2752_004.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/f4/60/aff460f9-16f9-49f5-e601-5b39796acbb6/ASO_TC_DE_iOS_iPad_2064x2752_005.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/5c/6d/b75c6d53-8b90-97a1-2b35-666fd74f5c77/ASO_TC_DE_iOS_iPad_2064x2752_006.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/7d/47/6c7d4762-5911-4d82-c6e3-837c3478f98e/ASO_TC_DE_iOS_iPad_2064x2752_007.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/9a/cc/dc9acc2f-21c2-425a-e569-ea45955f2814/ASO_TC_JA_iOS_iPhone_1206x2622_001.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/87/df/dc87dfbb-ed7d-6bde-a605-2157ae968481/ASO_TC_JA_iOS_iPhone_1206x2622_002.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/cd/3a/41cd3abb-e6d6-a82e-7a54-07edc29dcb13/ASO_TC_JA_iOS_iPhone_1206x2622_003.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/cb/2b/8dcb2b60-b8d8-d1e4-aa2f-4e57824c6101/ASO_TC_JA_iOS_iPhone_1206x2622_004.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/ab/6a/55ab6a01-4cc2-6fb2-7267-0f3182502edb/ASO_TC_JA_iOS_iPhone_1206x2622_005.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/b5/7f/e7b57f6b-6d02-b0ef-020a-5f0f35535150/ASO_TC_JA_iOS_iPhone_1206x2622_006.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/ba/a4/a6baa46c-1a20-76da-19eb-e560cf392ddb/ASO_TC_JA_iOS_iPhone_1206x2622_007.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/d0/b6/f0d0b677-421a-0ba0-b10e-bf7659a9ef18/ASO_TC_JA_iOS_iPad_2064x2752_001.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/47/c2/a247c23a-81ba-ab25-bfe9-dfcd51e1a48f/ASO_TC_JA_iOS_iPad_2064x2752_002.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/a3/fc/54a3fc15-f652-78e7-5caa-3f2d2e93dd70/ASO_TC_JA_iOS_iPad_2064x2752_003.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/5c/ad/325caded-9cff-2aa6-8241-0f88f907ea5d/ASO_TC_JA_iOS_iPad_2064x2752_004.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/e7/8e/a1e78e18-8fc3-f12d-f9f9-ea980a6d5bb7/ASO_TC_JA_iOS_iPad_2064x2752_005.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/5e/7c/115e7c3c-40f4-1901-6684-18983b03740d/ASO_TC_JA_iOS_iPad_2064x2752_006.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/48/e3/bf48e392-c87c-fb43-b963-bc81c84e53de/ASO_TC_JA_iOS_iPad_2064x2752_007.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/6e/9d/086e9d94-b7f9-c9df-b9a6-fd7d4be48980/ASO_TC_EN_IPHONE_1206x2622_001.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ed/8d/0aed8db2-78a7-d1f3-42d4-46c1e017e90b/ASO_TC_EN_IPHONE_1206x2622_002.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/f6/eb/e4f6ebfa-2a7d-bf76-6a18-291d2ba63cf1/ASO_TC_EN_IPHONE_1206x2622_003.png/320x480bb.jpg",
@@ -594,8 +622,13 @@
       "version": "3.396.0",
       "releaseNotes": "Treat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
       "seenAt": "2026-11-16T19:13:08Z"
+    },
+    {
+      "version": "3.396.1",
+      "releaseNotes": "Treat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
+      "seenAt": "2026-11-19T15:07:55Z"
     }
   ],
-  "updatedAt": "2026-11-19T15:41:13.842Z",
+  "updatedAt": "2026-11-20T15:20:05.381Z",
   "isOwnApp": false
 }

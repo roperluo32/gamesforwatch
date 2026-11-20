@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/54/07/af5407c9-9b30-adec-2f97-bedc7c251a74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f2/8d/3ff28d6a-4778-1e01-3536-0848b036d9a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "61775872",
+  "fileSizeBytes": "54358016",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.2.6",
-  "currentVersionReleaseDate": "2026-11-16T19:45:30Z",
+  "version": "1.3.0",
+  "currentVersionReleaseDate": "2026-11-19T19:10:06Z",
   "releaseDate": "2026-10-08T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -359,8 +359,13 @@
       "version": "1.2.6",
       "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
       "seenAt": "2026-11-16T19:45:30Z"
+    },
+    {
+      "version": "1.3.0",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.",
+      "seenAt": "2026-11-19T19:10:06Z"
     }
   ],
-  "updatedAt": "2026-11-19T15:57:03.311Z",
+  "updatedAt": "2026-11-20T15:35:23.174Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Hueful: Daily Color Puzzle",
       "description": "Every day, one new color to match.\n\nHueful is a quiet daily puzzle for your eyes. Each day brings three quick rounds: read a color, then mix it yourself with the sliders until your guess sits as close as you can get. The closer you land, the higher you score.\n\nHow a day plays\n\nRound one: match a single color with red, green, and blue.\nRound two: a subtler shade — the browns, sages, and mauves — using hue, saturation, and lightness.\nRound three: a two-color gradient, with both ends to match.\nYou're scored on how close you get — out of 100 each round, 300 for the day. Land near-perfect and you earn three stars. The whole thing takes about a minute.\n\nCome back tomorrow and your streak grows. Not a number that nags you — a palette of every color you've matched, filling in over time. Compare your daily score with players around the world on the Game Center leaderboard, and check today's status from the home screen widget or your Apple Watch.\n\nHueful Plus\nWant more than the daily three? Hueful Plus unlocks unlimited practice — any color, any difficulty, whenever you like — along with your full stats history and advanced color input (hex, RGB, HSL, and Lab). Available weekly, monthly, or yearly, or as a one-time lifetime unlock.\n\nNo accounts, no clutter. Just a calm minute of color, every day.\n\nHueful Plus subscriptions (weekly, monthly, or yearly) are auto-renewing. Payment is charged to your Apple Account at purchase. Your subscription renews automatically unless turned off at least 24 hours before the end of the current period; your account is charged for renewal within 24 hours before the period ends. You can manage or cancel anytime in your Apple Account settings. The Lifetime option is a one-time purchase, not a subscription. Prices are shown in the app before you buy.\n\nPrivacy Policy: https://hueful.app/privacy\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseNotes": "Fixes an empty banner area on the unfolded iPhone Duo, plus small improvements.",
+      "releaseNotes": "Small improvements and fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/hueful-daily-color-puzzle/id6775497669?uo=4",
       "formattedPrice": "Free",
       "sellerName": "J AND B CREATIONS LLC",
@@ -68,15 +68,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/d1/23/5cd123ba-d550-52bd-d57a-95c4f9897f48/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/f0/ba/8bf0ba1a-262d-ca75-2952-d3adeacbf17b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "19670016",
+  "fileSizeBytes": "30314496",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.0",
-  "version": "1.8.8",
-  "currentVersionReleaseDate": "2026-11-03T16:58:21Z",
+  "version": "1.8.9",
+  "currentVersionReleaseDate": "2026-11-19T19:45:04Z",
   "releaseDate": "2026-06-03T07:00:00Z",
   "artistId": 1895160810,
   "artistName": "J&B Creations LLC",
@@ -368,8 +368,13 @@
       "version": "1.8.8",
       "releaseNotes": "Fixes an empty banner area on the unfolded iPhone Duo, plus small improvements.",
       "seenAt": "2026-11-03T16:58:21Z"
+    },
+    {
+      "version": "1.8.9",
+      "releaseNotes": "Small improvements and fixes.",
+      "seenAt": "2026-11-19T19:45:04Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:18:49.478Z",
+  "updatedAt": "2026-11-20T15:56:54.438Z",
   "isOwnApp": false
 }
