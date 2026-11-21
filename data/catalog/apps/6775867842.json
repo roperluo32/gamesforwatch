@@ -71,15 +71,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/fa/d5/f2fad51c-53e4-ceb9-0421-fdfdba39d880/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/ae/15/b3ae156c-86a4-3afa-5da5-ff8a4cb5eb48/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "35628032",
+  "fileSizeBytes": "35681280",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.0",
-  "version": "1.20",
-  "currentVersionReleaseDate": "2026-11-20T00:18:22Z",
+  "version": "1.21",
+  "currentVersionReleaseDate": "2026-11-20T18:04:45Z",
   "releaseDate": "2026-06-12T07:00:00Z",
   "artistId": 1895160810,
   "artistName": "J&B Creations LLC",
@@ -401,8 +401,13 @@
       "version": "1.20",
       "releaseNotes": "Small fixes and improvements.",
       "seenAt": "2026-11-20T00:18:22Z"
+    },
+    {
+      "version": "1.21",
+      "releaseNotes": "Small fixes and improvements.",
+      "seenAt": "2026-11-20T18:04:45Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:51:28.559Z",
+  "updatedAt": "2026-11-21T15:10:15.191Z",
   "isOwnApp": false
 }

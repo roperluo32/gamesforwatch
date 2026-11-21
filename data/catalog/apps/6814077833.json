@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/3d/6c/093d6cf9-42cc-7524-218c-ffe117a86aa3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/f9/a0/85f9a05c-e9f4-598a-a964-a96f56794a88/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "7320576",
+  "fileSizeBytes": "7771136",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "1.1",
-  "currentVersionReleaseDate": "2026-09-28T21:43:30Z",
+  "version": "1.2",
+  "currentVersionReleaseDate": "2026-11-20T18:56:21Z",
   "releaseDate": "2026-09-24T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -259,8 +259,13 @@
       "version": "1.1",
       "releaseNotes": "Photo Recall: Watch Game now supports iOS 16 and iPadOS 16, bringing fun memory challenges to more iPhone and iPad users. All existing gameplay and features remain available.",
       "seenAt": "2026-09-28T21:43:30Z"
+    },
+    {
+      "version": "1.2",
+      "releaseNotes": "Photo Recall: Watch Game now supports iOS 16 and iPadOS 16, bringing fun memory challenges to more iPhone and iPad users. All existing gameplay and features remain available.",
+      "seenAt": "2026-11-20T18:56:21Z"
     }
   ],
-  "updatedAt": "2026-11-20T16:00:32.518Z",
+  "updatedAt": "2026-11-21T15:19:11.246Z",
   "isOwnApp": false
 }

@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "New images for in-app purchase items have been added and updated; this change affects only the display of those images, without impacting the existing in-app purchase functions, prices, or purchasing logic.",
+      "releaseNotes": "Added support for App Store rating prompts when you return to the home screen on iPhone and iPad. Your feedback helps us improve Mini Racing!",
       "trackViewUrl": "https://apps.apple.com/us/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -31,7 +31,7 @@
     "zh": {
       "trackName": "迷你赛车-手表竞速游戏",
       "description": "极速9527是一款日式霓虹街机风格的赛车游戏。驾驶赛车穿过城市道路，灵活变道，躲避车流与施工路障，在倒计时结束前冲过终点！\n\n游戏特色\n\n• 霓虹街机画风\n深色街景、像素赛车与醒目的霓虹色彩，营造复古街机氛围。\n\n• 30关竞速挑战\n逐步解锁关卡，应对越来越密集的车流与障碍，挑战自己的反应和操控。\n\n• 指尖与腕上驾驶\n支持 iPhone、iPad 和 Apple Watch。手机和平板左右拖动转向，手表支持滑动屏幕或旋转数码表冠操控。\n\n• 挑战个人纪录\n本机排行榜保存已结束比赛的前10名成绩，记录分数、关卡与日期。\n选择关卡，开始赛车，向终点出发！\n\n说明：关卡进度和排行榜成绩分别保存在各自设备上，当前不提供全球排名或跨设备同步。",
-      "releaseNotes": "新增并更新内购项目图片，此次修改仅涉及内购项目图片展示，不影响原有内购功能、价格及购买逻辑。",
+      "releaseNotes": "新增 iPhone 和 iPad 系统评分支持，返回首页后可通过评分弹框分享你的游戏体验。感谢你的反馈，帮助我们持续完善迷你赛车！",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%BF%B7%E4%BD%A0%E8%B5%9B%E8%BD%A6-%E6%89%8B%E8%A1%A8%E7%AB%9E%E9%80%9F%E6%B8%B8%E6%88%8F/id6810125888?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -55,7 +55,7 @@
     "ja": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "New images for in-app purchase items have been added and updated; this change affects only the display of those images, without impacting the existing in-app purchase functions, prices, or purchasing logic.",
+      "releaseNotes": "Added support for App Store rating prompts when you return to the home screen on iPhone and iPad. Your feedback helps us improve Mini Racing!",
       "trackViewUrl": "https://apps.apple.com/jp/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -79,7 +79,7 @@
     "de": {
       "trackName": "Mini Racing: Watch Game",
       "description": "Mini Racing is a racing game with a Japanese neon arcade style. Drive through city streets, change lanes, dodge traffic and roadwork barriers, and cross the finish line before time runs out!\n\nFeatures\n\n• Neon arcade visuals\nDark city streets, pixel cars and vivid neon colors create a retro arcade atmosphere.\n\n• 30 racing challenges\nUnlock levels as you go and face increasingly heavy traffic and obstacles that test your reflexes and control.\n\n• Race at your fingertips and on your wrist\nPlay on iPhone, iPad and Apple Watch. Drag left or right to steer on iPhone and iPad. On Apple Watch, swipe the screen or turn the Digital Crown.\n\n• Beat your personal best\nThe on-device leaderboard saves your top 10 completed race results, including score, level and date.\n\nChoose a level, start your engine and head for the finish line!\n\nNote: Level progress and leaderboard results are stored separately on each device. Global rankings and cross-device syncing are not currently available.",
-      "releaseNotes": "New images for in-app purchase items have been added and updated; this change affects only the display of those images, without impacting the existing in-app purchase functions, prices, or purchasing logic.",
+      "releaseNotes": "Added support for App Store rating prompts when you return to the home screen on iPhone and iPad. Your feedback helps us improve Mini Racing!",
       "trackViewUrl": "https://apps.apple.com/de/app/mini-racing-watch-game/id6810125888?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nanjing Ningyue Network Technology Company Limited",
@@ -101,15 +101,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d7/29/44d729af-8d6c-d0d4-9733-40ebb643db96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/47/e6/3747e669-e559-8112-6823-adf8061358dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "27952128",
+  "fileSizeBytes": "28304384",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "16.0",
-  "version": "2.4",
-  "currentVersionReleaseDate": "2026-10-16T08:36:44Z",
+  "version": "2.5",
+  "currentVersionReleaseDate": "2026-11-20T20:30:26Z",
   "releaseDate": "2026-09-15T07:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -377,8 +377,13 @@
       "version": "2.4",
       "releaseNotes": "New images for in-app purchase items have been added and updated; this change affects only the display of those images, without impacting the existing in-app purchase functions, prices, or purchasing logic.",
       "seenAt": "2026-10-16T08:36:44Z"
+    },
+    {
+      "version": "2.5",
+      "releaseNotes": "Added support for App Store rating prompts when you return to the home screen on iPhone and iPad. Your feedback helps us improve Mini Racing!",
+      "seenAt": "2026-11-20T20:30:26Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:58:51.428Z",
+  "updatedAt": "2026-11-21T15:17:33.515Z",
   "isOwnApp": false
 }

@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/9d/ba/8e9dba9d-62ca-03c8-e5e1-1f2e4524f5a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d7/b9/32d7b957-e692-ccda-384d-c559f5edb127/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 5,
   "userRatingCount": 1,
   "price": 0,
-  "fileSizeBytes": "102258688",
+  "fileSizeBytes": "102303744",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "15.0",
-  "version": "1.43",
-  "currentVersionReleaseDate": "2026-11-07T20:28:23Z",
+  "version": "1.44",
+  "currentVersionReleaseDate": "2026-11-20T18:35:23Z",
   "releaseDate": "2026-03-17T07:00:00Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -752,8 +752,13 @@
       "version": "1.43",
       "releaseNotes": "Improved performance.",
       "seenAt": "2026-11-07T20:28:23Z"
+    },
+    {
+      "version": "1.44",
+      "releaseNotes": "Improved performance.",
+      "seenAt": "2026-11-20T18:35:23Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:47:02.655Z",
+  "updatedAt": "2026-11-21T15:05:10.864Z",
   "isOwnApp": false
 }

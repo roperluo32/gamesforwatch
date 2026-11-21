@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/cf/67/ebcf6706-c437-603f-f2fe-d4f6770cf16e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/63/38/60633819-9af6-0ca4-6fd8-495d8e8f9c44/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "13464576",
+  "fileSizeBytes": "19235840",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.0",
-  "version": "1.0.1",
-  "currentVersionReleaseDate": "2026-11-10T11:55:38Z",
+  "version": "1.0.2",
+  "currentVersionReleaseDate": "2026-11-20T21:30:31Z",
   "releaseDate": "2026-11-06T08:00:00Z",
   "artistId": 6823678179,
   "artistName": "Vasilii Bespalov",
@@ -293,8 +293,13 @@
       "version": "1.0.1",
       "releaseNotes": "Thanks for playing Voltik! This version brings small fixes and polish. Enjoying the circuits? A quick rating helps other puzzle fans find the game.",
       "seenAt": "2026-11-10T11:55:38Z"
+    },
+    {
+      "version": "1.0.2",
+      "releaseNotes": "Thanks for playing Voltik! This version brings small fixes and polish. Enjoying the circuits? A quick rating helps other puzzle fans find the game.",
+      "seenAt": "2026-11-20T21:30:31Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:21:20.537Z",
+  "updatedAt": "2026-11-21T14:39:29.282Z",
   "isOwnApp": false
 }
