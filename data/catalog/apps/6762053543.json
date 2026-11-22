@@ -1,0 +1,388 @@
+{
+  "trackId": "6762053543",
+  "bundleId": "blomig.BLOMIX",
+  "slug": "blomix-block-puzzle",
+  "path": "/apps/6762053543-blomix-block-puzzle/",
+  "locales": {
+    "en": {
+      "trackName": "BLOMIX - Block Puzzle",
+      "description": "BLOMIX is an 8×8 combinatorial puzzle where blocks float upward, chains explode, and pressure keeps building. Free. No ads. No in-app purchases.\nPlace colored blox on the grid and form chains of 5 or more blox of the same color — in rows, columns, or diagonals (8-connectivity). Chains clear, remaining blocks rise, and new combos appear.\n◆ UPSIDE-DOWN GRAVITY\nBlox compact toward the top. A rare mechanic that changes how you think about every move.\n◆ RISING PRESSURE\nEvery 10 moves, an incoming line pushes the grid up. In solo mode, a timer and stages ramp up difficulty and your score multiplier.\n◆ BRIX — RESISTANT STONES\nEvery so often, a blox becomes a numbered Brix. It won't break like normal blocks — form adjacent chains to chip away its counter until it vanishes.\n◆ 7 MAGIX BLOCKS\nCHROMAX, SAINTX, SCRUMBLX… spectacular effects that transform the grid in an instant.\n◆ 3 GAME MODES\n• Zen — no timer, play at your own pace\n• Solo — stages, timer, multiplier: difficulty grows with you\n• PvP — challenge an opponent: every 50 points, you send them a line!\n◆ POST-GAME ANALYSIS\nSee your optimality % and replay your worst move.\n◆ CUSTOMISATION\nFonts, colors, sound mix — tailor Blomix to your taste.\n100% free. No ads. No loot boxes. Just the puzzle.",
+      "releaseNotes": "• Ink: a new look, watercolor on paper, beside Dark and Light.\n• Home: three doors, Play, Challenges, and Duel. Pick the mode just underneath.\n• The first time a Magix arrives, a bubble tells you what it does.\n• After the tutorial, your first game has no timer.\n• Game Center achievements: what you already did in the Trophy Lounge counts there too.",
+      "trackViewUrl": "https://apps.apple.com/us/app/blomix-block-puzzle/id6762053543?uo=4",
+      "formattedPrice": "Free",
+      "sellerName": "Lomig UNGER",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": "Chains of 5, reverse gravity"
+    },
+    "zh": {
+      "trackName": "BLOMIX - Block Puzzle",
+      "description": "BLOMIX is an 8×8 combinatorial puzzle where blocks float upward, chains explode, and pressure keeps building. Free. No ads. No in-app purchases.\nPlace colored blox on the grid and form chains of 5 or more blox of the same color — in rows, columns, or diagonals (8-connectivity). Chains clear, remaining blocks rise, and new combos appear.\n◆ UPSIDE-DOWN GRAVITY\nBlox compact toward the top. A rare mechanic that changes how you think about every move.\n◆ RISING PRESSURE\nEvery 10 moves, an incoming line pushes the grid up. In solo mode, a timer and stages ramp up difficulty and your score multiplier.\n◆ BRIX — RESISTANT STONES\nEvery so often, a blox becomes a numbered Brix. It won't break like normal blocks — form adjacent chains to chip away its counter until it vanishes.\n◆ 7 MAGIX BLOCKS\nCHROMAX, SAINTX, SCRUMBLX… spectacular effects that transform the grid in an instant.\n◆ 3 GAME MODES\n• Zen — no timer, play at your own pace\n• Solo — stages, timer, multiplier: difficulty grows with you\n• PvP — challenge an opponent: every 50 points, you send them a line!\n◆ POST-GAME ANALYSIS\nSee your optimality % and replay your worst move.\n◆ CUSTOMISATION\nFonts, colors, sound mix — tailor Blomix to your taste.\n100% free. No ads. No loot boxes. Just the puzzle.",
+      "releaseNotes": "• Ink: a new look, watercolor on paper, beside Dark and Light.\n• Home: three doors, Play, Challenges, and Duel. Pick the mode just underneath.\n• The first time a Magix arrives, a bubble tells you what it does.\n• After the tutorial, your first game has no timer.\n• Game Center achievements: what you already did in the Trophy Lounge counts there too.",
+      "trackViewUrl": "https://apps.apple.com/cn/app/blomix-block-puzzle/id6762053543?uo=4",
+      "formattedPrice": "免费",
+      "sellerName": "Lomig UNGER",
+      "genres": [
+        "游戏",
+        "益智解谜"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    },
+    "ja": {
+      "trackName": "BLOMIX - Block Puzzle",
+      "description": "BLOMIX is an 8×8 combinatorial puzzle where blocks float upward, chains explode, and pressure keeps building. Free. No ads. No in-app purchases.\nPlace colored blox on the grid and form chains of 5 or more blox of the same color — in rows, columns, or diagonals (8-connectivity). Chains clear, remaining blocks rise, and new combos appear.\n◆ UPSIDE-DOWN GRAVITY\nBlox compact toward the top. A rare mechanic that changes how you think about every move.\n◆ RISING PRESSURE\nEvery 10 moves, an incoming line pushes the grid up. In solo mode, a timer and stages ramp up difficulty and your score multiplier.\n◆ BRIX — RESISTANT STONES\nEvery so often, a blox becomes a numbered Brix. It won't break like normal blocks — form adjacent chains to chip away its counter until it vanishes.\n◆ 7 MAGIX BLOCKS\nCHROMAX, SAINTX, SCRUMBLX… spectacular effects that transform the grid in an instant.\n◆ 3 GAME MODES\n• Zen — no timer, play at your own pace\n• Solo — stages, timer, multiplier: difficulty grows with you\n• PvP — challenge an opponent: every 50 points, you send them a line!\n◆ POST-GAME ANALYSIS\nSee your optimality % and replay your worst move.\n◆ CUSTOMISATION\nFonts, colors, sound mix — tailor Blomix to your taste.\n100% free. No ads. No loot boxes. Just the puzzle.",
+      "releaseNotes": "• Ink: a new look, watercolor on paper, beside Dark and Light.\n• Home: three doors, Play, Challenges, and Duel. Pick the mode just underneath.\n• The first time a Magix arrives, a bubble tells you what it does.\n• After the tutorial, your first game has no timer.\n• Game Center achievements: what you already did in the Trophy Lounge counts there too.",
+      "trackViewUrl": "https://apps.apple.com/jp/app/blomix-block-puzzle/id6762053543?uo=4",
+      "formattedPrice": "無料",
+      "sellerName": "Lomig UNGER",
+      "genres": [
+        "ゲーム",
+        "パズル"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    },
+    "de": {
+      "trackName": "BLOMIX - Blockpuzzle",
+      "description": "BLOMIX ist ein kombinatorisches 8×8-Puzzle, bei dem Blöcke nach oben steigen, Ketten explodieren und der Druck steigt. Kostenlos. Ohne Werbung. Ohne In-App-Käufe.\nPlatziere farbige Blox im Gitter und bilde Ketten aus 5 oder mehr Blox derselben Farbe — in Reihen, Spalten oder Diagonalen (8-Konnektivität). Ketten verschwinden, die restlichen Blöcke steigen, neue Kombos entstehen.\n◆ UMGEKEHRTE SCHWEREKRAFT\nBlox kompaktieren nach oben. Eine seltene Mechanik, die jede Strategie verändert.\n◆ STEIGENDER DRUCK\nAlle 10 Züge schiebt eine eingehende Linie das Gitter nach oben. Im Solo-Modus erhöhen Timer und Stufen Schwierigkeit und Punkte-Multiplikator.\n◆ BRIX — WIDERSTANDSFÄHIGE STEINE\nManchmal wird ein Blox zu einem nummerierten Brix. Er lässt sich nicht wie normale Blöcke räumen — bilde benachbarte Ketten, um den Zähler zu senken.\n◆ 7 MAGIX-BLÖCKE\nCHROMAX, SAINTX, SCRUMBLX… spektakuläre Effekte, die das Gitter im Handumdrehen verwandeln.\n◆ 3 SPIELMODI\n• Zen — ohne Timer, in deinem Tempo\n• Solo — Stufen, Timer, Multiplikator: Schwierigkeit wächst mit dir\n• PvP — fordere einen Gegner heraus: alle 50 Punkte schickst du ihm eine Linie!\n◆ SPIELANALYSE\nSieh deine Optimalität in % und spiele deinen schlechtesten Zug erneut ab.\n◆ ANPASSUNG\nSchriftarten, Farben, Sound-Mix — passe Blomix an deinen Geschmack an.\n100 % kostenlos. Keine Werbung. Keine Lootboxen. Nur das Puzzle.",
+      "releaseNotes": "• Tinte: ein neuer Look, Aquarell auf Papier, neben Dunkel und Hell.\n• Start: drei Türen, Spielen, Challenges und Duell. Den Modus wählst du direkt darunter.\n• Wenn ein Magix zum ersten Mal ankommt, sagt eine Blase, was er tut.\n• Nach dem Tutorial läuft deine erste Partie ohne Uhr.\n• Game-Center-Erfolge: was du im Trophäen-Salon schon geschafft hast, zählt auch dort.",
+      "trackViewUrl": "https://apps.apple.com/de/app/blomix-blockpuzzle/id6762053543?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Lomig UNGER",
+      "genres": [
+        "Spiele",
+        "Puzzle"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "subtitle": ""
+    }
+  },
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/00/6f/d4006fd3-c472-2e8f-df5a-ce9e4b72a80f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "averageUserRating": 0,
+  "userRatingCount": 0,
+  "price": 0,
+  "fileSizeBytes": "64993280",
+  "contentAdvisoryRating": "4+",
+  "minimumOsVersion": "18.0",
+  "version": "9.0",
+  "currentVersionReleaseDate": "2026-11-21T09:46:47Z",
+  "releaseDate": "2026-05-01T07:00:00Z",
+  "artistId": 1892686923,
+  "artistName": "Lomig UNGER",
+  "artistViewUrl": "https://apps.apple.com/de/developer/lomig-unger/id1892686923?uo=4",
+  "sellerUrl": "",
+  "isGameCenterEnabled": true,
+  "supportedDevices": [
+    "iPhone5s-iPhone5s",
+    "iPadAir-iPadAir",
+    "iPadAirCellular-iPadAirCellular",
+    "iPadMiniRetina-iPadMiniRetina",
+    "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+    "iPhone6-iPhone6",
+    "iPhone6Plus-iPhone6Plus",
+    "iPadAir2-iPadAir2",
+    "iPadAir2Cellular-iPadAir2Cellular",
+    "iPadMini3-iPadMini3",
+    "iPadMini3Cellular-iPadMini3Cellular",
+    "iPodTouchSixthGen-iPodTouchSixthGen",
+    "iPhone6s-iPhone6s",
+    "iPhone6sPlus-iPhone6sPlus",
+    "iPadMini4-iPadMini4",
+    "iPadMini4Cellular-iPadMini4Cellular",
+    "iPadPro-iPadPro",
+    "iPadProCellular-iPadProCellular",
+    "iPadPro97-iPadPro97",
+    "iPadPro97Cellular-iPadPro97Cellular",
+    "iPhoneSE-iPhoneSE",
+    "iPhone7-iPhone7",
+    "iPhone7Plus-iPhone7Plus",
+    "iPad611-iPad611",
+    "iPad612-iPad612",
+    "iPad71-iPad71",
+    "iPad72-iPad72",
+    "iPad73-iPad73",
+    "iPad74-iPad74",
+    "iPhone8-iPhone8",
+    "iPhone8Plus-iPhone8Plus",
+    "iPhoneX-iPhoneX",
+    "iPad75-iPad75",
+    "iPad76-iPad76",
+    "iPhoneXS-iPhoneXS",
+    "iPhoneXSMax-iPhoneXSMax",
+    "iPhoneXR-iPhoneXR",
+    "iPad812-iPad812",
+    "iPad834-iPad834",
+    "iPad856-iPad856",
+    "iPad878-iPad878",
+    "Watch4-Watch4",
+    "iPadMini5-iPadMini5",
+    "iPadMini5Cellular-iPadMini5Cellular",
+    "iPadAir3-iPadAir3",
+    "iPadAir3Cellular-iPadAir3Cellular",
+    "iPodTouchSeventhGen-iPodTouchSeventhGen",
+    "iPhone11-iPhone11",
+    "iPhone11Pro-iPhone11Pro",
+    "iPadSeventhGen-iPadSeventhGen",
+    "iPadSeventhGenCellular-iPadSeventhGenCellular",
+    "iPhone11ProMax-iPhone11ProMax",
+    "iPhoneSESecondGen-iPhoneSESecondGen",
+    "iPadProSecondGen-iPadProSecondGen",
+    "iPadProSecondGenCellular-iPadProSecondGenCellular",
+    "iPadProFourthGen-iPadProFourthGen",
+    "iPadProFourthGenCellular-iPadProFourthGenCellular",
+    "iPhone12Mini-iPhone12Mini",
+    "iPhone12-iPhone12",
+    "iPhone12Pro-iPhone12Pro",
+    "iPhone12ProMax-iPhone12ProMax",
+    "iPadAir4-iPadAir4",
+    "iPadAir4Cellular-iPadAir4Cellular",
+    "iPadEighthGen-iPadEighthGen",
+    "iPadEighthGenCellular-iPadEighthGenCellular",
+    "iPadProThirdGen-iPadProThirdGen",
+    "iPadProThirdGenCellular-iPadProThirdGenCellular",
+    "iPadProFifthGen-iPadProFifthGen",
+    "iPadProFifthGenCellular-iPadProFifthGenCellular",
+    "iPhone13Pro-iPhone13Pro",
+    "iPhone13ProMax-iPhone13ProMax",
+    "iPhone13Mini-iPhone13Mini",
+    "iPhone13-iPhone13",
+    "iPadMiniSixthGen-iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+    "iPadNinthGen-iPadNinthGen",
+    "iPadNinthGenCellular-iPadNinthGenCellular",
+    "iPhoneSEThirdGen-iPhoneSEThirdGen",
+    "iPadAirFifthGen-iPadAirFifthGen",
+    "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+    "iPhone14-iPhone14",
+    "iPhone14Plus-iPhone14Plus",
+    "iPhone14Pro-iPhone14Pro",
+    "iPhone14ProMax-iPhone14ProMax",
+    "iPadTenthGen-iPadTenthGen",
+    "iPadTenthGenCellular-iPadTenthGenCellular",
+    "iPadPro11FourthGen-iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+    "iPadProSixthGen-iPadProSixthGen",
+    "iPadProSixthGenCellular-iPadProSixthGenCellular",
+    "iPhone15-iPhone15",
+    "iPhone15Plus-iPhone15Plus",
+    "iPhone15Pro-iPhone15Pro",
+    "iPhone15ProMax-iPhone15ProMax",
+    "iPadAir11M2-iPadAir11M2",
+    "iPadAir11M2Cellular-iPadAir11M2Cellular",
+    "iPadAir13M2-iPadAir13M2",
+    "iPadAir13M2Cellular-iPadAir13M2Cellular",
+    "iPadPro11M4-iPadPro11M4",
+    "iPadPro11M4Cellular-iPadPro11M4Cellular",
+    "iPadPro13M4-iPadPro13M4",
+    "iPadPro13M4Cellular-iPadPro13M4Cellular",
+    "iPhone16-iPhone16",
+    "iPhone16Plus-iPhone16Plus",
+    "iPhone16Pro-iPhone16Pro",
+    "iPhone16ProMax-iPhone16ProMax",
+    "iPadMiniA17Pro-iPadMiniA17Pro",
+    "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+    "iPhone16e-iPhone16e",
+    "iPadA16-iPadA16",
+    "iPadA16Cellular-iPadA16Cellular",
+    "iPadAir11M3-iPadAir11M3",
+    "iPadAir11M3Cellular-iPadAir11M3Cellular",
+    "iPadAir13M3-iPadAir13M3",
+    "iPadAir13M3Cellular-iPadAir13M3Cellular",
+    "iPhone17Pro-iPhone17Pro",
+    "iPhone17ProMax-iPhone17ProMax",
+    "iPhone17-iPhone17",
+    "iPhoneAir-iPhoneAir",
+    "iPadPro11M5-iPadPro11M5",
+    "iPadPro11M5Cellular-iPadPro11M5Cellular",
+    "iPadPro13M5-iPadPro13M5",
+    "iPadPro13M5Cellular-iPadPro13M5Cellular",
+    "iPhone17e-iPhone17e",
+    "iPadAir11M4-iPadAir11M4",
+    "iPadAir11M4Cellular-iPadAir11M4Cellular",
+    "iPadAir13M4-iPadAir13M4",
+    "iPadAir13M4Cellular-iPadAir13M4Cellular",
+    "iPhone18Pro-iPhone18Pro",
+    "iPhone18ProMax-iPhone18ProMax",
+    "iPhoneDuo-iPhoneDuo",
+    "iPadMiniA20Pro-iPadMiniA20Pro",
+    "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+  ],
+  "hasWatch": true,
+  "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/d1/a2/ddd1a239-588e-1aed-707b-52545f54650b/01-chaines.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/45/a6/2545a6ef-f443-943d-566f-4ede5f5379bc/02-brix-magix.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/67/f7/b967f7cb-9df8-5a56-3012-3e447a6b3a5b/03-modes.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/34/d8/5c34d895-62f2-4a12-102c-b5f479358b93/04-gratuit.png/1284x2778bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/97/4d/53974ddb-1963-0c46-a70e-65ab812bf992/01-accueil.png/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/03/f8/9303f8ce-9096-7c13-ac88-f5c288cfbbbe/02-five.png/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/6e/a6/026ea6ce-6f47-c427-f906-643465ef31b6/03-salon.png/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/97/4d/53974ddb-1963-0c46-a70e-65ab812bf992/01-accueil.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/03/f8/9303f8ce-9096-7c13-ac88-f5c288cfbbbe/02-five.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/6e/a6/026ea6ce-6f47-c427-f906-643465ef31b6/03-salon.png/320x480bb.jpg"
+  ],
+  "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/a9/5c/8ca95c1b-dbc1-486d-02f6-9399bac64ba9/Simulator_Screenshot_-_Apple_Watch_SE_3__U002840mm_U0029_-_2026-09-27_at_11.07.52.png/312x390bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/03/9f/e9039f3d-3b53-136b-2adb-3c01c82422bf/Simulator_Screenshot_-_Apple_Watch_SE_3__U002840mm_U0029_-_2026-09-27_at_11.07.28.png/312x390bb.png"
+  ],
+  "versionHistory": [
+    {
+      "version": "6.5",
+      "releaseNotes": "• New Magix: SLASHX paints the diagonals (CROSSX’s cousin)\n• Clearer in-game guide: Magix, Blox, Brix, lines, bombs, score, and Duel\n• Game Over: placement accuracy is easier to read\n• Updated app icon (no white margin)",
+      "seenAt": "2026-08-21T22:05:41Z"
+    },
+    {
+      "version": "6.6",
+      "releaseNotes": "• COLORX: no more bars on junctions during the effect\n• Duel: no attack line if the tap doesn’t show a chain\n• Arcade: the stage screen appears before the next blox\n• Elo leaderboard: head-to-head totals stay on the cloud (no snap-back to an old local score)",
+      "seenAt": "2026-08-26T05:28:42Z"
+    },
+    {
+      "version": "6.7",
+      "releaseNotes": "• Buttons, icons and menus: a well in your skin colors\n• The BLOMIX title is a cutout in the table, same fill as the wells\n• Magix are round (like bombs); blox and Brix stay square\n• COLORX: no more bars on junctions during the effect\n• Duel / Elo: attack lines and head-to-head totals stay accurate",
+      "seenAt": "2026-09-13T09:12:25Z"
+    },
+    {
+      "version": "6.9",
+      "releaseNotes": "• Home: icons at the top, BLOMIX in the center\n• Settings, Guide and Credits titles: the same colored well as BLOMIX\n• Ambient blox show clearly in the wells",
+      "seenAt": "2026-09-14T04:16:58Z"
+    },
+    {
+      "version": "6.10",
+      "releaseNotes": "• Home: icons at the top, BLOMIX in the center\n• Settings, Guide and Credits titles: the same colored well as BLOMIX\n• Ambient blox show clearly in the wells",
+      "seenAt": "2026-09-15T04:17:15Z"
+    },
+    {
+      "version": "7.0",
+      "releaseNotes": "• Arcade: the +500 empty-board bonus is multiplied by the stage\n• Alea palette is more vivid (yellows, oranges); Brix digits stay readable\n• Home: BLOMIX lands with sparkles on each letter\n• Score and Multiplayer titles use the same well as BLOMIX; “OK to be challenged” matches",
+      "seenAt": "2026-09-19T06:30:26Z"
+    },
+    {
+      "version": "7.1",
+      "releaseNotes": "• Daily Challenge: the same Arcade game for everyone, once a day\n• Today's ranking in the hub, podium points the next day\n• Home: a green person icon breathes on Duel when players are in Available Players",
+      "seenAt": "2026-09-21T04:23:00Z"
+    },
+    {
+      "version": "7.2",
+      "releaseNotes": "• Home: Arcade right under BLOMIX, Daily Challenge below\n• Daily hub: “Come back tomorrow” dimmed; podium +5 / +3 / +1 in the color gutter\n• Daily ranking: all 3 podium finishers the next day (even if they haven’t opened the app)\n• Duel: Available Players opens straight away (Local and “OK to be challenged” at the bottom)",
+      "seenAt": "2026-09-24T05:32:52Z"
+    },
+    {
+      "version": "7.3",
+      "releaseNotes": "• Daily Challenge: “To beat” above the score (today’s best), not your Arcade record\n• Daily Challenge: your run is saved separately if you’re challenged to a Duel (Arcade/Zen stays intact)\n• Chains: sparkles fly into the big score\n• Compaction: blocks get pulled from the gap, with stretch and bounce\n• Home: “New game” under Duel and Zen (when a game is in progress)",
+      "seenAt": "2026-09-26T20:10:17Z"
+    },
+    {
+      "version": "7.4",
+      "releaseNotes": "• Apple Watch: play Zen on your wrist (8×8 grid, Magix, bombs)\n• Watch: resume your run; a Watch record that beats your iPhone Zen goes to the leaderboard\n• Column aim: hold, see where the blox will land, release to drop",
+      "seenAt": "2026-09-27T22:34:56Z"
+    },
+    {
+      "version": "7.5",
+      "releaseNotes": "• +N and chains dissolve into sparkles that fly to the big score\n• Magix: a burst on landing; the disc morphs or vanishes cleanly\n• Bombs: blox and Brix sparkles also fly to the score\n• Arcade or Zen and Daily Challenge save in parallel; Duel no longer wipes Continue",
+      "seenAt": "2026-09-29T16:15:28Z"
+    },
+    {
+      "version": "7.6",
+      "releaseNotes": "• Arcade, Zen and Daily Challenge each keep their own save\n• Brix leave 3 little stars when they vanish\n• Stages announce themselves as L1…L*, with more punch",
+      "seenAt": "2026-09-30T15:15:33Z"
+    },
+    {
+      "version": "7.7",
+      "releaseNotes": "• Arcade and Zen: your BEST and the board #1 side by side\n• Daily Challenge: TO BEAT follows your score when you lead\n• Tutorial: no record above the score\n• Home: Daily rank shows up right away",
+      "seenAt": "2026-10-02T16:33:31Z"
+    },
+    {
+      "version": "7.8",
+      "releaseNotes": "• Arcade, Zen and Daily: a race line toward #1 while you play\n• Green = your BEST, yellow = #1, faint gray dots for everyone else\n• Your rank sits above the cursor\n• The board is frozen at launch, so play stays snappy",
+      "seenAt": "2026-10-03T00:03:02Z"
+    },
+    {
+      "version": "7.9",
+      "releaseNotes": "• A tiny sparkle when you pass another player on the race line\n• Daily Challenge: yesterday’s podium sits under today’s ranking\n• New BLOMIX icon",
+      "seenAt": "2026-10-03T19:17:50Z"
+    },
+    {
+      "version": "8.0",
+      "releaseNotes": "• Rankings: SCORE tabs now match the home discs — Arcade, Average, Zen, Duel, Daily\n• Brix fade into their block color as they take hits",
+      "seenAt": "2026-10-04T23:12:49Z"
+    },
+    {
+      "version": "8.1",
+      "releaseNotes": "• Daily: a BLOMIX reference under the date — a score of the day to chase\n• Home: Arcade and Zen keep their names; Continue as a caption if you have a save\n• Junctions fade with the blox when a chain clears\n• Brix scatter micro-squares on landing",
+      "seenAt": "2026-10-06T15:55:39Z"
+    },
+    {
+      "version": "8.2",
+      "releaseNotes": "• Duel: take on BABYBOT, MINIBOT, BOBBOT, BOT10, BOT5 or BOTSUPREME\n• Elo board: bots are players (BOT badge)\n• Daily: the BLOMIX reference aims more accurately\n• Duel: quitting a match asks for confirmation (you lose)",
+      "seenAt": "2026-10-07T11:02:02Z"
+    },
+    {
+      "version": "8.3",
+      "releaseNotes": "• Race: a color ribbon follows your run, the next score to beat is pink\n• Your place on the line swells and ticks when you pass someone\n• Timer: if you’re still aiming at 0 s, the blox drops in that column",
+      "seenAt": "2026-10-09T01:05:46Z"
+    },
+    {
+      "version": "8.4",
+      "releaseNotes": "• Daily Challenge: a started run stays ranked until 2 hours after UTC midnight, deadline shown in local time\n• Challenge hub: date and “complete by” time always visible\n• Zen: RECORD shows your Zen best, not Arcade\n• BLOMIX is now in Portuguese (Brazil)",
+      "seenAt": "2026-10-12T02:49:58Z"
+    },
+    {
+      "version": "8.5",
+      "releaseNotes": "• CONNECT: a chain that links both sides of the board scores +100\n• Magix and bombs now orbit with particles as soon as they appear in the queue\n• Duel: the 5 s bot is BOTSUPREME; the 1 s bot is BOT1",
+      "seenAt": "2026-10-12T23:28:25Z"
+    },
+    {
+      "version": "8.6",
+      "releaseNotes": "• CONNECT: a chrome line traces the shortest bridge from one side to the other\n• Magix and bombs: colored trail on drop, sparkles in every cell they clear\n• Every Magix (COLORX, CHROMAX, SLASHX…): the same sparkles on the chains they trigger",
+      "seenAt": "2026-10-13T16:47:57Z"
+    },
+    {
+      "version": "8.8",
+      "releaseNotes": "• Five: an open game, no timer and no stages. A new line every 5 moves.\n• Five Challenge: today’s daily, played in Five.\n• Trophy lounge: your feats, from the first rank up to master.\n• Game over: a veil when you beat your record, or when you reach the podium.\n• Apple Watch: the next block breathes, chains sparkle toward the score, and the bomb steps into the queue.",
+      "seenAt": "2026-11-08T23:29:35Z"
+    },
+    {
+      "version": "8.9",
+      "releaseNotes": "• Completed trophy: each trophy you take to 3 stars gives you a BOMBX, as the first block of your next Arcade, Zen, or Five game.\n• Livelier moves: a long launch spins the block, neighbors react when it lands, and vibration follows the strength of your chains.\n• Cascades: COMBO and CONNECT stay on the grid, and each wave hits harder.\n• The incoming line is easier to read, and game over is clearer.\n• Trophy lounge: a gradient of its own for each trophy.\n• Tutorial revised, and placement now says that Magix moves are not scored.\n• Anonymous usage measurement, with no ads and no tracking, to improve the game.",
+      "seenAt": "2026-11-15T14:21:46Z"
+    },
+    {
+      "version": "9.0",
+      "releaseNotes": "• Ink: a new look, watercolor on paper, beside Dark and Light.\n• Home: three doors, Play, Challenges, and Duel. Pick the mode just underneath.\n• The first time a Magix arrives, a bubble tells you what it does.\n• After the tutorial, your first game has no timer.\n• Game Center achievements: what you already did in the Trophy Lounge counts there too.",
+      "seenAt": "2026-11-21T09:46:47Z"
+    }
+  ],
+  "updatedAt": "2026-11-22T15:05:54.275Z",
+  "isOwnApp": false
+}

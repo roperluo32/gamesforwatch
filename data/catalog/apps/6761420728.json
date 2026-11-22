@@ -9,7 +9,7 @@
       "description": "Battle for galactic domination in a futuristic space-themed Reversi game!\nCommand your fleet and conquer the galaxy on iPad, iPhone (including Duo) and Apple Watch.\n\nChallenge a friend or battle the AI with 3 difficulty levels. Supports multiple languages!",
       "releaseNotes": "Improve design and performance.",
       "trackViewUrl": "https://apps.apple.com/us/app/neonflip-space-reversi/id6761420728?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -53,7 +53,7 @@
       "description": "Kämpfe um die galaktische Vorherrschaft in einem futuristischen Reversi-Spiel im Weltraum-Setting!\nBefehlige deine Flotte und erobere die Galaxie – auf iPad, iPhone (einschließlich Duo-Modus) und Apple Watch.\n\nFordere einen Freund heraus oder tritt gegen die KI an, die über drei Schwierigkeitsgrade verfügt. Unterstützt mehrere Sprachen!",
       "releaseNotes": "Design und Leistung verbessern.",
       "trackViewUrl": "https://apps.apple.com/de/app/neonflip-reversi-game/id6761420728?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -96,7 +96,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/39/c0/2339c0d8-e94c-46c8-9eb4-7cf25cfbc45c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "24464384",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
@@ -455,6 +455,6 @@
       "seenAt": "2026-11-17T20:38:42Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:10:31.213Z",
+  "updatedAt": "2026-11-22T15:08:33.026Z",
   "isOwnApp": false
 }

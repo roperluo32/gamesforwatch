@@ -65,15 +65,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/27/5f/76275f72-5608-6405-cef9-13d17df43e84/watch15puzzle-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/03/26/b90326c2-60cc-22cc-fd31-5f7c8781c7c7/watch15puzzle-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "10914816",
+  "fileSizeBytes": "11860992",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "4.6",
-  "currentVersionReleaseDate": "2026-10-13T16:48:24Z",
+  "version": "4.7",
+  "currentVersionReleaseDate": "2026-11-22T00:28:53Z",
   "releaseDate": "2015-04-23T02:15:12Z",
   "artistId": 787326004,
   "artistName": "Valerii Andrusyk",
@@ -397,8 +397,13 @@
       "version": "4.6",
       "releaseNotes": "Ready for iPhone Duo",
       "seenAt": "2026-10-13T16:48:24Z"
+    },
+    {
+      "version": "4.7",
+      "releaseNotes": "Ready for iPhone Duo",
+      "seenAt": "2026-11-22T00:28:53Z"
     }
   ],
-  "updatedAt": "2026-11-21T14:41:46.045Z",
+  "updatedAt": "2026-11-22T14:36:47.161Z",
   "isOwnApp": false
 }

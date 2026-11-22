@@ -7,7 +7,7 @@
     "en": {
       "trackName": "STAR Ace: Space Shooter",
       "description": "STAR Ace is a fast arcade space shooter for iPhone and Apple Watch. Join Cosmo, the bravest otter pilot in the galaxy, and fly his starfighter through a full story of sectors and bosses, then take on a second galaxy.\n\nFEATURES\n- Rail-shooter action made for touch: drag to fly, hold to charge and lock on up to 6 targets, release to fire homing missiles.\n- Barrel rolls, boost, bombs and elemental weapons: water, lightning, fire, ice and wind.\n- Huge bosses that lose parts as you fight them, each with its own attacks and music.\n- Varied worlds: stormy seas, asteroid belts, a 3D magma tunnel, frozen nebulae, sky fortresses and the black-hole Devourer.\n- 2D anime cutscenes and a full story with Cosmo and his squadron.\n- Missions mode to replay any stage and beat your high score.\n- Versus and Co-op for 2 to 4 pilots, online with Game Center or on the same Wi-Fi.\n- Your progress syncs through iCloud between your devices.\n\nPLAY ANYWHERE\nOn iPhone with smooth high-frame-rate 3D graphics, or right on your wrist with Apple Watch and the Digital Crown.\n\nFree to download: try the first stages for free and unlock the full game with a single one-time purchase.",
-      "releaseNotes": "Versus: new REMATCH button to fight again with the same pilots, and fixed online pilot names. Removed the lightning storm from the first stages for a cleaner, fairer flight.",
+      "releaseNotes": "Fixed the intro video of the Magma stage, which was showing the wrong boss video. Smoother stage cinematics.",
       "trackViewUrl": "https://apps.apple.com/us/app/star-ace-space-shooter/id6821445432?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Julio Aris Serey",
@@ -32,7 +32,7 @@
     "ja": {
       "trackName": "STAR Ace: Space Shooter",
       "description": "STAR Ace is a fast arcade space shooter for iPhone and Apple Watch. Join Cosmo, the bravest otter pilot in the galaxy, and fly his starfighter through a full story of sectors and bosses, then take on a second galaxy.\n\nFEATURES\n- Rail-shooter action made for touch: drag to fly, hold to charge and lock on up to 6 targets, release to fire homing missiles.\n- Barrel rolls, boost, bombs and elemental weapons: water, lightning, fire, ice and wind.\n- Huge bosses that lose parts as you fight them, each with its own attacks and music.\n- Varied worlds: stormy seas, asteroid belts, a 3D magma tunnel, frozen nebulae, sky fortresses and the black-hole Devourer.\n- 2D anime cutscenes and a full story with Cosmo and his squadron.\n- Missions mode to replay any stage and beat your high score.\n- Versus and Co-op for 2 to 4 pilots, online with Game Center or on the same Wi-Fi.\n- Your progress syncs through iCloud between your devices.\n\nPLAY ANYWHERE\nOn iPhone with smooth high-frame-rate 3D graphics, or right on your wrist with Apple Watch and the Digital Crown.\n\nFree to download: try the first stages for free and unlock the full game with a single one-time purchase.",
-      "releaseNotes": "Versus: new REMATCH button to fight again with the same pilots, and fixed online pilot names. Removed the lightning storm from the first stages for a cleaner, fairer flight.",
+      "releaseNotes": "Fixed the intro video of the Magma stage, which was showing the wrong boss video. Smoother stage cinematics.",
       "trackViewUrl": "https://apps.apple.com/jp/app/star-ace-space-shooter/id6821445432?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Julio Aris Serey",
@@ -57,7 +57,7 @@
     "de": {
       "trackName": "STAR Ace: Space Shooter",
       "description": "STAR Ace is a fast arcade space shooter for iPhone and Apple Watch. Join Cosmo, the bravest otter pilot in the galaxy, and fly his starfighter through a full story of sectors and bosses, then take on a second galaxy.\n\nFEATURES\n- Rail-shooter action made for touch: drag to fly, hold to charge and lock on up to 6 targets, release to fire homing missiles.\n- Barrel rolls, boost, bombs and elemental weapons: water, lightning, fire, ice and wind.\n- Huge bosses that lose parts as you fight them, each with its own attacks and music.\n- Varied worlds: stormy seas, asteroid belts, a 3D magma tunnel, frozen nebulae, sky fortresses and the black-hole Devourer.\n- 2D anime cutscenes and a full story with Cosmo and his squadron.\n- Missions mode to replay any stage and beat your high score.\n- Versus and Co-op for 2 to 4 pilots, online with Game Center or on the same Wi-Fi.\n- Your progress syncs through iCloud between your devices.\n\nPLAY ANYWHERE\nOn iPhone with smooth high-frame-rate 3D graphics, or right on your wrist with Apple Watch and the Digital Crown.\n\nFree to download: try the first stages for free and unlock the full game with a single one-time purchase.",
-      "releaseNotes": "Versus: new REMATCH button to fight again with the same pilots, and fixed online pilot names. Removed the lightning storm from the first stages for a cleaner, fairer flight.",
+      "releaseNotes": "Fixed the intro video of the Magma stage, which was showing the wrong boss video. Smoother stage cinematics.",
       "trackViewUrl": "https://apps.apple.com/de/app/star-ace-space-shooter/id6821445432?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Julio Aris Serey",
@@ -80,15 +80,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a1/59/5ea1596f-09e6-9198-3989-90ae93cdd719/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/02/f1/b702f141-5142-89e5-422a-1aafe459f303/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "148962304",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "17.0",
-  "version": "1.2.6",
-  "currentVersionReleaseDate": "2026-11-16T23:12:48Z",
+  "version": "1.2.7",
+  "currentVersionReleaseDate": "2026-11-22T01:22:03Z",
   "releaseDate": "2026-10-13T07:00:00Z",
   "artistId": 6806903578,
   "artistName": "Julio Aris Serey",
@@ -232,6 +232,24 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/98/0f/42980f6c-b8c9-d207-7b49-26a8b7ad9e65/3_stage1.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/50/3f/92503f32-76bf-71e7-e28f-55664c006ad7/5_boss_lava.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/e0/20/1ae02071-8e8c-8cf1-8c83-165c24eb5cc9/6_boss_ice.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/4e/c6/764ec673-7f70-629f-daf6-615fbc9865eb/4_tunnel.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/0a/b1/330ab106-74d3-4bc6-3aeb-dcdcd8e70532/2_versus.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/67/a7/7f67a7c1-372b-695b-1da4-02fa414fdc9a/1_menu.png/2556x1179bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/0d/00/d30d007a-0ca5-26db-8a08-bca958b97d9d/3_stage1.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/8e/4d/718e4dd7-dd47-44be-174d-74514172dfae/5_boss_lava.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/3b/ef/0d3beff5-b816-9b65-4bc3-2af4ba9027ef/6_boss_ice.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/05/96/db059658-5009-7bec-1d33-fc49c5f34d5c/4_tunnel.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/0e/81/530e815f-d357-da8e-8a06-96aa1412d51e/2_versus.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/bf/47/11bf4730-ddc0-dccc-cd0c-788ccbf82906/1_menu.png/2796x1290bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/0d/00/d30d007a-0ca5-26db-8a08-bca958b97d9d/3_stage1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/8e/4d/718e4dd7-dd47-44be-174d-74514172dfae/5_boss_lava.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/3b/ef/0d3beff5-b816-9b65-4bc3-2af4ba9027ef/6_boss_ice.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/05/96/db059658-5009-7bec-1d33-fc49c5f34d5c/4_tunnel.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/0e/81/530e815f-d357-da8e-8a06-96aa1412d51e/2_versus.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/bf/47/11bf4730-ddc0-dccc-cd0c-788ccbf82906/1_menu.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/83/16/e98316b1-db4d-ec38-1257-fad0b59cce0f/3_stage1.png/2556x1179bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/ff/40/faff40d8-d048-2ac5-862f-073a9a7200ab/5_boss_lava.png/2556x1179bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/09/ef/e609ef39-b93c-65aa-fdfc-49999e408268/6_boss_ice.png/2556x1179bb.png",
@@ -252,6 +270,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/70/6e/f3706e01-9429-dd58-65e4-811b8ff34a28/1_menu.png/320x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/b7/13/1fb7132d-cbe8-5239-a499-b07fad66a71c/watch_1.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/b3/9e/a6b39e64-bab6-a7f7-bb5b-4eab5a744519/watch_2.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/11/f1/2611f14a-2813-74c9-a343-4ac85d3aea1e/watch_3.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/fa/8a/86fa8a4e-964d-2133-7f10-bdc6ce5c03be/watch_1.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/c3/5a/c0c35a0b-4c25-a8c2-b820-72b9818bb24f/watch_2.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/28/9b/85289bba-0d0f-0792-a8f0-9fa3dfa7197b/watch_3.png/422x514bb.png"
@@ -326,8 +347,13 @@
       "version": "1.2.6",
       "releaseNotes": "Versus: new REMATCH button to fight again with the same pilots, and fixed online pilot names. Removed the lightning storm from the first stages for a cleaner, fairer flight.",
       "seenAt": "2026-11-16T23:12:48Z"
+    },
+    {
+      "version": "1.2.7",
+      "releaseNotes": "Fixed the intro video of the Magma stage, which was showing the wrong boss video. Smoother stage cinematics.",
+      "seenAt": "2026-11-22T01:22:03Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:02:12.557Z",
+  "updatedAt": "2026-11-22T14:53:21.469Z",
   "isOwnApp": false
 }
