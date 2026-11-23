@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Wrist Leisure",
       "description": "This is a pixel-style casual entertainment app for Apple Watch. Use light interactions to unwind in a busy moment, or to pass a little time during the day. It includes puzzles, board and card activities, everyday scenes, stories, and simple interactions you can start by raising your wrist. The interface is clean and opens as soon as you raise your wrist. On a paired iPhone, you can check your progress and use the virtual balance and companion features.",
-      "releaseNotes": "1. New game: Parcel Desk\n2. Bug fixes (level generation, opening triples, shelf layers, idle slots, and more)\n3. Faces page and Doodle Weather list preview polish\n4. Parcel Desk localization updates",
+      "releaseNotes": "1. Added Green Putt\n2. Fixed incomplete translations and other issues",
       "trackViewUrl": "https://apps.apple.com/us/app/wrist-leisure/id6780673861?uo=4",
       "formattedPrice": "Free",
       "sellerName": "晓维 吴",
@@ -26,7 +26,7 @@
     "zh": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "• 腕上拍卖行：2041 历法与新闻行情重做\n• 潮汐前线：关卡与涨水体验优化\n• 盘中对决 / 腕上市集微调\n• 稳定性与体验改进",
+      "releaseNotes": "1. 新增《果岭推杆》\n2. 修复部分语言未翻译等问题",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "免费",
       "sellerName": "晓维 吴",
@@ -36,6 +36,7 @@
       ],
       "languageCodesISO2A": [
         "EN",
+        "JA",
         "ZH",
         "ZH"
       ],
@@ -44,7 +45,7 @@
     "ja": {
       "trackName": "手首レジャー",
       "description": "手首レジャーは、Apple Watch で遊べる手描きカジュアルゲーム集です。iPhone がなくても、腕を上げてすぐ始められます。\n\n【こんなときに】\n・待ち時間や移動のすきま\n・休憩の30秒\n・プールや外出先でスマホを出せないとき\n\n【できること】\n・パズル・リラックス・音遊び・育成など、多彩なミニゲーム\n・Watch 単体でプレイ、成績はペアリングした iPhone でも確認\n・ノートの方眼紙＋手描きアイコンのやさしい見た目\n・言語切り替え、コイン／ショップ、フィードバックなど便利機能\n\n手首の上の、軽いレジャーをどうぞ。",
-      "releaseNotes": "1. 新ゲーム「ウォッチ宅配所」を追加\n2. 既知の不具合を修正（ステージ生成、開始時の3つ揃え、棚の層表示、一時置き枠など）\n3. 文字盤ページと落書き天気のリスト表示を改善\n4. 新ゲームの多言語テキストを整備",
+      "releaseNotes": "1. 「グリーンパット」を追加\n2. 一部未翻訳などの不具合を修正",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%89%8B%E9%A6%96%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC/id6780673861?uo=4",
       "formattedPrice": "無料",
       "sellerName": "晓维 吴",
@@ -63,7 +64,7 @@
     "de": {
       "trackName": "腕上休闲",
       "description": "本应用是面向 Apple Watch 的像素风格休闲娱乐应用。 在忙碌间隙，用轻量互动放松片刻，也适合作为日常随手打发时间的小伙伴。 内含解谜、棋类与牌类、生活场景、故事阅读，以及抬腕即可参与的轻互动。界面简洁，抬腕即开。 可在配对的 iPhone 上查看进度，并使用虚拟余额与配套功能。",
-      "releaseNotes": "1. 新增游戏「腕上驿站」\n2. 修复已知问题（过关铺货、开局三连、货架层显示、闲置格数等）\n3. 优化表盘页与涂鸦天气列表预览\n4. 补全新游戏多语言文案",
+      "releaseNotes": "1. 新增《果岭推杆》\n2. 修复部分语言未翻译等问题",
       "trackViewUrl": "https://apps.apple.com/de/app/%E8%85%95%E4%B8%8A%E4%BC%91%E9%97%B2/id6780673861?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "晓维 吴",
@@ -80,15 +81,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/98/56/ed9856a7-2a7e-5b9a-8e6f-ce8853c90637/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/45/c4/6345c484-8dda-38d7-7f37-dead0c0cbc10/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "75145216",
+  "fileSizeBytes": "74792960",
   "contentAdvisoryRating": "17+",
   "minimumOsVersion": "18.6",
-  "version": "2.0.5",
-  "currentVersionReleaseDate": "2026-11-21T16:47:53Z",
+  "version": "2.0.6",
+  "currentVersionReleaseDate": "2026-11-22T17:18:03Z",
   "releaseDate": "2026-07-28T07:00:00Z",
   "artistId": 1887145600,
   "artistName": "晓维 吴",
@@ -485,8 +486,13 @@
       "version": "2.0.5",
       "releaseNotes": "1. New game: Parcel Desk\n2. Bug fixes (level generation, opening triples, shelf layers, idle slots, and more)\n3. Faces page and Doodle Weather list preview polish\n4. Parcel Desk localization updates",
       "seenAt": "2026-11-21T16:47:53Z"
+    },
+    {
+      "version": "2.0.6",
+      "releaseNotes": "1. Added Green Putt\n2. Fixed incomplete translations and other issues",
+      "seenAt": "2026-11-22T17:18:03Z"
     }
   ],
-  "updatedAt": "2026-11-22T15:08:17.383Z",
+  "updatedAt": "2026-11-23T18:34:43.422Z",
   "isOwnApp": false
 }

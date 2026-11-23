@@ -6,7 +6,7 @@
   "locales": {
     "en": {
       "trackName": "GALAXIA: Arcade Game",
-      "description": "GALAXIA - where Space Invaders meet Galaxian! This is the arcade game you have been waiting for iPhone and Apple Watch!\nAfter successfully defeated the aliens on the moon, you are now going to face the alien fleets in space!\n\nGAME DESCRIPTION\n• Use digital crown or swiping to move spaceship and fire\n• When UFO is destroyed, it will drop a powerup!\n\nINSTALLATION\n• Once downloaded to your iPhone, GALAXIA icon will appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for GALAXIA icon, make sure “Show App on Apple Watch” is toggled on.",
+      "description": "What happens when Space Invaders meets Galaxian? Experience classic arcade space shooting, reimagined for modern Apple devices!\nBlast through waves of alien enemies, dodge attacks, and collect powerful bonuses to survive the battle.\n\nFeatures:\n• Classic arcade shooting action\n• Beautiful 3D space backgrounds\n• Modern and retro visual styles\n• Multiple power-ups\n• Two difficulty levels\n• Supports iPhone (including iPhone Duo), iPad, and Apple Watch\n\nGet ready to blast through the galaxy!",
       "releaseNotes": "Optimized for iPhone Duo.\nNew game play and design!",
       "trackViewUrl": "https://apps.apple.com/us/app/galaxia-arcade-game/id1153954222?uo=4",
       "formattedPrice": "Free",
@@ -27,7 +27,7 @@
     },
     "ja": {
       "trackName": "GALAXIA 銀河",
-      "description": "GALAXIA - スペースインベーダーとギャラクシアンが融合！待望のアーケードゲームがiPhoneとApple Watchで登場！\n月面でエイリアンを撃破した後は、今度は宇宙でエイリアン艦隊に立ち向かう！\n\nゲーム概要\n• デジタルクラウンまたはスワイプで宇宙船を移動させ、攻撃する\n• UFOを破壊すると、回復アイテムを落とす",
+      "description": "『スペースインベーダー』と『ギャラクシアン』が融合したらどうなるか？現代のAppleデバイス向けに再構築された、往年のアーケード・スペースシューティングを体験しよう！\n次々と押し寄せるエイリアンの大群を撃破し、攻撃を回避し、強力なボーナスを集めて戦いを生き残れ。\n\n特徴：\n• 往年のアーケード・シューティング・アクション\n• 美しい3Dの宇宙背景\n• モダンとレトロを融合させたビジュアルスタイル\n• 多彩なパワーアップ要素\n• 2段階の難易度設定\n• iPhone（iPhone Duoを含む）、iPad、Apple Watchに対応\n\nさあ、銀河を駆け抜け、敵を撃ちまくれ！",
       "releaseNotes": "iPhone Duo向けにアップデート。\nゲームプレイとデザインが一新されました！",
       "trackViewUrl": "https://apps.apple.com/jp/app/galaxia-%E9%8A%80%E6%B2%B3/id1153954222?uo=4",
       "formattedPrice": "無料",
@@ -48,7 +48,7 @@
     },
     "de": {
       "trackName": "GALAXIA: Arcade Game",
-      "description": "GALAXIA - where Space Invaders meet Galaxian! This is the arcade game you have been waiting for iPhone and Apple Watch!\nAfter successfully defeated the aliens on the moon, you are now going to face the alien fleets in space!\n\nGAME DESCRIPTION\n• Use digital crown or swiping to move spaceship and fire\n• When UFO is destroyed, it will drop a powerup!\n\nINSTALLATION\n• Once downloaded to your iPhone, GALAXIA icon will appear on your Apple Watch's home screen. Tap and enjoy! \n• If you do not see the icon after waiting for a while, open the Apple Watch companion app on your iPhone, and scroll down through the My Watch section to check for GALAXIA icon, make sure “Show App on Apple Watch” is toggled on.",
+      "description": "What happens when Space Invaders meets Galaxian? Experience classic arcade space shooting, reimagined for modern Apple devices!\nBlast through waves of alien enemies, dodge attacks, and collect powerful bonuses to survive the battle.\n\nFeatures:\n• Classic arcade shooting action\n• Beautiful 3D space backgrounds\n• Modern and retro visual styles\n• Multiple power-ups\n• Two difficulty levels\n• Supports iPhone (including iPhone Duo), iPad, and Apple Watch\n\nGet ready to blast through the galaxy!",
       "releaseNotes": "Optimized for iPhone Duo.\nNew game play and design!",
       "trackViewUrl": "https://apps.apple.com/de/app/galaxia-arcade-game/id1153954222?uo=4",
       "formattedPrice": "Gratis",
@@ -69,7 +69,7 @@
     },
     "zh": {
       "trackName": "GALAXIA 银河侵略者",
-      "description": "银河侵略者 - iPhone 和 Apple Watch 的太空战争游戏！在成功保护地球之后，现在转移战场到太空，迎接更有攻击性的太空怪兽！\n\n游戏说明：\n• 转动数码表冠或使用手势来移动战机和发射子弹\n• 当幽浮被摧毁时，会出现加战机的升级道具",
+      "description": "当《太空侵略者》（Space Invaders）遇上《银河战士》（Galaxian）会擦出怎样的火花？快来体验这款专为现代苹果设备重塑的经典街机太空射击游戏！\n在如潮水般涌来的外星敌军中杀出重围，躲避猛烈攻击，收集强力增益道具，在激战中生存下来。\n\n游戏特色：\n• 经典的街机射击玩法\n• 精美的 3D 太空背景\n• 融合现代与复古的视觉风格\n• 多种强力增益道具\n• 两种难度等级可选\n• 支持 iPhone（含 iPhone Duo）、iPad 及 Apple Watch\n\n准备好在银河系中大杀四方吧！",
       "releaseNotes": "针对 iPhone Duo 优化。\n全新的玩法与设计！",
       "trackViewUrl": "https://apps.apple.com/cn/app/galaxia-%E9%93%B6%E6%B2%B3%E4%BE%B5%E7%95%A5%E8%80%85/id1153954222?uo=4",
       "formattedPrice": "免费",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/9f/9f/ec9f9f38-2eaf-c0fe-e1ff-09b298586e5c/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/43/40/844340a6-95b4-e050-7c04-5df65ae7cccc/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 2.8,
   "userRatingCount": 10,
   "price": 0,
   "fileSizeBytes": "20894720",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "7.0",
-  "currentVersionReleaseDate": "2026-11-20T19:35:57Z",
+  "version": "7.1",
+  "currentVersionReleaseDate": "2026-11-22T18:07:37Z",
   "releaseDate": "2016-09-18T08:55:08Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -241,6 +241,29 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/91/e7/0b91e7c2-450d-b745-7626-894285517d19/duo1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/ea/ad/7aeaad2f-7dc3-05b4-991a-faf7fdd15a87/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/41/63/12416321-c8e8-685b-1315-84fa28479213/duo3.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/28/0d/ed280d4a-1232-712e-0e17-bb6f0845ec7a/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/59/60/81596083-deee-f216-e6b0-42415e19c97e/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/19/15/85191558-5e29-0d76-9d90-40f48b3ccbf6/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.13.11_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/70/ef/3e70efa5-5603-b496-6bad-4ea0ee1ef3b0/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_2.13.30_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d6/fd/03d6fd72-a57c-00c9-b9f2-b048abeb901e/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.14.00_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a1/02/aba102d1-ddda-a844-c7a4-e9b7b72ea4d7/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.13.37_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/02/e0/8202e06b-b692-7064-6803-65126dd12044/iPhone1.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/2d/fd/012dfd07-0914-50a2-eca9-22e2145672af/iPhone3.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/66/58/da665848-4042-ff45-83f8-4a0b3ca3d76e/iPhone4.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/70/5f/35705f02-26a9-2d17-b908-a08c06130d93/Screenshot_iPhone_17_20-11-2026_at_5.01.01_U202fPM.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/ea/be/beeabecc-1d94-562d-32e8-f86607236bfa/iPhone2.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/02/e0/8202e06b-b692-7064-6803-65126dd12044/iPhone1.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/2d/fd/012dfd07-0914-50a2-eca9-22e2145672af/iPhone3.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/66/58/da665848-4042-ff45-83f8-4a0b3ca3d76e/iPhone4.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/70/5f/35705f02-26a9-2d17-b908-a08c06130d93/Screenshot_iPhone_17_20-11-2026_at_5.01.01_U202fPM.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/ea/be/beeabecc-1d94-562d-32e8-f86607236bfa/iPhone2.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/19/15/85191558-5e29-0d76-9d90-40f48b3ccbf6/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.13.11_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/70/ef/3e70efa5-5603-b496-6bad-4ea0ee1ef3b0/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_2.13.30_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d6/fd/03d6fd72-a57c-00c9-b9f2-b048abeb901e/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.14.00_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a1/02/aba102d1-ddda-a844-c7a4-e9b7b72ea4d7/Screenshot_iPad_Air_13-inch__U0028M4_U0029_20-11-2026_at_8.13.37_U202fPM.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/0e/fa/b70efaea-45b2-e8b9-f808-1edee4cdf581/duo1.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c4/75/b9c4750a-5c70-90d1-4b37-8df93b0607ff/duo2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/4c/45/724c4530-1da8-544b-2dc5-72ffe7873810/duo3.png/1398x2034bb.png",
@@ -327,6 +350,10 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/2f/78/882f78cf-d23a-bc35-8c7d-c0eaca6db2a1/pr_source.png/1242x2688bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/dc/7f/e6dc7f06-7193-30f1-468c-5a16a9e38b00/incoming-820FA5D5-877E-43E7-9EA8-439CA737567D.PNG/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/ec/39/afec39d9-a436-07f3-8fdd-9acd821dbcc0/incoming-34CC6841-8CD6-451A-BE88-7DCB40AA0C6A.PNG/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/c0/6d/ffc06dcc-b9ec-3217-06d5-8db284b0c9ed/incoming-D64BD405-DA54-4038-AAF9-C2D4AED52F9E.PNG/368x448bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/0c/6e/010c6ea5-eacd-4ed0-d1c9-a941153114e5/incoming-309B42CB-0215-4B64-B10F-056AC892FB30.PNG/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/e2/9b/2ae29b22-9eac-2ce6-186b-2692754fa337/incoming-820FA5D5-877E-43E7-9EA8-439CA737567D.PNG/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/b7/9b/8eb79bb5-0792-4ba1-9ee7-e3b761fa9c0c/incoming-34CC6841-8CD6-451A-BE88-7DCB40AA0C6A.PNG/368x448bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/9f/fd/209ffdb1-b75b-136a-252c-1be541682a6a/incoming-D64BD405-DA54-4038-AAF9-C2D4AED52F9E.PNG/368x448bb.png",
@@ -481,8 +508,13 @@
       "version": "7.0",
       "releaseNotes": "Optimized for iPhone Duo.\nNew game play and design!",
       "seenAt": "2026-11-20T19:35:57Z"
+    },
+    {
+      "version": "7.1",
+      "releaseNotes": "Optimized for iPhone Duo.\nNew game play and design!",
+      "seenAt": "2026-11-22T18:07:37Z"
     }
   ],
-  "updatedAt": "2026-11-22T14:52:31.270Z",
+  "updatedAt": "2026-11-23T18:16:40.834Z",
   "isOwnApp": false
 }

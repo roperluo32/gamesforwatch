@@ -37,11 +37,28 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Cut The Light",
+      "description": "In \"Cut The Light\", you're tasked to switch off all the lights on the board with the least moves possible.\nStart your journey with a 3x3 grid and progress to more complex levels up to a 5x5 board, each offering a unique challenge that will test your puzzle-solving prowess.\n\nFeatures:\n\n- Progressive Difficulty: Begin with a 3x3 board and advance through 4x4 to the challenging 5x5 grid.\n- Engaging Mechanics: Tap to toggle lights, affecting adjacent lights. Can you turn them all off?\n- Customizable Play: Choose your initial board size to match your desired difficulty.\n- Solve Function: Stuck on a level? Use the solve button for a hint without spoiling the fun.\n- No Interruptions: Enjoy uninterrupted playtime and resume where you left off – focus purely on your strategy.\n\nWhether you're a puzzle novice or a seasoned strategist, \"Cut The Light\" offers endless hours of brain-teasing fun. Celebrate your victories as you move from simple to complex levels, with a congratulatory showcase awaiting your success.\n\nReady to challenge your mind and cut all the lights?\n\nDownload now and immerse yourself in the quest for darkness!\n\nNo Distractions, Just Pure Puzzle Fun.",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/cut-the-light/id6475783765?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Layair GmbH",
+      "genres": [
+        "Spiele",
+        "Puzzle",
+        "Brettspiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/f4/50/55f45082-6411-d97a-fb07-1bd0d4773ce3/AppIcon-1x_U007ewatch-0-85-220-0.png/512x512bb.jpg",
-  "averageUserRating": 0,
-  "userRatingCount": 0,
+  "averageUserRating": 5,
+  "userRatingCount": 1,
   "price": 0,
   "fileSizeBytes": "842752",
   "contentAdvisoryRating": "4+",
@@ -51,7 +68,7 @@
   "releaseDate": "2024-03-01T08:00:00Z",
   "artistId": 1725174207,
   "artistName": "Layair GmbH",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/layair-gmbh/id1725174207?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/layair-gmbh/id1725174207?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -204,6 +221,6 @@
       "seenAt": "2024-03-02T02:12:48Z"
     }
   ],
-  "updatedAt": "2026-11-22T15:34:25.281Z",
+  "updatedAt": "2026-11-23T19:01:09.731Z",
   "isOwnApp": false
 }

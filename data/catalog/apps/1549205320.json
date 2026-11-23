@@ -9,7 +9,7 @@
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your iPad, iPhone, iPhone Duo or Apple Watch!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- Exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
       "releaseNotes": "Improved game play.\nImproved design.",
       "trackViewUrl": "https://apps.apple.com/us/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "$0.99",
+      "formattedPrice": "$1.99",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -30,7 +30,7 @@
       "description": "**『Alien Breakout』 – 名作ブロック崩しにエイリアンの要素をプラス！**\n次々と襲来するエイリアンから身を守れ！名作ブロック崩しをベースにした、アクション満載のゲームが登場。シールドをスライドさせて攻撃を跳ね返し、エイリアンに反撃しよう。ただし、相手も黙ってはいないぞ！\n\niPad、iPhone、iPhone Duo、Apple Watchなど、**どこでもプレイ可能！**\n\n- デジタルクラウンやタッチスクリーンを使った直感的な操作。\n- 防御を強化する、刺激的なパワーアップアイテム。\n- 初心者から上級者まで楽しめる、多彩な難易度設定。\n\n**跳ね返せ。守り抜け。そして撃破せよ！**",
       "releaseNotes": "デザインと性能を向上させる。",
       "trackViewUrl": "https://apps.apple.com/jp/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "¥150",
+      "formattedPrice": "¥300",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -51,7 +51,7 @@
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your iPad, iPhone, iPhone Duo or Apple Watch!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- Exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
       "releaseNotes": "Improved game play.\nImproved design.",
       "trackViewUrl": "https://apps.apple.com/de/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "0,99 €",
+      "formattedPrice": "1,99 €",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -90,15 +90,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/47/a0/8947a0f7-bf9e-a991-6498-e7a014f2a813/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/dd/97/58dd9705-04e6-7101-61c9-a755ecbb60a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0.99,
-  "fileSizeBytes": "28815360",
+  "price": 1.99,
+  "fileSizeBytes": "28852224",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "4.4",
-  "currentVersionReleaseDate": "2026-11-20T00:53:15Z",
+  "version": "4.5",
+  "currentVersionReleaseDate": "2026-11-22T21:25:08Z",
   "releaseDate": "2021-01-19T08:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -242,6 +242,25 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/e5/91/d5e59178-1b47-9940-b19a-fadddc83262b/duo1.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/38/df/fe38dfcd-f31e-8394-cc54-e7beed8cbead/duo2.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/a5/1e/c4a51e25-b522-5361-49c6-cf0c44f3f356/Screenshot_iPhone_Duo_08-11-2026_at_7.29.33_U202fPM.png/2853x2007bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/98/70/b198706c-536a-9504-018a-7c29df64dbb1/ipad1.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/75/a8/e875a8b2-0137-1fe4-062c-a7eaa8da81ad/ipad2.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/25/df/4a25dfbb-f7d6-7cd5-0ac3-0d416aff3b92/ipad4.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/61/9a/04619aec-1d1f-7a31-08e5-281f0062f7a6/ipad5.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/7f/35/f07f35a8-4691-96dc-1a60-81137dada1ea/iphone1.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/96/c5/9696c5e8-cfee-45f9-5699-bb9398d16274/iPhone2.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/a5/db/93a5db1a-b2e5-ffd0-94ec-1b6c2a2caefe/iphone3.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ff/9f/99ff9f38-b35d-de22-33c8-25c0063afdde/iPhone5.jpg/1179x2556bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/7f/35/f07f35a8-4691-96dc-1a60-81137dada1ea/iphone1.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/96/c5/9696c5e8-cfee-45f9-5699-bb9398d16274/iPhone2.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/a5/db/93a5db1a-b2e5-ffd0-94ec-1b6c2a2caefe/iphone3.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ff/9f/99ff9f38-b35d-de22-33c8-25c0063afdde/iPhone5.jpg/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/98/70/b198706c-536a-9504-018a-7c29df64dbb1/ipad1.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/75/a8/e875a8b2-0137-1fe4-062c-a7eaa8da81ad/ipad2.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/25/df/4a25dfbb-f7d6-7cd5-0ac3-0d416aff3b92/ipad4.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/61/9a/04619aec-1d1f-7a31-08e5-281f0062f7a6/ipad5.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/d3/1d/54d31d9a-d126-cf58-1e97-35dfc141bc41/duo1.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/76/aa/0776aa14-205d-98dc-3218-f61ada8d4784/duo2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/f0/ed/b0f0ed4e-300b-f600-d96d-551f5a5ce5d8/Screenshot_iPhone_Duo_08-11-2026_at_7.29.33_U202fPM.png/2853x2007bb.png",
@@ -340,6 +359,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ce/ab/29ceabb7-55e7-657a-e412-7acf78954dd0/b85d0da5-2620-472a-b096-0c61f776aae1_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.41.25.png/552x414bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/8c/7a/778c7a8d-fe30-9ff6-cfee-85f62e7f3d31/884141b3-3b4f-41be-8879-0e70a1fd383d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.27.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/38/db/c438db45-ef2e-7a58-f2bd-6cf31b8718eb/watch2.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/57/fa/5a57fa6b-374b-e3ce-e48e-8e85a5597747/f289de46-fe65-4c29-b5ef-23881cfe9943_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.57.40.png/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/76/1b/8c761b96-6ff5-563c-bf2d-c1f44c413cbc/884141b3-3b4f-41be-8879-0e70a1fd383d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.27.png/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/b1/69/e8b1695f-7d06-58ed-81fe-ae0154b1a94a/watch2.PNG/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/e5/be/bae5be99-3afc-e118-5812-88ba42cc2b32/f289de46-fe65-4c29-b5ef-23881cfe9943_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.57.40.png/396x484bb.png",
@@ -505,8 +527,13 @@
       "version": "4.4",
       "releaseNotes": "Improved game play.\nImproved design.",
       "seenAt": "2026-11-20T00:53:15Z"
+    },
+    {
+      "version": "4.5",
+      "releaseNotes": "Improved game play.\nImproved design.",
+      "seenAt": "2026-11-22T21:25:08Z"
     }
   ],
-  "updatedAt": "2026-11-22T14:52:10.854Z",
+  "updatedAt": "2026-11-23T18:16:13.041Z",
   "isOwnApp": false
 }
