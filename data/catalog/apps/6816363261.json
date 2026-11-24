@@ -10,7 +10,7 @@
       "releaseNotes": "• Your progress (catches, gear and coins) is now backed up on your device and in iCloud, so it comes back when you reinstall the app or switch devices.\n• Small fixes.",
       "trackViewUrl": "https://apps.apple.com/us/app/fishing-kitty-watch-game/id6816363261?uo=4",
       "formattedPrice": "Free",
-      "sellerName": "ahn soobeen",
+      "sellerName": "Kyungok Koo",
       "genres": [
         "Games",
         "Casual"
@@ -27,7 +27,7 @@
       "releaseNotes": "• 게임 진행(잡은 기록, 장비, 코인)을 기기와 iCloud에 사본으로 보관해요. 앱을 다시 설치하거나 기기를 바꿔도 진행이 되살아나요.\n• 자잘한 문제를 다듬었어요.",
       "trackViewUrl": "https://apps.apple.com/cn/app/%EB%82%9A%EC%8B%9C%EB%83%A5-%EC%9B%8C%EC%B9%98-%EB%82%9A%EC%8B%9C-%EA%B2%8C%EC%9E%84/id6816363261?uo=4",
       "formattedPrice": "免费",
-      "sellerName": "ahn soobeen",
+      "sellerName": "Kyungok Koo",
       "genres": [
         "游戏",
         "休闲"
@@ -44,7 +44,7 @@
       "releaseNotes": "• 게임 진행(잡은 기록, 장비, 코인)을 기기와 iCloud에 사본으로 보관해요. 앱을 다시 설치하거나 기기를 바꿔도 진행이 되살아나요.\n• 자잘한 문제를 다듬었어요.",
       "trackViewUrl": "https://apps.apple.com/jp/app/%EB%82%9A%EC%8B%9C%EB%83%A5-%EC%9B%8C%EC%B9%98-%EB%82%9A%EC%8B%9C-%EA%B2%8C%EC%9E%84/id6816363261?uo=4",
       "formattedPrice": "無料",
-      "sellerName": "ahn soobeen",
+      "sellerName": "Kyungok Koo",
       "genres": [
         "ゲーム",
         "カジュアル"
@@ -83,9 +83,9 @@
   "version": "1.2.4",
   "currentVersionReleaseDate": "2026-11-20T21:25:48Z",
   "releaseDate": "2026-10-07T07:00:00Z",
-  "artistId": 6815486267,
-  "artistName": "ahn soobeen",
-  "artistViewUrl": "https://apps.apple.com/de/developer/ahn-soobeen/id6815486267?uo=4",
+  "artistId": 6838182482,
+  "artistName": "Kyungok Koo",
+  "artistViewUrl": "https://apps.apple.com/jp/developer/kyungok-koo/id6838182482?uo=4",
   "sellerUrl": "https://starhana.kr/crownfishing/",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -353,6 +353,6 @@
       "seenAt": "2026-11-20T21:25:48Z"
     }
   ],
-  "updatedAt": "2026-11-23T17:56:00.728Z",
+  "updatedAt": "2026-11-24T17:27:40.212Z",
   "isOwnApp": false
 }

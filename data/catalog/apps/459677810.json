@@ -72,8 +72,8 @@
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/69/67/636967f5-bea0-be69-ebee-d60ff27b45ec/BuzzerNewIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.18588,
-  "userRatingCount": 850,
+  "averageUserRating": 4.18492,
+  "userRatingCount": 849,
   "price": 0,
   "fileSizeBytes": "146714624",
   "contentAdvisoryRating": "9+",
@@ -416,6 +416,6 @@
       "seenAt": "2026-11-09T15:56:38Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:03:01.574Z",
+  "updatedAt": "2026-11-24T17:34:57.882Z",
   "isOwnApp": false
 }

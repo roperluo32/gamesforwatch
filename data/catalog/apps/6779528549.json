@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Bloom Jump Watch",
       "description": "Bloom Jump is a classic 2D side-scrolling platformer with crisp pixel-art worlds and tight, responsive controls — easy to pick up, fun to master.\n\nRun, jump, and stomp your way through five hand-designed levels: Green Meadows, Rocky Cliffs, Sky Gardens, Dark Caves, and Final Heights. Collect coins and gems, bounce off springs, dodge spikes, and outsmart walkers, flyers, and chasers on your way to the flag.\n\nFEATURES\n• 5 hand-crafted levels with parallax pixel-art backgrounds\n• Smooth 60 FPS platforming with springs, one-way platforms, and stompable enemies\n• Coins, gems, and a flag goal in every level — three lives, three hearts\n• Original chiptune music and retro sound effects\n• Play your way: touch controls, game controller, or keyboard\n• Available in 13 languages\n\nPure, old-school platforming — no timers, no ads getting in your way. Just you, the jump button, and the next level. Grab your coins and reach the flag!",
-      "releaseNotes": "",
+      "releaseNotes": "Fixed a crash during gameplay on older Apple Watch models. The game now runs smoothly on Apple Watch Series 4 and later.",
       "trackViewUrl": "https://apps.apple.com/us/app/bloom-jump-watch/id6779528549?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Skelpo GmbH",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Bloom Jump Watch",
       "description": "Bloom Jump 是一款经典的 2D 横版平台跳跃游戏，拥有清爽的像素美术世界和精准灵敏的操控——上手简单，精通有趣。\n\n奔跑、跳跃、踩踏，穿越五个手工设计的关卡：Green Meadows、Rocky Cliffs、Sky Gardens、Dark Caves 和 Final Heights。收集金币和宝石，借弹簧弹跳，躲开尖刺，智取行走、飞行与追逐的敌人，一路抵达终点旗。\n\n特色\n• 5 个手工打造的关卡，配有视差像素美术背景\n• 流畅的 60 FPS 平台体验，含弹簧、单向平台和可踩踏的敌人\n• 每关都有金币、宝石和终点旗——三条命，三颗心\n• 原创芯片音乐和复古音效\n• 随心操控：触屏、手柄或键盘\n• 支持 13 种语言\n\n纯粹的老派平台跳跃——没有计时，没有广告。只有你、跳跃键和下一关。收集金币，抵达终点旗！",
-      "releaseNotes": "",
+      "releaseNotes": "修复了在较早款 Apple Watch 上游戏过程中闪退的问题。现在游戏可在 Apple Watch Series 4 及更新机型上流畅运行。",
       "trackViewUrl": "https://apps.apple.com/cn/app/bloom-jump-watch/id6779528549?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Skelpo GmbH",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Bloom Jump Watch",
       "description": "Bloom Jump は、くっきりとしたドット絵の世界と、軽快で反応の良い操作が魅力のクラシックな2D横スクロールアクション。すぐに遊べて、極めるほど楽しい。\n\n手作りの5つのステージ「Green Meadows」「Rocky Cliffs」「Sky Gardens」「Dark Caves」「Final Heights」を、走って跳んで踏みつけて進もう。コインとジェムを集め、バネで弾み、トゲをよけ、歩く敵・飛ぶ敵・追う敵をかわしてゴールの旗を目指そう。\n\n特徴\n• パララックスのドット絵背景を持つ手作りの5ステージ\n• バネ・すり抜け床・踏める敵を備えた、なめらかな60FPSのアクション\n• 各ステージにコイン・ジェム・ゴールの旗 — ライフ3、ハート3\n• オリジナルのチップチューン音楽とレトロな効果音\n• 好きな操作で: タッチ、コントローラー、キーボード\n• 13言語に対応\n\n純粋で懐かしいアクション — タイマーも広告もなし。あるのは君とジャンプボタン、そして次のステージだけ。コインを集めて旗を目指せ！",
-      "releaseNotes": "",
+      "releaseNotes": "旧モデルのApple Watchでプレイ中にアプリが終了する問題を修正しました。Apple Watch Series 4以降で快適に遊べます。",
       "trackViewUrl": "https://apps.apple.com/jp/app/bloom-jump-watch/id6779528549?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Skelpo GmbH",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Bloom Jump Watch",
       "description": "Bloom Jump ist ein klassisches 2D-Jump-’n’-Run mit gestochen scharfer Pixelgrafik und präziser, reaktionsschneller Steuerung — leicht zu lernen, herausfordernd zu meistern.\n\nRenne, springe und hüpfe durch fünf handgemachte Level: Green Meadows, Rocky Cliffs, Sky Gardens, Dark Caves und Final Heights. Sammle Münzen und Edelsteine, federe auf Sprungfedern, weiche Stacheln aus und überliste Läufer, Flieger und Verfolger auf dem Weg zur Flagge.\n\nFUNKTIONEN\n• 5 handgemachte Level mit Parallax-Pixelhintergründen\n• Flüssiges Gameplay mit 60 FPS, Sprungfedern, Einweg-Plattformen und Gegnern zum Draufhüpfen\n• Münzen, Edelsteine und eine Zielflagge in jedem Level — drei Leben, drei Herzen\n• Original-Chiptune-Musik und Retro-Soundeffekte\n• Spiele wie du willst: Touch, Controller oder Tastatur\n• Verfügbar in 13 Sprachen\n\nPures Old-School-Jump-’n’-Run — keine Timer, keine Werbung. Nur du, die Sprungtaste und das nächste Level. Schnapp dir die Münzen und erreiche die Flagge!",
-      "releaseNotes": "",
+      "releaseNotes": "Ein Absturz während des Spiels auf älteren Apple Watch Modellen wurde behoben. Das Spiel läuft jetzt flüssig auf der Apple Watch Series 4 und neuer.",
       "trackViewUrl": "https://apps.apple.com/de/app/bloom-jump-watch/id6779528549?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Skelpo GmbH",
@@ -73,15 +73,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/78/d42a78a0-a78f-a5da-4201-f957cccb0e6f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/e9/c3/afe9c320-8971-b1c6-51f5-41d2c78d0412/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "34324480",
+  "fileSizeBytes": "24565760",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "16.0",
-  "version": "1.0.110",
-  "currentVersionReleaseDate": "2026-06-16T02:44:49Z",
+  "minimumOsVersion": "15.0",
+  "version": "1.1",
+  "currentVersionReleaseDate": "2026-11-24T15:10:00Z",
   "releaseDate": "2026-06-15T07:00:00Z",
   "artistId": 375140818,
   "artistName": "Skelpo GmbH",
@@ -235,8 +235,13 @@
       "version": "1.0.110",
       "releaseNotes": "",
       "seenAt": "2026-06-16T02:44:49Z"
+    },
+    {
+      "version": "1.1",
+      "releaseNotes": "Fixed a crash during gameplay on older Apple Watch models. The game now runs smoothly on Apple Watch Series 4 and later.",
+      "seenAt": "2026-11-24T15:10:00Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:22:56.976Z",
+  "updatedAt": "2026-11-24T17:54:11.863Z",
   "isOwnApp": false
 }

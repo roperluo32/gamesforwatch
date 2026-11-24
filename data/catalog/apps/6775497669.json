@@ -16,9 +16,11 @@
         "Puzzle"
       ],
       "languageCodesISO2A": [
+        "AR",
         "EN",
         "FR",
         "DE",
+        "HE",
         "JA",
         "PT",
         "ES"
@@ -37,9 +39,11 @@
         "パズル"
       ],
       "languageCodesISO2A": [
+        "AR",
         "EN",
         "FR",
         "DE",
+        "HE",
         "JA",
         "PT",
         "ES"
@@ -58,9 +62,11 @@
         "Puzzle"
       ],
       "languageCodesISO2A": [
+        "AR",
         "EN",
         "FR",
         "DE",
+        "HE",
         "JA",
         "PT",
         "ES"
@@ -68,15 +74,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/59/e2/af59e2bd-0fc7-4dc2-2f0e-6b48c5c3f5af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ee/62/ffee6232-5e7e-7915-27fc-ee095b8bc231/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "31584256",
+  "fileSizeBytes": "31694848",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.0",
-  "version": "1.9.1",
-  "currentVersionReleaseDate": "2026-11-21T22:17:46Z",
+  "version": "1.9.2",
+  "currentVersionReleaseDate": "2026-11-23T18:48:34Z",
   "releaseDate": "2026-06-03T07:00:00Z",
   "artistId": 1895160810,
   "artistName": "J&B Creations LLC",
@@ -383,8 +389,13 @@
       "version": "1.9.1",
       "releaseNotes": "Small improvements and fixes.",
       "seenAt": "2026-11-21T22:17:46Z"
+    },
+    {
+      "version": "1.9.2",
+      "releaseNotes": "Small improvements and fixes.",
+      "seenAt": "2026-11-23T18:48:34Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:34:34.145Z",
+  "updatedAt": "2026-11-24T18:03:18.503Z",
   "isOwnApp": false
 }

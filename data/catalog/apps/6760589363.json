@@ -7,7 +7,7 @@
     "en": {
       "trackName": "ArcWords Crossword Puzzle",
       "description": "Sharpen your mind one puzzle at a time. Arcword combines the challenge of crossword puzzles with the\nsimplicity of swiping letters -- a relaxing brain workout you can enjoy at your own pace.\nSwipe letters in the wheel to form words, fill the crossword grid, and discover bonus words hidden in every\npuzzle. With six difficulty levels from Gentle to Master, there's always a new challenge waiting.\n\nFEATURES:\n- Swipe and connect letters to build words and fill the crossword grid\n- 6 difficulty levels -- from relaxing to fiendishly hard\n- Discover bonus words for extra rewards\n- 3 hint types when you need a nudge\n- Daily coin allowance -- no ads, no pressure\n- Compete on Game Center leaderboards across all difficulties\n- Dozens of achievements to unlock -- with hidden surprises to discover\n- Play on iPhone, iPad, and Apple Watch\n- American and British English dictionaries\n- Beautiful background artwork and soothing music\nNo time limits. No ads. Just words.",
-      "releaseNotes": "Fixes for some letters not being visible on a wheel with 6 letters",
+      "releaseNotes": "Save puzzle state so a partially filled-in puzzle can be resumed",
       "trackViewUrl": "https://apps.apple.com/us/app/arcwords-crossword-puzzle/id6760589363?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Aaron Wohl",
@@ -24,7 +24,7 @@
     "ja": {
       "trackName": "ArcWords Crossword Puzzle",
       "description": "Sharpen your mind one puzzle at a time. Arcword combines the challenge of crossword puzzles with the\nsimplicity of swiping letters -- a relaxing brain workout you can enjoy at your own pace.\nSwipe letters in the wheel to form words, fill the crossword grid, and discover bonus words hidden in every\npuzzle. With six difficulty levels from Gentle to Master, there's always a new challenge waiting.\n\nFEATURES:\n- Swipe and connect letters to build words and fill the crossword grid\n- 6 difficulty levels -- from relaxing to fiendishly hard\n- Discover bonus words for extra rewards\n- 3 hint types when you need a nudge\n- Daily coin allowance -- no ads, no pressure\n- Compete on Game Center leaderboards across all difficulties\n- Dozens of achievements to unlock -- with hidden surprises to discover\n- Play on iPhone, iPad, and Apple Watch\n- American and British English dictionaries\n- Beautiful background artwork and soothing music\nNo time limits. No ads. Just words.",
-      "releaseNotes": "Fixes for some letters not being visible on a wheel with 6 letters",
+      "releaseNotes": "Save puzzle state so a partially filled-in puzzle can be resumed",
       "trackViewUrl": "https://apps.apple.com/jp/app/arcwords-crossword-puzzle/id6760589363?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Aaron Wohl",
@@ -41,7 +41,7 @@
     "de": {
       "trackName": "ArcWords Crossword Puzzle",
       "description": "Sharpen your mind one puzzle at a time. Arcword combines the challenge of crossword puzzles with the\nsimplicity of swiping letters -- a relaxing brain workout you can enjoy at your own pace.\nSwipe letters in the wheel to form words, fill the crossword grid, and discover bonus words hidden in every\npuzzle. With six difficulty levels from Gentle to Master, there's always a new challenge waiting.\n\nFEATURES:\n- Swipe and connect letters to build words and fill the crossword grid\n- 6 difficulty levels -- from relaxing to fiendishly hard\n- Discover bonus words for extra rewards\n- 3 hint types when you need a nudge\n- Daily coin allowance -- no ads, no pressure\n- Compete on Game Center leaderboards across all difficulties\n- Dozens of achievements to unlock -- with hidden surprises to discover\n- Play on iPhone, iPad, and Apple Watch\n- American and British English dictionaries\n- Beautiful background artwork and soothing music\nNo time limits. No ads. Just words.",
-      "releaseNotes": "Fixes for some letters not being visible on a wheel with 6 letters",
+      "releaseNotes": "Save puzzle state so a partially filled-in puzzle can be resumed",
       "trackViewUrl": "https://apps.apple.com/de/app/arcwords-crossword-puzzle/id6760589363?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Aaron Wohl",
@@ -56,15 +56,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/3e/f0/0d3ef0d6-83ab-620b-f96a-ea30ab252b5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/4e/a0/ac4ea099-90b6-d995-2dbc-dc582906fe39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "80614400",
+  "fileSizeBytes": "80684032",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.0",
-  "version": "1.3",
-  "currentVersionReleaseDate": "2026-11-15T01:55:47Z",
+  "version": "1.3.2",
+  "currentVersionReleaseDate": "2026-11-23T18:50:50Z",
   "releaseDate": "2026-04-07T07:00:00Z",
   "artistId": 1860336063,
   "artistName": "Aaron Wohl",
@@ -265,8 +265,13 @@
       "version": "1.3",
       "releaseNotes": "Fixes for some letters not being visible on a wheel with 6 letters",
       "seenAt": "2026-11-15T01:55:47Z"
+    },
+    {
+      "version": "1.3.2",
+      "releaseNotes": "Save puzzle state so a partially filled-in puzzle can be resumed",
+      "seenAt": "2026-11-23T18:50:50Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:35:57.475Z",
+  "updatedAt": "2026-11-24T18:04:26.788Z",
   "isOwnApp": false
 }

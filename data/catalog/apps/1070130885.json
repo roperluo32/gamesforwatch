@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Optimized performance.",
+      "releaseNotes": "Merry Christmas and Happy New Year!",
       "trackViewUrl": "https://apps.apple.com/us/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -24,8 +24,8 @@
     },
     "zh": {
       "trackName": "Square Bird Watch - Block Jump",
-      "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Optimized performance.",
+      "description": "随时随地畅玩，支持手机、手表和平板设备！\n\n尽可能冲向更远的地方，但千万不要撞到任何东西！\n\n*** 连续得分5次即可激活狂热模式（FEVER MODE），尽情击碎方块！！！\n*** 每个世界都有独特的连击动作……\n*** 收集所有小鸟，解锁全新玩法！\n\n与好友一较高下，挑战世界各地的玩家！\n\n趣味十足，简单却令人上瘾！\n\n立即下载游戏，现在就来帮助小鸟吧！",
+      "releaseNotes": "圣诞快乐，新年快乐！",
       "trackViewUrl": "https://apps.apple.com/cn/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -42,8 +42,8 @@
     },
     "ja": {
       "trackName": "Square Bird Watch - Block Jump",
-      "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Optimized performance.",
+      "description": "スマホ、スマートウォッチ、タブレットで、いつでもどこでもプレイ！\n\n障害物にぶつからないように、できるだけ遠くまで進もう！\n\n*** 5回連続でスコアを獲得するとFEVER MODEが発動！ブロックを壊せるようになるよ！！！\n*** ワールドごとにユニークなコンボアクションが登場……\n*** すべての鳥を集めて、新しいゲームプレイをアンロックしよう！\n\n友達と競い合い、世界中のプレイヤーに挑戦しよう！\n\n楽しくて、シンプルなのにハマるゲーム！\n\n今すぐゲームをダウンロードして、鳥たちを助けよう！",
+      "releaseNotes": "メリークリスマス＆明けましておめでとうございます！",
       "trackViewUrl": "https://apps.apple.com/jp/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Square Bird Watch - Block Jump",
       "description": "Play anywhere on Phone, Watch and Tablet.\nGo as far as you can, but do not hit anything!\n\n*** Score 5 times to get FEVER MODE and be able to break blocks!!!\n*** Each world has unique combo move...\n*** Collect all birds to Unlock new gameplay\n\nComplete with your friends in the world\nFun and deadly simple\n\nGet the game, help the birds NOW!",
-      "releaseNotes": "Optimized performance.",
+      "releaseNotes": "Merry Christmas and Happy New Year!",
       "trackViewUrl": "https://apps.apple.com/de/app/square-bird-watch-block-jump/id1070130885?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Gosiha Pte. Ltd.",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4b/62/d44b625c-96f3-227e-dba2-cfc084988f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/8c/da/a58cdaa8-f759-5f1e-9703-b2b16580a901/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.13514,
   "userRatingCount": 37,
   "price": 0,
   "fileSizeBytes": "59218944",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "3.6.1",
-  "currentVersionReleaseDate": "2026-10-30T15:10:13Z",
+  "version": "3.6.2",
+  "currentVersionReleaseDate": "2026-11-23T22:30:32Z",
   "releaseDate": "2016-01-13T02:21:12Z",
   "artistId": 1452132143,
   "artistName": "Gosiha Pte. Ltd",
@@ -427,8 +427,13 @@
       "version": "3.6.1",
       "releaseNotes": "Optimized performance.",
       "seenAt": "2026-10-30T15:10:13Z"
+    },
+    {
+      "version": "3.6.2",
+      "releaseNotes": "Merry Christmas and Happy New Year!",
+      "seenAt": "2026-11-23T22:30:32Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:07:58.900Z",
+  "updatedAt": "2026-11-24T17:34:49.102Z",
   "isOwnApp": false
 }

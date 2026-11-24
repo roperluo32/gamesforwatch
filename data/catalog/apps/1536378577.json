@@ -1,14 +1,14 @@
 {
   "trackId": "1536378577",
   "bundleId": "com.tocapp.180hit.-80-Hit",
-  "slug": "knife-fall-precision-game",
-  "path": "/apps/1536378577-knife-fall-precision-game/",
+  "slug": "knife-fall-tap-cut-arcade",
+  "path": "/apps/1536378577-knife-fall-tap-cut-arcade/",
   "locales": {
     "en": {
-      "trackName": "Knife Fall: Precision game",
+      "trackName": "Knife Fall: Tap & Cut Arcade",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
-      "trackViewUrl": "https://apps.apple.com/us/app/knife-fall-precision-game/id1536378577?uo=4",
+      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "trackViewUrl": "https://apps.apple.com/us/app/knife-fall-tap-cut-arcade/id1536378577?uo=4",
       "formattedPrice": "$0.99",
       "sellerName": "Tocapp Games S.L.",
       "genres": [
@@ -20,13 +20,13 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "subtitle": "Tap to throw"
+      "subtitle": "Flip, Slice Balls & Watch Fun"
     },
     "ja": {
-      "trackName": "Knife Fall: Precision game",
+      "trackName": "Knife Fall: Tap & Cut Arcade",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
-      "trackViewUrl": "https://apps.apple.com/jp/app/knife-fall-precision-game/id1536378577?uo=4",
+      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "trackViewUrl": "https://apps.apple.com/jp/app/knife-fall-tap-cut-arcade/id1536378577?uo=4",
       "formattedPrice": "¥150",
       "sellerName": "Tocapp Games S.L.",
       "genres": [
@@ -41,10 +41,10 @@
       "subtitle": ""
     },
     "de": {
-      "trackName": "Knife Fall: Precision game",
+      "trackName": "Knife Fall: Tap & Cut Arcade",
       "description": "The knife is rotating continuously, tap the screen to throw and cut the balls. Don't let the knife fall, throw it up and keep the knife always on air.\n\nYou can choose between different knives. Get a lot of points by cutting balls. How many points can you get without falling the knife?",
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
-      "trackViewUrl": "https://apps.apple.com/de/app/knife-fall-precision-game/id1536378577?uo=4",
+      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "trackViewUrl": "https://apps.apple.com/de/app/knife-fall-tap-cut-arcade/id1536378577?uo=4",
       "formattedPrice": "0,99 €",
       "sellerName": "Tocapp Games S.L.",
       "genres": [
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/7f/56/b57f56cd-e416-e4be-fca2-8b7f1699a291/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/ce/44/2ace44e4-123a-732b-633b-274e0cd0780f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0.99,
-  "fileSizeBytes": "17565696",
-  "contentAdvisoryRating": "9+",
-  "minimumOsVersion": "12.0",
-  "version": "1.2.3",
-  "currentVersionReleaseDate": "2024-04-12T07:26:57Z",
+  "fileSizeBytes": "8747008",
+  "contentAdvisoryRating": "12+",
+  "minimumOsVersion": "15.6",
+  "version": "1.2.4",
+  "currentVersionReleaseDate": "2026-11-23T22:28:48Z",
   "releaseDate": "2020-10-25T07:00:00Z",
   "artistId": 1382683382,
   "artistName": "Tocapp Games S.L.",
@@ -319,8 +319,13 @@
       "version": "1.2.3",
       "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Updated dependencies\n- Bugs fixed",
       "seenAt": "2024-04-12T07:26:57Z"
+    },
+    {
+      "version": "1.2.4",
+      "releaseNotes": "- Updated dependencies\n- Bugs fixed",
+      "seenAt": "2026-11-23T22:28:48Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:10:02.250Z",
+  "updatedAt": "2026-11-24T17:41:49.747Z",
   "isOwnApp": false
 }

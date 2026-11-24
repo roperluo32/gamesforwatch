@@ -14,8 +14,8 @@
       "genres": [
         "Games",
         "Casual",
-        "Sports",
-        "Action"
+        "Action",
+        "Sports"
       ],
       "languageCodesISO2A": [
         "AR",
@@ -55,8 +55,8 @@
       "genres": [
         "ゲーム",
         "カジュアル",
-        "スポーツ",
-        "アクション"
+        "アクション",
+        "スポーツ"
       ],
       "languageCodesISO2A": [
         "AR",
@@ -96,8 +96,8 @@
       "genres": [
         "Spiele",
         "Gelegenheits­spiele",
-        "Sport",
-        "Action"
+        "Action",
+        "Sport"
       ],
       "languageCodesISO2A": [
         "AR",
@@ -468,6 +468,6 @@
       "seenAt": "2026-08-29T05:24:04Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:26:32.501Z",
+  "updatedAt": "2026-11-24T17:58:18.905Z",
   "isOwnApp": false
 }
