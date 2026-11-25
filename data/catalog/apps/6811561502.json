@@ -33,12 +33,27 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Little Garden",
+      "description": "Little Garden is a peaceful gardening game made for Apple Watch.\n\nPlant crops, water them as they grow, and return later to harvest your garden. Earn coins to unlock new crops, expand into new garden areas, and eventually discover your own apple orchard.\n\nYour garden continues to grow while you’re away, making Little Garden perfect for quick visits throughout the day.\n\nAlong the way, adorable garden visitors may appear. Discover rabbits, bees, butterflies, frogs and more, then record your discoveries in your Garden Book.\n\nNo pressure. No dying crops. Just a tiny, colourful garden growing on your wrist.",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/little-garden/id6811561502?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/66/ed/0966eddd-3938-b321-a0cd-6dd6f813cced/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 150,
+  "price": 0.99,
   "fileSizeBytes": "34518016",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "13.0",
@@ -47,7 +62,7 @@
   "releaseDate": "2026-09-24T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/daniel-beer/id6808949555?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/daniel-beer/id6808949555?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -202,6 +217,6 @@
       "seenAt": "2026-09-24T07:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:10:00.017Z",
+  "updatedAt": "2026-11-25T17:52:29.929Z",
   "isOwnApp": false
 }

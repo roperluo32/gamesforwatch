@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/17/97/e5179744-0510-e3e6-b19b-86d2a627124a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "averageUserRating": 4.64613,
-  "userRatingCount": 568,
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/3f/48/7a3f4815-b82b-5f8b-6af0-04ecc0db1f8d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "averageUserRating": 4.64499,
+  "userRatingCount": 569,
   "price": 0,
-  "fileSizeBytes": "141637632",
+  "fileSizeBytes": "143717376",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.3.5",
-  "currentVersionReleaseDate": "2026-10-30T15:17:00Z",
+  "version": "3.4",
+  "currentVersionReleaseDate": "2026-11-24T22:05:50Z",
   "releaseDate": "2020-06-15T07:00:00Z",
   "artistId": 1139648773,
   "artistName": "Doodle Mobile Limited",
@@ -375,8 +375,13 @@
       "version": "3.3.5",
       "releaseNotes": "Bug fixes and performance improvements.\n",
       "seenAt": "2026-10-30T15:17:00Z"
+    },
+    {
+      "version": "3.4",
+      "releaseNotes": "Bug fixes and performance improvements.\n",
+      "seenAt": "2026-11-24T22:05:50Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:06:23.859Z",
+  "updatedAt": "2026-11-25T17:48:53.017Z",
   "isOwnApp": false
 }

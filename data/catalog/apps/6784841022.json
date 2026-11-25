@@ -7,7 +7,7 @@
     "en": {
       "trackName": "PrismFlow: Block Puzzle Game",
       "description": "Flow the colors, free your mind.\n\nPrismFlow Block Puzzle is a calm, colorful block puzzle you can play in short sessions or long streaks. Drag pieces onto the board, fill rows and columns, and watch them clear — simple rules, deep scoring.\n\nHOW TO PLAY\n• Three block shapes appear in the tray — drag each one onto the 8×8 board\n• Complete full rows or columns to clear them and earn points\n• Chain clears to build combos and push your score higher\n• Game over when none of the three pieces fit — can you beat your best?\n\nFEATURES\n• Smooth drag-and-drop controls tuned for one-hand play\n• Glossy blocks, satisfying clears, and combo feedback\n• Global leaderboard — compete with players worldwide\n• Daily streak reminders (optional)\n• Multiple languages\n• Play offline anytime; sign in for cloud sync and leaderboard\n\nFREE TO PLAY\nPrismFlow is free with optional ads. You can remove ads or buy continue tokens via in-app purchase. No account required to play.\n\nDownload now and find your flow.\n\nPRISMFLOW PLUS (optional subscription)\nAd-free play, 100 gems and 1 continue token every day. The yearly plan starts with a 7-day free trial; a monthly plan is also available. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically unless canceled at least 24 hours before the end of the current period. Manage or cancel it in Settings > Apple Account > Subscriptions.\n\nTerms of Use (EULA): https://prismflow-ec386.web.app/terms\nPrivacy Policy: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "• Updated privacy information\n• More reliable update reminders\n• Stability improvements",
+      "releaseNotes": "• Take on a new Daily Puzzle every day.\n• Collect prism shards and grow your collection.\n• Discover a refreshed block set and balanced piece distribution.\n• Gameplay and stability improvements.",
       "trackViewUrl": "https://apps.apple.com/us/app/prismflow-block-puzzle-game/id6784841022?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Beytullah Ozer",
@@ -39,7 +39,7 @@
     "ja": {
       "trackName": "PrismFlow: Blok Bulmaca Oyunu",
       "description": "Renkleri serbest bırakın, zihninizi özgürleştirin.\n\nPrismFlow Blok Bulmacası, kısa seanslarda veya uzun serilerde oynayabileceğiniz sakin ve renkli bir blok bulmacasıdır. Parçaları tahtaya sürükleyin, satırları ve sütunları doldurun ve temizlenmelerini izleyin — basit kurallar, yüksek puanlama.\n\nNASIL OYNANIR\n• Tepside üç blok şekli belirir — her birini 8x8 tahtaya sürükleyin\n• Satırları veya sütunları tamamlayarak temizleyin ve puan kazanın\n• Kombolar oluşturmak ve puanınızı yükseltmek için zincirleme temizlemeler yapın\n• Üç parçadan hiçbiri uymadığında oyun biter — en iyi skorunuzu geçebilir misiniz?\n\nÖZELLİKLER\n• Tek elle oynanmaya uygun, akıcı sürükle ve bırak kontrolleri\n• Parlak bloklar, tatmin edici temizlemeler ve kombo geri bildirimi\n• Küresel liderlik tablosu — dünya çapındaki oyuncularla yarışın\n• Günlük seri hatırlatıcıları (isteğe bağlı)\n• Çoklu dil desteği\n• İstediğiniz zaman çevrimdışı oynayın; bulut senkronizasyonu ve liderlik tablosu için giriş yapın\n\nÜCRETSİZ OYNAYIN\nPrismFlow, isteğe bağlı reklamlarla ücretsizdir. Uygulama içi satın alma yoluyla reklamları kaldırabilir veya devam jetonları satın alabilirsiniz. Oynamak için hesap gerekmez.\n\nHemen indirin ve kendi tarzınızı bulun.\n\nPRISMFLOW PLUS (isteğe bağlı abonelik)\nReklamsız oyun, her gün 100 elmas ve 1 devam jetonu. Yıllık plan 7 gün ücretsiz denemeyle başlar; aylık plan da vardır. Ödeme, satın alım onayında Apple Hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Aboneliği Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz.\n\nKullanım Koşulları (EULA): https://prismflow-ec386.web.app/terms\nGizlilik Politikası: https://prismflow-ec386.web.app/privacy",
-      "releaseNotes": "• Gizlilik bilgileri güncellendi\n• Güncelleme hatırlatması daha güvenilir çalışıyor\n• Kararlılık iyileştirmeleri",
+      "releaseNotes": "• Günlük bulmaca ile her gün yeni bir hedefe ulaş.\n• Prizma parçalarını topla ve koleksiyonunu geliştir.\n• Yenilenen blok seti ve dengelenen parça dağılımını keşfet.\n• Oyun deneyimi ve kararlılık iyileştirmeleri.",
       "trackViewUrl": "https://apps.apple.com/jp/app/prismflow-blok-bulmaca-oyunu/id6784841022?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Beytullah Ozer",
@@ -53,15 +53,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c8/23/83c823be-4d81-6f78-4a08-f175fd4d8420/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/56/48/6d564804-a222-2409-3edf-ebe0ceed2078/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "33982464",
+  "fileSizeBytes": "34023424",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
-  "version": "3.1.5",
-  "currentVersionReleaseDate": "2026-11-15T20:44:40Z",
+  "version": "3.1.6",
+  "currentVersionReleaseDate": "2026-11-25T07:53:05Z",
   "releaseDate": "2026-07-06T07:00:00Z",
   "artistId": 6784841024,
   "artistName": "Beytullah Ozer",
@@ -377,8 +377,13 @@
       "version": "3.1.5",
       "releaseNotes": "• Updated privacy information\n• More reliable update reminders\n• Stability improvements",
       "seenAt": "2026-11-15T20:44:40Z"
+    },
+    {
+      "version": "3.1.6",
+      "releaseNotes": "• Take on a new Daily Puzzle every day.\n• Collect prism shards and grow your collection.\n• Discover a refreshed block set and balanced piece distribution.\n• Gameplay and stability improvements.",
+      "seenAt": "2026-11-25T07:53:05Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:04:14.537Z",
+  "updatedAt": "2026-11-25T17:46:37.889Z",
   "isOwnApp": false
 }

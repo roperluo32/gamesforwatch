@@ -33,12 +33,27 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Space Pirates",
+      "description": "Take command of a pirate galleon and battle your way across 100 space encounters built for Apple Watch.\n\nAim your cannon with the Digital Crown, fire, and let gravity take over. Cannonballs curve around planets and moons, turning every shot into a miniature orbital puzzle.\n\nFace rival pirate ships, moving targets, orbiting moons, satellites, asteroids and increasingly complex gravitational systems. Missed shots can crash into obstacles—or even curve all the way back toward you.\n\nFeatures:\n• 100 handcrafted levels\n• Digital Crown cannon aiming\n• Gravity-driven projectile physics\n• Moving and orbiting targets\n• Planets, moons, satellites and asteroids\n• Destructible objects and explosive impacts\n• Replay previously completed levels\n• Designed specifically for Apple Watch\n\nPlot the trajectory. Fire the cannon. Hope your calculations were right.",
+      "releaseNotes": "Space Pirates is a standalone Apple Watch artillery game designed specifically for watchOS.\nAim the ship's cannon using the Digital Crown and tap FIRE to launch. Cannonballs are affected by the gravity of planets and moons, allowing shots to curve around celestial bodies. The objective is to destroy the enemy pirate ship. The game contains 100 levels, and previously completed levels can be replayed.\nVersion 1.0.1 is a compatibility maintenance update. The minimum supported watchOS version has been corrected from watchOS 27.0 to watchOS 10.6. Gameplay, levels, controls, artwork and progression are unchanged from version 1.0.\nNo account or sign-in is required.\nA gameplay recording is attached for App Review demonstrating the controls and gameplay.",
+      "trackViewUrl": "https://apps.apple.com/de/app/space-pirates/id6815162748?uo=4",
+      "formattedPrice": "0,99 €",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/e7/c6/85e7c68d-5290-de7e-86c7-62d214d60ffc/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 150,
+  "price": 0.99,
   "fileSizeBytes": "5510144",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.6",
@@ -47,7 +62,7 @@
   "releaseDate": "2026-09-29T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/daniel-beer/id6808949555?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/daniel-beer/id6808949555?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -208,6 +223,6 @@
       "seenAt": "2026-10-07T16:31:12Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:09:00.186Z",
+  "updatedAt": "2026-11-25T17:51:30.178Z",
   "isOwnApp": false
 }

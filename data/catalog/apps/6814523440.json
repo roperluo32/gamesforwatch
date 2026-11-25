@@ -48,6 +48,21 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Underkeep",
+      "description": "A dungeon adventure on your wrist.\n\nDescend through 20 handcrafted levels of ancient cells, forgotten crypts, dangerous mines and haunted depths as you fight your way toward the heart of Underkeep.\n\nTap anywhere to move. Tap an enemy to strike with your sword. Simple controls make Underkeep easy to pick up, while new enemies, traps and puzzles make each descent more dangerous.\n\nEXPLORE\nNavigate twisting dungeon rooms, hunt for keys, open gates, discover hidden paths and find your way deeper underground.\n\nFIGHT\nBattle rats, slimes, skeletons, bats, spiders, ghosts, mages, armoured guards and more. Every enemy behaves differently, so watch their movements and choose when to strike.\n\nSURVIVE\nDodge charging enemies, magical attacks, spikes and other dungeon hazards. Learn each enemy's weakness and make every sword strike count.\n\nDESCEND\nJourney through five distinct areas across 20 levels, culminating in a final confrontation with the Warden.\n\nDesigned specifically for Apple Watch with simple tap controls, short levels and no complicated menus.\n\nUnderkeep is completely free.",
+      "releaseNotes": "I have expanded Underkeep from 20 to 100 levels, adding new dungeon layouts, more variety and improved progression.\n\nI have also added an optional More Games section where players can discover my other Apple Watch games.\n\nUnderkeep is now completely free, with no advertisements, subscriptions or in-app purchases.\n\nThe original gameplay and controls remain unchanged. I developed this game independently, without using a game template.\n\nThank you,\nDaniel Beer",
+      "trackViewUrl": "https://apps.apple.com/de/app/underkeep/id6814523440?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/ca/b1/c2cab158-a54b-0027-4114-362fdb4f85e4/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
@@ -62,7 +77,7 @@
   "releaseDate": "2026-09-28T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/daniel-beer/id6808949555?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/daniel-beer/id6808949555?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -225,6 +240,6 @@
       "seenAt": "2026-11-02T20:11:25Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:06:08.122Z",
+  "updatedAt": "2026-11-25T17:48:33.614Z",
   "isOwnApp": false
 }

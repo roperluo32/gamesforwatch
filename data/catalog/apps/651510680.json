@@ -95,15 +95,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/57/3a/ba573a82-6ed0-742c-13ea-03f5cb0bcc3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/c6/7c/9fc67cc6-35bf-5edb-0d49-ef24129fa24e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 4.28352,
   "userRatingCount": 1626,
   "price": 0,
-  "fileSizeBytes": "443358208",
+  "fileSizeBytes": "448638976",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
-  "version": "3.396.1",
-  "currentVersionReleaseDate": "2026-11-19T15:07:55Z",
+  "version": "3.397.0",
+  "currentVersionReleaseDate": "2026-11-24T20:31:59Z",
   "releaseDate": "2013-10-26T22:12:29Z",
   "artistId": 286461525,
   "artistName": "Etermax",
@@ -627,8 +627,13 @@
       "version": "3.396.1",
       "releaseNotes": "Treat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
       "seenAt": "2026-11-19T15:07:55Z"
+    },
+    {
+      "version": "3.397.0",
+      "releaseNotes": "Treat yourself!\nGrab a limited-time pack with coins, credits, and cards to give your collection a boost.\n\nPlus bug fixes and performance improvements to keep the fun going!",
+      "seenAt": "2026-11-24T20:31:59Z"
     }
   ],
-  "updatedAt": "2026-11-24T17:28:40.985Z",
+  "updatedAt": "2026-11-25T17:10:03.063Z",
   "isOwnApp": false
 }

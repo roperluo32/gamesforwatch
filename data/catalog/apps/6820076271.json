@@ -33,12 +33,27 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Tiny Tank",
+      "description": "Tiny tank. Big battlefield.\n\nTiny Tank is a fast arcade combat game built for Apple Watch.\n\nUse the Digital Crown to steer your tank through an endless cartoon battlefield. Your cannon points wherever your tank points, so every turn is also an aiming decision.\n\nLine up the shot. Tap to fire. Then move before the enemy fires back.\n\nEnemy tanks track you with rotating turrets, shells fly across the battlefield, and the fight becomes increasingly chaotic the longer you survive.\n\n• Turn and aim with the Digital Crown\n• Tap to fire your forward cannon\n• Hold to reverse out of danger\n• Dodge visible enemy shells\n• Battle multiple enemy types\n• Destroy fortified enemy positions\n• Smash through battlefield obstacles\n• Grab temporary combat power-ups\n• Build your score multiplier\n• Survive an endless battlefield\n• Chase your high score\n\nThere are no levels and no complicated controls. Every run starts simple and becomes increasingly dangerous.\n\nSteer. Aim. Fire. Survive.\n\nHow long can your Tiny Tank last?",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/tiny-tank/id6820076271?uo=4",
+      "formattedPrice": "1,99 €",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/86/6f/f6866fa0-3897-4c7e-e88c-e3f52658770e/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 1.99,
   "fileSizeBytes": "4189184",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "17.6",
@@ -47,7 +62,7 @@
   "releaseDate": "2026-10-08T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/daniel-beer/id6808949555?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/daniel-beer/id6808949555?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": true,
   "supportedDevices": [
@@ -200,6 +215,6 @@
       "seenAt": "2026-10-08T07:06:59Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:08:52.247Z",
+  "updatedAt": "2026-11-25T17:51:21.063Z",
   "isOwnApp": false
 }

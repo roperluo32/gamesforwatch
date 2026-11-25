@@ -33,12 +33,27 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "Pogo Possum",
+      "description": "Jump into a giant adventure made for your wrist.\nPogo Possum is a colourful platform adventure designed for Apple Watch. Jump from platform to platform and tilt your wrist to guide Pogo through ten beautiful, handcrafted levels.\nExplore giant gardens, skip across a sparkling pond, climb through a greenhouse, bounce through an autumn woodland, brave a rainstorm and discover more worlds on the way to the top.\nEach level brings something different. Spring from giant leaves and lily pads, land on flowers, ride moving platforms, launch from ladybirds, leap from disappearing frogs and find your way through increasingly challenging routes.\nFeatures:\n• 10 unique levels\n• Simple tap-and-tilt controls\n• Designed specifically for Apple Watch\n• Colourful storybook graphics\n• Different platform mechanics and environments\n• Moving and disappearing platforms\n• Atmospheric butterflies, dragonflies, bees, falling leaves, rain and more\n• No ads\n• No subscriptions\n• Play at your own pace  \nEasy to learn, increasingly challenging, and built for quick games whenever you have a few minutes.\nTap. Tilt. Jump. Keep climbing.",
+      "releaseNotes": "",
+      "trackViewUrl": "https://apps.apple.com/de/app/pogo-possum/id6816612287?uo=4",
+      "formattedPrice": "1,99 €",
+      "sellerName": "Daniel Beer",
+      "genres": [
+        "Spiele"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/da/b0/acdab0d6-d5cf-ea49-e50b-2249a484849d/AppIcon-0-0-1x_U007ewatch-0-1-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 300,
+  "price": 1.99,
   "fileSizeBytes": "18449408",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "17.0",
@@ -47,7 +62,7 @@
   "releaseDate": "2026-09-30T07:00:00Z",
   "artistId": 6808949555,
   "artistName": "Daniel Beer",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/daniel-beer/id6808949555?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/daniel-beer/id6808949555?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -206,6 +221,6 @@
       "seenAt": "2026-09-30T11:46:23Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:09:36.763Z",
+  "updatedAt": "2026-11-25T17:52:08.731Z",
   "isOwnApp": false
 }
