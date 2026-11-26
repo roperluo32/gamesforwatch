@@ -54,6 +54,23 @@
         "EN"
       ],
       "subtitle": ""
+    },
+    "de": {
+      "trackName": "OfflineGo",
+      "description": "Play Go against a powerful AI — entirely offline. No internet, no accounts, no subscriptions. Just you and the board.\n\nOffline Go runs KataGo, one of the world's strongest Go engines, directly on your device using Apple's Neural Engine. Every move is computed locally with a full neural network (b20c256), giving you a serious opponent that works anywhere — on a plane, in the subway, or off the grid.\n\n7 difficulty levels to match any skill level:\n\nMochi — Very forgiving, perfect for learning the basics\nTanuki — Casual play with room to breathe\nKitsune — Balanced, moderate-strength opponent\nFukuro — Strong play with few mistakes\nTora — Very strong, minimal errors\nRyuu — Expert-level pure neural network play\nKami — Master-level with Monte Carlo Tree Search\nFeatures:\n\nFully offline — no internet connection required, ever\nPowered by KataGo neural networks via CoreML\nReal-time move probability visualization\nWin rate graph tracks your position throughout the game\nTerritory scoring with Japanese rules\nMove history with full game replay\nGame history to review past matches\nUndo support\nMultiple animated background themes\nRuns on iPhone and iPad, and now Apple Watch!\nPrivacy first. No data collection, no analytics, no tracking. Everything stays on your device.",
+      "releaseNotes": "Fixed missing NN - stronger opponents will play much stronger now",
+      "trackViewUrl": "https://apps.apple.com/de/app/offlinego/id6759729584?uo=4",
+      "formattedPrice": "Gratis",
+      "sellerName": "Michael Grande",
+      "genres": [
+        "Spiele",
+        "Brettspiele",
+        "Simulation"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "subtitle": ""
     }
   },
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/98/61/40986190-c82e-5a0d-ad29-2a722a006b58/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
@@ -68,7 +85,7 @@
   "releaseDate": "2026-03-03T08:00:00Z",
   "artistId": 1690964521,
   "artistName": "Michael Grande",
-  "artistViewUrl": "https://apps.apple.com/jp/developer/michael-grande/id1690964521?uo=4",
+  "artistViewUrl": "https://apps.apple.com/de/developer/michael-grande/id1690964521?uo=4",
   "sellerUrl": "",
   "isGameCenterEnabled": false,
   "supportedDevices": [
@@ -234,6 +251,6 @@
       "seenAt": "2026-03-04T17:23:58Z"
     }
   ],
-  "updatedAt": "2026-11-25T18:01:51.763Z",
+  "updatedAt": "2026-11-26T17:43:14.439Z",
   "isOwnApp": false
 }

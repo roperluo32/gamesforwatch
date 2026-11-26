@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Casus Terrae: Watch Shooter",
       "description": "Play Casus Terrae on Apple Watch. Your iPhone is the companion: explore your career, customize Arrow-One in a 3D hangar, compare results and revisit the story. The action game is not played on iPhone.\n\nFree to try: play Level 1 and the route you choose after it, Level 2 or Level 3. A one-time in-app purchase, the Full Game, unlocks the whole campaign, Endless and online co-op. If you first downloaded the game during the free playtest, you keep full access. Previous purchases remain valid; Restore Purchase is available.\n\nPreview paints and effects, then send your choice to the paired Watch. Service and Arctic starter paints are included; other cosmetics use Salvage earned in play. Follow your next reward, review campaign and Endless results, and revisit unlocked comics and English voice recordings with translated transcripts. No ads or subscriptions.\n\nGameplay requires a compatible Apple Watch with watchOS 27 or later; the iPhone companion requires iOS 27 or later. Personal Watch sync uses its paired iPhone. iPad does not pair with or directly sync a Watch. Online co-op, public scores and restoring purchases require internet.",
-      "releaseNotes": "After you clear Level 1, the Watch now offers the Full Game, which unlocks every level, or lets you keep playing free on the level that comes next. Bug fixes and small improvements.",
+      "releaseNotes": "Level 1 now has a halfway checkpoint: leave after 1:16 and CONTINUE picks up right there. If you step away mid-level, the Watch reminds you that your run is paused. New Game starts faster: pick a difficulty and fly, and choose your callsign after your first Level 1 clear. Comics can now be skipped.",
       "trackViewUrl": "https://apps.apple.com/us/app/casus-terrae-watch-shooter/id6818364572?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Really Real Games LLC",
@@ -31,7 +31,7 @@
     "ja": {
       "trackName": "Casus Terrae 腕時計シューティング",
       "description": "Casus TerraeはApple Watchでプレイするゲームです。iPhoneはコンパニオンとして、戦績の確認、3DハンガーでのArrow-Oneのカスタマイズ、結果の比較、物語の振り返りに使えます。iPhoneではアクションゲームをプレイできません。\n\n無料で体験：レベル1と、その後に選ぶルート（レベル2またはレベル3）をプレイできます。1回限りのアプリ内課金「フルゲーム」で、キャンペーン全編、エンドレスモード、オンライン協力プレイが解除されます。無料プレイテスト期間中に初めてダウンロードした方は、引き続き全コンテンツを利用できます。以前の購入は有効で、復元もできます。\n\n塗装やエフェクトをプレビューして、ペアリングしたWatchに送信。初期塗装のServiceとArcticは付属し、その他の外観はゲームで獲得した資源で入手できます。次の目標や戦績を確認し、解放済みのコミックや翻訳テキスト付き英語音声を楽しめます。広告・サブスクリプションはありません。\n\nプレイにはwatchOS 27以降に対応したApple Watch、iPhoneアプリにはiOS 27以降が必要です。個人のWatchデータの同期にはペアリングしたiPhoneを使用します。iPadはWatchと直接ペアリング・同期しません。オンライン機能と購入にはインターネット接続が必要です。",
-      "releaseNotes": "レベル1をクリアすると、Watchが全レベルを解放するフルゲームを案内します。そのまま次のレベルを無料で続けることもできます。不具合の修正と細かな改善。",
+      "releaseNotes": "レベル1に中間チェックポイントを追加しました。1:16以降に中断しても、「つづきから」でその地点から再開できます。レベルの途中で離れると、Watchが一時停止中であることをお知らせします。ニューゲームはより素早く開始：難易度を選んですぐ出撃、コールサインはレベル1の初クリア後に選べます。コミックをスキップできるようになりました。",
       "trackViewUrl": "https://apps.apple.com/jp/app/casus-terrae-%E8%85%95%E6%99%82%E8%A8%88%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/id6818364572?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Really Real Games LLC",
@@ -55,7 +55,7 @@
     "de": {
       "trackName": "Casus Terrae",
       "description": "Spiele Casus Terrae auf der Apple Watch. Dein iPhone ist die Begleitapp: Sieh dir deine Karriere an, gestalte Arrow-One im 3D-Hangar, vergleiche Ergebnisse und erlebe die Geschichte erneut. Das Actionspiel wird nicht auf dem iPhone gespielt.\n\nKostenlos testen: Spiele Level 1 und die Route, die du danach wählst – Level 2 oder Level 3. Ein einmaliger In-App-Kauf, die Vollversion, schaltet die ganze Kampagne, den Endlosmodus und den Online-Koop frei. Wer das Spiel während des kostenlosen Tests erstmals geladen hat, behält den Vollzugriff. Frühere Käufe bleiben gültig und können wiederhergestellt werden.\n\nSieh dir Lackierungen und Effekte an und sende deine Auswahl an die gekoppelte Watch. Die Startlackierungen Service und Arctic sind enthalten; weitere kosmetische Extras erhältst du mit erspielten Ressourcen. Verfolge dein nächstes Ziel, prüfe Ergebnisse und entdecke freigeschaltete Comics sowie englische Sprachaufnahmen mit übersetzten Texten. Keine Werbung und keine Abonnements.\n\nZum Spielen brauchst du eine mit watchOS 27 oder neuer kompatible Apple Watch; die iPhone-App benötigt iOS 27 oder neuer. Persönliche Watch-Daten werden über das gekoppelte iPhone synchronisiert. Das iPad koppelt und synchronisiert sich nicht direkt mit der Watch. Online-Funktionen und Käufe benötigen Internet.",
-      "releaseNotes": "Nach Level 1 bietet die Watch jetzt die Vollversion an, die alle Level freischaltet, oder du spielst das nächste Level gratis weiter. Fehlerbehebungen und kleine Verbesserungen.",
+      "releaseNotes": "Level 1 hat jetzt einen Checkpoint zur Hälfte: Verlässt du es nach 1:16, geht es mit FORTSETZEN genau dort weiter. Gehst du mitten im Level weg, erinnert dich die Watch, dass dein Spiel pausiert ist. Neues Spiel startet schneller: Schwierigkeit wählen und losfliegen, dein Rufzeichen wählst du nach dem ersten geschafften Level 1. Comics lassen sich jetzt überspringen.",
       "trackViewUrl": "https://apps.apple.com/de/app/casus-terrae/id6818364572?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Really Real Games LLC",
@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/1f/15/f11f15c0-f35a-35a5-b516-16ff316e3da5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/b6/61/52b66104-f72d-02b3-40dd-4498621d8385/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "134291456",
+  "fileSizeBytes": "134385664",
   "contentAdvisoryRating": "12+",
   "minimumOsVersion": "27.0",
-  "version": "1.1.11",
-  "currentVersionReleaseDate": "2026-11-24T15:13:37Z",
+  "version": "1.1.12",
+  "currentVersionReleaseDate": "2026-11-25T22:34:00Z",
   "releaseDate": "2026-10-29T07:00:00Z",
   "artistId": 6818364574,
   "artistName": "Really Real Games LLC",
@@ -344,8 +344,13 @@
       "version": "1.1.11",
       "releaseNotes": "After you clear Level 1, the Watch now offers the Full Game, which unlocks every level, or lets you keep playing free on the level that comes next. Bug fixes and small improvements.",
       "seenAt": "2026-11-24T15:13:37Z"
+    },
+    {
+      "version": "1.1.12",
+      "releaseNotes": "Level 1 now has a halfway checkpoint: leave after 1:16 and CONTINUE picks up right there. If you step away mid-level, the Watch reminds you that your run is paused. New Game starts faster: pick a difficulty and fly, and choose your callsign after your first Level 1 clear. Comics can now be skipped.",
+      "seenAt": "2026-11-25T22:34:00Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:29:30.998Z",
+  "updatedAt": "2026-11-26T17:09:03.519Z",
   "isOwnApp": false
 }

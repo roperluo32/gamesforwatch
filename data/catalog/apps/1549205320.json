@@ -7,9 +7,9 @@
     "en": {
       "trackName": "Alien Breakout",
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your iPad, iPhone, iPhone Duo or Apple Watch!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- Exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
-      "releaseNotes": "Improved game play.\nImproved design.",
+      "releaseNotes": "Improve game design.",
       "trackViewUrl": "https://apps.apple.com/us/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "$1.99",
+      "formattedPrice": "Free",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -28,9 +28,9 @@
     "ja": {
       "trackName": "Alien Breakout",
       "description": "**『Alien Breakout』 – 名作ブロック崩しにエイリアンの要素をプラス！**\n次々と襲来するエイリアンから身を守れ！名作ブロック崩しをベースにした、アクション満載のゲームが登場。シールドをスライドさせて攻撃を跳ね返し、エイリアンに反撃しよう。ただし、相手も黙ってはいないぞ！\n\niPad、iPhone、iPhone Duo、Apple Watchなど、**どこでもプレイ可能！**\n\n- デジタルクラウンやタッチスクリーンを使った直感的な操作。\n- 防御を強化する、刺激的なパワーアップアイテム。\n- 初心者から上級者まで楽しめる、多彩な難易度設定。\n\n**跳ね返せ。守り抜け。そして撃破せよ！**",
-      "releaseNotes": "デザインと性能を向上させる。",
+      "releaseNotes": "ゲームデザインを改善する。",
       "trackViewUrl": "https://apps.apple.com/jp/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "¥300",
+      "formattedPrice": "無料",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -49,9 +49,9 @@
     "de": {
       "trackName": "Alien Breakout",
       "description": "**Alien Breakout – Classic Breakout with an Alien Twist!**\nDefend against waves of invading aliens in this action-packed twist on the classic Breakout game! Slide your shield to bounce shots back at the aliens—but watch out, they fight back!\n\n**Play anywhere** on your iPad, iPhone, iPhone Duo or Apple Watch!\n\n- Intuitive controls using the Digital Crown or touchscreen.\n- Exciting power-ups to boost your defenses.\n- Multiple difficulty levels for players of all skills.\n\n**Bounce. Defend. Destroy!**",
-      "releaseNotes": "Improved game play.\nImproved design.",
+      "releaseNotes": "Improve game design.",
       "trackViewUrl": "https://apps.apple.com/de/app/alien-breakout/id1549205320?uo=4",
-      "formattedPrice": "1,99 €",
+      "formattedPrice": "Gratis",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -69,8 +69,8 @@
     },
     "zh": {
       "trackName": "异星突围",
-      "description": "** 融入外星人元素的经典打砖块游戏！**\n\n在这款充满动作快感的经典“打砖块”游戏中，抵御一波又一波来袭的外星人！滑动你的护盾，将攻击反弹回去—但要小心，外星人也会反击！\n\n**随时随地畅玩**——支持 Apple Watch、iPhone 和 iPad！\n\n- 直观的操控方式：使用数码表冠或触摸屏即可轻松游玩。\n- 3 种强力道具，助你强化防御。\n- 多种难度等级，适合不同水平的玩家。\n\n**反弹！防御！摧毁！**",
-      "releaseNotes": "改进设计。",
+      "description": "** 异星突围 — 经典打砖块游戏的外星变体！**\n在这款充满动作元素的经典打砖块变体游戏中，抵御一波又一波外星入侵者！滑动你的护盾，将攻击弹回给外星人 — 但要小心，它们也会反击！\n\n**随时随地畅玩** — 支持 iPad、iPhone、iPhone Duo 及 Apple Watch！\n\n- 直观的操控方式：使用数码表冠 (Digital Crown) 或触摸屏即可轻松游玩。\n- 丰富的强力道具，助你强化防御。\n- 多种难度等级，适合各类水平的玩家。\n\n**弹射。防御。摧毁！**",
+      "releaseNotes": "改进游戏设计。",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BC%82%E6%98%9F%E7%AA%81%E5%9B%B4/id1549205320?uo=4",
       "formattedPrice": "免费",
       "sellerName": "Thye Chean Lim",
@@ -84,21 +84,20 @@
         "EN",
         "JA",
         "ZH",
-        "ES",
         "ZH"
       ],
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/dd/97/58dd9705-04e6-7101-61c9-a755ecbb60a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/e5/2d/30e52dc7-7377-5744-f7af-e588ed9c39d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 1.99,
-  "fileSizeBytes": "28852224",
+  "price": 0,
+  "fileSizeBytes": "33901568",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "4.5",
-  "currentVersionReleaseDate": "2026-11-22T21:25:08Z",
+  "version": "4.6",
+  "currentVersionReleaseDate": "2026-11-25T19:14:31Z",
   "releaseDate": "2021-01-19T08:00:00Z",
   "artistId": 302652687,
   "artistName": "Virtual GS",
@@ -242,6 +241,26 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/d7/08/78d7081f-431a-221b-a778-91e7f8b73237/Screenshot_iPhone_Duo_25-11-2026_at_6.18.58_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/2e/8b/ef2e8b9b-3230-cf96-9cdb-03b9ebf03931/Screenshot_iPhone_Duo_25-11-2026_at_4.30.54_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f8/54/18f85494-e128-406d-63ab-42dabb553bc5/Screenshot_iPhone_Duo_25-11-2026_at_4.31.57_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/db/e6/9edbe67d-2cf9-dd90-85dc-48982db395ef/Screenshot_iPhone_Duo_25-11-2026_at_4.30.02_U202fPM.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/69/b0/ad69b048-c745-c59e-0229-98d343797486/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_6.43.15_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/4c/ef/d54cef04-2b21-6f19-9558-bdbc5b65fc4e/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.19_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/e1/7b/2fe17b8e-7f70-e0b3-a7f8-5768053c3eb3/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.54_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/9f/de/509fdebb-ea75-02c4-8edd-6cbd588c938a/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.02_U202fPM.png/2048x2732bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/5f/73/745f73de-9022-44b5-5475-894a8533bcb9/Screenshot_iPhone_17_25-11-2026_at_6.35.42_U202fPM.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/dc/4533dcb1-dd90-ad8b-00ad-09c95876f946/Screenshot_iPhone_17_25-11-2026_at_4.38.08_U202fPM.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/28/19/8d2819db-01f8-5e7c-8d79-9dc36d4aaa77/Screenshot_iPhone_17_25-11-2026_at_4.39.40_U202fPM.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/14/d0/6714d075-32df-652f-da7f-13f1a7ffae0a/Screenshot_iPhone_17_25-11-2026_at_4.37.37_U202fPM.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/5f/73/745f73de-9022-44b5-5475-894a8533bcb9/Screenshot_iPhone_17_25-11-2026_at_6.35.42_U202fPM.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/dc/4533dcb1-dd90-ad8b-00ad-09c95876f946/Screenshot_iPhone_17_25-11-2026_at_4.38.08_U202fPM.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/28/19/8d2819db-01f8-5e7c-8d79-9dc36d4aaa77/Screenshot_iPhone_17_25-11-2026_at_4.39.40_U202fPM.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/14/d0/6714d075-32df-652f-da7f-13f1a7ffae0a/Screenshot_iPhone_17_25-11-2026_at_4.37.37_U202fPM.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/69/b0/ad69b048-c745-c59e-0229-98d343797486/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_6.43.15_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/4c/ef/d54cef04-2b21-6f19-9558-bdbc5b65fc4e/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.19_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/e1/7b/2fe17b8e-7f70-e0b3-a7f8-5768053c3eb3/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.54_U202fPM.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/9f/de/509fdebb-ea75-02c4-8edd-6cbd588c938a/Screenshot_iPad_Air_13-inch__U0028M4_U0029_25-11-2026_at_4.46.02_U202fPM.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/e5/91/d5e59178-1b47-9940-b19a-fadddc83262b/duo1.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/38/df/fe38dfcd-f31e-8394-cc54-e7beed8cbead/duo2.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/a5/1e/c4a51e25-b522-5361-49c6-cf0c44f3f356/Screenshot_iPhone_Duo_08-11-2026_at_7.29.33_U202fPM.png/2853x2007bb.png",
@@ -359,6 +378,9 @@
     "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ce/ab/29ceabb7-55e7-657a-e412-7acf78954dd0/b85d0da5-2620-472a-b096-0c61f776aae1_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2021-02-18_at_16.41.25.png/552x414bb.png"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/f7/3c/c7f73cd6-3621-9edc-55c0-3cd706fd8a9f/884141b3-3b4f-41be-8879-0e70a1fd383d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.27.png/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/88/73/918873fd-f685-563f-4406-41be6845800d/watch2.PNG/396x484bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/0d/31/9a0d3157-2a7e-70a7-70eb-ac66db896ccf/f289de46-fe65-4c29-b5ef-23881cfe9943_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.57.40.png/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/8c/7a/778c7a8d-fe30-9ff6-cfee-85f62e7f3d31/884141b3-3b4f-41be-8879-0e70a1fd383d_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.55.27.png/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/38/db/c438db45-ef2e-7a58-f2bd-6cf31b8718eb/watch2.PNG/396x484bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/57/fa/5a57fa6b-374b-e3ce-e48e-8e85a5597747/f289de46-fe65-4c29-b5ef-23881cfe9943_Simulator_Screen_Shot_-_Apple_Watch_Series_7_-_45mm_-_2022-06-09_at_09.57.40.png/396x484bb.png",
@@ -532,8 +554,13 @@
       "version": "4.5",
       "releaseNotes": "Improved game play.\nImproved design.",
       "seenAt": "2026-11-22T21:25:08Z"
+    },
+    {
+      "version": "4.6",
+      "releaseNotes": "Improve game design. ",
+      "seenAt": "2026-11-25T19:14:31Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:28:36.080Z",
+  "updatedAt": "2026-11-26T17:08:15.282Z",
   "isOwnApp": false
 }

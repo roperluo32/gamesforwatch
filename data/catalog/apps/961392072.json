@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Tic Tac Toe: X and O",
       "description": "Tic Tac Toe brings the familiar X-and-O board to your Apple devices with a colorful, focused design. Start a quick round or settle in for a tougher challenge.\n\nPLAY YOUR WAY\n• Challenge the computer at Relaxed, Strategic, or No Mercy difficulty.\n• Use Pass & Play for two players on one device.\n• Find turn-based online matches through Game Center.\n• View Game Center leaderboards.\n\nPLAY ACROSS APPLE DEVICES\nEnjoy the game on iPhone and iPad, and play genuine rounds on Apple Watch.\n\nMADE TO FIT YOU\nClear controls keep X, O, turns, and scores easy to follow. Sound and haptic feedback add character on supported devices. VoiceOver, Dynamic Type, and Reduce Motion support help you play in the way that works best for you.\n\nFeatures may vary by device. Online play requires Game Center and a network connection.",
-      "releaseNotes": "Now available with localized menus and gameplay text for more players around the world. This update also includes interface and accessibility refinements across supported Apple devices.",
+      "releaseNotes": "Updated More from Xavyx to feature Privacy Guard, which brings our blur tools together in one app.",
       "trackViewUrl": "https://apps.apple.com/us/app/tic-tac-toe-x-and-o/id961392072?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Carlos Chaparro",
@@ -34,7 +34,7 @@
     "ja": {
       "trackName": "三目並べ：まるばつゲーム",
       "description": "おなじみの三目並べを、カラフルで見やすいデザインでAppleデバイスに。短い空き時間の一局から、手強い相手との勝負まで気軽に楽しめます。\n\n好きな遊び方を選択\n• 「リラックス」「戦略派」「手加減なし」の3段階でコンピュータに挑戦。\n• 1台のデバイスを交代で使って2人対戦。\n• Game Centerでターン制オンライン対戦を検索。\n• Game Centerのランキングを確認。\n\nAppleデバイスでプレイ\niPhoneやiPadはもちろん、Apple Watchでは実際の対局を楽しめます。\n\n自分に合った遊びやすさ\nX、O、手番、スコアが分かりやすいシンプルな操作画面。対応デバイスではサウンドと触覚フィードバックも楽しめます。VoiceOver、ダイナミックタイプ、「視差効果を減らす」に対応し、自分に合った方法でプレイできます。\n\n機能はデバイスによって異なる場合があります。オンライン対戦にはGame Centerとネットワーク接続が必要です。",
-      "releaseNotes": "世界中のより多くの方に楽しんでいただけるよう、メニューとゲーム内テキストを多言語化しました。対応するAppleデバイスで、画面表示とアクセシビリティも調整しています。",
+      "releaseNotes": "「XavyXのその他のアプリ」にPrivacy Guardを掲載しました。XavyXのぼかしツールを1つのアプリにまとめています。",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%89%E7%9B%AE%E4%B8%A6%E3%81%B9-%E3%81%BE%E3%82%8B%E3%81%B0%E3%81%A4%E3%82%B2%E3%83%BC%E3%83%A0/id961392072?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Carlos Chaparro",
@@ -61,7 +61,7 @@
     "de": {
       "trackName": "Tic-Tac-Toe: X und O",
       "description": "Tic-Tac-Toe bringt das vertraute Drei-gewinnt-Spiel in einem farbenfrohen, übersichtlichen Design auf deine Apple Geräte. Spiele eine schnelle Runde oder stelle dich einer größeren Herausforderung.\n\nSPIELE, WIE DU MÖCHTEST\n• Tritt in den Stufen Entspannt, Strategisch oder Gnadenlos gegen den Computer an.\n• Spielt zu zweit auf einem Gerät.\n• Finde über Game Center rundenbasierte Onlinepartien.\n• Sieh dir Game Center-Bestenlisten an.\n\nAUF DEINEN APPLE GERÄTEN\nSpiele auf iPhone und iPad, und absolviere echte Partien auf der Apple Watch.\n\nFÜR DICH GEMACHT\nDank klarer Bedienelemente behältst du X, O, Spielzüge und Punkte im Blick. Ton und haptisches Feedback sorgen auf unterstützten Geräten für mehr Spielgefühl. VoiceOver, dynamischer Text und „Bewegung reduzieren“ helfen dir, so zu spielen, wie es für dich passt.\n\nFunktionen können je nach Gerät variieren. Für Onlinespiele sind Game Center und eine Netzwerkverbindung erforderlich.",
-      "releaseNotes": "Menüs und Spieltexte sind jetzt für mehr Spieler weltweit lokalisiert. Dieses Update enthält außerdem Verbesserungen an Oberfläche und Bedienungshilfen auf unterstützten Apple Geräten.",
+      "releaseNotes": "Unter „Mehr von XavyX“ findest du jetzt Privacy Guard. Die App vereint unsere Werkzeuge zum Unkenntlichmachen.",
       "trackViewUrl": "https://apps.apple.com/de/app/tic-tac-toe-x-und-o/id961392072?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Carlos Chaparro",
@@ -86,15 +86,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/58/ca/f158ca78-a713-9bb1-8406-302eb5c56b2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/9e/30/7b9e303f-f1d0-9866-1681-b4df50a9264c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 2.5,
   "userRatingCount": 2,
   "price": 0,
-  "fileSizeBytes": "8161280",
+  "fileSizeBytes": "8120320",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.6",
-  "version": "2.1",
-  "currentVersionReleaseDate": "2026-10-13T02:33:39Z",
+  "version": "2.1.1",
+  "currentVersionReleaseDate": "2026-11-25T23:19:28Z",
   "releaseDate": "2015-04-25T12:12:20Z",
   "artistId": 779047054,
   "artistName": "Carlos Chaparro",
@@ -431,8 +431,13 @@
       "version": "2.1",
       "releaseNotes": "Now available with localized menus and gameplay text for more players around the world. This update also includes interface and accessibility refinements across supported Apple devices.",
       "seenAt": "2026-10-13T02:33:39Z"
+    },
+    {
+      "version": "2.1.1",
+      "releaseNotes": "Updated More from Xavyx to feature Privacy Guard, which brings our blur tools together in one app.",
+      "seenAt": "2026-11-25T23:19:28Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:40:16.896Z",
+  "updatedAt": "2026-11-26T17:20:29.369Z",
   "isOwnApp": false
 }

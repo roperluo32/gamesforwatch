@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/62/58/4c625870-2951-f0e8-766f-bf1bf76289a1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/31/da74314b-4a89-89d6-b9a1-c5b8359cac64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 4.34426,
   "userRatingCount": 183,
   "price": 0,
-  "fileSizeBytes": "314299392",
+  "fileSizeBytes": "305298432",
   "contentAdvisoryRating": "17+",
-  "minimumOsVersion": "15",
-  "version": "9.0.11",
-  "currentVersionReleaseDate": "2026-10-26T01:59:00Z",
+  "minimumOsVersion": "15.0",
+  "version": "9.0.12",
+  "currentVersionReleaseDate": "2026-11-26T01:41:03Z",
   "releaseDate": "2016-04-23T21:30:49Z",
   "artistId": 1102002811,
   "artistName": "Shenyang Zongyi Technology Co., Ltd",
@@ -565,8 +565,13 @@
       "version": "9.0.11",
       "releaseNotes": "Landlord Classic Edition, perfect standalone!\nPowerful AI can start anytime, supporting single player without network!\nMultiplayer battles, massive gameplay!\nCompatible with iPhone Duo, switch between horizontal and vertical screens!\nOptimize iWatch gameplay and add new watch gameplay!\nFix known issues and optimize performance!",
       "seenAt": "2026-10-26T01:59:00Z"
+    },
+    {
+      "version": "9.0.12",
+      "releaseNotes": "Landlord Classic Edition, perfect standalone!\nPowerful AI can start anytime, supporting single player without network!\nMultiplayer battles, massive gameplay!\nCompatible with iPhone Duo, switch between horizontal and vertical screens!\nOptimize iWatch gameplay and add new watch gameplay!\nFix known issues and optimize performance!",
+      "seenAt": "2026-11-26T01:41:03Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:09:56.350Z",
+  "updatedAt": "2026-11-26T16:50:18.625Z",
   "isOwnApp": false
 }

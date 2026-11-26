@@ -9,7 +9,7 @@
       "description": "Keep on Running! is an endless runner built for Apple Watch. Dash through New York City traffic across three lanes, dodge cars, and jump over cones and barriers. Three lanes. One wrist.\n\nSwipe left or right, or turn the Digital Crown, to change lanes. Tap to jump. Speed gradually increases as your score grows. Collide with a car at low speed to hop on top and ride; crashes at higher speeds end your run. Your score keeps advancing while you run or ride.\n\nLower your wrist to pause and raise it to resume. Your high score is saved locally between sessions. Optional Game Center leaderboards and achievements give you more to aim for, but the core game is playable offline.\n\nJump in for a quick run, then try to beat your best. How far can you go?",
       "releaseNotes": "Added app and App Store translations for all 50 supported App Store locales.",
       "trackViewUrl": "https://apps.apple.com/us/app/keep-on-running/id6773387028?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$0.99",
       "sellerName": "Gary Waliczek",
       "genres": [
         "Games",
@@ -60,7 +60,7 @@
       "description": "Keep on Running! ist ein Endlos-Laufspiel für die Apple Watch. Flitze auf drei Spuren durch den Verkehr von New York, weiche Autos aus und spring über Pylonen und Absperrungen. Drei Spuren. Ein Handgelenk.\n\nWische nach links oder rechts oder drehe die Digital Crown, um die Spur zu wechseln. Tippe zum Springen. Mit deinem Punktestand steigt die Geschwindigkeit allmählich. Bei einem Zusammenstoß mit einem Auto in niedrigem Tempo kannst du aufs Dach springen und mitfahren; Unfälle bei höherem Tempo beenden deinen Lauf. Deine Punkte steigen beim Laufen und Mitfahren weiter.\n\nSenke dein Handgelenk zum Pausieren und hebe es zum Fortsetzen. Dein Rekord wird lokal gespeichert und bleibt zwischen Spielsitzungen erhalten. Optionale Game Center-Bestenlisten und -Erfolge bieten weitere Ziele, aber das eigentliche Spiel lässt sich offline spielen.\n\nStarte einen kurzen Lauf und versuche dann, deinen Rekord zu schlagen. Wie weit kommst du?",
       "releaseNotes": "Übersetzungen für die App und die App Store-Seite in allen 50 unterstützten Sprach- und Regionsvarianten des App Store hinzugefügt.",
       "trackViewUrl": "https://apps.apple.com/de/app/keep-on-running/id6773387028?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "0,99 €",
       "sellerName": "Gary Waliczek",
       "genres": [
         "Spiele",
@@ -76,7 +76,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/f0/72/0af072b7-e55e-c0c0-cb5b-85cdd8a7af1a/AppIcon-0-0-1x_U007emarketing-0-16-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
-  "price": 0,
+  "price": 0.99,
   "fileSizeBytes": "4335616",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.0",
@@ -257,6 +257,6 @@
       "seenAt": "2026-11-14T14:58:50Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:25:25.346Z",
+  "updatedAt": "2026-11-26T17:06:27.186Z",
   "isOwnApp": false
 }

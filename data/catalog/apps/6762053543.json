@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/1f/bf/b81fbf6d-d85b-c5a3-c3e5-a40b56b91551/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/95/c8/7995c899-bd96-2d89-67eb-ae7f7948a87f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "65026048",
+  "fileSizeBytes": "65050624",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
-  "version": "9.1",
-  "currentVersionReleaseDate": "2026-11-23T07:58:19Z",
+  "version": "9.2",
+  "currentVersionReleaseDate": "2026-11-25T22:24:59Z",
   "releaseDate": "2026-05-01T07:00:00Z",
   "artistId": 1892686923,
   "artistName": "Lomig UNGER",
@@ -386,8 +386,13 @@
       "version": "9.1",
       "releaseNotes": "• Duel: four green dots, between the send bar and the timer, show the lines you sent. They go out when the other player takes them.\n• Ink: the worst-move screen follows the paper and the washes.",
       "seenAt": "2026-11-23T07:58:19Z"
+    },
+    {
+      "version": "9.2",
+      "releaseNotes": "• Duel: four green dots, between the send bar and the timer, show the lines you sent. They go out when the other player takes them.\n• Ink: the worst-move screen follows the paper and the washes.",
+      "seenAt": "2026-11-25T22:24:59Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:44:50.045Z",
+  "updatedAt": "2026-11-26T17:26:06.652Z",
   "isOwnApp": false
 }
