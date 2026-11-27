@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Dogfight Watch Arcade",
       "description": "Dogfight turns your Apple Watch into a compact aerial duel.\n\nTilt your wrist to steer the blue fighter, tap to fire, and outmaneuver a persistent computer-controlled rival. Clouds block visibility, aircraft collide, and every round is tuned for the small Apple Watch display.\n\nFeatures:\n\n- Native watch-only arcade gameplay\n- Motion steering on Apple Watch\n- Tap-to-fire controls and quick restarts\n- Enemy AI with patrol, aiming, avoidance, and cloud occlusion\n- Local round history and best score\n- Optional Apple Game Center leaderboard\n- English, German, and Hebrew interface and on-watch guide\n- No ads, analytics, tracking, or in-app purchases\n\nGame Center is optional. Dogfight remains fully playable without signing in.",
-      "releaseNotes": "Tilt steering now waits for a steady wrist before calibrating. The winning plane stays visible after the final hit. In-game text follows your preferred text size, and the leaderboard button is easier to tap. This update also improves local score history and retries Game Center score uploads after a connection error.",
+      "releaseNotes": "A new 15-second guide shows how to steer and fire on your first launch. Tap to skip it, or replay it from How to Play. The rival pilot now spots you a little sooner, leads its shots when you fly across its path, and fires more often early in a round.",
       "trackViewUrl": "https://apps.apple.com/us/app/dogfight-watch-arcade/id6802582423?uo=4",
       "formattedPrice": "Free",
       "sellerName": "gekko Gesellschaft fuer Kommunikation und Kooperation mit beschraenkter Haftung",
@@ -24,7 +24,7 @@
     "zh": {
       "trackName": "Dogfight Watch Arcade",
       "description": "Dogfight turns your Apple Watch into a compact aerial duel.\n\nTilt your wrist to steer the blue fighter, tap to fire, and outmaneuver a persistent computer-controlled rival. Clouds block visibility, aircraft collide, and every round is tuned for the small Apple Watch display.\n\nFeatures:\n\n- Native watch-only arcade gameplay\n- Motion steering on Apple Watch\n- Tap-to-fire controls and quick restarts\n- Enemy AI with patrol, aiming, avoidance, and cloud occlusion\n- Local round history and best score\n- Optional Apple Game Center leaderboard\n- English, German, and Hebrew interface and on-watch guide\n- No ads, analytics, tracking, or in-app purchases\n\nGame Center is optional. Dogfight remains fully playable without signing in.",
-      "releaseNotes": "Tilt steering now waits for a steady wrist before calibrating. The winning plane stays visible after the final hit. In-game text follows your preferred text size, and the leaderboard button is easier to tap. This update also improves local score history and retries Game Center score uploads after a connection error.",
+      "releaseNotes": "A new 15-second guide shows how to steer and fire on your first launch. Tap to skip it, or replay it from How to Play. The rival pilot now spots you a little sooner, leads its shots when you fly across its path, and fires more often early in a round.",
       "trackViewUrl": "https://apps.apple.com/cn/app/dogfight-watch-arcade/id6802582423?uo=4",
       "formattedPrice": "免费",
       "sellerName": "gekko Gesellschaft fuer Kommunikation und Kooperation mit beschraenkter Haftung",
@@ -41,7 +41,7 @@
     "ja": {
       "trackName": "Dogfight Watch Arcade",
       "description": "Dogfight turns your Apple Watch into a compact aerial duel.\n\nTilt your wrist to steer the blue fighter, tap to fire, and outmaneuver a persistent computer-controlled rival. Clouds block visibility, aircraft collide, and every round is tuned for the small Apple Watch display.\n\nFeatures:\n\n- Native watch-only arcade gameplay\n- Motion steering on Apple Watch\n- Tap-to-fire controls and quick restarts\n- Enemy AI with patrol, aiming, avoidance, and cloud occlusion\n- Local round history and best score\n- Optional Apple Game Center leaderboard\n- English, German, and Hebrew interface and on-watch guide\n- No ads, analytics, tracking, or in-app purchases\n\nGame Center is optional. Dogfight remains fully playable without signing in.",
-      "releaseNotes": "Tilt steering now waits for a steady wrist before calibrating. The winning plane stays visible after the final hit. In-game text follows your preferred text size, and the leaderboard button is easier to tap. This update also improves local score history and retries Game Center score uploads after a connection error.",
+      "releaseNotes": "A new 15-second guide shows how to steer and fire on your first launch. Tap to skip it, or replay it from How to Play. The rival pilot now spots you a little sooner, leads its shots when you fly across its path, and fires more often early in a round.",
       "trackViewUrl": "https://apps.apple.com/jp/app/dogfight-watch-arcade/id6802582423?uo=4",
       "formattedPrice": "無料",
       "sellerName": "gekko Gesellschaft fuer Kommunikation und Kooperation mit beschraenkter Haftung",
@@ -58,7 +58,7 @@
     "de": {
       "trackName": "Dogfight Watch Arcade",
       "description": "Dogfight verwandelt deine Apple Watch in ein kompaktes Luftduell.\n\nNeige dein Handgelenk, um den blauen Fighter zu steuern, tippe zum Feuern und fliege einen hartnäckigen computergesteuerten Gegner aus. Wolken versperren die Sicht, Flugzeuge kollidieren und jede Runde ist auf das kleine Display der Apple Watch abgestimmt.\n\nFunktionen:\n\n- Natives Arcade-Spiel nur für die Apple Watch\n- Bewegungssteuerung auf der Apple Watch\n- Tippen zum Feuern und schneller Neustart\n- Gegner-KI mit Patrouille, Zielen, Ausweichen und Wolkendeckung\n- Lokaler Rundenverlauf und Bestwert\n- Optionale Apple-Game-Center-Bestenliste\n- Oberfläche und Kurzanleitung auf Deutsch, Englisch und Hebräisch\n- Keine Werbung, Analyse, Verfolgung oder In-App-Käufe\n\nGame Center ist optional. Dogfight bleibt auch ohne Anmeldung vollständig spielbar.",
-      "releaseNotes": "Die Neigungssteuerung wartet bei der Kalibrierung, bis du dein Handgelenk ruhig hältst. Nach dem letzten Treffer bleibt das siegreiche Flugzeug sichtbar. Texte im Spiel folgen deiner eingestellten Schriftgröße, und die Bestenliste lässt sich leichter antippen. Außerdem schützt das Update den lokalen Spielverlauf und wiederholt bei einem Verbindungsfehler die Übertragung des Punktestands an Game Center.",
+      "releaseNotes": "Eine neue 15-sekündige Anleitung zeigt dir beim ersten Start, wie du steuerst und feuerst. Tippe zum Überspringen oder öffne sie später über „Spielanleitung“. Der gegnerische Pilot entdeckt dich etwas früher, hält bei Querflügen leicht vor und schießt zu Rundenbeginn häufiger.",
       "trackViewUrl": "https://apps.apple.com/de/app/dogfight-watch-arcade/id6802582423?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "gekko Gesellschaft fuer Kommunikation und Kooperation mit beschraenkter Haftung",
@@ -73,15 +73,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/7a/ab/087aabec-f009-ce7f-3511-5c88f4e13d84/Dogfight-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/7a/96/727a9680-3c7d-c546-87af-d604db8c0a0a/Dogfight-0-0-1x_U007ewatch-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "2318336",
+  "fileSizeBytes": "2551808",
   "contentAdvisoryRating": "9+",
   "minimumOsVersion": "26.5",
-  "version": "1.7",
-  "currentVersionReleaseDate": "2026-11-21T20:38:40Z",
+  "version": "1.8",
+  "currentVersionReleaseDate": "2026-11-26T17:58:29Z",
   "releaseDate": "2026-11-11T08:00:00Z",
   "artistId": 6800642218,
   "artistName": "gekko Gesellschaft fuer Kommunikation und Kooperation mit beschraenkter Haftung",
@@ -245,8 +245,13 @@
       "version": "1.7",
       "releaseNotes": "Tilt steering now waits for a steady wrist before calibrating. The winning plane stays visible after the final hit. In-game text follows your preferred text size, and the leaderboard button is easier to tap. This update also improves local score history and retries Game Center score uploads after a connection error.",
       "seenAt": "2026-11-21T20:38:40Z"
+    },
+    {
+      "version": "1.8",
+      "releaseNotes": "A new 15-second guide shows how to steer and fire on your first launch. Tap to skip it, or replay it from How to Play. The rival pilot now spots you a little sooner, leads its shots when you fly across its path, and fires more often early in a round.",
+      "seenAt": "2026-11-26T17:58:29Z"
     }
   ],
-  "updatedAt": "2026-11-26T17:26:31.996Z",
+  "updatedAt": "2026-11-27T17:12:16.642Z",
   "isOwnApp": false
 }

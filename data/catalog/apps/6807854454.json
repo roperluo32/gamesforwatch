@@ -35,15 +35,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/7f/1b/0f7f1b21-4d2e-9aa5-ec1d-f3a5ee8083b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b4/e0/8fb4e0f8-a508-f840-4c37-5048e2366f5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
   "fileSizeBytes": "16180224",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "16.0",
-  "version": "1.4",
-  "currentVersionReleaseDate": "2026-11-24T18:36:16Z",
+  "version": "1.5",
+  "currentVersionReleaseDate": "2026-11-26T17:45:04Z",
   "releaseDate": "2026-11-19T08:00:00Z",
   "artistId": 6807404786,
   "artistName": "Ningyue",
@@ -187,6 +187,28 @@
   ],
   "hasWatch": true,
   "phoneScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/57/3a/08573acd-cfb1-f7fa-3b4d-8f944f726718/01-1398x2034.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0c/c8/c90cc8ff-bb88-7aeb-4e9f-6976541a2cf3/02-1398x2034.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/77/a0/8677a047-482e-100d-842a-a235efd35395/03-1398x2034.png/1398x2034bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/b0/f1/b0b0f175-3458-c7f6-ea29-83d1d30e4a17/01-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/0f/f5/ce0ff522-c660-ef88-7996-592f510927b9/02-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/2a/e1/842ae1de-3bd1-691c-9b0c-07bd64cf83b4/03-2064x2752.png/2064x2752bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b5/c5/0cb5c506-8345-06b4-e8e3-5e1cb9fb2855/WatchGames-3Games-Animated-1206x2622.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/df/8b/d0df8b8c-3613-8822-dd30-1b81b62d8e09/01-1206x2622.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/dd/36/55dd36c3-2707-fc0a-3346-ab81c5ab52bc/02-1206x2622.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/ea/92/d1ea9282-2c82-93e7-ffa9-371ba68120cf/03-1206x2622.png/1206x2622bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ae/83/09ae83fb-9c96-2568-f452-480f0dec6871/01-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/52/86/7c5286e7-c1e0-d65d-6f2c-5f70c7ab8b57/02-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/28/c9/0d28c96f-53c5-7516-b7b2-877bc226a6c6/03-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/b5/ad/15b5ad68-fb30-08f0-a829-9db7aeac1137/01-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/12/cb/8712cbfa-2ec7-8c56-e8f5-3e862c29653c/02-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/f2/48/5bf24806-21e7-4dd4-36ba-f63f5f115119/03-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/df/8b/d0df8b8c-3613-8822-dd30-1b81b62d8e09/01-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/dd/36/55dd36c3-2707-fc0a-3346-ab81c5ab52bc/02-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/ea/92/d1ea9282-2c82-93e7-ffa9-371ba68120cf/03-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/b0/f1/b0b0f175-3458-c7f6-ea29-83d1d30e4a17/01-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/0f/f5/ce0ff522-c660-ef88-7996-592f510927b9/02-2064x2752.png/360x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/2a/e1/842ae1de-3bd1-691c-9b0c-07bd64cf83b4/03-2064x2752.png/360x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/b4/e0/11b4e05a-3c27-8f74-0e0e-08b575f1ef0b/01-1398x2034.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/78/dd/7f78ddd5-90f7-57df-5aa3-f50c80f9883b/02-1398x2034.png/1398x2034bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/d4/6d/e5d46d47-9c67-d9f4-6421-82d9524fba1f/03-1398x2034.png/1398x2034bb.png",
@@ -237,6 +259,11 @@
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/6d/15/1e6d15d6-19d6-ab4a-ad0f-7d4bdfc3cee2/03.png/360x480bb.jpg"
   ],
   "watchScreenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c3/63/b5c363a7-7b24-e77b-0897-750cbdbae891/01-422x514.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/3a/a9/463aa9c5-633c-0b3f-e10f-323af923d468/02-422x514.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/92/f3/a292f3b3-0fab-6370-33de-d6e99cd707f1/03-422x514.png/422x514bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8b/b3/348bb38e-32da-c302-4ba0-fbd815d4d303/WatchGames-3Games-Animated-1206x2622.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b5/c5/0cb5c506-8345-06b4-e8e3-5e1cb9fb2855/WatchGames-3Games-Animated-1206x2622.png/320x480bb.jpg",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/ee/c0/5ceec005-5a31-63b1-935f-4c4cffe76a8e/01-422x514.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/09/ac/cb09ac0d-a09a-f03a-2658-c5736a70f4f6/02-422x514.png/422x514bb.png",
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/80/d3/6d80d3ab-c0e8-174b-7531-2d6bbe1c9e3d/03-422x514.png/422x514bb.png",
@@ -269,8 +296,13 @@
       "version": "1.4",
       "releaseNotes": "Cat Basketball brings new challenges to your wrist!\n- Explore 32 levels with 1–6 obstacles each and varied layouts.\n- Take on progressively narrower hoops that reward precise charge control.\n- Enjoy expressive cat animations: effort while charging, a blink after each shot, a happy tail wag when you score, and disappointment after a miss.\n- Watch the rim react to impacts and the net stretch and bounce as the ball drops through.\nHold to charge and release to shoot. Five shots per level—one basket clears it!",
       "seenAt": "2026-11-24T18:36:16Z"
+    },
+    {
+      "version": "1.5",
+      "releaseNotes": "Cat Basketball brings new challenges to your wrist!\n- Explore 32 levels with 1–6 obstacles each and varied layouts.\n- Take on progressively narrower hoops that reward precise charge control.\n- Enjoy expressive cat animations: effort while charging, a blink after each shot, a happy tail wag when you score, and disappointment after a miss.\n- Watch the rim react to impacts and the net stretch and bounce as the ball drops through.\nHold to charge and release to shoot. Five shots per level—one basket clears it!",
+      "seenAt": "2026-11-26T17:45:04Z"
     }
   ],
-  "updatedAt": "2026-11-26T16:58:20.129Z",
+  "updatedAt": "2026-11-27T16:43:53.034Z",
   "isOwnApp": false
 }

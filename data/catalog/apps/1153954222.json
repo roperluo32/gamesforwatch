@@ -9,7 +9,7 @@
       "description": "What happens when Space Invaders meets Galaxian? Experience classic arcade space shooting, reimagined for modern Apple devices!\nBlast through waves of alien enemies, dodge attacks, and collect powerful bonuses to survive the battle.\n\nFeatures:\n• Classic arcade shooting action\n• Beautiful 3D space backgrounds\n• Modern and retro visual styles\n• Multiple power-ups\n• Two difficulty levels\n• Supports iPhone (including Duo), iPad, and Apple Watch\n\nGet ready to blast through the galaxy!",
       "releaseNotes": "Optimized for iPhone Duo.\nNew game play and 3D design!",
       "trackViewUrl": "https://apps.apple.com/us/app/galaxia-arcade-game/id1153954222?uo=4",
-      "formattedPrice": "Free",
+      "formattedPrice": "$1.99",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Games",
@@ -30,7 +30,7 @@
       "description": "『スペースインベーダー』と『ギャラクシアン』が融合したらどうなるか？現代のAppleデバイス向けに再構築された、往年のアーケード・スペースシューティングを体験しよう！\n次々と押し寄せるエイリアンの大群を撃破し、攻撃を回避し、強力なボーナスを集めて戦いを生き残れ。\n\n特徴：\n• 往年のアーケード・シューティング・アクション\n• 美しい3Dの宇宙背景\n• モダンとレトロを融合させたビジュアルスタイル\n• 多彩なパワーアップ要素\n• 2段階の難易度設定\n• iPhone（iPhone Duoを含む）、iPad、Apple Watchに対応\n\nさあ、銀河を駆け抜け、敵を撃ちまくれ！",
       "releaseNotes": "iPhone Duo向けにアップデート。\nゲームプレイとデザインが一新されました！",
       "trackViewUrl": "https://apps.apple.com/jp/app/galaxia-%E9%8A%80%E6%B2%B3/id1153954222?uo=4",
-      "formattedPrice": "無料",
+      "formattedPrice": "¥300",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "ゲーム",
@@ -51,7 +51,7 @@
       "description": "What happens when Space Invaders meets Galaxian? Experience classic arcade space shooting, reimagined for modern Apple devices!\nBlast through waves of alien enemies, dodge attacks, and collect powerful bonuses to survive the battle.\n\nFeatures:\n• Classic arcade shooting action\n• Beautiful 3D space backgrounds\n• Modern and retro visual styles\n• Multiple power-ups\n• Two difficulty levels\n• Supports iPhone (including Duo), iPad, and Apple Watch\n\nGet ready to blast through the galaxy!",
       "releaseNotes": "Optimized for iPhone Duo.\nNew game play and 3D design!",
       "trackViewUrl": "https://apps.apple.com/de/app/galaxia-arcade-game/id1153954222?uo=4",
-      "formattedPrice": "Gratis",
+      "formattedPrice": "1,99 €",
       "sellerName": "Thye Chean Lim",
       "genres": [
         "Spiele",
@@ -92,7 +92,7 @@
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/4e/b5/424eb548-09f0-1fba-8c30-1dbcb180faa7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
   "averageUserRating": 2.8,
   "userRatingCount": 10,
-  "price": 0,
+  "price": 1.99,
   "fileSizeBytes": "22449152",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "18.0",
@@ -542,6 +542,6 @@
       "seenAt": "2026-11-25T02:39:22Z"
     }
   ],
-  "updatedAt": "2026-11-26T17:25:22.489Z",
+  "updatedAt": "2026-11-27T17:11:16.995Z",
   "isOwnApp": false
 }

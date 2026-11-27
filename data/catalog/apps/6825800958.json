@@ -7,7 +7,7 @@
     "en": {
       "trackName": "Offline Puzzle Games · Voltik",
       "description": "Voltik is a calm offline puzzle game and brain teaser about electricity. Every level is a scrambled circuit: a battery, a few lamps and a board full of wires. Tap a tile, swipe to turn it, and route the current until every lamp lights up with no loose ends. One rule, exactly one solution, and a glow that makes each solve feel good.\n\nHOW IT PLAYS\n• Tap a tile to select it, swipe to rotate it a quarter turn.\n• Live wires glow and carry current, so you always see how far the power reaches.\n• Every level has a move limit and a best possible number of moves: hit it for three stars.\n• Stuck? A hint shows the right position of one tile. Undo and restart are always there.\n\n160 HAND-TUNED LEVELS\nEight chapters from 3×3 starters to full-screen 9×7 circuits. New elements arrive one at a time: bolted wires that cannot turn, bridges that cross two currents, two colors of power that must never meet, fuses that burn out if you turn them too often, and gears that rotate together.\n\nA NEW PUZZLE EVERY DAY\nThe daily puzzle is the same for everyone. Solve it day after day to build a streak.\n\nALSO ON APPLE WATCH\nVoltik runs on Apple Watch too, with 101 levels made for the small screen and the Digital Crown. Progress syncs through iCloud, and one purchase unlocks everything on both devices.\n\nNO NONSENSE\nChapter one and the daily puzzle are free. Full Game is a single one-time purchase: no subscription, no ads, no account, no tracking. Works offline, no Wi-Fi needed. Family Sharing supported.",
-      "releaseNotes": "Bug fixes and performance improvements.",
+      "releaseNotes": "Easier controls:\n• Rotate buttons now appear next to the selected tile, so you can turn it either way with one tap.\n• New setting: reverse swipe direction.\n• A clearer tutorial on iPhone and Apple Watch: turn wires the shorter way to stay within the move limit.\n\nEnjoying the circuits? A quick rating helps other puzzle fans find the game.",
       "trackViewUrl": "https://apps.apple.com/us/app/offline-puzzle-games-voltik/id6825800958?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Vasilii Bespalov",
@@ -89,15 +89,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/95/9e/d2959ebe-8b0a-f0e9-e2c4-1f4cdc90a49b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/4e/29/ed4e29c2-7d3f-8189-9c6e-8667a56eca1d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "20296704",
+  "fileSizeBytes": "20317184",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "26.0",
-  "version": "1.0.3",
-  "currentVersionReleaseDate": "2026-11-23T12:16:22Z",
+  "version": "1.0.4",
+  "currentVersionReleaseDate": "2026-11-27T08:26:35Z",
   "releaseDate": "2026-11-06T08:00:00Z",
   "artistId": 6823678179,
   "artistName": "Vasilii Bespalov",
@@ -303,8 +303,13 @@
       "version": "1.0.3",
       "releaseNotes": "Bug fixes and performance improvements.",
       "seenAt": "2026-11-23T12:16:22Z"
+    },
+    {
+      "version": "1.0.4",
+      "releaseNotes": "Easier controls:\n• Rotate buttons now appear next to the selected tile, so you can turn it either way with one tap.\n• New setting: reverse swipe direction.\n• A clearer tutorial on iPhone and Apple Watch: turn wires the shorter way to stay within the move limit.\n\nEnjoying the circuits? A quick rating helps other puzzle fans find the game.",
+      "seenAt": "2026-11-27T08:26:35Z"
     }
   ],
-  "updatedAt": "2026-11-26T16:51:19.092Z",
+  "updatedAt": "2026-11-27T16:36:25.738Z",
   "isOwnApp": false
 }

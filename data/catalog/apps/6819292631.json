@@ -77,15 +77,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/18/bc/8a18bcf4-65b5-25f5-b764-e70299241e9b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/b2/37/18b2374e-e222-a754-34d9-a87ba80b1f66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "61087744",
+  "fileSizeBytes": "86409216",
   "contentAdvisoryRating": "4+",
   "minimumOsVersion": "15.6",
-  "version": "1.3.1",
-  "currentVersionReleaseDate": "2026-11-20T17:53:49Z",
+  "version": "1.4.0",
+  "currentVersionReleaseDate": "2026-11-26T19:12:54Z",
   "releaseDate": "2026-10-08T07:00:00Z",
   "artistId": 1544402650,
   "artistName": "Diem Le",
@@ -369,8 +369,13 @@
       "version": "1.3.1",
       "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added Daily Challenges with a new challenge every day.",
       "seenAt": "2026-11-20T17:53:49Z"
+    },
+    {
+      "version": "1.4.0",
+      "releaseNotes": "- Added new levels.\n- Enhanced visual effects.\n- Added Daily Challenges with a new challenge every day.",
+      "seenAt": "2026-11-26T19:12:54Z"
     }
   ],
-  "updatedAt": "2026-11-26T17:15:25.865Z",
+  "updatedAt": "2026-11-27T16:53:25.265Z",
   "isOwnApp": false
 }

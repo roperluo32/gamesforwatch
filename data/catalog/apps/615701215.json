@@ -7,7 +7,7 @@
     "en": {
       "trackName": "O & X: Noughts and Crosses",
       "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
-      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "releaseNotes": "• Phase 1 of iPhone Duo support! Including full-screen support for both inner and outer screens, with updated screen layouts throughout the app.\n• Added a social link to our Instagram account.\n• Updated the presentation of the next player label.\n• Improved support for iOS 27.\n• Updated frameworks for better compatibility with iPhone Duo.\n• Updated the style change prompt label.\n• Replaced some deprecated ad positioning code.\n• Improved the menu layout utilising the extra space for users who have removed adverts.\n• Changed the tokens count label to white for better contrast & readability.\n• Improved consistency of game links on menu screen.\n• Improved menu button layout.\n• Improved the performance of the settings screen.\n• Improved Stats & Settings screen spacing to always match the screen size in use.\n• Fixed the Stats & Settings screen header on iOS 18 and older.\n• Improved the sizing of the currently animating player piece to improve the look of the animation.\n• Updated Settings Change Piece Colour prompt and style.\n\n* Removed support for iOS 13 & 14, as well as watchOS 7 & 8, for better stability going forward.",
       "trackViewUrl": "https://apps.apple.com/us/app/o-x-noughts-and-crosses/id615701215?uo=4",
       "formattedPrice": "Free",
       "sellerName": "Nicholas Dean",
@@ -25,7 +25,7 @@
     "ja": {
       "trackName": "O & X: Noughts and Crosses",
       "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
-      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "releaseNotes": "• Phase 1 of iPhone Duo support! Including full-screen support for both inner and outer screens, with updated screen layouts throughout the app.\n• Added a social link to our Instagram account.\n• Updated the presentation of the next player label.\n• Improved support for iOS 27.\n• Updated frameworks for better compatibility with iPhone Duo.\n• Updated the style change prompt label.\n• Replaced some deprecated ad positioning code.\n• Improved the menu layout utilising the extra space for users who have removed adverts.\n• Changed the tokens count label to white for better contrast & readability.\n• Improved consistency of game links on menu screen.\n• Improved menu button layout.\n• Improved the performance of the settings screen.\n• Improved Stats & Settings screen spacing to always match the screen size in use.\n• Fixed the Stats & Settings screen header on iOS 18 and older.\n• Improved the sizing of the currently animating player piece to improve the look of the animation.\n• Updated Settings Change Piece Colour prompt and style.\n\n* Removed support for iOS 13 & 14, as well as watchOS 7 & 8, for better stability going forward.",
       "trackViewUrl": "https://apps.apple.com/jp/app/o-x-noughts-and-crosses/id615701215?uo=4",
       "formattedPrice": "無料",
       "sellerName": "Nicholas Dean",
@@ -43,7 +43,7 @@
     "de": {
       "trackName": "O & X: Noughts and Crosses",
       "description": "Play the classic game of O & X.\n\n- Unlockable Apple Watch support.\n\n- Play against your friends either online or locally on the same screen.\n\n- Challenge one of the many computer players to see how good you really are.\n\n- Unlock a multitude of different pieces to show off your skill to your opponents. \n\n- Compare your abilities with friends through Game Center leaderboards and achievements.\n\n- Universal app that is designed for all iPads and iPhones.\n\nThis app will constantly be updated and improved. If you have any feedback or suggestions on what you would like to see, please contact us at: Nick@FluffyLogicGames.com",
-      "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
+      "releaseNotes": "• Phase 1 of iPhone Duo support! Including full-screen support for both inner and outer screens, with updated screen layouts throughout the app.\n• Added a social link to our Instagram account.\n• Updated the presentation of the next player label.\n• Improved support for iOS 27.\n• Updated frameworks for better compatibility with iPhone Duo.\n• Updated the style change prompt label.\n• Replaced some deprecated ad positioning code.\n• Improved the menu layout utilising the extra space for users who have removed adverts.\n• Changed the tokens count label to white for better contrast & readability.\n• Improved consistency of game links on menu screen.\n• Improved menu button layout.\n• Improved the performance of the settings screen.\n• Improved Stats & Settings screen spacing to always match the screen size in use.\n• Fixed the Stats & Settings screen header on iOS 18 and older.\n• Improved the sizing of the currently animating player piece to improve the look of the animation.\n• Updated Settings Change Piece Colour prompt and style.\n\n* Removed support for iOS 13 & 14, as well as watchOS 7 & 8, for better stability going forward.",
       "trackViewUrl": "https://apps.apple.com/de/app/o-x-noughts-and-crosses/id615701215?uo=4",
       "formattedPrice": "Gratis",
       "sellerName": "Nicholas Dean",
@@ -59,15 +59,15 @@
       "subtitle": ""
     }
   },
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/a9/29/59a9291b-7e07-a834-cd01-bcc2161e6acc/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/e9/bd/50e9bd9d-44ba-feaa-df07-3746d0cd6f8f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
   "averageUserRating": 0,
   "userRatingCount": 0,
   "price": 0,
-  "fileSizeBytes": "19735552",
+  "fileSizeBytes": "18552832",
   "contentAdvisoryRating": "4+",
-  "minimumOsVersion": "13.0",
-  "version": "8.1",
-  "currentVersionReleaseDate": "2026-06-02T08:04:59Z",
+  "minimumOsVersion": "15.0",
+  "version": "8.2",
+  "currentVersionReleaseDate": "2026-11-27T02:07:13Z",
   "releaseDate": "2013-03-22T21:45:46Z",
   "artistId": 611762890,
   "artistName": "Nicholas Dean",
@@ -373,8 +373,13 @@
       "version": "8.1",
       "releaseNotes": "• Added next player imagery using Game Center profile photos and computer opponent images.\n• Updated banners to be adaptive.\n• Improved app lifecycle for better future proofing.\n• Updated Admob.\n• Updated Xcode project version for improved compatibility.\n• Improved future compatibility for newer devices.\n• Enlarged the next player text label.",
       "seenAt": "2026-06-02T08:04:59Z"
+    },
+    {
+      "version": "8.2",
+      "releaseNotes": "• Phase 1 of iPhone Duo support! Including full-screen support for both inner and outer screens, with updated screen layouts throughout the app.\n• Added a social link to our Instagram account.\n• Updated the presentation of the next player label.\n• Improved support for iOS 27.\n• Updated frameworks for better compatibility with iPhone Duo.\n• Updated the style change prompt label.\n• Replaced some deprecated ad positioning code.\n• Improved the menu layout utilising the extra space for users who have removed adverts.\n• Changed the tokens count label to white for better contrast & readability.\n• Improved consistency of game links on menu screen.\n• Improved menu button layout.\n• Improved the performance of the settings screen.\n• Improved Stats & Settings screen spacing to always match the screen size in use.\n• Fixed the Stats & Settings screen header on iOS 18 and older.\n• Improved the sizing of the currently animating player piece to improve the look of the animation.\n• Updated Settings Change Piece Colour prompt and style.\n\n* Removed support for iOS 13 & 14, as well as watchOS 7 & 8, for better stability going forward.",
+      "seenAt": "2026-11-27T02:07:13Z"
     }
   ],
-  "updatedAt": "2026-11-26T17:39:18.437Z",
+  "updatedAt": "2026-11-27T17:24:32.270Z",
   "isOwnApp": false
 }
